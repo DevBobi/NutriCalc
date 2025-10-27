@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a pizzeria slice of pizza",
+  "title": "How Many Calories in a Pizzeria Slice of Pizza?",
+  "meta_description": "Discover how many calories in a pizzeria slice of pizza, including carbs, protein, fat, sodium, and variations for different toppings or crusts.",
+  "slug": "how-many-calories-in-a-pizzeria-slice-of-pizza",
+  "h1": "How Many Calories in a Pizzeria Slice of Pizza?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "pizzeria pizza"
+  },
+  "assumptions": "Standard 14-inch cheese pizza, one slice (1/8th of whole), hand-tossed crust, mozzarella cheese, tomato sauce; no extra toppings.",
+  "disclaimer": "Nutrition varies by pizzeria, size, crust thickness, cheese amount, and toppings. Check menus or apps for specific values.",
+  "quick_answer": {
+    "total_kcal": 285,
+    "text": "A typical pizzeria slice of cheese pizza contains about 285 calories and 12 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 285,
+      "carbs_g": 36,
+      "fiber_g": 2,
+      "sugars_g": 4,
+      "protein_g": 12,
+      "fat_g": 10,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 640
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 285,
+    "carbs_g": 36,
+    "fiber_g": 2,
+    "sugars_g": 4,
+    "protein_g": 12,
+    "fat_g": 10,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 640
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.19
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni (2-3 slices per slice)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 335
+    },
+    {
+      "label": "Thin crust instead of hand-tossed",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 245
+    },
+    {
+      "label": "Extra cheese (1 oz more per slice)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 365
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a plain cheese pizza slice from a pizzeria?",
+      "a": "About 285 kcal for a standard 14-inch slice."
+    },
+    {
+      "q": "What are the carbs in a pizzeria slice of pizza?",
+      "a": "Typically 36 g carbs, including 2 g fiber and 4 g sugars."
+    },
+    {
+      "q": "Is sodium high in pizzeria pizza slices?",
+      "a": "Yes, around 640 mg per slice due to cheese and sauce."
+    },
+    {
+      "q": "How does crust type affect calories in a pizza slice?",
+      "a": "Thin crust reduces calories by ~40 kcal; thick or stuffed adds 50+ kcal."
+    },
+    {
+      "q": "What toppings increase calories most in a pizzeria slice?",
+      "a": "Extra cheese (+80 kcal), pepperoni (+50 kcal), or sausage (+70 kcal) per slice."
+    }
+  ]
+}

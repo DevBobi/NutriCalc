@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a large fry at mcdonalds",
+  "title": "Calories in a Large Fry at McDonald's",
+  "meta_description": "Discover calories in a large fry at McDonald's—about 510 kcal—plus full nutrition breakdown, macros, and quick tweaks for your meal.",
+  "slug": "calories-in-a-large-fry-at-mcdonalds",
+  "h1": "Calories in a Large Fry at McDonald's",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "large fry",
+    "item": "McDonald's french fries"
+  },
+  "assumptions": "McDonald's standard large french fries (154 g serving), fried in vegetable oil blend, no customizations or dips.",
+  "disclaimer": "Nutrition varies by location, preparation, and portion size; values based on official McDonald's data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 510,
+    "text": "A large McDonald's fry contains about 510 calories, with 66 g carbs and 24 g fat."
+  },
+  "basis": {
+    "label": "per 1 large fry",
+    "amount": 1,
+    "unit": "large fry",
+    "nutrition": {
+      "calories_kcal": 510,
+      "carbs_g": 66,
+      "fiber_g": 6,
+      "sugars_g": 0,
+      "protein_g": 7,
+      "fat_g": 24,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 350
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 510,
+    "carbs_g": 66,
+    "fiber_g": 6,
+    "sugars_g": 0,
+    "protein_g": 7,
+    "fat_g": 24,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 350
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.13
+  },
+  "tweaks": [
+    {
+      "label": "Switch to medium fry (117 g)",
+      "delta_kcal_per_unit": -170,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Add 1 packet ketchup (17 g)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Apple slices instead (for lower cal side)",
+      "delta_kcal_per_unit": -480,
+      "new_total_kcal": 30
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a large McDonald's fry?",
+      "a": "Approximately 510 calories per serving."
+    },
+    {
+      "q": "What are the carbs in a large fry at McDonald's?",
+      "a": "About 66 g total carbs, including 6 g fiber and 0 g sugars."
+    },
+    {
+      "q": "Is there protein in McDonald's large fries?",
+      "a": "Yes, around 7 g protein per large fry."
+    },
+    {
+      "q": "How much sodium in a large McDonald's fry?",
+      "a": "Roughly 350 mg of sodium."
+    },
+    {
+      "q": "Do McDonald's fries have trans fat?",
+      "a": "No trans fat (0 g) in a large fry, per official data."
+    }
+  ]
+}

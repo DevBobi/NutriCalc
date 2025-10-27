@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a vape",
+  "title": "How Many Calories Are in a Vape?",
+  "meta_description": "Discover how many calories are in a vape—spoiler: zero, since it's not food. Get details on nutrition facts, myths, and related FAQs for clarity.",
+  "slug": "how-many-calories-are-in-a-vape",
+  "h1": "How Many Calories Are in a Vape?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "vape",
+    "item": "vape"
+  },
+  "assumptions": "Vape refers to a standard electronic cigarette or vaping device; not edible or consumable as food. No nutritional content.",
+  "disclaimer": "Vapes are not food items and contain no calories or nutrients. Values are zero; consult health experts for vaping risks, not nutrition.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "A vape has 0 calories because it's an electronic device, not a food or drink."
+  },
+  "basis": {
+    "label": "per 1 vape",
+    "amount": 1,
+    "unit": "vape",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "All values are zero as vapes provide no nutritional content and mimic empty Nutrition Facts labels.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Disposable vape vs. reusable",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Flavored e-liquid cartridge added",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Vape with nicotine vs. zero-nicotine",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "Do vapes have any calories?",
+      "a": "No, vapes have 0 calories as they are not ingested for nutrition."
+    },
+    {
+      "q": "Can vaping affect calorie intake?",
+      "a": "Vaping itself adds no calories, but flavored e-liquids might contain trace sweeteners—still negligible and not recommended for consumption."
+    },
+    {
+      "q": "What about calories in e-liquid?",
+      "a": "E-liquids are not food; any sweeteners add minimal calories, but inhaling isn't safe or caloric like eating."
+    },
+    {
+      "q": "Why search for calories in a vape?",
+      "a": "Common misconception; vapes are devices, not edibles. Focus on health risks over nutrition myths."
+    },
+    {
+      "q": "Are there healthier alternatives to vaping for calories?",
+      "a": "Vaping isn't about calories—consider quitting for health. For low-cal options, look to fruits or veggies, not devices."
+    }
+  ]
+}

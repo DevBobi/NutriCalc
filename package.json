@@ -3,15 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 5000",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "generate:all": "node scripts/generate-all-keywords.js",
+    "generate:test": "node scripts/generate-all-keywords.js --limit=5",
+    "map-images": "node scripts/create-image-mapping.js",
+    "copy-images": "node scripts/copy-required-images.js",
+    "setup-complete": "npm run generate:test && npm run copy-images && npm run map-images"
   },
   "dependencies": {
     "next": "14.0.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "dotenv": "^17.2.3",
+    "openai": "^6.1.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/node": "^20",

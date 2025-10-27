@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a movie popcorn",
+  "title": "Calories in a Movie Popcorn",
+  "meta_description": "Discover calories in a movie popcorn serving, including macros, sodium, and variations like buttered vs. plain, based on typical theater sizes.",
+  "slug": "calories-in-a-movie-popcorn",
+  "h1": "Calories in a Movie Popcorn",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "movie popcorn"
+  },
+  "assumptions": "Large theater serving (~85 g kernels popped, with butter topping); values based on common chains like AMC or Regal.",
+  "disclaimer": "Nutrition varies by theater, serving size, butter/oil amount, and toppings. Check venue nutrition info when available.",
+  "quick_answer": {
+    "total_kcal": 1200,
+    "text": "A typical large movie popcorn with butter has about 1200 kcal and high sodium."
+  },
+  "basis": {
+    "label": "per 1 large serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 1200,
+      "carbs_g": 150,
+      "fiber_g": 25,
+      "sugars_g": 1,
+      "protein_g": 20,
+      "fat_g": 70,
+      "sat_fat_g": 40,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1200,
+    "carbs_g": 150,
+    "fiber_g": 25,
+    "sugars_g": 1,
+    "protein_g": 20,
+    "fat_g": 70,
+    "sat_fat_g": 40,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2000
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 5.02
+  },
+  "tweaks": [
+    {
+      "label": "Without butter (plain popcorn)",
+      "delta_kcal_per_unit": -500,
+      "new_total_kcal": 700
+    },
+    {
+      "label": "Small serving size (half volume)",
+      "delta_kcal_per_unit": -600,
+      "new_total_kcal": 600
+    },
+    {
+      "label": "Extra butter topping",
+      "delta_kcal_per_unit": 300,
+      "new_total_kcal": 1500
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a movie popcorn with butter?",
+      "a": "About 1200 kcal for a large serving."
+    },
+    {
+      "q": "Is movie popcorn high in sodium?",
+      "a": "Yes, typically 2000 mg or more per large serving due to seasoning and butter."
+    },
+    {
+      "q": "Calories in plain movie popcorn?",
+      "a": "Around 600-700 kcal for a large plain serving, without butter."
+    },
+    {
+      "q": "What's the fat content in movie popcorn?",
+      "a": "About 70 g total fat, including 40 g saturated, mainly from butter/oil."
+    },
+    {
+      "q": "Does movie popcorn have fiber?",
+      "a": "Yes, roughly 25 g per large serving from the popcorn kernels."
+    }
+  ]
+}

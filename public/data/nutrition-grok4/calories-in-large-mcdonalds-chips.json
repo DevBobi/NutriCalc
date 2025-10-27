@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in large mcdonalds chips",
+  "title": "Calories in Large McDonald's Chips",
+  "meta_description": "Learn calories in large McDonald's chips (about 510 kcal per serving), plus carbs, fat, protein, sodium, and quick tweaks for your meal.",
+  "slug": "calories-in-large-mcdonalds-chips",
+  "h1": "Calories in Large McDonald's Chips",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "large serving",
+    "item": "McDonald's chips"
+  },
+  "assumptions": "Standard McDonald's large fries (chips), ~154g serving, fried in vegetable oil blend; UK/US portion similar; no dips or extras.",
+  "disclaimer": "Nutrition varies by location, oil type, portion size, and preparation; values based on official McDonald's data—check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 510,
+    "text": "One large serving of McDonald's chips provides ~510 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 large serving",
+    "amount": 1,
+    "unit": "large serving",
+    "nutrition": {
+      "calories_kcal": 510,
+      "carbs_g": 66,
+      "fiber_g": 6,
+      "sugars_g": 0,
+      "protein_g": 7,
+      "fat_g": 24,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 350
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 510,
+    "carbs_g": 66,
+    "fiber_g": 6,
+    "sugars_g": 0,
+    "protein_g": 7,
+    "fat_g": 24,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 350
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.13
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet of ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Add 1 serving of BBQ sauce dip",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 555
+    },
+    {
+      "label": "Curly fries variation (similar large size)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 540
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in large McDonald's chips?",
+      "a": "Approximately 510 kcal per large serving."
+    },
+    {
+      "q": "What are the carbs in McDonald's large chips?",
+      "a": "About 66g total carbs, including 6g fiber and 0g sugars."
+    },
+    {
+      "q": "How much fat is in a large serving of McDonald's chips?",
+      "a": "24g total fat, with 3.5g saturated fat."
+    },
+    {
+      "q": "Are McDonald's large chips high in sodium?",
+      "a": "Yes, around 350mg sodium per serving—request no salt to reduce."
+    },
+    {
+      "q": "How does portion size affect calories in McDonald's chips?",
+      "a": "Small: ~230 kcal, medium: ~340 kcal, large: 510 kcal—based on standard sizes."
+    }
+  ]
+}

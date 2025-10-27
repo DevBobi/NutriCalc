@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a pound of ground beef",
+  "title": "How Many Calories in a Pound of Ground Beef?",
+  "meta_description": "Discover how many calories in a pound of ground beef (80/20 lean), plus full nutrition breakdown, protein, fat, and cooking tweaks for better tracking.",
+  "slug": "how-many-calories-in-a-pound-of-ground-beef",
+  "h1": "How Many Calories in a Pound of Ground Beef?",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "pound",
+    "item": "ground beef"
+  },
+  "assumptions": "Raw ground beef, 80% lean / 20% fat; 1 pound = 454 g; based on USDA data, no added seasonings.",
+  "disclaimer": "Nutrition varies by fat content, brand, cooking method, and whether drained; raw vs. cooked affects totals. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 1153,
+    "text": "One pound of 80/20 ground beef contains about 1153 kcal and 78 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 254,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 17.2,
+      "fat_g": 20,
+      "sat_fat_g": 7.7,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 71,
+      "sodium_mg": 66
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1153,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 78.1,
+    "fat_g": 90.8,
+    "sat_fat_g": 35,
+    "trans_fat_g": 2.3,
+    "cholesterol_mg": 322,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison; scaled from per-100 g basis to 1 pound (454 g).",
+  "equivalents": {
+    "megajoules": 4.83
+  },
+  "tweaks": [
+    {
+      "label": "Use 90% lean ground beef (less fat)",
+      "delta_kcal_per_unit": -227,
+      "new_total_kcal": 926
+    },
+    {
+      "label": "Cooked and drained (fat loss during browning)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 953
+    },
+    {
+      "label": "Add 1 tbsp vegetable oil for cooking",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 1273
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a pound of 80/20 ground beef?",
+      "a": "Approximately 1153 kcal for raw 80% lean / 20% fat ground beef."
+    },
+    {
+      "q": "What's the protein in a pound of ground beef?",
+      "a": "About 78 g of protein per pound of 80/20 ground beef."
+    },
+    {
+      "q": "Does cooking change calories in ground beef?",
+      "a": "Yes—cooking and draining fat reduces calories to around 950 kcal per pound due to fat loss."
+    },
+    {
+      "q": "How much fat is in a pound of ground beef?",
+      "a": "Roughly 91 g total fat, including 35 g saturated, for 80/20 raw ground beef."
+    },
+    {
+      "q": "Calories in leaner ground beef per pound?",
+      "a": "For 90% lean, it's about 926 kcal per pound—lower fat means fewer calories."
+    }
+  ]
+}

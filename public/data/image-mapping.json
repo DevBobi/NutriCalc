@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "created": "2025-10-27T10:24:25.480Z",
+    "totalJsons": 20,
+    "totalImages": 2117,
+    "mappedCount": 20,
+    "exactMatches": 20,
+    "similarMatches": 0,
+    "unmappedJsons": []
+  },
+  "mappings": {
+    "calorie-count-in-n-out": {
+      "image": "calorie-count-in-n-out.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "calories-in-80-20-ground-beef": {
+      "image": "calories-in-80-20-ground-beef.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "calories-in-a-large-french-fry-from-mcdonalds": {
+      "image": "calories-in-a-large-french-fry-from-mcdonalds.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "calories-in-a-large-fry-at-mcdonalds": {
+      "image": "calories-in-a-large-fry-at-mcdonalds.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "calories-in-a-movie-popcorn": {
+      "image": "calories-in-a-movie-popcorn.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "calories-in-an-egg-and-sausage-mcmuffin": {
+      "image": "calories-in-an-egg-and-sausage-mcmuffin.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "calories-in-an-egg-mcmuffin-with-sausage": {
+      "image": "calories-in-an-egg-mcmuffin-with-sausage.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "calories-in-an-vodka": {
+      "image": "calories-in-an-vodka.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "calories-in-egg-and-sausage-mcmuffin": {
+      "image": "calories-in-egg-and-sausage-mcmuffin.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "calories-in-large-mcdonalds-chips": {
+      "image": "calories-in-large-mcdonalds-chips.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "calories-in-mcdonalds-medium-chips": {
+      "image": "calories-in-mcdonalds-medium-chips.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "calories-in-tequila": {
+      "image": "calories-in-tequila.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "how-many-calories-are-in-a-vape": {
+      "image": "how-many-calories-are-in-a-vape.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "how-many-calories-in-a-pizzeria-slice-of-pizza": {
+      "image": "how-many-calories-in-a-pizzeria-slice-of-pizza.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "how-many-calories-in-a-pound-of-ground-beef": {
+      "image": "how-many-calories-in-a-pound-of-ground-beef.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "how-many-calories-in-vodka": {
+      "image": "how-many-calories-in-vodka.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "how-many-calories-is-in-vodka-shot": {
+      "image": "how-many-calories-is-in-vodka-shot.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "in-n-out-calories": {
+      "image": "in-n-out-calories.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "in-n-out-fries-calories": {
+      "image": "in-n-out-fries-calories.png",
+      "similarity": 1,
+      "matchType": "exact"
+    },
+    "keyword": {
+      "image": "keyword.png",
+      "similarity": 1,
+      "matchType": "exact"
+    }
+  }
+}

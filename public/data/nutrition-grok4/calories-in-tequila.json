@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in tequila",
+  "title": "Calories in Tequila (Per Shot)",
+  "meta_description": "Learn calories in tequila for a standard 1.5 oz shot, including full nutrition facts, equivalents, and tweaks for cocktails or proof variations.",
+  "slug": "calories-in-tequila",
+  "h1": "Calories in Tequila (Per Shot)",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "tequila"
+  },
+  "assumptions": "80-proof (40% ABV) tequila, straight shot of 1.5 fl oz (44 ml), no mixers, limes, or salt.",
+  "disclaimer": "Nutrition varies by brand, proof, serving size, and any additions like mixers; distilled spirits have minimal non-alcohol nutrients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "A standard 1.5 oz shot of 80-proof tequila contains about 97 calories, all from alcohol."
+  },
+  "basis": {
+    "label": "per 1 shot (1.5 fl oz)",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values mirror Nutrition Facts labels, though alcohol content is the primary energy source with negligible macros.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "100-proof tequila (higher ABV)",
+      "delta_kcal_per_unit": 24,
+      "new_total_kcal": 121
+    },
+    {
+      "label": "Add 1 oz orange juice mixer",
+      "delta_kcal_per_unit": 14,
+      "new_total_kcal": 111
+    },
+    {
+      "label": "In a simple margarita (with 1 oz lime juice and 0.5 oz triple sec)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 167
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a shot of tequila?",
+      "a": "About 97 calories for a 1.5 oz shot of 80-proof tequila."
+    },
+    {
+      "q": "Does tequila have carbs or sugar?",
+      "a": "No, pure tequila has 0 g carbs and 0 g sugars; calories come solely from alcohol."
+    },
+    {
+      "q": "Calories in tequila vs other spirits?",
+      "a": "Similar to vodka or gin at ~97 kcal per 1.5 oz shot for 80-proof; varies slightly by type."
+    },
+    {
+      "q": "How does proof affect calories in tequila?",
+      "a": "Higher proof means more calories—100-proof adds ~24 kcal per shot compared to 80-proof."
+    },
+    {
+      "q": "Are there any nutrients in tequila besides calories?",
+      "a": "Minimal; 0 g protein, fat, fiber, and trace sodium only—no significant vitamins or minerals."
+    }
+  ]
+}

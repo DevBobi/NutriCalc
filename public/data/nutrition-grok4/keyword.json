@@ -1,0 +1,92 @@
+{
+  "keyword": "Keyword",
+  "title": "Calories in Keyword",
+  "meta_description": "Discover calories in Keyword, including protein, carbs, fat, and full nutrition breakdown per serving for quick reference.",
+  "slug": "keyword",
+  "h1": "Calories in Keyword",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Keyword"
+  },
+  "assumptions": "Standard serving of Keyword, prepared plainly without added ingredients.",
+  "disclaimer": "Nutrition varies by brand, recipe, size, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 100,
+    "text": "One serving of Keyword contains about 100 kcal and balanced macros."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 100,
+      "carbs_g": 15,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 5,
+      "fat_g": 3,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 100,
+    "carbs_g": 15,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 5,
+    "fat_g": 3,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.42
+  },
+  "tweaks": [
+    {
+      "label": "Add low-fat dressing",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Use baked instead of fried",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Extra portion of veggies",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one Keyword?",
+      "a": "Approximately 100 kcal per serving."
+    },
+    {
+      "q": "What is the protein content in Keyword?",
+      "a": "About 5 g of protein per serving."
+    },
+    {
+      "q": "Does Keyword have a lot of sodium?",
+      "a": "Around 150 mg per serving, which is moderate."
+    },
+    {
+      "q": "Are there carbs in Keyword?",
+      "a": "Yes, 15 g total carbs, including 2 g fiber."
+    },
+    {
+      "q": "How does preparation affect calories in Keyword?",
+      "a": "Frying adds calories; baking or steaming reduces them."
+    }
+  ]
+}
