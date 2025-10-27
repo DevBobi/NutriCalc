@@ -226,65 +226,17 @@ export default async function NutritionPage({ params }: PageProps) {
 
         {/* Nutrition Tables */}
         <div className="grid lg:grid-cols-2 gap-8 mb-8">
-          {/* Basis Nutrition */}
+          {/* Nutrition Facts */}
           <div className="bg-white rounded-xl shadow-lg overflow-hidden">
             <div className="bg-gradient-to-r from-green-500 to-emerald-600 px-6 py-4">
-              <h2 className="text-xl font-bold text-white">Per {data.basis.label}</h2>
-              <p className="text-green-100 text-sm">Nutritional values per unit</p>
+              <h2 className="text-xl font-bold text-white">Nutrition Facts</h2>
+              <p className="text-green-100 text-sm">Complete nutritional breakdown</p>
             </div>
             <div className="p-6">
               <div className="space-y-4">
                 <div className="flex justify-between items-center py-3 border-b border-gray-100">
                   <span className="text-gray-600 font-medium">Calories</span>
-                  <span className="font-bold text-lg text-gray-900">{data.basis.nutrition.calories_kcal} kcal</span>
-                </div>
-                <div className="flex justify-between items-center py-3 border-b border-gray-100">
-                  <span className="text-gray-600 font-medium">Protein</span>
-                  <span className="font-bold text-lg text-green-600">{data.basis.nutrition.protein_g} g</span>
-                </div>
-                <div className="flex justify-between items-center py-3 border-b border-gray-100">
-                  <span className="text-gray-600 font-medium">Carbs</span>
-                  <span className="font-bold text-lg text-orange-600">{data.basis.nutrition.carbs_g} g</span>
-                </div>
-                <div className="flex justify-between items-center py-3 border-b border-gray-100">
-                  <span className="text-gray-600 font-medium">Fat</span>
-                  <span className="font-bold text-lg text-yellow-600">{data.basis.nutrition.fat_g} g</span>
-                </div>
-                <div className="flex justify-between items-center py-3 border-b border-gray-100">
-                  <span className="text-gray-600 font-medium">Fiber</span>
-                  <span className="font-bold text-lg text-purple-600">{data.basis.nutrition.fiber_g} g</span>
-                </div>
-                <div className="flex justify-between items-center py-3 border-b border-gray-100">
-                  <span className="text-gray-600 font-medium">Sugars</span>
-                  <span className="font-bold text-lg text-pink-600">{data.basis.nutrition.sugars_g} g</span>
-                </div>
-                <div className="flex justify-between items-center py-3 border-b border-gray-100">
-                  <span className="text-gray-600 font-medium">Saturated Fat</span>
-                  <span className="font-bold text-lg text-red-600">{data.basis.nutrition.sat_fat_g} g</span>
-                </div>
-                <div className="flex justify-between items-center py-3 border-b border-gray-100">
-                  <span className="text-gray-600 font-medium">Cholesterol</span>
-                  <span className="font-bold text-lg text-indigo-600">{data.basis.nutrition.cholesterol_mg} mg</span>
-                </div>
-                <div className="flex justify-between items-center py-3">
-                  <span className="text-gray-600 font-medium">Sodium</span>
-                  <span className="font-bold text-lg text-blue-600">{data.basis.nutrition.sodium_mg} mg</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          {/* Total Nutrition */}
-          <div className="bg-white rounded-xl shadow-lg overflow-hidden">
-            <div className="bg-gradient-to-r from-blue-500 to-indigo-600 px-6 py-4">
-              <h2 className="text-xl font-bold text-white">Total for {data.query.amount} {data.query.unit}</h2>
-              <p className="text-blue-100 text-sm">Complete nutritional breakdown</p>
-            </div>
-            <div className="p-6">
-              <div className="space-y-4">
-                <div className="flex justify-between items-center py-3 border-b border-gray-100 bg-blue-50 rounded-lg px-4">
-                  <span className="text-gray-700 font-semibold">Calories</span>
-                  <span className="font-bold text-2xl text-blue-600">{data.nutrition_total.calories_kcal} kcal</span>
+                  <span className="font-bold text-lg text-gray-900">{data.nutrition_total.calories_kcal} kcal</span>
                 </div>
                 <div className="flex justify-between items-center py-3 border-b border-gray-100">
                   <span className="text-gray-600 font-medium">Protein</span>
@@ -320,10 +272,95 @@ export default async function NutritionPage({ params }: PageProps) {
                 </div>
               </div>
               {data.label_note && (
-                <div className="mt-4 p-3 bg-gray-50 rounded-lg">
-                  <p className="text-sm text-gray-600 italic">{data.label_note}</p>
+                <div className="mt-4 p-3 bg-green-50 rounded-lg border border-green-200">
+                  <p className="text-sm text-green-700 italic">{data.label_note}</p>
                 </div>
               )}
+            </div>
+          </div>
+
+          {/* Daily Value Context */}
+          <div className="bg-white rounded-xl shadow-lg overflow-hidden">
+            <div className="bg-gradient-to-r from-blue-500 to-indigo-600 px-6 py-4">
+              <h2 className="text-xl font-bold text-white">Daily Value Context</h2>
+              <p className="text-blue-100 text-sm">How this fits into daily nutrition</p>
+            </div>
+            <div className="p-6">
+              <div className="space-y-4">
+                {/* Calories Context */}
+                <div className="bg-blue-50 rounded-lg p-4 border border-blue-200">
+                  <div className="flex justify-between items-center mb-2">
+                    <span className="text-gray-700 font-semibold">Calories</span>
+                    <span className="font-bold text-xl text-blue-600">{data.nutrition_total.calories_kcal}</span>
+                  </div>
+                  <div className="w-full bg-gray-200 rounded-full h-2">
+                    <div 
+                      className="bg-blue-500 h-2 rounded-full" 
+                      style={{width: `${Math.min((data.nutrition_total.calories_kcal / 2000) * 100, 100)}%`}}
+                    ></div>
+                  </div>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {((data.nutrition_total.calories_kcal / 2000) * 100).toFixed(1)}% of daily 2000-calorie diet
+                  </p>
+                </div>
+
+                {/* Protein Context */}
+                <div className="bg-green-50 rounded-lg p-4 border border-green-200">
+                  <div className="flex justify-between items-center mb-2">
+                    <span className="text-gray-700 font-semibold">Protein</span>
+                    <span className="font-bold text-lg text-green-600">{data.nutrition_total.protein_g} g</span>
+                  </div>
+                  <div className="w-full bg-gray-200 rounded-full h-2">
+                    <div 
+                      className="bg-green-500 h-2 rounded-full" 
+                      style={{width: `${Math.min((data.nutrition_total.protein_g / 50) * 100, 100)}%`}}
+                    ></div>
+                  </div>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {((data.nutrition_total.protein_g / 50) * 100).toFixed(1)}% of daily protein (50g)
+                  </p>
+                </div>
+
+                {/* Sodium Context */}
+                <div className="bg-orange-50 rounded-lg p-4 border border-orange-200">
+                  <div className="flex justify-between items-center mb-2">
+                    <span className="text-gray-700 font-semibold">Sodium</span>
+                    <span className="font-bold text-lg text-orange-600">{data.nutrition_total.sodium_mg} mg</span>
+                  </div>
+                  <div className="w-full bg-gray-200 rounded-full h-2">
+                    <div 
+                      className="bg-orange-500 h-2 rounded-full" 
+                      style={{width: `${Math.min((data.nutrition_total.sodium_mg / 2300) * 100, 100)}%`}}
+                    ></div>
+                  </div>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {((data.nutrition_total.sodium_mg / 2300) * 100).toFixed(1)}% of daily sodium limit (2300mg)
+                  </p>
+                </div>
+
+                {/* Fiber Context */}
+                <div className="bg-purple-50 rounded-lg p-4 border border-purple-200">
+                  <div className="flex justify-between items-center mb-2">
+                    <span className="text-gray-700 font-semibold">Fiber</span>
+                    <span className="font-bold text-lg text-purple-600">{data.nutrition_total.fiber_g} g</span>
+                  </div>
+                  <div className="w-full bg-gray-200 rounded-full h-2">
+                    <div 
+                      className="bg-purple-500 h-2 rounded-full" 
+                      style={{width: `${Math.min((data.nutrition_total.fiber_g / 25) * 100, 100)}%`}}
+                    ></div>
+                  </div>
+                  <p className="text-sm text-gray-600 mt-1">
+                    {((data.nutrition_total.fiber_g / 25) * 100).toFixed(1)}% of daily fiber (25g)
+                  </p>
+                </div>
+              </div>
+              
+              <div className="mt-4 p-3 bg-blue-50 rounded-lg border border-blue-200">
+                <p className="text-sm text-blue-700">
+                  <strong>Daily Values:</strong> Based on a 2000-calorie diet for general nutrition advice
+                </p>
+              </div>
             </div>
           </div>
         </div>
@@ -377,27 +414,35 @@ export default async function NutritionPage({ params }: PageProps) {
         <div className="bg-white rounded-xl shadow-lg p-6 mb-8">
           <h2 className="text-xl font-bold text-gray-900 mb-6 text-center">Data Assumptions</h2>
           <div className="grid md:grid-cols-2 gap-6">
-            <div className="bg-amber-50 border border-amber-200 rounded-xl p-4">
+            <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 min-w-0">
               <div className="flex items-center mb-3">
-                <div className="w-8 h-8 bg-amber-100 rounded-full flex items-center justify-center mr-3">
+                <div className="w-8 h-8 bg-amber-100 rounded-full flex items-center justify-center mr-3 flex-shrink-0">
                   <svg className="w-4 h-4 text-amber-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <h3 className="font-semibold text-gray-900">Assumptions</h3>
                 </div>
+                <h3 className="font-semibold text-gray-900">Assumptions</h3>
               </div>
-              <p className="text-gray-700 text-sm">{data.assumptions}</p>
+              <div className="overflow-x-auto">
+                <p className="text-gray-700 text-sm leading-relaxed break-words max-w-full overflow-auto hyphens-auto whitespace-pre-line">
+                  {data.assumptions}
+                </p>
+              </div>
             </div>
-            <div className="bg-blue-50 border border-blue-200 rounded-xl p-4">
+            <div className="bg-blue-50 border border-blue-200 rounded-xl p-4 min-w-0">
               <div className="flex items-center mb-3">
-                <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center mr-3">
+                <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center mr-3 flex-shrink-0">
                   <svg className="w-4 h-4 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.732-.833-2.5 0L4.268 19.5c-.77.833.192 2.5 1.732 2.5z" />
                   </svg>
-                  <h3 className="font-semibold text-gray-900">Disclaimer</h3>
                 </div>
+                <h3 className="font-semibold text-gray-900 !ml-2 !mr-2">Disclaimer</h3>
               </div>
-              <p className="text-gray-700 text-sm">{data.disclaimer}</p>
+              <div className="overflow-x-auto">
+                <p className="text-gray-700 text-sm leading-relaxed break-words max-w-full overflow-auto hyphens-auto whitespace-pre-line">
+                  {data.disclaimer}
+                </p>
+              </div>
             </div>
           </div>
         </div>
