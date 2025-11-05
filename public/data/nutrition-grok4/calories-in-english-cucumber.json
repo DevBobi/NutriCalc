@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in english cucumber",
+  "title": "Calories in English Cucumber",
+  "meta_description": "Discover calories in english cucumber, including macros like carbs, fiber, protein, and fat per serving, plus tweaks and FAQs for better nutrition tracking.",
+  "slug": "calories-in-english-cucumber",
+  "h1": "Calories in English Cucumber",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "english cucumber",
+    "item": "english cucumber"
+  },
+  "assumptions": "One medium English cucumber (~300 g), raw, unpeeled, with skin and seeds (though English cucumbers are often seedless).",
+  "disclaimer": "Nutrition varies by size, variety, growing conditions, and freshness; values are approximate. Check produce labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 45,
+    "text": "One medium English cucumber provides about 45 kcal, low in calories with high water content for hydration."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 15,
+      "carbs_g": 3.6,
+      "fiber_g": 1,
+      "sugars_g": 1.7,
+      "protein_g": 0.7,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 45,
+    "carbs_g": 10.8,
+    "fiber_g": 3,
+    "sugars_g": 5.1,
+    "protein_g": 2.1,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 6
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.19
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin, ~10% weight loss)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Sliced with 1 tbsp vinaigrette dressing",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 95
+    },
+    {
+      "label": "Pickled (in brine, per medium cucumber)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 55
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one english cucumber?",
+      "a": "About 45 kcal for a medium 300 g English cucumber."
+    },
+    {
+      "q": "Are english cucumbers low carb?",
+      "a": "Yes, ~10.8 g carbs per medium cucumber, mostly from natural sugars and fiber."
+    },
+    {
+      "q": "What's the protein in english cucumber?",
+      "a": "Minimal at ~2.1 g per medium cucumber; it's not a significant protein source."
+    },
+    {
+      "q": "Do english cucumbers have fiber?",
+      "a": "Yes, about 3 g of dietary fiber per medium cucumber, aiding digestion."
+    },
+    {
+      "q": "How does english cucumber compare to regular cucumber calories?",
+      "a": "Similar; both are ~15 kcal per 100 g, but English are longer and often lower in seeds."
+    }
+  ]
+}

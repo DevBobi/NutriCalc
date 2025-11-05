@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 8 oz filet mignon",
+  "title": "Calories in 8 oz Filet Mignon",
+  "meta_description": "Discover calories in 8 oz filet mignon, including protein, fat, carbs, full nutrition breakdown per 100 g basis, and preparation tweaks for accurate tracking.",
+  "slug": "calories-in-8-oz-filet-mignon",
+  "h1": "Calories in 8 oz Filet Mignon",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 8,
+    "unit": "oz",
+    "item": "filet mignon"
+  },
+  "assumptions": "Lean, trimmed beef tenderloin (filet mignon), broiled or grilled to medium doneness, no added fats, salts, or marinades; 8 oz ≈ 227 g.",
+  "disclaimer": "Nutrition varies by cut, marbling, cooking method, doneness, and source; values are averages—consult labels or a nutritionist for precision.",
+  "quick_answer": {
+    "total_kcal": 406,
+    "text": "8 oz cooked filet mignon provides ~406 kcal and ~58 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 179,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25.4,
+      "fat_g": 8.4,
+      "sat_fat_g": 3.3,
+      "trans_fat_g": 0.4,
+      "cholesterol_mg": 82,
+      "sodium_mg": 58
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 406,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 57.7,
+    "fat_g": 19.1,
+    "sat_fat_g": 7.5,
+    "trans_fat_g": 0.9,
+    "cholesterol_mg": 186,
+    "sodium_mg": 132
+  },
+  "label_note": "Totals are scaled from the per-100 g basis and mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.7
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter for pan-searing per 100 g",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 502
+    },
+    {
+      "label": "Untrimmed with visible fat (vs. lean trimmed) per 100 g",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 566
+    },
+    {
+      "label": "Pan-fried in 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 546
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 8 oz filet mignon?",
+      "a": "Approximately 406 kcal for 8 oz (227 g) lean, cooked filet mignon."
+    },
+    {
+      "q": "What's the protein in 8 oz filet mignon?",
+      "a": "About 58 g of high-quality protein."
+    },
+    {
+      "q": "Does cooking method affect calories in filet mignon?",
+      "a": "Yes—grilling keeps it lower; frying or adding butter/oil increases by 30–50 kcal per 100 g."
+    },
+    {
+      "q": "Are carbs present in filet mignon?",
+      "a": "No carbs, fiber, or sugars—it's nearly all protein and fat."
+    },
+    {
+      "q": "How does doneness impact nutrition in 8 oz filet mignon?",
+      "a": "Minimal change, but well-done may slightly reduce moisture and concentrate nutrients; stick to medium for standard values."
+    }
+  ]
+}

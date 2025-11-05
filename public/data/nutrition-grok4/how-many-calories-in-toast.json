@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in toast",
+  "title": "How Many Calories in Toast?",
+  "meta_description": "Discover how many calories in toast per slice, including carbs, protein, fat, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "how-many-calories-in-toast",
+  "h1": "How Many Calories in Toast?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "toast"
+  },
+  "assumptions": "1 medium slice (28 g) of white bread, toasted, plain with no butter, margarine, or toppings.",
+  "disclaimer": "Nutrition varies by bread type, brand, slice thickness, and any additions; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 77,
+    "text": "One slice of plain toast provides about 77 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 77,
+      "carbs_g": 14.5,
+      "fiber_g": 0.7,
+      "sugars_g": 1.7,
+      "protein_g": 2.7,
+      "fat_g": 1,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 152
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 77,
+    "carbs_g": 14.5,
+    "fiber_g": 0.7,
+    "sugars_g": 1.7,
+    "protein_g": 2.7,
+    "fat_g": 1,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 152
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.32
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 111
+    },
+    {
+      "label": "Use whole wheat bread instead",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 79
+    },
+    {
+      "label": "Add 1 tbsp jam",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 127
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of toast?",
+      "a": "About 77 kcal for a plain medium slice of white toast."
+    },
+    {
+      "q": "Does toasting bread change the calories?",
+      "a": "No, toasting doesn't significantly alter calories; it's the same as untoasted bread."
+    },
+    {
+      "q": "How many carbs in toast?",
+      "a": "One slice has ~14.5 g carbs, with 0.7 g fiber."
+    },
+    {
+      "q": "What if I add butter to my toast?",
+      "a": "Adding 1 tsp butter increases calories by ~34 to 111 kcal total."
+    },
+    {
+      "q": "Are there fewer calories in whole grain toast?",
+      "a": "Similar at ~79 kcal per slice, but with more fiber for better nutrition."
+    }
+  ]
+}

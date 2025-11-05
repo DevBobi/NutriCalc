@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in syrup starbucks",
+  "title": "Calories in Starbucks Syrup",
+  "meta_description": "Discover calories in syrup starbucks per pump, including carbs, sugars, and nutrition details for your coffee drinks.",
+  "slug": "calories-in-syrup-starbucks",
+  "h1": "Calories in Starbucks Syrup",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pump",
+    "item": "Starbucks syrup"
+  },
+  "assumptions": "Standard flavored syrup (e.g., vanilla), 1 pump = 1/4 oz (7.5 ml); no added ingredients.",
+  "disclaimer": "Nutrition varies by flavor, brand batch, and pump size; sugar-free options differ. Check Starbucks app or labels.",
+  "quick_answer": {
+    "total_kcal": 20,
+    "text": "One pump of Starbucks syrup adds 20 calories, mostly from sugar."
+  },
+  "basis": {
+    "label": "per 1 pump",
+    "amount": 1,
+    "unit": "pump",
+    "nutrition": {
+      "calories_kcal": 20,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sugars_g": 5,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 20,
+    "carbs_g": 5,
+    "fiber_g": 0,
+    "sugars_g": 5,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Use sugar-free syrup instead",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Double pumps (2 per serving)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Mocha syrup (darker, richer flavor)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 25
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pump of Starbucks syrup?",
+      "a": "About 20 calories per pump of standard flavored syrup."
+    },
+    {
+      "q": "Are there carbs in Starbucks syrup?",
+      "a": "Yes, 5 g carbs per pump, all from sugars."
+    },
+    {
+      "q": "What's the difference in calories for sugar-free Starbucks syrup?",
+      "a": "Sugar-free versions have 0 calories per pump."
+    },
+    {
+      "q": "How much syrup is in a Starbucks pump?",
+      "a": "One pump is typically 1/4 oz or 7.5 ml."
+    },
+    {
+      "q": "Does syrup flavor affect calories in Starbucks drinks?",
+      "a": "Most flavors are 20 kcal per pump, but some like pumpkin spice may vary slightly."
+    }
+  ]
+}

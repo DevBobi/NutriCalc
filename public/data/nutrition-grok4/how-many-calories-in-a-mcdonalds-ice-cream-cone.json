@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a mcdonalds ice cream cone",
+  "title": "How Many Calories in a McDonald's Ice Cream Cone?",
+  "meta_description": "Discover how many calories in a McDonald's ice cream cone, including full nutrition breakdown, macros, and variations for better choices.",
+  "slug": "how-many-calories-in-a-mcdonalds-ice-cream-cone",
+  "h1": "How Many Calories in a McDonald's Ice Cream Cone?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cone",
+    "item": "McDonald's ice cream cone"
+  },
+  "assumptions": "Standard vanilla soft serve ice cream cone from McDonald's menu; approximately 103 g serving, no additional toppings.",
+  "disclaimer": "Nutrition varies by location, recipe changes, and serving size. Check McDonald's app or website for latest info.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "A McDonald's vanilla ice cream cone contains about 200 calories with 5 g protein."
+  },
+  "basis": {
+    "label": "per 1 McDonald's ice cream cone",
+    "amount": 1,
+    "unit": "cone",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 34,
+      "fiber_g": 0,
+      "sugars_g": 25,
+      "protein_g": 5,
+      "fat_g": 5,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 34,
+    "fiber_g": 0,
+    "sugars_g": 25,
+    "protein_g": 5,
+    "fat_g": 5,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 100
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "Add chocolate dipping sauce",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Kids size cone (smaller serving)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "With sprinkles (1 tsp)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 220
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a McDonald's vanilla cone?",
+      "a": "Approximately 200 calories for the standard size."
+    },
+    {
+      "q": "What are the carbs in a McDonald's ice cream cone?",
+      "a": "About 34 g carbs, mostly from sugars at 25 g."
+    },
+    {
+      "q": "Is there fiber in McDonald's ice cream cone?",
+      "a": "No dietary fiber; it's 0 g per cone."
+    },
+    {
+      "q": "How much fat and protein in a McDonald's cone?",
+      "a": "5 g total fat (3 g saturated) and 5 g protein."
+    },
+    {
+      "q": "Does McDonald's cone have trans fat?",
+      "a": "0 g trans fat in the standard vanilla cone."
+    }
+  ]
+}

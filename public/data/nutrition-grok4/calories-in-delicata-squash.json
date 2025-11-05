@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in delicata squash",
+  "title": "Calories in Delicata Squash",
+  "meta_description": "Learn calories in delicata squash per 100g, including carbs, protein, fiber, and full nutrition facts for this winter squash.",
+  "slug": "calories-in-delicata-squash",
+  "h1": "Calories in Delicata Squash",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "delicata squash"
+  },
+  "assumptions": "Baked, skin-on, no added fat, salt, or seasonings; edible portion only.",
+  "disclaimer": "Nutrition varies by variety, ripeness, cooking method, and portion size. Check labels or sources when available.",
+  "quick_answer": {
+    "total_kcal": 34,
+    "text": "Delicata squash provides about 34 kcal per 100g when baked, with high fiber and low fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 34,
+      "carbs_g": 8.8,
+      "fiber_g": 1.3,
+      "sugars_g": 3.5,
+      "protein_g": 0.9,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 34,
+    "carbs_g": 8.8,
+    "fiber_g": 1.3,
+    "sugars_g": 3.5,
+    "protein_g": 0.9,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.14
+  },
+  "tweaks": [
+    {
+      "label": "Raw, unprepared (vs. baked)",
+      "delta_kcal_per_unit": -8,
+      "new_total_kcal": 26
+    },
+    {
+      "label": "Roasted with 1 tsp olive oil per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 74
+    },
+    {
+      "label": "Mashed with 1 tsp butter per 100g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of delicata squash?",
+      "a": "About 34 kcal per 100g when baked without added fat."
+    },
+    {
+      "q": "Is delicata squash low carb?",
+      "a": "Yes, around 8.8g carbs per 100g, with 1.3g fiber."
+    },
+    {
+      "q": "What's the protein in delicata squash?",
+      "a": "Approximately 0.9g protein per 100g."
+    },
+    {
+      "q": "Does cooking change calories in delicata squash?",
+      "a": "Baking concentrates nutrients slightly; raw is about 26 kcal per 100g."
+    },
+    {
+      "q": "Are there sugars in delicata squash?",
+      "a": "Yes, natural sugars around 3.5g per 100g, mostly from the flesh."
+    }
+  ]
+}

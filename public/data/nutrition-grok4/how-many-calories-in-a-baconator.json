@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a baconator",
+  "title": "How Many Calories in a Baconator?",
+  "meta_description": "Discover how many calories in a baconator from Wendy's, including full nutrition breakdown like protein, fat, carbs, sodium, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-baconator",
+  "h1": "How Many Calories in a Baconator?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "Baconator"
+  },
+  "assumptions": "Standard Wendy's Baconator: two beef patties, six bacon strips, American cheese, ketchup, mayo, on a bun; no modifications.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations; values based on standard U.S. Wendy's data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 970,
+    "text": "A single Baconator burger contains 970 calories and 57 g of protein."
+  },
+  "basis": {
+    "label": "per 1 Baconator burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 970,
+      "carbs_g": 51,
+      "fiber_g": 2,
+      "sugars_g": 11,
+      "protein_g": 57,
+      "fat_g": 68,
+      "sat_fat_g": 27,
+      "trans_fat_g": 2.5,
+      "cholesterol_mg": 250,
+      "sodium_mg": 2310
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 970,
+    "carbs_g": 51,
+    "fiber_g": 2,
+    "sugars_g": 11,
+    "protein_g": 57,
+    "fat_g": 68,
+    "sat_fat_g": 27,
+    "trans_fat_g": 2.5,
+    "cholesterol_mg": 250,
+    "sodium_mg": 2310
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.06
+  },
+  "tweaks": [
+    {
+      "label": "Remove ketchup and mayo",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 890
+    },
+    {
+      "label": "Upgrade to Double Baconator (extra patty and bacon)",
+      "delta_kcal_per_unit": 370,
+      "new_total_kcal": 1340
+    },
+    {
+      "label": "Add a slice of cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 1020
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a Wendy's Baconator?",
+      "a": "Approximately 970 calories for the standard single Baconator."
+    },
+    {
+      "q": "What's the protein content in a Baconator?",
+      "a": "About 57 g of protein per Baconator burger."
+    },
+    {
+      "q": "How much sodium is in a Baconator?",
+      "a": "Around 2310 mg of sodium, mostly from bacon and cheese."
+    },
+    {
+      "q": "Are there carbs in a Baconator?",
+      "a": "Yes, 51 g total carbs, including 2 g fiber and 11 g sugars from the bun and condiments."
+    },
+    {
+      "q": "Does customizing a Baconator change calories?",
+      "a": "Yes—removing sauces saves ~80 kcal; adding extras like more bacon increases it significantly."
+    }
+  ]
+}

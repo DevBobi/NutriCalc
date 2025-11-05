@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a cinnamon roll",
+  "title": "How Many Calories in a Cinnamon Roll?",
+  "meta_description": "Discover how many calories in a cinnamon roll, including carbs, sugars, fat, protein, and tweaks for variations like no icing.",
+  "slug": "how-many-calories-in-a-cinnamon-roll",
+  "h1": "How Many Calories in a Cinnamon Roll?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "roll",
+    "item": "cinnamon roll"
+  },
+  "assumptions": "Standard bakery-style cinnamon roll with icing, approximately 100 g, including dough, cinnamon filling, and cream cheese frosting.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 300,
+    "text": "A typical cinnamon roll contains about 300 calories, with high carbs and sugars."
+  },
+  "basis": {
+    "label": "per 1 cinnamon roll",
+    "amount": 1,
+    "unit": "roll",
+    "nutrition": {
+      "calories_kcal": 300,
+      "carbs_g": 45,
+      "fiber_g": 1,
+      "sugars_g": 25,
+      "protein_g": 4,
+      "fat_g": 12,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 300,
+    "carbs_g": 45,
+    "fiber_g": 1,
+    "sugars_g": 25,
+    "protein_g": 4,
+    "fat_g": 12,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 250
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.26
+  },
+  "tweaks": [
+    {
+      "label": "Without icing",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Homemade with whole wheat dough",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Add nuts to filling",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 330
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cinnamon roll without frosting?",
+      "a": "About 220 calories, saving around 80 kcal from the icing."
+    },
+    {
+      "q": "What are the carbs in a cinnamon roll?",
+      "a": "Typically 45 g total carbs, including 25 g sugars and 1 g fiber."
+    },
+    {
+      "q": "Are cinnamon rolls high in fat?",
+      "a": "Yes, around 12 g total fat per roll, with 5 g saturated."
+    },
+    {
+      "q": "How does size affect calories in a cinnamon roll?",
+      "a": "Smaller rolls (50 g) may have 150-200 kcal; larger ones up to 400+ kcal."
+    },
+    {
+      "q": "What's the protein content of a cinnamon roll?",
+      "a": "Low at about 4 g per standard roll."
+    }
+  ]
+}

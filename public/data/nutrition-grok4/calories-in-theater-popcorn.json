@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in theater popcorn",
+  "title": "Calories in Theater Popcorn",
+  "meta_description": "Learn calories in theater popcorn for a medium buttered serving, including full nutrition facts like fat, carbs, sodium, and tips to reduce calories.",
+  "slug": "calories-in-theater-popcorn",
+  "h1": "Calories in Theater Popcorn",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "medium serving",
+    "item": "theater popcorn"
+  },
+  "assumptions": "Buttered movie theater popcorn, medium size (~100 g or 11 cups), popped in coconut oil with butter topping; values approximate for chains like AMC.",
+  "disclaimer": "Nutrition varies by theater chain, butter amount, oil type, serving size, and customizations. Check venue nutrition info when available.",
+  "quick_answer": {
+    "total_kcal": 600,
+    "text": "A medium serving of buttered theater popcorn contains about 600 calories, high in fat and sodium."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 600,
+      "carbs_g": 60,
+      "fiber_g": 10,
+      "sugars_g": 1,
+      "protein_g": 8,
+      "fat_g": 38,
+      "sat_fat_g": 18,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 10,
+      "sodium_mg": 900
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 600,
+    "carbs_g": 60,
+    "fiber_g": 10,
+    "sugars_g": 1,
+    "protein_g": 8,
+    "fat_g": 38,
+    "sat_fat_g": 18,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 10,
+    "sodium_mg": 900
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.51
+  },
+  "tweaks": [
+    {
+      "label": "Skip the butter topping",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Choose plain (no oil or butter)",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Opt for small serving (half size)",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a medium theater popcorn?",
+      "a": "About 600 calories for a buttered medium serving."
+    },
+    {
+      "q": "Is theater popcorn high in fat?",
+      "a": "Yes, ~38 g total fat per 100 g, mostly from oil and butter."
+    },
+    {
+      "q": "What about sodium in theater popcorn?",
+      "a": "High at ~900 mg per 100 g due to seasoning and butter."
+    },
+    {
+      "q": "How to lower calories in theater popcorn?",
+      "a": "Ask for no butter or plain version to cut 200-300 kcal per serving."
+    },
+    {
+      "q": "Does theater popcorn have fiber?",
+      "a": "Yes, about 10 g per 100 g from the corn kernels."
+    }
+  ]
+}

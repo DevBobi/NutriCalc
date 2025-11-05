@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in doctor pepper",
+  "title": "How Many Calories Are in Dr Pepper?",
+  "meta_description": "Discover how many calories are in doctor pepper (a 12 oz can), including carbs, sugars, sodium, and quick diet tweaks for better choices.",
+  "slug": "how-many-calories-are-in-doctor-pepper",
+  "h1": "How Many Calories Are in Dr Pepper?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "Dr Pepper"
+  },
+  "assumptions": "Standard 12 oz (355 ml) can of regular Dr Pepper soda; no ice or additives.",
+  "disclaimer": "Nutrition varies by brand, serving size, and formulation; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "One 12 oz can of Dr Pepper contains 150 kcal, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 42,
+      "carbs_g": 10.6,
+      "fiber_g": 0,
+      "sugars_g": 10.6,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 37.6,
+    "fiber_g": 0,
+    "sugars_g": 37.6,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 36
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Switch to diet Dr Pepper (zero sugar)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Add ice cubes (dilutes by 20%)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Half can serving",
+      "delta_kcal_per_unit": -75,
+      "new_total_kcal": 75
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in doctor pepper per can?",
+      "a": "About 150 kcal in a standard 12 oz can of regular Dr Pepper."
+    },
+    {
+      "q": "Does Dr Pepper have sugar or carbs?",
+      "a": "Yes, 37.6 g sugars and total carbs per 12 oz can."
+    },
+    {
+      "q": "What's the sodium in Dr Pepper?",
+      "a": "Around 36 mg per 12 oz can."
+    },
+    {
+      "q": "Are there calories in diet doctor pepper?",
+      "a": "No, diet versions have 0 kcal."
+    },
+    {
+      "q": "How does serving size affect calories in doctor pepper?",
+      "a": "Per 100 ml: 42 kcal; scales up for larger servings like 20 oz bottles (~250 kcal)."
+    }
+  ]
+}

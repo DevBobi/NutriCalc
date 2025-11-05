@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in orzo",
+  "title": "Calories in Orzo",
+  "meta_description": "Discover calories in orzo per 100g dry, including carbs, protein, fat, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-orzo",
+  "h1": "Calories in Orzo",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "orzo"
+  },
+  "assumptions": "Dry, uncooked orzo pasta; plain, enriched semolina; standard brand values.",
+  "disclaimer": "Nutrition varies by brand, type (whole wheat vs. regular), and preparation; cooked values differ due to water absorption. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 374,
+    "text": "100g of dry orzo provides ~374 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 100 g dry",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 374,
+      "carbs_g": 74,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 13,
+      "fat_g": 1.5,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 374,
+    "carbs_g": 74,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 13,
+    "fat_g": 1.5,
+    "sat_fat_g": 0.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 7
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.56
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil per 100g dry before cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 414
+    },
+    {
+      "label": "Switch to whole wheat orzo",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 354
+    },
+    {
+      "label": "Cooked orzo (from 100g dry, yields ~250g cooked; per original dry amount)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 374
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of dry orzo?",
+      "a": "About 374 kcal for 100g dry orzo."
+    },
+    {
+      "q": "What are the carbs in orzo?",
+      "a": "74g carbs per 100g dry, with 3g fiber and 2g sugars."
+    },
+    {
+      "q": "Calories in cooked orzo?",
+      "a": "Around 143 kcal per 100g cooked (from ~28g dry); totals depend on serving size."
+    },
+    {
+      "q": "Is orzo high in protein?",
+      "a": "13g protein per 100g dry, making it a decent source for pasta."
+    },
+    {
+      "q": "How does orzo compare to other pastas calorie-wise?",
+      "a": "Similar to spaghetti or macaroni at ~370-380 kcal per 100g dry."
+    }
+  ]
+}

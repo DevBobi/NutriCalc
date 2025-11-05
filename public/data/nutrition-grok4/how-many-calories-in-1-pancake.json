@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 1 pancake",
+  "title": "How Many Calories Are in 1 Pancake?",
+  "meta_description": "Discover how many calories in 1 pancake, including carbs, protein, fat, and full nutrition breakdown per serving with easy tweaks.",
+  "slug": "how-many-calories-in-1-pancake",
+  "h1": "How Many Calories Are in 1 Pancake?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pancake",
+    "item": "pancake"
+  },
+  "assumptions": "Standard buttermilk pancake, ~4-inch diameter, 1/4 inch thick, made from basic batter (flour, milk, egg, baking powder, butter), pan-fried with minimal oil.",
+  "disclaimer": "Nutrition varies by recipe, size, ingredients, cooking method, and brand; toppings or mix-ins change values. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "One standard pancake provides ~90 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 pancake",
+    "amount": 1,
+    "unit": "pancake",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 14,
+      "fiber_g": 0.5,
+      "sugars_g": 2,
+      "protein_g": 2.5,
+      "fat_g": 2.5,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 14,
+    "fiber_g": 0.5,
+    "sugars_g": 2,
+    "protein_g": 2.5,
+    "fat_g": 2.5,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp maple syrup",
+      "delta_kcal_per_unit": 52,
+      "new_total_kcal": 142
+    },
+    {
+      "label": "Use whole wheat flour instead of white",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Add 1/4 cup blueberries to batter",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 100
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 pancake from mix?",
+      "a": "About 90 kcal for a standard homemade or mix-based pancake; varies by brand."
+    },
+    {
+      "q": "What are the carbs in one pancake?",
+      "a": "Roughly 14 g carbs, with 0.5 g fiber and 2 g sugars."
+    },
+    {
+      "q": "Does pancake size affect calories?",
+      "a": "Yes—larger pancakes (6-inch) can have 150+ kcal; smaller ones under 70 kcal."
+    },
+    {
+      "q": "Are pancakes high in protein?",
+      "a": "Low at ~2.5 g per pancake; add eggs or nuts to boost protein."
+    },
+    {
+      "q": "How to make lower-calorie pancakes?",
+      "a": "Use oat flour, reduce butter, or opt for smaller size to cut ~20-30 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a half apple",
+  "title": "Calories in a Half Apple",
+  "meta_description": "Discover calories in a half apple, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown per serving.",
+  "slug": "calories-in-a-half-apple",
+  "h1": "Calories in a Half Apple",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 0.5,
+    "unit": "apple",
+    "item": "apple"
+  },
+  "assumptions": "Medium apple (~182 g whole, raw with skin, no core; half is ~91 g edible portion).",
+  "disclaimer": "Nutrition varies by apple variety, size, ripeness, and preparation; organic vs. conventional may differ slightly. Check sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 48,
+    "text": "A half medium apple provides ~48 kcal, mainly from natural sugars and fiber."
+  },
+  "basis": {
+    "label": "per 1 medium apple",
+    "amount": 1,
+    "unit": "apple",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 25.1,
+      "fiber_g": 4.4,
+      "sugars_g": 18.9,
+      "protein_g": 0.5,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 48,
+    "carbs_g": 12.6,
+    "fiber_g": 2.2,
+    "sugars_g": 9.5,
+    "protein_g": 0.3,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.2
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 43
+    },
+    {
+      "label": "Add 1 tsp peanut butter",
+      "delta_kcal_per_unit": 32,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Baked without added sugar",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 46
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a half apple?",
+      "a": "About 48 kcal for half a medium apple with skin."
+    },
+    {
+      "q": "What are the carbs in half an apple?",
+      "a": "Approximately 12.6 g carbs, including 2.2 g fiber and 9.5 g sugars."
+    },
+    {
+      "q": "Is a half apple low in fat or protein?",
+      "a": "Yes, negligible fat (0.2 g) and protein (0.3 g); mostly carbs from natural sources."
+    },
+    {
+      "q": "Does apple variety affect calories in a half apple?",
+      "a": "Slightly—Granny Smith may have fewer sugars/calories than Fuji; averages ~48 kcal."
+    },
+    {
+      "q": "How does peeling change calories in half an apple?",
+      "a": "Peeling removes ~5 kcal and some fiber, reducing to ~43 kcal."
+    }
+  ]
+}

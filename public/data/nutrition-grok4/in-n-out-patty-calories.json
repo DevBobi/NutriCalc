@@ -1,0 +1,92 @@
+{
+  "keyword": "in n out patty calories",
+  "title": "Calories in In-N-Out Patty",
+  "meta_description": "Discover in n out patty calories: one grilled beef patty has 250 kcal, plus full macros, protein, fat details, and variations for your burger.",
+  "slug": "in-n-out-patty-calories",
+  "h1": "Calories in In-N-Out Patty",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "patty",
+    "item": "In-N-Out beef patty"
+  },
+  "assumptions": "Standard grilled 100% beef patty from In-N-Out (2 oz cooked weight), no bun, toppings, or condiments.",
+  "disclaimer": "Nutrition varies by patty size, cooking method, and restaurant preparation. Check In-N-Out's official info or app for latest values.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One In-N-Out beef patty provides 250 kcal and 20 g protein."
+  },
+  "basis": {
+    "label": "per 1 patty",
+    "amount": 1,
+    "unit": "patty",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 20,
+      "fat_g": 17,
+      "sat_fat_g": 8,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 80,
+      "sodium_mg": 370
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 20,
+    "fat_g": 17,
+    "sat_fat_g": 8,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 80,
+    "sodium_mg": 370
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add one slice American cheese",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Double patty (add second patty)",
+      "delta_kcal_per_unit": 250,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "With grilled onions added",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 260
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an In-N-Out patty?",
+      "a": "One standard beef patty has about 250 kcal."
+    },
+    {
+      "q": "What is the protein in In-N-Out patty calories breakdown?",
+      "a": "20 g protein per patty, with 17 g fat and 0 g carbs."
+    },
+    {
+      "q": "Are In-N-Out patties low carb?",
+      "a": "Yes, 0 g carbs and 0 g fiber per patty."
+    },
+    {
+      "q": "How much sodium in an In-N-Out patty?",
+      "a": "Approximately 370 mg sodium per grilled patty."
+    },
+    {
+      "q": "Does cooking method affect In-N-Out patty calories?",
+      "a": "Grilling adds minimal calories; variations like added fat could increase by 20-50 kcal."
+    }
+  ]
+}

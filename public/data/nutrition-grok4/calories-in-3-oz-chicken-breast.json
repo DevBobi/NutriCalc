@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 3 oz chicken breast",
+  "title": "Calories in 3 oz Chicken Breast",
+  "meta_description": "Discover calories in 3 oz chicken breast, including protein, fat, carbs, per-oz basis, and simple tweaks for your meal planning.",
+  "slug": "calories-in-3-oz-chicken-breast",
+  "h1": "Calories in 3 oz Chicken Breast",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "oz",
+    "item": "chicken breast"
+  },
+  "assumptions": "Skinless, boneless chicken breast, cooked (roasted or grilled), no sauce/oil added.",
+  "disclaimer": "Nutrition varies by brand, cut, cooking method, seasoning, water content, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 141,
+    "text": "3 oz cooked, skinless chicken breast has ~141 kcal and ~26 g protein."
+  },
+  "basis": {
+    "label": "per 1 oz",
+    "amount": 1,
+    "unit": "oz",
+    "nutrition": {
+      "calories_kcal": 47,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 8.8,
+      "fat_g": 1,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 24,
+      "sodium_mg": 21
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 141,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 26.4,
+    "fat_g": 3,
+    "sat_fat_g": 0.9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 72,
+    "sodium_mg": 63
+  },
+  "label_note": "Totals are scaled from the per-oz basis and mirror Nutrition Facts fields.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil per oz",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 261
+    },
+    {
+      "label": "Skin-on, roasted (vs. skinless) per oz",
+      "delta_kcal_per_unit": 9,
+      "new_total_kcal": 168
+    },
+    {
+      "label": "Breaded and fried (vs. grilled) per oz",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 291
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 3 oz cooked chicken breast?",
+      "a": "About 141 kcal for skinless, boneless, cooked without added fats."
+    },
+    {
+      "q": "How much protein in 3 oz chicken breast?",
+      "a": "Approximately 26 g protein."
+    },
+    {
+      "q": "Are these values for raw or cooked chicken breast?",
+      "a": "Cooked weight. Raw 3 oz cooks down to about 2.25 oz due to moisture loss."
+    },
+    {
+      "q": "What affects calories in chicken breast most?",
+      "a": "Skin, added oils, breading, or sauces can increase calories significantly."
+    },
+    {
+      "q": "Calories per oz of chicken breast?",
+      "a": "Roughly 47 kcal per 1 oz cooked, skinless chicken breast."
+    }
+  ]
+}

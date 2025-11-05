@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 100g of blueberries",
+  "title": "Calories in 100g of Blueberries",
+  "meta_description": "Discover calories in 100g of blueberries, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown with tweaks and FAQs for better understanding.",
+  "slug": "calories-in-100g-of-blueberries",
+  "h1": "Calories in 100g of Blueberries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "blueberries"
+  },
+  "assumptions": "Fresh, raw blueberries; wild or cultivated varieties averaged; no added sugars or processing.",
+  "disclaimer": "Nutrition varies by variety, ripeness, growing conditions, and storage; check labels for packaged products.",
+  "quick_answer": {
+    "total_kcal": 57,
+    "text": "100g of fresh blueberries provides about 57 kcal, mainly from carbs with good fiber content."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 57,
+      "carbs_g": 14.5,
+      "fiber_g": 2.4,
+      "sugars_g": 10,
+      "protein_g": 0.7,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.03,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 57,
+    "carbs_g": 14.5,
+    "fiber_g": 2.4,
+    "sugars_g": 10,
+    "protein_g": 0.7,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.03,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.24
+  },
+  "tweaks": [
+    {
+      "label": "Dried blueberries (unsweetened) per 100 g",
+      "delta_kcal_per_unit": 250,
+      "new_total_kcal": 307
+    },
+    {
+      "label": "Add 1 tbsp sugar to fresh berries",
+      "delta_kcal_per_unit": 49,
+      "new_total_kcal": 106
+    },
+    {
+      "label": "Frozen, unsweetened (thawed)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 57
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of blueberries?",
+      "a": "Approximately 57 kcal for fresh blueberries."
+    },
+    {
+      "q": "What are the carbs in 100g blueberries?",
+      "a": "About 14.5 g total carbs, including 2.4 g fiber and 10 g sugars."
+    },
+    {
+      "q": "Are blueberries low in fat and protein?",
+      "a": "Yes, only 0.3 g fat and 0.7 g protein per 100 g."
+    },
+    {
+      "q": "Do blueberries have cholesterol or sodium?",
+      "a": "Negligible—0 mg cholesterol and 1 mg sodium per 100 g."
+    },
+    {
+      "q": "How do frozen blueberries compare nutritionally?",
+      "a": "Similar to fresh if unsweetened; calories remain around 57 kcal per 100 g."
+    }
+  ]
+}

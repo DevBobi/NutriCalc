@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a 10 oz ribeye",
+  "title": "Calories in a 10 oz Ribeye",
+  "meta_description": "Discover calories in a 10 oz ribeye, including protein, fat, carbs, full nutrition breakdown per 100 g basis, and preparation tweaks for better tracking.",
+  "slug": "calories-in-a-10-oz-ribeye",
+  "h1": "Calories in a 10 oz Ribeye",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 10,
+    "unit": "oz",
+    "item": "ribeye"
+  },
+  "assumptions": "Boneless ribeye steak, cooked (grilled), USDA choice grade, separable lean and fat, trimmed to 0\" fat.",
+  "disclaimer": "Nutrition varies by cut, grade, cooking method, trimming, and portion accuracy. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 808,
+    "text": "A 10 oz grilled ribeye steak provides ~808 kcal and ~68 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 285,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24,
+      "fat_g": 21,
+      "sat_fat_g": 9,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 85,
+      "sodium_mg": 58
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 808,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 68,
+    "fat_g": 60,
+    "sat_fat_g": 26,
+    "trans_fat_g": 3,
+    "cholesterol_mg": 241,
+    "sodium_mg": 164
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.38
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter for basting",
+      "delta_kcal_per_unit": 102,
+      "new_total_kcal": 910
+    },
+    {
+      "label": "Lean-only trim (remove visible fat)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 608
+    },
+    {
+      "label": "Pan-seared with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 848
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 10 oz ribeye steak?",
+      "a": "Approximately 808 kcal for a grilled, choice-grade ribeye."
+    },
+    {
+      "q": "What's the protein in 10 oz ribeye?",
+      "a": "About 68 g of protein, making it a high-protein option."
+    },
+    {
+      "q": "Does cooking method affect calories in ribeye?",
+      "a": "Yes—grilling is lower; frying or adding oil/butter increases by 40–100+ kcal."
+    },
+    {
+      "q": "How much fat is in a 10 oz ribeye?",
+      "a": "~60 g total fat, including 26 g saturated, due to marbling."
+    },
+    {
+      "q": "Are these values for raw or cooked ribeye?",
+      "a": "Cooked (grilled). Raw is lower in calories per weight due to water loss during cooking."
+    }
+  ]
+}

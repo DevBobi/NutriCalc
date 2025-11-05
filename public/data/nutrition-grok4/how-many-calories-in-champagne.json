@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in champagne",
+  "title": "How Many Calories in Champagne?",
+  "meta_description": "Discover how many calories in champagne per standard glass, including carbs, sugars, and nutrition breakdowns for brut and sweeter varieties.",
+  "slug": "how-many-calories-in-champagne",
+  "h1": "How Many Calories in Champagne?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "glass",
+    "item": "champagne"
+  },
+  "assumptions": "Brut (dry) champagne, standard 150 ml serving (5 oz flute glass), no added mixers or garnishes.",
+  "disclaimer": "Nutrition varies by brand, sweetness level (brut vs. demi-sec), serving size, and production method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "A standard 150 ml glass of brut champagne has about 120 kcal, primarily from alcohol and residual sugars."
+  },
+  "basis": {
+    "label": "per 1 glass (150 ml)",
+    "amount": 1,
+    "unit": "glass",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 3.9,
+      "fiber_g": 0,
+      "sugars_g": 3.9,
+      "protein_g": 0.2,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 8
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 3.9,
+    "fiber_g": 0,
+    "sugars_g": 3.9,
+    "protein_g": 0.2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 8
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Demi-sec (sweeter style with more residual sugar)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Brut nature (extra dry, less sugar)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 105
+    },
+    {
+      "label": "Add 1 tsp simple syrup mixer",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 136
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a glass of champagne?",
+      "a": "About 120 kcal for a 150 ml glass of brut champagne."
+    },
+    {
+      "q": "Are there carbs in champagne?",
+      "a": "Yes, around 3.9 g carbs per 150 ml glass, mostly sugars."
+    },
+    {
+      "q": "How many calories in a bottle of champagne?",
+      "a": "A standard 750 ml bottle has about 600 kcal, or roughly 4 glasses."
+    },
+    {
+      "q": "Does sweeter champagne have more calories?",
+      "a": "Yes, demi-sec or sec varieties add 20-50 kcal per glass due to higher sugar."
+    },
+    {
+      "q": "Is champagne low in fat or protein?",
+      "a": "Yes, 0 g fat and negligible protein (0.2 g) per glass."
+    }
+  ]
+}

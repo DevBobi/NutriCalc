@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a fruit",
+  "title": "How Many Calories Are in a Fruit?",
+  "meta_description": "Discover how many calories are in a fruit, with data for a medium apple as example, plus macros, variations, and FAQs for common fruits.",
+  "slug": "how-many-calories-are-in-a-fruit",
+  "h1": "How Many Calories Are in a Fruit?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "fruit",
+    "item": "fruit"
+  },
+  "assumptions": "Assuming 1 medium apple (182 g), raw with skin; fruits vary widely (e.g., banana ~105 kcal, strawberries ~49 kcal for 1 cup).",
+  "disclaimer": "Nutrition varies by fruit type, size, ripeness, and preparation. Check labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 95,
+    "text": "One medium apple provides about 95 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 medium apple",
+    "amount": 1,
+    "unit": "fruit",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 25,
+      "fiber_g": 4.4,
+      "sugars_g": 19,
+      "protein_g": 0.5,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 95,
+    "carbs_g": 25,
+    "fiber_g": 4.4,
+    "sugars_g": 19,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Switch to 1 medium banana",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 105
+    },
+    {
+      "label": "Use 1 cup strawberries instead",
+      "delta_kcal_per_unit": -46,
+      "new_total_kcal": 49
+    },
+    {
+      "label": "Add 1 tsp sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 111
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a fruit like an apple?",
+      "a": "A medium apple has about 95 kcal."
+    },
+    {
+      "q": "What fruit has the most calories?",
+      "a": "Dried fruits or avocados; e.g., 1 avocado ~230 kcal vs. apple's 95."
+    },
+    {
+      "q": "Are calories in fruit from sugar?",
+      "a": "Yes, mostly natural sugars; e.g., 19 g in a medium apple."
+    },
+    {
+      "q": "How does fruit fiber affect calories?",
+      "a": "Fiber (4.4 g in apple) adds bulk but minimal calories; aids digestion."
+    },
+    {
+      "q": "Do all fruits have similar calories?",
+      "a": "No—berries low (49 kcal/cup), bananas higher (105 kcal each)."
+    }
+  ]
+}

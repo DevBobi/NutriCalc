@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in red grapes seedless",
+  "title": "Calories in Seedless Red Grapes",
+  "meta_description": "Discover calories in red grapes seedless per 100 g, including carbs, fiber, sugars, protein, fat, and quick tweaks for variations.",
+  "slug": "calories-in-red-grapes-seedless",
+  "h1": "Calories in Seedless Red Grapes",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "seedless red grapes"
+  },
+  "assumptions": "Fresh, seedless red grapes (e.g., Thompson or Flame variety); washed, with skin; no added sugars or preservatives.",
+  "disclaimer": "Nutrition varies by variety, ripeness, growing conditions, and storage; check labels for packaged grapes when available.",
+  "quick_answer": {
+    "total_kcal": 69,
+    "text": "100 g of seedless red grapes provide ~69 kcal, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 69,
+      "carbs_g": 18,
+      "fiber_g": 0.9,
+      "sugars_g": 15.5,
+      "protein_g": 0.7,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 69,
+    "carbs_g": 18,
+    "fiber_g": 0.9,
+    "sugars_g": 15.5,
+    "protein_g": 0.7,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp plain Greek yogurt",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 84
+    },
+    {
+      "label": "Dried into raisins (per 100 g)",
+      "delta_kcal_per_unit": 230,
+      "new_total_kcal": 299
+    },
+    {
+      "label": "Blended with 1/2 banana",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 114
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in red grapes seedless per 100 g?",
+      "a": "Approximately 69 kcal per 100 g."
+    },
+    {
+      "q": "What are the carbs in seedless red grapes?",
+      "a": "About 18 g carbs, including 0.9 g fiber and 15.5 g natural sugars per 100 g."
+    },
+    {
+      "q": "Do seedless red grapes have fat or protein?",
+      "a": "Very low: 0.2 g fat and 0.7 g protein per 100 g."
+    },
+    {
+      "q": "Calories in a cup of red grapes seedless?",
+      "a": "A cup (about 151 g) has roughly 104 kcal."
+    },
+    {
+      "q": "Are seedless red grapes low sodium?",
+      "a": "Yes, only 2 mg sodium per 100 g naturally."
+    }
+  ]
+}

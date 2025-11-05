@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 2 milk",
+  "title": "Calories in 2 Cups of Milk",
+  "meta_description": "Discover calories in 2 milk (assuming cups of whole milk), including full nutrition breakdown, protein, fat, carbs, and easy tweaks for variations.",
+  "slug": "calories-in-2-milk",
+  "h1": "Calories in 2 Cups of Milk",
+  "updated": "2024-10-02",
+  "query": {
+    "amount": 2,
+    "unit": "cup",
+    "item": "milk"
+  },
+  "assumptions": "Whole milk (3.25% fat), 1 cup ≈ 244 g or 240 ml; no additives.",
+  "disclaimer": "Nutrition varies by milk type (whole, skim, etc.), brand, fat content, and fortification. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 298,
+    "text": "Two cups of whole milk provide ~298 kcal and ~16 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 149,
+      "carbs_g": 12,
+      "fiber_g": 0,
+      "sugars_g": 12,
+      "protein_g": 8,
+      "fat_g": 8,
+      "sat_fat_g": 4.6,
+      "trans_fat_g": 0.3,
+      "cholesterol_mg": 24,
+      "sodium_mg": 105
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 298,
+    "carbs_g": 24,
+    "fiber_g": 0,
+    "sugars_g": 24,
+    "protein_g": 16,
+    "fat_g": 16,
+    "sat_fat_g": 9.2,
+    "trans_fat_g": 0.6,
+    "cholesterol_mg": 48,
+    "sodium_mg": 210
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.25
+  },
+  "tweaks": [
+    {
+      "label": "Switch to skim milk (nonfat)",
+      "delta_kcal_per_unit": -66,
+      "new_total_kcal": 166
+    },
+    {
+      "label": "Use 2% reduced-fat milk",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 198
+    },
+    {
+      "label": "Add 1 tsp sugar per cup",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 330
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 2 cups of whole milk?",
+      "a": "Approximately 298 kcal for two cups of whole milk."
+    },
+    {
+      "q": "What is the protein in 2 milk servings?",
+      "a": "About 16 g protein from two cups of whole milk."
+    },
+    {
+      "q": "Does milk have fiber or low carbs?",
+      "a": "Milk has 0 g fiber and ~24 g carbs (mostly sugars) in two cups."
+    },
+    {
+      "q": "How does fat content affect calories in milk?",
+      "a": "Whole milk has more fat (16 g total) and calories than skim (0.4 g fat, fewer kcal)."
+    },
+    {
+      "q": "Are these values for pasteurized milk?",
+      "a": "Yes, standard values assume pasteurized cow's milk; plant-based alternatives differ."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in bone broth soup",
+  "title": "Calories in Bone Broth Soup",
+  "meta_description": "Discover calories in bone broth soup per cup, including protein, sodium, fat, carbs, and tips for variations to fit your diet.",
+  "slug": "calories-in-bone-broth-soup",
+  "h1": "Calories in Bone Broth Soup",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "bone broth soup"
+  },
+  "assumptions": "Plain bone broth made from beef or chicken bones, simmered 12-24 hours, strained; 240 ml serving, no added vegetables, herbs, or thickeners.",
+  "disclaimer": "Nutrition varies by recipe, bones used (beef/chicken), cooking time, brand, and added ingredients. Check labels for store-bought versions.",
+  "quick_answer": {
+    "total_kcal": 45,
+    "text": "One cup of bone broth soup contains about 45 calories and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup (240 ml)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 45,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 9,
+      "fat_g": 2,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 45,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 9,
+    "fat_g": 2,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.19
+  },
+  "tweaks": [
+    {
+      "label": "Add mixed vegetables (carrots, onions) per cup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 65
+    },
+    {
+      "label": "Include chicken meat shreds per cup",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 95
+    },
+    {
+      "label": "Use low-sodium broth base (no salt added)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 45
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of bone broth soup?",
+      "a": "Approximately 45 kcal per 240 ml cup."
+    },
+    {
+      "q": "Is bone broth soup high in protein?",
+      "a": "Yes, about 9 g protein per cup, mainly from collagen and gelatin."
+    },
+    {
+      "q": "Why is sodium high in bone broth soup?",
+      "a": "Natural extraction from bones and optional added salt; opt for low-sodium versions to reduce it."
+    },
+    {
+      "q": "Does bone broth have carbs or fat?",
+      "a": "Very low: ~1 g carbs and 2 g fat per cup, making it keto-friendly."
+    },
+    {
+      "q": "How do calories change with homemade vs. store-bought bone broth?",
+      "a": "Homemade can be lower (30-50 kcal) without salt; store-bought often higher due to seasonings (50-80 kcal)."
+    }
+  ]
+}

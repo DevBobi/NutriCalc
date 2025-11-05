@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ny steak",
+  "title": "Calories in NY Steak",
+  "meta_description": "Discover calories in NY steak for a standard 200g serving, plus protein, fat, carbs, full nutrition facts, and preparation tweaks.",
+  "slug": "calories-in-ny-steak",
+  "h1": "Calories in NY Steak",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "steak",
+    "item": "NY steak"
+  },
+  "assumptions": "Boneless NY strip steak, choice grade, grilled without added fat, trimmed to 1/8\" fat, ~200 g per steak.",
+  "disclaimer": "Nutrition varies by steak size, grade, trimming, cooking method, and additions. Based on USDA averages; check labels or sources for precision.",
+  "quick_answer": {
+    "total_kcal": 518,
+    "text": "One 200g NY steak provides ~518 kcal and 53 g protein."
+  },
+  "basis": {
+    "label": "per 1 NY steak (~200 g)",
+    "amount": 1,
+    "unit": "steak",
+    "nutrition": {
+      "calories_kcal": 518,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 53,
+      "fat_g": 32.8,
+      "sat_fat_g": 13,
+      "trans_fat_g": 1.4,
+      "cholesterol_mg": 162,
+      "sodium_mg": 114
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 518,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 53,
+    "fat_g": 32.8,
+    "sat_fat_g": 13,
+    "trans_fat_g": 1.4,
+    "cholesterol_mg": 162,
+    "sodium_mg": 114
+  },
+  "label_note": "These values mirror standard Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.17
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter during cooking",
+      "delta_kcal_per_unit": 102,
+      "new_total_kcal": 620
+    },
+    {
+      "label": "Lean select grade (less marbling/fat)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 438
+    },
+    {
+      "label": "Pan-seared with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 558
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one NY steak?",
+      "a": "Approximately 518 kcal for a 200g grilled NY steak."
+    },
+    {
+      "q": "How much protein is in NY steak?",
+      "a": "About 53 g protein per 200g serving."
+    },
+    {
+      "q": "What is the fat content in NY steak?",
+      "a": "Roughly 32.8 g total fat, including 13 g saturated, per 200g steak."
+    },
+    {
+      "q": "Calories in NY steak per 100 g?",
+      "a": "Around 259 kcal per 100 g cooked NY strip steak."
+    },
+    {
+      "q": "Does the grade affect calories in NY steak?",
+      "a": "Yes; choice grade has more fat (~518 kcal/200g) than select (~438 kcal/200g)."
+    }
+  ]
+}

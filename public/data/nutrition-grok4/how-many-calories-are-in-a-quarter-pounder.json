@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a quarter pounder",
+  "title": "How Many Calories Are in a Quarter Pounder?",
+  "meta_description": "Discover how many calories are in a quarter pounder, including full nutrition breakdown, macros, and variations for McDonald's classic burger.",
+  "slug": "how-many-calories-are-in-a-quarter-pounder",
+  "h1": "How Many Calories Are in a Quarter Pounder?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "quarter pounder",
+    "item": "quarter pounder"
+  },
+  "assumptions": "Standard McDonald's Quarter Pounder with Cheese; includes beef patty, bun, cheese, onions, pickles, ketchup, mustard; no customizations.",
+  "disclaimer": "Nutrition varies by restaurant chain, preparation, portion size, and custom orders. Values based on standard serving; check official sources or apps for latest info.",
+  "quick_answer": {
+    "total_kcal": 520,
+    "text": "A standard Quarter Pounder with Cheese contains about 520 calories and 30 g protein."
+  },
+  "basis": {
+    "label": "per 1 quarter pounder",
+    "amount": 1,
+    "unit": "quarter pounder",
+    "nutrition": {
+      "calories_kcal": 520,
+      "carbs_g": 42,
+      "fiber_g": 2,
+      "sugars_g": 10,
+      "protein_g": 30,
+      "fat_g": 26,
+      "sat_fat_g": 12,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 90,
+      "sodium_mg": 1100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 520,
+    "carbs_g": 42,
+    "fiber_g": 2,
+    "sugars_g": 10,
+    "protein_g": 30,
+    "fat_g": 26,
+    "sat_fat_g": 12,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 90,
+    "sodium_mg": 1100
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with fast-food packaging.",
+  "equivalents": {
+    "megajoules": 2.18
+  },
+  "tweaks": [
+    {
+      "label": "Without cheese",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 470
+    },
+    {
+      "label": "Add bacon (2 strips)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 590
+    },
+    {
+      "label": "No bun (lettuce wrap)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 320
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a McDonald's Quarter Pounder?",
+      "a": "Approximately 520 calories for the standard version with cheese."
+    },
+    {
+      "q": "What's the protein in a quarter pounder?",
+      "a": "About 30 g of protein from the beef patty and cheese."
+    },
+    {
+      "q": "Does a quarter pounder have trans fats?",
+      "a": "Yes, around 1 g of trans fat per burger due to the beef and bun."
+    },
+    {
+      "q": "How much sodium is in a quarter pounder?",
+      "a": "Roughly 1100 mg, mostly from condiments and cheese."
+    },
+    {
+      "q": "Are quarter pounder calories the same everywhere?",
+      "a": "No, they vary by chain and customizations; McDonald's values used here."
+    }
+  ]
+}

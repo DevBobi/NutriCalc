@@ -1,0 +1,92 @@
+{
+  "keyword": "water in calories",
+  "title": "Calories in Water",
+  "meta_description": "Discover water in calories: pure water has zero calories per serving, with full nutrition breakdown, equivalents, and tweaks for flavored variations.",
+  "slug": "water-in-calories",
+  "h1": "Calories in Water",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 250,
+    "unit": "ml",
+    "item": "water"
+  },
+  "assumptions": "Plain, purified water at room temperature; no additives, flavors, or minerals beyond trace amounts.",
+  "disclaimer": "Nutrition varies by source (tap, bottled, mineral); additives like flavors or carbonation can change values. Check labels for enhanced waters.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "Water contains 0 calories and provides essential hydration without macronutrients."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison; all values are zero for pure water.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar (flavored water)",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 16
+    },
+    {
+      "label": "Lemon-infused (juice from 1/4 lemon)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 3
+    },
+    {
+      "label": "Carbonated with artificial sweetener",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in water?",
+      "a": "Pure water has 0 calories per any amount."
+    },
+    {
+      "q": "Does bottled water have calories?",
+      "a": "Plain bottled water has 0 calories; check for added flavors or minerals."
+    },
+    {
+      "q": "What about sparkling water in calories?",
+      "a": "Unflavored sparkling water is 0 calories; sweetened versions may add 10-50 kcal per serving."
+    },
+    {
+      "q": "Can water have sodium or other nutrients?",
+      "a": "Trace minerals like sodium may be present (e.g., 1-10 mg per 100 ml), but no calories or macros."
+    },
+    {
+      "q": "Why track water in calories for diets?",
+      "a": "It's calorie-free hydration; ideal for weight management, but flavored tweaks can add calories."
+    }
+  ]
+}

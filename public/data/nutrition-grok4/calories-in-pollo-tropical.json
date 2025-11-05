@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pollo tropical",
+  "title": "Calories in Pollo Tropical Chicken",
+  "meta_description": "Discover calories in pollo tropical, including a standard serving's total kcal, protein, fat, carbs, and nutrition breakdown with tweaks and FAQs.",
+  "slug": "calories-in-pollo-tropical",
+  "h1": "Calories in Pollo Tropical Chicken",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "pollo tropical chicken"
+  },
+  "assumptions": "Grilled citrus-marinated chicken, skinless, boneless breast; standard Pollo Tropical recipe; ~170 g per serving (one piece).",
+  "disclaimer": "Nutrition varies by portion size, skin inclusion, marinade, cooking method, and restaurant preparation. Check Pollo Tropical's menu or app for exact values.",
+  "quick_answer": {
+    "total_kcal": 255,
+    "text": "One serving of Pollo Tropical grilled chicken provides ~255 kcal and ~42 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 5,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 255,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 42.5,
+    "fat_g": 8.5,
+    "sat_fat_g": 2.55,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 119,
+    "sodium_mg": 510
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with restaurant or packaged info.",
+  "equivalents": {
+    "megajoules": 1.07
+  },
+  "tweaks": [
+    {
+      "label": "With skin on (adds ~2 g fat per 100 g)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Add 1/2 cup white rice side",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 355
+    },
+    {
+      "label": "Skinless thigh instead of breast (higher fat)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 285
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one piece of pollo tropical?",
+      "a": "About 255 kcal for a 170 g skinless grilled breast serving."
+    },
+    {
+      "q": "What is the protein in pollo tropical chicken?",
+      "a": "Roughly 42.5 g protein per standard 170 g serving."
+    },
+    {
+      "q": "Does pollo tropical have carbs?",
+      "a": "Plain grilled chicken has 0 g carbs; sides like rice or beans add them."
+    },
+    {
+      "q": "How does skin affect calories in pollo tropical?",
+      "a": "Skin-on increases calories by ~45 per serving due to added fat."
+    },
+    {
+      "q": "What about sodium in pollo tropical?",
+      "a": "Around 510 mg per serving from the citrus-garlic marinade."
+    }
+  ]
+}

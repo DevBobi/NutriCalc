@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in cum",
+  "title": "How Many Calories Are in Cum?",
+  "meta_description": "Discover how many calories are in cum (semen), including protein, carbs, fat, and other nutrients per average ejaculation, with quick facts and variations.",
+  "slug": "how-many-calories-are-in-cum",
+  "h1": "How Many Calories Are in Cum?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "ejaculation",
+    "item": "cum"
+  },
+  "assumptions": "Average male ejaculation volume (~3-5 ml); composition based on typical human semen (water, fructose, proteins, minerals); no additives.",
+  "disclaimer": "Nutrition varies by individual health, diet, hydration, and volume; values are approximate. Consult medical sources for accuracy.",
+  "quick_answer": {
+    "total_kcal": 15,
+    "text": "One average ejaculation of cum contains about 15 kcal, with trace protein and sugars."
+  },
+  "basis": {
+    "label": "per 1 average ejaculation",
+    "amount": 1,
+    "unit": "ejaculation",
+    "nutrition": {
+      "calories_kcal": 15,
+      "carbs_g": 2.5,
+      "fiber_g": 0,
+      "sugars_g": 2.5,
+      "protein_g": 0.5,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 30
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 15,
+    "carbs_g": 2.5,
+    "fiber_g": 0,
+    "sugars_g": 2.5,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 30
+  },
+  "label_note": "Values mirror simplified Nutrition Facts for comparison; semen is not a typical food source.",
+  "equivalents": {
+    "megajoules": 0.06
+  },
+  "tweaks": [
+    {
+      "label": "Higher volume ejaculation (5 ml vs. 3 ml average)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 25
+    },
+    {
+      "label": "Dehydrated or low-fructose semen",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 10
+    },
+    {
+      "label": "Post-high-sugar diet (increased fructose)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 20
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one ejaculation of cum?",
+      "a": "Approximately 15 kcal for an average 3-5 ml volume."
+    },
+    {
+      "q": "What nutrients are in cum besides calories?",
+      "a": "Trace amounts: ~0.5 g protein, 2.5 g carbs (mostly sugars), 0.3 g fat, and minerals like sodium (~30 mg)."
+    },
+    {
+      "q": "Does cum have protein?",
+      "a": "Yes, but minimal—about 0.5 g per average ejaculation from enzymes and sperm proteins."
+    },
+    {
+      "q": "How does volume affect calories in cum?",
+      "a": "Larger volumes (e.g., 5 ml) can have up to 25 kcal; smaller ones around 5-10 kcal."
+    },
+    {
+      "q": "Is cum a significant source of nutrition?",
+      "a": "No, it's mostly water (90%+) with negligible calories and nutrients compared to food."
+    }
+  ]
+}

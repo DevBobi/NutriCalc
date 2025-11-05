@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a 7 eleven slurpee",
+  "title": "Calories in a 7-Eleven Slurpee",
+  "meta_description": "Learn calories in a 7 Eleven Slurpee for a medium 16 oz serving, plus carbs, sugars, full nutrition facts, and size variations.",
+  "slug": "calories-in-a-7-eleven-slurpee",
+  "h1": "Calories in a 7-Eleven Slurpee",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "slurpee",
+    "item": "7-Eleven Slurpee"
+  },
+  "assumptions": "Medium size (16 fl oz), cherry flavor; standard formula without add-ins.",
+  "disclaimer": "Nutrition varies by size, flavor, location, and recipe changes. Check 7-Eleven app or labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 210,
+    "text": "A medium 7-Eleven Slurpee contains about 210 calories, primarily from sugars."
+  },
+  "basis": {
+    "label": "per 1 medium Slurpee (16 fl oz)",
+    "amount": 1,
+    "unit": "slurpee",
+    "nutrition": {
+      "calories_kcal": 210,
+      "carbs_g": 54,
+      "fiber_g": 0,
+      "sugars_g": 54,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 15
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 210,
+    "carbs_g": 54,
+    "fiber_g": 0,
+    "sugars_g": 54,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 15
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.88
+  },
+  "tweaks": [
+    {
+      "label": "Choose small size (12 fl oz)",
+      "delta_kcal_per_unit": -52,
+      "new_total_kcal": 158
+    },
+    {
+      "label": "Opt for large size (32 fl oz)",
+      "delta_kcal_per_unit": 210,
+      "new_total_kcal": 420
+    },
+    {
+      "label": "Select sugar-free version",
+      "delta_kcal_per_unit": -210,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a medium 7-Eleven Slurpee?",
+      "a": "About 210 calories for a 16 fl oz medium Slurpee."
+    },
+    {
+      "q": "What are the carbs in a 7 Eleven Slurpee?",
+      "a": "Around 54 g carbs, all from sugars, in a medium serving."
+    },
+    {
+      "q": "Does Slurpee have fat or protein?",
+      "a": "Typically 0 g fat and 0 g protein per serving."
+    },
+    {
+      "q": "How do calories change by Slurpee size?",
+      "a": "Small (12 oz) ≈158 kcal; large (32 oz) ≈420 kcal; scales with volume."
+    },
+    {
+      "q": "Are there low-calorie Slurpee options?",
+      "a": "Yes, sugar-free versions have near 0 calories but check for artificial sweeteners."
+    }
+  ]
+}

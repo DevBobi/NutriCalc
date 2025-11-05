@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a ribeye steak 16 oz",
+  "title": "Calories in a 16 oz Ribeye Steak",
+  "meta_description": "Learn calories in a ribeye steak 16 oz, with detailed nutrition facts including protein, fat, carbs, and cooking tweaks for better tracking.",
+  "slug": "calories-in-a-ribeye-steak-16-oz",
+  "h1": "Calories in a 16 oz Ribeye Steak",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 16,
+    "unit": "oz",
+    "item": "ribeye steak"
+  },
+  "assumptions": "Boneless ribeye steak, choice grade, cooked (grilled or broiled), separable lean and fat, trimmed to 0\" fat, no added seasonings or oils.",
+  "disclaimer": "Nutrition varies by grade, cut, fat content, cooking method, and portion size. Values are approximate; consult labels or USDA data when available.",
+  "quick_answer": {
+    "total_kcal": 1293,
+    "text": "A 16 oz cooked ribeye steak provides ~1293 kcal and ~109 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 285,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24,
+      "fat_g": 21,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0.3,
+      "cholesterol_mg": 81,
+      "sodium_mg": 58
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1293,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 109,
+    "fat_g": 95,
+    "sat_fat_g": 41,
+    "trans_fat_g": 1.4,
+    "cholesterol_mg": 367,
+    "sodium_mg": 263
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 5.41
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter for cooking",
+      "delta_kcal_per_unit": 102,
+      "new_total_kcal": 1395
+    },
+    {
+      "label": "Lean trim (remove visible fat)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 1093
+    },
+    {
+      "label": "Prime grade (more marbling)",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 1443
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 16 oz ribeye steak?",
+      "a": "Approximately 1293 kcal for a cooked choice-grade ribeye steak."
+    },
+    {
+      "q": "What's the protein in a 16 oz ribeye steak?",
+      "a": "About 109 g of protein, making it a high-protein option."
+    },
+    {
+      "q": "Does cooking method affect calories in ribeye steak?",
+      "a": "Grilling or broiling keeps calories similar; frying adds oil and increases them."
+    },
+    {
+      "q": "How much fat is in a 16 oz ribeye steak?",
+      "a": "Around 95 g total fat, including 41 g saturated fat."
+    },
+    {
+      "q": "Are ribeye steaks high in cholesterol?",
+      "a": "Yes, a 16 oz serving has ~367 mg cholesterol, mostly from the meat."
+    }
+  ]
+}

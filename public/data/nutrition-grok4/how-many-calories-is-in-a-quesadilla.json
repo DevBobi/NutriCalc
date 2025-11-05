@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in a quesadilla",
+  "title": "How Many Calories in a Quesadilla?",
+  "meta_description": "Discover how many calories is in a quesadilla, including full nutrition breakdown, macros, and variations for cheese or chicken styles.",
+  "slug": "how-many-calories-is-in-a-quesadilla",
+  "h1": "How Many Calories in a Quesadilla?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "quesadilla",
+    "item": "quesadilla"
+  },
+  "assumptions": "Standard 8-inch flour tortilla with 2 oz cheddar cheese, folded and griddled without added oil or fillings.",
+  "disclaimer": "Nutrition varies by tortilla size, cheese type, added ingredients, cooking method, and brand. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "A typical cheese quesadilla contains about 450 calories and 15 g protein."
+  },
+  "basis": {
+    "label": "per 1 quesadilla",
+    "amount": 1,
+    "unit": "quesadilla",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 40,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 15,
+      "fat_g": 25,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 50,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 40,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 15,
+    "fat_g": 25,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 50,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Add 2 oz grilled chicken",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 550
+    },
+    {
+      "label": "Use corn tortilla instead of flour",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Add 1 tbsp sour cream on top",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 475
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in a quesadilla with chicken?",
+      "a": "A chicken quesadilla adds about 100 kcal, totaling around 550 kcal."
+    },
+    {
+      "q": "What are the carbs in a quesadilla?",
+      "a": "Approximately 40 g carbs per standard cheese quesadilla, mostly from the tortilla."
+    },
+    {
+      "q": "Is a quesadilla high in sodium?",
+      "a": "Yes, about 800 mg sodium due to cheese and tortilla; opt for low-sodium versions to reduce."
+    },
+    {
+      "q": "How does baking vs. frying affect quesadilla calories?",
+      "a": "Baking saves 50-100 kcal by avoiding added oil; frying increases fat content."
+    },
+    {
+      "q": "What makes a quesadilla lower calorie?",
+      "a": "Use veggies, low-fat cheese, smaller tortilla, or whole wheat for fewer calories and more fiber."
+    }
+  ]
+}

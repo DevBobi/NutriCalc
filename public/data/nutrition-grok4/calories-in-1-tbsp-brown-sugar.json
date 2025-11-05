@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 tbsp brown sugar",
+  "title": "Calories in 1 Tbsp Brown Sugar",
+  "meta_description": "Discover calories in 1 tbsp brown sugar, including carbs, sugars, and full nutrition breakdown per serving with quick tweaks for recipes.",
+  "slug": "calories-in-1-tbsp-brown-sugar",
+  "h1": "Calories in 1 Tbsp Brown Sugar",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "brown sugar"
+  },
+  "assumptions": "Packed light brown sugar; 1 tbsp ≈12 g; no additives.",
+  "disclaimer": "Nutrition varies by brand, packing density, moisture, and type (light/dark). Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 52,
+    "text": "1 tbsp brown sugar contains about 52 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 tbsp",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 52,
+      "carbs_g": 13.4,
+      "fiber_g": 0,
+      "sugars_g": 13.2,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 52,
+    "carbs_g": 13.4,
+    "fiber_g": 0,
+    "sugars_g": 13.2,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.22
+  },
+  "tweaks": [
+    {
+      "label": "Switch to white granulated sugar",
+      "delta_kcal_per_unit": -3,
+      "new_total_kcal": 49
+    },
+    {
+      "label": "Use dark brown sugar (higher molasses)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 54
+    },
+    {
+      "label": "Unpacked (looser measure, ~10 g)",
+      "delta_kcal_per_unit": -13,
+      "new_total_kcal": 39
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tbsp brown sugar?",
+      "a": "Approximately 52 kcal per tablespoon."
+    },
+    {
+      "q": "Is brown sugar healthier than white?",
+      "a": "Similar calories; brown has trace molasses for minor minerals, but both are mostly sugar."
+    },
+    {
+      "q": "How much sugar is in 1 tbsp brown sugar?",
+      "a": "About 13.2 g of sugars, nearly all carbs."
+    },
+    {
+      "q": "Does brown sugar have fiber or protein?",
+      "a": "No fiber or protein; it's pure carbs from sucrose."
+    },
+    {
+      "q": "How does packing affect calories in brown sugar?",
+      "a": "Packed tbsp is denser (~12 g, 52 kcal); unpacked is lighter (~10 g, ~43 kcal)."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a chocolate chip cookie from subway",
+  "title": "Calories in a Subway Chocolate Chip Cookie",
+  "meta_description": "Discover calories in a chocolate chip cookie from Subway, including full nutrition breakdown, macros, and variations for better choices.",
+  "slug": "calories-in-a-chocolate-chip-cookie-from-subway",
+  "h1": "Calories in a Subway Chocolate Chip Cookie",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cookie",
+    "item": "chocolate chip cookie from Subway"
+  },
+  "assumptions": "Standard Subway chocolate chip cookie (about 45g), baked fresh in-store, no customizations or add-ons.",
+  "disclaimer": "Nutrition varies by location, batch, and exact recipe changes; Subway values may update. Check app or store for latest.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "A Subway chocolate chip cookie contains about 220 kcal, with 30g carbs and 10g fat."
+  },
+  "basis": {
+    "label": "per 1 cookie",
+    "amount": 1,
+    "unit": "cookie",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 30,
+      "fiber_g": 1,
+      "sugars_g": 20,
+      "protein_g": 2,
+      "fat_g": 10,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 30,
+    "fiber_g": 1,
+    "sugars_g": 20,
+    "protein_g": 2,
+    "fat_g": 10,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Pair with 8 oz low-fat milk",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Choose Subway's oatmeal raisin cookie instead",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Add extra chocolate chips (1 tsp)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 240
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chocolate chip cookie from Subway?",
+      "a": "Approximately 220 kcal per standard cookie."
+    },
+    {
+      "q": "What are the carbs in a Subway chocolate chip cookie?",
+      "a": "About 30g total carbs, including 20g sugars and 1g fiber."
+    },
+    {
+      "q": "Is a Subway cookie high in fat?",
+      "a": "Yes, 10g total fat per cookie, with 5g saturated."
+    },
+    {
+      "q": "How much protein in Subway's chocolate chip cookie?",
+      "a": "Roughly 2g protein per cookie."
+    },
+    {
+      "q": "Do Subway cookies have trans fats?",
+      "a": "Typically 0g trans fat, but check for updates as recipes change."
+    }
+  ]
+}

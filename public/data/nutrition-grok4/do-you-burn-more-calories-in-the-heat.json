@@ -1,0 +1,92 @@
+{
+  "keyword": "do you burn more calories in the heat",
+  "title": "Do You Burn More Calories in the Heat?",
+  "meta_description": "Do you burn more calories in the heat? Discover if exercising in hot conditions increases calorie burn by 5-15%, plus factors affecting expenditure and tips for safe workouts.",
+  "slug": "do-you-burn-more-calories-in-the-heat",
+  "h1": "Do You Burn More Calories in the Heat?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "hour",
+    "item": "moderate exercise in heat"
+  },
+  "assumptions": "Moderate aerobic exercise (e.g., jogging at 5 mph); ambient temperature 90°F/32°C with humidity; unacclimated individual; compared to normal conditions.",
+  "disclaimer": "Calorie burn varies by fitness level, intensity, hydration, acclimation, and environmental factors. Consult a professional for personalized advice.",
+  "quick_answer": {
+    "total_kcal": 330,
+    "text": "Yes, you burn about 10% more calories in the heat due to elevated heart rate and thermoregulation efforts."
+  },
+  "basis": {
+    "label": "per 1 hour moderate exercise in heat",
+    "amount": 1,
+    "unit": "hour",
+    "nutrition": {
+      "calories_kcal": 330,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 330,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values focus on estimated calorie expenditure; other fields are not applicable for burn data but mirror label structure for consistency.",
+  "equivalents": {
+    "megajoules": 1.38
+  },
+  "tweaks": [
+    {
+      "label": "Increase to vigorous intensity (e.g., running at 7 mph)",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 480
+    },
+    {
+      "label": "Acclimated body (after 1-2 weeks in heat)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Add high humidity (80% vs. 50%)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "Do you burn more calories in the heat during exercise?",
+      "a": "Yes, typically 5-15% more due to increased cardiovascular strain and sweating."
+    },
+    {
+      "q": "How much extra calories does heat add to workouts?",
+      "a": "About 30-50 extra kcal per hour for moderate exercise, depending on temperature and humidity."
+    },
+    {
+      "q": "Does heat affect resting calorie burn?",
+      "a": "Slightly; basal metabolic rate may rise 5-10% in hot environments from thermoregulation."
+    },
+    {
+      "q": "Is it safe to exercise in the heat for more calorie burn?",
+      "a": "Possible but risky; hydrate well, monitor for heat exhaustion, and acclimate gradually."
+    },
+    {
+      "q": "Why do you burn more calories in hot weather?",
+      "a": "Body expends energy cooling itself via sweat and higher heart rate to maintain core temperature."
+    }
+  ]
+}

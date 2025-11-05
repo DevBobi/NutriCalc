@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sesame seeds",
+  "title": "Calories in Sesame Seeds",
+  "meta_description": "Learn calories in sesame seeds per 100g, with detailed nutrition facts including protein, fats, carbs, fiber, and easy tweaks for recipes.",
+  "slug": "calories-in-sesame-seeds",
+  "h1": "Calories in Sesame Seeds",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "sesame seeds"
+  },
+  "assumptions": "Unhulled, dry roasted sesame seeds; no added salt or oil.",
+  "disclaimer": "Nutrition varies by type (hulled/black), processing, brand, and storage; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 573,
+    "text": "100 g of sesame seeds provide ~573 kcal, 18 g protein, and 50 g healthy fats."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 573,
+      "carbs_g": 23,
+      "fiber_g": 12,
+      "sugars_g": 0.3,
+      "protein_g": 18,
+      "fat_g": 50,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 11
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 573,
+    "carbs_g": 23,
+    "fiber_g": 12,
+    "sugars_g": 0.3,
+    "protein_g": 18,
+    "fat_g": 50,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 11
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.4
+  },
+  "tweaks": [
+    {
+      "label": "Hulled sesame seeds (removed outer hulls)",
+      "delta_kcal_per_unit": -8,
+      "new_total_kcal": 565
+    },
+    {
+      "label": "Roasted with 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 613
+    },
+    {
+      "label": "Black sesame seeds (variety swap)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 573
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g of sesame seeds?",
+      "a": "Approximately 573 kcal per 100 g."
+    },
+    {
+      "q": "What is the protein content in sesame seeds?",
+      "a": "About 18 g protein per 100 g."
+    },
+    {
+      "q": "Are sesame seeds high in fat?",
+      "a": "Yes, around 50 g total fat per 100 g, mostly unsaturated."
+    },
+    {
+      "q": "How much fiber do sesame seeds have?",
+      "a": "Roughly 12 g dietary fiber per 100 g."
+    },
+    {
+      "q": "Calories in 1 tablespoon of sesame seeds?",
+      "a": "About 52 kcal for 1 tbsp (9 g); scale from 100 g values."
+    }
+  ]
+}

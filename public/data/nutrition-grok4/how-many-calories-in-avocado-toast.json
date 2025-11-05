@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in avocado toast",
+  "title": "How Many Calories in Avocado Toast?",
+  "meta_description": "Discover how many calories in avocado toast, including full nutrition breakdown, protein, fats, carbs, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-avocado-toast",
+  "h1": "How Many Calories in Avocado Toast?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "avocado toast"
+  },
+  "assumptions": "1 slice whole wheat bread (28g), 1/2 medium avocado (68g mashed), lightly salted; no added oil, toppings, or spreads.",
+  "disclaimer": "Nutrition varies by bread type, avocado size, ripeness, and additions like oil or seasonings. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 245,
+    "text": "One serving of basic avocado toast has ~245 kcal, with healthy fats from avocado and fiber from bread."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 245,
+      "carbs_g": 24,
+      "fiber_g": 7,
+      "sugars_g": 1,
+      "protein_g": 6,
+      "fat_g": 15,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 210
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 245,
+    "carbs_g": 24,
+    "fiber_g": 7,
+    "sugars_g": 1,
+    "protein_g": 6,
+    "fat_g": 15,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 210
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 1.02
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 fried egg on top",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 315
+    },
+    {
+      "label": "Use sourdough bread instead of whole wheat",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 265
+    },
+    {
+      "label": "Drizzle with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 285
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in avocado toast with egg?",
+      "a": "About 315 kcal for basic version plus one fried egg."
+    },
+    {
+      "q": "Is avocado toast high in healthy fats?",
+      "a": "Yes, ~15 g total fat per serving, mostly monounsaturated from avocado."
+    },
+    {
+      "q": "How much protein in avocado toast?",
+      "a": "Around 6 g per basic serving; add egg or seeds to boost."
+    },
+    {
+      "q": "Does avocado toast have a lot of carbs?",
+      "a": "Moderate at 24 g per serving, with 7 g fiber for better digestion."
+    },
+    {
+      "q": "Can I make low-calorie avocado toast?",
+      "a": "Use thinner bread or less avocado to drop to ~180 kcal; skip oil."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a taco salad",
+  "title": "How Many Calories in a Taco Salad?",
+  "meta_description": "Discover how many calories in a taco salad, including full nutrition breakdown with protein, carbs, fat, and tips for variations under 700 kcal.",
+  "slug": "how-many-calories-in-a-taco-salad",
+  "h1": "How Many Calories in a Taco Salad?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "taco salad"
+  },
+  "assumptions": "Standard restaurant-style taco salad with 4 oz ground beef, romaine lettuce, tomatoes, cheddar cheese, tortilla chips, sour cream, and ranch dressing; ~500 g total serving.",
+  "disclaimer": "Nutrition varies by recipe, portion size, ingredients, and preparation; restaurant versions may differ. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 680,
+    "text": "A typical taco salad has about 680 kcal, with 25 g protein and 45 g fat."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 680,
+      "carbs_g": 40,
+      "fiber_g": 8,
+      "sugars_g": 5,
+      "protein_g": 25,
+      "fat_g": 45,
+      "sat_fat_g": 15,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 80,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 680,
+    "carbs_g": 40,
+    "fiber_g": 8,
+    "sugars_g": 5,
+    "protein_g": 25,
+    "fat_g": 45,
+    "sat_fat_g": 15,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 80,
+    "sodium_mg": 1200
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged or restaurant info.",
+  "equivalents": {
+    "megajoules": 2.85
+  },
+  "tweaks": [
+    {
+      "label": "Omit tortilla chips and use light dressing",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Vegetarian version with beans instead of beef",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 630
+    },
+    {
+      "label": "Add guacamole (1/4 avocado)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 760
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a taco salad without dressing?",
+      "a": "About 500 kcal, saving ~180 kcal from typical ranch or similar."
+    },
+    {
+      "q": "Is a taco salad high in protein?",
+      "a": "Yes, around 25 g protein per serving from beef and cheese."
+    },
+    {
+      "q": "What makes taco salad high in sodium?",
+      "a": "Seasoned beef, cheese, chips, and dressing contribute to ~1200 mg sodium."
+    },
+    {
+      "q": "How to make a low-carb taco salad?",
+      "a": "Skip chips and beans; focus on lettuce, meat, veggies—drops carbs to ~10 g."
+    },
+    {
+      "q": "Calories in homemade vs. restaurant taco salad?",
+      "a": "Homemade can be 400-600 kcal with lighter ingredients; restaurant often 700+ kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a mug of black coffee",
+  "title": "How Many Calories in a Mug of Black Coffee?",
+  "meta_description": "Discover how many calories in a mug of black coffee—nearly zero—plus full nutrition breakdown, equivalents, and tweaks for additions like sugar or milk.",
+  "slug": "how-many-calories-in-a-mug-of-black-coffee",
+  "h1": "How Many Calories in a Mug of Black Coffee?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "mug",
+    "item": "black coffee"
+  },
+  "assumptions": "Standard 8 oz (240 ml) mug of brewed black coffee, no additives like sugar, milk, or cream.",
+  "disclaimer": "Nutrition varies by brew strength, bean type, and serving size; values are approximate. Check product labels when available.",
+  "quick_answer": {
+    "total_kcal": 2,
+    "text": "A mug of black coffee has just 2 kcal, making it virtually calorie-free."
+  },
+  "basis": {
+    "label": "per 1 mug (240 ml)",
+    "amount": 1,
+    "unit": "mug",
+    "nutrition": {
+      "calories_kcal": 2,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 2,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.01
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 18
+    },
+    {
+      "label": "Add 1 tbsp whole milk",
+      "delta_kcal_per_unit": 9,
+      "new_total_kcal": 11
+    },
+    {
+      "label": "Use decaf beans instead",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 2
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a mug of black coffee?",
+      "a": "Only about 2 kcal for a standard 240 ml mug."
+    },
+    {
+      "q": "Does black coffee have any carbs or protein?",
+      "a": "Negligible—0 g carbs and 0.1 g protein per mug."
+    },
+    {
+      "q": "Is black coffee fat-free?",
+      "a": "Yes, 0 g fat, including no saturated or trans fats."
+    },
+    {
+      "q": "How does adding milk change calories in black coffee?",
+      "a": "1 tbsp whole milk adds ~9 kcal; skim milk adds less (~5 kcal)."
+    },
+    {
+      "q": "Why is sodium in black coffee?",
+      "a": "Trace amounts from water and beans, about 5 mg per mug."
+    }
+  ]
+}

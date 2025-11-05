@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in white claw",
+  "title": "Calories in White Claw",
+  "meta_description": "Learn calories in White Claw per can, plus carbs, sugars, full nutrition facts, and tweaks for variations in this popular hard seltzer.",
+  "slug": "calories-in-white-claw",
+  "h1": "Calories in White Claw",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "White Claw"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) can of White Claw hard seltzer, 5% ABV; nutrition similar across flavors like Black Cherry or Mango.",
+  "disclaimer": "Nutrition varies slightly by flavor, batch, and serving size. Alcohol provides additional energy not shown in standard facts. Check labels and drink responsibly.",
+  "quick_answer": {
+    "total_kcal": 100,
+    "text": "One 12 fl oz can of White Claw contains 100 calories and 2 grams of carbs."
+  },
+  "basis": {
+    "label": "per 1 can (12 fl oz)",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 100,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sugars_g": 2,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 100,
+    "carbs_g": 2,
+    "fiber_g": 0,
+    "sugars_g": 2,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.42
+  },
+  "tweaks": [
+    {
+      "label": "Switch to White Claw Pure (lower carb version)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Add 1 oz fruit juice mixer",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Choose a 0% ABV seltzer variant (non-alcoholic)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 80
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one White Claw?",
+      "a": "About 100 calories per 12 fl oz can."
+    },
+    {
+      "q": "What are the carbs in White Claw?",
+      "a": "2 grams of carbohydrates, all from sugars, per can."
+    },
+    {
+      "q": "Does White Claw have protein or fat?",
+      "a": "No protein or fat; it's primarily carbs and alcohol."
+    },
+    {
+      "q": "How does White Claw compare calorie-wise to beer?",
+      "a": "Lower than most beers (100 kcal vs. 150+ kcal for a 12 oz light beer)."
+    },
+    {
+      "q": "Are calories the same for all White Claw flavors?",
+      "a": "Yes, standard flavors are consistent at 100 kcal per can."
+    }
+  ]
+}

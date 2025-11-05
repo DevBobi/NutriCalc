@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in ramen noodles",
+  "title": "How Many Calories in Ramen Noodles?",
+  "meta_description": "Discover how many calories in ramen noodles per standard package, including carbs, protein, fat, sodium, and preparation tweaks for better nutrition.",
+  "slug": "how-many-calories-in-ramen-noodles",
+  "h1": "How Many Calories in Ramen Noodles?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "package",
+    "item": "ramen noodles"
+  },
+  "assumptions": "Instant ramen noodles, 1 standard package (85g dry weight), chicken flavor, prepared in boiling water without added oil, eggs, or toppings.",
+  "disclaimer": "Nutrition varies by brand, flavor, package size, and preparation method. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 380,
+    "text": "One package of instant ramen noodles contains about 380 calories, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 package (85g dry)",
+    "amount": 1,
+    "unit": "package",
+    "nutrition": {
+      "calories_kcal": 380,
+      "carbs_g": 52,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 10,
+      "fat_g": 14,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1580
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 380,
+    "carbs_g": 52,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 10,
+    "fat_g": 14,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1580
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.59
+  },
+  "tweaks": [
+    {
+      "label": "Skip the flavor packet for lower sodium",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Add one boiled egg as topping",
+      "delta_kcal_per_unit": 78,
+      "new_total_kcal": 458
+    },
+    {
+      "label": "Use half the oil packet if included",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 340
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a package of ramen noodles?",
+      "a": "Approximately 380 calories for a standard 85g dry package."
+    },
+    {
+      "q": "Are ramen noodles high in sodium?",
+      "a": "Yes, one package has about 1580 mg sodium, over 60% of daily recommended intake."
+    },
+    {
+      "q": "How many carbs in ramen noodles?",
+      "a": "Around 52 g carbs per package, primarily refined noodles."
+    },
+    {
+      "q": "Calories in cooked vs dry ramen noodles?",
+      "a": "Calories are based on dry weight; cooking adds water but doesn't change calorie count significantly."
+    },
+    {
+      "q": "Can I reduce calories in ramen noodles?",
+      "a": "Yes, by skipping the flavor packet, using less oil, or adding veggies for bulk without extra calories."
+    }
+  ]
+}

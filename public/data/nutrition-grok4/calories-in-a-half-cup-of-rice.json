@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a half cup of rice",
+  "title": "Calories in a Half Cup of Rice",
+  "meta_description": "Discover calories in a half cup of rice, including carbs, protein, fat, full nutrition breakdown per 100 g basis, and preparation tweaks for better tracking.",
+  "slug": "calories-in-a-half-cup-of-rice",
+  "h1": "Calories in a Half Cup of Rice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 0.5,
+    "unit": "cup",
+    "item": "rice"
+  },
+  "assumptions": "Cooked white long-grain rice, no added salt, oil, or seasonings; 1 cup ≈ 158 g.",
+  "disclaimer": "Nutrition varies by rice type, brand, cooking method, water absorption, and portion measurement. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 103,
+    "text": "A half cup of cooked white rice provides about 103 kcal and 22 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 28.2,
+      "fiber_g": 0.4,
+      "sugars_g": 0.1,
+      "protein_g": 2.7,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 103,
+    "carbs_g": 22.3,
+    "fiber_g": 0.3,
+    "sugars_g": 0.1,
+    "protein_g": 2.1,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.43
+  },
+  "tweaks": [
+    {
+      "label": "Switch to cooked brown rice",
+      "delta_kcal_per_unit": -19,
+      "new_total_kcal": 88
+    },
+    {
+      "label": "Add 1 tsp butter per 100 g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 135
+    },
+    {
+      "label": "Use basmati rice (slightly drier)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 113
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a half cup of cooked white rice?",
+      "a": "Approximately 103 kcal for a half cup (about 79 g)."
+    },
+    {
+      "q": "What's the carb content in a half cup of rice?",
+      "a": "Around 22 g carbs, mostly starch, with minimal fiber (0.3 g)."
+    },
+    {
+      "q": "Does rice type affect calories in a half cup?",
+      "a": "Yes—brown rice has fewer calories (~88 kcal) than white due to higher fiber and lower density."
+    },
+    {
+      "q": "Is this for cooked or uncooked rice?",
+      "a": "Cooked; uncooked rice is much denser and higher in calories per volume."
+    },
+    {
+      "q": "How much protein in a half cup of rice?",
+      "a": "About 2.1 g protein, making it a low-protein carb source."
+    }
+  ]
+}

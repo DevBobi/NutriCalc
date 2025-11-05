@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in jack daniels",
+  "title": "Calories in Jack Daniel's Whiskey",
+  "meta_description": "Discover calories in Jack Daniel's whiskey per standard shot, plus nutrition facts, equivalents, and tweaks for mixers—no carbs or protein.",
+  "slug": "calories-in-jack-daniels",
+  "h1": "Calories in Jack Daniel's Whiskey",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "Jack Daniel's whiskey"
+  },
+  "assumptions": "Standard 1.5 fl oz (44 ml) serving, 40% ABV (80 proof), straight—no mixers or ice dilution.",
+  "disclaimer": "Nutrition varies by proof, serving size, and brand specifics; mixers or garnishes add calories. Drink responsibly and check labels.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "A standard 1.5 oz shot of Jack Daniel's whiskey has ~97 calories from alcohol."
+  },
+  "basis": {
+    "label": "per 1.5 fl oz shot",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison; alcohol provides empty calories.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Add 6 oz cola mixer",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 237
+    },
+    {
+      "label": "Double shot (3 oz)",
+      "delta_kcal_per_unit": 97,
+      "new_total_kcal": 194
+    },
+    {
+      "label": "On the rocks (with ice dilution)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 87
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one shot of Jack Daniel's?",
+      "a": "About 97 kcal for a 1.5 oz shot at 40% ABV."
+    },
+    {
+      "q": "Does Jack Daniel's have carbs or sugar?",
+      "a": "No—0 g carbs, fiber, or sugars; calories are purely from alcohol."
+    },
+    {
+      "q": "Calories in Jack Daniel's and Coke?",
+      "a": "A standard mix adds ~140 kcal from cola, totaling ~237 kcal."
+    },
+    {
+      "q": "How does proof affect calories in Jack Daniel's?",
+      "a": "Higher proof (e.g., 100 proof) increases calories slightly; 80 proof is ~97 kcal per shot."
+    },
+    {
+      "q": "Is Jack Daniel's low-calorie compared to other whiskeys?",
+      "a": "Similar to most 80-proof whiskeys at ~97 kcal per 1.5 oz—varies minimally by brand."
+    }
+  ]
+}

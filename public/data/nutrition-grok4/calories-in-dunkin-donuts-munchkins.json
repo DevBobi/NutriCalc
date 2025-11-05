@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in dunkin donuts munchkins",
+  "title": "Calories in Dunkin Donuts Munchkins",
+  "meta_description": "Discover calories in Dunkin Donuts Munchkins per serving, including carbs, sugars, fat, protein, and nutrition tweaks for different flavors.",
+  "slug": "calories-in-dunkin-donuts-munchkins",
+  "h1": "Calories in Dunkin Donuts Munchkins",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 4,
+    "unit": "munchkin",
+    "item": "Dunkin Donuts munchkin"
+  },
+  "assumptions": "Average glazed variety; small serving of 4 pieces; based on standard Dunkin' recipes without fillings or toppings.",
+  "disclaimer": "Nutrition varies by flavor, batch, and location. Check Dunkin' app or packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 240,
+    "text": "A serving of 4 Dunkin Donuts Munchkins has about 240 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 munchkin",
+    "amount": 1,
+    "unit": "munchkin",
+    "nutrition": {
+      "calories_kcal": 60,
+      "carbs_g": 8,
+      "fiber_g": 0.2,
+      "sugars_g": 3.5,
+      "protein_g": 0.8,
+      "fat_g": 3,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 45
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 240,
+    "carbs_g": 32,
+    "fiber_g": 0.8,
+    "sugars_g": 14,
+    "protein_g": 3.2,
+    "fat_g": 12,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 180
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate glazed (vs. plain glazed)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Jelly-filled variation",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Gluten-free option (per munchkin)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 260
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Dunkin Donuts Munchkin?",
+      "a": "About 60 kcal per average glazed Munchkin."
+    },
+    {
+      "q": "What are the carbs in Dunkin Donuts Munchkins?",
+      "a": "4 Munchkins have ~32 g carbs, including 14 g sugars."
+    },
+    {
+      "q": "Are Dunkin Munchkins high in fat?",
+      "a": "Yes, 4 provide 12 g fat, with 6 g saturated."
+    },
+    {
+      "q": "Calories in a dozen Dunkin Donuts Munchkins?",
+      "a": "Around 720 kcal for 12, based on 60 kcal each."
+    },
+    {
+      "q": "Do flavors affect calories in Dunkin Munchkins?",
+      "a": "Yes, chocolate or filled varieties add 10-20 kcal per piece."
+    }
+  ]
+}

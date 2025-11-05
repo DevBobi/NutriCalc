@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in michelob ultra",
+  "title": "How Many Calories in Michelob Ultra?",
+  "meta_description": "Discover how many calories in Michelob Ultra per 12 oz serving, plus carbs, protein, sodium, and quick tweaks for light beer nutrition.",
+  "slug": "how-many-calories-in-michelob-ultra",
+  "h1": "How Many Calories in Michelob Ultra?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "Michelob Ultra"
+  },
+  "assumptions": "Standard 12 oz (355 ml) bottle or can of Michelob Ultra light lager beer, as served chilled.",
+  "disclaimer": "Nutrition varies by brand batch, serving size, and any added flavors; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 95,
+    "text": "One 12 oz Michelob Ultra has 95 kcal and just 2.6 g carbs."
+  },
+  "basis": {
+    "label": "per 12 oz bottle",
+    "amount": 1,
+    "unit": "bottle",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 2.6,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.6,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 95,
+    "carbs_g": 2.6,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.6,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Switch to regular Michelob (per bottle)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Larger 16 oz serving",
+      "delta_kcal_per_unit": 26,
+      "new_total_kcal": 121
+    },
+    {
+      "label": "Add a lime wedge (negligible change)",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 96
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Michelob Ultra?",
+      "a": "About 95 kcal per 12 oz bottle."
+    },
+    {
+      "q": "What are the carbs in Michelob Ultra?",
+      "a": "Only 2.6 g carbs per serving, making it low-carb."
+    },
+    {
+      "q": "Does Michelob Ultra have protein or fat?",
+      "a": "0.6 g protein and 0 g fat per 12 oz."
+    },
+    {
+      "q": "How does Michelob Ultra compare to other light beers?",
+      "a": "It's among the lowest at 95 kcal, lower than many like Bud Light (110 kcal)."
+    },
+    {
+      "q": "Is sodium high in Michelob Ultra?",
+      "a": "Very low at 5 mg per bottle."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in starbucks almond milk",
+  "title": "Calories in Starbucks Almond Milk",
+  "meta_description": "Learn calories in Starbucks almond milk per 8 oz serving, including carbs, fat, protein, sodium, and nutrition tweaks for drinks.",
+  "slug": "calories-in-starbucks-almond-milk",
+  "h1": "Calories in Starbucks Almond Milk",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 240,
+    "unit": "ml",
+    "item": "Starbucks almond milk"
+  },
+  "assumptions": "Unsweetened almond milk as used by Starbucks in beverages; 8 oz (240 ml) serving size; no additives.",
+  "disclaimer": "Nutrition varies by batch, supplier, and exact formulation; sweetened versions or mixes increase values. Check Starbucks app or labels.",
+  "quick_answer": {
+    "total_kcal": 36,
+    "text": "An 8 oz serving of Starbucks almond milk provides ~36 kcal with minimal carbs and fat."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 15,
+      "carbs_g": 0.5,
+      "fiber_g": 0.3,
+      "sugars_g": 0,
+      "protein_g": 0.5,
+      "fat_g": 1.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 63
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 36,
+    "carbs_g": 1.2,
+    "fiber_g": 0.7,
+    "sugars_g": 0,
+    "protein_g": 1.2,
+    "fat_g": 2.9,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 151
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged almond milks.",
+  "equivalents": {
+    "megajoules": 0.15
+  },
+  "tweaks": [
+    {
+      "label": "Sweetened version (add ~5g sugar per 240 ml)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 56
+    },
+    {
+      "label": "In a latte (add espresso, no syrup)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 41
+    },
+    {
+      "label": "With vanilla syrup (1 pump per serving)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 56
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 8 oz Starbucks almond milk?",
+      "a": "About 36 kcal for an unsweetened 8 oz serving."
+    },
+    {
+      "q": "Is Starbucks almond milk low carb?",
+      "a": "Yes, ~1.2 g carbs per 8 oz, mostly from natural sources with 0.7 g fiber."
+    },
+    {
+      "q": "What's the fat content in Starbucks almond milk?",
+      "a": "Approximately 2.9 g total fat per 8 oz, with 0.2 g saturated."
+    },
+    {
+      "q": "Does Starbucks almond milk have protein?",
+      "a": "Minimal, about 1.2 g per 8 oz serving."
+    },
+    {
+      "q": "How does sweetened Starbucks almond milk compare?",
+      "a": "Adds ~20 kcal and sugars; check for flavored or barista versions."
+    }
+  ]
+}

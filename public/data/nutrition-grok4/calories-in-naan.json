@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in naan",
+  "title": "Calories in Naan Bread",
+  "meta_description": "Discover calories in naan, including carbs, protein, fat, and full nutrition breakdown per piece, plus variations and FAQs for better meal planning.",
+  "slug": "calories-in-naan",
+  "h1": "Calories in Naan Bread",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "naan",
+    "item": "naan"
+  },
+  "assumptions": "Plain naan bread (approx. 100 g per piece), tandoor-baked with yogurt and flour, no added butter or toppings.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One standard naan provides about 250 kcal, mainly from carbs."
+  },
+  "basis": {
+    "label": "per 1 naan",
+    "amount": 1,
+    "unit": "naan",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 45,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 8,
+      "fat_g": 5,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 45,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 8,
+    "fat_g": 5,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Garlic naan (add garlic butter)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Whole wheat naan (substitute flour)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Butter naan (extra ghee topping)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 290
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one naan?",
+      "a": "About 250 kcal for a standard plain naan."
+    },
+    {
+      "q": "What are the carbs in naan?",
+      "a": "Roughly 45 g carbs per naan, with 2 g fiber."
+    },
+    {
+      "q": "Is naan high in sodium?",
+      "a": "Yes, around 500 mg sodium per piece due to salt in dough."
+    },
+    {
+      "q": "Calories in garlic naan vs plain?",
+      "a": "Garlic naan adds about 50 kcal from butter, totaling ~300 kcal."
+    },
+    {
+      "q": "Does naan have protein?",
+      "a": "About 8 g protein per naan, from flour and yogurt."
+    }
+  ]
+}

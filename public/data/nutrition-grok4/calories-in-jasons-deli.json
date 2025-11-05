@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in jasons deli",
+  "title": "Calories in Jason's Deli Menu Items",
+  "meta_description": "Discover calories in Jason's Deli popular items like sandwiches and salads, with detailed nutrition for a California Club sandwich and tips for healthier choices.",
+  "slug": "calories-in-jasons-deli",
+  "h1": "Calories in Jason's Deli Menu Items",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Jason's Deli California Club"
+  },
+  "assumptions": "Full California Club sandwich on sourdough bread; includes smoked turkey, ham, bacon, avocado, Swiss cheese, mayo, lettuce, tomato; no modifications.",
+  "disclaimer": "Nutrition varies by location, exact ingredients, portion size, and customizations. Check Jason's Deli app or menu for latest values.",
+  "quick_answer": {
+    "total_kcal": 1030,
+    "text": "A full Jason's Deli California Club sandwich contains about 1030 kcal and 49 g protein."
+  },
+  "basis": {
+    "label": "per 1 full sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 1030,
+      "carbs_g": 92,
+      "fiber_g": 6,
+      "sugars_g": 16,
+      "protein_g": 49,
+      "fat_g": 52,
+      "sat_fat_g": 15,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 110,
+      "sodium_mg": 2490
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1030,
+    "carbs_g": 92,
+    "fiber_g": 6,
+    "sugars_g": 16,
+    "protein_g": 49,
+    "fat_g": 52,
+    "sat_fat_g": 15,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 110,
+    "sodium_mg": 2490
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.31
+  },
+  "tweaks": [
+    {
+      "label": "Half sandwich portion",
+      "delta_kcal_per_unit": -515,
+      "new_total_kcal": 515
+    },
+    {
+      "label": "No mayo and extra veggies",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 930
+    },
+    {
+      "label": "Add a side salad (no dressing)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 1080
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Jason's Deli California Club sandwich?",
+      "a": "About 1030 kcal for the full sandwich."
+    },
+    {
+      "q": "What are the macros for Jason's Deli sandwiches?",
+      "a": "Varies; California Club has 92 g carbs, 52 g fat, 49 g protein."
+    },
+    {
+      "q": "Are Jason's Deli salads lower in calories?",
+      "a": "Yes, many salads are 300–600 kcal without dressing; add-ons increase it."
+    },
+    {
+      "q": "How much sodium in Jason's Deli items?",
+      "a": "High; e.g., 2490 mg in a California Club due to meats and bread."
+    },
+    {
+      "q": "Can I get lower calorie options at Jason's Deli?",
+      "a": "Opt for half portions, salads, or grilled chicken items to reduce calories."
+    }
+  ]
+}

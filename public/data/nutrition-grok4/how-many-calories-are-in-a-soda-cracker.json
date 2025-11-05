@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a soda cracker",
+  "title": "How Many Calories Are in a Soda Cracker?",
+  "meta_description": "Discover how many calories are in a soda cracker, including carbs, sodium, fat, and other nutrients on a per-cracker basis with quick tweaks and FAQs.",
+  "slug": "how-many-calories-are-in-a-soda-cracker",
+  "h1": "How Many Calories Are in a Soda Cracker?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cracker",
+    "item": "soda cracker"
+  },
+  "assumptions": "Standard plain saltine soda cracker, approximately 5 g each, no toppings or added fats.",
+  "disclaimer": "Nutrition varies by brand, size, ingredients, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 13,
+    "text": "One standard soda cracker contains about 13 kcal and is low in fat and protein."
+  },
+  "basis": {
+    "label": "per 1 soda cracker",
+    "amount": 1,
+    "unit": "cracker",
+    "nutrition": {
+      "calories_kcal": 13,
+      "carbs_g": 2.2,
+      "fiber_g": 0.1,
+      "sugars_g": 0,
+      "protein_g": 0.3,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 135
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 13,
+    "carbs_g": 2.2,
+    "fiber_g": 0.1,
+    "sugars_g": 0,
+    "protein_g": 0.3,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 135
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.05
+  },
+  "tweaks": [
+    {
+      "label": "Top with 1 tsp butter",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 47
+    },
+    {
+      "label": "Whole wheat soda cracker version",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 15
+    },
+    {
+      "label": "Low-sodium variety",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 13
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a soda cracker?",
+      "a": "Approximately 13 kcal per standard soda cracker."
+    },
+    {
+      "q": "What is the sodium content in one soda cracker?",
+      "a": "About 135 mg of sodium per cracker."
+    },
+    {
+      "q": "Do soda crackers have any protein or fat?",
+      "a": "Minimal: 0.3 g protein and 0.3 g fat per cracker."
+    },
+    {
+      "q": "Are soda crackers high in carbs?",
+      "a": "They have about 2.2 g carbs per cracker, mostly refined flour."
+    },
+    {
+      "q": "How does brand affect calories in soda crackers?",
+      "a": "Brands vary slightly; some low-fat versions may have 10-12 kcal."
+    }
+  ]
+}

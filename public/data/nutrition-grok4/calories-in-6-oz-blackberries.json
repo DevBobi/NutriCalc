@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 6 oz blackberries",
+  "title": "Calories in 6 oz Blackberries",
+  "meta_description": "Discover calories in 6 oz blackberries: about 73 kcal total, with high fiber, low fat, and full nutrition details plus tweaks for recipes.",
+  "slug": "calories-in-6-oz-blackberries",
+  "h1": "Calories in 6 oz Blackberries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 6,
+    "unit": "oz",
+    "item": "blackberries"
+  },
+  "assumptions": "Fresh, raw blackberries; whole, washed berries; average ripeness.",
+  "disclaimer": "Nutrition varies by variety, ripeness, growing conditions, and storage; check labels for packaged products.",
+  "quick_answer": {
+    "total_kcal": 73,
+    "text": "6 oz fresh blackberries provide ~73 kcal, 9 g fiber, and 2.4 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 43,
+      "carbs_g": 9.61,
+      "fiber_g": 5.3,
+      "sugars_g": 4.88,
+      "protein_g": 1.39,
+      "fat_g": 0.49,
+      "sat_fat_g": 0.01,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 73,
+    "carbs_g": 16.3,
+    "fiber_g": 9,
+    "sugars_g": 8.3,
+    "protein_g": 2.4,
+    "fat_g": 0.8,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.31
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp granulated sugar per 100 g",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Use dried blackberries instead of fresh per 100 g",
+      "delta_kcal_per_unit": 422,
+      "new_total_kcal": 789
+    },
+    {
+      "label": "Canned in light syrup, drained, per 100 g",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 107
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 6 oz blackberries?",
+      "a": "About 73 calories for 6 oz fresh blackberries."
+    },
+    {
+      "q": "What is the fiber in 6 oz blackberries?",
+      "a": "Approximately 9 g of dietary fiber, aiding digestion."
+    },
+    {
+      "q": "Are 6 oz blackberries low in sugar?",
+      "a": "Yes, around 8.3 g natural sugars, mostly from the fruit."
+    },
+    {
+      "q": "How much protein in 6 oz blackberries?",
+      "a": "About 2.4 g protein, a modest amount for a fruit serving."
+    },
+    {
+      "q": "Calories in blackberries per cup?",
+      "a": "A cup (about 5.5 oz or 144 g) has roughly 62 calories."
+    }
+  ]
+}

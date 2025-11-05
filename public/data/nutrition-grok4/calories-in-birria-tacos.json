@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in birria tacos",
+  "title": "Calories in Birria Tacos",
+  "meta_description": "Learn calories in birria tacos with full nutrition breakdown per taco, totals for 3, macros, and tweaks for beef-filled Mexican street food.",
+  "slug": "calories-in-birria-tacos",
+  "h1": "Calories in Birria Tacos",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "taco",
+    "item": "birria taco"
+  },
+  "assumptions": "3 beef birria tacos: each with 6-inch corn tortilla, 2 oz shredded beef birria, 0.5 oz Oaxaca cheese, onions, cilantro; no consomé included.",
+  "disclaimer": "Nutrition varies by recipe, meat cut, cheese amount, frying method, and toppings. Check restaurant info or labels when available.",
+  "quick_answer": {
+    "total_kcal": 840,
+    "text": "Three birria tacos provide ~840 kcal and ~45 g protein."
+  },
+  "basis": {
+    "label": "per 1 birria taco",
+    "amount": 1,
+    "unit": "taco",
+    "nutrition": {
+      "calories_kcal": 280,
+      "carbs_g": 20,
+      "fiber_g": 3,
+      "sugars_g": 1,
+      "protein_g": 15,
+      "fat_g": 15,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 840,
+    "carbs_g": 60,
+    "fiber_g": 9,
+    "sugars_g": 3,
+    "protein_g": 45,
+    "fat_g": 45,
+    "sat_fat_g": 18,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 150,
+    "sodium_mg": 1500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.51
+  },
+  "tweaks": [
+    {
+      "label": "Omit cheese per taco",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 690
+    },
+    {
+      "label": "Use chicken birria instead of beef per taco",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 780
+    },
+    {
+      "label": "Flour tortilla instead of corn per taco",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 930
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one birria taco?",
+      "a": "About 280 kcal per taco under standard assumptions."
+    },
+    {
+      "q": "What are the macros for birria tacos?",
+      "a": "Per 3 tacos: ~45 g protein, 60 g carbs, 45 g fat."
+    },
+    {
+      "q": "Do birria tacos have a lot of sodium?",
+      "a": "Yes, ~1500 mg for 3 tacos due to seasoning and cheese."
+    },
+    {
+      "q": "How does frying affect calories in birria tacos?",
+      "a": "Dipped and fried in fat adds ~50-100 kcal per taco versus steamed."
+    },
+    {
+      "q": "Can birria tacos be lower calorie?",
+      "a": "Yes—skip cheese, use leaner meat, or smaller tortillas to reduce by 100-200 kcal total."
+    }
+  ]
+}

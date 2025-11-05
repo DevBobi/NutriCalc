@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in steamed broccoli",
+  "title": "How Many Calories in Steamed Broccoli?",
+  "meta_description": "Learn how many calories in steamed broccoli per 100g, including carbs, protein, fiber, fat, and full nutrition details for easy tracking.",
+  "slug": "how-many-calories-in-steamed-broccoli",
+  "h1": "How Many Calories in Steamed Broccoli?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "steamed broccoli"
+  },
+  "assumptions": "Fresh broccoli florets, steamed until tender, no added salt, butter, or oil; values based on cooked, drained weight.",
+  "disclaimer": "Nutrition varies by broccoli type, freshness, portion size, and cooking method. Added ingredients like butter increase calories. Check labels or databases for precision.",
+  "quick_answer": {
+    "total_kcal": 35,
+    "text": "100g of steamed broccoli has about 35 calories, 7.2g carbs, and 3.3g fiber."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 35,
+      "carbs_g": 7.2,
+      "fiber_g": 3.3,
+      "sugars_g": 1.4,
+      "protein_g": 2.4,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 33
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 35,
+    "carbs_g": 7.2,
+    "fiber_g": 3.3,
+    "sugars_g": 1.4,
+    "protein_g": 2.4,
+    "fat_g": 0.4,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 33
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.15
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per 100g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 71
+    },
+    {
+      "label": "Drizzle with 1 tsp olive oil per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 75
+    },
+    {
+      "label": "Steamed with added salt (1/4 tsp)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 35
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup of steamed broccoli?",
+      "a": "About 55 calories for 1 cup (156g) of steamed broccoli."
+    },
+    {
+      "q": "Is steamed broccoli low in carbs?",
+      "a": "Yes, 100g has 7.2g carbs, mostly from fiber (3.3g), making it keto-friendly."
+    },
+    {
+      "q": "How much protein in steamed broccoli?",
+      "a": "Around 2.4g protein per 100g, a modest amount for a vegetable."
+    },
+    {
+      "q": "Does steaming broccoli add calories?",
+      "a": "No, plain steaming keeps it low-calorie at 35 kcal per 100g; avoid adding fats."
+    },
+    {
+      "q": "What's the fiber content in steamed broccoli?",
+      "a": "3.3g dietary fiber per 100g, supporting digestion and satiety."
+    }
+  ]
+}

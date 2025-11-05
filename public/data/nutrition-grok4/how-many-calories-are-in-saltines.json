@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in saltines",
+  "title": "How Many Calories Are in Saltines?",
+  "meta_description": "Learn how many calories are in saltines with a standard serving breakdown, full nutrition facts, macros, and simple tweaks for your snack.",
+  "slug": "how-many-calories-are-in-saltines",
+  "h1": "How Many Calories Are in Saltines?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 5,
+    "unit": "saltine",
+    "item": "saltine cracker"
+  },
+  "assumptions": "Plain saltine crackers from standard brands like Nabisco or Keebler; serving of 5 crackers (~15 g total); no toppings or additions.",
+  "disclaimer": "Nutrition varies by brand, recipe, size, and preparation. Check labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 70,
+    "text": "A serving of 5 saltines provides about 70 kcal, mainly from refined carbs."
+  },
+  "basis": {
+    "label": "per 1 saltine cracker",
+    "amount": 1,
+    "unit": "saltine",
+    "nutrition": {
+      "calories_kcal": 14,
+      "carbs_g": 2.8,
+      "fiber_g": 0.1,
+      "sugars_g": 0,
+      "protein_g": 0.2,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 40
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 70,
+    "carbs_g": 14,
+    "fiber_g": 0.5,
+    "sugars_g": 0,
+    "protein_g": 1,
+    "fat_g": 1.5,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Top each with 0.5 tsp cream cheese",
+      "delta_kcal_per_unit": 12,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Use reduced-fat saltines",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Choose whole wheat saltines",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 80
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in saltines?",
+      "a": "About 70 calories in a standard serving of 5 saltines."
+    },
+    {
+      "q": "How many calories in one saltine?",
+      "a": "Roughly 14 calories per single saltine cracker."
+    },
+    {
+      "q": "Are saltines low in fat?",
+      "a": "Yes, 5 saltines have only 1.5 g total fat."
+    },
+    {
+      "q": "How much sodium is in saltines?",
+      "a": "Around 200 mg sodium in 5 saltines; opt for low-sodium if watching intake."
+    },
+    {
+      "q": "Do saltines have fiber or protein?",
+      "a": "Minimal: 0.5 g fiber and 1 g protein per 5 saltines."
+    }
+  ]
+}

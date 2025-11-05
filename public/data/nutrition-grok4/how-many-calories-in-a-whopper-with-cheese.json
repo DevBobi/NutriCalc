@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a whopper with cheese",
+  "title": "How Many Calories in a Whopper with Cheese?",
+  "meta_description": "Discover how many calories in a whopper with cheese, including full nutrition breakdown like protein, fat, carbs, and easy tweaks for your meal.",
+  "slug": "how-many-calories-in-a-whopper-with-cheese",
+  "h1": "How Many Calories in a Whopper with Cheese?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "Whopper with cheese"
+  },
+  "assumptions": "Standard Burger King Whopper with cheese: flame-grilled beef patty, American cheese, sesame bun, lettuce, tomatoes, pickles, onions, mayo, ketchup; no modifications.",
+  "disclaimer": "Nutrition varies by location, customizations, and preparation; values based on official averages. Check Burger King app or packaging for exacts.",
+  "quick_answer": {
+    "total_kcal": 740,
+    "text": "A Whopper with cheese has about 740 calories and 35g of protein."
+  },
+  "basis": {
+    "label": "per 1 Whopper with cheese",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 740,
+      "carbs_g": 51,
+      "fiber_g": 2,
+      "sugars_g": 12,
+      "protein_g": 35,
+      "fat_g": 45,
+      "sat_fat_g": 18,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 105,
+      "sodium_mg": 1260
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 740,
+    "carbs_g": 51,
+    "fiber_g": 2,
+    "sugars_g": 12,
+    "protein_g": 35,
+    "fat_g": 45,
+    "sat_fat_g": 18,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 105,
+    "sodium_mg": 1260
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.1
+  },
+  "tweaks": [
+    {
+      "label": "Remove the cheese slice",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 690
+    },
+    {
+      "label": "Add two strips of bacon",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 840
+    },
+    {
+      "label": "No bun (lettuce wrap instead)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 540
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a plain Whopper with cheese?",
+      "a": "About 740 kcal for the standard version with toppings."
+    },
+    {
+      "q": "What's the protein in a Whopper with cheese?",
+      "a": "Approximately 35 g of protein per burger."
+    },
+    {
+      "q": "How much sodium is in a Whopper with cheese?",
+      "a": "Around 1260 mg, mostly from condiments and bun."
+    },
+    {
+      "q": "Does a Whopper with cheese have trans fats?",
+      "a": "Yes, about 1 g from the beef patty."
+    },
+    {
+      "q": "How do customizations affect calories in a Whopper with cheese?",
+      "a": "Removing bun saves ~200 kcal; adding extras like bacon adds ~100 kcal."
+    }
+  ]
+}

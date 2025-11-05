@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in boba",
+  "title": "How Many Calories in Boba?",
+  "meta_description": "Discover how many calories in boba (bubble tea), including a standard serving's full nutrition breakdown, macros, and variations for different preparations.",
+  "slug": "how-many-calories-in-boba",
+  "h1": "How Many Calories in Boba?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "boba tea"
+  },
+  "assumptions": "Medium (16 oz) black milk tea boba with tapioca pearls, whole milk, and moderate sugar syrup; no extra toppings.",
+  "disclaimer": "Nutrition varies by shop, size, milk type, sweetness level, and add-ins like fruits or cheese foam. Check specific labels or apps for accuracy.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A medium serving of boba tea typically contains about 350 calories, mostly from sugar and tapioca pearls."
+  },
+  "basis": {
+    "label": "per 1 medium serving (16 oz)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 80,
+      "fiber_g": 2,
+      "sugars_g": 50,
+      "protein_g": 5,
+      "fat_g": 5,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 80,
+    "fiber_g": 2,
+    "sugars_g": 50,
+    "protein_g": 5,
+    "fat_g": 5,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 100
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Less sugar (half syrup)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Non-dairy milk (almond instead of whole)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Extra tapioca pearls",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small boba?",
+      "a": "A small (12 oz) boba tea has about 250-300 calories, depending on customizations."
+    },
+    {
+      "q": "Are boba pearls high in calories?",
+      "a": "Yes, about 100 calories per 1/4 cup of cooked tapioca pearls, mainly from carbs."
+    },
+    {
+      "q": "How many calories in sugar-free boba?",
+      "a": "Around 200-250 calories for a medium serving, reduced by skipping sugar syrup."
+    },
+    {
+      "q": "What's the protein in boba tea?",
+      "a": "Typically 4-6 g per serving, mostly from milk; plant-based milks may vary."
+    },
+    {
+      "q": "Do fruit boba teas have fewer calories?",
+      "a": "Sometimes, around 250-350 calories if low-sugar, but added fruits can increase natural sugars."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in grilled chicken",
+  "title": "How Many Calories in Grilled Chicken?",
+  "meta_description": "Discover how many calories in grilled chicken per 100g serving, including protein, fat, carbs, and nutrition breakdowns for easy tracking.",
+  "slug": "how-many-calories-in-grilled-chicken",
+  "h1": "How Many Calories in Grilled Chicken?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "grilled chicken"
+  },
+  "assumptions": "Skinless, boneless chicken breast, grilled without added oil or marinade; standard portion.",
+  "disclaimer": "Nutrition varies by cut, size, cooking method, seasonings, and added fats. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 165,
+    "text": "100g of grilled chicken breast provides about 165 kcal and 31g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 31,
+      "fat_g": 3.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 74
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 165,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 31,
+    "fat_g": 3.6,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 85,
+    "sodium_mg": 74
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.69
+  },
+  "tweaks": [
+    {
+      "label": "With skin on (adds fat per 100g)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Marinated in oil-based sauce (1 tsp oil per 100g)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 205
+    },
+    {
+      "label": "Thigh meat instead of breast (higher fat per 100g)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g grilled chicken?",
+      "a": "About 165 kcal for skinless breast, grilled plain."
+    },
+    {
+      "q": "Is grilled chicken high in protein?",
+      "a": "Yes, 100g provides ~31g protein, ideal for muscle building."
+    },
+    {
+      "q": "Does grilling add calories to chicken?",
+      "a": "No, if no oil is used; it can reduce fat compared to frying."
+    },
+    {
+      "q": "What about carbs in grilled chicken?",
+      "a": "Negligible—0g carbs per 100g for plain grilled breast."
+    },
+    {
+      "q": "How does chicken thigh compare in calories?",
+      "a": "Higher at ~190 kcal per 100g due to more fat content."
+    }
+  ]
+}

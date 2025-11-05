@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a pancake",
+  "title": "How Many Calories Are in a Pancake?",
+  "meta_description": "Discover how many calories are in a pancake, including carbs, protein, fat, and full nutrition breakdown per serving with easy tweaks.",
+  "slug": "how-many-calories-are-in-a-pancake",
+  "h1": "How Many Calories Are in a Pancake?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pancake",
+    "item": "pancake"
+  },
+  "assumptions": "Standard 4-inch diameter plain pancake (~38 g), made from basic batter (flour, milk, egg, butter), cooked on non-stick surface without added oil.",
+  "disclaimer": "Nutrition varies by recipe, size, ingredients, and cooking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "A standard pancake contains about 80 calories and 12 g of carbs."
+  },
+  "basis": {
+    "label": "per 1 pancake",
+    "amount": 1,
+    "unit": "pancake",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 12,
+      "fiber_g": 0.5,
+      "sugars_g": 2,
+      "protein_g": 2.5,
+      "fat_g": 2.5,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 12,
+    "fiber_g": 0.5,
+    "sugars_g": 2,
+    "protein_g": 2.5,
+    "fat_g": 2.5,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp maple syrup",
+      "delta_kcal_per_unit": 52,
+      "new_total_kcal": 132
+    },
+    {
+      "label": "Blueberry variation (add 5 blueberries)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Whole wheat flour instead of white",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 75
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a pancake?",
+      "a": "About 80 calories for a standard 4-inch plain pancake."
+    },
+    {
+      "q": "What are the carbs in one pancake?",
+      "a": "Approximately 12 g of carbohydrates, including 0.5 g fiber."
+    },
+    {
+      "q": "Does a pancake have much protein?",
+      "a": "Around 2.5 g of protein per standard pancake."
+    },
+    {
+      "q": "How does pancake size affect calories?",
+      "a": "Larger pancakes (6-inch) can have 120+ calories; smaller ones under 60."
+    },
+    {
+      "q": "Are pancakes high in sodium?",
+      "a": "A basic pancake has about 200 mg sodium; toppings like bacon increase it."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 3 pieces of bacon",
+  "title": "Calories in 3 Pieces of Bacon",
+  "meta_description": "Discover calories in 3 pieces of bacon, including protein, fat, sodium details, per-piece basis, and easy tweaks for variations.",
+  "slug": "calories-in-3-pieces-of-bacon",
+  "h1": "Calories in 3 Pieces of Bacon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "piece",
+    "item": "bacon"
+  },
+  "assumptions": "Standard pork bacon strips, pan-fried until crisp, excess fat drained; ~8-10 g per uncooked slice.",
+  "disclaimer": "Nutrition varies by brand, thickness, cooking method, and fat content. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 129,
+    "text": "Three pieces of cooked bacon offer ~129 kcal and ~9 g protein."
+  },
+  "basis": {
+    "label": "per 1 piece",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 43,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 3.3,
+      "sat_fat_g": 1.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 11,
+      "sodium_mg": 192
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 129,
+    "carbs_g": 0.3,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 9,
+    "fat_g": 9.9,
+    "sat_fat_g": 3.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 33,
+    "sodium_mg": 576
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Switch to turkey bacon per piece",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 54
+    },
+    {
+      "label": "Oven-baked (less oil absorbed) per piece",
+      "delta_kcal_per_unit": -8,
+      "new_total_kcal": 105
+    },
+    {
+      "label": "Thick-cut bacon per piece",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 189
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one piece of bacon?",
+      "a": "About 43 kcal per cooked pork bacon slice."
+    },
+    {
+      "q": "What's the fat and sodium in 3 pieces of bacon?",
+      "a": "Roughly 9.9 g fat and 576 mg sodium for three pieces."
+    },
+    {
+      "q": "Does cooking method affect calories in bacon?",
+      "a": "Yes—pan-frying adds more fat than baking or microwaving."
+    },
+    {
+      "q": "Are there carbs in bacon?",
+      "a": "Minimal, about 0.1 g per piece; mostly protein and fat."
+    },
+    {
+      "q": "How does turkey bacon compare to pork bacon?",
+      "a": "Turkey bacon has fewer calories (~18 kcal per piece) and less fat."
+    }
+  ]
+}

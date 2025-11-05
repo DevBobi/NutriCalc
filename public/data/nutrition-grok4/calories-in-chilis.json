@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chilis",
+  "title": "Calories in Chilies",
+  "meta_description": "Discover calories in chilis per 100g, including carbs, protein, fat, fiber, and tips for common varieties like jalapeños or red chilies.",
+  "slug": "calories-in-chilis",
+  "h1": "Calories in Chilies",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chili peppers"
+  },
+  "assumptions": "Raw, fresh chili peppers (e.g., red or jalapeño variety); no added oils or seasonings.",
+  "disclaimer": "Nutrition varies by chili type, ripeness, growing conditions, and preparation; check sources for specific varieties.",
+  "quick_answer": {
+    "total_kcal": 40,
+    "text": "100g of raw chili peppers provide about 40 kcal and 1.9g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 40,
+      "carbs_g": 8.8,
+      "fiber_g": 1.5,
+      "sugars_g": 5.3,
+      "protein_g": 1.9,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 9
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 40,
+    "carbs_g": 8.8,
+    "fiber_g": 1.5,
+    "sugars_g": 5.3,
+    "protein_g": 1.9,
+    "fat_g": 0.4,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 9
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.17
+  },
+  "tweaks": [
+    {
+      "label": "Dried chili peppers (vs. raw) per 100 g",
+      "delta_kcal_per_unit": 170,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Sautéed in 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Jalapeño variety (milder, greener) per 100 g",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 35
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of chilies?",
+      "a": "About 40 kcal for raw fresh chili peppers."
+    },
+    {
+      "q": "Are chilies high in carbs?",
+      "a": "They have moderate carbs at 8.8g per 100g, mostly from natural sugars."
+    },
+    {
+      "q": "Do chilies have fiber?",
+      "a": "Yes, around 1.5g dietary fiber per 100g, aiding digestion."
+    },
+    {
+      "q": "What's the protein in chilies?",
+      "a": "Approximately 1.9g protein per 100g, low but nutrient-dense."
+    },
+    {
+      "q": "How do cooking methods affect calories in chilies?",
+      "a": "Raw is lowest; frying or drying increases calories due to oil or concentration."
+    }
+  ]
+}

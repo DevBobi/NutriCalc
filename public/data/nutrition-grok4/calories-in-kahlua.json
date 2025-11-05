@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in kahlua",
+  "title": "Calories in Kahlua",
+  "meta_description": "Discover calories in Kahlua per serving, including carbs, sugars, and nutrition facts for this coffee liqueur, plus serving tweaks and FAQs.",
+  "slug": "calories-in-kahlua",
+  "h1": "Calories in Kahlua",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 30,
+    "unit": "ml",
+    "item": "Kahlua"
+  },
+  "assumptions": "Standard Kahlua coffee liqueur (20% ABV), one serving = 30 ml (1 fl oz); no mixers.",
+  "disclaimer": "Nutrition varies by brand, proof, batch, and serving size. Alcoholic beverages should be consumed responsibly; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 91,
+    "text": "A 30 ml serving of Kahlua contains about 91 calories, primarily from carbohydrates and sugars."
+  },
+  "basis": {
+    "label": "per 30 ml (1 fl oz)",
+    "amount": 30,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 91,
+      "carbs_g": 10.8,
+      "fiber_g": 0,
+      "sugars_g": 10.8,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 91,
+    "carbs_g": 10.8,
+    "fiber_g": 0,
+    "sugars_g": 10.8,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with bottled products.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Add 30 ml heavy cream (for a creamy liqueur drink)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 191
+    },
+    {
+      "label": "Mixed with 30 ml vodka (straight shot combo)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 161
+    },
+    {
+      "label": "Lower-sugar alternative (diet version, if available)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 51
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one shot of Kahlua?",
+      "a": "About 91 calories in 30 ml (1 fl oz) of Kahlua."
+    },
+    {
+      "q": "Are there carbs in Kahlua?",
+      "a": "Yes, approximately 10.8 g carbs per 30 ml serving, all from sugars."
+    },
+    {
+      "q": "Does Kahlua have protein or fat?",
+      "a": "No significant protein or fat; it's mostly carbs and alcohol."
+    },
+    {
+      "q": "Calories in Kahlua compared to other liqueurs?",
+      "a": "Kahlua is sweeter and higher in calories (91 kcal/oz) than plain vodka (70 kcal/oz) due to added sugars."
+    },
+    {
+      "q": "How does serving size affect calories in Kahlua?",
+      "a": "Calories scale with volume; a double shot (60 ml) would be about 182 kcal."
+    }
+  ]
+}

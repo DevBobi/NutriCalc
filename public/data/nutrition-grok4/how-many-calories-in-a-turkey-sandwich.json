@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a turkey sandwich",
+  "title": "How Many Calories in a Turkey Sandwich?",
+  "meta_description": "Discover how many calories in a turkey sandwich, including protein, carbs, fat, full nutrition breakdown, and simple tweaks for variations.",
+  "slug": "how-many-calories-in-a-turkey-sandwich",
+  "h1": "How Many Calories in a Turkey Sandwich?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "turkey sandwich"
+  },
+  "assumptions": "Standard deli turkey (3 oz), two slices whole wheat bread, lettuce, tomato, mustard; no mayo or cheese.",
+  "disclaimer": "Nutrition varies by brand, portion size, bread type, toppings, and preparation. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A standard turkey sandwich contains about 350 kcal and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 40,
+      "fiber_g": 5,
+      "sugars_g": 4,
+      "protein_g": 25,
+      "fat_g": 10,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 40,
+    "fiber_g": 5,
+    "sugars_g": 4,
+    "protein_g": 25,
+    "fat_g": 10,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp mayonnaise",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "Add 1 slice cheddar cheese",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Use white bread instead of whole wheat",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 370
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a turkey sandwich with mayo?",
+      "a": "Adding mayo increases it to about 440 kcal."
+    },
+    {
+      "q": "What is the protein in a turkey sandwich?",
+      "a": "Typically 25 g from the turkey and bread."
+    },
+    {
+      "q": "Are turkey sandwiches low carb?",
+      "a": "Around 40 g carbs mainly from bread; opt for low-carb wraps to reduce."
+    },
+    {
+      "q": "Why is sodium high in turkey sandwiches?",
+      "a": "Deli turkey and bread contribute; choose low-sodium options to lower it."
+    },
+    {
+      "q": "How to make a lower calorie turkey sandwich?",
+      "a": "Skip mayo, use mustard, add more veggies, and choose thin-sliced turkey for under 300 kcal."
+    }
+  ]
+}

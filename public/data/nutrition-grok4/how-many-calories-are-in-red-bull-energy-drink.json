@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in red bull energy drink",
+  "title": "How Many Calories Are in Red Bull Energy Drink?",
+  "meta_description": "Discover how many calories are in Red Bull energy drink (standard 250 ml can), including carbs, sugars, sodium, and quick tweaks for variations.",
+  "slug": "how-many-calories-are-in-red-bull-energy-drink",
+  "h1": "How Many Calories Are in Red Bull Energy Drink?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "Red Bull energy drink"
+  },
+  "assumptions": "Standard 250 ml can, original formula, carbonated, no added mixers.",
+  "disclaimer": "Nutrition varies by size, flavor, region, and formulation; check can label for exact values.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "A standard 250 ml can of Red Bull energy drink has 110 calories, primarily from 27 g of sugars."
+  },
+  "basis": {
+    "label": "per 1 can (250 ml)",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 28,
+      "fiber_g": 0,
+      "sugars_g": 27,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 105
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 28,
+    "fiber_g": 0,
+    "sugars_g": 27,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 105
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Sugar-free Red Bull (same size)",
+      "delta_kcal_per_unit": -110,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Add 1 tbsp (15 ml) simple syrup",
+      "delta_kcal_per_unit": 48,
+      "new_total_kcal": 158
+    },
+    {
+      "label": "Dilute with equal part sparkling water",
+      "delta_kcal_per_unit": -55,
+      "new_total_kcal": 55
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in Red Bull energy drink?",
+      "a": "110 calories in a standard 250 ml can."
+    },
+    {
+      "q": "How much sugar is in one Red Bull?",
+      "a": "About 27 g of sugars per 250 ml can."
+    },
+    {
+      "q": "Does Red Bull have protein or fat?",
+      "a": "0 g protein and 0 g fat per can."
+    },
+    {
+      "q": "Calories in sugar-free Red Bull?",
+      "a": "0 calories in the sugar-free version (250 ml)."
+    },
+    {
+      "q": "Is Red Bull high in sodium?",
+      "a": "Yes, around 105 mg sodium per 250 ml can."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sashimi",
+  "title": "Calories in Sashimi",
+  "meta_description": "Learn calories in sashimi per 100g serving, including protein, fat, carbs, and full nutrition breakdown for raw fish like tuna or salmon.",
+  "slug": "calories-in-sashimi",
+  "h1": "Calories in Sashimi",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "sashimi"
+  },
+  "assumptions": "Raw yellowfin tuna sashimi, thinly sliced; no added soy sauce, ginger, or wasabi; typical sushi-grade fish.",
+  "disclaimer": "Nutrition varies by fish type (e.g., tuna vs. salmon), freshness, portion size, and any accompaniments. Consult sources or labels for specifics.",
+  "quick_answer": {
+    "total_kcal": 108,
+    "text": "100g of sashimi provides about 108 kcal and 23g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 108,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 23.3,
+      "fat_g": 0.9,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 45,
+      "sodium_mg": 36
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 108,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 23.3,
+    "fat_g": 0.9,
+    "sat_fat_g": 0.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 45,
+    "sodium_mg": 36
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.45
+  },
+  "tweaks": [
+    {
+      "label": "Salmon sashimi instead of tuna (per 100g)",
+      "delta_kcal_per_unit": 55,
+      "new_total_kcal": 163
+    },
+    {
+      "label": "Add 1 tbsp soy sauce",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 118
+    },
+    {
+      "label": "With 1 tsp wasabi per serving",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 113
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g sashimi?",
+      "a": "Approximately 108 kcal for tuna sashimi."
+    },
+    {
+      "q": "Is sashimi low in calories compared to sushi?",
+      "a": "Yes, sashimi has fewer calories (no rice); about 108 kcal per 100g vs. 150+ for sushi rolls."
+    },
+    {
+      "q": "What fish has the most calories in sashimi?",
+      "a": "Fatty fish like salmon (~163 kcal per 100g) have more than lean tuna (~108 kcal)."
+    },
+    {
+      "q": "Does sashimi have carbs or fiber?",
+      "a": "Typically 0g carbs and 0g fiber per 100g, as it's just raw fish."
+    },
+    {
+      "q": "How much protein in a sashimi serving?",
+      "a": "Around 23g protein per 100g, making it a high-protein, low-fat option."
+    }
+  ]
+}

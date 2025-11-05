@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in skinny pop",
+  "title": "Calories in Skinny Pop Popcorn",
+  "meta_description": "Learn calories in skinny pop per serving, plus full nutrition facts like fat, carbs, protein, sodium, and easy tweaks for different flavors.",
+  "slug": "calories-in-skinny-pop",
+  "h1": "Calories in Skinny Pop Popcorn",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Skinny Pop popcorn"
+  },
+  "assumptions": "Original flavor, air-popped popcorn, standard serving of 28 g (about 3.5 cups popped), no added toppings.",
+  "disclaimer": "Nutrition varies by flavor, batch, and serving size; check packaging for exact values as formulations can change.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "One 28 g serving of Skinny Pop popcorn provides 150 calories and 2 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving (28 g)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 14,
+      "fiber_g": 2,
+      "sugars_g": 0,
+      "protein_g": 2,
+      "fat_g": 10,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 75
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 14,
+    "fiber_g": 2,
+    "sugars_g": 0,
+    "protein_g": 2,
+    "fat_g": 10,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 75
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "White Cheddar flavor (vs. original)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Add 1 tsp melted butter per serving",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Sea Salt & Pepper flavor (vs. original)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 150
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of skinny pop?",
+      "a": "About 150 calories per 28 g serving of original Skinny Pop popcorn."
+    },
+    {
+      "q": "What are the macros for skinny pop?",
+      "a": "Per serving: 10 g fat, 14 g carbs (2 g fiber), 0 g sugars, 2 g protein."
+    },
+    {
+      "q": "Is skinny pop low in sodium?",
+      "a": "Yes, 75 mg sodium per serving in the original flavor."
+    },
+    {
+      "q": "How much fiber in skinny pop?",
+      "a": "2 g dietary fiber per 28 g serving, aiding digestion."
+    },
+    {
+      "q": "Does skinny pop have trans fats?",
+      "a": "No trans fats; it's 0 g per serving."
+    }
+  ]
+}

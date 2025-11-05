@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a large chicken breast",
+  "title": "How Many Calories in a Large Chicken Breast?",
+  "meta_description": "Learn how many calories in a large chicken breast (about 200g cooked, skinless), plus full nutrition breakdown including protein, fat, carbs, and tips for variations.",
+  "slug": "how-many-calories-in-a-large-chicken-breast",
+  "h1": "How Many Calories in a Large Chicken Breast?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "large chicken breast",
+    "item": "chicken breast"
+  },
+  "assumptions": "Skinless, boneless, cooked (grilled or roasted), no added oil/sauce; large size assumed as 200 g.",
+  "disclaimer": "Nutrition varies by cut, cooking method, added ingredients, and exact size; check labels or use a scale for precision.",
+  "quick_answer": {
+    "total_kcal": 330,
+    "text": "A large cooked, skinless chicken breast (200g) contains about 330 kcal and 62 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 31,
+      "fat_g": 3.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 74
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 330,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 62,
+    "fat_g": 7.2,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 170,
+    "sodium_mg": 148
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging info.",
+  "equivalents": {
+    "megajoules": 1.38
+  },
+  "tweaks": [
+    {
+      "label": "Skin-on preparation (vs. skinless) per 100 g",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Add 1 tsp olive oil for cooking per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 410
+    },
+    {
+      "label": "Breaded and fried (vs. grilled) per 100 g",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 530
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a large chicken breast?",
+      "a": "Approximately 330 kcal for a 200g cooked, skinless large chicken breast."
+    },
+    {
+      "q": "How much protein is in a large chicken breast?",
+      "a": "About 62 g of protein in a 200g cooked, skinless portion."
+    },
+    {
+      "q": "Are there carbs in chicken breast?",
+      "a": "Plain chicken breast has 0 g carbs; additions like breading or sauce can add them."
+    },
+    {
+      "q": "Does cooking method affect calories in chicken breast?",
+      "a": "Yes—grilling keeps it low; frying or adding oil increases calories significantly."
+    },
+    {
+      "q": "What size is a large chicken breast?",
+      "a": "Typically 200-250 g raw, yielding about 150-200 g cooked; values here assume 200 g cooked."
+    }
+  ]
+}

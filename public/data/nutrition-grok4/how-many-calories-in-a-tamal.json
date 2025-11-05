@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a tamal",
+  "title": "How Many Calories Are in a Tamal?",
+  "meta_description": "Discover how many calories in a tamal, including carbs, protein, fat, and full nutrition breakdown for one typical pork tamal, plus variations and FAQs.",
+  "slug": "how-many-calories-in-a-tamal",
+  "h1": "How Many Calories Are in a Tamal?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tamal",
+    "item": "tamal"
+  },
+  "assumptions": "Typical homemade pork tamal with corn masa dough, shredded pork filling, chili sauce; approx. 120 g total weight, steamed in corn husk; no added toppings.",
+  "disclaimer": "Nutrition varies by filling (pork, chicken, cheese, veggies), size, recipe, and preparation method. Check labels for store-bought tamales.",
+  "quick_answer": {
+    "total_kcal": 223,
+    "text": "One typical pork tamal contains about 223 calories and 8 g protein."
+  },
+  "basis": {
+    "label": "per 1 tamal",
+    "amount": 1,
+    "unit": "tamal",
+    "nutrition": {
+      "calories_kcal": 223,
+      "carbs_g": 25,
+      "fiber_g": 3,
+      "sugars_g": 1,
+      "protein_g": 8,
+      "fat_g": 11,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 223,
+    "carbs_g": 25,
+    "fiber_g": 3,
+    "sugars_g": 1,
+    "protein_g": 8,
+    "fat_g": 11,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 500
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.93
+  },
+  "tweaks": [
+    {
+      "label": "Chicken filling instead of pork",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 203
+    },
+    {
+      "label": "Vegetarian cheese tamal",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 253
+    },
+    {
+      "label": "Add 1 tbsp sour cream topping",
+      "delta_kcal_per_unit": 26,
+      "new_total_kcal": 249
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a tamal with pork?",
+      "a": "About 223 kcal for one standard pork tamal."
+    },
+    {
+      "q": "What are the carbs in a tamal?",
+      "a": "Roughly 25 g carbs, including 3 g fiber from the corn masa."
+    },
+    {
+      "q": "Are tamales high in sodium?",
+      "a": "Yes, around 500 mg per tamal due to seasonings and filling."
+    },
+    {
+      "q": "How does tamal size affect calories?",
+      "a": "Larger tamales (150 g+) can have 250-300 kcal; smaller ones under 200 kcal."
+    },
+    {
+      "q": "What's the protein in one tamal?",
+      "a": "Approximately 8 g, mostly from the meat filling."
+    }
+  ]
+}

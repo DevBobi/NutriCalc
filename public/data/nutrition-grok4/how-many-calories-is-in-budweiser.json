@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in budweiser",
+  "title": "How Many Calories in Budweiser?",
+  "meta_description": "Discover how many calories is in Budweiser per standard serving, including carbs, protein, sodium, and quick tweaks for variations.",
+  "slug": "how-many-calories-is-in-budweiser",
+  "h1": "How Many Calories in Budweiser?",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "Budweiser"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) bottle of Budweiser lager beer, original formulation, no additives.",
+  "disclaimer": "Nutrition varies by serving size, brand formulation, and regional differences; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 145,
+    "text": "One 12 oz Budweiser contains about 145 kcal and 10.6 g carbs."
+  },
+  "basis": {
+    "label": "per 12 oz serving",
+    "amount": 12,
+    "unit": "oz",
+    "nutrition": {
+      "calories_kcal": 145,
+      "carbs_g": 10.6,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 1.3,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 145,
+    "carbs_g": 10.6,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 1.3,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.61
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Bud Light (lower carb version)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 105
+    },
+    {
+      "label": "Larger 16 oz serving (pint)",
+      "delta_kcal_per_unit": 58,
+      "new_total_kcal": 203
+    },
+    {
+      "label": "Budweiser Zero (non-alcoholic)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 125
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in one Budweiser bottle?",
+      "a": "About 145 kcal in a standard 12 oz Budweiser."
+    },
+    {
+      "q": "What are the carbs in Budweiser?",
+      "a": "One 12 oz serving has 10.6 g carbs, mostly from malt."
+    },
+    {
+      "q": "Does Budweiser have protein or fat?",
+      "a": "Minimal: 1.3 g protein and 0 g fat per 12 oz."
+    },
+    {
+      "q": "How does Bud Light compare in calories to Budweiser?",
+      "a": "Bud Light has about 110 kcal per 12 oz, 35 fewer than regular Budweiser."
+    },
+    {
+      "q": "Is sodium high in Budweiser?",
+      "a": "Low at 10 mg per 12 oz serving."
+    }
+  ]
+}

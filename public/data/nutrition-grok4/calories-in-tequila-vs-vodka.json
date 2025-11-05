@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in tequila vs vodka",
+  "title": "Calories in Tequila vs Vodka",
+  "meta_description": "Discover calories in tequila vs vodka: both pack about 97 kcal per 1.5 oz shot with zero carbs or fat. Get full nutrition comparison and tweaks.",
+  "slug": "calories-in-tequila-vs-vodka",
+  "h1": "Calories in Tequila vs Vodka",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "tequila"
+  },
+  "assumptions": "Unflavored, 80-proof (40% ABV) tequila and vodka; standard 1.5 fl oz (44 ml) shot serving. No mixers, limes, or additives included.",
+  "disclaimer": "Nutrition varies by brand, proof, flavoring, and serving size. Calories from alcohol content; check labels for specifics.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "A standard 1.5 oz shot of tequila or vodka has about 97 calories each, with no carbs, fat, or protein."
+  },
+  "basis": {
+    "label": "per 1 shot (1.5 fl oz)",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Switch to vodka (same 80-proof)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 97
+    },
+    {
+      "label": "Add 1 oz orange juice mixer",
+      "delta_kcal_per_unit": 14,
+      "new_total_kcal": 111
+    },
+    {
+      "label": "Use 100-proof version",
+      "delta_kcal_per_unit": 24,
+      "new_total_kcal": 121
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in tequila vs vodka?",
+      "a": "Both have about 97 calories per 1.5 oz shot of 80-proof; essentially the same."
+    },
+    {
+      "q": "Does tequila have fewer calories than vodka?",
+      "a": "No, unflavored 80-proof tequila and vodka are equal at ~97 kcal per shot."
+    },
+    {
+      "q": "Are there carbs in tequila or vodka?",
+      "a": "Straight shots have 0g carbs; calories come purely from alcohol."
+    },
+    {
+      "q": "What about flavored tequila vs vodka?",
+      "a": "Flavored versions add sugars, increasing calories by 50-150+ per shot depending on the flavor."
+    },
+    {
+      "q": "How does proof affect calories in tequila or vodka?",
+      "a": "Higher proof means more alcohol and calories; e.g., 100-proof adds ~24 kcal per 1.5 oz shot."
+    }
+  ]
+}

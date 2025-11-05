@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a bowl of spaghetti",
+  "title": "How Many Calories in a Bowl of Spaghetti?",
+  "meta_description": "Discover how many calories in a bowl of spaghetti, including carbs, protein, fat, and full nutrition breakdown for a standard 200g serving.",
+  "slug": "how-many-calories-in-a-bowl-of-spaghetti",
+  "h1": "How Many Calories in a Bowl of Spaghetti?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "spaghetti"
+  },
+  "assumptions": "Plain boiled spaghetti, no sauce or oil; standard bowl serving size ~200g cooked weight.",
+  "disclaimer": "Nutrition varies by pasta type, brand, portion size, and cooking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 316,
+    "text": "A standard bowl of plain cooked spaghetti (200g) contains about 316 calories and 12g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 158,
+      "carbs_g": 30.9,
+      "fiber_g": 1.8,
+      "sugars_g": 1.1,
+      "protein_g": 5.8,
+      "fat_g": 0.9,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 316,
+    "carbs_g": 61.8,
+    "fiber_g": 3.6,
+    "sugars_g": 2.2,
+    "protein_g": 11.6,
+    "fat_g": 1.8,
+    "sat_fat_g": 0.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.32
+  },
+  "tweaks": [
+    {
+      "label": "Add 100g marinara sauce",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 396
+    },
+    {
+      "label": "Use whole wheat spaghetti",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 306
+    },
+    {
+      "label": "Add 1 tbsp olive oil while cooking",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 436
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bowl of spaghetti with sauce?",
+      "a": "Plain is ~316 kcal for 200g; adding 100g marinara sauce brings it to about 396 kcal."
+    },
+    {
+      "q": "What are the carbs in a bowl of spaghetti?",
+      "a": "Around 62g carbs in a 200g bowl of plain cooked spaghetti."
+    },
+    {
+      "q": "Is spaghetti high in protein?",
+      "a": "A 200g bowl provides ~12g protein, moderate for a carb-focused food."
+    },
+    {
+      "q": "How does portion size affect calories in spaghetti?",
+      "a": "Calories scale with weight; 100g is ~158 kcal, so a larger bowl (300g) would be ~474 kcal."
+    },
+    {
+      "q": "Does cooking method change calories in spaghetti?",
+      "a": "Boiled plain is lowest; adding oil or butter increases fat and calories significantly."
+    }
+  ]
+}

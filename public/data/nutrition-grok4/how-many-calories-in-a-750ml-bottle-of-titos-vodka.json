@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a 750ml bottle of titos vodka",
+  "title": "How Many Calories in a 750ml Bottle of Tito's Vodka?",
+  "meta_description": "Discover how many calories in a 750ml bottle of Tito's Vodka—about 1650 from alcohol—with full nutrition breakdown, per 100 ml basis, and serving tips.",
+  "slug": "how-many-calories-in-a-750ml-bottle-of-titos-vodka",
+  "h1": "How Many Calories in a 750ml Bottle of Tito's Vodka?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 750,
+    "unit": "ml",
+    "item": "tito's vodka"
+  },
+  "assumptions": "Tito's Handmade Vodka, 80 proof (40% ABV), unflavored, standard 750 ml bottle; calories from alcohol only.",
+  "disclaimer": "Calories vary by proof, brand, and additives; assumes pure vodka without mixers. Consume alcohol responsibly and in moderation.",
+  "quick_answer": {
+    "total_kcal": 1650,
+    "text": "A 750 ml bottle of Tito's Vodka contains about 1650 calories, all derived from alcohol."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1650,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values reflect alcohol-derived energy only; no macronutrients or micronutrients like those in food.",
+  "equivalents": {
+    "megajoules": 6.9
+  },
+  "tweaks": [
+    {
+      "label": "Using 100 proof (50% ABV) vodka instead",
+      "delta_kcal_per_unit": 55,
+      "new_total_kcal": 2063
+    },
+    {
+      "label": "Adding 1 tsp simple syrup per 100 ml for sweetness",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 1770
+    },
+    {
+      "label": "Mixing with equal volume zero-calorie soda water",
+      "delta_kcal_per_unit": -110,
+      "new_total_kcal": 825
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one shot of Tito's Vodka?",
+      "a": "A standard 1.5 oz (44 ml) shot has about 97 calories."
+    },
+    {
+      "q": "Does Tito's Vodka have carbs or sugars?",
+      "a": "Unflavored Tito's Vodka has 0 g carbs, fiber, and sugars."
+    },
+    {
+      "q": "How many standard drinks in a 750ml Tito's Vodka bottle?",
+      "a": "About 17 standard 1.5 oz drinks."
+    },
+    {
+      "q": "Are there fats or proteins in a bottle of Tito's Vodka?",
+      "a": "No, 0 g fat and 0 g protein; calories are from alcohol only."
+    },
+    {
+      "q": "How does ABV affect calories in Tito's Vodka?",
+      "a": "Higher ABV increases alcohol content and calories per ml."
+    }
+  ]
+}

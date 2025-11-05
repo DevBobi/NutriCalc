@@ -1,0 +1,92 @@
+{
+  "keyword": "how much calories are in water",
+  "title": "How Many Calories Are in Water?",
+  "meta_description": "Learn how much calories are in water – it's zero per serving! Get full nutrition breakdown, equivalents, and tips for variations.",
+  "slug": "how-much-calories-are-in-water",
+  "h1": "How Many Calories Are in Water?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 250,
+    "unit": "ml",
+    "item": "water"
+  },
+  "assumptions": "Plain, still water at room temperature; no additives, flavors, or minerals considered.",
+  "disclaimer": "Water has zero calories by nature; values change only with additives like sugar, flavors, or carbonation. Consult sources for enhanced waters.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "A standard 250 ml glass of plain water contains 0 calories."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison; all values are zero for plain water.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar (dissolved)",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 16
+    },
+    {
+      "label": "Lemon-infused (1 slice lemon)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 2
+    },
+    {
+      "label": "Carbonated (sparkling water, plain)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How much calories are in a glass of water?",
+      "a": "Zero calories in 250 ml of plain water."
+    },
+    {
+      "q": "Does water have any nutrition?",
+      "a": "Plain water provides hydration with 0 calories, carbs, protein, or fat."
+    },
+    {
+      "q": "Are there calories in sparkling water?",
+      "a": "Plain sparkling water has 0 calories; flavored versions may add some."
+    },
+    {
+      "q": "What about mineral water calories?",
+      "a": "Still 0 calories, though it may contain trace minerals like sodium."
+    },
+    {
+      "q": "How does adding fruit change water calories?",
+      "a": "Infusions like lemon add minimal calories (e.g., 2 kcal from one slice), but sugars increase it more."
+    }
+  ]
+}

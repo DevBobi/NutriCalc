@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in egg foo young",
+  "title": "Calories in Egg Foo Young",
+  "meta_description": "Discover calories in egg foo young per serving, including protein, carbs, fat, sodium details, and preparation tweaks for better nutrition tracking.",
+  "slug": "calories-in-egg-foo-young",
+  "h1": "Calories in Egg Foo Young",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "egg foo young"
+  },
+  "assumptions": "Standard restaurant-style with eggs, vegetables (onions, bean sprouts), shrimp or pork, fried in oil, including brown gravy; approx. 200g per serving.",
+  "disclaimer": "Nutrition varies by recipe, protein type, oil amount, and restaurant; homemade versions differ. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 280,
+    "text": "One serving of egg foo young provides about 280 kcal, 18g protein, and is higher in sodium due to gravy."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 280,
+      "carbs_g": 15,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 18,
+      "fat_g": 18,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 200,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 280,
+    "carbs_g": 15,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 18,
+    "fat_g": 18,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 200,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.17
+  },
+  "tweaks": [
+    {
+      "label": "Without gravy",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Vegetarian version (no shrimp/pork)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 240
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of egg foo young?",
+      "a": "Approximately 280 kcal for a standard 200g serving with gravy."
+    },
+    {
+      "q": "Is egg foo young high in protein?",
+      "a": "Yes, about 18g protein per serving from eggs and added meat or shrimp."
+    },
+    {
+      "q": "What's the sodium content in egg foo young?",
+      "a": "Around 800mg per serving, mostly from the gravy and soy sauce."
+    },
+    {
+      "q": "Can I make egg foo young lower in calories?",
+      "a": "Yes, skip the gravy or bake instead of frying to reduce by 40-50 kcal."
+    },
+    {
+      "q": "How do carbs in egg foo young compare to other dishes?",
+      "a": "About 15g carbs per serving, moderate due to veggies and gravy thickeners."
+    }
+  ]
+}

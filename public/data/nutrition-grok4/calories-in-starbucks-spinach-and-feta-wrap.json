@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in starbucks spinach and feta wrap",
+  "title": "Calories in Starbucks Spinach and Feta Wrap",
+  "meta_description": "Learn calories in Starbucks spinach and feta wrap: 290 kcal per wrap, with protein, carbs, fats, sodium, and easy tweaks for customization.",
+  "slug": "calories-in-starbucks-spinach-and-feta-wrap",
+  "h1": "Calories in Starbucks Spinach and Feta Wrap",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "wrap",
+    "item": "starbucks spinach and feta wrap"
+  },
+  "assumptions": "Standard Starbucks menu item: egg whites, feta cheese, spinach, fire-roasted tomatoes, whole wheat wrap; no customizations or add-ons.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations; values based on standard recipe. Check Starbucks app or packaging for latest info.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "The Starbucks Spinach & Feta Wrap contains 290 kcal and 17 g protein."
+  },
+  "basis": {
+    "label": "per 1 wrap",
+    "amount": 1,
+    "unit": "wrap",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 17,
+      "fat_g": 13,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 680
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 17,
+    "fat_g": 13,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 680
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Substitute whole eggs for egg whites",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Add 1 slice turkey bacon",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Omit feta cheese",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 230
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Starbucks spinach and feta wrap?",
+      "a": "290 calories per wrap."
+    },
+    {
+      "q": "What's the protein in Starbucks spinach feta wrap?",
+      "a": "About 17 g protein from egg whites and feta."
+    },
+    {
+      "q": "How much sodium is in the Starbucks spinach and feta wrap?",
+      "a": "680 mg sodium, mostly from feta and wrap."
+    },
+    {
+      "q": "Are carbs high in Starbucks spinach and feta wrap?",
+      "a": "30 g total carbs, with 2 g fiber; from the whole wheat wrap."
+    },
+    {
+      "q": "Can I make the Starbucks spinach feta wrap lower calorie?",
+      "a": "Yes, omit feta for ~230 kcal or request no wrap for a salad version."
+    }
+  ]
+}

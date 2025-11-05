@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 5 guys",
+  "title": "Calories in 5 Guys Burger",
+  "meta_description": "Discover calories in 5 guys burger, including full nutrition breakdown, macros, and variations for their classic cheeseburger.",
+  "slug": "calories-in-5-guys",
+  "h1": "Calories in 5 Guys Burger",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "Five Guys cheeseburger"
+  },
+  "assumptions": "Standard Five Guys cheeseburger: two beef patties, American cheese, bun; no toppings like lettuce or tomatoes included in base.",
+  "disclaimer": "Nutrition varies by location, customizations, patty size, and cooking method. Check Five Guys app or menu for exact values.",
+  "quick_answer": {
+    "total_kcal": 980,
+    "text": "A standard Five Guys cheeseburger has about 980 kcal and 39 g protein."
+  },
+  "basis": {
+    "label": "per 1 cheeseburger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 980,
+      "carbs_g": 39,
+      "fiber_g": 2,
+      "sugars_g": 9,
+      "protein_g": 39,
+      "fat_g": 62,
+      "sat_fat_g": 29,
+      "trans_fat_g": 3,
+      "cholesterol_mg": 175,
+      "sodium_mg": 1240
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 980,
+    "carbs_g": 39,
+    "fiber_g": 2,
+    "sugars_g": 9,
+    "protein_g": 39,
+    "fat_g": 62,
+    "sat_fat_g": 29,
+    "trans_fat_g": 3,
+    "cholesterol_mg": 175,
+    "sodium_mg": 1240
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with restaurant data.",
+  "equivalents": {
+    "megajoules": 4.1
+  },
+  "tweaks": [
+    {
+      "label": "Add bacon (2 strips)",
+      "delta_kcal_per_unit": 130,
+      "new_total_kcal": 1110
+    },
+    {
+      "label": "Little burger (one patty instead of two)",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 680
+    },
+    {
+      "label": "No bun (lettuce wrap)",
+      "delta_kcal_per_unit": -240,
+      "new_total_kcal": 740
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 5 guys cheeseburger?",
+      "a": "Approximately 980 kcal for the standard version."
+    },
+    {
+      "q": "What are the macros for calories in 5 guys burger?",
+      "a": "About 39 g carbs, 39 g protein, 62 g fat."
+    },
+    {
+      "q": "Are calories in 5 guys higher with toppings?",
+      "a": "Yes, extras like A1 sauce or grilled mushrooms add 50–200 kcal."
+    },
+    {
+      "q": "How much sodium in a 5 guys burger?",
+      "a": "Around 1240 mg, mostly from cheese and seasoning."
+    },
+    {
+      "q": "Calories in 5 guys fries?",
+      "a": "Regular fries are about 953 kcal; not included in burger totals."
+    }
+  ]
+}

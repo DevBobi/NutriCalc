@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 10 chicken wings",
+  "title": "Calories in 10 Chicken Wings",
+  "meta_description": "Discover calories in 10 chicken wings, including protein, fat, carbs, full nutrition breakdown per wing, and easy tweaks for different preparations.",
+  "slug": "calories-in-10-chicken-wings",
+  "h1": "Calories in 10 Chicken Wings",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 10,
+    "unit": "wing",
+    "item": "chicken wing"
+  },
+  "assumptions": "Bone-in, skin-on, fried; average size (~30 g meat per wing); no sauce or breading added.",
+  "disclaimer": "Nutrition varies by size, cooking method, brand, and added ingredients like sauces. Check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 900,
+    "text": "10 fried chicken wings provide ~900 kcal and ~65 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken wing",
+    "amount": 1,
+    "unit": "wing",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 6.5,
+      "fat_g": 7,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 40,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 900,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 65,
+    "fat_g": 70,
+    "sat_fat_g": 20,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 400,
+    "sodium_mg": 1000
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 3.77
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 700
+    },
+    {
+      "label": "Skin removed per wing",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Add buffalo sauce (1 tbsp per 5 wings)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 1000
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one chicken wing?",
+      "a": "About 90 kcal for one fried, skin-on chicken wing."
+    },
+    {
+      "q": "What's the protein in 10 chicken wings?",
+      "a": "Roughly 65 g protein total."
+    },
+    {
+      "q": "Do chicken wings have carbs?",
+      "a": "Plain wings have 0 g carbs; breading or sauce adds them."
+    },
+    {
+      "q": "Are these calories for fried or baked wings?",
+      "a": "Assumed fried; baking reduces calories by ~20 per wing."
+    },
+    {
+      "q": "How does wing size affect calories?",
+      "a": "Larger wings (~40 g) add ~20-30 kcal each; smaller ones less."
+    }
+  ]
+}

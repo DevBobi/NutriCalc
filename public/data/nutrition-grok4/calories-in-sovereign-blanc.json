@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sovereign blanc",
+  "title": "Calories in Sovereign Blanc Wine",
+  "meta_description": "Discover calories in sovereign blanc, a crisp white wine, including carbs, alcohol content, per 100 ml basis, and serving tips for 150 ml glass.",
+  "slug": "calories-in-sovereign-blanc",
+  "h1": "Calories in Sovereign Blanc Wine",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "glass",
+    "item": "sovereign blanc"
+  },
+  "assumptions": "Dry white wine from Sovereign Blanc grapes, 12% ABV, standard 150 ml serving size, no added sugars.",
+  "disclaimer": "Nutrition varies by producer, vintage, sweetness level, and serving size. Check bottle labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 123,
+    "text": "One 150 ml glass of Sovereign Blanc wine has ~123 kcal, mostly from alcohol."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 82,
+      "carbs_g": 0.9,
+      "fiber_g": 0,
+      "sugars_g": 0.8,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 123,
+    "carbs_g": 1.4,
+    "fiber_g": 0,
+    "sugars_g": 1.2,
+    "protein_g": 0.2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 8
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.51
+  },
+  "tweaks": [
+    {
+      "label": "Semi-sweet version (higher residual sugar)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 143
+    },
+    {
+      "label": "Larger 200 ml pour",
+      "delta_kcal_per_unit": 41,
+      "new_total_kcal": 164
+    },
+    {
+      "label": "Lower alcohol (10% ABV) version",
+      "delta_kcal_per_unit": -21,
+      "new_total_kcal": 102
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a glass of sovereign blanc?",
+      "a": "About 123 kcal for a standard 150 ml glass of dry Sovereign Blanc."
+    },
+    {
+      "q": "Does sovereign blanc have carbs?",
+      "a": "Yes, ~1.4 g carbs per 150 ml glass, mostly from residual sugars."
+    },
+    {
+      "q": "Is sovereign blanc low in calories compared to red wine?",
+      "a": "Similar to many dry whites; ~82 kcal per 100 ml, often less than sweeter wines."
+    },
+    {
+      "q": "What affects calories in sovereign blanc?",
+      "a": "Alcohol content, sweetness, and serving size; dry versions are lower in calories."
+    },
+    {
+      "q": "Calories per 100 ml of sovereign blanc?",
+      "a": "Approximately 82 kcal per 100 ml for a typical dry white wine."
+    }
+  ]
+}

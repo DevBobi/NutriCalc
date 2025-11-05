@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sunny d",
+  "title": "Calories in Sunny D",
+  "meta_description": "Learn calories in Sunny D per 8 oz serving, plus full nutrition breakdown including carbs, sugars, and sodium for this citrus drink.",
+  "slug": "calories-in-sunny-d",
+  "h1": "Calories in Sunny D",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 240,
+    "unit": "ml",
+    "item": "Sunny D"
+  },
+  "assumptions": "Original citrus punch flavor; standard 8 fl oz (240 ml) serving; values from typical product label, no additives.",
+  "disclaimer": "Nutrition varies by flavor, batch, and serving size. Check product labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 60,
+    "text": "A 240 ml serving of Sunny D contains about 60 calories, primarily from sugars."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 25,
+      "carbs_g": 6.3,
+      "fiber_g": 0,
+      "sugars_g": 5.8,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 60,
+    "carbs_g": 15,
+    "fiber_g": 0,
+    "sugars_g": 14,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 25
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.25
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Sunny D low sugar version per 100 ml",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 24
+    },
+    {
+      "label": "Add 1 oz real orange juice per serving",
+      "delta_kcal_per_unit": 14,
+      "new_total_kcal": 74
+    },
+    {
+      "label": "Dilute with sparkling water (50/50 mix)",
+      "delta_kcal_per_unit": -12,
+      "new_total_kcal": 48
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Sunny D per serving?",
+      "a": "About 60 calories in an 8 oz (240 ml) serving of original Sunny D."
+    },
+    {
+      "q": "Is Sunny D high in sugar?",
+      "a": "Yes, 14 g of sugars per 240 ml serving, mostly added sugars."
+    },
+    {
+      "q": "Does Sunny D have fat or protein?",
+      "a": "No fat or protein; it's primarily carbs from sugars."
+    },
+    {
+      "q": "Calories in Sunny D vs orange juice?",
+      "a": "Sunny D has fewer calories (60 vs ~110 per 240 ml) but less natural nutrients."
+    },
+    {
+      "q": "What's the sodium in Sunny D?",
+      "a": "About 25 mg per 240 ml serving."
+    }
+  ]
+}

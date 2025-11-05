@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in one baked potato",
+  "title": "Calories in One Baked Potato",
+  "meta_description": "Discover calories in one baked potato, including carbs, protein, fiber, and full nutrition breakdown per serving with easy tweaks.",
+  "slug": "calories-in-one-baked-potato",
+  "h1": "Calories in One Baked Potato",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "potato",
+    "item": "baked potato"
+  },
+  "assumptions": "Medium russet potato (~173 g with skin), baked plain without oil, butter, or toppings.",
+  "disclaimer": "Nutrition varies by potato size, variety, baking method, and added ingredients. Check labels or sources for precision.",
+  "quick_answer": {
+    "total_kcal": 161,
+    "text": "One medium baked potato offers ~161 kcal, mainly from carbs, with 4.3 g protein and 4.6 g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium baked potato",
+    "amount": 1,
+    "unit": "potato",
+    "nutrition": {
+      "calories_kcal": 161,
+      "carbs_g": 37,
+      "fiber_g": 4.6,
+      "sugars_g": 1.9,
+      "protein_g": 4.3,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 161,
+    "carbs_g": 37,
+    "fiber_g": 4.6,
+    "sugars_g": 1.9,
+    "protein_g": 4.3,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.67
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter",
+      "delta_kcal_per_unit": 102,
+      "new_total_kcal": 263
+    },
+    {
+      "label": "Remove skin (peeled baked)",
+      "delta_kcal_per_unit": -12,
+      "new_total_kcal": 149
+    },
+    {
+      "label": "Top with 2 tbsp sour cream",
+      "delta_kcal_per_unit": 52,
+      "new_total_kcal": 213
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one baked potato?",
+      "a": "About 161 kcal for one medium baked potato with skin."
+    },
+    {
+      "q": "What's the carb content in a baked potato?",
+      "a": "One medium baked potato has ~37 g carbs, including 4.6 g fiber."
+    },
+    {
+      "q": "Does baking a potato add calories?",
+      "a": "Plain baking doesn't add calories; it's similar to boiling but retains more nutrients with skin."
+    },
+    {
+      "q": "How much protein in one baked potato?",
+      "a": "Approximately 4.3 g protein per medium baked potato."
+    },
+    {
+      "q": "Are baked potatoes low in fat?",
+      "a": "Yes, only 0.2 g fat per medium potato, making it a low-fat carb source."
+    }
+  ]
+}

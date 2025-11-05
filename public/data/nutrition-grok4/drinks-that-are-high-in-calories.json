@@ -1,0 +1,92 @@
+{
+  "keyword": "drinks that are high in calories",
+  "title": "Drinks That Are High in Calories",
+  "meta_description": "Explore drinks that are high in calories like milkshakes and smoothies, with nutrition breakdowns per serving, macros, and tips to adjust intake.",
+  "slug": "drinks-that-are-high-in-calories",
+  "h1": "Drinks That Are High in Calories",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "high-calorie drink"
+  },
+  "assumptions": "Based on a standard 12 oz (355 ml) fast-food chocolate milkshake as a representative high-calorie drink; values are averages from common recipes.",
+  "disclaimer": "Nutrition varies by brand, recipe, portion size, and ingredients. Check labels or apps for specific products.",
+  "quick_answer": {
+    "total_kcal": 420,
+    "text": "A typical 12 oz chocolate milkshake, one of the drinks high in calories, contains about 420 kcal."
+  },
+  "basis": {
+    "label": "per 1 serving (12 oz chocolate milkshake)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 420,
+      "carbs_g": 60,
+      "fiber_g": 0,
+      "sugars_g": 50,
+      "protein_g": 8,
+      "fat_g": 15,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 50,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 420,
+    "carbs_g": 60,
+    "fiber_g": 0,
+    "sugars_g": 50,
+    "protein_g": 8,
+    "fat_g": 15,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 50,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.76
+  },
+  "tweaks": [
+    {
+      "label": "Upgrade to 16 oz serving size",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 560
+    },
+    {
+      "label": "Add whipped cream topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 470
+    },
+    {
+      "label": "Use full-fat ice cream (vs. low-fat base)",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 480
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "What are some drinks that are high in calories?",
+      "a": "Examples include milkshakes (400+ kcal per 12 oz), sweetened coffee drinks (300+ kcal), and creamy smoothies (350+ kcal)."
+    },
+    {
+      "q": "Why are milkshakes drinks that are high in calories?",
+      "a": "They combine ice cream, milk, and sugar, leading to high fat and carbs—around 420 kcal per 12 oz serving."
+    },
+    {
+      "q": "How many calories in a high-calorie soda?",
+      "a": "A 20 oz regular soda has about 250 kcal, less than shakes but still notable from sugars."
+    },
+    {
+      "q": "Are alcoholic drinks high in calories?",
+      "a": "Yes, cocktails like margaritas (200-300 kcal per serving) or creamy liqueurs add calories from alcohol and mixers."
+    },
+    {
+      "q": "How to reduce calories in high-calorie drinks?",
+      "a": "Opt for smaller sizes, low-fat milk, or sugar-free versions to cut 100-200 kcal per serving."
+    }
+  ]
+}

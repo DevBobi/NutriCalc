@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in nandos",
+  "title": "Calories in Nando's Chicken Breast",
+  "meta_description": "Learn calories in nandos peri-peri chicken breast (1 serving), plus protein, fat, carbs, sodium, and tweaks for different preparations.",
+  "slug": "calories-in-nandos",
+  "h1": "Calories in Nando's Chicken Breast",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 1,
+    "unit": "chicken breast",
+    "item": "Nando's peri-peri"
+  },
+  "assumptions": "Grilled, skinless, boneless chicken breast with medium peri-peri marinade; approx. 150 g serving size.",
+  "disclaimer": "Nutrition varies by spice level, portion size, cooking method, and added sides/sauces. Check Nando's menu or app for exact values.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One Nando's peri-peri chicken breast provides ~250 kcal and ~45 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken breast",
+    "amount": 1,
+    "unit": "chicken breast",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 45,
+      "fat_g": 8,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 120,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 2,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 45,
+    "fat_g": 8,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 120,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Extra hot peri-peri sauce (adds spice and slight sugars)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Add 1 tbsp peri-peri sauce on side",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Skin-on version (vs. skinless)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in nandos chicken breast?",
+      "a": "About 250 kcal for one grilled, skinless peri-peri chicken breast."
+    },
+    {
+      "q": "What is the protein in a Nando's chicken serving?",
+      "a": "Approximately 45 g protein per chicken breast."
+    },
+    {
+      "q": "Does Nando's chicken have a lot of sodium?",
+      "a": "Yes, around 600 mg due to the peri-peri marinade; varies by spice."
+    },
+    {
+      "q": "Calories in nandos with sides?",
+      "a": "Base chicken is 250 kcal; adding chips or rice can add 200-400 kcal."
+    },
+    {
+      "q": "Are Nando's values for grilled or fried?",
+      "a": "Primarily grilled; fried options like wraps add more calories from oil."
+    }
+  ]
+}

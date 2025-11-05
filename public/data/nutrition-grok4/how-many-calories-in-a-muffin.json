@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a muffin",
+  "title": "How Many Calories Are in a Muffin?",
+  "meta_description": "Discover how many calories in a muffin, including carbs, protein, fat, and full nutrition breakdown for a standard bakery muffin.",
+  "slug": "how-many-calories-in-a-muffin",
+  "h1": "How Many Calories Are in a Muffin?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "muffin",
+    "item": "muffin"
+  },
+  "assumptions": "Standard bakery muffin (e.g., blueberry or plain), medium size (~60g), baked without added toppings or frosting.",
+  "disclaimer": "Nutrition varies by type (e.g., bran vs. chocolate chip), brand, size, and ingredients; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A typical muffin contains about 350 kcal, with high carbs from flour and sugar."
+  },
+  "basis": {
+    "label": "per 1 muffin",
+    "amount": 1,
+    "unit": "muffin",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 50,
+      "fiber_g": 2,
+      "sugars_g": 20,
+      "protein_g": 5,
+      "fat_g": 14,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 50,
+    "fiber_g": 2,
+    "sugars_g": 20,
+    "protein_g": 5,
+    "fat_g": 14,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat version (reduced oil/butter)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add 1 tsp butter on top",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Whole grain flour (vs. white)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 330
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a blueberry muffin?",
+      "a": "About 350 kcal for a standard medium blueberry muffin."
+    },
+    {
+      "q": "Are muffins high in carbs?",
+      "a": "Yes, typically 50 g carbs per muffin, mostly from flour and sugars."
+    },
+    {
+      "q": "How much protein in a muffin?",
+      "a": "Around 5 g protein per standard muffin."
+    },
+    {
+      "q": "Do muffins have a lot of sugar?",
+      "a": "Yes, about 20 g sugars per muffin from added sweeteners."
+    },
+    {
+      "q": "What affects muffin calorie count?",
+      "a": "Type (e.g., bran lower, chocolate chip higher), size, and add-ins like nuts or chocolate."
+    }
+  ]
+}

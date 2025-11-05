@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in steamed shrimp",
+  "title": "Calories in Steamed Shrimp",
+  "meta_description": "Discover calories in steamed shrimp per 100 g, including protein, fat, carbs, and full nutrition breakdown for easy tracking.",
+  "slug": "calories-in-steamed-shrimp",
+  "h1": "Calories in Steamed Shrimp",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "steamed shrimp"
+  },
+  "assumptions": "Fresh, medium-sized shrimp, steamed without added oil, butter, or salt; peeled and deveined.",
+  "disclaimer": "Nutrition varies by shrimp size, freshness, cooking time, and added seasonings. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 99,
+    "text": "100 g of steamed shrimp provides about 99 kcal and 24 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 99,
+      "carbs_g": 0.2,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 161,
+      "sodium_mg": 119
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 99,
+    "carbs_g": 0.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 24,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 161,
+    "sodium_mg": 119
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per 100 g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 135
+    },
+    {
+      "label": "Shell-on (vs. peeled) per 100 g edible portion",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 89
+    },
+    {
+      "label": "With garlic and lemon seasoning (minimal calories)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 104
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g steamed shrimp?",
+      "a": "Approximately 99 kcal for plain steamed shrimp."
+    },
+    {
+      "q": "Is steamed shrimp high in protein?",
+      "a": "Yes, about 24 g protein per 100 g, making it a lean source."
+    },
+    {
+      "q": "Does steaming add calories to shrimp?",
+      "a": "No, plain steaming keeps it low-cal; additions like oil increase it."
+    },
+    {
+      "q": "What about cholesterol in steamed shrimp?",
+      "a": "Around 161 mg per 100 g, mostly from natural shellfish content."
+    },
+    {
+      "q": "How does sodium vary in steamed shrimp?",
+      "a": "Low at 119 mg per 100 g without salt; added seasonings raise it."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pork chops boneless",
+  "title": "Calories in Boneless Pork Chops",
+  "meta_description": "Learn calories in pork chops boneless per chop, plus protein, fat, carbs, full nutrition facts, and preparation tweaks for better tracking.",
+  "slug": "calories-in-pork-chops-boneless",
+  "h1": "Calories in Boneless Pork Chops",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "pork chop",
+    "item": "boneless pork chop"
+  },
+  "assumptions": "Lean boneless pork loin chops, cooked (grilled or pan-seared), no added fat, marinade, or breading; approx. 85 g cooked weight per chop.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, seasoning, and portion size. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 180,
+    "text": "One boneless pork chop (85 g cooked) provides ~180 kcal and ~25 g protein."
+  },
+  "basis": {
+    "label": "per 1 boneless pork chop (85 g cooked)",
+    "amount": 1,
+    "unit": "pork chop",
+    "nutrition": {
+      "calories_kcal": 180,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 10,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 75,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 180,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 10,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 75,
+    "sodium_mg": 60
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.75
+  },
+  "tweaks": [
+    {
+      "label": "Pan-fried with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Thicker cut (120 g vs. 85 g)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Breaded and baked",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one boneless pork chop?",
+      "a": "About 180 kcal for an 85 g cooked lean chop."
+    },
+    {
+      "q": "What's the protein in boneless pork chops?",
+      "a": "Roughly 25 g protein per 85 g cooked chop."
+    },
+    {
+      "q": "Do boneless pork chops have carbs?",
+      "a": "No carbs in plain cooked boneless pork chops; 0 g per serving."
+    },
+    {
+      "q": "How does cooking method affect calories in pork chops boneless?",
+      "a": "Grilling keeps it low; frying or breading adds 40–100 kcal per chop."
+    },
+    {
+      "q": "Are these values for raw or cooked boneless pork chops?",
+      "a": "Cooked weight; raw is lower in calories per gram due to water loss during cooking."
+    }
+  ]
+}

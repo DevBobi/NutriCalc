@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a gold potato",
+  "title": "Calories in a Gold Potato",
+  "meta_description": "Discover calories in a gold potato, including macros like carbs, protein, and fiber, plus per-potato nutrition facts and preparation tweaks.",
+  "slug": "calories-in-a-gold-potato",
+  "h1": "Calories in a Gold Potato",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "potato",
+    "item": "gold potato"
+  },
+  "assumptions": "Medium size (~150 g), baked with skin on, no added fats, salt, or toppings.",
+  "disclaimer": "Nutrition varies by potato size, variety, cooking method, and soil conditions. Check labels or use a scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "A medium baked gold potato provides ~130 kcal and ~4 g protein."
+  },
+  "basis": {
+    "label": "per 1 medium gold potato",
+    "amount": 1,
+    "unit": "potato",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 30,
+      "fiber_g": 3.4,
+      "sugars_g": 1.2,
+      "protein_g": 3.6,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 30,
+    "fiber_g": 3.4,
+    "sugars_g": 1.2,
+    "protein_g": 3.6,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Boiled instead of baked (skin on)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Add 1 tsp butter",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 165
+    },
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 115
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a medium gold potato?",
+      "a": "About 130 kcal for a medium baked gold potato with skin."
+    },
+    {
+      "q": "What are the carbs in a gold potato?",
+      "a": "Roughly 30 g carbs, including 3.4 g fiber, per medium potato."
+    },
+    {
+      "q": "Are gold potatoes low in fat?",
+      "a": "Yes, only 0.2 g total fat per medium baked gold potato."
+    },
+    {
+      "q": "Does cooking method affect calories in a gold potato?",
+      "a": "Baking retains more nutrients; boiling may slightly lower calories due to water absorption."
+    },
+    {
+      "q": "How much protein in a gold potato?",
+      "a": "Approximately 3.6 g protein per medium gold potato."
+    }
+  ]
+}

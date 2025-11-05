@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 14 cup blueberries",
+  "title": "Calories in 1/4 Cup Blueberries",
+  "meta_description": "Discover calories in 1/4 cup blueberries, including carbs, fiber, sugars, protein, and full nutrition breakdown per serving.",
+  "slug": "calories-in-14-cup-blueberries",
+  "h1": "Calories in 1/4 Cup Blueberries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 0.25,
+    "unit": "cup",
+    "item": "blueberries"
+  },
+  "assumptions": "Fresh, whole blueberries; 1 cup ≈148 g, so 1/4 cup ≈37 g; raw, no added sugar.",
+  "disclaimer": "Nutrition varies by variety, ripeness, fresh vs. frozen, and portion measurement. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 21,
+    "text": "1/4 cup blueberries has about 21 kcal and 5 g carbs, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 57,
+      "carbs_g": 14.5,
+      "fiber_g": 2.4,
+      "sugars_g": 9.9,
+      "protein_g": 0.7,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 21,
+    "carbs_g": 5.4,
+    "fiber_g": 0.9,
+    "sugars_g": 3.7,
+    "protein_g": 0.3,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.09
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar to 1/4 cup",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 37
+    },
+    {
+      "label": "Use frozen blueberries (per 1/4 cup equivalent)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 21
+    },
+    {
+      "label": "Dried blueberries (per 1/4 cup by volume, denser)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 66
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1/4 cup blueberries?",
+      "a": "Approximately 21 kcal for fresh blueberries."
+    },
+    {
+      "q": "What are the carbs in 1/4 cup blueberries?",
+      "a": "About 5.4 g total carbs, including 0.9 g fiber and 3.7 g sugars."
+    },
+    {
+      "q": "Are blueberries low in fat and protein?",
+      "a": "Yes, only 0.1 g fat and 0.3 g protein per 1/4 cup."
+    },
+    {
+      "q": "How does frozen affect calories in 1/4 cup blueberries?",
+      "a": "Frozen has similar calories to fresh, around 21 kcal, with minimal nutrient loss."
+    },
+    {
+      "q": "What's the fiber content in 1/4 cup blueberries?",
+      "a": "Roughly 0.9 g dietary fiber, supporting digestion."
+    }
+  ]
+}

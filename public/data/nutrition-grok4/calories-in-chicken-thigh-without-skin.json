@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken thigh without skin",
+  "title": "Calories in Chicken Thigh Without Skin",
+  "meta_description": "Discover calories in chicken thigh without skin per 100g, including protein, fat, carbs, and nutrition tweaks for your meals.",
+  "slug": "calories-in-chicken-thigh-without-skin",
+  "h1": "Calories in Chicken Thigh Without Skin",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chicken thigh without skin"
+  },
+  "assumptions": "Skinless, boneless chicken thigh, roasted or grilled, no added oil or seasonings.",
+  "disclaimer": "Nutrition varies by cut, cooking method, brand, and portion size; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 177,
+    "text": "100g of skinless chicken thigh provides ~177 kcal and ~24g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 177,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24.4,
+      "fat_g": 8.7,
+      "sat_fat_g": 2.4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 114,
+      "sodium_mg": 98
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 177,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 24.4,
+    "fat_g": 8.7,
+    "sat_fat_g": 2.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 114,
+    "sodium_mg": 98
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.74
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 217
+    },
+    {
+      "label": "Bone-in roasted (vs. boneless)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 187
+    },
+    {
+      "label": "With skin, roasted",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 227
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in chicken thigh without skin per 100g?",
+      "a": "About 177 kcal per 100g of cooked, skinless chicken thigh."
+    },
+    {
+      "q": "What's the protein in skinless chicken thigh?",
+      "a": "Approximately 24.4g protein per 100g."
+    },
+    {
+      "q": "Does cooking method affect calories in chicken thigh without skin?",
+      "a": "Yes; grilling or roasting keeps it lower than frying, which adds fat."
+    },
+    {
+      "q": "Are there carbs in chicken thigh without skin?",
+      "a": "No carbs, fiber, or sugars—it's mostly protein and fat."
+    },
+    {
+      "q": "How does skinless compare to skin-on chicken thigh calories?",
+      "a": "Skinless is lower at ~177 kcal/100g; skin-on adds ~50 kcal from fat."
+    }
+  ]
+}

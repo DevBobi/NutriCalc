@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a taco bell bean burrito",
+  "title": "How Many Calories in a Taco Bell Bean Burrito?",
+  "meta_description": "Discover how many calories are in a taco bell bean burrito, including full nutrition breakdown, macros, sodium details, and simple tweaks for customization.",
+  "slug": "how-many-calories-are-in-a-taco-bell-bean-burrito",
+  "h1": "How Many Calories in a Taco Bell Bean Burrito?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burrito",
+    "item": "Taco Bell bean burrito"
+  },
+  "assumptions": "Standard Taco Bell bean burrito with refried beans, cheese, red sauce, onions, and flour tortilla; based on official menu nutrition.",
+  "disclaimer": "Nutrition varies by location, preparation, customizations, and serving size. Check Taco Bell app or website for latest info.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A Taco Bell bean burrito contains about 350 calories and 13 g protein."
+  },
+  "basis": {
+    "label": "per 1 bean burrito",
+    "amount": 1,
+    "unit": "burrito",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 53,
+      "fiber_g": 7,
+      "sugars_g": 2,
+      "protein_g": 13,
+      "fat_g": 11,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 1060
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 53,
+    "fiber_g": 7,
+    "sugars_g": 2,
+    "protein_g": 13,
+    "fat_g": 11,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 1060
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add extra shredded cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Fresco style (no cheese or sauce)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add sour cream packet",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 410
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a Taco Bell bean burrito?",
+      "a": "Approximately 350 calories per standard bean burrito."
+    },
+    {
+      "q": "What's the protein in a Taco Bell bean burrito?",
+      "a": "About 13 g of protein from beans and cheese."
+    },
+    {
+      "q": "How much sodium is in a Taco Bell bean burrito?",
+      "a": "Around 1060 mg, mostly from beans and seasoning."
+    },
+    {
+      "q": "Are Taco Bell bean burritos vegetarian?",
+      "a": "Yes, the standard version is vegetarian with refried beans and no meat."
+    },
+    {
+      "q": "How do customizations affect calories in a Taco Bell bean burrito?",
+      "a": "Adding cheese or sour cream increases calories by 50-60 each; removing cheese lowers by about 100."
+    }
+  ]
+}

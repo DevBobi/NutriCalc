@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a chick fil a chicken biscuit",
+  "title": "How Many Calories in a Chick-fil-A Chicken Biscuit?",
+  "meta_description": "Discover how many calories in a Chick-fil-A chicken biscuit, including full nutrition breakdown, macros, and variations for this breakfast menu item.",
+  "slug": "how-many-calories-in-a-chick-fil-a-chicken-biscuit",
+  "h1": "How Many Calories in a Chick-fil-A Chicken Biscuit?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "chicken biscuit",
+    "item": "Chick-fil-A chicken biscuit"
+  },
+  "assumptions": "Standard Chick-fil-A breakfast menu item: breaded chicken breast on a buttermilk biscuit, as served; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations. Values based on official Chick-fil-A data; check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 460,
+    "text": "A Chick-fil-A chicken biscuit contains about 460 calories with 17 g protein."
+  },
+  "basis": {
+    "label": "per 1 Chick-fil-A chicken biscuit",
+    "amount": 1,
+    "unit": "chicken biscuit",
+    "nutrition": {
+      "calories_kcal": 460,
+      "carbs_g": 46,
+      "fiber_g": 1,
+      "sugars_g": 3,
+      "protein_g": 17,
+      "fat_g": 22,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 1190
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 460,
+    "carbs_g": 46,
+    "fiber_g": 1,
+    "sugars_g": 3,
+    "protein_g": 17,
+    "fat_g": 22,
+    "sat_fat_g": 9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 1190
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with fast-food info.",
+  "equivalents": {
+    "megajoules": 1.92
+  },
+  "tweaks": [
+    {
+      "label": "Add American cheese slice",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 510
+    },
+    {
+      "label": "Grilled chicken instead of breaded",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "No biscuit (chicken patty only)",
+      "delta_kcal_per_unit": -250,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Chick-fil-A chicken biscuit?",
+      "a": "Approximately 460 calories per sandwich."
+    },
+    {
+      "q": "What's the protein in a Chick-fil-A chicken biscuit?",
+      "a": "About 17 g of protein from the chicken and biscuit."
+    },
+    {
+      "q": "Are Chick-fil-A chicken biscuits high in sodium?",
+      "a": "Yes, around 1190 mg sodium due to seasoning and breading."
+    },
+    {
+      "q": "How many carbs in a Chick-fil-A chicken biscuit?",
+      "a": "Roughly 46 g carbs, mostly from the biscuit."
+    },
+    {
+      "q": "Can I make a lower-calorie Chick-fil-A chicken biscuit?",
+      "a": "Opt for grilled chicken to reduce by ~100 kcal; skip add-ons."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a pepperoni pizza",
+  "title": "How Many Calories in a Pepperoni Pizza?",
+  "meta_description": "Discover how many calories in a pepperoni pizza, including full nutrition breakdown, macros, and variations for different sizes and crusts.",
+  "slug": "how-many-calories-in-a-pepperoni-pizza",
+  "h1": "How Many Calories in a Pepperoni Pizza?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pizza",
+    "item": "pepperoni pizza"
+  },
+  "assumptions": "Standard 12-inch medium pepperoni pizza with cheese, tomato sauce, and pepperoni slices; hand-tossed crust, typical fast-food style.",
+  "disclaimer": "Nutrition varies by brand, size, crust type, toppings amount, and preparation; check labels or apps for specific products.",
+  "quick_answer": {
+    "total_kcal": 2500,
+    "text": "A typical 12-inch pepperoni pizza contains about 2500 calories."
+  },
+  "basis": {
+    "label": "per 1 medium pepperoni pizza",
+    "amount": 1,
+    "unit": "pizza",
+    "nutrition": {
+      "calories_kcal": 2500,
+      "carbs_g": 300,
+      "fiber_g": 15,
+      "sugars_g": 20,
+      "protein_g": 100,
+      "fat_g": 100,
+      "sat_fat_g": 40,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 200,
+      "sodium_mg": 5000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 2500,
+    "carbs_g": 300,
+    "fiber_g": 15,
+    "sugars_g": 20,
+    "protein_g": 100,
+    "fat_g": 100,
+    "sat_fat_g": 40,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 200,
+    "sodium_mg": 5000
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 10.46
+  },
+  "tweaks": [
+    {
+      "label": "Thin crust instead of hand-tossed",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 2200
+    },
+    {
+      "label": "Extra cheese topping",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 2700
+    },
+    {
+      "label": "Veggie toppings added (e.g., peppers, onions)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 2550
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a pepperoni pizza slice?",
+      "a": "About 300-400 kcal per slice (1/8 of a 12-inch pizza), depending on size."
+    },
+    {
+      "q": "What are the macros for a pepperoni pizza?",
+      "a": "Roughly 300 g carbs, 100 g protein, 100 g fat for a whole medium pizza."
+    },
+    {
+      "q": "Is pepperoni pizza high in sodium?",
+      "a": "Yes, around 5000 mg sodium per pizza from cheese, sauce, and meat."
+    },
+    {
+      "q": "How does pizza size affect calories?",
+      "a": "Small (10-inch) ≈1800 kcal; large (14-inch) ≈3500 kcal; scale by diameter squared."
+    },
+    {
+      "q": "Are there lower-calorie pepperoni pizza options?",
+      "a": "Opt for thin crust, less cheese, or cauliflower crust to reduce by 200-500 kcal."
+    }
+  ]
+}

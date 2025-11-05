@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a white chocolate mocha from starbucks",
+  "title": "Calories in a White Chocolate Mocha from Starbucks",
+  "meta_description": "Discover calories in a white chocolate mocha from Starbucks, including full nutrition breakdown for a Grande size, macros, and customization tips.",
+  "slug": "calories-in-a-white-chocolate-mocha-from-starbucks",
+  "h1": "Calories in a White Chocolate Mocha from Starbucks",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "white chocolate mocha from starbucks"
+  },
+  "assumptions": "Grande (16 oz) size, made with 2% milk, 2 shots espresso, white mocha syrup, no whipped cream or modifications.",
+  "disclaimer": "Nutrition varies by size, milk type, syrup amount, and customizations; values based on Starbucks standard recipe—check app or receipt for exacts.",
+  "quick_answer": {
+    "total_kcal": 430,
+    "text": "A Grande White Chocolate Mocha from Starbucks has about 430 calories and 10 g protein."
+  },
+  "basis": {
+    "label": "per 1 Grande serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 430,
+      "carbs_g": 59,
+      "fiber_g": 0,
+      "sugars_g": 58,
+      "protein_g": 10,
+      "fat_g": 15,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 45,
+      "sodium_mg": 240
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 430,
+    "carbs_g": 59,
+    "fiber_g": 0,
+    "sugars_g": 58,
+    "protein_g": 10,
+    "fat_g": 15,
+    "sat_fat_g": 9,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 45,
+    "sodium_mg": 240
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.8
+  },
+  "tweaks": [
+    {
+      "label": "Switch to nonfat milk (skinny version)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Add whipped cream topping",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 540
+    },
+    {
+      "label": "Use whole milk instead of 2%",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 480
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Grande White Chocolate Mocha from Starbucks?",
+      "a": "About 430 calories for the standard 2% milk version."
+    },
+    {
+      "q": "What are the sugars in a white chocolate mocha from Starbucks?",
+      "a": "Approximately 58 g of sugars, mostly from the mocha syrup."
+    },
+    {
+      "q": "Can I make a lower-calorie white chocolate mocha from Starbucks?",
+      "a": "Yes, opt for nonfat milk and sugar-free syrup to drop to around 200-300 kcal."
+    },
+    {
+      "q": "How much caffeine in a white chocolate mocha from Starbucks?",
+      "a": "About 150 mg from 2 shots of espresso in a Grande size."
+    },
+    {
+      "q": "Does milk type affect calories in a white chocolate mocha from Starbucks?",
+      "a": "Yes—nonfat reduces by ~100 kcal, whole milk adds ~50 kcal versus 2%."
+    }
+  ]
+}

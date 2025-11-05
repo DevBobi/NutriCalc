@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in jalapeno",
+  "title": "Calories in a Jalapeño",
+  "meta_description": "Discover calories in jalapeno, including macros like carbs, protein, and fat for one medium pepper, plus variations and FAQs.",
+  "slug": "calories-in-jalapeno",
+  "h1": "Calories in a Jalapeño",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "jalapeño",
+    "item": "jalapeño"
+  },
+  "assumptions": "Medium raw jalapeño pepper (~14 g), green, fresh; no added ingredients.",
+  "disclaimer": "Nutrition varies by size, ripeness, variety, and preparation. Check labels for processed versions.",
+  "quick_answer": {
+    "total_kcal": 4,
+    "text": "One medium raw jalapeño provides about 4 kcal and is low in calories but high in vitamin C."
+  },
+  "basis": {
+    "label": "per 1 medium raw jalapeño",
+    "amount": 1,
+    "unit": "jalapeño",
+    "nutrition": {
+      "calories_kcal": 4,
+      "carbs_g": 0.9,
+      "fiber_g": 0.4,
+      "sugars_g": 0.6,
+      "protein_g": 0.1,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 4,
+    "carbs_g": 0.9,
+    "fiber_g": 0.4,
+    "sugars_g": 0.6,
+    "protein_g": 0.1,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.02
+  },
+  "tweaks": [
+    {
+      "label": "Pickled jalapeño (in brine)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 6
+    },
+    {
+      "label": "Roasted jalapeño (dry heat, no oil)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 4
+    },
+    {
+      "label": "Stuffed with 1 tbsp cream cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 54
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one jalapeno?",
+      "a": "About 4 kcal for a medium raw jalapeño."
+    },
+    {
+      "q": "Are jalapenos low carb?",
+      "a": "Yes, one medium has ~0.9 g carbs, with 0.4 g fiber."
+    },
+    {
+      "q": "Calories in jalapeno poppers?",
+      "a": "Varies widely; plain stuffed ones add ~50+ kcal from cheese or batter."
+    },
+    {
+      "q": "Do jalapenos have fat or protein?",
+      "a": "Minimal: 0.1 g fat and 0.1 g protein per medium pepper."
+    },
+    {
+      "q": "How does cooking affect calories in jalapeno?",
+      "a": "Raw and roasted are similar at ~4 kcal; frying or oil adds significant calories."
+    }
+  ]
+}

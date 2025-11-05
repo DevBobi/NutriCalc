@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in breadsticks from pizza hut",
+  "title": "Calories in Pizza Hut Breadsticks",
+  "meta_description": "Discover calories in breadsticks from Pizza Hut per stick, plus full nutrition breakdown including carbs, protein, fat, and serving tips for your meal.",
+  "slug": "calories-in-breadsticks-from-pizza-hut",
+  "h1": "Calories in Pizza Hut Breadsticks",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "breadstick",
+    "item": "Pizza Hut breadstick"
+  },
+  "assumptions": "Standard Pizza Hut breadstick (about 40g each), baked fresh, no dipping sauce or toppings included.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and additions like sauce; check Pizza Hut's official site or app for latest values.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "One Pizza Hut breadstick has about 140 kcal, with 20 g carbs and 4 g protein."
+  },
+  "basis": {
+    "label": "per 1 breadstick",
+    "amount": 1,
+    "unit": "breadstick",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 20,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 4,
+      "fat_g": 5,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 20,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 4,
+    "fat_g": 5,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 250
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Add marinara dipping sauce (1 oz per breadstick)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Cheese-topped breadstick (vs. plain)",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Garlic butter brushed (extra serving)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Pizza Hut breadstick?",
+      "a": "Approximately 140 kcal per standard breadstick."
+    },
+    {
+      "q": "What are the carbs in breadsticks from Pizza Hut?",
+      "a": "About 20 g carbs per breadstick, including 1 g fiber."
+    },
+    {
+      "q": "How many calories in a full order of Pizza Hut breadsticks?",
+      "a": "A typical order of 5 breadsticks totals around 700 kcal."
+    },
+    {
+      "q": "Are Pizza Hut breadsticks high in sodium?",
+      "a": "Yes, about 250 mg sodium per breadstick due to seasoning."
+    },
+    {
+      "q": "Do Pizza Hut breadsticks have trans fat?",
+      "a": "Typically 0 g trans fat per breadstick."
+    }
+  ]
+}

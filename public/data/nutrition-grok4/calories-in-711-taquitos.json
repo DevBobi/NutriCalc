@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 711 taquitos",
+  "title": "Calories in 711 Taquitos",
+  "meta_description": "Discover calories in 711 taquitos from a standard 7-Eleven style, plus full nutrition breakdown, macros, and variations for better meal planning.",
+  "slug": "calories-in-711-taquitos",
+  "h1": "Calories in 711 Taquitos",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 711,
+    "unit": "taquito",
+    "item": "taquito"
+  },
+  "assumptions": "Standard 7-Eleven style mini beef taquitos, fried in corn tortilla with beef filling, cheese, and mild spices; approximately 50 g each.",
+  "disclaimer": "Nutrition varies by brand, exact recipe, size, frying method, and fillings. Check product labels for precise values when available.",
+  "quick_answer": {
+    "total_kcal": 142200,
+    "text": "711 standard taquitos provide about 142,200 kcal and over 4,266 g of fat."
+  },
+  "basis": {
+    "label": "per 1 taquito",
+    "amount": 1,
+    "unit": "taquito",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 20,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 6,
+      "fat_g": 10,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 15,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 142200,
+    "carbs_g": 14220,
+    "fiber_g": 1422,
+    "sugars_g": 711,
+    "protein_g": 4266,
+    "fat_g": 7110,
+    "sat_fat_g": 2133,
+    "trans_fat_g": 142.2,
+    "cholesterol_mg": 10665,
+    "sodium_mg": 213300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 595
+  },
+  "tweaks": [
+    {
+      "label": "Chicken filling instead of beef (lower fat)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 120870
+    },
+    {
+      "label": "Baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 107150
+    },
+    {
+      "label": "Add extra cheese per taquito",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 171640
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one 711 taquito?",
+      "a": "About 200 kcal per standard beef taquito."
+    },
+    {
+      "q": "What are the macros for 711 taquitos?",
+      "a": "Approximately 14,220 g carbs, 4,266 g protein, 7,110 g fat."
+    },
+    {
+      "q": "Do taquitos have a lot of sodium?",
+      "a": "Yes, 711 taquitos have around 213,300 mg sodium—very high."
+    },
+    {
+      "q": "How does baking affect calories in taquitos?",
+      "a": "Baking reduces calories by about 50 kcal per taquito compared to frying."
+    },
+    {
+      "q": "Are 711 taquitos from 7-Eleven the same as homemade?",
+      "a": "Store versions are often higher in sodium and fat due to processing and frying."
+    }
+  ]
+}

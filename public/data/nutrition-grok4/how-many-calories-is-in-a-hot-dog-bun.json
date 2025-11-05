@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in a hot dog bun",
+  "title": "How Many Calories in a Hot Dog Bun?",
+  "meta_description": "Discover how many calories is in a hot dog bun, including carbs, protein, fat, sodium, and variations for different types.",
+  "slug": "how-many-calories-is-in-a-hot-dog-bun",
+  "h1": "How Many Calories in a Hot Dog Bun?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bun",
+    "item": "hot dog bun"
+  },
+  "assumptions": "Standard white enriched hot dog bun, about 43 g, plain without seeds, butter, or toppings.",
+  "disclaimer": "Nutrition varies by brand, size, ingredients (e.g., whole wheat vs. white), and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "A standard hot dog bun contains about 120 calories and 21 g of carbs."
+  },
+  "basis": {
+    "label": "per 1 hot dog bun",
+    "amount": 1,
+    "unit": "bun",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 21,
+      "fiber_g": 1,
+      "sugars_g": 3,
+      "protein_g": 4,
+      "fat_g": 2,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 210
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 21,
+    "fiber_g": 1,
+    "sugars_g": 3,
+    "protein_g": 4,
+    "fat_g": 2,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 210
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Whole wheat hot dog bun (vs. white)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Add 1 tsp butter per bun",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 154
+    },
+    {
+      "label": "Sesame seed topped bun",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 125
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in a hot dog bun?",
+      "a": "Approximately 120 calories for a standard white hot dog bun."
+    },
+    {
+      "q": "Are hot dog buns high in carbs?",
+      "a": "Yes, about 21 g of carbs per bun, mostly from refined flour."
+    },
+    {
+      "q": "What's the sodium in a hot dog bun?",
+      "a": "Around 210 mg per standard bun, from added salt."
+    },
+    {
+      "q": "Do whole wheat hot dog buns have fewer calories?",
+      "a": "Slightly fewer, about 110 kcal, with more fiber (2-3 g)."
+    },
+    {
+      "q": "How does toasting affect calories in a hot dog bun?",
+      "a": "Toasting alone doesn't change calories, but added butter or oil increases them by 30-50 kcal per tsp."
+    }
+  ]
+}

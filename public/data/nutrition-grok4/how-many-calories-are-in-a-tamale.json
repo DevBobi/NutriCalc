@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a tamale",
+  "title": "How Many Calories Are in a Tamale?",
+  "meta_description": "Discover how many calories are in a tamale, including full nutrition breakdown like protein, carbs, fat, and tips for variations.",
+  "slug": "how-many-calories-are-in-a-tamale",
+  "h1": "How Many Calories Are in a Tamale?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "tamale",
+    "item": "tamale"
+  },
+  "assumptions": "Traditional pork-filled corn masa tamale, steamed; average size ~150 g, including corn husk wrapper (not eaten).",
+  "disclaimer": "Nutrition varies by filling (pork, chicken, veggie), masa recipe, size, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A typical pork tamale contains about 250 kcal and 10 g protein."
+  },
+  "basis": {
+    "label": "per 1 tamale",
+    "amount": 1,
+    "unit": "tamale",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 10,
+      "fat_g": 12,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 25,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 10,
+    "fat_g": 12,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Chicken filling instead of pork",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Vegetarian bean filling",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Add 1 tbsp sour cream topping",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 275
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a tamale?",
+      "a": "About 250 kcal for a standard pork tamale."
+    },
+    {
+      "q": "What are the macros in a tamale?",
+      "a": "≈25 g carbs, 10 g protein, 12 g fat per tamale."
+    },
+    {
+      "q": "Do tamales have a lot of sodium?",
+      "a": "Yes, around 500 mg per tamale due to seasonings."
+    },
+    {
+      "q": "How do veggie tamales compare?",
+      "a": "Typically 20-30 kcal less than meat-filled, with similar carbs."
+    },
+    {
+      "q": "Are tamales high in fiber?",
+      "a": "Moderate at ~2 g per tamale from corn masa and fillings."
+    }
+  ]
+}

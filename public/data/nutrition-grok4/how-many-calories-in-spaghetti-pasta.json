@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in spaghetti pasta",
+  "title": "How Many Calories in Spaghetti Pasta?",
+  "meta_description": "Learn how many calories in spaghetti pasta—about 371 kcal per 100g dry—plus carbs, protein, fat, and full nutrition details for easy tracking.",
+  "slug": "how-many-calories-in-spaghetti-pasta",
+  "h1": "How Many Calories in Spaghetti Pasta?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "spaghetti pasta"
+  },
+  "assumptions": "Dry, uncooked spaghetti made from durum wheat semolina; standard commercial variety, no added salt, oil, or flavors.",
+  "disclaimer": "Nutrition varies by brand, wheat type, enrichment, and portion size; dry vs. cooked weights differ significantly. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 371,
+    "text": "100g of dry spaghetti pasta provides ~371 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 100 g dry",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 371,
+      "carbs_g": 75,
+      "fiber_g": 3.1,
+      "sugars_g": 2.7,
+      "protein_g": 13,
+      "fat_g": 1.5,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 371,
+    "carbs_g": 75,
+    "fiber_g": 3.1,
+    "sugars_g": 2.7,
+    "protein_g": 13,
+    "fat_g": 1.5,
+    "sat_fat_g": 0.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.55
+  },
+  "tweaks": [
+    {
+      "label": "Whole wheat spaghetti (per 100 g dry)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 351
+    },
+    {
+      "label": "Add 1 tbsp olive oil when cooking (per 100 g dry)",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 491
+    },
+    {
+      "label": "Cooked plain (boiled; values for equivalent dry weight)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 371
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of dry spaghetti pasta?",
+      "a": "Approximately 371 kcal per 100g dry."
+    },
+    {
+      "q": "What are the carbs in spaghetti pasta?",
+      "a": "About 75g carbs per 100g dry, with 3.1g fiber."
+    },
+    {
+      "q": "Does cooking change calories in spaghetti pasta?",
+      "a": "Calories per dry weight stay the same, but cooked pasta (100g dry yields ~250g) has ~158 kcal per 100g cooked due to water absorption."
+    },
+    {
+      "q": "How much protein in spaghetti pasta?",
+      "a": "Around 13g protein per 100g dry."
+    },
+    {
+      "q": "Is spaghetti pasta low in fat?",
+      "a": "Yes, only 1.5g total fat per 100g dry, with minimal saturated fat."
+    }
+  ]
+}

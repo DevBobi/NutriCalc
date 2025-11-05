@@ -1,0 +1,92 @@
+{
+  "keyword": "flying dutchman in n out calories",
+  "title": "Calories in In-N-Out Flying Dutchman",
+  "meta_description": "Learn the calories in the Flying Dutchman at In-N-Out, a bunless burger with two patties and cheese, plus full nutrition facts, macros, and tweaks for customization.",
+  "slug": "flying-dutchman-in-n-out-calories",
+  "h1": "Calories in In-N-Out Flying Dutchman",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "Flying Dutchman",
+    "item": "Flying Dutchman (In-N-Out)"
+  },
+  "assumptions": "Standard In-N-Out menu item: two 100% beef patties (2 oz each), two slices American cheese, grilled onions; no bun, spread, or additional toppings.",
+  "disclaimer": "Nutrition varies by location, exact preparation, and customizations. Values based on standard In-N-Out data; check app or receipt for latest.",
+  "quick_answer": {
+    "total_kcal": 390,
+    "text": "The In-N-Out Flying Dutchman provides ~390 kcal with high protein and low carbs."
+  },
+  "basis": {
+    "label": "per 1 Flying Dutchman",
+    "amount": 1,
+    "unit": "Flying Dutchman",
+    "nutrition": {
+      "calories_kcal": 390,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 30,
+      "fat_g": 28,
+      "sat_fat_g": 13,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 105,
+      "sodium_mg": 720
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 390,
+    "carbs_g": 2,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 30,
+    "fat_g": 28,
+    "sat_fat_g": 13,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 105,
+    "sodium_mg": 720
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging or apps.",
+  "equivalents": {
+    "megajoules": 1.63
+  },
+  "tweaks": [
+    {
+      "label": "Add Thousand Island spread",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 480
+    },
+    {
+      "label": "No grilled onions",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Add fresh tomato slice and lettuce",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in the Flying Dutchman at In-N-Out?",
+      "a": "Approximately 390 calories for the standard version."
+    },
+    {
+      "q": "Is the In-N-Out Flying Dutchman low carb?",
+      "a": "Yes, only about 2 g carbs, making it keto-friendly without the bun."
+    },
+    {
+      "q": "How much protein in Flying Dutchman In-N-Out?",
+      "a": "Around 30 g of protein from the two beef patties."
+    },
+    {
+      "q": "How does Flying Dutchman calories compare to a regular In-N-Out burger?",
+      "a": "Lower at 390 kcal vs. ~480 for a hamburger with bun; saves carbs and calories."
+    },
+    {
+      "q": "Can I customize the Flying Dutchman at In-N-Out?",
+      "a": "Yes—add spread, veggies, or extra patties; each tweak can add 10–100 kcal."
+    }
+  ]
+}

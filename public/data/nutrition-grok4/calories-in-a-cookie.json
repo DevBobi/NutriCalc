@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a cookie",
+  "title": "Calories in a Cookie",
+  "meta_description": "Discover calories in a cookie, including macros like carbs, protein, and fat, plus per-cookie nutrition facts and variations for different types.",
+  "slug": "calories-in-a-cookie",
+  "h1": "Calories in a Cookie",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cookie",
+    "item": "cookie"
+  },
+  "assumptions": "Standard chocolate chip cookie, ~30 g, baked with butter, flour, sugar, and chocolate chips; average store-bought or homemade.",
+  "disclaimer": "Nutrition varies by recipe, brand, size, ingredients, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "A standard chocolate chip cookie has about 140 kcal and 2 g protein."
+  },
+  "basis": {
+    "label": "per 1 cookie",
+    "amount": 1,
+    "unit": "cookie",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 18,
+      "fiber_g": 1,
+      "sugars_g": 10,
+      "protein_g": 2,
+      "fat_g": 7,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 15,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 18,
+    "fiber_g": 1,
+    "sugars_g": 10,
+    "protein_g": 2,
+    "fat_g": 7,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 15,
+    "sodium_mg": 100
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Oatmeal raisin version (swap chips for raisins and oats)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Low-fat recipe (reduce butter by half)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Add walnuts (1 tbsp chopped per cookie)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chocolate chip cookie?",
+      "a": "About 140 kcal for a standard 30 g cookie."
+    },
+    {
+      "q": "What are the carbs in a cookie?",
+      "a": "Roughly 18 g carbs, including 10 g sugars and 1 g fiber per cookie."
+    },
+    {
+      "q": "Are cookies high in fat?",
+      "a": "Yes, about 7 g total fat, with 3 g saturated per standard cookie."
+    },
+    {
+      "q": "How does cookie size affect calories?",
+      "a": "Larger cookies (50 g) can have 200+ kcal; smaller ones under 100 kcal."
+    },
+    {
+      "q": "What's the protein content in a cookie?",
+      "a": "Typically low at 2 g per cookie, mostly from flour and any nuts."
+    }
+  ]
+}

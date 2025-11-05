@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 93 lean ground beef",
+  "title": "Calories in 93% Lean Ground Beef",
+  "meta_description": "Discover calories in 93 lean ground beef per 100 g, including protein, fat, carbs, and nutrition facts for this low-fat option.",
+  "slug": "calories-in-93-lean-ground-beef",
+  "h1": "Calories in 93% Lean Ground Beef",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "93% lean ground beef"
+  },
+  "assumptions": "Raw, 93% lean / 7% fat ground beef; no added seasonings or fillers; values based on USDA data.",
+  "disclaimer": "Nutrition varies by brand, fat content exactness, grinding method, and cooking; raw vs. cooked alters values. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 152,
+    "text": "100 g of 93% lean ground beef contains about 152 kcal and 21 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 152,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 21,
+      "fat_g": 7,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 65,
+      "sodium_mg": 66
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 152,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 21,
+    "fat_g": 7,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 65,
+    "sodium_mg": 66
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.64
+  },
+  "tweaks": [
+    {
+      "label": "Cooked (pan-broiled, drained of fat)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 132
+    },
+    {
+      "label": "Add 1 tsp oil for cooking per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 192
+    },
+    {
+      "label": "80% lean version (vs. 93%) per 100 g",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 222
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g of 93% lean ground beef?",
+      "a": "Approximately 152 kcal raw."
+    },
+    {
+      "q": "What is the protein content in 93 lean ground beef?",
+      "a": "About 21 g protein per 100 g raw."
+    },
+    {
+      "q": "Does cooking change calories in 93% lean ground beef?",
+      "a": "Yes, cooking and draining fat reduces calories to ~132 kcal per 100 g."
+    },
+    {
+      "q": "How much fat is in 93 lean ground beef?",
+      "a": "7 g total fat per 100 g, with 3 g saturated."
+    },
+    {
+      "q": "Is 93% lean ground beef low-carb?",
+      "a": "Yes, 0 g carbs and 0 g fiber per 100 g."
+    }
+  ]
+}

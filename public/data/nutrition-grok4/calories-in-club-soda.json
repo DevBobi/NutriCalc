@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in club soda",
+  "title": "Calories in Club Soda",
+  "meta_description": "Discover calories in club soda—typically 0 per serving—plus full nutrition breakdown, sodium content, and serving tips for mixers.",
+  "slug": "calories-in-club-soda",
+  "h1": "Calories in Club Soda",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 12,
+    "unit": "fl oz",
+    "item": "club soda"
+  },
+  "assumptions": "Plain, unflavored club soda (carbonated water with minerals); standard 12 fl oz serving, no additives.",
+  "disclaimer": "Nutrition varies by brand, mineral content, and any added flavors; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "A 12 fl oz serving of club soda contains 0 calories."
+  },
+  "basis": {
+    "label": "per 12 fl oz serving",
+    "amount": 12,
+    "unit": "fl oz",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 75
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 75
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Add a squeeze of lime (1 wedge)",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 1
+    },
+    {
+      "label": "Use tonic water instead (per serving)",
+      "delta_kcal_per_unit": 124,
+      "new_total_kcal": 124
+    },
+    {
+      "label": "Diet version with artificial sweetener",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in club soda?",
+      "a": "Club soda has 0 calories per 12 fl oz serving."
+    },
+    {
+      "q": "Is club soda carb-free?",
+      "a": "Yes, plain club soda contains 0 g carbs, sugars, or fiber."
+    },
+    {
+      "q": "What's the sodium in club soda?",
+      "a": "About 75 mg sodium per 12 fl oz serving from added minerals."
+    },
+    {
+      "q": "Does club soda have any protein or fat?",
+      "a": "No, it has 0 g protein and 0 g fat."
+    },
+    {
+      "q": "Can club soda help with hydration?",
+      "a": "Yes, it's a zero-calorie alternative to sugary sodas, but carbonation may cause bloating for some."
+    }
+  ]
+}

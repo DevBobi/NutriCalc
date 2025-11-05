@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in lasagna",
+  "title": "How Many Calories Are in Lasagna?",
+  "meta_description": "Learn how many calories is in lasagna per serving, with a full nutrition breakdown including protein, carbs, fat, sodium, and easy tweaks for variations.",
+  "slug": "how-many-calories-is-in-lasagna",
+  "h1": "How Many Calories Are in Lasagna?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "lasagna"
+  },
+  "assumptions": "Standard homemade lasagna with ground beef, ricotta, mozzarella, pasta, and tomato sauce; one slice (approx. 250g from a 9x13-inch pan).",
+  "disclaimer": "Nutrition varies by recipe, ingredients, portion size, and preparation method. Check labels for store-bought or restaurant versions.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "One serving of lasagna contains about 450 calories and 25g protein."
+  },
+  "basis": {
+    "label": "per 1 serving (250g slice)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 40,
+      "fiber_g": 3,
+      "sugars_g": 8,
+      "protein_g": 25,
+      "fat_g": 20,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 60,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 40,
+    "fiber_g": 3,
+    "sugars_g": 8,
+    "protein_g": 25,
+    "fat_g": 20,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 60,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Vegetarian version (no ground beef)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Add extra mozzarella cheese (1 oz per serving)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Low-fat cheese and lean meat substitution",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in one slice of lasagna?",
+      "a": "About 450 calories for a standard 250g meat lasagna slice."
+    },
+    {
+      "q": "What are the macros in lasagna?",
+      "a": "Per serving: 40g carbs, 25g protein, 20g fat, with 3g fiber."
+    },
+    {
+      "q": "Is lasagna high in sodium?",
+      "a": "Yes, around 800mg per serving due to cheese, sauce, and seasonings."
+    },
+    {
+      "q": "How does vegetable lasagna compare in calories?",
+      "a": "Typically 50-100 fewer calories than meat versions, around 350-400 kcal."
+    },
+    {
+      "q": "Calories in frozen lasagna vs. homemade?",
+      "a": "Similar, but frozen can vary; check packaging for exact values, often 400-500 kcal per serving."
+    }
+  ]
+}

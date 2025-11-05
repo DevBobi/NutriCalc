@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in banana nut bread",
+  "title": "How Many Calories Are in Banana Nut Bread?",
+  "meta_description": "Discover how many calories are in banana nut bread per slice, including carbs, protein, fat, and nutrition breakdowns with easy tweaks for variations.",
+  "slug": "how-many-calories-are-in-banana-nut-bread",
+  "h1": "How Many Calories Are in Banana Nut Bread?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "banana nut bread"
+  },
+  "assumptions": "Standard homemade slice (~65 g), made with mashed bananas, walnuts, flour, sugar, eggs, and butter; baked without added toppings.",
+  "disclaimer": "Nutrition varies by recipe, portion size, ingredients (e.g., nut type, sugar amount), and baking method. Check labels for store-bought versions.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One slice of banana nut bread typically contains about 250 kcal, with good amounts of carbs and healthy fats from nuts."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 30,
+      "fiber_g": 1.5,
+      "sugars_g": 15,
+      "protein_g": 4,
+      "fat_g": 12,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 30,
+    "fiber_g": 1.5,
+    "sugars_g": 15,
+    "protein_g": 4,
+    "fat_g": 12,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Use applesauce instead of butter for lower fat",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Add 1 tbsp chocolate chips per slice",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Whole wheat flour variation (vs. all-purpose)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 240
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in banana nut bread per slice?",
+      "a": "Approximately 250 kcal for a standard 65 g slice."
+    },
+    {
+      "q": "What are the carbs in banana nut bread?",
+      "a": "About 30 g carbs per slice, including 1.5 g fiber and 15 g sugars from bananas and added sweeteners."
+    },
+    {
+      "q": "Is banana nut bread high in protein?",
+      "a": "Moderately; one slice has around 4 g protein, mainly from nuts and eggs."
+    },
+    {
+      "q": "How does store-bought banana nut bread compare?",
+      "a": "Often higher in calories (300+ kcal/slice) due to extra sugar, preservatives, and larger portions—check the label."
+    },
+    {
+      "q": "Can I make banana nut bread lower calorie?",
+      "a": "Yes, substitute butter with yogurt or reduce sugar; this can cut 40-50 kcal per slice."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in green tea matcha latte",
+  "title": "Calories in Green Tea Matcha Latte",
+  "meta_description": "Learn calories in green tea matcha latte per serving, plus carbs, protein, fat, and tweaks for different milks or sweeteners.",
+  "slug": "calories-in-green-tea-matcha-latte",
+  "h1": "Calories in Green Tea Matcha Latte",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "green tea matcha latte"
+  },
+  "assumptions": "Standard 8 oz (240 ml) 2% milk with 1 tsp (2 g) matcha powder whisked in, no added sugar or syrup.",
+  "disclaimer": "Nutrition varies by milk type, matcha quality, portion size, and added ingredients like sweeteners. Check recipes or labels when available.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "One serving of green tea matcha latte provides ~130 kcal and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving (8 oz)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 17,
+      "fiber_g": 0,
+      "sugars_g": 12,
+      "protein_g": 9,
+      "fat_g": 5,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 120
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 17,
+    "fiber_g": 0,
+    "sugars_g": 12,
+    "protein_g": 9,
+    "fat_g": 5,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 120
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Use whole milk instead of 2%",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Add 1 tsp sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 146
+    },
+    {
+      "label": "Use unsweetened almond milk",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 80
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a green tea matcha latte?",
+      "a": "About 130 kcal for one 8 oz serving with 2% milk and no added sugar."
+    },
+    {
+      "q": "Does matcha latte have a lot of sugar?",
+      "a": "Base version has ~12 g natural sugars from milk; added sweeteners increase it."
+    },
+    {
+      "q": "What's the protein in matcha latte?",
+      "a": "Around 9 g per serving, mostly from the milk."
+    },
+    {
+      "q": "Are matcha lattes low carb?",
+      "a": "Yes, ~17 g carbs per serving, but varies with milk choice."
+    },
+    {
+      "q": "How does milk type affect calories in matcha latte?",
+      "a": "Skim milk lowers to ~110 kcal, whole milk raises to ~160 kcal per serving."
+    }
+  ]
+}

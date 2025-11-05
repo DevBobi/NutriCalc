@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a boba drink",
+  "title": "How Many Calories Are in a Boba Drink?",
+  "meta_description": "Discover how many calories are in a boba drink, including carbs, sugars, fat, protein, and tweaks for variations like low-sugar options.",
+  "slug": "how-many-calories-are-in-a-boba-drink",
+  "h1": "How Many Calories Are in a Boba Drink?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "drink",
+    "item": "boba drink"
+  },
+  "assumptions": "Standard 16 oz milk tea boba drink with black tea, whole milk, tapioca pearls, and moderate sugar syrup; no extra toppings.",
+  "disclaimer": "Nutrition varies by shop, size, milk type, sweetness level, and boba portion. Check menus or apps for exact values.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "A typical boba drink has about 450 kcal, mostly from sugars and milk."
+  },
+  "basis": {
+    "label": "per 1 boba drink (16 oz)",
+    "amount": 1,
+    "unit": "drink",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 80,
+      "fiber_g": 2,
+      "sugars_g": 60,
+      "protein_g": 5,
+      "fat_g": 10,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 80,
+    "fiber_g": 2,
+    "sugars_g": 60,
+    "protein_g": 5,
+    "fat_g": 10,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 100
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Low-sugar version (less syrup)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Non-dairy milk (e.g., almond milk) instead of whole milk",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Extra tapioca pearls",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 550
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a boba drink?",
+      "a": "Around 450 kcal for a standard 16 oz milk tea with boba."
+    },
+    {
+      "q": "Are boba drinks high in sugar?",
+      "a": "Yes, typically 60 g of sugars per drink from syrup and milk."
+    },
+    {
+      "q": "What's the protein in a boba drink?",
+      "a": "About 5 g, mainly from the milk base."
+    },
+    {
+      "q": "How does size affect calories in boba drinks?",
+      "a": "Larger sizes (e.g., 24 oz) can add 100-200 kcal; opt for small to reduce."
+    },
+    {
+      "q": "Can I make a lower-calorie boba drink?",
+      "a": "Choose less sugar, non-dairy milk, or fresh tea without pearls to cut 100-200 kcal."
+    }
+  ]
+}

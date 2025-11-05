@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 12 cup of oats",
+  "title": "Calories in 1/2 Cup of Oats",
+  "meta_description": "Discover calories in 12 cup of oats (1/2 cup dry rolled), about 150 kcal with 5g protein, full macros, tweaks, and FAQs for better understanding.",
+  "slug": "calories-in-12-cup-of-oats",
+  "h1": "Calories in 1/2 Cup of Oats",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 0.5,
+    "unit": "cup",
+    "item": "oats"
+  },
+  "assumptions": "Dry rolled oats, uncooked; 1/2 cup ≈ 40 g; standard brand like Quaker.",
+  "disclaimer": "Nutrition varies by type (rolled, instant, steel-cut), brand, processing, and preparation (dry vs. cooked). Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "Half a cup of dry rolled oats provides about 150 kcal and 5 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 375,
+      "carbs_g": 67.5,
+      "fiber_g": 10,
+      "sugars_g": 0,
+      "protein_g": 12.5,
+      "fat_g": 6.25,
+      "sat_fat_g": 1.25,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 27,
+    "fiber_g": 4,
+    "sugars_g": 0,
+    "protein_g": 5,
+    "fat_g": 2.5,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp brown sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 166
+    },
+    {
+      "label": "Use instant oats with flavoring",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Add 10 g chopped almonds",
+      "delta_kcal_per_unit": 58,
+      "new_total_kcal": 208
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1/2 cup of oats?",
+      "a": "About 150 kcal for dry rolled oats."
+    },
+    {
+      "q": "Are these calories for dry or cooked oats?",
+      "a": "Dry, uncooked oats; cooking in water doesn't change calories but increases volume."
+    },
+    {
+      "q": "How much protein in 1/2 cup oats?",
+      "a": "Approximately 5 g of protein."
+    },
+    {
+      "q": "What's the fiber in 1/2 cup of oats?",
+      "a": "Around 4 g of dietary fiber, aiding digestion."
+    },
+    {
+      "q": "Does oat type affect calories?",
+      "a": "Rolled and steel-cut are similar (~150 kcal); instant may be higher with added sugars."
+    }
+  ]
+}

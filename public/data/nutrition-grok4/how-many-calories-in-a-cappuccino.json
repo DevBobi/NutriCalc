@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a cappuccino",
+  "title": "How Many Calories Are in a Cappuccino?",
+  "meta_description": "Discover how many calories in a cappuccino, including macros like carbs, protein, and fat, plus variations and FAQs for your coffee routine.",
+  "slug": "how-many-calories-in-a-cappuccino",
+  "h1": "How Many Calories Are in a Cappuccino?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cappuccino",
+    "item": "cappuccino"
+  },
+  "assumptions": "Standard 150 ml cappuccino with whole milk, single espresso shot, no added sugar or flavors; steamed milk and foam.",
+  "disclaimer": "Nutrition varies by milk type, size, coffee strength, added sweeteners, and cafe preparation. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "A standard cappuccino has about 80 kcal, mostly from milk."
+  },
+  "basis": {
+    "label": "per 1 cappuccino",
+    "amount": 1,
+    "unit": "cappuccino",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sugars_g": 6,
+      "protein_g": 5,
+      "fat_g": 4,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 6,
+    "fiber_g": 0,
+    "sugars_g": 6,
+    "protein_g": 5,
+    "fat_g": 4,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 50
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Use skim milk instead of whole",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Add 1 tsp sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 96
+    },
+    {
+      "label": "Double shot espresso, same milk",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 85
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cappuccino with whole milk?",
+      "a": "About 80 kcal for a standard 150 ml serving."
+    },
+    {
+      "q": "What's the protein in a cappuccino?",
+      "a": "Around 5 g, mainly from the milk."
+    },
+    {
+      "q": "Does a cappuccino have carbs?",
+      "a": "Yes, about 6 g from lactose in the milk."
+    },
+    {
+      "q": "How to make a low-calorie cappuccino?",
+      "a": "Opt for skim or plant-based milk and skip sugar to reduce to ~50 kcal."
+    },
+    {
+      "q": "Calories in a large cappuccino?",
+      "a": "A 240 ml version can have 120-150 kcal depending on milk and additions."
+    }
+  ]
+}

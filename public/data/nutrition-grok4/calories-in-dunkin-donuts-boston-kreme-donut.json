@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in dunkin donuts boston kreme donut",
+  "title": "Calories in Dunkin Donuts Boston Kreme Donut",
+  "meta_description": "Discover calories in Dunkin Donuts Boston Kreme donut, including full nutrition breakdown like carbs, protein, fat, and sodium for this classic treat.",
+  "slug": "calories-in-dunkin-donuts-boston-kreme-donut",
+  "h1": "Calories in Dunkin Donuts Boston Kreme Donut",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "donut",
+    "item": "Dunkin Donuts Boston Kreme Donut"
+  },
+  "assumptions": "Standard yeast-raised Dunkin' Donuts Boston Kreme donut with chocolate glaze and vanilla creme filling; approximately 52 g.",
+  "disclaimer": "Nutrition varies by location, batch, and customizations; values based on standard U.S. Dunkin' menu data. Check app or store for latest.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "One Dunkin' Donuts Boston Kreme donut contains 290 calories with 4 g protein and 34 g carbs."
+  },
+  "basis": {
+    "label": "per 1 donut",
+    "amount": 1,
+    "unit": "donut",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 34,
+      "fiber_g": 1,
+      "sugars_g": 12,
+      "protein_g": 4,
+      "fat_g": 14,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 310
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 34,
+    "fiber_g": 1,
+    "sugars_g": 12,
+    "protein_g": 4,
+    "fat_g": 14,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 310
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter spread",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 326
+    },
+    {
+      "label": "Glazed donut variation (less filling)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Extra chocolate drizzle",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 310
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Dunkin Donuts Boston Kreme donut?",
+      "a": "Approximately 290 calories per standard donut."
+    },
+    {
+      "q": "What are the carbs in Dunkin Boston Kreme donut?",
+      "a": "About 34 g total carbs, including 1 g fiber and 12 g sugars."
+    },
+    {
+      "q": "Is the Boston Kreme donut high in fat?",
+      "a": "Yes, 14 g total fat, with 6 g saturated fat."
+    },
+    {
+      "q": "How much protein in a Dunkin Boston Kreme?",
+      "a": "Around 4 g protein per donut."
+    },
+    {
+      "q": "Does Dunkin Boston Kreme have trans fat?",
+      "a": "0 g trans fat in the standard version."
+    }
+  ]
+}

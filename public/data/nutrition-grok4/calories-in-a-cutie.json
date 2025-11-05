@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a cutie",
+  "title": "Calories in a Cutie Mandarin Orange",
+  "meta_description": "Discover calories in a cutie mandarin orange, including carbs, fiber, sugars, protein, fat, and more in label-style format with quick tweaks.",
+  "slug": "calories-in-a-cutie",
+  "h1": "Calories in a Cutie Mandarin Orange",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cutie",
+    "item": "cutie mandarin orange"
+  },
+  "assumptions": "One medium Cuties brand mandarin orange (~75 g), fresh, peeled, no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by size, ripeness, brand, and storage; values are approximate. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 45,
+    "text": "One cutie mandarin orange has about 45 kcal and 11 g carbs, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 1 cutie mandarin orange",
+    "amount": 1,
+    "unit": "cutie",
+    "nutrition": {
+      "calories_kcal": 45,
+      "carbs_g": 11,
+      "fiber_g": 1.5,
+      "sugars_g": 9,
+      "protein_g": 0.7,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 45,
+    "carbs_g": 11,
+    "fiber_g": 1.5,
+    "sugars_g": 9,
+    "protein_g": 0.7,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.19
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp honey drizzle",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 66
+    },
+    {
+      "label": "Eat two cuties instead of one",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "With a handful of almonds (10 g)",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 105
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cutie orange?",
+      "a": "Approximately 45 kcal per medium cutie mandarin orange."
+    },
+    {
+      "q": "What are the carbs in a cutie?",
+      "a": "About 11 g total carbs, including 1.5 g fiber and 9 g sugars."
+    },
+    {
+      "q": "Does a cutie have any protein or fat?",
+      "a": "Minimal: 0.7 g protein and 0.3 g fat per cutie."
+    },
+    {
+      "q": "Are cuties low in sodium?",
+      "a": "Yes, only about 1 mg sodium per cutie, naturally low."
+    },
+    {
+      "q": "How does size affect calories in a cutie?",
+      "a": "Smaller cuties have fewer calories (~35 kcal); larger ones up to 50 kcal. Adjust based on weight."
+    }
+  ]
+}

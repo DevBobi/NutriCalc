@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a miller high life",
+  "title": "Calories in a Miller High Life",
+  "meta_description": "Learn calories in a Miller High Life beer (141 kcal per bottle), plus carbs, protein, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-a-miller-high-life",
+  "h1": "Calories in a Miller High Life",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "Miller High Life"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) bottle, 4.6% ABV lager beer, unopened and chilled; no additives.",
+  "disclaimer": "Nutrition varies by batch, serving size, and brand specifics. Check labels or official sources when available.",
+  "quick_answer": {
+    "total_kcal": 141,
+    "text": "One 12 oz Miller High Life has ~141 kcal, mostly from carbs and alcohol."
+  },
+  "basis": {
+    "label": "per 1 bottle (12 fl oz)",
+    "amount": 1,
+    "unit": "bottle",
+    "nutrition": {
+      "calories_kcal": 141,
+      "carbs_g": 11.4,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.9,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 9
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 141,
+    "carbs_g": 11.4,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.9,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 9
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Miller High Life Light",
+      "delta_kcal_per_unit": -41,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Serve in a 16 oz pint glass (33% more volume)",
+      "delta_kcal_per_unit": 47,
+      "new_total_kcal": 188
+    },
+    {
+      "label": "Add a splash of lime juice (1 tsp)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 144
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Miller High Life beer?",
+      "a": "About 141 kcal per standard 12 oz bottle."
+    },
+    {
+      "q": "What are the carbs in a Miller High Life?",
+      "a": "Approximately 11.4 g of carbohydrates per bottle, with 0 g fiber or sugars."
+    },
+    {
+      "q": "Does Miller High Life have protein or fat?",
+      "a": "Trace protein (~0.9 g), but 0 g fat and no cholesterol."
+    },
+    {
+      "q": "How much sodium in a Miller High Life?",
+      "a": "Around 9 mg per 12 oz serving."
+    },
+    {
+      "q": "Calories in Miller High Life vs. other beers?",
+      "a": "Similar to many lagers; lighter versions like Miller Lite have fewer (~100 kcal)."
+    }
+  ]
+}

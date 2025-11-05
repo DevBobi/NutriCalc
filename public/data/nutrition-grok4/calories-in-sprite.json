@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sprite",
+  "title": "Calories in Sprite",
+  "meta_description": "Discover calories in Sprite per serving, including carbs, sugars, sodium, and nutrition facts for this lemon-lime soda, with tweaks and FAQs.",
+  "slug": "calories-in-sprite",
+  "h1": "Calories in Sprite",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 355,
+    "unit": "ml",
+    "item": "Sprite"
+  },
+  "assumptions": "Regular Sprite lemon-lime soda; standard 12 fl oz (355 ml) can; no added flavors or modifications.",
+  "disclaimer": "Nutrition varies by brand, regional formulation, serving size, and any customizations. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "A standard 12 fl oz (355 ml) can of Sprite contains 140 calories, primarily from sugars."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 39,
+      "carbs_g": 10.7,
+      "fiber_g": 0,
+      "sugars_g": 10.7,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 18
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 38,
+    "fiber_g": 0,
+    "sugars_g": 38,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 65
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Sprite Zero (diet version)",
+      "delta_kcal_per_unit": -140,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Smaller 8.45 oz (250 ml) serving",
+      "delta_kcal_per_unit": -65,
+      "new_total_kcal": 75
+    },
+    {
+      "label": "Mix with equal part water (diluted)",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a can of Sprite?",
+      "a": "A 12 fl oz (355 ml) can of regular Sprite has about 140 calories."
+    },
+    {
+      "q": "Are there carbs in Sprite?",
+      "a": "Yes, all 140 calories come from 38 g of carbohydrates (sugars) per can."
+    },
+    {
+      "q": "Does Sprite have sugar or fat?",
+      "a": "Sprite contains 38 g of sugars per 12 oz can and 0 g fat."
+    },
+    {
+      "q": "Calories in Sprite per 100 ml?",
+      "a": "Approximately 39 kcal per 100 ml, mostly from added sugars."
+    },
+    {
+      "q": "Is Sprite Zero lower in calories?",
+      "a": "Yes, Sprite Zero has 0 calories per serving, using artificial sweeteners instead of sugar."
+    }
+  ]
+}

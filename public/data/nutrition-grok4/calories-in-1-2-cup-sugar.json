@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 2 cup sugar",
+  "title": "Calories in 1/2 Cup Sugar",
+  "meta_description": "Discover calories in 1/2 cup sugar, including full nutrition breakdown, carbs, sugars, and simple tweaks for recipes.",
+  "slug": "calories-in-1-2-cup-sugar",
+  "h1": "Calories in 1/2 Cup Sugar",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 0.5,
+    "unit": "cup",
+    "item": "sugar"
+  },
+  "assumptions": "Granulated white sugar, unpacked; 1/2 cup ≈ 100 g.",
+  "disclaimer": "Nutrition varies by type (e.g., granulated vs. brown), brand, packing density, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 387,
+    "text": "1/2 cup granulated sugar provides 387 kcal, all from 100 g of carbohydrates."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 387,
+      "carbs_g": 100,
+      "fiber_g": 0,
+      "sugars_g": 100,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 387,
+    "carbs_g": 100,
+    "fiber_g": 0,
+    "sugars_g": 100,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.62
+  },
+  "tweaks": [
+    {
+      "label": "Switch to brown sugar (per 100 g)",
+      "delta_kcal_per_unit": -7,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Use powdered sugar (per 100 g equivalent volume)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 387
+    },
+    {
+      "label": "Packed granulated (adds ~20 g per 1/2 cup)",
+      "delta_kcal_per_unit": 77,
+      "new_total_kcal": 464
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1/2 cup granulated sugar?",
+      "a": "Approximately 387 kcal for unpacked granulated white sugar."
+    },
+    {
+      "q": "Is sugar all carbs?",
+      "a": "Yes, 100% carbohydrates (all sugars) with 0 g protein, fat, or fiber per 100 g."
+    },
+    {
+      "q": "How much sugar is in 1/2 cup?",
+      "a": "About 100 g, equivalent to 25 teaspoons or 8 tablespoons."
+    },
+    {
+      "q": "Does brown sugar have more calories than white?",
+      "a": "Slightly less—around 380 kcal per 100 g due to moisture content."
+    },
+    {
+      "q": "What about sodium in sugar?",
+      "a": "Negligible, typically 1 mg per 100 g or less."
+    }
+  ]
+}

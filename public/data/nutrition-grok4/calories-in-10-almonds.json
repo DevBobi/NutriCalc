@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 10 almonds",
+  "title": "Calories in 10 Almonds",
+  "meta_description": "Discover calories in 10 almonds, including protein, fat, carbs, full nutrition breakdown per almond, and simple tweaks for variations.",
+  "slug": "calories-in-10-almonds",
+  "h1": "Calories in 10 Almonds",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 10,
+    "unit": "almond",
+    "item": "almond"
+  },
+  "assumptions": "Raw, unsalted, whole almonds; approximately 1.2 g each.",
+  "disclaimer": "Nutrition varies by variety, processing, brand, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 70,
+    "text": "10 raw almonds provide ~70 kcal and ~2.5 g protein."
+  },
+  "basis": {
+    "label": "per 1 almond",
+    "amount": 1,
+    "unit": "almond",
+    "nutrition": {
+      "calories_kcal": 7,
+      "carbs_g": 0.3,
+      "fiber_g": 0.2,
+      "sugars_g": 0.1,
+      "protein_g": 0.3,
+      "fat_g": 0.6,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 70,
+    "carbs_g": 2.6,
+    "fiber_g": 1.5,
+    "sugars_g": 0.5,
+    "protein_g": 2.5,
+    "fat_g": 6,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Oil-roasted (adds minimal oil)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Blanched (skin removed)",
+      "delta_kcal_per_unit": -1,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Salted (dry roasted)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one almond?",
+      "a": "About 7 kcal per raw almond."
+    },
+    {
+      "q": "What is the fat content in 10 almonds?",
+      "a": "Approximately 6 g total fat, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "Do almonds have carbs or fiber?",
+      "a": "10 almonds have ~2.6 g carbs and 1.5 g fiber."
+    },
+    {
+      "q": "Are roasted almonds higher in calories than raw?",
+      "a": "Yes, if oil-roasted; dry-roasted are similar to raw at ~7 kcal each."
+    },
+    {
+      "q": "How much protein in 10 almonds?",
+      "a": "Roughly 2.5 g protein, making them a good snack for satiety."
+    }
+  ]
+}

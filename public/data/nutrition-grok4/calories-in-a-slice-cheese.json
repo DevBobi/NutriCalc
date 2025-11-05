@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a slice cheese",
+  "title": "Calories in a Slice of Cheese",
+  "meta_description": "Discover calories in a slice cheese, including full nutrition breakdown, protein, fat, carbs, and easy tweaks for variations.",
+  "slug": "calories-in-a-slice-cheese",
+  "h1": "Calories in a Slice of Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "cheese"
+  },
+  "assumptions": "Processed American cheese slice, ~21 g, standard yellow variety, no added ingredients.",
+  "disclaimer": "Nutrition varies by cheese type, brand, slice thickness, and processing; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 70,
+    "text": "One slice of processed cheese provides ~70 kcal and ~4 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 70,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 4,
+      "fat_g": 6,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 20,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 70,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 4,
+    "fat_g": 6,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 20,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Switch to low-fat cheddar slice",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Use natural Swiss cheese slice (thicker, ~28 g)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Add 1 tsp butter on top",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 106
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a slice of American cheese?",
+      "a": "About 70 kcal for a standard 21 g processed slice."
+    },
+    {
+      "q": "What is the fat content in a slice cheese?",
+      "a": "Typically 6 g total fat, including 3.5 g saturated, per slice."
+    },
+    {
+      "q": "Does cheese have carbs or fiber?",
+      "a": "Minimal carbs (~1 g per slice) and 0 g fiber."
+    },
+    {
+      "q": "How much sodium in a slice of cheese?",
+      "a": "Around 300 mg, which can vary by brand and type."
+    },
+    {
+      "q": "Are calories different for cheddar vs. processed cheese?",
+      "a": "Yes—natural cheddar slice may have 100+ kcal, processed is lower at ~70 kcal."
+    }
+  ]
+}

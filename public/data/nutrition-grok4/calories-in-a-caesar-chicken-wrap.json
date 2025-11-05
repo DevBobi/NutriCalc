@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a caesar chicken wrap",
+  "title": "Calories in a Caesar Chicken Wrap",
+  "meta_description": "Learn calories in a caesar chicken wrap, with full nutrition facts including protein, carbs, fat, and easy tweaks for healthier options.",
+  "slug": "calories-in-a-caesar-chicken-wrap",
+  "h1": "Calories in a Caesar Chicken Wrap",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "wrap",
+    "item": "caesar chicken wrap"
+  },
+  "assumptions": "Grilled chicken breast, romaine lettuce, Caesar dressing, parmesan cheese, flour tortilla; standard restaurant or fast-food portion (~300g total).",
+  "disclaimer": "Nutrition varies by brand, recipe, portion size, and preparation method. Check labels or restaurant info when available.",
+  "quick_answer": {
+    "total_kcal": 550,
+    "text": "A Caesar chicken wrap typically contains ~550 kcal and ~30 g protein."
+  },
+  "basis": {
+    "label": "per 1 wrap",
+    "amount": 1,
+    "unit": "wrap",
+    "nutrition": {
+      "calories_kcal": 550,
+      "carbs_g": 50,
+      "fiber_g": 3,
+      "sugars_g": 3,
+      "protein_g": 30,
+      "fat_g": 25,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 80,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 550,
+    "carbs_g": 50,
+    "fiber_g": 3,
+    "sugars_g": 3,
+    "protein_g": 30,
+    "fat_g": 25,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 80,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.3
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat Caesar dressing",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 450
+    },
+    {
+      "label": "Add 2 slices of bacon",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 630
+    },
+    {
+      "label": "Switch to whole wheat tortilla",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 530
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Caesar chicken wrap?",
+      "a": "Approximately 550 kcal for a standard wrap."
+    },
+    {
+      "q": "What's the protein content in a Caesar chicken wrap?",
+      "a": "About 30 g of protein from the grilled chicken."
+    },
+    {
+      "q": "Are Caesar chicken wraps high in sodium?",
+      "a": "Yes, typically ~1200 mg due to dressing and cheese."
+    },
+    {
+      "q": "How to make a lower-calorie Caesar chicken wrap?",
+      "a": "Opt for low-fat dressing and skip cheese to reduce by ~100 kcal."
+    },
+    {
+      "q": "What's the carb breakdown in a Caesar chicken wrap?",
+      "a": "Around 50 g carbs, mostly from the tortilla, with 3 g fiber."
+    }
+  ]
+}

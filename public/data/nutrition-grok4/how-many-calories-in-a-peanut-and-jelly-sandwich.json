@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a peanut and jelly sandwich",
+  "title": "How Many Calories in a Peanut and Jelly Sandwich?",
+  "meta_description": "Discover how many calories in a peanut and jelly sandwich, including full nutrition breakdown, macros, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-peanut-and-jelly-sandwich",
+  "h1": "How Many Calories in a Peanut and Jelly Sandwich?",
+  "updated": "2023-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "peanut butter and jelly sandwich"
+  },
+  "assumptions": "2 slices white bread, 2 tbsp creamy peanut butter, 1 tbsp grape jelly; no added butter or extras.",
+  "disclaimer": "Nutrition varies by bread type, peanut butter brand, jelly sweetness, portion sizes, and preparation. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "A standard peanut butter and jelly sandwich contains about 450 calories and 15 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 60,
+      "fiber_g": 4,
+      "sugars_g": 20,
+      "protein_g": 15,
+      "fat_g": 20,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 60,
+    "fiber_g": 4,
+    "sugars_g": 20,
+    "protein_g": 15,
+    "fat_g": 20,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Use whole wheat bread instead of white",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Switch to low-sugar jelly (1 tbsp)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 420
+    },
+    {
+      "label": "Add 1/2 banana slices",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 500
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a peanut butter and jelly sandwich?",
+      "a": "Approximately 450 calories for a standard version with 2 slices bread, 2 tbsp PB, and 1 tbsp jelly."
+    },
+    {
+      "q": "What are the macros for a PB&J sandwich?",
+      "a": "About 60 g carbs, 20 g fat, 15 g protein, and 4 g fiber."
+    },
+    {
+      "q": "Does the type of bread affect calories in a peanut and jelly sandwich?",
+      "a": "Yes—whole wheat adds fiber but similar calories; rye or sourdough may vary by 20-50 kcal."
+    },
+    {
+      "q": "How much sugar is in a peanut butter and jelly sandwich?",
+      "a": "Around 20 g, mostly from the jelly; opt for low-sugar options to reduce it."
+    },
+    {
+      "q": "Can I make a lower-calorie peanut and jelly sandwich?",
+      "a": "Yes—use thin bread slices, reduced-fat PB, or less jelly to cut 50-100 kcal."
+    }
+  ]
+}

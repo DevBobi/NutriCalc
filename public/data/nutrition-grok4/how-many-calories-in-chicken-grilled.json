@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in chicken grilled",
+  "title": "How Many Calories in Grilled Chicken?",
+  "meta_description": "Discover how many calories in chicken grilled per 100 g serving, including protein, fat, carbs, and tips for variations to fit your diet.",
+  "slug": "how-many-calories-in-chicken-grilled",
+  "h1": "How Many Calories in Grilled Chicken?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "grilled chicken"
+  },
+  "assumptions": "Skinless, boneless chicken breast, grilled without added oil, marinade, or seasonings.",
+  "disclaimer": "Nutrition varies by cut, cooking method, added ingredients, and portion size. Check labels or use a tracker for precision.",
+  "quick_answer": {
+    "total_kcal": 165,
+    "text": "100 g of grilled chicken breast provides ~165 kcal and ~31 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 31,
+      "fat_g": 3.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 74
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 165,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 31,
+    "fat_g": 3.6,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 85,
+    "sodium_mg": 74
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.69
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil for grilling per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 205
+    },
+    {
+      "label": "Use chicken thigh instead of breast per 100 g",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Include a simple marinade (e.g., lemon-herb) per 100 g",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 180
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g grilled chicken breast?",
+      "a": "Approximately 165 kcal for skinless, boneless grilled chicken breast."
+    },
+    {
+      "q": "Is grilled chicken high in protein?",
+      "a": "Yes, 100 g provides about 31 g of protein, making it a lean choice."
+    },
+    {
+      "q": "How does grilling affect chicken calories?",
+      "a": "Grilling without oil keeps calories low by reducing added fats compared to frying."
+    },
+    {
+      "q": "What if I add BBQ sauce to grilled chicken?",
+      "a": "Adds ~20-30 kcal per tbsp; totals could reach 185-195 kcal per 100 g."
+    },
+    {
+      "q": "Are these values for raw or cooked chicken?",
+      "a": "Cooked weight; raw is similar but cooking reduces moisture, concentrating nutrients."
+    }
+  ]
+}

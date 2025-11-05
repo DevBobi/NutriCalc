@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in wine vs beer",
+  "title": "Calories in Wine vs Beer",
+  "meta_description": "Compare calories in wine vs beer: A standard 5 oz glass of wine has 125 kcal, while a 12 oz beer has 153 kcal. Includes full nutrition, variations, and FAQs.",
+  "slug": "calories-in-wine-vs-beer",
+  "h1": "Calories in Wine vs Beer",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "glass",
+    "item": "wine"
+  },
+  "assumptions": "Standard 5 fl oz (148 ml) glass of dry red wine (~12% ABV). Beer comparison to 12 fl oz (355 ml) regular lager (~5% ABV).",
+  "disclaimer": "Nutrition varies by type, brand, alcohol content, serving size, and additives. Check labels or reliable sources for exact values.",
+  "quick_answer": {
+    "total_kcal": 125,
+    "text": "A standard 5 oz glass of wine has 125 calories, compared to 153 in a 12 oz beer."
+  },
+  "basis": {
+    "label": "per 5 oz glass of dry red wine",
+    "amount": 1,
+    "unit": "glass",
+    "nutrition": {
+      "calories_kcal": 125,
+      "carbs_g": 3.8,
+      "fiber_g": 0,
+      "sugars_g": 0.9,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 6
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 125,
+    "carbs_g": 3.8,
+    "fiber_g": 0,
+    "sugars_g": 0.9,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 6
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.52
+  },
+  "tweaks": [
+    {
+      "label": "Sweet wine (higher residual sugar)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Dry white wine (slightly lower carbs)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Fortified wine like port (higher ABV)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 175
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in wine vs beer?",
+      "a": "Standard 5 oz wine: 125 kcal; 12 oz beer: 153 kcal. Wine often has fewer calories per serving."
+    },
+    {
+      "q": "Which has more calories, wine or beer?",
+      "a": "Beer typically has more (153 kcal per 12 oz) than wine (125 kcal per 5 oz), but depends on type and size."
+    },
+    {
+      "q": "Calories in red wine vs white wine?",
+      "a": "Similar: red ~125 kcal, white ~120 kcal per 5 oz glass. Reds may have slightly more due to skins."
+    },
+    {
+      "q": "Does light beer have fewer calories than wine?",
+      "a": "Yes, light beer ~100 kcal per 12 oz, less than standard wine's 125 kcal."
+    },
+    {
+      "q": "How does serving size affect calories in wine vs beer?",
+      "a": "Larger pours increase calories proportionally; wine glasses often over 5 oz, beers over 12 oz, raising totals."
+    }
+  ]
+}

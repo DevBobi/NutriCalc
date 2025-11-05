@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a double quarter pounder",
+  "title": "How Many Calories in a Double Quarter Pounder?",
+  "meta_description": "Discover how many calories in a double quarter pounder, including full nutrition breakdown like fat, protein, carbs, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-double-quarter-pounder",
+  "h1": "How Many Calories in a Double Quarter Pounder?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "double quarter pounder",
+    "item": "double quarter pounder"
+  },
+  "assumptions": "McDonald's Double Quarter Pounder with Cheese; includes two beef patties (4 oz each), cheese, bun, onions, ketchup, mustard; standard fast-food preparation.",
+  "disclaimer": "Nutrition varies by chain, customizations, portion size, and preparation; values based on standard U.S. McDonald's data. Check official sources or apps for latest.",
+  "quick_answer": {
+    "total_kcal": 740,
+    "text": "A Double Quarter Pounder with Cheese contains about 740 calories and 48 g protein."
+  },
+  "basis": {
+    "label": "per 1 double quarter pounder",
+    "amount": 1,
+    "unit": "double quarter pounder",
+    "nutrition": {
+      "calories_kcal": 740,
+      "carbs_g": 42,
+      "fiber_g": 3,
+      "sugars_g": 10,
+      "protein_g": 48,
+      "fat_g": 42,
+      "sat_fat_g": 20,
+      "trans_fat_g": 3,
+      "cholesterol_mg": 155,
+      "sodium_mg": 1330
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 740,
+    "carbs_g": 42,
+    "fiber_g": 3,
+    "sugars_g": 10,
+    "protein_g": 48,
+    "fat_g": 42,
+    "sat_fat_g": 20,
+    "trans_fat_g": 3,
+    "cholesterol_mg": 155,
+    "sodium_mg": 1330
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 3.1
+  },
+  "tweaks": [
+    {
+      "label": "Remove cheese slices",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 640
+    },
+    {
+      "label": "Add bacon strips",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 820
+    },
+    {
+      "label": "No bun (bun-less version)",
+      "delta_kcal_per_unit": -220,
+      "new_total_kcal": 520
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Double Quarter Pounder with Cheese?",
+      "a": "Approximately 740 calories for the standard version."
+    },
+    {
+      "q": "What's the protein content in a double quarter pounder?",
+      "a": "About 48 g of protein from the beef patties and cheese."
+    },
+    {
+      "q": "How much fat is in a double quarter pounder?",
+      "a": "42 g total fat, including 20 g saturated and 3 g trans fat."
+    },
+    {
+      "q": "Are there carbs in a double quarter pounder?",
+      "a": "Yes, 42 g carbs mainly from the bun, with 3 g fiber and 10 g sugars."
+    },
+    {
+      "q": "How does sodium compare in a double quarter pounder?",
+      "a": "Around 1330 mg sodium, mostly from condiments and cheese—watch for high intake."
+    }
+  ]
+}

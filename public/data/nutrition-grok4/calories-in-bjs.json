@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in bjs",
+  "title": "Calories in BJ's Pizza",
+  "meta_description": "Learn calories in BJ's pizza per slice, including full nutrition facts, macros, and variations for BJ's deep dish favorites.",
+  "slug": "calories-in-bjs",
+  "h1": "Calories in BJ's Pizza",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "BJ's pizza"
+  },
+  "assumptions": "1 slice of medium deep dish cheese pizza from BJ's Restaurant & Brewhouse; standard crust, no extra toppings.",
+  "disclaimer": "Nutrition varies by location, exact recipe, portion size, and customizations. Check BJ's menu or app for latest info.",
+  "quick_answer": {
+    "total_kcal": 380,
+    "text": "One slice of BJ's deep dish cheese pizza has about 380 kcal and 14 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 380,
+      "carbs_g": 42,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 14,
+      "fat_g": 18,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 35,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 380,
+    "carbs_g": 42,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 14,
+    "fat_g": 18,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35,
+    "sodium_mg": 800
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with restaurant info.",
+  "equivalents": {
+    "megajoules": 1.59
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Vegetarian toppings (veggies instead of meat)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Gluten-free crust option",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 420
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of BJ's pizza?",
+      "a": "Approximately 380 kcal for a cheese deep dish slice."
+    },
+    {
+      "q": "What are the macros in BJ's pizza calories?",
+      "a": "Per slice: 42 g carbs, 14 g protein, 18 g fat."
+    },
+    {
+      "q": "Does BJ's pizza have high sodium?",
+      "a": "Yes, about 800 mg per slice due to cheese and crust."
+    },
+    {
+      "q": "How do toppings affect calories in BJ's pizza?",
+      "a": "Meats add 50+ kcal; veggies reduce by 20-30 kcal per slice."
+    },
+    {
+      "q": "Calories in a whole BJ's deep dish pizza?",
+      "a": "A medium has 8 slices, so roughly 3,040 kcal total."
+    }
+  ]
+}

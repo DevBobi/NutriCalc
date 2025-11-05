@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in seamen",
+  "title": "Calories in Semen",
+  "meta_description": "Discover calories in semen per average ejaculation, including protein, carbs, sugars, and other nutrients based on typical composition.",
+  "slug": "calories-in-seamen",
+  "h1": "Calories in Semen",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "ejaculation",
+    "item": "semen"
+  },
+  "assumptions": "Average human male ejaculation (~3-5 ml volume); composition based on standard physiological data; no additives.",
+  "disclaimer": "Nutrition varies by individual health, diet, hydration, and frequency; values are approximate. Consult medical sources for accuracy.",
+  "quick_answer": {
+    "total_kcal": 15,
+    "text": "One average ejaculation of semen contains about 15 kcal, mostly from sugars and proteins."
+  },
+  "basis": {
+    "label": "per 1 average ejaculation",
+    "amount": 1,
+    "unit": "ejaculation",
+    "nutrition": {
+      "calories_kcal": 15,
+      "carbs_g": 2.5,
+      "fiber_g": 0,
+      "sugars_g": 2.2,
+      "protein_g": 1,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 15,
+    "carbs_g": 2.5,
+    "fiber_g": 0,
+    "sugars_g": 2.2,
+    "protein_g": 1,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 50
+  },
+  "label_note": "Values approximate Nutrition Facts style; semen is not a standard food but analyzed for curiosity.",
+  "equivalents": {
+    "megajoules": 0.06
+  },
+  "tweaks": [
+    {
+      "label": "Higher volume ejaculation (5 ml vs. 3 ml average)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 25
+    },
+    {
+      "label": "Post-abstinence (increased concentration)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 20
+    },
+    {
+      "label": "Diet high in fruits (more fructose)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 18
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one ejaculation of semen?",
+      "a": "Approximately 15 kcal for an average 3-5 ml volume."
+    },
+    {
+      "q": "What nutrients are in semen besides calories?",
+      "a": "About 1 g protein, 2.5 g carbs (mostly sugars), and trace fats; also minerals like zinc and sodium."
+    },
+    {
+      "q": "Does semen have protein for nutrition?",
+      "a": "Yes, around 1 g per ejaculation, but it's not a significant dietary source."
+    },
+    {
+      "q": "How does diet affect calories in semen?",
+      "a": "Higher sugar intake can increase fructose content, raising calories slightly (e.g., +3 kcal)."
+    },
+    {
+      "q": "Is semen low-carb or keto-friendly?",
+      "a": "Very low-carb at ~2.5 g per serving, with negligible fiber."
+    }
+  ]
+}

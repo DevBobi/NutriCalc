@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a can of sardines",
+  "title": "Calories in a Can of Sardines",
+  "meta_description": "Discover calories in a can of sardines, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for your diet.",
+  "slug": "calories-in-a-can-of-sardines",
+  "h1": "Calories in a Can of Sardines",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "sardines"
+  },
+  "assumptions": "Standard 3.75 oz (106g) can in oil, drained solids; includes edible bones; no added sauces.",
+  "disclaimer": "Nutrition varies by brand, packing medium (oil/water), size, and draining method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 191,
+    "text": "A standard can of sardines provides ~191 kcal and ~25 g protein."
+  },
+  "basis": {
+    "label": "per 1 can (drained)",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 191,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 11,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 130,
+      "sodium_mg": 465
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 191,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 11,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 130,
+    "sodium_mg": 465
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Packed in water instead of oil",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 141
+    },
+    {
+      "label": "Add 1 tsp olive oil for serving",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 231
+    },
+    {
+      "label": "Low-sodium variety",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 191
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a can of sardines in oil?",
+      "a": "About 191 kcal for a standard 3.75 oz drained can."
+    },
+    {
+      "q": "What's the protein in a can of sardines?",
+      "a": "Roughly 25 g protein per can, making it a great lean source."
+    },
+    {
+      "q": "Do sardines have carbs?",
+      "a": "Typically 0 g carbs per can, ideal for low-carb diets."
+    },
+    {
+      "q": "How does packing medium affect calories in sardines?",
+      "a": "Oil-packed adds ~50 kcal; water-packed is lower in fat and calories."
+    },
+    {
+      "q": "Are canned sardines high in sodium?",
+      "a": "Yes, around 465 mg per can; opt for low-sodium versions if needed."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mini avocado",
+  "title": "Calories in a Mini Avocado",
+  "meta_description": "Discover calories in mini avocado, including full nutrition breakdown like fat, fiber, protein, and easy tweaks for recipes.",
+  "slug": "calories-in-mini-avocado",
+  "h1": "Calories in a Mini Avocado",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "mini avocado",
+    "item": "mini avocado"
+  },
+  "assumptions": "Edible flesh only, approximately 50g; ripe Hass variety, raw, no added ingredients.",
+  "disclaimer": "Nutrition varies by variety, ripeness, size, and growing conditions. Check labels or sources for exact values.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "One mini avocado (50g flesh) provides ~80 kcal, mostly from healthy fats, with 3g fiber."
+  },
+  "basis": {
+    "label": "per 1 mini avocado (50g)",
+    "amount": 1,
+    "unit": "mini avocado",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 4.3,
+      "fiber_g": 3.4,
+      "sugars_g": 0.3,
+      "protein_g": 1,
+      "fat_g": 7.4,
+      "sat_fat_g": 1.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 4.3,
+    "fiber_g": 3.4,
+    "sugars_g": 0.3,
+    "protein_g": 1,
+    "fat_g": 7.4,
+    "sat_fat_g": 1.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 4
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Standard size avocado (100g flesh instead of 50g)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Mashed with 1 tsp lime juice",
+      "delta_kcal_per_unit": 4,
+      "new_total_kcal": 84
+    },
+    {
+      "label": "Sliced and topped with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in mini avocado?",
+      "a": "About 80 kcal for one mini avocado (50g edible flesh)."
+    },
+    {
+      "q": "Is a mini avocado low carb?",
+      "a": "Yes, ~4.3g carbs total, with 3.4g fiber, netting ~0.9g digestible carbs."
+    },
+    {
+      "q": "What's the fat content in mini avocado?",
+      "a": "Approximately 7.4g total fat, mostly monounsaturated healthy fats."
+    },
+    {
+      "q": "How much fiber in a mini avocado?",
+      "a": "Around 3.4g dietary fiber, supporting digestion and satiety."
+    },
+    {
+      "q": "Does avocado size affect calories?",
+      "a": "Yes; mini (50g) is ~80 kcal, while a full medium avocado (136g) is ~220 kcal."
+    }
+  ]
+}

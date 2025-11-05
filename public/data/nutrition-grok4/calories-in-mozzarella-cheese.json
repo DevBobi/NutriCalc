@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mozzarella cheese",
+  "title": "Calories in Mozzarella Cheese",
+  "meta_description": "Discover calories in mozzarella cheese per 100g serving, including full nutrition breakdown, protein, fat, carbs, and easy tweaks for variations.",
+  "slug": "calories-in-mozzarella-cheese",
+  "h1": "Calories in Mozzarella Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "mozzarella cheese"
+  },
+  "assumptions": "Whole milk mozzarella cheese, fresh or low-moisture; standard commercial variety, unsalted unless noted.",
+  "disclaimer": "Nutrition varies by milk type (whole vs. skim), brand, moisture content, and aging; check labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 300,
+    "text": "100g of whole milk mozzarella cheese provides ~300 kcal and ~22g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 300,
+      "carbs_g": 2.2,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 22,
+      "fat_g": 22,
+      "sat_fat_g": 14,
+      "trans_fat_g": 0.8,
+      "cholesterol_mg": 54,
+      "sodium_mg": 627
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 300,
+    "carbs_g": 2.2,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 22,
+    "fat_g": 22,
+    "sat_fat_g": 14,
+    "trans_fat_g": 0.8,
+    "cholesterol_mg": 54,
+    "sodium_mg": 627
+  },
+  "label_note": "Values mirror standard Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.26
+  },
+  "tweaks": [
+    {
+      "label": "Part-skim mozzarella (lower fat version)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Fresh mozzarella in water (higher moisture)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Shredded with anti-caking agents",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 310
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g mozzarella cheese?",
+      "a": "Approximately 300 kcal for whole milk variety."
+    },
+    {
+      "q": "Is mozzarella cheese high in protein?",
+      "a": "Yes, about 22g protein per 100g serving."
+    },
+    {
+      "q": "What's the fat content in mozzarella cheese?",
+      "a": "Around 22g total fat, including 14g saturated, per 100g."
+    },
+    {
+      "q": "Does mozzarella have carbs?",
+      "a": "Low carbs at ~2.2g per 100g, mostly from natural milk sugars."
+    },
+    {
+      "q": "How does part-skim mozzarella compare calorie-wise?",
+      "a": "Part-skim has ~250 kcal per 100g, lower fat than whole milk."
+    }
+  ]
+}

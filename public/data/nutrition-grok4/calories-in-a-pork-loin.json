@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a pork loin",
+  "title": "Calories in a Pork Loin",
+  "meta_description": "Learn calories in a pork loin with a full nutrition breakdown including protein, fat, carbs, and serving tips for better meals.",
+  "slug": "calories-in-a-pork-loin",
+  "h1": "Calories in a Pork Loin",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "pork loin",
+    "item": "pork loin"
+  },
+  "assumptions": "Boneless, lean pork loin chop, roasted without added fat or seasonings; 100 g portion size for one standard serving.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and portion size. Check labels or use a scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 143,
+    "text": "One 100 g serving of roasted pork loin provides ~143 kcal and 27 g protein."
+  },
+  "basis": {
+    "label": "per 100 g pork loin",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 143,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 27,
+      "fat_g": 3.5,
+      "sat_fat_g": 1.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 55
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 143,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 27,
+    "fat_g": 3.5,
+    "sat_fat_g": 1.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 80,
+    "sodium_mg": 55
+  },
+  "label_note": "Values mirror standard Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.6
+  },
+  "tweaks": [
+    {
+      "label": "Pan-fried with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 183
+    },
+    {
+      "label": "Untrimmed fat (extra 10 g fat)",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 233
+    },
+    {
+      "label": "Boned and breaded (light coating)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 193
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a pork loin per 100 g?",
+      "a": "About 143 kcal for roasted, lean boneless pork loin."
+    },
+    {
+      "q": "What's the protein in a pork loin serving?",
+      "a": "Approximately 27 g protein per 100 g serving."
+    },
+    {
+      "q": "Does pork loin have carbs?",
+      "a": "No carbs, fiber, or sugars in plain roasted pork loin."
+    },
+    {
+      "q": "How does cooking affect calories in pork loin?",
+      "a": "Roasting keeps it low-cal; frying or adding fat increases by 40+ kcal per tsp oil."
+    },
+    {
+      "q": "Is pork loin lean or fatty?",
+      "a": "Lean cuts have ~3.5 g fat per 100 g; choose center loin for lowest fat."
+    }
+  ]
+}

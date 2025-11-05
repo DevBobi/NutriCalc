@@ -1,92 +1,92 @@
 {
   "keyword": "calories in mcdonalds medium chips",
   "title": "Calories in McDonald's Medium Chips",
-  "meta_description": "Discover calories in McDonald's medium chips, plus full nutrition breakdown including carbs, fat, protein, sodium, and quick tweaks for variations.",
+  "meta_description": "Discover calories in McDonald's medium chips, including full nutrition breakdown like fat, carbs, protein, and easy tweaks for your meal.",
   "slug": "calories-in-mcdonalds-medium-chips",
   "h1": "Calories in McDonald's Medium Chips",
-  "updated": "2024-10-05",
+  "updated": "2024-10-04",
   "query": {
     "amount": 1,
     "unit": "medium serving",
     "item": "McDonald's chips"
   },
-  "assumptions": "McDonald's medium portion french fries (chips), salted, fried in vegetable oil blend, standard serving size (~117g).",
-  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and customizations; check McDonald's app or site for latest values.",
+  "assumptions": "Standard McDonald's medium fries (UK portion, ~340g), salted, cooked in vegetable oil, no dips or customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, and portion size; values based on McDonald's UK data. Check app or packaging for latest.",
   "quick_answer": {
-    "total_kcal": 340,
-    "text": "McDonald's medium chips contain about 340 calories with 44g carbs and 16g fat."
+    "total_kcal": 337,
+    "text": "One medium serving of McDonald's chips contains ~337 kcal and 4.2 g protein."
   },
   "basis": {
     "label": "per 1 medium serving",
     "amount": 1,
     "unit": "medium serving",
     "nutrition": {
-      "calories_kcal": 340,
-      "carbs_g": 44,
-      "fiber_g": 4,
-      "sugars_g": 0,
-      "protein_g": 4,
-      "fat_g": 16,
-      "sat_fat_g": 2.5,
+      "calories_kcal": 337,
+      "carbs_g": 43,
+      "fiber_g": 4.1,
+      "sugars_g": 0.3,
+      "protein_g": 4.2,
+      "fat_g": 15,
+      "sat_fat_g": 1.3,
       "trans_fat_g": 0,
       "cholesterol_mg": 0,
-      "sodium_mg": 260
+      "sodium_mg": 264
     }
   },
   "nutrition_total": {
-    "calories_kcal": 340,
-    "carbs_g": 44,
-    "fiber_g": 4,
-    "sugars_g": 0,
-    "protein_g": 4,
-    "fat_g": 16,
-    "sat_fat_g": 2.5,
+    "calories_kcal": 337,
+    "carbs_g": 43,
+    "fiber_g": 4.1,
+    "sugars_g": 0.3,
+    "protein_g": 4.2,
+    "fat_g": 15,
+    "sat_fat_g": 1.3,
     "trans_fat_g": 0,
     "cholesterol_mg": 0,
-    "sodium_mg": 260
+    "sodium_mg": 264
   },
   "label_note": "Totals mirror Nutrition Facts fields for easy comparison with packaging.",
   "equivalents": {
-    "megajoules": 1.42
+    "megajoules": 1.41
   },
   "tweaks": [
     {
-      "label": "Add 1 packet ketchup",
+      "label": "Add one sachet of tomato ketchup",
       "delta_kcal_per_unit": 20,
-      "new_total_kcal": 360
+      "new_total_kcal": 357
     },
     {
       "label": "Upgrade to large serving",
-      "delta_kcal_per_unit": 110,
-      "new_total_kcal": 450
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 437
     },
     {
-      "label": "No salt (rinsed or unsalted)",
+      "label": "Request no salt",
       "delta_kcal_per_unit": 0,
-      "new_total_kcal": 340
+      "new_total_kcal": 337
     }
   ],
   "faqs_required_count": 5,
   "faqs": [
     {
-      "q": "How many calories in McDonald's medium chips?",
-      "a": "Approximately 340 calories per medium serving."
+      "q": "How many calories are in McDonald's medium chips?",
+      "a": "Approximately 337 kcal per medium serving."
     },
     {
-      "q": "What are the carbs in McDonald's medium chips?",
-      "a": "About 44g total carbs, including 4g fiber and 0g sugars."
-    },
-    {
-      "q": "How much fat is in McDonald's medium chips?",
-      "a": "16g total fat, with 2.5g saturated fat."
+      "q": "What is the fat content in McDonald's medium chips?",
+      "a": "About 15 g total fat, including 1.3 g saturated fat."
     },
     {
       "q": "Are McDonald's medium chips high in sodium?",
-      "a": "Yes, around 260mg sodium per serving due to salting."
+      "a": "Yes, around 264 mg sodium per serving due to salting."
     },
     {
-      "q": "How do small vs medium McDonald's chips compare in calories?",
-      "a": "Small has ~230 calories; medium adds about 110 more."
+      "q": "How many carbs in McDonald's medium chips?",
+      "a": "Roughly 43 g carbs, with 4.1 g fiber and 0.3 g sugars."
+    },
+    {
+      "q": "Do McDonald's chips have protein?",
+      "a": "A modest 4.2 g protein per medium serving."
     }
   ]
 }

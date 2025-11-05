@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a sweet pepper",
+  "title": "How Many Calories in a Sweet Pepper?",
+  "meta_description": "Learn how many calories in a sweet pepper, with detailed nutrition facts per pepper, macros, fiber, and easy tweaks for recipes.",
+  "slug": "how-many-calories-in-a-sweet-pepper",
+  "h1": "How Many Calories in a Sweet Pepper?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pepper",
+    "item": "sweet pepper"
+  },
+  "assumptions": "Medium-sized (119 g), raw, bell pepper (red or green); no added seasonings or oils.",
+  "disclaimer": "Nutrition varies by color, size, ripeness, and growing conditions. Check labels or databases for specific varieties.",
+  "quick_answer": {
+    "total_kcal": 25,
+    "text": "One medium sweet pepper contains about 25 calories and provides 2.1 g of fiber."
+  },
+  "basis": {
+    "label": "per 1 medium sweet pepper",
+    "amount": 1,
+    "unit": "pepper",
+    "nutrition": {
+      "calories_kcal": 25,
+      "carbs_g": 6,
+      "fiber_g": 2.1,
+      "sugars_g": 3.9,
+      "protein_g": 1,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 25,
+    "carbs_g": 6,
+    "fiber_g": 2.1,
+    "sugars_g": 3.9,
+    "protein_g": 1,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Roasted with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 65
+    },
+    {
+      "label": "Stuffed with 1 oz cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 135
+    },
+    {
+      "label": "Small pepper (74 g) instead of medium",
+      "delta_kcal_per_unit": -16,
+      "new_total_kcal": 9
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a sweet pepper?",
+      "a": "About 25 kcal for one medium raw sweet pepper."
+    },
+    {
+      "q": "Are sweet peppers low carb?",
+      "a": "Yes, one medium has 6 g carbs, including 2.1 g fiber."
+    },
+    {
+      "q": "What's the protein in a sweet pepper?",
+      "a": "Roughly 1 g protein per medium pepper."
+    },
+    {
+      "q": "Do sweet peppers have fat?",
+      "a": "Very low—0.3 g total fat per medium pepper, mostly unsaturated."
+    },
+    {
+      "q": "How does pepper size affect calories?",
+      "a": "Larger peppers have more calories; a small one is ~9 kcal, extra-large ~40 kcal."
+    }
+  ]
+}

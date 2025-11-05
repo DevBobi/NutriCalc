@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a two egg omelet",
+  "title": "Calories in a Two Egg Omelet",
+  "meta_description": "Learn calories in a two egg omelet, with full nutrition facts including protein, fat, carbs, and easy tweaks for variations.",
+  "slug": "calories-in-a-two-egg-omelet",
+  "h1": "Calories in a Two Egg Omelet",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 2,
+    "unit": "egg",
+    "item": "omelet"
+  },
+  "assumptions": "Two large eggs (~50 g each), plain omelet cooked with 1 tsp butter; no fillings, salt, or additional ingredients.",
+  "disclaimer": "Nutrition varies by egg size, brand, cooking method, added fats, and fillings. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 180,
+    "text": "A two-egg omelet has about 180 kcal and 13 g protein."
+  },
+  "basis": {
+    "label": "per 1 egg in omelet",
+    "amount": 1,
+    "unit": "egg",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 0.4,
+      "fiber_g": 0,
+      "sugars_g": 0.2,
+      "protein_g": 6.3,
+      "fat_g": 6.8,
+      "sat_fat_g": 2.8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 186,
+      "sodium_mg": 73
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 180,
+    "carbs_g": 0.8,
+    "fiber_g": 0,
+    "sugars_g": 0.4,
+    "protein_g": 12.6,
+    "fat_g": 13.6,
+    "sat_fat_g": 5.6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 372,
+    "sodium_mg": 146
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.75
+  },
+  "tweaks": [
+    {
+      "label": "No added butter (nonstick pan)",
+      "delta_kcal_per_unit": -18,
+      "new_total_kcal": 144
+    },
+    {
+      "label": "Add 1 oz cheddar cheese",
+      "delta_kcal_per_unit": 55,
+      "new_total_kcal": 290
+    },
+    {
+      "label": "Add 1/4 cup chopped vegetables",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a two egg omelet?",
+      "a": "About 180 kcal for a plain version with minimal butter."
+    },
+    {
+      "q": "How much protein is in a two egg omelet?",
+      "a": "Approximately 12.6 g protein."
+    },
+    {
+      "q": "Does the cooking fat affect calories in a two egg omelet?",
+      "a": "Yes, using butter or oil adds ~36 kcal; nonstick cooking keeps it lower."
+    },
+    {
+      "q": "What about a veggie two egg omelet calories?",
+      "a": "Around 190 kcal with low-calorie additions like onions or peppers."
+    },
+    {
+      "q": "Is cholesterol high in a two egg omelet?",
+      "a": "Yes, two eggs contribute 372 mg, mainly from the yolks."
+    }
+  ]
+}

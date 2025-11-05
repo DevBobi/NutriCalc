@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in pita bread",
+  "title": "How Many Calories in Pita Bread?",
+  "meta_description": "Learn how many calories in pita bread per standard piece, plus carbs, protein, fat, sodium, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-pita-bread",
+  "h1": "How Many Calories in Pita Bread?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "pita bread",
+    "item": "pita bread"
+  },
+  "assumptions": "Standard white pita bread, 6-inch diameter, about 60g, plain without fillings or toppings.",
+  "disclaimer": "Nutrition varies by brand, size, flour type, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 165,
+    "text": "One standard pita bread contains about 165 kcal and 33g carbs."
+  },
+  "basis": {
+    "label": "per 1 pita bread",
+    "amount": 1,
+    "unit": "pita bread",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 33,
+      "fiber_g": 1.5,
+      "sugars_g": 1,
+      "protein_g": 6,
+      "fat_g": 1,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 165,
+    "carbs_g": 33,
+    "fiber_g": 1.5,
+    "sugars_g": 1,
+    "protein_g": 6,
+    "fat_g": 1,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.69
+  },
+  "tweaks": [
+    {
+      "label": "Whole wheat pita bread instead of white",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 155
+    },
+    {
+      "label": "Add 1 tsp butter spread on top",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Smaller 4-inch pita bread",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 105
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pita bread?",
+      "a": "About 165 kcal for a standard 6-inch white pita bread."
+    },
+    {
+      "q": "Are pita breads high in carbs?",
+      "a": "Yes, one pita has around 33g carbs, mostly from flour."
+    },
+    {
+      "q": "How much protein in pita bread?",
+      "a": "Approximately 6g protein per standard pita."
+    },
+    {
+      "q": "Does whole wheat pita have fewer calories?",
+      "a": "Slightly—about 155 kcal per pita, with more fiber."
+    },
+    {
+      "q": "What's the sodium in pita bread?",
+      "a": "Around 300mg per pita, varying by brand and recipe."
+    }
+  ]
+}

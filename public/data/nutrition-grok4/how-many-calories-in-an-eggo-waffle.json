@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in an eggo waffle",
+  "title": "How Many Calories in an Eggo Waffle?",
+  "meta_description": "Discover how many calories in an eggo waffle, including carbs, protein, fat, full nutrition breakdown, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-an-eggo-waffle",
+  "h1": "How Many Calories in an Eggo Waffle?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "waffle",
+    "item": "eggo waffle"
+  },
+  "assumptions": "Standard Eggo Homestyle frozen waffle (about 59g), toasted without added toppings; original recipe, no gluten-free or specialty variants.",
+  "disclaimer": "Nutrition varies by Eggo flavor, batch, toasting method, and toppings; check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "One toasted Eggo waffle provides ~90 kcal with 17 g carbs and 2 g protein."
+  },
+  "basis": {
+    "label": "per 1 Eggo waffle",
+    "amount": 1,
+    "unit": "waffle",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 17,
+      "fiber_g": 1,
+      "sugars_g": 4,
+      "protein_g": 2,
+      "fat_g": 2.5,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 190
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 17,
+    "fiber_g": 1,
+    "sugars_g": 4,
+    "protein_g": 2,
+    "fat_g": 2.5,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 190
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp maple syrup",
+      "delta_kcal_per_unit": 52,
+      "new_total_kcal": 142
+    },
+    {
+      "label": "Top with 1 tsp butter",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 124
+    },
+    {
+      "label": "Use whole grain Eggo variant",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 100
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Eggo waffle?",
+      "a": "About 90 kcal for a standard toasted Homestyle Eggo waffle."
+    },
+    {
+      "q": "What are the carbs in an Eggo waffle?",
+      "a": "Roughly 17 g total carbs, including 1 g fiber and 4 g sugars per waffle."
+    },
+    {
+      "q": "Is an Eggo waffle high in protein?",
+      "a": "No, it has about 2 g protein per waffle; pair with toppings for more."
+    },
+    {
+      "q": "How does sodium compare in Eggo waffles?",
+      "a": "One waffle has ~190 mg sodium; varies slightly by flavor."
+    },
+    {
+      "q": "Do different Eggo flavors change calories?",
+      "a": "Yes—e.g., blueberry adds ~10 kcal, mini waffles are lower per serving."
+    }
+  ]
+}

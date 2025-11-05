@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in gala apple",
+  "title": "Calories in a Gala Apple",
+  "meta_description": "Discover calories in gala apple, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown for one medium fruit.",
+  "slug": "calories-in-gala-apple",
+  "h1": "Calories in a Gala Apple",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "apple",
+    "item": "gala apple"
+  },
+  "assumptions": "Medium gala apple (~182 g with skin), raw, unpeeled; values based on USDA data for typical size.",
+  "disclaimer": "Nutrition varies by apple size, ripeness, variety, and growing conditions. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 95,
+    "text": "One medium gala apple provides ~95 kcal, 25 g carbs, and 4.4 g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium gala apple",
+    "amount": 1,
+    "unit": "apple",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 25,
+      "fiber_g": 4.4,
+      "sugars_g": 19,
+      "protein_g": 0.5,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 95,
+    "carbs_g": 25,
+    "fiber_g": 4.4,
+    "sugars_g": 19,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Add 1 tbsp peanut butter",
+      "delta_kcal_per_unit": 94,
+      "new_total_kcal": 189
+    },
+    {
+      "label": "Small apple (~129 g)",
+      "delta_kcal_per_unit": -28,
+      "new_total_kcal": 67
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one gala apple?",
+      "a": "About 95 kcal for a medium gala apple with skin."
+    },
+    {
+      "q": "What are the carbs in a gala apple?",
+      "a": "Roughly 25 g total carbs, including 4.4 g fiber and 19 g sugars."
+    },
+    {
+      "q": "Does a gala apple have fat or protein?",
+      "a": "Very low: 0.3 g fat and 0.5 g protein per medium apple."
+    },
+    {
+      "q": "Are gala apples low in sodium?",
+      "a": "Yes, only ~2 mg sodium, making them heart-friendly."
+    },
+    {
+      "q": "How does size affect calories in gala apple?",
+      "a": "Smaller apples have fewer calories (e.g., ~67 kcal); larger ones more (up to 116 kcal)."
+    }
+  ]
+}

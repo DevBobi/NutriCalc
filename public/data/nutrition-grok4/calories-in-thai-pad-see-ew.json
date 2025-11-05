@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in thai pad see ew",
+  "title": "Calories in Thai Pad See Ew",
+  "meta_description": "Discover calories in Thai Pad See Ew per serving, including carbs, protein, fat, and full nutrition breakdown with tweaks and FAQs for better meal planning.",
+  "slug": "calories-in-thai-pad-see-ew",
+  "h1": "Calories in Thai Pad See Ew",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "thai pad see ew"
+  },
+  "assumptions": "Standard restaurant serving (~400 g) with flat rice noodles, pork, egg, Chinese broccoli, soy sauce; stir-fried with minimal oil.",
+  "disclaimer": "Nutrition varies by restaurant, portion size, meat type, oil used, and added ingredients. Check menus or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 850,
+    "text": "One serving of Thai Pad See Ew has about 850 kcal, with high carbs from noodles and moderate protein from pork and egg."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 850,
+      "carbs_g": 110,
+      "fiber_g": 3,
+      "sugars_g": 8,
+      "protein_g": 32,
+      "fat_g": 28,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 150,
+      "sodium_mg": 1800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 850,
+    "carbs_g": 110,
+    "fiber_g": 3,
+    "sugars_g": 8,
+    "protein_g": 32,
+    "fat_g": 28,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 150,
+    "sodium_mg": 1800
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison to packaged or restaurant data.",
+  "equivalents": {
+    "megajoules": 3.56
+  },
+  "tweaks": [
+    {
+      "label": "Vegetarian version (tofu instead of pork)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 750
+    },
+    {
+      "label": "Add extra egg and chicken (vs. pork only)",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 970
+    },
+    {
+      "label": "Less oil in stir-fry",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 770
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of Thai Pad See Ew?",
+      "a": "Approximately 850 kcal for a standard pork version."
+    },
+    {
+      "q": "What's the carb count in Thai Pad See Ew?",
+      "a": "About 110 g carbs per serving, mostly from rice noodles."
+    },
+    {
+      "q": "Is Thai Pad See Ew high in sodium?",
+      "a": "Yes, around 1800 mg per serving due to soy sauce."
+    },
+    {
+      "q": "How to make Thai Pad See Ew lower in calories?",
+      "a": "Use less oil, more veggies, tofu instead of meat, or smaller noodle portion."
+    },
+    {
+      "q": "Protein in Thai Pad See Ew?",
+      "a": "Roughly 32 g per serving from pork, egg, and minimal other sources."
+    }
+  ]
+}

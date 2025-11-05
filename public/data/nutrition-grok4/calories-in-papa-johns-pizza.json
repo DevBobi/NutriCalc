@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in papa johns pizza",
+  "title": "Calories in Papa John's Pizza",
+  "meta_description": "Discover calories in Papa John's pizza per slice, including macros like carbs, protein, fat, and sodium, with basis details and variations for different toppings.",
+  "slug": "calories-in-papa-johns-pizza",
+  "h1": "Calories in Papa John's Pizza",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "papa johns pizza"
+  },
+  "assumptions": "Medium original crust cheese pizza, 1 slice (1/8 pizza, ~100 g); no extra toppings or dips.",
+  "disclaimer": "Nutrition varies by size, crust type, toppings, and preparation. Values based on standard Papa John's data; check their site or app for exacts.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "One slice of Papa John's medium cheese pizza provides ~220 kcal and ~9 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 26,
+      "fiber_g": 1,
+      "sugars_g": 3,
+      "protein_g": 9,
+      "fat_g": 9,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 570
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 26,
+    "fiber_g": 1,
+    "sugars_g": 3,
+    "protein_g": 9,
+    "fat_g": 9,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 570
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni topping",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Switch to thin crust",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Extra cheese topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of Papa John's pizza?",
+      "a": "About 220 kcal for a medium cheese slice on original crust."
+    },
+    {
+      "q": "What are the carbs in Papa John's pizza?",
+      "a": "One slice has ~26 g carbs, mostly from the crust."
+    },
+    {
+      "q": "How much sodium is in Papa John's pizza?",
+      "a": "Around 570 mg per medium cheese slice due to cheese and sauce."
+    },
+    {
+      "q": "Calories in Papa John's pizza with toppings?",
+      "a": "Base cheese is 220 kcal; add 40-100 kcal for common toppings like pepperoni or veggies."
+    },
+    {
+      "q": "Does crust type affect calories in Papa John's pizza?",
+      "a": "Yes—thin crust saves ~30 kcal per slice vs. original; gluten-free may vary."
+    }
+  ]
+}

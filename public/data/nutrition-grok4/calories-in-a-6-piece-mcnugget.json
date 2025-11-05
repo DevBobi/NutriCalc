@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a 6 piece mcnugget",
+  "title": "Calories in a 6-Piece McNugget",
+  "meta_description": "Learn calories in a 6 piece mcnugget: 250 kcal total, with full breakdown of protein, fat, carbs, sodium, and tweaks for sauces or alternatives.",
+  "slug": "calories-in-a-6-piece-mcnugget",
+  "h1": "Calories in a 6-Piece McNugget",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 6,
+    "unit": "piece",
+    "item": "McNugget"
+  },
+  "assumptions": "Standard McDonald's Chicken McNuggets, breaded white meat chicken, fried in vegetable oil blend, no dipping sauce included.",
+  "disclaimer": "Nutrition varies by location, recipe updates, portion size, and frying method. Check McDonald's official sources for current values.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A 6-piece serving of Chicken McNuggets provides 250 kcal and 15 g protein."
+  },
+  "basis": {
+    "label": "per 1 Chicken McNugget",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 41.7,
+      "carbs_g": 2.3,
+      "fiber_g": 0.2,
+      "sugars_g": 0,
+      "protein_g": 2.5,
+      "fat_g": 2.5,
+      "sat_fat_g": 0.4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 7.5,
+      "sodium_mg": 93.3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 14,
+    "fiber_g": 1,
+    "sugars_g": 0,
+    "protein_g": 15,
+    "fat_g": 15,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 45,
+    "sodium_mg": 560
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add one BBQ sauce packet (shared across 6 pieces, ~8 kcal per piece equivalent)",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 298
+    },
+    {
+      "label": "Baked instead of fried (lower oil absorption per piece)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "With spicy buffalo coating (added seasoning per piece)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 6 piece mcnugget?",
+      "a": "Approximately 250 kcal for a standard 6-piece Chicken McNugget serving."
+    },
+    {
+      "q": "What is the protein in 6 piece mcnuggets?",
+      "a": "About 15 g of protein in 6 pieces."
+    },
+    {
+      "q": "How much sodium in a 6 piece mcnugget?",
+      "a": "Around 560 mg of sodium, mainly from breading and seasoning."
+    },
+    {
+      "q": "Calories in one piece mcnugget?",
+      "a": "Roughly 42 kcal per single Chicken McNugget."
+    },
+    {
+      "q": "Do 6 piece mcnuggets have trans fats?",
+      "a": "0 g trans fat in standard McDonald's Chicken McNuggets."
+    }
+  ]
+}

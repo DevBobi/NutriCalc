@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a scoop of ice cream",
+  "title": "How Many Calories in a Scoop of Ice Cream?",
+  "meta_description": "Discover how many calories in a scoop of ice cream, including full nutrition breakdown, macros, and variations for different flavors and tweaks.",
+  "slug": "how-many-calories-in-a-scoop-of-ice-cream",
+  "h1": "How Many Calories in a Scoop of Ice Cream?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "scoop",
+    "item": "ice cream"
+  },
+  "assumptions": "Standard vanilla ice cream; 1 scoop = 1/2 cup (about 66 g); full-fat, no mix-ins or toppings.",
+  "disclaimer": "Nutrition varies by brand, flavor, fat content, and scoop size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "One scoop of vanilla ice cream has about 200 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 scoop",
+    "amount": 1,
+    "unit": "scoop",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 25,
+      "fiber_g": 0,
+      "sugars_g": 20,
+      "protein_g": 3,
+      "fat_g": 10,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 25,
+    "fiber_g": 0,
+    "sugars_g": 20,
+    "protein_g": 3,
+    "fat_g": 10,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 60
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "Switch to low-fat ice cream",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Premium full-fat with mix-ins (e.g., chocolate chips)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add 1 tbsp chocolate syrup topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 250
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a scoop of vanilla ice cream?",
+      "a": "About 200 kcal for a standard 1/2 cup scoop."
+    },
+    {
+      "q": "What are the macros in one scoop of ice cream?",
+      "a": "Roughly 25 g carbs, 10 g fat, 3 g protein, with 20 g sugars."
+    },
+    {
+      "q": "Does ice cream flavor affect calories?",
+      "a": "Yes—chocolate or premium flavors can add 20-50 kcal per scoop due to extra sugar or fat."
+    },
+    {
+      "q": "How big is a standard scoop of ice cream?",
+      "a": "Typically 1/2 cup or 66 g, but varies by shop or brand."
+    },
+    {
+      "q": "Is there fiber in ice cream?",
+      "a": "Usually 0 g fiber per scoop, as it's mostly sugar and cream."
+    }
+  ]
+}

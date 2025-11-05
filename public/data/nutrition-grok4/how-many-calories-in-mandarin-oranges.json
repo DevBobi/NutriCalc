@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in mandarin oranges",
+  "title": "How Many Calories in Mandarin Oranges?",
+  "meta_description": "Learn how many calories in mandarin oranges per medium fruit, plus carbs, fiber, protein, and full nutrition facts for easy tracking.",
+  "slug": "how-many-calories-in-mandarin-oranges",
+  "h1": "How Many Calories in Mandarin Oranges?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "medium mandarin orange",
+    "item": "mandarin orange"
+  },
+  "assumptions": "Fresh, medium-sized (about 75g), peeled, no added sugar or preservatives.",
+  "disclaimer": "Nutrition varies by size, variety, ripeness, and preparation (fresh vs. canned); check labels for packaged products.",
+  "quick_answer": {
+    "total_kcal": 47,
+    "text": "One medium mandarin orange provides about 47 kcal, mostly from natural sugars and carbs."
+  },
+  "basis": {
+    "label": "per 1 medium mandarin orange",
+    "amount": 1,
+    "unit": "medium mandarin orange",
+    "nutrition": {
+      "calories_kcal": 47,
+      "carbs_g": 11.7,
+      "fiber_g": 1.8,
+      "sugars_g": 9.7,
+      "protein_g": 0.7,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 47,
+    "carbs_g": 11.7,
+    "fiber_g": 1.8,
+    "sugars_g": 9.7,
+    "protein_g": 0.7,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.2
+  },
+  "tweaks": [
+    {
+      "label": "Canned in light syrup (drained, per equivalent orange)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 62
+    },
+    {
+      "label": "Add 1 tsp sugar coating per orange",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 63
+    },
+    {
+      "label": "Eat the peel (adds fiber, minimal calories)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 52
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one mandarin orange?",
+      "a": "About 47 kcal for a medium fresh mandarin orange."
+    },
+    {
+      "q": "Are mandarin oranges low carb?",
+      "a": "They have ~11.7 g carbs per medium orange, mostly natural sugars, with 1.8 g fiber."
+    },
+    {
+      "q": "How much sugar in mandarin oranges?",
+      "a": "Around 9.7 g natural sugars per medium fruit."
+    },
+    {
+      "q": "Calories in canned vs fresh mandarin oranges?",
+      "a": "Canned in syrup adds 15–30 kcal per orange; choose juice-packed for fewer calories."
+    },
+    {
+      "q": "Do mandarin oranges have fat or protein?",
+      "a": "Very low: 0.3 g fat and 0.7 g protein per medium orange."
+    }
+  ]
+}

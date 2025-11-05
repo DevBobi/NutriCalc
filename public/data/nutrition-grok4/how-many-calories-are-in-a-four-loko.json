@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a four loko",
+  "title": "How Many Calories Are in a Four Loko?",
+  "meta_description": "Discover how many calories are in a Four Loko, including carbs, sugars, alcohol content, and nutrition breakdowns for this popular energy drink.",
+  "slug": "how-many-calories-are-in-a-four-loko",
+  "h1": "How Many Calories Are in a Four Loko?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "Four Loko"
+  },
+  "assumptions": "Standard 23.5 oz (695 ml) can, fruit punch flavor; carbonated malt beverage with alcohol, caffeine, and taurine; no added mixers.",
+  "disclaimer": "Nutrition varies by flavor, batch, size, and serving; alcohol content affects calorie count. Check labels and drink responsibly.",
+  "quick_answer": {
+    "total_kcal": 660,
+    "text": "One standard Four Loko can contains about 660 kcal, mostly from alcohol and sugars."
+  },
+  "basis": {
+    "label": "per 1 can (23.5 oz)",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 660,
+      "carbs_g": 81,
+      "fiber_g": 0,
+      "sugars_g": 81,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 140
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 660,
+    "carbs_g": 81,
+    "fiber_g": 0,
+    "sugars_g": 81,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 140
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.76
+  },
+  "tweaks": [
+    {
+      "label": "Switch to a lower-sugar flavor like sour apple",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 610
+    },
+    {
+      "label": "Pour over ice (dilutes slightly, assumes half volume consumed)",
+      "delta_kcal_per_unit": -330,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Choose the 12 oz slim can version",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 360
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a Four Loko can?",
+      "a": "Approximately 660 kcal for a standard 23.5 oz can."
+    },
+    {
+      "q": "Does Four Loko have a lot of sugar?",
+      "a": "Yes, about 81 g of sugars per can, contributing to the high calorie count."
+    },
+    {
+      "q": "What's the alcohol content in Four Loko?",
+      "a": "Typically 12-14% ABV, which adds significant calories from alcohol."
+    },
+    {
+      "q": "Are there carbs in Four Loko?",
+      "a": "Around 81 g of carbs per can, all from sugars with no fiber."
+    },
+    {
+      "q": "How do calories vary by Four Loko flavor?",
+      "a": "Most flavors are similar at 600-700 kcal, but lower-sugar options may be slightly less."
+    }
+  ]
+}

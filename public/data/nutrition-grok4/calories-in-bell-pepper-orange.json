@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in bell pepper orange",
+  "title": "Calories in an Orange Bell Pepper",
+  "meta_description": "Discover calories in bell pepper orange, including carbs, fiber, vitamins, full nutrition breakdown per medium pepper, and preparation tweaks.",
+  "slug": "calories-in-bell-pepper-orange",
+  "h1": "Calories in an Orange Bell Pepper",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "bell pepper",
+    "item": "orange bell pepper"
+  },
+  "assumptions": "Medium-sized (119 g), raw, whole with edible skin and flesh; seeds and core removed for consumption.",
+  "disclaimer": "Nutrition varies by size, ripeness, growing conditions, and preparation; values are approximate. Check produce labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 30,
+    "text": "One medium orange bell pepper provides about 30 kcal, mainly from carbs with high vitamin C."
+  },
+  "basis": {
+    "label": "per 1 medium orange bell pepper",
+    "amount": 1,
+    "unit": "bell pepper",
+    "nutrition": {
+      "calories_kcal": 30,
+      "carbs_g": 7.2,
+      "fiber_g": 2.5,
+      "sugars_g": 5,
+      "protein_g": 1.2,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 30,
+    "carbs_g": 7.2,
+    "fiber_g": 2.5,
+    "sugars_g": 5,
+    "protein_g": 1.2,
+    "fat_g": 0.4,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Values align with Nutrition Facts style for easy comparison to packaged foods.",
+  "equivalents": {
+    "megajoules": 0.13
+  },
+  "tweaks": [
+    {
+      "label": "Sautéed with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Roasted without oil (slightly concentrated)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 32
+    },
+    {
+      "label": "Stuffed with 1 oz cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 140
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one orange bell pepper?",
+      "a": "Approximately 30 kcal for a medium raw orange bell pepper."
+    },
+    {
+      "q": "What are the carbs in a bell pepper orange?",
+      "a": "About 7.2 g total carbs, including 2.5 g fiber and 5 g sugars per medium pepper."
+    },
+    {
+      "q": "Is an orange bell pepper low in fat?",
+      "a": "Yes, only 0.4 g total fat per medium pepper, with negligible saturated fat."
+    },
+    {
+      "q": "Calories in bell pepper orange vs. green?",
+      "a": "Similar; orange is slightly sweeter with ~30 kcal vs. ~25 kcal for green, both low-calorie."
+    },
+    {
+      "q": "Does cooking change calories in orange bell pepper?",
+      "a": "Minimal change if no oil added; roasting may slightly increase density, but stays around 30 kcal."
+    }
+  ]
+}

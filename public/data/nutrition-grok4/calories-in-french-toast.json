@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in french toast",
+  "title": "Calories in French Toast",
+  "meta_description": "Learn calories in french toast per slice, including carbs, protein, fat, and full nutrition details with tweaks and FAQs for better meal planning.",
+  "slug": "calories-in-french-toast",
+  "h1": "Calories in French Toast",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "french toast"
+  },
+  "assumptions": "One slice white bread, dipped in egg-milk batter, pan-fried in 1 tsp butter; no syrup or toppings.",
+  "disclaimer": "Nutrition varies by bread type, batter recipe, cooking oil, portion size, and added toppings. Check recipes or labels when available.",
+  "quick_answer": {
+    "total_kcal": 160,
+    "text": "One slice of French toast provides about 160 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 160,
+      "carbs_g": 20,
+      "fiber_g": 1,
+      "sugars_g": 3,
+      "protein_g": 6,
+      "fat_g": 6,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 160,
+    "carbs_g": 20,
+    "fiber_g": 1,
+    "sugars_g": 3,
+    "protein_g": 6,
+    "fat_g": 6,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 80,
+    "sodium_mg": 250
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.67
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp maple syrup per slice",
+      "delta_kcal_per_unit": 52,
+      "new_total_kcal": 212
+    },
+    {
+      "label": "Use whole wheat bread instead of white",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 145
+    },
+    {
+      "label": "Bake instead of fry (no added butter)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of French toast?",
+      "a": "About 160 kcal per slice under standard preparation."
+    },
+    {
+      "q": "What are the carbs in French toast?",
+      "a": "One slice has roughly 20 g carbs, mostly from the bread."
+    },
+    {
+      "q": "Is French toast high in protein?",
+      "a": "Moderate at 6 g protein per slice, mainly from the egg batter."
+    },
+    {
+      "q": "How does adding toppings affect calories in french toast?",
+      "a": "Syrup adds ~52 kcal per tbsp; butter or fruit increases it further."
+    },
+    {
+      "q": "Are there low-calorie versions of French toast?",
+      "a": "Yes—use low-fat milk, whole grain bread, or bake to reduce to ~120 kcal per slice."
+    }
+  ]
+}

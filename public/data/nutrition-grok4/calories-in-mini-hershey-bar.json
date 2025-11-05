@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mini hershey bar",
+  "title": "Calories in a Mini Hershey Bar",
+  "meta_description": "Learn calories in mini Hershey bar: about 42 kcal per piece, plus carbs, sugars, fat, and full nutrition details for easy tracking.",
+  "slug": "calories-in-mini-hershey-bar",
+  "h1": "Calories in a Mini Hershey Bar",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "mini bar",
+    "item": "Hershey bar"
+  },
+  "assumptions": "Standard Hershey's milk chocolate mini bar, ~8.5 g each, solid chocolate without fillings.",
+  "disclaimer": "Nutrition varies by brand, exact size, and flavor; values based on standard Hershey's minis. Check packaging for precise info.",
+  "quick_answer": {
+    "total_kcal": 42,
+    "text": "One mini Hershey bar contains about 42 calories, mostly from sugar and fat."
+  },
+  "basis": {
+    "label": "per 1 mini Hershey bar",
+    "amount": 1,
+    "unit": "mini bar",
+    "nutrition": {
+      "calories_kcal": 42,
+      "carbs_g": 5.2,
+      "fiber_g": 0.3,
+      "sugars_g": 4.6,
+      "protein_g": 0.5,
+      "fat_g": 2.4,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 2,
+      "sodium_mg": 7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 42,
+    "carbs_g": 5.2,
+    "fiber_g": 0.3,
+    "sugars_g": 4.6,
+    "protein_g": 0.5,
+    "fat_g": 2.4,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 2,
+    "sodium_mg": 7
+  },
+  "label_note": "Values mirror Nutrition Facts labels for straightforward comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.18
+  },
+  "tweaks": [
+    {
+      "label": "Dark chocolate mini instead of milk",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "With almonds (nut variety per mini)",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Caramel-filled mini",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 52
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one mini Hershey bar?",
+      "a": "Approximately 42 kcal for a standard milk chocolate mini."
+    },
+    {
+      "q": "What are the carbs in a mini Hershey bar?",
+      "a": "About 5.2 g total carbs, including 4.6 g sugars and 0.3 g fiber."
+    },
+    {
+      "q": "Is a mini Hershey bar high in fat?",
+      "a": "It has 2.4 g total fat, with 1.5 g saturated; moderate for a small treat."
+    },
+    {
+      "q": "How much protein in calories in mini Hershey bar?",
+      "a": "Only 0.5 g protein per mini, as it's primarily chocolate."
+    },
+    {
+      "q": "Do mini Hershey bars have trans fat?",
+      "a": "Typically 0 g trans fat in standard varieties."
+    }
+  ]
+}

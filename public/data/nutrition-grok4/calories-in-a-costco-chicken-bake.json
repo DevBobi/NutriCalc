@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a costco chicken bake",
+  "title": "Calories in a Costco Chicken Bake",
+  "meta_description": "Discover calories in a Costco chicken bake, including full nutrition breakdown with protein, carbs, fat, and quick tweaks for variations.",
+  "slug": "calories-in-a-costco-chicken-bake",
+  "h1": "Calories in a Costco Chicken Bake",
+  "updated": "2024-10-18",
+  "query": {
+    "amount": 1,
+    "unit": "chicken bake",
+    "item": "costco chicken bake"
+  },
+  "assumptions": "Standard Costco Chicken Bake: rotisserie chicken, mozzarella cheese, spinach, garlic, dough-wrapped and baked; approx. 570g per bake.",
+  "disclaimer": "Nutrition varies by location, batch, and exact recipe; check Costco packaging or app for latest info.",
+  "quick_answer": {
+    "total_kcal": 750,
+    "text": "A Costco Chicken Bake contains about 750 kcal, 40g protein, and 70g carbs."
+  },
+  "basis": {
+    "label": "per 1 chicken bake",
+    "amount": 1,
+    "unit": "chicken bake",
+    "nutrition": {
+      "calories_kcal": 750,
+      "carbs_g": 70,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 40,
+      "fat_g": 35,
+      "sat_fat_g": 15,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 100,
+      "sodium_mg": 1500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 750,
+    "carbs_g": 70,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 40,
+    "fat_g": 35,
+    "sat_fat_g": 15,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 100,
+    "sodium_mg": 1500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.14
+  },
+  "tweaks": [
+    {
+      "label": "Add marinara dipping sauce (1 oz)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 800
+    },
+    {
+      "label": "Vegetarian version (sub tofu for chicken)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 650
+    },
+    {
+      "label": "Half portion (eat only half the bake)",
+      "delta_kcal_per_unit": -375,
+      "new_total_kcal": 375
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Costco chicken bake?",
+      "a": "Approximately 750 kcal per full chicken bake."
+    },
+    {
+      "q": "What's the protein in a Costco chicken bake?",
+      "a": "About 40g of protein from the chicken and cheese."
+    },
+    {
+      "q": "Are Costco chicken bakes high in sodium?",
+      "a": "Yes, around 1500mg sodium due to cheese and dough."
+    },
+    {
+      "q": "Can I customize a Costco chicken bake?",
+      "a": "At the food court, options are limited, but you can request no cheese or add sauce."
+    },
+    {
+      "q": "How does cooking affect calories in a Costco chicken bake?",
+      "a": "It's pre-baked; reheating doesn't significantly change calories, but overcooking may dry it out."
+    }
+  ]
+}

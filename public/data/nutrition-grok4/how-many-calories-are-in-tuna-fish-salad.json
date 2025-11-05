@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in tuna fish salad",
+  "title": "How Many Calories Are in Tuna Fish Salad?",
+  "meta_description": "Discover how many calories are in tuna fish salad per serving, including protein, fat, carbs, sodium, and easy recipe tweaks for lighter options.",
+  "slug": "how-many-calories-are-in-tuna-fish-salad",
+  "h1": "How Many Calories Are in Tuna Fish Salad?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "tuna fish salad"
+  },
+  "assumptions": "Standard recipe: canned tuna in water (drained), mixed with mayonnaise, celery, and onion; 1 serving = 1/2 cup (approx. 100g).",
+  "disclaimer": "Nutrition varies by recipe, tuna type (water/oil-packed), mayo brand, added ingredients, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "One serving of tuna fish salad contains about 190 kcal and 13 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving (1/2 cup, 100 g)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 3,
+      "fiber_g": 0.5,
+      "sugars_g": 1,
+      "protein_g": 13,
+      "fat_g": 14,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 35,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 3,
+    "fiber_g": 0.5,
+    "sugars_g": 1,
+    "protein_g": 13,
+    "fat_g": 14,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 35,
+    "sodium_mg": 400
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat mayonnaise",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add 1/4 cup diced celery and carrots",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Substitute mayo with Greek yogurt",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 150
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in tuna fish salad per serving?",
+      "a": "About 190 kcal for one 1/2 cup serving of standard tuna fish salad."
+    },
+    {
+      "q": "What's the protein in tuna fish salad?",
+      "a": "Approximately 13 g protein per serving, mainly from the tuna."
+    },
+    {
+      "q": "Does tuna fish salad have a lot of fat?",
+      "a": "Yes, around 14 g total fat per serving, mostly from mayonnaise; opt for low-fat versions to reduce."
+    },
+    {
+      "q": "How much sodium is in tuna fish salad?",
+      "a": "About 400 mg per serving, from canned tuna; choose low-sodium tuna to lower it."
+    },
+    {
+      "q": "Can I make tuna fish salad lower calorie?",
+      "a": "Yes, use light mayo or Greek yogurt and add more veggies to cut calories by 40-50 kcal per serving."
+    }
+  ]
+}

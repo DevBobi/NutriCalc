@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in an artichoke heart",
+  "title": "Calories in an Artichoke Heart",
+  "meta_description": "Discover calories in an artichoke heart, including carbs, fiber, protein, fat, and full nutrition breakdown per serving with quick tweaks.",
+  "slug": "calories-in-an-artichoke-heart",
+  "h1": "Calories in an Artichoke Heart",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "heart",
+    "item": "artichoke heart"
+  },
+  "assumptions": "One medium canned artichoke heart, drained (≈24 g), plain, no added oil or marinade; based on boiled/cooked globe artichoke data.",
+  "disclaimer": "Nutrition varies by size, fresh vs. canned, preparation, and brand; sodium higher in brined products. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 13,
+    "text": "One artichoke heart provides ~13 kcal, with good fiber and low fat."
+  },
+  "basis": {
+    "label": "per 1 artichoke heart",
+    "amount": 1,
+    "unit": "heart",
+    "nutrition": {
+      "calories_kcal": 13,
+      "carbs_g": 2.9,
+      "fiber_g": 1.4,
+      "sugars_g": 0.1,
+      "protein_g": 0.7,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 13
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 13,
+    "carbs_g": 2.9,
+    "fiber_g": 1.4,
+    "sugars_g": 0.1,
+    "protein_g": 0.7,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 13
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.05
+  },
+  "tweaks": [
+    {
+      "label": "Marinated in oil (add 1 tsp oil per heart)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 53
+    },
+    {
+      "label": "Fresh boiled heart (vs. canned, lower sodium)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 13
+    },
+    {
+      "label": "With added butter (1/2 tsp per heart)",
+      "delta_kcal_per_unit": 17,
+      "new_total_kcal": 30
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an artichoke heart?",
+      "a": "About 13 kcal for one medium canned, drained heart."
+    },
+    {
+      "q": "Is an artichoke heart low carb?",
+      "a": "Yes, ~2.9 g carbs per heart, with 1.4 g fiber."
+    },
+    {
+      "q": "What's the fiber in one artichoke heart?",
+      "a": "Approximately 1.4 g dietary fiber, aiding digestion."
+    },
+    {
+      "q": "Do artichoke hearts have protein or fat?",
+      "a": "Low: 0.7 g protein and 0.1 g fat per heart."
+    },
+    {
+      "q": "How does canning affect artichoke heart calories?",
+      "a": "Minimal calorie change, but increases sodium; fresh boiled similar at ~13 kcal."
+    }
+  ]
+}

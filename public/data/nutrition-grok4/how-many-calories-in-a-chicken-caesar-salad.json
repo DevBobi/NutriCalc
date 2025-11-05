@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a chicken caesar salad",
+  "title": "How Many Calories in a Chicken Caesar Salad?",
+  "meta_description": "Discover how many calories in a chicken caesar salad, including full nutrition breakdown with protein, fat, carbs, and easy tweaks for lighter versions.",
+  "slug": "how-many-calories-in-a-chicken-caesar-salad",
+  "h1": "How Many Calories in a Chicken Caesar Salad?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "salad",
+    "item": "chicken caesar salad"
+  },
+  "assumptions": "Standard restaurant-style serving: romaine lettuce, 100g grilled chicken breast, parmesan cheese, croutons, and caesar dressing; approx. 350g total weight.",
+  "disclaimer": "Nutrition varies by restaurant, portion size, dressing amount, and ingredients; homemade versions differ. Check menus or labels when available.",
+  "quick_answer": {
+    "total_kcal": 550,
+    "text": "A standard chicken caesar salad has about 550 kcal, with 35g protein and 35g fat mostly from dressing."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "salad",
+    "nutrition": {
+      "calories_kcal": 550,
+      "carbs_g": 20,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 35,
+      "fat_g": 35,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 100,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 550,
+    "carbs_g": 20,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 35,
+    "fat_g": 35,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 100,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.3
+  },
+  "tweaks": [
+    {
+      "label": "Dressing on the side (use half)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "No croutons, extra chicken (50g more)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Light dressing and low-fat cheese",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chicken caesar salad without dressing?",
+      "a": "About 300-350 kcal, saving ~200-250 from full dressing."
+    },
+    {
+      "q": "What's the protein in a chicken caesar salad?",
+      "a": "Typically 35g from the grilled chicken, making it a solid meal option."
+    },
+    {
+      "q": "Are chicken caesar salads high in sodium?",
+      "a": "Yes, around 1200mg per serving, mainly from dressing and cheese."
+    },
+    {
+      "q": "How to make a low-calorie chicken caesar salad?",
+      "a": "Use light dressing, skip croutons, and opt for more veggies to drop under 400 kcal."
+    },
+    {
+      "q": "Calories in homemade vs. restaurant chicken caesar salad?",
+      "a": "Homemade can be 300-500 kcal with control over portions; restaurant often 500-700 kcal."
+    }
+  ]
+}

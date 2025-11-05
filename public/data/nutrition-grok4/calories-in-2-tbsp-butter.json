@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 2 tbsp butter",
+  "title": "Calories in 2 Tbsp Butter",
+  "meta_description": "Discover calories in 2 tbsp butter, including full nutrition breakdown like fat, sodium, and quick tweaks for variations in your recipes.",
+  "slug": "calories-in-2-tbsp-butter",
+  "h1": "Calories in 2 Tbsp Butter",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 2,
+    "unit": "tbsp",
+    "item": "butter"
+  },
+  "assumptions": "Standard salted butter; 1 tbsp ≈14 g or 0.5 oz; melted or solid form similar nutritionally.",
+  "disclaimer": "Nutrition varies by brand, salted vs. unsalted, and fat content (e.g., grass-fed). Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 204,
+    "text": "2 tablespoons of butter provide about 204 calories, mostly from 23 g of fat."
+  },
+  "basis": {
+    "label": "per 1 tbsp",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 102,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.1,
+      "fat_g": 11.5,
+      "sat_fat_g": 7.3,
+      "trans_fat_g": 0.3,
+      "cholesterol_mg": 31,
+      "sodium_mg": 91
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 204,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.2,
+    "fat_g": 23,
+    "sat_fat_g": 14.6,
+    "trans_fat_g": 0.6,
+    "cholesterol_mg": 62,
+    "sodium_mg": 182
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.85
+  },
+  "tweaks": [
+    {
+      "label": "Use unsalted butter instead",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 204
+    },
+    {
+      "label": "Switch to light butter (50% less fat)",
+      "delta_kcal_per_unit": -51,
+      "new_total_kcal": 102
+    },
+    {
+      "label": "Replace with olive oil (per tbsp)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tbsp of butter?",
+      "a": "About 102 calories per tablespoon of standard butter."
+    },
+    {
+      "q": "Is butter high in saturated fat?",
+      "a": "Yes, 2 tbsp has 14.6 g saturated fat, which is significant for heart health monitoring."
+    },
+    {
+      "q": "Does unsalted butter have fewer calories than salted?",
+      "a": "No, calories are the same; only sodium differs (unsalted has ~2 mg vs. 91 mg per tbsp)."
+    },
+    {
+      "q": "What are the carbs in 2 tbsp butter?",
+      "a": "Zero carbs, making it keto-friendly but watch the fat content."
+    },
+    {
+      "q": "How does butter compare to margarine in calories?",
+      "a": "Similar at ~100 kcal per tbsp, but margarine often has less saturated fat and trans fats."
+    }
+  ]
+}

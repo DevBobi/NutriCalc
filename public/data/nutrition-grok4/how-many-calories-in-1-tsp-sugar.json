@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 1 tsp sugar",
+  "title": "How Many Calories in 1 Tsp Sugar?",
+  "meta_description": "Discover how many calories in 1 tsp sugar, including carbs, sugars, and zero fat or protein, with quick tweaks and FAQs for better choices.",
+  "slug": "how-many-calories-in-1-tsp-sugar",
+  "h1": "How Many Calories in 1 Tsp Sugar?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tsp",
+    "item": "sugar"
+  },
+  "assumptions": "Granulated white sugar, level teaspoon (~4 g); no additives.",
+  "disclaimer": "Nutrition varies by sugar type, brand, and measurement accuracy. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 16,
+    "text": "One teaspoon of granulated sugar contains about 16 calories, all from carbs."
+  },
+  "basis": {
+    "label": "per 1 tsp",
+    "amount": 1,
+    "unit": "tsp",
+    "nutrition": {
+      "calories_kcal": 16,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sugars_g": 4,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 16,
+    "carbs_g": 4,
+    "fiber_g": 0,
+    "sugars_g": 4,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.07
+  },
+  "tweaks": [
+    {
+      "label": "Use brown sugar instead",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 16
+    },
+    {
+      "label": "Replace with 1 tsp honey",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 21
+    },
+    {
+      "label": "Use powdered sugar (sifted)",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 17
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tsp sugar?",
+      "a": "About 16 calories per level teaspoon of granulated sugar."
+    },
+    {
+      "q": "Is sugar all carbs?",
+      "a": "Yes, 1 tsp sugar is 4 g carbs, all from sugars, with 0 g fiber, protein, or fat."
+    },
+    {
+      "q": "How does brown sugar compare?",
+      "a": "Similar at ~16 kcal per tsp, but includes trace molasses for slight flavor difference."
+    },
+    {
+      "q": "What about sugar substitutes?",
+      "a": "Stevia or aspartame in 1 tsp equivalent: 0 kcal, much lower than sugar."
+    },
+    {
+      "q": "Does teaspoon size affect calories?",
+      "a": "Yes—heaping tsp adds ~2-4 kcal; always level for accuracy."
+    }
+  ]
+}

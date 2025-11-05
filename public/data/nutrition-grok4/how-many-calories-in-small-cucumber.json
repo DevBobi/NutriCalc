@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in small cucumber",
+  "title": "How Many Calories in a Small Cucumber?",
+  "meta_description": "Discover how many calories in small cucumber, including full nutrition breakdown per serving, macros, and simple tweaks for your diet.",
+  "slug": "how-many-calories-in-small-cucumber",
+  "h1": "How Many Calories in a Small Cucumber?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cucumber",
+    "item": "small cucumber"
+  },
+  "assumptions": "Raw, unpeeled, average small size (~150 g); fresh and crisp.",
+  "disclaimer": "Nutrition varies by variety, size, ripeness, and growing conditions. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 23,
+    "text": "A small cucumber provides about 23 kcal, with low carbs and good hydration."
+  },
+  "basis": {
+    "label": "per 1 small cucumber",
+    "amount": 1,
+    "unit": "small cucumber",
+    "nutrition": {
+      "calories_kcal": 23,
+      "carbs_g": 5.4,
+      "fiber_g": 1.5,
+      "sugars_g": 2.6,
+      "protein_g": 1,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 23,
+    "carbs_g": 5.4,
+    "fiber_g": 1.5,
+    "sugars_g": 2.6,
+    "protein_g": 1,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 21
+    },
+    {
+      "label": "Sliced with 1 tbsp hummus dip",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 93
+    },
+    {
+      "label": "Pickled in brine",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 28
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small cucumber?",
+      "a": "Approximately 23 kcal for one small (~150 g) raw cucumber."
+    },
+    {
+      "q": "Is a small cucumber low carb?",
+      "a": "Yes, about 5.4 g carbs total, with 1.5 g fiber."
+    },
+    {
+      "q": "What nutrients are in a small cucumber besides calories?",
+      "a": "Low protein (1 g), negligible fat (0.2 g), and 0 mg cholesterol."
+    },
+    {
+      "q": "Does peeling a cucumber change calories?",
+      "a": "Slightly; peeling removes some fiber and minor calories, reducing to ~21 kcal."
+    },
+    {
+      "q": "How does cucumber size affect nutrition?",
+      "a": "Larger cucumbers scale up proportionally; a medium (~300 g) has about 45 kcal."
+    }
+  ]
+}

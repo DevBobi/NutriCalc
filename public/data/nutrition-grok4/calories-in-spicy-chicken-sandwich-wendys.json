@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in spicy chicken sandwich wendys",
+  "title": "Calories in Wendy's Spicy Chicken Sandwich",
+  "meta_description": "Learn calories in spicy chicken sandwich Wendys, including full nutrition facts like protein, carbs, fat, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-spicy-chicken-sandwich-wendys",
+  "h1": "Calories in Wendy's Spicy Chicken Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Wendy's spicy chicken sandwich"
+  },
+  "assumptions": "Standard Wendy's Spicy Chicken Sandwich: spicy breaded chicken fillet, bun, lettuce, tomato, mayo; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations. Values based on Wendy's standard serving; check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 510,
+    "text": "Wendy's Spicy Chicken Sandwich contains 510 kcal, 28 g protein, and 20 g fat."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 510,
+      "carbs_g": 51,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 28,
+      "fat_g": 20,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 75,
+      "sodium_mg": 1260
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 510,
+    "carbs_g": 51,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 28,
+    "fat_g": 20,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 75,
+    "sodium_mg": 1260
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.13
+  },
+  "tweaks": [
+    {
+      "label": "Remove mayonnaise",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 420
+    },
+    {
+      "label": "Add American cheese slice",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 560
+    },
+    {
+      "label": "Upgrade to grilled chicken (no breading)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 360
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in spicy chicken sandwich Wendys?",
+      "a": "510 calories per standard sandwich."
+    },
+    {
+      "q": "What's the protein in Wendy's spicy chicken sandwich?",
+      "a": "About 28 g of protein."
+    },
+    {
+      "q": "How much sodium is in a Wendy's spicy chicken sandwich?",
+      "a": "Approximately 1260 mg, mostly from breading and seasoning."
+    },
+    {
+      "q": "Are carbs high in spicy chicken sandwich Wendys?",
+      "a": "Yes, 51 g total carbs, mainly from the bun and breading."
+    },
+    {
+      "q": "Can I make Wendy's spicy chicken sandwich lower calorie?",
+      "a": "Yes, skip mayo or choose grilled chicken to reduce by 90–150 kcal."
+    }
+  ]
+}

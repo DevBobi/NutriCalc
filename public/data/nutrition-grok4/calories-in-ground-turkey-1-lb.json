@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ground turkey 1 lb",
+  "title": "Calories in 1 lb Ground Turkey",
+  "meta_description": "Discover calories in ground turkey 1 lb, including protein, fat, carbs, full nutrition breakdown per 100 g basis, and easy tweaks for cooking variations.",
+  "slug": "calories-in-ground-turkey-1-lb",
+  "h1": "Calories in 1 lb Ground Turkey",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "lb",
+    "item": "ground turkey"
+  },
+  "assumptions": "93% lean ground turkey, raw weight, no added fat, seasonings, or fillers; 1 lb ≈ 454 g.",
+  "disclaimer": "Nutrition varies by leanness percentage, brand, farming practices, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 681,
+    "text": "1 lb of 93% lean ground turkey provides ~681 kcal and ~86 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 19,
+      "fat_g": 8,
+      "sat_fat_g": 2.3,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 84,
+      "sodium_mg": 75
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 681,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 86.3,
+    "fat_g": 36.3,
+    "sat_fat_g": 10.4,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 381,
+    "sodium_mg": 340
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.85
+  },
+  "tweaks": [
+    {
+      "label": "Use 99% lean (vs. 93%) per 100 g",
+      "delta_kcal_per_unit": -45,
+      "new_total_kcal": 545
+    },
+    {
+      "label": "Pan-broiled (cooked, fat drained) per 100 g",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 772
+    },
+    {
+      "label": "Add 1 tbsp oil when cooking per 100 g",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 1081
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 lb of ground turkey?",
+      "a": "About 681 kcal for 93% lean raw ground turkey."
+    },
+    {
+      "q": "What's the protein in 1 lb ground turkey?",
+      "a": "Approximately 86 g of protein."
+    },
+    {
+      "q": "Is ground turkey lower in fat than beef?",
+      "a": "Yes, 93% lean turkey has ~8 g fat per 100 g vs. ~15-20 g in similar ground beef."
+    },
+    {
+      "q": "Calories in cooked vs. raw ground turkey?",
+      "a": "Cooked (pan-broiled) is higher per 100 g due to water loss, around 170 kcal; totals depend on yield."
+    },
+    {
+      "q": "How does leanness affect calories in ground turkey?",
+      "a": "Leaner (99%) is ~105 kcal/100 g; 85% lean is ~180 kcal/100 g—adjust based on label."
+    }
+  ]
+}

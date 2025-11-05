@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in chicken quesadilla taco bell",
+  "title": "How Many Calories in Taco Bell Chicken Quesadilla?",
+  "meta_description": "Learn how many calories in chicken quesadilla Taco Bell: about 510 kcal per serving, with full nutrition facts on protein, carbs, fat, sodium, and more tweaks.",
+  "slug": "how-many-calories-in-chicken-quesadilla-taco-bell",
+  "h1": "How Many Calories in Taco Bell Chicken Quesadilla?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "quesadilla",
+    "item": "Taco Bell chicken quesadilla"
+  },
+  "assumptions": "Standard Taco Bell Chicken Quesadilla with grilled chicken, three-cheese blend, and creamy jalapeño sauce; no customizations or sides.",
+  "disclaimer": "Nutrition varies by location, preparation, customizations, and menu updates. Check Taco Bell app or website for latest values.",
+  "quick_answer": {
+    "total_kcal": 510,
+    "text": "A Taco Bell chicken quesadilla contains about 510 calories and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 quesadilla",
+    "amount": 1,
+    "unit": "quesadilla",
+    "nutrition": {
+      "calories_kcal": 510,
+      "carbs_g": 43,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 25,
+      "fat_g": 27,
+      "sat_fat_g": 11,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 65,
+      "sodium_mg": 1240
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 510,
+    "carbs_g": 43,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 25,
+    "fat_g": 27,
+    "sat_fat_g": 11,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 65,
+    "sodium_mg": 1240
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with Taco Bell's info.",
+  "equivalents": {
+    "megajoules": 2.13
+  },
+  "tweaks": [
+    {
+      "label": "Add extra chicken (2 oz more)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 590
+    },
+    {
+      "label": "No creamy jalapeño sauce",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 460
+    },
+    {
+      "label": "Fresco style (no cheese, light sauce)",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 390
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in chicken quesadilla Taco Bell?",
+      "a": "Approximately 510 calories for one standard serving."
+    },
+    {
+      "q": "What's the protein in a Taco Bell chicken quesadilla?",
+      "a": "About 25 g of protein per quesadilla."
+    },
+    {
+      "q": "How much sodium is in Taco Bell chicken quesadilla?",
+      "a": "Around 1240 mg of sodium, so watch intake if limiting salt."
+    },
+    {
+      "q": "Are carbs high in Taco Bell chicken quesadilla?",
+      "a": "Yes, about 43 g carbs, mostly from the flour tortilla."
+    },
+    {
+      "q": "Can I make Taco Bell chicken quesadilla lower calorie?",
+      "a": "Opt for fresco style or skip sauce to reduce by 50–120 kcal."
+    }
+  ]
+}

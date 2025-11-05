@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in spaghetti noodles",
+  "title": "Calories in Spaghetti Noodles",
+  "meta_description": "Discover calories in spaghetti noodles per 100g serving, including carbs, protein, fat, and full nutrition breakdown for plain cooked pasta.",
+  "slug": "calories-in-spaghetti-noodles",
+  "h1": "Calories in Spaghetti Noodles",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "spaghetti noodles"
+  },
+  "assumptions": "Cooked plain spaghetti noodles (al dente), unenriched, no sauce, oil, or salt added; drained.",
+  "disclaimer": "Nutrition varies by brand, wheat type, cooking time, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 158,
+    "text": "100g of cooked spaghetti noodles contains about 158 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 158,
+      "carbs_g": 30.9,
+      "fiber_g": 1.8,
+      "sugars_g": 0.6,
+      "protein_g": 5.8,
+      "fat_g": 0.9,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 158,
+    "carbs_g": 30.9,
+    "fiber_g": 1.8,
+    "sugars_g": 0.6,
+    "protein_g": 5.8,
+    "fat_g": 0.9,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.66
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 198
+    },
+    {
+      "label": "Use whole wheat spaghetti noodles",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 168
+    },
+    {
+      "label": "Overcook (softer texture) per 100 g",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 148
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of cooked spaghetti noodles?",
+      "a": "Approximately 158 kcal for plain cooked spaghetti noodles."
+    },
+    {
+      "q": "What are the carbs in spaghetti noodles?",
+      "a": "About 30.9 g carbs per 100g, with 1.8 g fiber and 0.6 g sugars."
+    },
+    {
+      "q": "Do spaghetti noodles have protein or fat?",
+      "a": "Yes, 5.8 g protein and 0.9 g fat per 100g cooked."
+    },
+    {
+      "q": "Calories in dry vs cooked spaghetti noodles?",
+      "a": "Dry is higher at ~371 kcal per 100g; cooking absorbs water, reducing density."
+    },
+    {
+      "q": "How does brand affect calories in spaghetti noodles?",
+      "a": "Enriched or organic varieties may vary by 10-20 kcal per 100g due to processing."
+    }
+  ]
+}

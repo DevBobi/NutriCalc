@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in baklava",
+  "title": "Calories in Baklava",
+  "meta_description": "Discover calories in baklava per piece, including carbs, fat, protein, and full nutrition breakdown with tweaks for variations.",
+  "slug": "calories-in-baklava",
+  "h1": "Calories in Baklava",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "piece",
+    "item": "baklava"
+  },
+  "assumptions": "Standard piece (~50 g) with layers of phyllo dough, walnuts, butter, and honey syrup; baked traditionally.",
+  "disclaimer": "Nutrition varies by recipe, nut type, syrup amount, portion size, and bakery; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 215,
+    "text": "One piece of baklava contains about 215 calories, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 piece",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 215,
+      "carbs_g": 25,
+      "fiber_g": 1,
+      "sugars_g": 15,
+      "protein_g": 3,
+      "fat_g": 12,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 120
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 215,
+    "carbs_g": 25,
+    "fiber_g": 1,
+    "sugars_g": 15,
+    "protein_g": 3,
+    "fat_g": 12,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 120
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.9
+  },
+  "tweaks": [
+    {
+      "label": "Use pistachios instead of walnuts",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 205
+    },
+    {
+      "label": "Reduced syrup (less sugar)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 185
+    },
+    {
+      "label": "Add extra layer of phyllo (more dough)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 235
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one piece of baklava?",
+      "a": "Approximately 215 kcal for a standard 50 g piece."
+    },
+    {
+      "q": "Is baklava high in carbs?",
+      "a": "Yes, about 25 g carbs per piece, mainly from phyllo and syrup."
+    },
+    {
+      "q": "What makes baklava calorie-dense?",
+      "a": "Butter, nuts, and sugar syrup contribute most to the 215 kcal."
+    },
+    {
+      "q": "How much fat in baklava?",
+      "a": "Around 12 g total fat per piece, with 2.5 g saturated."
+    },
+    {
+      "q": "Can I make lower-calorie baklava?",
+      "a": "Yes, use less butter or syrup to reduce calories by 20-30 per piece."
+    }
+  ]
+}

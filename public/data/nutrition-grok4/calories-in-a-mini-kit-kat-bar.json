@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a mini kit kat bar",
+  "title": "Calories in a Mini Kit Kat Bar",
+  "meta_description": "Discover calories in a mini kit kat bar, including carbs, sugars, fat, protein, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "calories-in-a-mini-kit-kat-bar",
+  "h1": "Calories in a Mini Kit Kat Bar",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bar",
+    "item": "mini kit kat"
+  },
+  "assumptions": "Standard Nestlé Kit Kat mini bar (~13g), milk chocolate coated crisp wafer, no custom flavors or additions.",
+  "disclaimer": "Nutrition varies by brand, exact size, flavor, and manufacturing; check packaging for precise values.",
+  "quick_answer": {
+    "total_kcal": 60,
+    "text": "A mini Kit Kat bar contains about 60 calories and 7.5 g of carbs."
+  },
+  "basis": {
+    "label": "per 1 mini Kit Kat bar",
+    "amount": 1,
+    "unit": "bar",
+    "nutrition": {
+      "calories_kcal": 60,
+      "carbs_g": 7.5,
+      "fiber_g": 0.3,
+      "sugars_g": 5.5,
+      "protein_g": 0.8,
+      "fat_g": 3.2,
+      "sat_fat_g": 1.8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 2,
+      "sodium_mg": 12
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 60,
+    "carbs_g": 7.5,
+    "fiber_g": 0.3,
+    "sugars_g": 5.5,
+    "protein_g": 0.8,
+    "fat_g": 3.2,
+    "sat_fat_g": 1.8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 2,
+    "sodium_mg": 12
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.25
+  },
+  "tweaks": [
+    {
+      "label": "Dark chocolate version (less sugar)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 55
+    },
+    {
+      "label": "With peanut butter filling added",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 75
+    },
+    {
+      "label": "Sugar-free variant",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 40
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a mini Kit Kat bar?",
+      "a": "Approximately 60 kcal per mini bar."
+    },
+    {
+      "q": "What are the carbs in a mini Kit Kat?",
+      "a": "About 7.5 g carbs, including 5.5 g sugars and 0.3 g fiber."
+    },
+    {
+      "q": "Is a mini Kit Kat bar high in fat?",
+      "a": "It has 3.2 g total fat, with 1.8 g saturated fat."
+    },
+    {
+      "q": "How does a mini compare to a full Kit Kat bar?",
+      "a": "A full bar (42g) has about 210 kcal; mini is roughly 1/3 the size and calories."
+    },
+    {
+      "q": "Are there allergens in Kit Kat minis?",
+      "a": "Contains milk, soy, wheat; check label for nuts or other allergens in flavors."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in one chicken wing",
+  "title": "How Many Calories Are in One Chicken Wing?",
+  "meta_description": "Discover how many calories in one chicken wing, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better choices.",
+  "slug": "how-many-calories-in-one-chicken-wing",
+  "h1": "How Many Calories Are in One Chicken Wing?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "wing",
+    "item": "chicken wing"
+  },
+  "assumptions": "Bone-in, skin-on, roasted; medium size (~85 g total weight, including bone).",
+  "disclaimer": "Nutrition varies by size, cooking method (baked, fried, grilled), skin inclusion, and seasonings. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 99,
+    "text": "One roasted chicken wing with skin provides about 99 kcal and 8 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken wing",
+    "amount": 1,
+    "unit": "wing",
+    "nutrition": {
+      "calories_kcal": 99,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 8.1,
+      "fat_g": 7.1,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 45,
+      "sodium_mg": 35
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 99,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 8.1,
+    "fat_g": 7.1,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 45,
+    "sodium_mg": 35
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Fried in oil (vs. roasted)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 149
+    },
+    {
+      "label": "Skin removed",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 59
+    },
+    {
+      "label": "Add 1 tbsp buffalo sauce",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 129
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one chicken wing with skin?",
+      "a": "About 99 kcal for one roasted, skin-on chicken wing."
+    },
+    {
+      "q": "What's the protein in one chicken wing?",
+      "a": "Roughly 8.1 g protein per roasted chicken wing."
+    },
+    {
+      "q": "Do chicken wings have carbs?",
+      "a": "Plain roasted chicken wings have 0 g carbs."
+    },
+    {
+      "q": "How does frying affect calories in chicken wings?",
+      "a": "Frying adds about 50 kcal per wing due to absorbed oil."
+    },
+    {
+      "q": "Are these calories for bone-in or boneless wings?",
+      "a": "Bone-in; boneless may vary by meat weight and breading."
+    }
+  ]
+}

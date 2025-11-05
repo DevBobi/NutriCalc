@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in scotch whiskey",
+  "title": "Calories in Scotch Whiskey",
+  "meta_description": "Discover calories in scotch whiskey per standard shot, including alcohol content, zero carbs or protein, and tips for variations without mixers.",
+  "slug": "calories-in-scotch-whiskey",
+  "h1": "Calories in Scotch Whiskey",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "scotch whiskey"
+  },
+  "assumptions": "Standard 1.5 fl oz (44 ml) serving of 40% ABV scotch whisky, neat, no mixers or additives.",
+  "disclaimer": "Nutrition varies by brand, proof (ABV), serving size, and any additions; alcohol content affects calorie density. Consult labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "One standard shot of scotch whiskey contains about 97 calories, primarily from alcohol."
+  },
+  "basis": {
+    "label": "per 1 shot (44 ml)",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Higher proof (50% ABV vs. 40%)",
+      "delta_kcal_per_unit": 24,
+      "new_total_kcal": 121
+    },
+    {
+      "label": "Add 1 tsp simple syrup",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 113
+    },
+    {
+      "label": "Diluted with equal water (1:1)",
+      "delta_kcal_per_unit": -48,
+      "new_total_kcal": 49
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one shot of scotch whiskey?",
+      "a": "About 97 calories for a 1.5 oz (44 ml) shot at 40% ABV."
+    },
+    {
+      "q": "Does scotch whiskey have carbs or sugar?",
+      "a": "No, scotch whiskey has 0 g carbs, fiber, and sugars per shot—calories are from alcohol only."
+    },
+    {
+      "q": "Calories in scotch whiskey vs. other whiskeys?",
+      "a": "Similar across whiskeys at same ABV; scotch is typically 40-46% ABV, yielding 70-110 kcal per shot."
+    },
+    {
+      "q": "How does proof affect calories in scotch whiskey?",
+      "a": "Higher proof (ABV) increases calories; e.g., 50% ABV adds ~24 kcal per shot compared to 40%."
+    },
+    {
+      "q": "Are there any nutrients besides calories in scotch whiskey?",
+      "a": "Essentially none—0 g protein, fat, sodium, or cholesterol; it's pure alcohol calories."
+    }
+  ]
+}

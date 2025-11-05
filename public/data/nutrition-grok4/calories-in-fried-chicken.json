@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in fried chicken",
+  "title": "Calories in Fried Chicken",
+  "meta_description": "Discover calories in fried chicken per 100 g serving, including full nutrition breakdown, macros, and tips for healthier tweaks to fit your diet.",
+  "slug": "calories-in-fried-chicken",
+  "h1": "Calories in Fried Chicken",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "fried chicken"
+  },
+  "assumptions": "Breaded, deep-fried chicken pieces (mixed white/dark meat with skin); standard fast-food style, no sides or sauces.",
+  "disclaimer": "Nutrition varies by breading, oil type, cooking method, portion size, and brand. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 295,
+    "text": "100 g of fried chicken contains about 295 kcal, with high protein and fat from frying."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 295,
+      "carbs_g": 14,
+      "fiber_g": 0.5,
+      "sugars_g": 0.8,
+      "protein_g": 18,
+      "fat_g": 19,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 85,
+      "sodium_mg": 650
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 295,
+    "carbs_g": 14,
+    "fiber_g": 0.5,
+    "sugars_g": 0.8,
+    "protein_g": 18,
+    "fat_g": 19,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 85,
+    "sodium_mg": 650
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.23
+  },
+  "tweaks": [
+    {
+      "label": "Air-fried instead of deep-fried (less oil absorbed)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 215
+    },
+    {
+      "label": "Skinless, baked breaded chicken",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 195
+    },
+    {
+      "label": "Extra breading or double-dipped",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 345
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in fried chicken per 100 g?",
+      "a": "Approximately 295 kcal for breaded, deep-fried fried chicken."
+    },
+    {
+      "q": "Is fried chicken high in fat?",
+      "a": "Yes, about 19 g total fat per 100 g, mostly from frying oil."
+    },
+    {
+      "q": "What's the protein in fried chicken?",
+      "a": "Around 18 g protein per 100 g, making it a decent source despite the calories."
+    },
+    {
+      "q": "How does fried chicken compare to grilled?",
+      "a": "Fried has ~295 kcal/100 g vs. ~165 kcal for grilled skinless chicken—frying adds carbs and fat."
+    },
+    {
+      "q": "Why is sodium high in fried chicken?",
+      "a": "Breading and seasoning contribute ~650 mg sodium per 100 g; watch for fast-food versions."
+    }
+  ]
+}

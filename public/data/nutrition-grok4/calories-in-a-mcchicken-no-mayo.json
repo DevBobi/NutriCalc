@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a mcchicken no mayo",
+  "title": "Calories in a McChicken No Mayo",
+  "meta_description": "Discover calories in a McChicken no mayo, including full nutrition breakdown like protein, carbs, fat, sodium, and easy tweaks for your order.",
+  "slug": "calories-in-a-mcchicken-no-mayo",
+  "h1": "Calories in a McChicken No Mayo",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "McChicken",
+    "item": "McChicken no mayo"
+  },
+  "assumptions": "Standard McDonald's McChicken sandwich (breaded chicken patty, bun, lettuce) without mayonnaise; values based on official or averaged fast-food data.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and preparation; always check McDonald's app or packaging for latest info.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A McChicken no mayo has about 350 kcal, with 14 g protein and 40 g carbs."
+  },
+  "basis": {
+    "label": "per 1 McChicken no mayo",
+    "amount": 1,
+    "unit": "McChicken",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 40,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 14,
+      "fat_g": 15,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 40,
+      "sodium_mg": 700
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 40,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 14,
+    "fat_g": 15,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 40,
+    "sodium_mg": 700
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with fast-food menus.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add mayonnaise (standard spread)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 395
+    },
+    {
+      "label": "Add a slice of cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "No bun (lettuce wrap version)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a McChicken no mayo?",
+      "a": "Approximately 350 kcal for one sandwich."
+    },
+    {
+      "q": "What's the protein in a McChicken without mayo?",
+      "a": "About 14 g of protein from the chicken patty."
+    },
+    {
+      "q": "Does a McChicken no mayo have low carbs?",
+      "a": "No, it has around 40 g carbs mainly from the bun."
+    },
+    {
+      "q": "How much sodium is in a McChicken no mayo?",
+      "a": "Roughly 700 mg, mostly from seasoning and breading."
+    },
+    {
+      "q": "What's the difference in calories with mayo?",
+      "a": "Adding mayo increases it by about 45 kcal to 395 total."
+    }
+  ]
+}

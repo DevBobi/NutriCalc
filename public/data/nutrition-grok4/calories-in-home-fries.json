@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in home fries",
+  "title": "Calories in Home Fries",
+  "meta_description": "Discover calories in home fries per 100g serving, including carbs, protein, fat, sodium, and tips for healthier tweaks to fit your diet.",
+  "slug": "calories-in-home-fries",
+  "h1": "Calories in Home Fries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "home fries"
+  },
+  "assumptions": "Homemade from diced potatoes, fried in vegetable oil with onions and salt; no additional toppings.",
+  "disclaimer": "Nutrition varies by potato type, oil used, frying time, portion size, and added ingredients. Check recipes or labels when available.",
+  "quick_answer": {
+    "total_kcal": 170,
+    "text": "100g of home fries provides about 170 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 170,
+      "carbs_g": 22,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 2.5,
+      "fat_g": 8,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 170,
+    "carbs_g": 22,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 2.5,
+    "fat_g": 8,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.71
+  },
+  "tweaks": [
+    {
+      "label": "Oven-baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Add 1 tbsp cheese per 100g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Include bacon bits (1 strip per 100g)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of home fries?",
+      "a": "Approximately 170 kcal per 100g, depending on preparation."
+    },
+    {
+      "q": "Are home fries high in carbs?",
+      "a": "Yes, about 22g carbs per 100g, mainly from potatoes."
+    },
+    {
+      "q": "What's the fat content in home fries?",
+      "a": "Around 8g total fat per 100g, from frying oil."
+    },
+    {
+      "q": "Can I make lower-calorie home fries?",
+      "a": "Yes, bake them with minimal oil to reduce calories by 50-60 per 100g."
+    },
+    {
+      "q": "How much sodium in home fries?",
+      "a": "About 300mg per 100g if salted; adjust seasoning to lower it."
+    }
+  ]
+}

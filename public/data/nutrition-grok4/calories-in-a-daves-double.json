@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a daves double",
+  "title": "Calories in a Dave's Double Burger",
+  "meta_description": "Discover calories in a daves double from Wendy's, including full nutrition breakdown, macros, and easy tweaks for your meal.",
+  "slug": "calories-in-a-daves-double",
+  "h1": "Calories in a Dave's Double Burger",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "Dave's Double"
+  },
+  "assumptions": "Standard Wendy's Dave's Double: two quarter-pound beef patties, American cheese, lettuce, tomato, pickles, onions, ketchup, mayo, sesame seed bun; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, and custom orders. Values based on standard U.S. Wendy's data; check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 860,
+    "text": "A Dave's Double burger has ~860 kcal, with 51 g protein and 51 g fat."
+  },
+  "basis": {
+    "label": "per 1 Dave's Double burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 860,
+      "carbs_g": 51,
+      "fiber_g": 3,
+      "sugars_g": 10,
+      "protein_g": 51,
+      "fat_g": 51,
+      "sat_fat_g": 20,
+      "trans_fat_g": 2.5,
+      "cholesterol_mg": 175,
+      "sodium_mg": 1440
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 860,
+    "carbs_g": 51,
+    "fiber_g": 3,
+    "sugars_g": 10,
+    "protein_g": 51,
+    "fat_g": 51,
+    "sat_fat_g": 20,
+    "trans_fat_g": 2.5,
+    "cholesterol_mg": 175,
+    "sodium_mg": 1440
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 3.6
+  },
+  "tweaks": [
+    {
+      "label": "Remove the bun for low-carb",
+      "delta_kcal_per_unit": -240,
+      "new_total_kcal": 620
+    },
+    {
+      "label": "Add bacon (2 strips)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 930
+    },
+    {
+      "label": "No cheese",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 790
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Dave's Double?",
+      "a": "Approximately 860 kcal for the standard version."
+    },
+    {
+      "q": "What's the protein in a Dave's Double?",
+      "a": "About 51 g of protein from the beef patties and cheese."
+    },
+    {
+      "q": "Are there carbs in a Dave's Double?",
+      "a": "Yes, around 51 g total, mostly from the bun and condiments."
+    },
+    {
+      "q": "How much sodium is in a Dave's Double?",
+      "a": "Roughly 1440 mg, so watch intake if on a low-sodium diet."
+    },
+    {
+      "q": "Can I make a Dave's Double lower calorie?",
+      "a": "Yes—skip the bun or cheese to reduce by 70–240 kcal."
+    }
+  ]
+}

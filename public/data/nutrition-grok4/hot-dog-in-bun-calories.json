@@ -1,0 +1,92 @@
+{
+  "keyword": "hot dog in bun calories",
+  "title": "Hot Dog in Bun Calories",
+  "meta_description": "Explore hot dog in bun calories: about 280 kcal per serving, with full nutrition facts on protein, carbs, fat, sodium, and easy tweaks for variations.",
+  "slug": "hot-dog-in-bun-calories",
+  "h1": "Hot Dog in Bun Calories",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "hot dog in bun",
+    "item": "hot dog in bun"
+  },
+  "assumptions": "Standard beef frankfurter (45g) in a white bun (40g), steamed or boiled, no condiments or toppings.",
+  "disclaimer": "Nutrition varies by brand, size, meat type, bun variety, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 280,
+    "text": "One hot dog in a bun provides ~280 kcal, with 10g protein and high sodium."
+  },
+  "basis": {
+    "label": "per 1 hot dog in bun",
+    "amount": 1,
+    "unit": "hot dog in bun",
+    "nutrition": {
+      "calories_kcal": 280,
+      "carbs_g": 25,
+      "fiber_g": 1,
+      "sugars_g": 4,
+      "protein_g": 10,
+      "fat_g": 15,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 25,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 280,
+    "carbs_g": 25,
+    "fiber_g": 1,
+    "sugars_g": 4,
+    "protein_g": 10,
+    "fat_g": 15,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 25,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.17
+  },
+  "tweaks": [
+    {
+      "label": "Add ketchup and mustard (1 tsp each)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Add one slice of cheddar cheese",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Use whole wheat bun instead of white",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a hot dog in bun?",
+      "a": "Approximately 280 kcal for a standard beef hot dog in a white bun."
+    },
+    {
+      "q": "What's the protein in hot dog in bun calories breakdown?",
+      "a": "About 10g protein, mainly from the frankfurter."
+    },
+    {
+      "q": "Are hot dog in bun calories high in sodium?",
+      "a": "Yes, around 800mg sodium per serving due to processing."
+    },
+    {
+      "q": "How do condiments affect hot dog in bun calories?",
+      "a": "Ketchup and mustard add ~20 kcal; relish or chili can add 50+ kcal."
+    },
+    {
+      "q": "What's the fat content in a hot dog in bun?",
+      "a": "Roughly 15g total fat, including 6g saturated fat."
+    }
+  ]
+}

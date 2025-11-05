@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in red potatoes",
+  "title": "Calories in Red Potatoes",
+  "meta_description": "Discover calories in red potatoes per 100 g serving, including carbs, protein, fiber, and full nutrition breakdown for boiled red potatoes.",
+  "slug": "calories-in-red-potatoes",
+  "h1": "Calories in Red Potatoes",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "red potatoes"
+  },
+  "assumptions": "Boiled red potatoes with skin, no added salt or butter; medium-sized red potatoes (~148 g each).",
+  "disclaimer": "Nutrition varies by size, cooking method, added ingredients, and variety; check labels or use a tracker for precision.",
+  "quick_answer": {
+    "total_kcal": 77,
+    "text": "100 g of boiled red potatoes provides ~77 kcal, mostly from carbs with good fiber content."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 77,
+      "carbs_g": 17.8,
+      "fiber_g": 1.7,
+      "sugars_g": 0.8,
+      "protein_g": 1.9,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 77,
+    "carbs_g": 17.8,
+    "fiber_g": 1.7,
+    "sugars_g": 0.8,
+    "protein_g": 1.9,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 4
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.32
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of boiled (skin on)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 82
+    },
+    {
+      "label": "Add 1 tsp butter per 100 g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 113
+    },
+    {
+      "label": "Skin removed before boiling",
+      "delta_kcal_per_unit": -3,
+      "new_total_kcal": 74
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g red potatoes?",
+      "a": "Approximately 77 kcal for boiled red potatoes with skin."
+    },
+    {
+      "q": "Are red potatoes low carb?",
+      "a": "No, about 17.8 g carbs per 100 g, but with 1.7 g fiber."
+    },
+    {
+      "q": "Calories in one medium red potato?",
+      "a": "Around 114 kcal for a 148 g medium boiled red potato."
+    },
+    {
+      "q": "Do red potatoes have protein?",
+      "a": "Yes, about 1.9 g protein per 100 g."
+    },
+    {
+      "q": "How does cooking affect calories in red potatoes?",
+      "a": "Boiling keeps calories low; frying or adding oil increases them significantly."
+    }
+  ]
+}

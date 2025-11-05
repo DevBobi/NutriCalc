@@ -1,0 +1,92 @@
+{
+  "keyword": "how much calories in tuna sandwich",
+  "title": "How Many Calories in a Tuna Sandwich?",
+  "meta_description": "Discover how much calories in tuna sandwich, including full nutrition breakdown, protein, fat, carbs, and easy tweaks for variations.",
+  "slug": "how-much-calories-in-tuna-sandwich",
+  "h1": "How Many Calories in a Tuna Sandwich?",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "tuna sandwich"
+  },
+  "assumptions": "One sandwich with 100g canned tuna in water, 1 tbsp mayonnaise, two slices white bread, lettuce, and tomato; no cheese or extras.",
+  "disclaimer": "Nutrition varies by brand, tuna type (oil vs. water), bread, mayo amount, and add-ons. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A standard tuna sandwich contains about 350 kcal and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 35,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 25,
+      "fat_g": 15,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 35,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 25,
+    "fat_g": 15,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Use light mayo instead of full-fat",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Switch to whole wheat bread",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Add one slice of cheddar cheese",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 430
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How much calories in tuna sandwich with mayo?",
+      "a": "About 350 kcal for a basic version with 1 tbsp mayo."
+    },
+    {
+      "q": "What's the protein in a tuna sandwich?",
+      "a": "Roughly 25 g from the tuna and bread."
+    },
+    {
+      "q": "Are tuna sandwiches high in sodium?",
+      "a": "Yes, around 800 mg due to canned tuna and bread; opt for low-sodium versions."
+    },
+    {
+      "q": "Calories in tuna sandwich without bread?",
+      "a": "Tuna salad alone (100g tuna + mayo) is about 200 kcal."
+    },
+    {
+      "q": "How to lower calories in tuna sandwich?",
+      "a": "Use Greek yogurt instead of mayo, skip extras, and choose whole grain bread for fiber."
+    }
+  ]
+}

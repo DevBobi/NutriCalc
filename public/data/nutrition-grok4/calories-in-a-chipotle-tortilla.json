@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a chipotle tortilla",
+  "title": "Calories in a Chipotle Tortilla",
+  "meta_description": "Discover calories in a chipotle tortilla—about 320 kcal—plus full nutrition breakdown, macros, and tweaks for burritos or tacos.",
+  "slug": "calories-in-a-chipotle-tortilla",
+  "h1": "Calories in a Chipotle Tortilla",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tortilla",
+    "item": "chipotle tortilla"
+  },
+  "assumptions": "Standard Chipotle flour tortilla (13-inch size for burritos), plain, no fillings or toppings.",
+  "disclaimer": "Nutrition varies by exact recipe, size, brand replication, and preparation; check Chipotle's official info or labels when available.",
+  "quick_answer": {
+    "total_kcal": 320,
+    "text": "A standard Chipotle flour tortilla provides ~320 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 tortilla",
+    "amount": 1,
+    "unit": "tortilla",
+    "nutrition": {
+      "calories_kcal": 320,
+      "carbs_g": 60,
+      "fiber_g": 4,
+      "sugars_g": 1,
+      "protein_g": 9,
+      "fat_g": 7,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 670
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 320,
+    "carbs_g": 60,
+    "fiber_g": 4,
+    "sugars_g": 1,
+    "protein_g": 9,
+    "fat_g": 7,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 670
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.34
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Chipotle corn tortilla",
+      "delta_kcal_per_unit": -175,
+      "new_total_kcal": 145
+    },
+    {
+      "label": "Add 1 oz shredded cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Use half the tortilla (for quesadilla style)",
+      "delta_kcal_per_unit": -160,
+      "new_total_kcal": 160
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Chipotle flour tortilla?",
+      "a": "About 320 kcal for one standard 13-inch tortilla."
+    },
+    {
+      "q": "What are the carbs in a chipotle tortilla?",
+      "a": "Roughly 60 g total carbs, including 4 g fiber."
+    },
+    {
+      "q": "Is a Chipotle tortilla high in sodium?",
+      "a": "Yes, around 670 mg per tortilla due to added salt."
+    },
+    {
+      "q": "Calories in Chipotle corn vs flour tortilla?",
+      "a": "Corn is lower at ~145 kcal; flour is 320 kcal."
+    },
+    {
+      "q": "Does toasting a chipotle tortilla add calories?",
+      "a": "Minimal if dry-toasted; adds ~40 kcal with 1 tsp oil."
+    }
+  ]
+}

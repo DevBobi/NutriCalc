@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a cupcake with icing",
+  "title": "Calories in a Cupcake with Icing",
+  "meta_description": "Discover calories in a cupcake with icing, including full nutrition breakdown, macros, and easy tweaks for variations under 160 characters.",
+  "slug": "calories-in-a-cupcake-with-icing",
+  "h1": "Calories in a Cupcake with Icing",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cupcake",
+    "item": "cupcake with icing"
+  },
+  "assumptions": "Standard vanilla cupcake (~50 g) with vanilla buttercream icing (~20 g), baked from mix, no fillings or decorations.",
+  "disclaimer": "Nutrition varies by recipe, brand, size, frosting type, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A typical cupcake with icing contains about 250 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 cupcake with icing",
+    "amount": 1,
+    "unit": "cupcake",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 35,
+      "fiber_g": 0.5,
+      "sugars_g": 25,
+      "protein_g": 2,
+      "fat_g": 12,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 40,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 35,
+    "fiber_g": 0.5,
+    "sugars_g": 25,
+    "protein_g": 2,
+    "fat_g": 12,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 40,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate cupcake (vs. vanilla)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "No icing (plain cupcake only)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Add sprinkles and nuts",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cupcake with icing?",
+      "a": "About 250 kcal for a standard size with vanilla buttercream."
+    },
+    {
+      "q": "What are the carbs in a cupcake with icing?",
+      "a": "Around 35 g total carbs, including 25 g sugars."
+    },
+    {
+      "q": "Is a cupcake with icing high in fat?",
+      "a": "Yes, typically 12 g fat, with 5 g saturated."
+    },
+    {
+      "q": "How does icing affect calories in a cupcake?",
+      "a": "Icing adds ~100 kcal, mostly from sugar and fat."
+    },
+    {
+      "q": "Are there low-calorie options for cupcakes with icing?",
+      "a": "Yes, use lighter frosting or smaller size to reduce to under 200 kcal."
+    }
+  ]
+}

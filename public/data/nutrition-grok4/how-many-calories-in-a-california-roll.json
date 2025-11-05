@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a california roll",
+  "title": "How Many Calories in a California Roll?",
+  "meta_description": "Discover how many calories in a california roll, including carbs, protein, fat, and full nutrition breakdown per roll with easy tweaks and FAQs.",
+  "slug": "how-many-calories-in-a-california-roll",
+  "h1": "How Many Calories in a California Roll?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "roll",
+    "item": "california roll"
+  },
+  "assumptions": "Standard California roll (6-8 pieces, ~225 g total) with white sushi rice, imitation crab, avocado, cucumber, nori, and rice vinegar; no extra sauces.",
+  "disclaimer": "Nutrition varies by restaurant, brand, portion size, rice type, and added ingredients like mayo or sesame seeds. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 255,
+    "text": "One California roll has about 255 kcal, with 38 g carbs and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 california roll",
+    "amount": 1,
+    "unit": "roll",
+    "nutrition": {
+      "calories_kcal": 255,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 9,
+      "fat_g": 7,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 255,
+    "carbs_g": 38,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 9,
+    "fat_g": 7,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.07
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp spicy mayo drizzle",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 345
+    },
+    {
+      "label": "Use brown rice instead of white",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 245
+    },
+    {
+      "label": "Real crab instead of imitation",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 275
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a california roll from a restaurant?",
+      "a": "Typically 250-300 kcal per roll, depending on size and extras like sauces."
+    },
+    {
+      "q": "What are the carbs in a california roll?",
+      "a": "About 38 g carbs per roll, mostly from the rice."
+    },
+    {
+      "q": "Is a california roll low in fat?",
+      "a": "Yes, around 7 g total fat per roll, with avocado as the main source."
+    },
+    {
+      "q": "How much protein in one california roll?",
+      "a": "Roughly 9 g protein, primarily from the imitation crab."
+    },
+    {
+      "q": "Does a california roll have a lot of sodium?",
+      "a": "Yes, about 500 mg per roll due to seasoned rice and soy elements."
+    }
+  ]
+}

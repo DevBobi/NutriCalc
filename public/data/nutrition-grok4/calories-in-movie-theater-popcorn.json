@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in movie theater popcorn",
+  "title": "Calories in Movie Theater Popcorn",
+  "meta_description": "Discover calories in movie theater popcorn for a typical large serving, including fat, carbs, sodium, and tweaks for lighter options.",
+  "slug": "calories-in-movie-theater-popcorn",
+  "h1": "Calories in Movie Theater Popcorn",
+  "updated": "2024-10-18",
+  "query": {
+    "amount": 1,
+    "unit": "large serving",
+    "item": "movie theater popcorn"
+  },
+  "assumptions": "Buttered large serving (approx. 20 cups or 170 g popped); includes oil, butter topping, and salt; values based on average chain theater.",
+  "disclaimer": "Nutrition varies by theater chain, portion size, butter/oil amount, and toppings. Check specific venue info or labels when available.",
+  "quick_answer": {
+    "total_kcal": 1200,
+    "text": "A large serving of movie theater popcorn has about 1200 kcal, mostly from added butter and oil."
+  },
+  "basis": {
+    "label": "per 1 large serving",
+    "amount": 1,
+    "unit": "large serving",
+    "nutrition": {
+      "calories_kcal": 1200,
+      "carbs_g": 60,
+      "fiber_g": 12,
+      "sugars_g": 0,
+      "protein_g": 20,
+      "fat_g": 80,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1200,
+    "carbs_g": 60,
+    "fiber_g": 12,
+    "sugars_g": 0,
+    "protein_g": 20,
+    "fat_g": 80,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2000
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 5.02
+  },
+  "tweaks": [
+    {
+      "label": "No butter or oil topping",
+      "delta_kcal_per_unit": -800,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Small serving (approx. 11 cups) with butter",
+      "delta_kcal_per_unit": -600,
+      "new_total_kcal": 600
+    },
+    {
+      "label": "Add caramel or cheese topping",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 1400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a large movie theater popcorn?",
+      "a": "Around 1200 kcal for a buttered large serving."
+    },
+    {
+      "q": "Why is movie theater popcorn so high in calories?",
+      "a": "Added coconut oil, butter flavoring, and salt contribute most calories and fat."
+    },
+    {
+      "q": "What's the sodium in movie theater popcorn?",
+      "a": "A large serving has about 2000 mg sodium, over daily recommended intake."
+    },
+    {
+      "q": "Are there low-calorie movie theater popcorn options?",
+      "a": "Opt for plain or air-popped without butter to reduce to ~400 kcal per large."
+    },
+    {
+      "q": "How does movie theater popcorn compare to home popcorn?",
+      "a": "Theater versions have 3-4x more calories due to oil and toppings versus plain home-popped."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in chipotle bowl chicken",
+  "title": "How Many Calories in Chipotle Chicken Bowl?",
+  "meta_description": "Discover how many calories in chipotle bowl chicken, including protein, carbs, fat, full nutrition breakdown, and customization tips for your burrito bowl.",
+  "slug": "how-many-calories-in-chipotle-bowl-chicken",
+  "h1": "How Many Calories in Chipotle Chicken Bowl?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "chipotle chicken bowl"
+  },
+  "assumptions": "Standard Chipotle burrito bowl with grilled adobo chicken, white rice, black beans, fajita veggies, tomato salsa, cheese, and romaine lettuce; no guacamole, sour cream, or extra toppings.",
+  "disclaimer": "Nutrition varies by location, portion size, customizations, and preparation; Chipotle values may differ—check their app or site for exacts.",
+  "quick_answer": {
+    "total_kcal": 665,
+    "text": "A standard Chipotle chicken bowl contains about 665 kcal with 45 g protein."
+  },
+  "basis": {
+    "label": "per 1 bowl",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 665,
+      "carbs_g": 70,
+      "fiber_g": 10,
+      "sugars_g": 5,
+      "protein_g": 45,
+      "fat_g": 25,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 100,
+      "sodium_mg": 1500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 665,
+    "carbs_g": 70,
+    "fiber_g": 10,
+    "sugars_g": 5,
+    "protein_g": 45,
+    "fat_g": 25,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 100,
+    "sodium_mg": 1500
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with Chipotle's info.",
+  "equivalents": {
+    "megajoules": 2.78
+  },
+  "tweaks": [
+    {
+      "label": "Add guacamole",
+      "delta_kcal_per_unit": 230,
+      "new_total_kcal": 895
+    },
+    {
+      "label": "Skip the cheese",
+      "delta_kcal_per_unit": -110,
+      "new_total_kcal": 555
+    },
+    {
+      "label": "Use brown rice instead of white",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 675
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Chipotle chicken bowl without rice?",
+      "a": "About 460 kcal, saving ~205 kcal from the rice."
+    },
+    {
+      "q": "What's the protein in chipotle bowl chicken?",
+      "a": "Around 45 g from the grilled chicken and beans."
+    },
+    {
+      "q": "Are Chipotle bowls high in sodium?",
+      "a": "Yes, typically 1500 mg per bowl due to seasonings and beans."
+    },
+    {
+      "q": "How to make a lower-calorie chipotle bowl chicken?",
+      "a": "Opt for no rice, no cheese, extra veggies—drops to ~400 kcal."
+    },
+    {
+      "q": "Does adding sour cream change calories in chipotle bowl chicken?",
+      "a": "Adds ~110 kcal; skip for lighter options."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cinnamon",
+  "title": "Calories in Cinnamon",
+  "meta_description": "Discover calories in cinnamon per teaspoon, including carbs, fiber, protein, and other nutrients for this spice in your recipes.",
+  "slug": "calories-in-cinnamon",
+  "h1": "Calories in Cinnamon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "teaspoon",
+    "item": "cinnamon"
+  },
+  "assumptions": "Ground cinnamon, per level teaspoon (approx. 2.6 g), unsweetened, no additives.",
+  "disclaimer": "Nutrition varies by type (e.g., Ceylon vs. Cassia), brand, grind, and measurement; values are approximate. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 6,
+    "text": "One teaspoon of ground cinnamon contains about 6 calories and 1.4 g fiber."
+  },
+  "basis": {
+    "label": "per 1 teaspoon",
+    "amount": 1,
+    "unit": "teaspoon",
+    "nutrition": {
+      "calories_kcal": 6,
+      "carbs_g": 2.1,
+      "fiber_g": 1.4,
+      "sugars_g": 0.1,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 6,
+    "carbs_g": 2.1,
+    "fiber_g": 1.4,
+    "sugars_g": 0.1,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.03
+  },
+  "tweaks": [
+    {
+      "label": "Use 1 tablespoon (3 tsp) instead",
+      "delta_kcal_per_unit": 18,
+      "new_total_kcal": 24
+    },
+    {
+      "label": "Cinnamon sticks (equivalent to 1 tsp ground)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 6
+    },
+    {
+      "label": "Add 1 tsp sugar to the cinnamon",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 22
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 teaspoon of cinnamon?",
+      "a": "About 6 kcal per teaspoon of ground cinnamon."
+    },
+    {
+      "q": "Does cinnamon have carbs or fiber?",
+      "a": "Yes, 2.1 g carbs and 1.4 g fiber per teaspoon, mostly from fiber."
+    },
+    {
+      "q": "Is cinnamon low in fat and protein?",
+      "a": "Very low: 0 g fat and 0.1 g protein per teaspoon."
+    },
+    {
+      "q": "Calories in cinnamon per 100 g?",
+      "a": "Approximately 247 kcal per 100 g of ground cinnamon."
+    },
+    {
+      "q": "What affects calories in cinnamon?",
+      "a": "Mainly the amount used; added sugars or oils in recipes increase totals."
+    }
+  ]
+}

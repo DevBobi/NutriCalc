@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in smoked salmon",
+  "title": "Calories in Smoked Salmon",
+  "meta_description": "Discover calories in smoked salmon per 100 g serving, including protein, fat, sodium details, and preparation tweaks for better nutrition tracking.",
+  "slug": "calories-in-smoked-salmon",
+  "h1": "Calories in Smoked Salmon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "smoked salmon"
+  },
+  "assumptions": "Cold-smoked salmon (lox-style), thinly sliced, no added oils or seasonings; standard commercial preparation.",
+  "disclaimer": "Nutrition varies by brand, smoking method, curing salt levels, and fish quality. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 117,
+    "text": "100 g of smoked salmon provides ~117 kcal, high in protein at 18 g, but watch sodium."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 117,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 18,
+      "fat_g": 4.3,
+      "sat_fat_g": 0.8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 23,
+      "sodium_mg": 784
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 117,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 18,
+    "fat_g": 4.3,
+    "sat_fat_g": 0.8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 23,
+    "sodium_mg": 784
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.49
+  },
+  "tweaks": [
+    {
+      "label": "Hot-smoked salmon (firmer texture, less brining)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 137
+    },
+    {
+      "label": "Rinse to reduce sodium (lowers salt by ~30%)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 117
+    },
+    {
+      "label": "Add 1 tsp olive oil drizzle per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 157
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g smoked salmon?",
+      "a": "Approximately 117 kcal per 100 g."
+    },
+    {
+      "q": "Is smoked salmon high in protein?",
+      "a": "Yes, about 18 g protein per 100 g serving."
+    },
+    {
+      "q": "Why is sodium high in smoked salmon?",
+      "a": "Curing process adds salt; ~784 mg per 100 g, so moderate intake if watching sodium."
+    },
+    {
+      "q": "Does smoked salmon have carbs?",
+      "a": "Negligible carbs at 0 g per 100 g."
+    },
+    {
+      "q": "How does cooking method affect calories in smoked salmon?",
+      "a": "Cold-smoked is lower calorie than hot-smoked; varies by ~20 kcal per 100 g."
+    }
+  ]
+}

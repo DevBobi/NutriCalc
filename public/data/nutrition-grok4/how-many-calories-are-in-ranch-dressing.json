@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in ranch dressing",
+  "title": "How Many Calories Are in Ranch Dressing?",
+  "meta_description": "Discover how many calories are in ranch dressing per serving (2 tbsp), plus full nutrition breakdown including fat, sodium, carbs, and tips for lighter options.",
+  "slug": "how-many-calories-are-in-ranch-dressing",
+  "h1": "How Many Calories Are in Ranch Dressing?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 2,
+    "unit": "tbsp",
+    "item": "ranch dressing"
+  },
+  "assumptions": "Commercial full-fat creamy ranch dressing; standard serving of 2 tbsp (about 30 ml); no added ingredients.",
+  "disclaimer": "Nutrition varies by brand, fat content, homemade vs. store-bought, and portion size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 146,
+    "text": "Two tablespoons of ranch dressing provide about 146 kcal, mostly from fat."
+  },
+  "basis": {
+    "label": "per 1 tbsp",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 73,
+      "carbs_g": 0.7,
+      "fiber_g": 0,
+      "sugars_g": 0.5,
+      "protein_g": 0.2,
+      "fat_g": 7.6,
+      "sat_fat_g": 1.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 220
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 146,
+    "carbs_g": 1.4,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 0.4,
+    "fat_g": 15.2,
+    "sat_fat_g": 2.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 440
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.61
+  },
+  "tweaks": [
+    {
+      "label": "Switch to low-fat ranch dressing",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 96
+    },
+    {
+      "label": "Homemade with Greek yogurt (per 2 tbsp)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 106
+    },
+    {
+      "label": "Add to a salad (dressing only, no other changes)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 146
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in 1 tbsp of ranch dressing?",
+      "a": "About 73 kcal per tablespoon of full-fat ranch dressing."
+    },
+    {
+      "q": "Is ranch dressing high in sodium?",
+      "a": "Yes, 2 tbsp has around 440 mg sodium, so use sparingly if watching salt intake."
+    },
+    {
+      "q": "What's the fat content in ranch dressing?",
+      "a": "Per 2 tbsp: 15.2 g total fat, including 2.4 g saturated fat."
+    },
+    {
+      "q": "Are there low-calorie alternatives to ranch dressing?",
+      "a": "Yes, low-fat or yogurt-based versions cut calories by 30-50% per serving."
+    },
+    {
+      "q": "How does ranch dressing compare to other dressings?",
+      "a": "Ranch is calorie-dense due to mayo and cream; vinaigrette is often lighter at ~40-60 kcal per 2 tbsp."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a rib",
+  "title": "How Many Calories in a Rib?",
+  "meta_description": "Discover how many calories in a rib, including full nutrition breakdown for one pork spare rib, protein, fat details, and preparation tweaks.",
+  "slug": "how-many-calories-in-a-rib",
+  "h1": "How Many Calories in a Rib?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "rib",
+    "item": "pork rib"
+  },
+  "assumptions": "One bone-in pork spare rib, barbecued, ~85g edible meat portion, with basic sauce.",
+  "disclaimer": "Nutrition varies by cut (spare vs. baby back), cooking method, sauce, and portion size. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One barbecued pork rib provides ~250 kcal and ~18 g protein."
+  },
+  "basis": {
+    "label": "per 1 pork rib",
+    "amount": 1,
+    "unit": "rib",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 18,
+      "fat_g": 20,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 18,
+    "fat_g": 20,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 70,
+    "sodium_mg": 300
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "No sauce added",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Beef short rib instead of pork",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Fat trimmed before cooking",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a pork rib?",
+      "a": "About 250 kcal for one barbecued pork spare rib."
+    },
+    {
+      "q": "What is the protein in one rib?",
+      "a": "Roughly 18 g protein per rib."
+    },
+    {
+      "q": "Are ribs high in fat?",
+      "a": "Yes, ~20 g total fat per rib, mostly from marbling and cooking."
+    },
+    {
+      "q": "How does cooking method affect calories in a rib?",
+      "a": "Grilling or baking is lower than deep-frying; sauces add 50+ kcal."
+    },
+    {
+      "q": "Calories in a baby back rib vs. spare rib?",
+      "a": "Baby back ribs are leaner at ~200 kcal per rib; spare ribs ~250 kcal."
+    }
+  ]
+}

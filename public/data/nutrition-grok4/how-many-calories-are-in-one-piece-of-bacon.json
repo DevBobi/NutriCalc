@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in one piece of bacon",
+  "title": "How Many Calories Are in One Piece of Bacon?",
+  "meta_description": "Discover how many calories are in one piece of bacon, including full nutrition breakdown, protein, fat, sodium, and easy tweaks for variations.",
+  "slug": "how-many-calories-are-in-one-piece-of-bacon",
+  "h1": "How Many Calories Are in One Piece of Bacon?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "piece",
+    "item": "bacon"
+  },
+  "assumptions": "One medium slice (about 8g) of pan-fried pork bacon, drained of excess fat, no added seasonings.",
+  "disclaimer": "Nutrition varies by brand, cut thickness, cooking method, and fat content. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 43,
+    "text": "One piece of cooked bacon provides about 43 kcal and 3 g protein."
+  },
+  "basis": {
+    "label": "per 1 piece",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 43,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 3.3,
+      "sat_fat_g": 1.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 11,
+      "sodium_mg": 192
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 43,
+    "carbs_g": 0.1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 3,
+    "fat_g": 3.3,
+    "sat_fat_g": 1.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 11,
+    "sodium_mg": 192
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.18
+  },
+  "tweaks": [
+    {
+      "label": "Switch to turkey bacon",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 23
+    },
+    {
+      "label": "Thick-cut bacon slice",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 73
+    },
+    {
+      "label": "Oven-baked (less fat absorbed)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 38
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one piece of bacon?",
+      "a": "About 43 kcal for one medium cooked slice."
+    },
+    {
+      "q": "Is bacon high in fat or protein?",
+      "a": "One piece has 3.3 g fat and 3 g protein, with high sodium at 192 mg."
+    },
+    {
+      "q": "How does cooking method affect calories in bacon?",
+      "a": "Pan-frying retains more fat; baking or microwaving can reduce calories slightly by draining excess."
+    },
+    {
+      "q": "What about carbs in one piece of bacon?",
+      "a": "Negligible—only 0.1 g carbs and 0 g fiber per piece."
+    },
+    {
+      "q": "Are there lower-calorie bacon alternatives?",
+      "a": "Yes, turkey or chicken bacon has about 20-30 fewer kcal per slice."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in rice noodles",
+  "title": "Calories in Rice Noodles",
+  "meta_description": "Learn calories in rice noodles per 100g serving, including carbs, protein, fat, and full nutrition details for easy meal planning.",
+  "slug": "calories-in-rice-noodles",
+  "h1": "Calories in Rice Noodles",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "rice noodles"
+  },
+  "assumptions": "Plain cooked rice noodles (boiled or steamed), no added salt, oil, or seasonings; standard Asian-style vermicelli.",
+  "disclaimer": "Nutrition varies by brand, type (e.g., pad thai vs. vermicelli), cooking method, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 109,
+    "text": "100g of cooked rice noodles provides ~109 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 109,
+      "carbs_g": 25.2,
+      "fiber_g": 0.5,
+      "sugars_g": 0.1,
+      "protein_g": 1.8,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 109,
+    "carbs_g": 25.2,
+    "fiber_g": 0.5,
+    "sugars_g": 0.1,
+    "protein_g": 1.8,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Stir-fried with 1 tsp oil per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 149
+    },
+    {
+      "label": "Dry (uncooked) rice noodles per 100g",
+      "delta_kcal_per_unit": 255,
+      "new_total_kcal": 364
+    },
+    {
+      "label": "Brown rice noodles (whole grain variant)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 119
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of rice noodles?",
+      "a": "About 109 kcal for plain cooked rice noodles."
+    },
+    {
+      "q": "Are rice noodles low in carbs?",
+      "a": "No, they have ~25g carbs per 100g, mostly from rice starch."
+    },
+    {
+      "q": "What's the protein in rice noodles?",
+      "a": "Low at ~1.8g per 100g; pair with proteins for balanced meals."
+    },
+    {
+      "q": "Do rice noodles have gluten?",
+      "a": "Typically gluten-free, but check labels for cross-contamination."
+    },
+    {
+      "q": "How does cooking affect calories in rice noodles?",
+      "a": "Cooked absorbs water, lowering calories per gram vs. dry (364 kcal/100g)."
+    }
+  ]
+}

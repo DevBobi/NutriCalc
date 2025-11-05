@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a cheese slice",
+  "title": "How Many Calories Are in a Cheese Slice?",
+  "meta_description": "Discover how many calories are in a cheese slice, including full nutrition breakdown, protein, fat, sodium, and easy variations for your diet.",
+  "slug": "how-many-calories-are-in-a-cheese-slice",
+  "h1": "How Many Calories Are in a Cheese Slice?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "cheese slice"
+  },
+  "assumptions": "Standard processed American cheese slice (~21g), like Kraft Singles; melted or as-is, no additional ingredients.",
+  "disclaimer": "Nutrition varies by brand, type (e.g., cheddar vs. processed), slice thickness, and processing; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "One cheese slice contains about 80 kcal and 5 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 5,
+      "fat_g": 7,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 5,
+    "fat_g": 7,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 400
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat cheese slice",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Cheddar cheese slice (thicker, ~28g)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Swiss cheese slice",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a cheese slice?",
+      "a": "Approximately 80 kcal for a standard processed American slice."
+    },
+    {
+      "q": "What's the protein in one cheese slice?",
+      "a": "About 5 g of protein per slice."
+    },
+    {
+      "q": "How much sodium is in a cheese slice?",
+      "a": "Around 400 mg, which is notable for processed varieties."
+    },
+    {
+      "q": "Does cheese slice type affect calories?",
+      "a": "Yes—processed is lower (~80 kcal), while natural cheddar can be 110+ kcal."
+    },
+    {
+      "q": "Are cheese slices high in saturated fat?",
+      "a": "Yes, about 4 g saturated fat per slice, so enjoy in moderation."
+    }
+  ]
+}

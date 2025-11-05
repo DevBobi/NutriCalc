@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in potato soup",
+  "title": "Calories in Potato Soup",
+  "meta_description": "Discover calories in potato soup per serving, including carbs, protein, fat, sodium, and recipe tweaks for healthier options.",
+  "slug": "calories-in-potato-soup",
+  "h1": "Calories in Potato Soup",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "potato soup"
+  },
+  "assumptions": "Creamy potato soup made with potatoes, cream, onions, butter; standard homemade recipe, no added toppings.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, cream content, and portion size. Check labels for canned or restaurant versions.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One cup of creamy potato soup contains about 250 kcal and 30 g carbs."
+  },
+  "basis": {
+    "label": "per 1 cup (240 g)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 5,
+      "fat_g": 12,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 5,
+    "fat_g": 12,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat milk instead of cream",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Add 1 oz shredded cheddar per cup",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Vegan version with coconut milk",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of potato soup?",
+      "a": "Approximately 250 kcal for a standard creamy serving."
+    },
+    {
+      "q": "Is potato soup high in sodium?",
+      "a": "Yes, often around 800 mg per cup due to broth and seasonings."
+    },
+    {
+      "q": "What's the protein in potato soup?",
+      "a": "About 5 g per cup, mostly from dairy if creamy."
+    },
+    {
+      "q": "How to reduce calories in potato soup?",
+      "a": "Opt for low-fat dairy, more veggies, or broth-based instead of cream."
+    },
+    {
+      "q": "Carbs in potato soup per serving?",
+      "a": "Roughly 30 g carbs per cup, mainly from potatoes."
+    }
+  ]
+}

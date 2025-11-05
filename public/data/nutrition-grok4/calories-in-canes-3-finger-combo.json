@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in canes 3 finger combo",
+  "title": "Calories in Cane's 3 Finger Combo",
+  "meta_description": "Discover calories in canes 3 finger combo, including full nutrition breakdown with protein, carbs, fat, sodium, and tweaks for customization.",
+  "slug": "calories-in-canes-3-finger-combo",
+  "h1": "Calories in Cane's 3 Finger Combo",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "combo",
+    "item": "Cane's 3 finger combo"
+  },
+  "assumptions": "Includes 3 chicken fingers, crinkle-cut fries, coleslaw, Texas toast, and 1 serving Cane's sauce; drink excluded.",
+  "disclaimer": "Nutrition varies by location, portion size, preparation, and customizations. Check Raising Cane's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 1260,
+    "text": "Raising Cane's 3 Finger Combo totals about 1260 kcal with 50g protein."
+  },
+  "basis": {
+    "label": "per 1 combo",
+    "amount": 1,
+    "unit": "combo",
+    "nutrition": {
+      "calories_kcal": 1260,
+      "carbs_g": 140,
+      "fiber_g": 5,
+      "sugars_g": 10,
+      "protein_g": 50,
+      "fat_g": 60,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 200,
+      "sodium_mg": 3000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1260,
+    "carbs_g": 140,
+    "fiber_g": 5,
+    "sugars_g": 10,
+    "protein_g": 50,
+    "fat_g": 60,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 200,
+    "sodium_mg": 3000
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 5.27
+  },
+  "tweaks": [
+    {
+      "label": "Remove Cane's sauce",
+      "delta_kcal_per_unit": -190,
+      "new_total_kcal": 1070
+    },
+    {
+      "label": "No fries (substitute with extra coleslaw)",
+      "delta_kcal_per_unit": -390,
+      "new_total_kcal": 870
+    },
+    {
+      "label": "Add 12 oz soda drink",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 1400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Cane's 3 finger combo?",
+      "a": "Approximately 1260 kcal for the standard combo."
+    },
+    {
+      "q": "What's the protein in canes 3 finger combo?",
+      "a": "About 50 g protein, mostly from the chicken fingers."
+    },
+    {
+      "q": "Is the sodium high in Cane's 3 finger combo?",
+      "a": "Yes, around 3000 mg due to sauce, fries, and seasoning."
+    },
+    {
+      "q": "Calories in just the 3 chicken fingers from Cane's?",
+      "a": "About 390 kcal for the tenders alone."
+    },
+    {
+      "q": "How to lower calories in canes 3 finger combo?",
+      "a": "Skip the sauce and fries to reduce by 580 kcal."
+    }
+  ]
+}

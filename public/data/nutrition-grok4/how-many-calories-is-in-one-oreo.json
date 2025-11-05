@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in one oreo",
+  "title": "How Many Calories in One Oreo?",
+  "meta_description": "Discover how many calories is in one oreo—about 53 kcal—plus full nutrition breakdown, macros, and variations for this classic cookie.",
+  "slug": "how-many-calories-is-in-one-oreo",
+  "h1": "How Many Calories in One Oreo?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "oreo",
+    "item": "oreo"
+  },
+  "assumptions": "Standard Oreo cookie (regular, not double-stuffed), approximately 11 g, creme-filled chocolate sandwich.",
+  "disclaimer": "Nutrition varies by brand, variety (e.g., double-stuf, flavors), and manufacturing; check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 53,
+    "text": "One standard Oreo cookie contains about 53 calories, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 Oreo cookie",
+    "amount": 1,
+    "unit": "oreo",
+    "nutrition": {
+      "calories_kcal": 53,
+      "carbs_g": 7.3,
+      "fiber_g": 0.3,
+      "sugars_g": 3.9,
+      "protein_g": 0.7,
+      "fat_g": 2.5,
+      "sat_fat_g": 0.4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 71
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 53,
+    "carbs_g": 7.3,
+    "fiber_g": 0.3,
+    "sugars_g": 3.9,
+    "protein_g": 0.7,
+    "fat_g": 2.5,
+    "sat_fat_g": 0.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 71
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.22
+  },
+  "tweaks": [
+    {
+      "label": "Double Stuf Oreo (extra creme filling)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 78
+    },
+    {
+      "label": "Oreo Thins (thinner cookie version)",
+      "delta_kcal_per_unit": -13,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Remove creme filling (cookies only)",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 28
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in one oreo?",
+      "a": "One standard Oreo has 53 calories."
+    },
+    {
+      "q": "What are the carbs in one Oreo?",
+      "a": "About 7.3 g total carbs, including 3.9 g sugars and 0.3 g fiber."
+    },
+    {
+      "q": "Is there protein in Oreos?",
+      "a": "Yes, a small amount—0.7 g per cookie from the wafers."
+    },
+    {
+      "q": "How much fat is in one oreo cookie?",
+      "a": "2.5 g total fat, with 0.4 g saturated fat and 0 g trans fat."
+    },
+    {
+      "q": "Do Oreos have cholesterol?",
+      "a": "No cholesterol (0 mg) in standard Oreos, as they're plant-based."
+    }
+  ]
+}

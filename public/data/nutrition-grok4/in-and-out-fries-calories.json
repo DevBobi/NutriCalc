@@ -1,0 +1,92 @@
+{
+  "keyword": "in and out fries calories",
+  "title": "Calories in In-N-Out Fries",
+  "meta_description": "Learn the calories in In-N-Out fries for a regular order, including carbs, fat, protein, sodium, and full nutrition details with tweaks and FAQs.",
+  "slug": "in-and-out-fries-calories",
+  "h1": "Calories in In-N-Out Fries",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "order",
+    "item": "In-N-Out fries"
+  },
+  "assumptions": "Regular order of french fries from In-N-Out Burger, cooked in 100% peanut oil, no added toppings or sauces.",
+  "disclaimer": "Nutrition varies by location, preparation, portion size, and customizations; check In-N-Out's official info or app for latest values.",
+  "quick_answer": {
+    "total_kcal": 395,
+    "text": "A regular order of In-N-Out fries contains 395 calories and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 regular order",
+    "amount": 1,
+    "unit": "order",
+    "nutrition": {
+      "calories_kcal": 395,
+      "carbs_g": 54,
+      "fiber_g": 5,
+      "sugars_g": 0,
+      "protein_g": 6,
+      "fat_g": 18,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 260
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 395,
+    "carbs_g": 54,
+    "fiber_g": 5,
+    "sugars_g": 0,
+    "protein_g": 6,
+    "fat_g": 18,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 260
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.65
+  },
+  "tweaks": [
+    {
+      "label": "Animal style (add cheese, grilled onions, and sauce)",
+      "delta_kcal_per_unit": 375,
+      "new_total_kcal": 770
+    },
+    {
+      "label": "Add 1 packet ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 415
+    },
+    {
+      "label": "Well done (extra crisp, minimal oil difference)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 405
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in In-N-Out fries?",
+      "a": "A regular order has 395 calories."
+    },
+    {
+      "q": "What are the carbs in In-N-Out fries calories breakdown?",
+      "a": "54 g total carbs, including 5 g fiber and 0 g sugars per order."
+    },
+    {
+      "q": "How much fat and protein in In-N-Out fries?",
+      "a": "18 g total fat (5 g saturated) and 6 g protein per regular order."
+    },
+    {
+      "q": "Are In-N-Out fries high in sodium?",
+      "a": "Yes, about 260 mg sodium per order, mostly from seasoning."
+    },
+    {
+      "q": "Do In-N-Out fries have cholesterol?",
+      "a": "No cholesterol (0 mg) since they're cooked in peanut oil without animal products."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a auntie annes pretzel",
+  "title": "Calories in an Auntie Anne's Pretzel",
+  "meta_description": "Discover calories in a auntie annes pretzel, including carbs, protein, fat, sodium details, and easy tweaks for variations.",
+  "slug": "calories-in-a-auntie-annes-pretzel",
+  "h1": "Calories in an Auntie Anne's Pretzel",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "pretzel",
+    "item": "Auntie Anne's pretzel"
+  },
+  "assumptions": "Standard original soft pretzel from Auntie Anne's, fresh-baked, approximately 115 g, no dips or additional toppings.",
+  "disclaimer": "Nutrition varies by location, exact recipe, serving size, and customizations. Check Auntie Anne's nutritional info for precise values.",
+  "quick_answer": {
+    "total_kcal": 280,
+    "text": "One Auntie Anne's pretzel provides about 280 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 pretzel",
+    "amount": 1,
+    "unit": "pretzel",
+    "nutrition": {
+      "calories_kcal": 280,
+      "carbs_g": 51,
+      "fiber_g": 2,
+      "sugars_g": 10,
+      "protein_g": 9,
+      "fat_g": 1,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 731
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 280,
+    "carbs_g": 51,
+    "fiber_g": 2,
+    "sugars_g": 10,
+    "protein_g": 9,
+    "fat_g": 1,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 731
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.17
+  },
+  "tweaks": [
+    {
+      "label": "Add cinnamon sugar topping",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "With 1 serving cheese dip",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Bite-size pretzel (4 pieces equivalent)",
+      "delta_kcal_per_unit": -140,
+      "new_total_kcal": 140
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a auntie annes pretzel?",
+      "a": "Approximately 280 kcal for one standard original pretzel."
+    },
+    {
+      "q": "What are the carbs in an Auntie Anne's pretzel?",
+      "a": "About 51 g carbs, including 2 g fiber and 10 g sugars."
+    },
+    {
+      "q": "Is an Auntie Anne's pretzel high in sodium?",
+      "a": "Yes, around 731 mg sodium per pretzel due to salt topping."
+    },
+    {
+      "q": "How much protein in one Auntie Anne's pretzel?",
+      "a": "Roughly 9 g protein per standard pretzel."
+    },
+    {
+      "q": "Do Auntie Anne's pretzels have trans fat?",
+      "a": "Typically 0 g trans fat in the original pretzel."
+    }
+  ]
+}

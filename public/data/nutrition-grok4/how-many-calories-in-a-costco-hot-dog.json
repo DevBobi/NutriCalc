@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a costco hot dog",
+  "title": "How Many Calories in a Costco Hot Dog?",
+  "meta_description": "Discover how many calories in a Costco hot dog, including full nutrition breakdown, protein, fat, carbs, and quick tweaks for variations.",
+  "slug": "how-many-calories-in-a-costco-hot-dog",
+  "h1": "How Many Calories in a Costco Hot Dog?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "hot dog",
+    "item": "costco hot dog"
+  },
+  "assumptions": "Kirkland Signature all-beef frankfurter (113 g) on a steamed bun (50 g), no condiments, ketchup, or added toppings; standard preparation.",
+  "disclaimer": "Nutrition varies by exact size, brand sourcing, preparation, and toppings. Values based on typical Costco serving; check in-store info when available.",
+  "quick_answer": {
+    "total_kcal": 570,
+    "text": "A Costco hot dog with bun provides ~570 kcal, 22 g protein, and is high in sodium."
+  },
+  "basis": {
+    "label": "per 1 Costco hot dog (with bun)",
+    "amount": 1,
+    "unit": "hot dog",
+    "nutrition": {
+      "calories_kcal": 570,
+      "carbs_g": 46,
+      "fiber_g": 2,
+      "sugars_g": 8,
+      "protein_g": 22,
+      "fat_g": 34,
+      "sat_fat_g": 13,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 60,
+      "sodium_mg": 1520
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 570,
+    "carbs_g": 46,
+    "fiber_g": 2,
+    "sugars_g": 8,
+    "protein_g": 22,
+    "fat_g": 34,
+    "sat_fat_g": 13,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 60,
+    "sodium_mg": 1520
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.38
+  },
+  "tweaks": [
+    {
+      "label": "Without the bun (hot dog only)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Add ketchup and mustard (1 tbsp each)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 610
+    },
+    {
+      "label": "Add sliced cheese (1 oz)",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 680
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Costco hot dog without the bun?",
+      "a": "The all-beef frank alone has about 370 kcal."
+    },
+    {
+      "q": "What's the protein in a Costco hot dog?",
+      "a": "Approximately 22 g protein per hot dog with bun."
+    },
+    {
+      "q": "Why is sodium so high in Costco hot dogs?",
+      "a": "Due to the beef frank and bun seasoning; about 1520 mg per serving."
+    },
+    {
+      "q": "Does the Costco hot dog combo include drink calories?",
+      "a": "No, the 570 kcal is for the hot dog and bun only; soda adds extra ~150 kcal for 20 oz."
+    },
+    {
+      "q": "How does cooking method affect Costco hot dog calories?",
+      "a": "Steamed (standard) keeps it at 570 kcal; grilling or frying may add 20-50 kcal from oil."
+    }
+  ]
+}

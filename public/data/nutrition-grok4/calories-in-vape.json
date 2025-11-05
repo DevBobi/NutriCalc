@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in vape",
+  "title": "Calories in Vape",
+  "meta_description": "Discover calories in vape, including e-liquid nutrition facts, total energy, and why it's essentially zero—plus tweaks and FAQs for clarity.",
+  "slug": "calories-in-vape",
+  "h1": "Calories in Vape",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "vape",
+    "item": "vape"
+  },
+  "assumptions": "Standard e-cigarette or vape device use; per typical session (e.g., 1 ml e-liquid); common ingredients like PG/VG, flavorings, nicotine—no food additives.",
+  "disclaimer": "Vaping products aren't food; calorie content is negligible and varies by e-liquid composition, brand, and usage. Not for ingestion—consult health experts.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "Vaping has essentially 0 calories as e-liquids provide no significant nutritional energy."
+  },
+  "basis": {
+    "label": "per 1 ml e-liquid (typical vape session)",
+    "amount": 1,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values reflect non-nutritive nature; no standard Nutrition Facts apply as vaping isn't dietary.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Flavored e-liquid (e.g., fruit or dessert) vs. unflavored",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Nicotine-free vs. nicotine e-liquid",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Higher VG content (thicker liquid)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "Are there calories in vape e-liquid?",
+      "a": "No, e-liquids have 0 calories; they're not designed for nutritional intake."
+    },
+    {
+      "q": "Does vaping fruit-flavored juice add calories?",
+      "a": "Flavors are synthetic or minimal; still 0 significant calories per ml."
+    },
+    {
+      "q": "What about sugar in vape liquids?",
+      "a": "Most have 0 g sugars; any sweeteners are non-caloric or trace amounts."
+    },
+    {
+      "q": "Is vaping a source of carbs or protein?",
+      "a": "No carbs, protein, or fats—vape ingredients like PG/VG aren't metabolized as food."
+    },
+    {
+      "q": "Why search for calories in vape?",
+      "a": "Common misconception; vaping doesn't contribute to caloric intake like food or drinks."
+    }
+  ]
+}

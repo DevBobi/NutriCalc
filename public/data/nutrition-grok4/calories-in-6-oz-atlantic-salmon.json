@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 6 oz atlantic salmon",
+  "title": "Calories in 6 oz Atlantic Salmon",
+  "meta_description": "Discover calories in 6 oz Atlantic salmon, including protein, fat, carbs, full nutrition breakdown per 100 g basis, and preparation tweaks for better tracking.",
+  "slug": "calories-in-6-oz-atlantic-salmon",
+  "h1": "Calories in 6 oz Atlantic Salmon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 6,
+    "unit": "oz",
+    "item": "atlantic salmon"
+  },
+  "assumptions": "Farmed Atlantic salmon, cooked (baked or grilled), skinless, no added oil, salt, or seasonings; 6 oz ≈ 170 g.",
+  "disclaimer": "Nutrition varies by wild vs. farmed, cooking method, portion size, fat content, and additions like oil or sauce. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 354,
+    "text": "6 oz of cooked Atlantic salmon offers ~354 kcal and ~37 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 208,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 22,
+      "fat_g": 13,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 63,
+      "sodium_mg": 61
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 354,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 37,
+    "fat_g": 22,
+    "sat_fat_g": 4.3,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 107,
+    "sodium_mg": 104
+  },
+  "label_note": "Totals are scaled from the per-100 g basis and mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.48
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 422
+    },
+    {
+      "label": "Wild-caught (lower fat) vs. farmed",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 154
+    },
+    {
+      "label": "Skin-on preparation",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 414
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 6 oz Atlantic salmon?",
+      "a": "Approximately 354 kcal for cooked, skinless farmed Atlantic salmon."
+    },
+    {
+      "q": "What's the protein in 6 oz Atlantic salmon?",
+      "a": "About 37 g of high-quality protein."
+    },
+    {
+      "q": "Does Atlantic salmon have carbs?",
+      "a": "No significant carbs—0 g per serving under these assumptions."
+    },
+    {
+      "q": "Wild vs. farmed Atlantic salmon calories?",
+      "a": "Farmed is higher in fat and calories (~208 kcal/100 g); wild is leaner (~158 kcal/100 g)."
+    },
+    {
+      "q": "How does cooking affect salmon nutrition?",
+      "a": "Baking or grilling retains nutrients; frying adds calories from oil."
+    }
+  ]
+}

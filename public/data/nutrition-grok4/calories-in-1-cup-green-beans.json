@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cup green beans",
+  "title": "Calories in 1 Cup Green Beans",
+  "meta_description": "Discover calories in 1 cup green beans, including carbs, fiber, protein, fat, and full nutrition breakdown per serving with quick tweaks and FAQs.",
+  "slug": "calories-in-1-cup-green-beans",
+  "h1": "Calories in 1 Cup Green Beans",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "green beans"
+  },
+  "assumptions": "Fresh green beans, cooked (boiled or steamed), drained; approximately 125 g per cup; no added salt, oil, or seasonings.",
+  "disclaimer": "Nutrition varies by variety (fresh, frozen, canned), preparation method, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 44,
+    "text": "One cup of cooked green beans provides about 44 kcal and 4 g of dietary fiber."
+  },
+  "basis": {
+    "label": "per 1 cup cooked",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 44,
+      "carbs_g": 10,
+      "fiber_g": 4,
+      "sugars_g": 4.9,
+      "protein_g": 2.4,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 44,
+    "carbs_g": 10,
+    "fiber_g": 4,
+    "sugars_g": 4.9,
+    "protein_g": 2.4,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 4
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.18
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per cup",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 78
+    },
+    {
+      "label": "Raw green beans (uncooked) per cup",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 34
+    },
+    {
+      "label": "Sautéed with 1 tsp olive oil per cup",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 84
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup of cooked green beans?",
+      "a": "About 44 kcal for 1 cup of plain cooked green beans."
+    },
+    {
+      "q": "Are green beans low in carbs?",
+      "a": "Yes, 1 cup has 10 g carbs, with 4 g fiber, making net carbs about 6 g."
+    },
+    {
+      "q": "What is the protein content in 1 cup green beans?",
+      "a": "Approximately 2.4 g of protein per cup."
+    },
+    {
+      "q": "Do green beans have any fat?",
+      "a": "Very low—only 0.3 g total fat per cup, with negligible saturated fat."
+    },
+    {
+      "q": "How does preparation affect calories in green beans?",
+      "a": "Boiled/steamed keeps it low (44 kcal/cup); frying or adding oil/butter increases it significantly."
+    }
+  ]
+}

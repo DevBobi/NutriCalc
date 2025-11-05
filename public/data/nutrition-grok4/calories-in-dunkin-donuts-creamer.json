@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in dunkin donuts creamer",
+  "title": "Calories in Dunkin Donuts Creamer",
+  "meta_description": "Discover calories in Dunkin Donuts creamer per serving, including fat, carbs, sugars, and nutrition facts for your coffee routine.",
+  "slug": "calories-in-dunkin-donuts-creamer",
+  "h1": "Calories in Dunkin Donuts Creamer",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "Dunkin Donuts creamer"
+  },
+  "assumptions": "Original flavor, non-dairy coffee creamer; per 1 tablespoon (15 ml) serving; no added sugars beyond formula.",
+  "disclaimer": "Nutrition varies by flavor, brand batch, and serving size; always check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 35,
+    "text": "One tablespoon of Dunkin Donuts creamer contains 35 calories and 3 g of fat."
+  },
+  "basis": {
+    "label": "per 1 tbsp",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 35,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sugars_g": 2,
+      "protein_g": 0,
+      "fat_g": 3,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 35,
+    "carbs_g": 2,
+    "fiber_g": 0,
+    "sugars_g": 2,
+    "protein_g": 0,
+    "fat_g": 3,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.15
+  },
+  "tweaks": [
+    {
+      "label": "French Vanilla flavor (vs. original)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Low-fat version (reduced fat content)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 15
+    },
+    {
+      "label": "Extra creamy variety (higher fat)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 45
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of Dunkin Donuts creamer?",
+      "a": "About 35 calories per 1 tbsp serving of original flavor."
+    },
+    {
+      "q": "Does Dunkin Donuts creamer have sugar?",
+      "a": "Yes, 2 g of sugars per tbsp, mostly from added sweeteners."
+    },
+    {
+      "q": "Is Dunkin Donuts creamer dairy-free?",
+      "a": "Most varieties are non-dairy; confirm on label for specifics."
+    },
+    {
+      "q": "How much fat is in Dunkin Donuts creamer?",
+      "a": "3 g total fat per tbsp, with 2.5 g saturated."
+    },
+    {
+      "q": "Calories in flavored Dunkin Donuts creamer?",
+      "a": "Flavored options like hazelnut or vanilla add 5–10 calories per tbsp over original."
+    }
+  ]
+}

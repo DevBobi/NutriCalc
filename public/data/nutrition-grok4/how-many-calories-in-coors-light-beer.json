@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in coors light beer",
+  "title": "How Many Calories in Coors Light Beer?",
+  "meta_description": "Discover how many calories in Coors Light beer per 12 oz serving, including carbs, protein, sodium, and comparisons to other light beers for smarter choices.",
+  "slug": "how-many-calories-in-coors-light-beer",
+  "h1": "How Many Calories in Coors Light Beer?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "Coors Light beer"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) can, light lager, as served chilled from the bottle or can, no mixers or additives.",
+  "disclaimer": "Nutrition varies by batch, serving size, and brand specifics; alcohol content affects totals. Always check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 102,
+    "text": "One 12 oz Coors Light beer contains 102 calories, mostly from 5 g of carbs."
+  },
+  "basis": {
+    "label": "per 1 can (12 fl oz)",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 102,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 102,
+    "carbs_g": 5,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.43
+  },
+  "tweaks": [
+    {
+      "label": "Switch to regular Coors Banquet (higher carb version)",
+      "delta_kcal_per_unit": 47,
+      "new_total_kcal": 149
+    },
+    {
+      "label": "Mix with diet soda (no added calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 102
+    },
+    {
+      "label": "Larger 16 oz serving (vs. 12 oz can)",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 136
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Coors Light beer?",
+      "a": "About 102 calories per 12 oz can."
+    },
+    {
+      "q": "What are the carbs in Coors Light beer?",
+      "a": "Approximately 5 g of carbohydrates per serving, with 0 g fiber and sugars."
+    },
+    {
+      "q": "Does Coors Light have protein or fat?",
+      "a": "1 g protein and 0 g fat per 12 oz serving."
+    },
+    {
+      "q": "How much sodium is in Coors Light?",
+      "a": "Around 10 mg per can, low compared to many beverages."
+    },
+    {
+      "q": "Is Coors Light lower calorie than regular beer?",
+      "a": "Yes, at 102 kcal vs. 140+ in many regular lagers like Budweiser."
+    }
+  ]
+}

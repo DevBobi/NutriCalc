@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a gin and tonic drink",
+  "title": "How Many Calories Are in a Gin and Tonic?",
+  "meta_description": "Discover how many calories are in a gin and tonic drink, including carbs, sugars, and quick tweaks for variations like diet tonic.",
+  "slug": "how-many-calories-are-in-a-gin-and-tonic-drink",
+  "h1": "How Many Calories Are in a Gin and Tonic?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "drink",
+    "item": "gin and tonic"
+  },
+  "assumptions": "Standard serving: 1.5 oz (44 ml) gin, 4 oz (118 ml) tonic water, served over ice with lime wedge; no added sweeteners or garnishes.",
+  "disclaimer": "Nutrition varies by brand, pour size, tonic type, and mix ratios. Alcoholic beverages' calories can differ; consult labels or apps for precision.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "A standard gin and tonic drink contains about 150 calories, primarily from the tonic's sugars."
+  },
+  "basis": {
+    "label": "per 1 standard drink",
+    "amount": 1,
+    "unit": "drink",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 15,
+      "fiber_g": 0,
+      "sugars_g": 15,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 20
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 15,
+    "fiber_g": 0,
+    "sugars_g": 15,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 20
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Use diet tonic water instead of regular",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Double the gin (3 oz total)",
+      "delta_kcal_per_unit": 97,
+      "new_total_kcal": 247
+    },
+    {
+      "label": "Substitute soda water for tonic",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a gin and tonic drink with diet tonic?",
+      "a": "About 110 calories, as diet tonic eliminates the sugar calories."
+    },
+    {
+      "q": "Where do the calories in a gin and tonic come from?",
+      "a": "Mostly from the tonic water's sugars (15 g); gin contributes alcohol calories but no carbs or fat."
+    },
+    {
+      "q": "Is a gin and tonic low-carb?",
+      "a": "No, regular tonic adds 15 g carbs; opt for diet tonic for under 1 g carbs."
+    },
+    {
+      "q": "How does pour size affect calories in gin and tonic?",
+      "a": "Larger gin pours add ~65 kcal per oz; more tonic adds ~10 kcal per oz."
+    },
+    {
+      "q": "What are the macros for a standard gin and tonic?",
+      "a": "150 kcal, 15 g carbs (all sugars), 0 g protein, 0 g fat."
+    }
+  ]
+}

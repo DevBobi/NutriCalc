@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in budweiser light beer",
+  "title": "Calories in Budweiser Light Beer",
+  "meta_description": "Discover calories in Budweiser Light beer per 12 oz serving, plus carbs, protein, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-budweiser-light-beer",
+  "h1": "Calories in Budweiser Light Beer",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "12 oz serving",
+    "item": "budweiser light beer"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) can or bottle; 4.2% ABV; no added flavors or mixers.",
+  "disclaimer": "Nutrition varies by batch, serving size, and temperature; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "One 12 oz serving of Budweiser Light beer contains ~110 kcal and 6.6 g carbs."
+  },
+  "basis": {
+    "label": "per 12 oz serving",
+    "amount": 1,
+    "unit": "12 oz serving",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 6.6,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.9,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 6.6,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.9,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Switch to regular Budweiser (higher ABV and carbs)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Add a lime wedge (negligible calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Double serving (24 oz)",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 220
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Budweiser Light beer?",
+      "a": "About 110 kcal per 12 oz serving."
+    },
+    {
+      "q": "What are the carbs in Budweiser Light beer?",
+      "a": "Approximately 6.6 g carbs per 12 oz, with 0 g fiber and sugars."
+    },
+    {
+      "q": "Does Budweiser Light have protein or fat?",
+      "a": "0.9 g protein and 0 g fat per serving."
+    },
+    {
+      "q": "How does Bud Light compare to other light beers?",
+      "a": "Similar to many light beers at ~100-110 kcal; varies by brand."
+    },
+    {
+      "q": "Is sodium high in Budweiser Light?",
+      "a": "Low at 10 mg per 12 oz serving."
+    }
+  ]
+}

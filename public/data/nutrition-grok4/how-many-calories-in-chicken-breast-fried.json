@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in chicken breast fried",
+  "title": "How Many Calories in Fried Chicken Breast?",
+  "meta_description": "Discover how many calories in chicken breast fried per 100 g, including protein, fat, carbs, and nutrition breakdowns with tweaks and FAQs.",
+  "slug": "how-many-calories-in-chicken-breast-fried",
+  "h1": "How Many Calories in Fried Chicken Breast?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "fried chicken breast"
+  },
+  "assumptions": "Skinless, boneless chicken breast, breaded and deep-fried in vegetable oil; standard portion without sauce.",
+  "disclaimer": "Nutrition varies by breading type, oil used, frying time, and portion size. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 260,
+    "text": "100 g of fried chicken breast contains about 260 kcal and 25 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 260,
+      "carbs_g": 10,
+      "fiber_g": 0.5,
+      "sugars_g": 0.5,
+      "protein_g": 25,
+      "fat_g": 15,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 80,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 260,
+    "carbs_g": 10,
+    "fiber_g": 0.5,
+    "sugars_g": 0.5,
+    "protein_g": 25,
+    "fat_g": 15,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 80,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.09
+  },
+  "tweaks": [
+    {
+      "label": "Air-fried instead of deep-fried (less oil)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Add 1 tbsp sauce per 100 g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 310
+    },
+    {
+      "label": "No breading (pan-fried only)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g fried chicken breast?",
+      "a": "Approximately 260 kcal per 100 g breaded and deep-fried."
+    },
+    {
+      "q": "Is fried chicken breast high in fat?",
+      "a": "Yes, about 15 g total fat per 100 g due to breading and oil absorption."
+    },
+    {
+      "q": "How does frying affect chicken breast calories?",
+      "a": "Frying adds calories from oil and breading, raising it from ~165 kcal (grilled) to ~260 kcal per 100 g."
+    },
+    {
+      "q": "What's the protein in fried chicken breast?",
+      "a": "Around 25 g protein per 100 g, similar to grilled but with added carbs from breading."
+    },
+    {
+      "q": "Can I reduce calories in fried chicken breast?",
+      "a": "Yes, opt for air-frying or skip breading to cut ~60-80 kcal per 100 g."
+    }
+  ]
+}

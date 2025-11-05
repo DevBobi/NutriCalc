@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in cornbread",
+  "title": "How Many Calories in Cornbread?",
+  "meta_description": "Learn how many calories in cornbread per slice, including carbs, protein, fat, and full nutrition facts for easy tracking.",
+  "slug": "how-many-calories-in-cornbread",
+  "h1": "How Many Calories in Cornbread?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "cornbread"
+  },
+  "assumptions": "Standard homemade cornbread; 1 slice ≈60 g; baked with cornmeal, flour, eggs, milk, and a bit of sugar; no added toppings.",
+  "disclaimer": "Nutrition varies by recipe, brand, portion size, and ingredients like added fats or sweeteners. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 188,
+    "text": "One slice of cornbread contains about 188 kcal and 31 g carbs."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 188,
+      "carbs_g": 31.2,
+      "fiber_g": 1.5,
+      "sugars_g": 3,
+      "protein_g": 3.9,
+      "fat_g": 5.4,
+      "sat_fat_g": 2.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 188,
+    "carbs_g": 31.2,
+    "fiber_g": 1.5,
+    "sugars_g": 3,
+    "protein_g": 3.9,
+    "fat_g": 5.4,
+    "sat_fat_g": 2.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.79
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per slice",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 224
+    },
+    {
+      "label": "Low-fat version (less oil in recipe)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 158
+    },
+    {
+      "label": "Sweet cornbread (extra sugar)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 208
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of cornbread?",
+      "a": "Approximately 188 kcal for a standard 60 g slice."
+    },
+    {
+      "q": "What are the carbs in cornbread?",
+      "a": "About 31 g carbs per slice, including 1.5 g fiber."
+    },
+    {
+      "q": "Is cornbread high in protein?",
+      "a": "No, around 3.9 g protein per slice; it's more carb-focused."
+    },
+    {
+      "q": "How does sodium in cornbread vary?",
+      "a": "Typically 300 mg per slice, but higher in store-bought with added salt."
+    },
+    {
+      "q": "Calories in cornbread vs. other breads?",
+      "a": "Similar to white bread at ~188 kcal per slice, but with more carbs from cornmeal."
+    }
+  ]
+}

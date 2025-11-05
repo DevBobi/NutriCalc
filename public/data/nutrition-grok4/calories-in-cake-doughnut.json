@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cake doughnut",
+  "title": "Calories in a Cake Doughnut",
+  "meta_description": "Discover calories in cake doughnut, including full nutrition breakdown per serving, macros, and variations for better dietary tracking.",
+  "slug": "calories-in-cake-doughnut",
+  "h1": "Calories in a Cake Doughnut",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "doughnut",
+    "item": "cake doughnut"
+  },
+  "assumptions": "Plain cake doughnut, standard size (~60 g), fried in vegetable oil, no filling or heavy glaze.",
+  "disclaimer": "Nutrition varies by brand, size, frying method, and toppings. Check labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 226,
+    "text": "A standard cake doughnut contains about 226 calories with 13 g fat and 25 g carbs."
+  },
+  "basis": {
+    "label": "per 1 cake doughnut",
+    "amount": 1,
+    "unit": "doughnut",
+    "nutrition": {
+      "calories_kcal": 226,
+      "carbs_g": 25,
+      "fiber_g": 0.7,
+      "sugars_g": 12,
+      "protein_g": 2.8,
+      "fat_g": 13,
+      "sat_fat_g": 3.3,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 20,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 226,
+    "carbs_g": 25,
+    "fiber_g": 0.7,
+    "sugars_g": 12,
+    "protein_g": 2.8,
+    "fat_g": 13,
+    "sat_fat_g": 3.3,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 20,
+    "sodium_mg": 200
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.95
+  },
+  "tweaks": [
+    {
+      "label": "Add chocolate glaze",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 276
+    },
+    {
+      "label": "Baked instead of fried",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 146
+    },
+    {
+      "label": "Add powdered sugar dusting",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 246
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cake doughnut?",
+      "a": "Approximately 226 calories for a plain cake doughnut."
+    },
+    {
+      "q": "Are cake doughnuts high in fat?",
+      "a": "Yes, about 13 g total fat per doughnut, mostly from frying oil."
+    },
+    {
+      "q": "What's the carb count in a cake doughnut?",
+      "a": "Around 25 g carbs, including 12 g sugars."
+    },
+    {
+      "q": "How does glazing affect calories in cake doughnut?",
+      "a": "Adds 30-50 kcal depending on type; chocolate glaze increases it more."
+    },
+    {
+      "q": "Is there fiber in cake doughnuts?",
+      "a": "Minimal, about 0.7 g per doughnut from flour."
+    }
+  ]
+}

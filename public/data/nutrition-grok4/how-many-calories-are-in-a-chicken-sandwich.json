@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a chicken sandwich",
+  "title": "How Many Calories Are in a Chicken Sandwich?",
+  "meta_description": "Discover how many calories are in a chicken sandwich, including full nutrition breakdown, protein, carbs, fat, and easy tweaks for variations.",
+  "slug": "how-many-calories-are-in-a-chicken-sandwich",
+  "h1": "How Many Calories Are in a Chicken Sandwich?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "chicken sandwich"
+  },
+  "assumptions": "Grilled chicken breast (100g), whole wheat bun, lettuce, tomato, 1 tsp light mayo; no cheese or fries.",
+  "disclaimer": "Nutrition varies by brand, recipe, portion size, and preparation method. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A standard grilled chicken sandwich provides about 350 kcal and 30 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 40,
+      "fiber_g": 5,
+      "sugars_g": 5,
+      "protein_g": 30,
+      "fat_g": 10,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 60,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 40,
+    "fiber_g": 5,
+    "sugars_g": 5,
+    "protein_g": 30,
+    "fat_g": 10,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 60,
+    "sodium_mg": 800
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 slice of cheese",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Fried chicken instead of grilled",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Use whole grain bun and skip mayo",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a grilled chicken sandwich?",
+      "a": "About 350 kcal for a standard grilled version with veggies and light mayo."
+    },
+    {
+      "q": "What is the protein content in a chicken sandwich?",
+      "a": "Typically 30 g of protein from the chicken breast."
+    },
+    {
+      "q": "Does a chicken sandwich have a lot of sodium?",
+      "a": "Yes, around 800 mg due to bread, chicken, and condiments—watch if on a low-sodium diet."
+    },
+    {
+      "q": "How do fast-food chicken sandwiches compare?",
+      "a": "They often have 400-600 kcal due to breading, frying, and sauces; grilled options are lower."
+    },
+    {
+      "q": "Can I make a lower-calorie chicken sandwich?",
+      "a": "Yes, use lettuce wrap instead of bun and skip mayo to reduce by ~100 kcal."
+    }
+  ]
+}

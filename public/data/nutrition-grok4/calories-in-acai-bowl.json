@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in acai bowl",
+  "title": "Calories in an Acai Bowl",
+  "meta_description": "Learn calories in acai bowl, typically around 500 kcal with breakdowns for carbs, protein, fat, plus tweaks and FAQs for variations.",
+  "slug": "calories-in-acai-bowl",
+  "h1": "Calories in an Acai Bowl",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "acai bowl"
+  },
+  "assumptions": "Standard serving: 100g frozen acai puree blended with banana and almond milk; topped with granola, strawberries, blueberries, coconut flakes, and a drizzle of honey.",
+  "disclaimer": "Nutrition varies by recipe, portion size, toppings, and brands; homemade or store-bought can differ significantly. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 500,
+    "text": "A typical acai bowl contains about 500 kcal, mostly from natural sugars in fruits and carbs in granola."
+  },
+  "basis": {
+    "label": "per 1 acai bowl",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 500,
+      "carbs_g": 70,
+      "fiber_g": 10,
+      "sugars_g": 40,
+      "protein_g": 8,
+      "fat_g": 20,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 500,
+    "carbs_g": 70,
+    "fiber_g": 10,
+    "sugars_g": 40,
+    "protein_g": 8,
+    "fat_g": 20,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 50
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.09
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 scoop protein powder (25g)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 600
+    },
+    {
+      "label": "Omit granola topping",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Use full-fat yogurt base instead of almond milk",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 580
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a typical acai bowl?",
+      "a": "Around 500 kcal for a standard serving with fruit and granola toppings."
+    },
+    {
+      "q": "Are acai bowls high in sugar?",
+      "a": "Yes, about 40g sugars per bowl from fruits and honey, though natural sources."
+    },
+    {
+      "q": "What's the protein content in an acai bowl?",
+      "a": "Typically 8g, but can increase with added nuts, seeds, or protein powder."
+    },
+    {
+      "q": "Can I make a low-calorie acai bowl?",
+      "a": "Yes, skip granola and use fewer toppings to reduce to ~300-400 kcal."
+    },
+    {
+      "q": "Do acai bowls have fiber?",
+      "a": "Yes, around 10g per bowl from berries, banana, and acai puree."
+    }
+  ]
+}

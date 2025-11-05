@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a twinkie",
+  "title": "Calories in a Twinkie",
+  "meta_description": "Discover calories in a Twinkie, including full nutrition breakdown like carbs, sugars, fat, protein, and quick tweaks for variations.",
+  "slug": "calories-in-a-twinkie",
+  "h1": "Calories in a Twinkie",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "twinkie",
+    "item": "twinkie"
+  },
+  "assumptions": "Standard Hostess Twinkie, cream-filled golden sponge cake, approximately 38 g serving size.",
+  "disclaimer": "Nutrition varies by brand, recipe changes, size, and expiration; always check packaging for the most accurate info.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "One Twinkie contains about 150 calories, mostly from carbs and added sugars."
+  },
+  "basis": {
+    "label": "per 1 Twinkie",
+    "amount": 1,
+    "unit": "twinkie",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 26,
+      "fiber_g": 0,
+      "sugars_g": 19,
+      "protein_g": 1,
+      "fat_g": 5,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 26,
+    "fiber_g": 0,
+    "sugars_g": 19,
+    "protein_g": 1,
+    "fat_g": 5,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate Twinkie variation (vs. golden)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Add 1 tbsp whipped cream topping",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 175
+    },
+    {
+      "label": "Half Twinkie (portion control)",
+      "delta_kcal_per_unit": -75,
+      "new_total_kcal": 75
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Twinkie?",
+      "a": "A standard Twinkie has about 150 calories."
+    },
+    {
+      "q": "What are the carbs in a Twinkie?",
+      "a": "Approximately 26 g of carbs, with 19 g from sugars and 0 g fiber."
+    },
+    {
+      "q": "Does a Twinkie have any protein?",
+      "a": "Only about 1 g of protein per Twinkie."
+    },
+    {
+      "q": "How much sodium is in a Twinkie?",
+      "a": "Around 200 mg of sodium per serving."
+    },
+    {
+      "q": "Are Twinkies high in fat?",
+      "a": "They contain 5 g total fat, including 2.5 g saturated fat, but no trans fat or cholesterol."
+    }
+  ]
+}

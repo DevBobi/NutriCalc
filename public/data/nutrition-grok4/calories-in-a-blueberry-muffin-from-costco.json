@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a blueberry muffin from costco",
+  "title": "Calories in a Costco Blueberry Muffin",
+  "meta_description": "Discover calories in a blueberry muffin from Costco—about 680 kcal per large muffin—plus full nutrition breakdown, macros, and tweaks for variations.",
+  "slug": "calories-in-a-blueberry-muffin-from-costco",
+  "h1": "Calories in a Costco Blueberry Muffin",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "muffin",
+    "item": "blueberry muffin from costco"
+  },
+  "assumptions": "Large Costco bakery blueberry muffin (~200 g), baked with flour, sugar, blueberries, eggs, oil/butter, no added toppings.",
+  "disclaimer": "Nutrition varies by batch, size, ingredients, and store location. Check Costco packaging or app for exact values when available.",
+  "quick_answer": {
+    "total_kcal": 680,
+    "text": "A Costco blueberry muffin contains about 680 kcal, with high carbs from sugar and flour."
+  },
+  "basis": {
+    "label": "per 1 muffin",
+    "amount": 1,
+    "unit": "muffin",
+    "nutrition": {
+      "calories_kcal": 680,
+      "carbs_g": 92,
+      "fiber_g": 2,
+      "sugars_g": 52,
+      "protein_g": 8,
+      "fat_g": 30,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 680,
+    "carbs_g": 92,
+    "fiber_g": 2,
+    "sugars_g": 52,
+    "protein_g": 8,
+    "fat_g": 30,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 80,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.85
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 pat of butter on top",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 716
+    },
+    {
+      "label": "Eat half the muffin (remove top)",
+      "delta_kcal_per_unit": -340,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Use low-sugar recipe variation",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 580
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a blueberry muffin from Costco?",
+      "a": "Approximately 680 kcal for one large muffin."
+    },
+    {
+      "q": "What are the carbs in a Costco blueberry muffin?",
+      "a": "About 92 g total carbs, including 52 g sugars and 2 g fiber."
+    },
+    {
+      "q": "Is a Costco blueberry muffin high in fat?",
+      "a": "Yes, around 30 g total fat per muffin, with 5 g saturated."
+    },
+    {
+      "q": "How much protein in a Costco blueberry muffin?",
+      "a": "Roughly 8 g protein per muffin."
+    },
+    {
+      "q": "Does size affect calories in Costco muffins?",
+      "a": "Yes, Costco's are oversized; smaller muffins may have 300-400 kcal."
+    }
+  ]
+}

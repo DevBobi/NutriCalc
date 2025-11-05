@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in large wendys fries",
+  "title": "Calories in Large Wendy's Fries",
+  "meta_description": "Discover calories in large Wendy's fries (470 kcal per serving), plus full nutrition breakdown including carbs, fat, sodium, and tweaks for variations.",
+  "slug": "calories-in-large-wendys-fries",
+  "h1": "Calories in Large Wendy's Fries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "large serving",
+    "item": "Wendy's fries"
+  },
+  "assumptions": "Wendy's Natural-Cut Fries, large size (approx. 170 g), fried as standard without modifications.",
+  "disclaimer": "Nutrition varies by location, preparation, and portion size. Based on Wendy's official data; check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 470,
+    "text": "A large serving of Wendy's fries provides 470 kcal, mainly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 large serving",
+    "amount": 1,
+    "unit": "large serving",
+    "nutrition": {
+      "calories_kcal": 470,
+      "carbs_g": 62,
+      "fiber_g": 6,
+      "sugars_g": 0,
+      "protein_g": 7,
+      "fat_g": 22,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 480
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 470,
+    "carbs_g": 62,
+    "fiber_g": 6,
+    "sugars_g": 0,
+    "protein_g": 7,
+    "fat_g": 22,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 480
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with fast-food menus.",
+  "equivalents": {
+    "megajoules": 1.97
+  },
+  "tweaks": [
+    {
+      "label": "Medium size instead of large",
+      "delta_kcal_per_unit": -170,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Add 1 packet ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 490
+    },
+    {
+      "label": "Baked approximation (no oil)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in large Wendy's fries?",
+      "a": "470 kcal per large serving."
+    },
+    {
+      "q": "What are the carbs in large Wendy's fries?",
+      "a": "62 g total carbs, including 6 g fiber and 0 g sugars."
+    },
+    {
+      "q": "How much fat and sodium in Wendy's large fries?",
+      "a": "22 g total fat (4 g saturated) and 480 mg sodium."
+    },
+    {
+      "q": "Are Wendy's fries gluten-free?",
+      "a": "No, they may contain gluten from shared fryers; check for allergies."
+    },
+    {
+      "q": "How does large compare to small Wendy's fries calories?",
+      "a": "Small is about 300 kcal; large adds ~170 kcal."
+    }
+  ]
+}

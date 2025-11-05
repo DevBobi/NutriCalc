@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in one pancake",
+  "title": "How Many Calories in One Pancake?",
+  "meta_description": "Learn how many calories in one pancake, plus full nutrition details like carbs, protein, fat, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-one-pancake",
+  "h1": "How Many Calories in One Pancake?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pancake",
+    "item": "pancake"
+  },
+  "assumptions": "Standard buttermilk pancake, about 4-inch diameter, made from basic flour mix, cooked with minimal oil, no toppings.",
+  "disclaimer": "Nutrition varies by recipe, size, ingredients, and cooking method. Check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "One standard pancake contains about 90 calories, mainly from carbs."
+  },
+  "basis": {
+    "label": "per 1 pancake",
+    "amount": 1,
+    "unit": "pancake",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 15,
+      "fiber_g": 0.5,
+      "sugars_g": 2,
+      "protein_g": 2,
+      "fat_g": 2,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 15,
+    "fiber_g": 0.5,
+    "sugars_g": 2,
+    "protein_g": 2,
+    "fat_g": 2,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp maple syrup",
+      "delta_kcal_per_unit": 52,
+      "new_total_kcal": 142
+    },
+    {
+      "label": "Use whole wheat flour instead",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Top with 1 tsp butter",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 124
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pancake without toppings?",
+      "a": "About 90 kcal for a standard 4-inch buttermilk pancake."
+    },
+    {
+      "q": "What are the carbs in one pancake?",
+      "a": "Roughly 15 g of carbohydrates, including 0.5 g fiber."
+    },
+    {
+      "q": "Does pancake size affect calories?",
+      "a": "Yes, larger pancakes (6-inch) can have 150+ kcal; smaller ones fewer."
+    },
+    {
+      "q": "Are pancakes high in protein?",
+      "a": "No, typically 2 g per pancake; add eggs or nuts for more."
+    },
+    {
+      "q": "How does cooking method change calories in one pancake?",
+      "a": "Fried in oil adds 20-50 kcal; baked versions are lower in fat."
+    }
+  ]
+}

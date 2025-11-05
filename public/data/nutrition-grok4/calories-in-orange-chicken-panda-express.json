@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in orange chicken panda express",
+  "title": "Calories in Panda Express Orange Chicken",
+  "meta_description": "Discover calories in orange chicken panda express per serving, including full nutrition breakdown, macros, sodium, and serving tweaks for better choices.",
+  "slug": "calories-in-orange-chicken-panda-express",
+  "h1": "Calories in Panda Express Orange Chicken",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "orange chicken panda express"
+  },
+  "assumptions": "Standard single serving (5.7 oz or 162 g) of breaded, fried chicken pieces in sweet orange sauce, as per Panda Express menu.",
+  "disclaimer": "Nutrition varies by portion size, preparation, location, and customizations; check Panda Express app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 490,
+    "text": "One serving of Panda Express orange chicken has 490 calories, with 14 g protein and 51 g carbs."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 490,
+      "carbs_g": 51,
+      "fiber_g": 2,
+      "sugars_g": 19,
+      "protein_g": 14,
+      "fat_g": 23,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 820
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 490,
+    "carbs_g": 51,
+    "fiber_g": 2,
+    "sugars_g": 19,
+    "protein_g": 14,
+    "fat_g": 23,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 820
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with restaurant info.",
+  "equivalents": {
+    "megajoules": 2.05
+  },
+  "tweaks": [
+    {
+      "label": "Request sauce on the side (use half)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Add steamed veggies (1/2 cup) as side",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 515
+    },
+    {
+      "label": "Opt for grilled chicken version if available",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 340
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of orange chicken panda express?",
+      "a": "490 calories per standard 5.7 oz serving."
+    },
+    {
+      "q": "What's the protein in panda express orange chicken?",
+      "a": "About 14 g protein per serving."
+    },
+    {
+      "q": "How much sodium is in orange chicken from panda express?",
+      "a": "820 mg sodium per serving, mostly from the sauce."
+    },
+    {
+      "q": "Are carbs high in panda express orange chicken?",
+      "a": "Yes, 51 g total carbs per serving, including 19 g sugars from the glaze."
+    },
+    {
+      "q": "Can I make orange chicken panda express lower calorie?",
+      "a": "Yes, use less sauce or choose grilled over fried to cut 100-150 kcal."
+    }
+  ]
+}

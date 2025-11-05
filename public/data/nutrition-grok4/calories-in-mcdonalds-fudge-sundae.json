@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mcdonalds fudge sundae",
+  "title": "Calories in McDonald's Fudge Sundae",
+  "meta_description": "Discover calories in mcdonalds fudge sundae, including full nutrition breakdown like carbs, protein, fat, and quick tweaks for variations.",
+  "slug": "calories-in-mcdonalds-fudge-sundae",
+  "h1": "Calories in McDonald's Fudge Sundae",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sundae",
+    "item": "McDonald's fudge sundae"
+  },
+  "assumptions": "Standard McDonald's hot fudge sundae as served in the US; includes vanilla soft serve, hot fudge topping, and whipped cream.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and customizations. Check McDonald's app or site for latest info.",
+  "quick_answer": {
+    "total_kcal": 330,
+    "text": "One McDonald's fudge sundae contains about 330 calories and 7 g protein."
+  },
+  "basis": {
+    "label": "per 1 sundae",
+    "amount": 1,
+    "unit": "sundae",
+    "nutrition": {
+      "calories_kcal": 330,
+      "carbs_g": 56,
+      "fiber_g": 1,
+      "sugars_g": 43,
+      "protein_g": 7,
+      "fat_g": 9,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 190
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 330,
+    "carbs_g": 56,
+    "fiber_g": 1,
+    "sugars_g": 43,
+    "protein_g": 7,
+    "fat_g": 9,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 190
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.38
+  },
+  "tweaks": [
+    {
+      "label": "Without hot fudge topping",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add chopped nuts topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Low-fat soft serve version",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a McDonald's fudge sundae?",
+      "a": "Approximately 330 calories for one standard serving."
+    },
+    {
+      "q": "What are the carbs in McDonald's fudge sundae?",
+      "a": "About 56 g total carbs, including 43 g sugars and 1 g fiber."
+    },
+    {
+      "q": "Is the McDonald's fudge sundae high in sugar?",
+      "a": "Yes, it has 43 g of sugars, mostly from the soft serve and fudge."
+    },
+    {
+      "q": "How much fat is in a McDonald's fudge sundae?",
+      "a": "9 g total fat, with 5 g saturated fat."
+    },
+    {
+      "q": "Does McDonald's fudge sundae have trans fat?",
+      "a": "0 g trans fat in the standard recipe."
+    }
+  ]
+}

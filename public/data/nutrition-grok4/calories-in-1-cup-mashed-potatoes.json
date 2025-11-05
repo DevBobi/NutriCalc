@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cup mashed potatoes",
+  "title": "Calories in 1 Cup Mashed Potatoes",
+  "meta_description": "Discover calories in 1 cup mashed potatoes, including carbs, protein, fat, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-1-cup-mashed-potatoes",
+  "h1": "Calories in 1 Cup Mashed Potatoes",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "mashed potatoes"
+  },
+  "assumptions": "Prepared with boiled russet potatoes, whole milk, butter, and salt; ~210 g per cup; no added cheese or gravy.",
+  "disclaimer": "Nutrition varies by potato type, milk/fat content, portion size, and cooking method. Check recipes or labels when available.",
+  "quick_answer": {
+    "total_kcal": 237,
+    "text": "1 cup of mashed potatoes provides ~237 kcal, mostly from carbs with some fat from butter."
+  },
+  "basis": {
+    "label": "per 1 cup (~210 g)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 237,
+      "carbs_g": 35,
+      "fiber_g": 3.2,
+      "sugars_g": 3,
+      "protein_g": 4,
+      "fat_g": 9,
+      "sat_fat_g": 5.6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 237,
+    "carbs_g": 35,
+    "fiber_g": 3.2,
+    "sugars_g": 3,
+    "protein_g": 4,
+    "fat_g": 9,
+    "sat_fat_g": 5.6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.99
+  },
+  "tweaks": [
+    {
+      "label": "Made without butter (use skim milk only)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 157
+    },
+    {
+      "label": "Add 1 tbsp sour cream per cup",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 262
+    },
+    {
+      "label": "Use sweet potatoes instead of russet",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 257
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup mashed potatoes?",
+      "a": "Approximately 237 kcal for a standard serving with milk and butter."
+    },
+    {
+      "q": "What are the carbs in 1 cup mashed potatoes?",
+      "a": "About 35 g of carbs, including 3.2 g fiber and 3 g sugars."
+    },
+    {
+      "q": "Are mashed potatoes high in protein?",
+      "a": "No, only ~4 g protein per cup; they're mostly carb-based."
+    },
+    {
+      "q": "How does preparation affect calories in mashed potatoes?",
+      "a": "Adding more butter or cream increases calories; low-fat versions reduce them by 50-100 kcal per cup."
+    },
+    {
+      "q": "What's the sodium in 1 cup mashed potatoes?",
+      "a": "~600 mg, mainly from added salt; unsalted versions are lower."
+    }
+  ]
+}

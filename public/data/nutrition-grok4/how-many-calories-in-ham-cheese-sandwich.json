@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in ham cheese sandwich",
+  "title": "How Many Calories in a Ham Cheese Sandwich?",
+  "meta_description": "Learn how many calories in ham cheese sandwich, with full nutrition breakdown including protein, fat, carbs, sodium, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-ham-cheese-sandwich",
+  "h1": "How Many Calories in a Ham Cheese Sandwich?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "ham cheese sandwich"
+  },
+  "assumptions": "2 slices white bread, 2 oz sliced deli ham, 1 oz cheddar cheese, 1 tsp mustard; assembled cold, no added mayo or veggies.",
+  "disclaimer": "Nutrition varies by bread type, ham/cheese brands, portion sizes, and additions like mayo or veggies. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A standard ham and cheese sandwich contains about 350 kcal, with 20 g protein and high sodium."
+  },
+  "basis": {
+    "label": "per 1 ham cheese sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 20,
+      "fat_g": 15,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 1000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 20,
+    "fat_g": 15,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 1000
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp mayonnaise",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "Use whole wheat bread instead of white",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Add sliced tomato and lettuce",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 360
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a ham cheese sandwich with mayo?",
+      "a": "Adding 1 tbsp mayo increases it to about 440 kcal."
+    },
+    {
+      "q": "What is the protein in a ham cheese sandwich?",
+      "a": "Approximately 20 g protein from the ham and cheese."
+    },
+    {
+      "q": "Is sodium high in ham cheese sandwiches?",
+      "a": "Yes, around 1000 mg due to processed ham and cheese."
+    },
+    {
+      "q": "How to lower calories in a ham cheese sandwich?",
+      "a": "Opt for low-fat cheese, turkey ham, or whole grain bread to reduce by 50-100 kcal."
+    },
+    {
+      "q": "Are carbs high in a ham cheese sandwich?",
+      "a": "About 30 g carbs, mostly from the bread; choose low-carb bread to cut this."
+    }
+  ]
+}

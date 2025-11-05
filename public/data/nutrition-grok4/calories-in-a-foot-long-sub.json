@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a foot long sub",
+  "title": "Calories in a Foot Long Sub",
+  "meta_description": "Discover calories in a foot long sub, including full nutrition breakdown, macros, sodium, and tips for lighter options in this detailed guide.",
+  "slug": "calories-in-a-foot-long-sub",
+  "h1": "Calories in a Foot Long Sub",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "foot long sub",
+    "item": "foot long sub"
+  },
+  "assumptions": "Standard 12-inch sub with turkey breast, provolone cheese, lettuce, tomato, onion, green pepper, cucumber, mayo, oil, vinegar, on white bread; no extras.",
+  "disclaimer": "Nutrition varies by chain, fillings, bread type, toppings, and portion size. Values are averages; check restaurant nutrition info for accuracy.",
+  "quick_answer": {
+    "total_kcal": 760,
+    "text": "A typical foot long sub has about 760 calories, with high sodium from bread and condiments."
+  },
+  "basis": {
+    "label": "per 1 foot long sub",
+    "amount": 1,
+    "unit": "foot long sub",
+    "nutrition": {
+      "calories_kcal": 760,
+      "carbs_g": 92,
+      "fiber_g": 5,
+      "sugars_g": 12,
+      "protein_g": 38,
+      "fat_g": 28,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 65,
+      "sodium_mg": 2260
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 760,
+    "carbs_g": 92,
+    "fiber_g": 5,
+    "sugars_g": 12,
+    "protein_g": 38,
+    "fat_g": 28,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 65,
+    "sodium_mg": 2260
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with restaurant menus.",
+  "equivalents": {
+    "megajoules": 3.18
+  },
+  "tweaks": [
+    {
+      "label": "Veggie version (no meat or cheese, extra veggies)",
+      "delta_kcal_per_unit": -320,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "Add bacon and extra cheese",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 910
+    },
+    {
+      "label": "Wheat bread instead of white",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 740
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a foot long sub from Subway?",
+      "a": "A standard turkey foot long sub is about 380-500 kcal; loaded versions reach 760+ kcal."
+    },
+    {
+      "q": "What are the macros for a foot long sub?",
+      "a": "Typically 92 g carbs, 38 g protein, 28 g fat, with 5 g fiber."
+    },
+    {
+      "q": "Why is sodium so high in a foot long sub?",
+      "a": "Bread, processed meats, cheese, and condiments contribute; often over 2000 mg per sub."
+    },
+    {
+      "q": "Calories in a foot long sub without mayo?",
+      "a": "Skipping mayo saves ~100 kcal, bringing total to around 660 kcal."
+    },
+    {
+      "q": "How does a foot long sub compare to a 6-inch?",
+      "a": "A 6-inch is roughly half, about 380 kcal for similar fillings."
+    }
+  ]
+}

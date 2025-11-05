@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chick fil a cobb salad",
+  "title": "Calories in Chick-fil-A Cobb Salad",
+  "meta_description": "Discover calories in Chick-fil-A Cobb salad, including full nutrition breakdown with protein, fat, carbs, and serving tweaks for your meal planning.",
+  "slug": "calories-in-chick-fil-a-cobb-salad",
+  "h1": "Calories in Chick-fil-A Cobb Salad",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "salad",
+    "item": "Chick-fil-A Cobb Salad"
+  },
+  "assumptions": "Standard serving with grilled chicken, includes mixed greens, corn, cheese, bacon, eggs, tomatoes, carrots; no dressing or croutons.",
+  "disclaimer": "Nutrition varies by location, customizations, portion size, and preparation; check Chick-fil-A app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 540,
+    "text": "One Chick-fil-A Cobb salad with grilled chicken has ~540 kcal and ~42 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "salad",
+    "nutrition": {
+      "calories_kcal": 540,
+      "carbs_g": 29,
+      "fiber_g": 7,
+      "sugars_g": 7,
+      "protein_g": 42,
+      "fat_g": 31,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 200,
+      "sodium_mg": 1440
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 540,
+    "carbs_g": 29,
+    "fiber_g": 7,
+    "sugars_g": 7,
+    "protein_g": 42,
+    "fat_g": 31,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 200,
+    "sodium_mg": 1440
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.26
+  },
+  "tweaks": [
+    {
+      "label": "Add Avocado Lime Ranch dressing",
+      "delta_kcal_per_unit": 310,
+      "new_total_kcal": 850
+    },
+    {
+      "label": "Swap to fried chicken nuggets",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 640
+    },
+    {
+      "label": "Remove bacon and cheese",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 420
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Chick-fil-A Cobb salad without dressing?",
+      "a": "About 540 kcal for the standard grilled chicken version."
+    },
+    {
+      "q": "What's the protein in Chick-fil-A Cobb salad?",
+      "a": "Approximately 42 g protein per serving with grilled chicken."
+    },
+    {
+      "q": "Does Chick-fil-A Cobb salad have a lot of sodium?",
+      "a": "Yes, around 1440 mg due to bacon, cheese, and dressing options."
+    },
+    {
+      "q": "Calories in Chick-fil-A Cobb salad with fried chicken?",
+      "a": "Roughly 640 kcal, about 100 kcal more than grilled."
+    },
+    {
+      "q": "Are there carbs in Chick-fil-A Cobb salad?",
+      "a": "Yes, about 29 g total carbs, including 7 g fiber from veggies and corn."
+    }
+  ]
+}

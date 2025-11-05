@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cooked cabbage",
+  "title": "Calories in Cooked Cabbage",
+  "meta_description": "Discover calories in cooked cabbage per 100 g, including carbs, protein, fiber, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "calories-in-cooked-cabbage",
+  "h1": "Calories in Cooked Cabbage",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "cooked cabbage"
+  },
+  "assumptions": "Boiled or steamed cabbage, drained, no added salt, fat, or seasonings.",
+  "disclaimer": "Nutrition varies by cabbage variety, cooking method, added ingredients, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 23,
+    "text": "100 g of cooked cabbage provides about 23 kcal and 2.2 g fiber."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 23,
+      "carbs_g": 5.5,
+      "fiber_g": 2.2,
+      "sugars_g": 2.9,
+      "protein_g": 1.3,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 12
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 23,
+    "carbs_g": 5.5,
+    "fiber_g": 2.2,
+    "sugars_g": 2.9,
+    "protein_g": 1.3,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 12
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Sautéed with 1 tsp butter per 100 g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 59
+    },
+    {
+      "label": "Stir-fried with 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 63
+    },
+    {
+      "label": "Raw cabbage (uncooked) per 100 g",
+      "delta_kcal_per_unit": -3,
+      "new_total_kcal": 20
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g cooked cabbage?",
+      "a": "Approximately 23 kcal for boiled or steamed cabbage without additions."
+    },
+    {
+      "q": "Is cooked cabbage low in carbs?",
+      "a": "Yes, about 5.5 g carbs per 100 g, with 2.2 g fiber."
+    },
+    {
+      "q": "Does cooking change cabbage calories?",
+      "a": "Slightly; cooked has ~23 kcal per 100 g vs. ~25 kcal raw, but methods like frying add calories."
+    },
+    {
+      "q": "What about protein in cooked cabbage?",
+      "a": "Roughly 1.3 g protein per 100 g, making it a low-protein veggie."
+    },
+    {
+      "q": "How does added butter affect calories in cooked cabbage?",
+      "a": "Adding 1 tsp butter per 100 g increases calories by ~36 to about 59 kcal."
+    }
+  ]
+}

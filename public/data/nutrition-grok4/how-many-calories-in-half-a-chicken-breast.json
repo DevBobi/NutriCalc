@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in half a chicken breast",
+  "title": "How Many Calories in Half a Chicken Breast?",
+  "meta_description": "Discover how many calories in half a chicken breast, including protein, fat, carbs, per-100g breakdown, and simple tweaks for your meal.",
+  "slug": "how-many-calories-in-half-a-chicken-breast",
+  "h1": "How Many Calories in Half a Chicken Breast?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 0.5,
+    "unit": "chicken breast",
+    "item": "chicken breast"
+  },
+  "assumptions": "Half of a standard 200g cooked, skinless, boneless chicken breast (i.e., 100g), roasted or grilled, no added oil or seasonings.",
+  "disclaimer": "Nutrition varies by chicken size, cut, cooking method, and added ingredients; check labels or sources for precision.",
+  "quick_answer": {
+    "total_kcal": 165,
+    "text": "Half a cooked, skinless chicken breast (about 100g) provides ~165 kcal and ~31 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 31,
+      "fat_g": 3.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 74
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 165,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 31,
+    "fat_g": 3.6,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 85,
+    "sodium_mg": 74
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.69
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 205
+    },
+    {
+      "label": "Skin-on preparation (vs. skinless)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 195
+    },
+    {
+      "label": "Breaded and fried (vs. plain grilled)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 265
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in half a chicken breast?",
+      "a": "About 165 kcal for half a 200g cooked, skinless breast (100g)."
+    },
+    {
+      "q": "How much protein in half a chicken breast?",
+      "a": "Approximately 31 g of protein."
+    },
+    {
+      "q": "Does cooking method affect calories in chicken breast?",
+      "a": "Yes—grilling or baking keeps it low; frying or adding oil increases calories significantly."
+    },
+    {
+      "q": "What about carbs in half a chicken breast?",
+      "a": "Plain chicken breast has 0 g carbs, making it ideal for low-carb diets."
+    },
+    {
+      "q": "How does chicken breast size impact calorie count?",
+      "a": "A larger breast means more calories per half; values assume a standard 200g whole breast."
+    }
+  ]
+}

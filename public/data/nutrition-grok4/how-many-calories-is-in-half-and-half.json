@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in half and half",
+  "title": "How Many Calories Are in Half and Half?",
+  "meta_description": "Discover how many calories is in half and half per tablespoon, including full nutrition breakdown, macros, and serving tips for coffee or recipes.",
+  "slug": "how-many-calories-is-in-half-and-half",
+  "h1": "How Many Calories Are in Half and Half?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tablespoon",
+    "item": "half and half"
+  },
+  "assumptions": "Standard half-and-half (equal parts milk and cream, ~10-18% fat); 1 tablespoon = 15 ml or ~15 g; no additives.",
+  "disclaimer": "Nutrition varies by brand, fat content, and processing; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 20,
+    "text": "One tablespoon of half-and-half contains about 20 calories and 0.4 g protein."
+  },
+  "basis": {
+    "label": "per 1 tablespoon",
+    "amount": 1,
+    "unit": "tablespoon",
+    "nutrition": {
+      "calories_kcal": 20,
+      "carbs_g": 0.6,
+      "fiber_g": 0,
+      "sugars_g": 0.6,
+      "protein_g": 0.4,
+      "fat_g": 1.7,
+      "sat_fat_g": 1.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 20,
+    "carbs_g": 0.6,
+    "fiber_g": 0,
+    "sugars_g": 0.6,
+    "protein_g": 0.4,
+    "fat_g": 1.7,
+    "sat_fat_g": 1.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 7
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat half-and-half (5-10% fat)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 15
+    },
+    {
+      "label": "Fat-free half-and-half substitute",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 5
+    },
+    {
+      "label": "Add to coffee with sugar (1 tsp per tbsp)",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 36
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in half and half per serving?",
+      "a": "About 20 kcal per 1 tablespoon serving."
+    },
+    {
+      "q": "Is half and half high in fat?",
+      "a": "Yes, 1.7 g total fat per tablespoon, mostly saturated (1.1 g)."
+    },
+    {
+      "q": "How does half and half compare to heavy cream calories?",
+      "a": "Half-and-half has fewer calories (~20 kcal/tbsp) than heavy cream (~50 kcal/tbsp)."
+    },
+    {
+      "q": "What's the carb count in half and half?",
+      "a": "Low at 0.6 g carbs per tablespoon, all from natural sugars."
+    },
+    {
+      "q": "Can I use half and half in recipes without many calories?",
+      "a": "Yes, but opt for low-fat versions to keep calories under 15 kcal per tablespoon."
+    }
+  ]
+}

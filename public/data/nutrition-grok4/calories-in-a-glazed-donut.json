@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a glazed donut",
+  "title": "Calories in a Glazed Donut",
+  "meta_description": "Discover calories in a glazed donut, including carbs, fat, protein, and full nutrition breakdown per serving with quick tweaks and FAQs.",
+  "slug": "calories-in-a-glazed-donut",
+  "h1": "Calories in a Glazed Donut",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "donut",
+    "item": "glazed donut"
+  },
+  "assumptions": "Standard yeast-raised glazed donut (~60 g), bakery-style with sugar glaze, no fillings or toppings.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 252,
+    "text": "A standard glazed donut provides ~252 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 glazed donut",
+    "amount": 1,
+    "unit": "donut",
+    "nutrition": {
+      "calories_kcal": 252,
+      "carbs_g": 27.7,
+      "fiber_g": 0.8,
+      "sugars_g": 15.2,
+      "protein_g": 3.4,
+      "fat_g": 14,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 0,
+      "sodium_mg": 183
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 252,
+    "carbs_g": 27.7,
+    "fiber_g": 0.8,
+    "sugars_g": 15.2,
+    "protein_g": 3.4,
+    "fat_g": 14,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 0,
+    "sodium_mg": 183
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add chocolate icing topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 302
+    },
+    {
+      "label": "Filled with custard (vs. plain)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 332
+    },
+    {
+      "label": "Baked version (less oil) vs. fried",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 192
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a glazed donut from Krispy Kreme?",
+      "a": "About 190-250 kcal depending on size; standard is ~252 kcal."
+    },
+    {
+      "q": "What are the carbs in a glazed donut?",
+      "a": "Roughly 28 g carbs, including 15 g sugars and 0.8 g fiber per donut."
+    },
+    {
+      "q": "Is a glazed donut high in fat?",
+      "a": "Yes, ~14 g total fat with 3.5 g saturated per serving."
+    },
+    {
+      "q": "How much protein in a glazed donut?",
+      "a": "Only about 3.4 g protein, making it low in this nutrient."
+    },
+    {
+      "q": "Do glazed donuts have trans fats?",
+      "a": "Minimal, around 0.1 g per donut in most commercial varieties."
+    }
+  ]
+}

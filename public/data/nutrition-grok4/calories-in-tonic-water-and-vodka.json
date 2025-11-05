@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in tonic water and vodka",
+  "title": "Calories in Tonic Water and Vodka",
+  "meta_description": "Discover calories in tonic water and vodka for a standard drink, including carbs, alcohol content, and nutrition tweaks for low-cal options.",
+  "slug": "calories-in-tonic-water-and-vodka",
+  "h1": "Calories in Tonic Water and Vodka",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "drink",
+    "item": "vodka tonic"
+  },
+  "assumptions": "Standard serving: 40 ml vodka (40% ABV), 200 ml regular tonic water, no ice, garnish, or added sugar.",
+  "disclaimer": "Nutrition varies by brand, pour size, tonic type (regular vs. diet), and mix ratios. Check labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 221,
+    "text": "A standard vodka tonic provides ~221 kcal, mostly from the tonic's sugars."
+  },
+  "basis": {
+    "label": "per 1 standard vodka tonic",
+    "amount": 1,
+    "unit": "drink",
+    "nutrition": {
+      "calories_kcal": 221,
+      "carbs_g": 30.4,
+      "fiber_g": 0,
+      "sugars_g": 30.4,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 221,
+    "carbs_g": 30.4,
+    "fiber_g": 0,
+    "sugars_g": 30.4,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 50
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Use diet tonic water instead",
+      "delta_kcal_per_unit": -124,
+      "new_total_kcal": 97
+    },
+    {
+      "label": "Add 1 oz more vodka (total 80 ml)",
+      "delta_kcal_per_unit": 97,
+      "new_total_kcal": 318
+    },
+    {
+      "label": "Use soda water instead of tonic",
+      "delta_kcal_per_unit": -124,
+      "new_total_kcal": 97
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a vodka tonic?",
+      "a": "About 221 kcal for 40 ml vodka and 200 ml regular tonic."
+    },
+    {
+      "q": "Are there carbs in tonic water and vodka?",
+      "a": "Yes, ~30 g carbs from tonic's sugars; vodka adds none."
+    },
+    {
+      "q": "Calories in diet vodka tonic?",
+      "a": "Around 97 kcal using diet tonic (zero-sugar version)."
+    },
+    {
+      "q": "Does vodka add calories to tonic water?",
+      "a": "Vodka contributes ~97 kcal from alcohol; tonic adds the rest."
+    },
+    {
+      "q": "How to reduce calories in tonic water and vodka?",
+      "a": "Opt for diet tonic, smaller pours, or club soda for ~97 kcal total."
+    }
+  ]
+}

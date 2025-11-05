@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in titos vodka",
+  "title": "Calories in Tito's Vodka",
+  "meta_description": "Learn calories in Tito's vodka per standard shot, including full nutrition facts like carbs, alcohol content, and serving tips for mixers.",
+  "slug": "calories-in-titos-vodka",
+  "h1": "Calories in Tito's Vodka",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "tito's vodka"
+  },
+  "assumptions": "Tito's Handmade Vodka, 80 proof (40% ABV), unflavored, standard 1.5 fl oz (44 ml) serving, no mixers.",
+  "disclaimer": "Nutrition varies by proof, brand, serving size, and mixers added. Check bottle labels for exact details.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "One 1.5 oz shot of Tito's vodka has about 97 calories from alcohol."
+  },
+  "basis": {
+    "label": "per 1 shot (1.5 fl oz)",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison; alcohol contributes all calories.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Vodka tonic (add 4 oz tonic water)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 147
+    },
+    {
+      "label": "With 1 oz orange juice mixer",
+      "delta_kcal_per_unit": 14,
+      "new_total_kcal": 111
+    },
+    {
+      "label": "Vodka soda (add soda water, zero sugar)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 97
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one shot of Tito's vodka?",
+      "a": "About 97 calories per 1.5 oz shot."
+    },
+    {
+      "q": "Does Tito's vodka have carbs or sugar?",
+      "a": "No carbs or sugars; all calories from alcohol."
+    },
+    {
+      "q": "Calories in Tito's vodka per 100 ml?",
+      "a": "Approximately 231 kcal per 100 ml."
+    },
+    {
+      "q": "Is Tito's vodka low-carb or keto-friendly?",
+      "a": "Yes, 0 g carbs per shot, making it suitable for low-carb diets."
+    },
+    {
+      "q": "How do mixers affect calories in Tito's vodka?",
+      "a": "Sugary mixers like tonic add 40–60 kcal; opt for soda water to keep it at 97 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a white castle burger",
+  "title": "How Many Calories in a White Castle Burger?",
+  "meta_description": "Discover how many calories are in a white castle burger, including full nutrition breakdown, macros, and variations for their classic slider.",
+  "slug": "how-many-calories-are-in-a-white-castle-burger",
+  "h1": "How Many Calories in a White Castle Burger?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "white castle burger"
+  },
+  "assumptions": "Standard Original Slider: small steamed beef patty, bun, diced onions; no cheese or extras unless specified.",
+  "disclaimer": "Nutrition varies by location, exact recipe, and customizations. Check White Castle's official site or app for latest values.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "A standard White Castle burger (Original Slider) has about 140 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 15,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 6,
+      "fat_g": 6,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 380
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 15,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 6,
+    "fat_g": 6,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 380
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Add cheese (Cheese Slider variation)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Double meat (Double Original Slider)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "No bun (just patty and onions)",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a white castle burger?",
+      "a": "About 140 kcal for the standard Original Slider."
+    },
+    {
+      "q": "What are the macros in a White Castle burger?",
+      "a": "Roughly 15 g carbs, 6 g protein, 6 g fat per burger."
+    },
+    {
+      "q": "Does a White Castle burger have trans fats?",
+      "a": "Typically 0 g trans fat in their standard sliders."
+    },
+    {
+      "q": "How much sodium in a White Castle burger?",
+      "a": "Around 380 mg per Original Slider, mostly from the bun and seasoning."
+    },
+    {
+      "q": "Are White Castle burgers lower calorie than other fast food?",
+      "a": "Yes, their small sliders are around 140 kcal vs. larger burgers at 250+ kcal."
+    }
+  ]
+}

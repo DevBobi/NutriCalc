@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 1 shrimp",
+  "title": "How Many Calories Are in 1 Shrimp?",
+  "meta_description": "Discover how many calories in 1 shrimp, including protein, fat, carbs, and full nutrition breakdown for a medium cooked shrimp.",
+  "slug": "how-many-calories-in-1-shrimp",
+  "h1": "How Many Calories Are in 1 Shrimp?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shrimp",
+    "item": "shrimp"
+  },
+  "assumptions": "Medium-sized shrimp (about 6 g), cooked (boiled or steamed), peeled, no added salt, butter, or sauce.",
+  "disclaimer": "Nutrition varies by shrimp size, species, cooking method, and added ingredients. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 6,
+    "text": "One medium cooked shrimp has about 6 kcal and 1.4 g protein."
+  },
+  "basis": {
+    "label": "per 1 medium cooked shrimp",
+    "amount": 1,
+    "unit": "shrimp",
+    "nutrition": {
+      "calories_kcal": 6,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 1.4,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 6,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 1.4,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 7
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.03
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter for sautéing",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Use large shrimp (about 10 g) instead of medium",
+      "delta_kcal_per_unit": 4,
+      "new_total_kcal": 10
+    },
+    {
+      "label": "Breaded and fried (adds batter)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 26
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 medium shrimp?",
+      "a": "Approximately 6 kcal for one medium cooked shrimp."
+    },
+    {
+      "q": "Is shrimp high in protein per piece?",
+      "a": "Yes, about 1.4 g protein per medium shrimp, low fat and carbs."
+    },
+    {
+      "q": "How does shrimp size affect calories?",
+      "a": "Larger shrimp have more calories; small ~4 kcal, jumbo ~15 kcal each."
+    },
+    {
+      "q": "Are there carbs in shrimp?",
+      "a": "Negligible carbs (0 g per medium shrimp); mostly protein."
+    },
+    {
+      "q": "What's the cholesterol in one shrimp?",
+      "a": "About 10 mg per medium cooked shrimp."
+    }
+  ]
+}

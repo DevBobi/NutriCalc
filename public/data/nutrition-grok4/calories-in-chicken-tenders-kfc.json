@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken tenders kfc",
+  "title": "Calories in KFC Chicken Tenders",
+  "meta_description": "Discover calories in chicken tenders KFC for a 3-piece serving, including protein, fat, carbs, sodium, and quick tweaks for your meal.",
+  "slug": "calories-in-chicken-tenders-kfc",
+  "h1": "Calories in KFC Chicken Tenders",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 3,
+    "unit": "tender",
+    "item": "KFC chicken tender"
+  },
+  "assumptions": "Breaded, fried KFC chicken tenders; standard 3-piece serving (~120 g total); no dipping sauce or sides included.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and frying method. Check KFC app or packaging for latest info.",
+  "quick_answer": {
+    "total_kcal": 300,
+    "text": "A 3-piece serving of KFC chicken tenders provides ~300 kcal and 28 g protein."
+  },
+  "basis": {
+    "label": "per 1 KFC chicken tender",
+    "amount": 1,
+    "unit": "tender",
+    "nutrition": {
+      "calories_kcal": 100,
+      "carbs_g": 7.7,
+      "fiber_g": 0.3,
+      "sugars_g": 0,
+      "protein_g": 9.3,
+      "fat_g": 5.3,
+      "sat_fat_g": 0.8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 22,
+      "sodium_mg": 413
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 300,
+    "carbs_g": 23.1,
+    "fiber_g": 0.9,
+    "sugars_g": 0,
+    "protein_g": 27.9,
+    "fat_g": 15.9,
+    "sat_fat_g": 2.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 66,
+    "sodium_mg": 1239
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with KFC's provided data.",
+  "equivalents": {
+    "megajoules": 1.26
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet of KFC honey mustard sauce",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Add 1 packet of KFC BBQ sauce",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Oven-baked homemade version (less oil)",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one KFC chicken tender?",
+      "a": "About 100 kcal per tender."
+    },
+    {
+      "q": "What is the protein in KFC chicken tenders?",
+      "a": "A 3-piece serving has ~28 g protein."
+    },
+    {
+      "q": "Are KFC chicken tenders high in sodium?",
+      "a": "Yes, ~1240 mg sodium in 3 tenders due to breading and seasoning."
+    },
+    {
+      "q": "How many carbs in chicken tenders KFC?",
+      "a": "Around 23 g carbs in a 3-piece serving, mostly from breading."
+    },
+    {
+      "q": "Do KFC chicken tenders have trans fat?",
+      "a": "Typically 0 g trans fat per serving."
+    }
+  ]
+}

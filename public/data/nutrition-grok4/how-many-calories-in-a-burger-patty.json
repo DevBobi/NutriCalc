@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a burger patty",
+  "title": "How Many Calories in a Burger Patty?",
+  "meta_description": "Discover how many calories in a burger patty, including protein, fat, carbs, full nutrition breakdown, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-burger-patty",
+  "h1": "How Many Calories in a Burger Patty?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "patty",
+    "item": "burger patty"
+  },
+  "assumptions": "Standard 4-oz (113 g) ground beef patty, 80/20 lean-to-fat ratio, grilled without added oil, no bun or toppings.",
+  "disclaimer": "Nutrition varies by meat type, fat content, cooking method, and size; check labels or use a tracker for precision.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "A standard grilled burger patty contains about 290 kcal and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 burger patty",
+    "amount": 1,
+    "unit": "patty",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 21,
+      "sat_fat_g": 8,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 85,
+      "sodium_mg": 75
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 21,
+    "sat_fat_g": 8,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 85,
+    "sodium_mg": 75
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Use lean 90/10 ground beef patty",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Add 1 slice American cheese",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Pan-fried with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 330
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a burger patty?",
+      "a": "About 290 kcal for a standard 4-oz 80/20 grilled beef patty."
+    },
+    {
+      "q": "What's the protein in a burger patty?",
+      "a": "Roughly 25 g protein per standard patty."
+    },
+    {
+      "q": "Does cooking method affect burger patty calories?",
+      "a": "Yes—grilling is lower than frying, which adds oil calories."
+    },
+    {
+      "q": "How does fat content change calories in a burger patty?",
+      "a": "Leaner patties (90/10) have ~190 kcal vs. 290 kcal for 80/20."
+    },
+    {
+      "q": "Are there carbs in a plain burger patty?",
+      "a": "No carbs, fiber, or sugars in a plain beef patty."
+    }
+  ]
+}

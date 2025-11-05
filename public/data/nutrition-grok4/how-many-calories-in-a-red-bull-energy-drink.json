@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a red bull energy drink",
+  "title": "How Many Calories in a Red Bull Energy Drink?",
+  "meta_description": "Discover how many calories in a Red Bull energy drink (standard 8.4 oz can), including carbs, sugars, sodium, and quick tweaks for variations like sugar-free.",
+  "slug": "how-many-calories-in-a-red-bull-energy-drink",
+  "h1": "How Many Calories in a Red Bull Energy Drink?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "red bull energy drink"
+  },
+  "assumptions": "Standard 8.4 fl oz (250 ml) original Red Bull can, unflavored, no additives.",
+  "disclaimer": "Nutrition varies by flavor, size, and brand formulations; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "A standard 8.4 oz Red Bull energy drink has 110 calories, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 can (250 ml)",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 27,
+      "fiber_g": 0,
+      "sugars_g": 27,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 105
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 27,
+    "fiber_g": 0,
+    "sugars_g": 27,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 105
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Switch to sugar-free Red Bull",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 10
+    },
+    {
+      "label": "Add 1 oz vodka (for a mixed drink)",
+      "delta_kcal_per_unit": 65,
+      "new_total_kcal": 175
+    },
+    {
+      "label": "Use low-sugar edition (e.g., Red Bull Light)",
+      "delta_kcal_per_unit": -55,
+      "new_total_kcal": 55
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a standard Red Bull?",
+      "a": "110 calories per 8.4 oz (250 ml) can."
+    },
+    {
+      "q": "Are there carbs in Red Bull energy drink?",
+      "a": "Yes, 27 g of carbs, all from sugars, per can."
+    },
+    {
+      "q": "How much sugar in a Red Bull?",
+      "a": "About 27 g of sugars per standard can."
+    },
+    {
+      "q": "Calories in sugar-free Red Bull?",
+      "a": "Only 10 calories per 8.4 oz can."
+    },
+    {
+      "q": "Does Red Bull have protein or fat?",
+      "a": "0 g protein and 0 g fat per can."
+    }
+  ]
+}

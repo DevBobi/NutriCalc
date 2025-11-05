@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in green seedless grapes",
+  "title": "Calories in Green Seedless Grapes",
+  "meta_description": "Discover calories in green seedless grapes per 100 g, including carbs, sugars, fiber, protein, and fat details for easy tracking.",
+  "slug": "calories-in-green-seedless-grapes",
+  "h1": "Calories in Green Seedless Grapes",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "green seedless grapes"
+  },
+  "assumptions": "Fresh, raw green seedless grapes; typical variety like Thompson; washed and ready to eat.",
+  "disclaimer": "Nutrition varies by variety, ripeness, growing conditions, and storage; check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 69,
+    "text": "100 g of green seedless grapes provides ~69 kcal, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 69,
+      "carbs_g": 18,
+      "fiber_g": 0.9,
+      "sugars_g": 16,
+      "protein_g": 0.7,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 69,
+    "carbs_g": 18,
+    "fiber_g": 0.9,
+    "sugars_g": 16,
+    "protein_g": 0.7,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "For 1 cup (about 151 g)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 104
+    },
+    {
+      "label": "Red seedless grapes (slightly sweeter variety)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 71
+    },
+    {
+      "label": "Frozen (no added sugar)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 69
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g green seedless grapes?",
+      "a": "Approximately 69 kcal per 100 g."
+    },
+    {
+      "q": "Are green seedless grapes low in sugar?",
+      "a": "They have about 16 g sugars per 100 g, mostly natural fructose."
+    },
+    {
+      "q": "What's the fiber content in green grapes?",
+      "a": "Around 0.9 g dietary fiber per 100 g, aiding digestion."
+    },
+    {
+      "q": "Do green seedless grapes have fat or cholesterol?",
+      "a": "Negligible fat (0.2 g) and 0 mg cholesterol per 100 g."
+    },
+    {
+      "q": "How do calories compare to red grapes?",
+      "a": "Similar; red varieties are about 70 kcal per 100 g."
+    }
+  ]
+}

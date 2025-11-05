@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in baba ganoush",
+  "title": "Calories in Baba Ganoush",
+  "meta_description": "Discover calories in baba ganoush per 100g serving, including fat, carbs, protein, and nutrition tweaks for this eggplant dip.",
+  "slug": "calories-in-baba-ganoush",
+  "h1": "Calories in Baba Ganoush",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "baba ganoush"
+  },
+  "assumptions": "Traditional recipe with roasted eggplant, tahini, olive oil, garlic, lemon juice, and salt; no added breads or extras.",
+  "disclaimer": "Nutrition varies by recipe, brand, oil amount, and ingredients; homemade versions differ from store-bought. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "100g of baba ganoush has about 150 kcal, mainly from healthy fats in olive oil and tahini."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 7,
+      "fiber_g": 3,
+      "sugars_g": 3,
+      "protein_g": 2,
+      "fat_g": 14,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 7,
+    "fiber_g": 3,
+    "sugars_g": 3,
+    "protein_g": 2,
+    "fat_g": 14,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 400
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Low-oil version (reduce olive oil by half)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Add 1 tbsp tahini per 100g",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Vegan, no tahini (use yogurt substitute)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 130
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of baba ganoush?",
+      "a": "Approximately 150 kcal per 100g."
+    },
+    {
+      "q": "Is baba ganoush high in fat?",
+      "a": "Yes, about 14g fat per 100g, mostly from olive oil and tahini—healthy unsaturated fats."
+    },
+    {
+      "q": "What's the protein in baba ganoush?",
+      "a": "Around 2g protein per 100g, mainly from tahini and eggplant."
+    },
+    {
+      "q": "Does baba ganoush have carbs or fiber?",
+      "a": "7g carbs and 3g fiber per 100g, from eggplant and veggies."
+    },
+    {
+      "q": "How to lower calories in baba ganoush?",
+      "a": "Reduce olive oil or tahini; opt for baked eggplant without added fats."
+    }
+  ]
+}

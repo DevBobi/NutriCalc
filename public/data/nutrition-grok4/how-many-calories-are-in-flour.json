@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in flour",
+  "title": "How Many Calories Are in Flour?",
+  "meta_description": "Discover how many calories are in flour per 100 g serving, including carbs, protein, fat, and other nutrients for all-purpose flour, with tweaks and FAQs.",
+  "slug": "how-many-calories-are-in-flour",
+  "h1": "How Many Calories Are in Flour?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "flour"
+  },
+  "assumptions": "All-purpose white flour, unenriched, sifted; standard dry measurement.",
+  "disclaimer": "Nutrition varies by type (e.g., whole wheat, bleached), brand, and enrichment; check labels for specifics.",
+  "quick_answer": {
+    "total_kcal": 364,
+    "text": "100 g of all-purpose flour contains ~364 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 364,
+      "carbs_g": 76.3,
+      "fiber_g": 2.7,
+      "sugars_g": 0.3,
+      "protein_g": 10.3,
+      "fat_g": 1,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 364,
+    "carbs_g": 76.3,
+    "fiber_g": 2.7,
+    "sugars_g": 0.3,
+    "protein_g": 10.3,
+    "fat_g": 1,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.52
+  },
+  "tweaks": [
+    {
+      "label": "Switch to whole wheat flour",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 374
+    },
+    {
+      "label": "Use self-rising flour (with added leavening)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 369
+    },
+    {
+      "label": "Bleached vs. unbleached all-purpose",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 364
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in flour per 100 g?",
+      "a": "About 364 kcal for all-purpose flour."
+    },
+    {
+      "q": "What are the carbs in flour?",
+      "a": "Roughly 76 g carbs per 100 g, with 2.7 g fiber."
+    },
+    {
+      "q": "Is flour high in protein?",
+      "a": "Moderate at ~10 g protein per 100 g; bread flour has more."
+    },
+    {
+      "q": "How does whole wheat flour compare calorie-wise?",
+      "a": "Slightly higher at ~374 kcal per 100 g, with more fiber."
+    },
+    {
+      "q": "Are there calories in different types of flour?",
+      "a": "Yes—almond flour is ~579 kcal per 100 g due to higher fat."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a rib steak",
+  "title": "How Many Calories in a Rib Steak?",
+  "meta_description": "Discover how many calories in a rib steak, including protein, fat, full nutrition breakdown per 100 g, and serving tweaks for your diet.",
+  "slug": "how-many-calories-in-a-rib-steak",
+  "h1": "How Many Calories in a Rib Steak?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "steak",
+    "item": "rib steak"
+  },
+  "assumptions": "Grilled ribeye steak (choice grade), moderately trimmed fat, average serving size 200 g, no added sauces or marinades.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, grade, and portion size. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 582,
+    "text": "One 200 g grilled rib steak provides ~582 kcal and ~48 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 291,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24.2,
+      "fat_g": 21.8,
+      "sat_fat_g": 9.1,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 81,
+      "sodium_mg": 54
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 582,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 48.4,
+    "fat_g": 43.6,
+    "sat_fat_g": 18.2,
+    "trans_fat_g": 2,
+    "cholesterol_mg": 162,
+    "sodium_mg": 108
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.43
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 622
+    },
+    {
+      "label": "Fully trimmed lean version (less fat)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 482
+    },
+    {
+      "label": "Pan-seared with 1 tsp oil",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 627
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a rib steak per 100 g?",
+      "a": "About 291 kcal per 100 g grilled ribeye steak."
+    },
+    {
+      "q": "What's the protein in one rib steak?",
+      "a": "Roughly 48 g protein in a 200 g serving."
+    },
+    {
+      "q": "Does cooking method affect calories in rib steak?",
+      "a": "Yes—grilling is lower fat than frying; added oils increase calories."
+    },
+    {
+      "q": "How much fat is in a rib steak?",
+      "a": "About 22 g total fat per 100 g, with 9 g saturated."
+    },
+    {
+      "q": "Are rib steaks high in cholesterol?",
+      "a": "Yes, ~81 mg per 100 g; a 200 g steak has ~162 mg."
+    }
+  ]
+}

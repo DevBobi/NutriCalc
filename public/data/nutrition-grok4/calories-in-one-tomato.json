@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in one tomato",
+  "title": "Calories in One Tomato",
+  "meta_description": "Discover calories in one tomato, including carbs, fiber, protein, fat, and full nutrition breakdown per medium-sized raw tomato.",
+  "slug": "calories-in-one-tomato",
+  "h1": "Calories in One Tomato",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tomato",
+    "item": "tomato"
+  },
+  "assumptions": "Medium-sized raw tomato (~123 g), red, ripe; no added seasonings or dressings.",
+  "disclaimer": "Nutrition varies by tomato variety, size, ripeness, and growing conditions. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 22,
+    "text": "One medium tomato provides about 22 kcal, mostly from carbs with good fiber content."
+  },
+  "basis": {
+    "label": "per 1 medium tomato",
+    "amount": 1,
+    "unit": "tomato",
+    "nutrition": {
+      "calories_kcal": 22,
+      "carbs_g": 4.8,
+      "fiber_g": 1.5,
+      "sugars_g": 3.2,
+      "protein_g": 1.1,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 22,
+    "carbs_g": 4.8,
+    "fiber_g": 1.5,
+    "sugars_g": 3.2,
+    "protein_g": 1.1,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.09
+  },
+  "tweaks": [
+    {
+      "label": "Drizzled with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 62
+    },
+    {
+      "label": "Roasted (slight moisture loss)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 24
+    },
+    {
+      "label": "Cherry tomato (smaller, ~17 g)",
+      "delta_kcal_per_unit": -18,
+      "new_total_kcal": 4
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one tomato?",
+      "a": "About 22 kcal for one medium raw tomato."
+    },
+    {
+      "q": "What are the carbs in one tomato?",
+      "a": "Approximately 4.8 g carbs, including 1.5 g fiber and 3.2 g sugars."
+    },
+    {
+      "q": "Is one tomato low in fat?",
+      "a": "Yes, only 0.2 g total fat, with 0 g saturated fat."
+    },
+    {
+      "q": "How much protein in one tomato?",
+      "a": "Roughly 1.1 g protein per medium tomato."
+    },
+    {
+      "q": "Does tomato size affect calories?",
+      "a": "Yes; small tomatoes have fewer calories (~4 kcal), large ones more (~30+ kcal)."
+    }
+  ]
+}

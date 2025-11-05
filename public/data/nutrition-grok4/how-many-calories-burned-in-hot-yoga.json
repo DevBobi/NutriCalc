@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories burned in hot yoga",
+  "title": "How Many Calories Burned in Hot Yoga?",
+  "meta_description": "Discover how many calories burned in hot yoga per session, including factors like duration, intensity, body weight, and tips for accurate tracking.",
+  "slug": "how-many-calories-burned-in-hot-yoga",
+  "h1": "How Many Calories Burned in Hot Yoga?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "session",
+    "item": "hot yoga"
+  },
+  "assumptions": "60-minute session at moderate intensity for a 70 kg (155 lb) person; Bikram-style in a heated room (105°F/40°C); no prior experience adjustment.",
+  "disclaimer": "Calories burned vary by body weight, fitness level, session length, humidity, and individual metabolism. Use a fitness tracker for personalized estimates.",
+  "quick_answer": {
+    "total_kcal": 400,
+    "text": "A typical 60-minute hot yoga session burns about 400 calories for an average adult."
+  },
+  "basis": {
+    "label": "per 60-minute session",
+    "amount": 1,
+    "unit": "session",
+    "nutrition": {
+      "calories_kcal": 400,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 400,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values focus on energy expenditure; macronutrients are not applicable for exercise tracking.",
+  "equivalents": {
+    "megajoules": 1.67
+  },
+  "tweaks": [
+    {
+      "label": "For a 90 kg (200 lb) person (higher weight increases burn)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "90-minute session (longer duration)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 600
+    },
+    {
+      "label": "Beginner level (lower intensity)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories burned in hot yoga for 60 minutes?",
+      "a": "Approximately 400 kcal for a 70 kg person at moderate intensity."
+    },
+    {
+      "q": "Does body weight affect calories burned in hot yoga?",
+      "a": "Yes—higher weight burns more; e.g., 90 kg person may burn 500 kcal per session."
+    },
+    {
+      "q": "Is hot yoga better for calorie burn than regular yoga?",
+      "a": "Yes, the heat increases heart rate and sweat, boosting burn by 20-30% over standard yoga."
+    },
+    {
+      "q": "How to calculate personal calories burned in hot yoga?",
+      "a": "Use MET value (about 5-7 for hot yoga) × weight in kg × duration in hours; apps like MyFitnessPal help."
+    },
+    {
+      "q": "What factors increase calories burned in hot yoga?",
+      "a": "Longer sessions, higher intensity poses, greater body weight, and experience level all contribute."
+    }
+  ]
+}

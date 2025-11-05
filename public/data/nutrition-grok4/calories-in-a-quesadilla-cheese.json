@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a quesadilla cheese",
+  "title": "Calories in a Cheese Quesadilla",
+  "meta_description": "Learn calories in a quesadilla cheese with full nutrition facts, macros, protein, fat, and easy tweaks for variations under 160 characters.",
+  "slug": "calories-in-a-quesadilla-cheese",
+  "h1": "Calories in a Cheese Quesadilla",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "quesadilla",
+    "item": "cheese quesadilla"
+  },
+  "assumptions": "Two 8-inch flour tortillas, 1/4 cup shredded cheddar cheese, cooked on dry skillet; no added oil, salsa, or fillings.",
+  "disclaimer": "Nutrition varies by tortilla size, cheese type, brand, cooking method, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "A cheese quesadilla provides about 450 kcal and 15 g protein."
+  },
+  "basis": {
+    "label": "per 1 cheese quesadilla",
+    "amount": 1,
+    "unit": "quesadilla",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 50,
+      "fiber_g": 3,
+      "sugars_g": 1,
+      "protein_g": 15,
+      "fat_g": 20,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 50,
+    "fiber_g": 3,
+    "sugars_g": 1,
+    "protein_g": 15,
+    "fat_g": 20,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Add 2 oz grilled chicken",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 550
+    },
+    {
+      "label": "Use whole wheat tortillas instead",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Add 1 tbsp sour cream",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 475
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cheese quesadilla?",
+      "a": "Approximately 450 kcal for a basic version with two flour tortillas and cheddar cheese."
+    },
+    {
+      "q": "What are the macros for a quesadilla cheese?",
+      "a": "About 50 g carbs, 15 g protein, 20 g fat, with 3 g fiber and 800 mg sodium."
+    },
+    {
+      "q": "Does cooking oil add calories to a cheese quesadilla?",
+      "a": "Yes, 1 tsp oil adds ~40 kcal; dry cooking keeps it lower."
+    },
+    {
+      "q": "How much protein in a quesadilla cheese?",
+      "a": "Around 15 g from the cheese; adding meat boosts it significantly."
+    },
+    {
+      "q": "Are cheese quesadillas high in sodium?",
+      "a": "Yes, typically 800 mg or more due to cheese and tortillas; opt for low-sodium versions."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a tuna footlong from subway",
+  "title": "Calories in a Subway Tuna Footlong",
+  "meta_description": "Discover calories in a tuna footlong from subway, including full nutrition breakdown, macros, sodium, and easy tweaks for customization.",
+  "slug": "calories-in-a-tuna-footlong-from-subway",
+  "h1": "Calories in a Subway Tuna Footlong",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "footlong",
+    "item": "tuna sandwich from Subway"
+  },
+  "assumptions": "Standard Subway Tuna Footlong: tuna salad with mayo on 6-grain wheat bread, includes lettuce, tomatoes, onions, green peppers, cucumbers, olives; no extra cheese or sauces.",
+  "disclaimer": "Nutrition varies by location, customizations, bread type, portion sizes, and preparation; check Subway's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 830,
+    "text": "A standard Subway Tuna Footlong contains about 830 calories and 32 g protein."
+  },
+  "basis": {
+    "label": "per 1 footlong",
+    "amount": 1,
+    "unit": "footlong",
+    "nutrition": {
+      "calories_kcal": 830,
+      "carbs_g": 80,
+      "fiber_g": 10,
+      "sugars_g": 10,
+      "protein_g": 32,
+      "fat_g": 42,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 50,
+      "sodium_mg": 1620
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 830,
+    "carbs_g": 80,
+    "fiber_g": 10,
+    "sugars_g": 10,
+    "protein_g": 32,
+    "fat_g": 42,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 50,
+    "sodium_mg": 1620
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.47
+  },
+  "tweaks": [
+    {
+      "label": "No mayo (light tuna only)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 630
+    },
+    {
+      "label": "Add provolone cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 880
+    },
+    {
+      "label": "Switch to Italian herb & cheese bread",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 880
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a tuna footlong from Subway?",
+      "a": "Approximately 830 calories for a standard version."
+    },
+    {
+      "q": "What's the protein in a Subway tuna footlong?",
+      "a": "About 32 g of protein per footlong."
+    },
+    {
+      "q": "How much sodium is in a Subway tuna footlong?",
+      "a": "Around 1620 mg, mostly from tuna salad and bread."
+    },
+    {
+      "q": "Can I reduce calories in a tuna footlong from Subway?",
+      "a": "Yes, skip mayo to cut ~200 kcal; opt for wheat bread and extra veggies."
+    },
+    {
+      "q": "Is a Subway tuna footlong low-carb?",
+      "a": "No, it has ~80 g carbs mainly from bread; consider a protein bowl alternative."
+    }
+  ]
+}

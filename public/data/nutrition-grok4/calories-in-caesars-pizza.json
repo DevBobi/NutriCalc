@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in caesars pizza",
+  "title": "Calories in Caesar's Pizza",
+  "meta_description": "Discover calories in Caesar's pizza for a standard medium size, including full nutrition breakdown, macros, and variations for better meal planning.",
+  "slug": "calories-in-caesars-pizza",
+  "h1": "Calories in Caesar's Pizza",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pizza",
+    "item": "Caesar's pizza"
+  },
+  "assumptions": "Medium 12-inch cheese pizza (8 slices), thin crust, mozzarella cheese, tomato sauce; based on typical chain estimates for Caesar's Pizza.",
+  "disclaimer": "Nutrition varies by size, crust type, toppings, brand recipe, and preparation. Check Caesar's Pizza menu or labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 2280,
+    "text": "A medium Caesar's cheese pizza contains about 2280 calories and 96 g protein."
+  },
+  "basis": {
+    "label": "per 1 medium pizza",
+    "amount": 1,
+    "unit": "pizza",
+    "nutrition": {
+      "calories_kcal": 2280,
+      "carbs_g": 288,
+      "fiber_g": 16,
+      "sugars_g": 40,
+      "protein_g": 96,
+      "fat_g": 80,
+      "sat_fat_g": 40,
+      "trans_fat_g": 1.6,
+      "cholesterol_mg": 160,
+      "sodium_mg": 5120
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 2280,
+    "carbs_g": 288,
+    "fiber_g": 16,
+    "sugars_g": 40,
+    "protein_g": 96,
+    "fat_g": 80,
+    "sat_fat_g": 40,
+    "trans_fat_g": 1.6,
+    "cholesterol_mg": 160,
+    "sodium_mg": 5120
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 9.54
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni topping",
+      "delta_kcal_per_unit": 320,
+      "new_total_kcal": 2600
+    },
+    {
+      "label": "Switch to thin crust",
+      "delta_kcal_per_unit": -360,
+      "new_total_kcal": 1920
+    },
+    {
+      "label": "Vegetarian with extra veggies",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 2360
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Caesar's pizza?",
+      "a": "Approximately 2280 calories for a medium cheese pizza."
+    },
+    {
+      "q": "What are the macros in Caesar's pizza?",
+      "a": "About 288 g carbs, 96 g protein, 80 g fat per medium pizza."
+    },
+    {
+      "q": "Calories per slice of Caesar's pizza?",
+      "a": "Roughly 285 calories per slice (1/8 of medium pizza)."
+    },
+    {
+      "q": "Does crust type affect calories in Caesar's pizza?",
+      "a": "Yes, thin crust reduces by ~360 kcal; deep dish adds ~400 kcal."
+    },
+    {
+      "q": "How much sodium in a Caesar's pizza?",
+      "a": "Around 5120 mg for a medium cheese pizza—high due to cheese and sauce."
+    }
+  ]
+}

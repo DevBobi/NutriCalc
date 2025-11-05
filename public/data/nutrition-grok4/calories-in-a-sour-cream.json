@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a sour cream",
+  "title": "Calories in a Serving of Sour Cream",
+  "meta_description": "Discover calories in a sour cream serving (1 tbsp), including full nutrition breakdown, macros, and variations for your diet tracking.",
+  "slug": "calories-in-a-sour-cream",
+  "h1": "Calories in a Serving of Sour Cream",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "sour cream"
+  },
+  "assumptions": "Full-fat sour cream, standard serving of 1 tablespoon (about 12 g), plain without additives.",
+  "disclaimer": "Nutrition varies by brand, fat content, and portion size; always check product labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 24,
+    "text": "One tablespoon of sour cream provides about 24 kcal, mostly from fat."
+  },
+  "basis": {
+    "label": "per 1 tbsp",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 24,
+      "carbs_g": 0.5,
+      "fiber_g": 0,
+      "sugars_g": 0.4,
+      "protein_g": 0.3,
+      "fat_g": 2.4,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 8,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 24,
+    "carbs_g": 0.5,
+    "fiber_g": 0,
+    "sugars_g": 0.4,
+    "protein_g": 0.3,
+    "fat_g": 2.4,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 8,
+    "sodium_mg": 10
+  },
+  "label_note": "Values align with standard Nutrition Facts panels for quick reference and comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat sour cream instead",
+      "delta_kcal_per_unit": -12,
+      "new_total_kcal": 12
+    },
+    {
+      "label": "Add 1 tsp chives and salt",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 26
+    },
+    {
+      "label": "Fat-free version",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 4
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a sour cream tablespoon?",
+      "a": "About 24 kcal for 1 tbsp of full-fat sour cream."
+    },
+    {
+      "q": "Is sour cream high in fat?",
+      "a": "Yes, 1 tbsp has 2.4 g total fat, including 1.5 g saturated."
+    },
+    {
+      "q": "Calories in low-fat sour cream?",
+      "a": "Typically 12 kcal per tbsp, half the fat of full-fat."
+    },
+    {
+      "q": "Does sour cream have carbs?",
+      "a": "Minimal, about 0.5 g per tbsp, mostly from lactose."
+    },
+    {
+      "q": "How much protein in a serving of sour cream?",
+      "a": "Very little, around 0.3 g per 1 tbsp."
+    }
+  ]
+}

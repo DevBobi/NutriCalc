@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cup of jasmine rice",
+  "title": "Calories in 1 Cup of Jasmine Rice",
+  "meta_description": "Discover calories in 1 cup of jasmine rice, including carbs, protein, fat, full nutrition breakdown, and preparation tweaks for your meals.",
+  "slug": "calories-in-1-cup-of-jasmine-rice",
+  "h1": "Calories in 1 Cup of Jasmine Rice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "jasmine rice"
+  },
+  "assumptions": "Cooked white jasmine rice, long-grain, steamed or boiled in water, no added salt, oil, or seasonings; ~158 g per cup.",
+  "disclaimer": "Nutrition varies by brand, cooking method, water absorption, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 205,
+    "text": "One cup of cooked jasmine rice provides ~205 kcal and 44.5 g carbs."
+  },
+  "basis": {
+    "label": "per 1 cup cooked",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 205,
+      "carbs_g": 44.5,
+      "fiber_g": 0.6,
+      "sugars_g": 0.1,
+      "protein_g": 4.3,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 205,
+    "carbs_g": 44.5,
+    "fiber_g": 0.6,
+    "sugars_g": 0.1,
+    "protein_g": 4.3,
+    "fat_g": 0.4,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.86
+  },
+  "tweaks": [
+    {
+      "label": "Cooked with 1 tsp oil added",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 245
+    },
+    {
+      "label": "Use brown jasmine rice instead",
+      "delta_kcal_per_unit": 13,
+      "new_total_kcal": 218
+    },
+    {
+      "label": "Add 1 tbsp soy sauce",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 215
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup cooked jasmine rice?",
+      "a": "About 205 kcal for 1 cup of plain cooked jasmine rice."
+    },
+    {
+      "q": "What are the carbs in 1 cup of jasmine rice?",
+      "a": "Approximately 44.5 g carbs, with 0.6 g fiber and minimal sugars."
+    },
+    {
+      "q": "Is jasmine rice high in protein?",
+      "a": "No, it has about 4.3 g protein per cup; it's mostly carbs."
+    },
+    {
+      "q": "Calories in uncooked vs cooked jasmine rice?",
+      "a": "Uncooked is denser: ~680 kcal per cup dry, but expands when cooked."
+    },
+    {
+      "q": "How does cooking method affect calories in jasmine rice?",
+      "a": "Steaming or boiling keeps it low-cal; frying or adding oil increases by 40+ kcal per tsp."
+    }
+  ]
+}

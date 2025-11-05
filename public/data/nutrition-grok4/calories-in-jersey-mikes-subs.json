@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in jersey mikes subs",
+  "title": "Calories in Jersey Mike's Subs",
+  "meta_description": "Discover calories in Jersey Mike's subs for popular options, including macros, sodium, and tweaks for mini or giant sizes to fit your diet.",
+  "slug": "calories-in-jersey-mikes-subs",
+  "h1": "Calories in Jersey Mike's Subs",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sub",
+    "item": "Jersey Mike's sub"
+  },
+  "assumptions": "Regular (7-inch) size, standard white bread, average fillings like turkey/provolone with lettuce, tomato, onion, oil/vinegar; no extra cheese or mayo.",
+  "disclaimer": "Nutrition varies by sub type, size, customizations, bread choice, and location; values based on averages. Check Jersey Mike's app or site for exacts.",
+  "quick_answer": {
+    "total_kcal": 680,
+    "text": "A regular Jersey Mike's sub typically has ~680 kcal, high in protein and sodium."
+  },
+  "basis": {
+    "label": "per 1 regular sub",
+    "amount": 1,
+    "unit": "sub",
+    "nutrition": {
+      "calories_kcal": 680,
+      "carbs_g": 72,
+      "fiber_g": 4,
+      "sugars_g": 8,
+      "protein_g": 38,
+      "fat_g": 28,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 75,
+      "sodium_mg": 1850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 680,
+    "carbs_g": 72,
+    "fiber_g": 4,
+    "sugars_g": 8,
+    "protein_g": 38,
+    "fat_g": 28,
+    "sat_fat_g": 9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 75,
+    "sodium_mg": 1850
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.85
+  },
+  "tweaks": [
+    {
+      "label": "Switch to mini (5-inch) size",
+      "delta_kcal_per_unit": -340,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Add extra provolone cheese",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 780
+    },
+    {
+      "label": "Choose wheat bread instead of white",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 660
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a regular Jersey Mike's sub?",
+      "a": "About 680 kcal for a standard regular sub with typical fillings."
+    },
+    {
+      "q": "What are the macros for Jersey Mike's subs?",
+      "a": "Typically 38 g protein, 72 g carbs, 28 g fat per regular sub."
+    },
+    {
+      "q": "Are Jersey Mike's subs high in sodium?",
+      "a": "Yes, around 1850 mg sodium per regular sub due to meats and bread."
+    },
+    {
+      "q": "Calories in Jersey Mike's giant sub?",
+      "a": "A giant (14-inch) is roughly double, ~1360 kcal, depending on fillings."
+    },
+    {
+      "q": "How to lower calories in Jersey Mike's subs?",
+      "a": "Opt for mini size, no cheese, extra veggies, or 'Mike's Way Lite' with less oil."
+    }
+  ]
+}

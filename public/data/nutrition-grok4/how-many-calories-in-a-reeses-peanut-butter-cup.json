@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a reeses peanut butter cup",
+  "title": "How Many Calories in a Reese's Peanut Butter Cup?",
+  "meta_description": "Discover how many calories in a Reese's peanut butter cup, including full nutrition breakdown, macros, and variations for better tracking.",
+  "slug": "how-many-calories-in-a-reeses-peanut-butter-cup",
+  "h1": "How Many Calories in a Reese's Peanut Butter Cup?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "peanut butter cup",
+    "item": "Reese's peanut butter cup"
+  },
+  "assumptions": "Standard single size (21g), milk chocolate with creamy peanut butter filling; no customizations.",
+  "disclaimer": "Nutrition varies by size, batch, and manufacturer; values based on standard Hershey's Reese's. Check packaging for exact info.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "A standard Reese's Peanut Butter Cup contains about 110 calories and 2.7g protein."
+  },
+  "basis": {
+    "label": "per 1 Reese's peanut butter cup",
+    "amount": 1,
+    "unit": "peanut butter cup",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 12,
+      "fiber_g": 0.5,
+      "sugars_g": 10,
+      "protein_g": 2.7,
+      "fat_g": 7,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 80
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 12,
+    "fiber_g": 0.5,
+    "sugars_g": 10,
+    "protein_g": 2.7,
+    "fat_g": 7,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 80
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Mini Reese's cup (half size, ~10g)",
+      "delta_kcal_per_unit": -55,
+      "new_total_kcal": 55
+    },
+    {
+      "label": "King size (double standard, ~42g)",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "With added nuts (extra 5g peanuts)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 140
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Reese's peanut butter cup?",
+      "a": "A standard one has about 110 calories."
+    },
+    {
+      "q": "What are the macros for a Reese's peanut butter cup?",
+      "a": "Approximately 12g carbs, 7g fat, 2.7g protein, with 10g sugars."
+    },
+    {
+      "q": "Does a Reese's cup have fiber or trans fat?",
+      "a": "About 0.5g fiber and 0g trans fat per cup."
+    },
+    {
+      "q": "How much sodium in a Reese's peanut butter cup?",
+      "a": "Around 80mg sodium per standard cup."
+    },
+    {
+      "q": "Are Reese's cups high in saturated fat?",
+      "a": "Yes, about 3.5g saturated fat per cup, mostly from chocolate and peanut butter."
+    }
+  ]
+}

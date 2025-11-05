@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in oatmeal starbucks",
+  "title": "Calories in Starbucks Oatmeal",
+  "meta_description": "Learn calories in oatmeal Starbucks, including full nutrition facts for one serving of Hearty Blueberry Oatmeal, carbs, protein, fiber, and easy tweaks.",
+  "slug": "calories-in-oatmeal-starbucks",
+  "h1": "Calories in Starbucks Oatmeal",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Starbucks oatmeal"
+  },
+  "assumptions": "Standard Hearty Blueberry Oatmeal (1 serving ~240 g), includes oats, blueberries, brown sugar, and prepared with 2% milk; no additional toppings.",
+  "disclaimer": "Nutrition varies by location, preparation, milk type, and customizations. Check Starbucks app or packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 320,
+    "text": "One serving of Starbucks Hearty Blueberry Oatmeal provides ~320 kcal and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 320,
+      "carbs_g": 58,
+      "fiber_g": 6,
+      "sugars_g": 20,
+      "protein_g": 9,
+      "fat_g": 5,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 110
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 320,
+    "carbs_g": 58,
+    "fiber_g": 6,
+    "sugars_g": 20,
+    "protein_g": 9,
+    "fat_g": 5,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 110
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.34
+  },
+  "tweaks": [
+    {
+      "label": "Skip the brown sugar packet",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Use nonfat milk instead of 2% milk",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Add extra blueberries (1/4 cup)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 340
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Starbucks oatmeal?",
+      "a": "About 320 kcal for one serving of Hearty Blueberry Oatmeal with 2% milk."
+    },
+    {
+      "q": "What's the protein in oatmeal Starbucks?",
+      "a": "Roughly 9 g protein per serving."
+    },
+    {
+      "q": "How many carbs in Starbucks blueberry oatmeal?",
+      "a": "Approximately 58 g carbs, including 6 g fiber and 20 g sugars."
+    },
+    {
+      "q": "Is Starbucks oatmeal low in fat?",
+      "a": "Yes, 5 g total fat per serving, with 1.5 g saturated fat."
+    },
+    {
+      "q": "Can I customize Starbucks oatmeal to reduce calories?",
+      "a": "Yes, skip brown sugar to save ~50 kcal or choose nonfat milk to cut ~20 kcal."
+    }
+  ]
+}

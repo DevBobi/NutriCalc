@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in one shot of vodka",
+  "title": "How Many Calories in One Shot of Vodka?",
+  "meta_description": "Discover how many calories in one shot of vodka—about 97 kcal from alcohol—plus full nutrition breakdown, equivalents, and tweaks for variations.",
+  "slug": "how-many-calories-in-one-shot-of-vodka",
+  "h1": "How Many Calories in One Shot of Vodka?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "vodka"
+  },
+  "assumptions": "Standard 1.5 oz (44 ml) shot of 80-proof (40% ABV) plain vodka; no mixers or additives.",
+  "disclaimer": "Nutrition varies by brand, proof, serving size, and any added flavors or mixers. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "One standard shot of vodka contains about 97 calories, all derived from alcohol."
+  },
+  "basis": {
+    "label": "per 1 shot",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Use 100-proof vodka (50% ABV)",
+      "delta_kcal_per_unit": 24,
+      "new_total_kcal": 121
+    },
+    {
+      "label": "Flavored vodka with added sugars",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 117
+    },
+    {
+      "label": "Smaller 1 oz shot",
+      "delta_kcal_per_unit": -32,
+      "new_total_kcal": 65
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one shot of vodka?",
+      "a": "Approximately 97 kcal for a standard 1.5 oz shot of 80-proof vodka."
+    },
+    {
+      "q": "Does vodka have carbs or sugar?",
+      "a": "Plain vodka has 0 g carbs and 0 g sugars; calories come solely from alcohol."
+    },
+    {
+      "q": "How does proof affect calories in vodka?",
+      "a": "Higher proof means more alcohol and calories; e.g., 100-proof adds about 24 kcal per shot."
+    },
+    {
+      "q": "Is vodka low-carb for diets?",
+      "a": "Yes, plain vodka is carb-free, making it suitable for low-carb or keto diets in moderation."
+    },
+    {
+      "q": "What about calories in vodka mixers?",
+      "a": "Mixers like juice or soda add significant calories; stick to zero-calorie options like soda water."
+    }
+  ]
+}

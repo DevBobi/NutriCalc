@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sugar free pudding",
+  "title": "Calories in Sugar Free Pudding",
+  "meta_description": "Discover calories in sugar free pudding per serving, including carbs, protein, fat, and nutrition facts for prepared instant varieties.",
+  "slug": "calories-in-sugar-free-pudding",
+  "h1": "Calories in Sugar Free Pudding",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "sugar free pudding"
+  },
+  "assumptions": "Instant sugar-free pudding mix (e.g., vanilla), prepared with 2% milk; 1 serving = 1/2 cup (113 g) prepared.",
+  "disclaimer": "Nutrition varies by brand, flavor, milk type used, and preparation; artificial sweeteners may affect taste but not calories significantly. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 60,
+    "text": "One serving of prepared sugar free pudding has about 60 kcal and 9 g carbs."
+  },
+  "basis": {
+    "label": "per 1 serving (1/2 cup prepared)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 60,
+      "carbs_g": 9,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 2,
+      "fat_g": 1.5,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 290
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 60,
+    "carbs_g": 9,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 2,
+    "fat_g": 1.5,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 290
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.25
+  },
+  "tweaks": [
+    {
+      "label": "Prepared with whole milk instead of 2%",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Add 1 tbsp whipped topping per serving",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Use skim milk (low-fat option)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of sugar free pudding?",
+      "a": "About 60 kcal for a 1/2 cup serving prepared with 2% milk."
+    },
+    {
+      "q": "Does sugar free pudding have carbs?",
+      "a": "Yes, around 9 g carbs per serving from milk and thickeners, but 0 g sugars."
+    },
+    {
+      "q": "What's the protein in sugar free pudding?",
+      "a": "Typically 2 g protein per serving, mainly from the milk used."
+    },
+    {
+      "q": "Is sugar free pudding low fat?",
+      "a": "Yes, about 1.5 g total fat and 1 g saturated fat per serving."
+    },
+    {
+      "q": "How does milk type affect calories in sugar free pudding?",
+      "a": "Whole milk adds ~20 kcal per serving vs. 2% milk; skim reduces by ~10 kcal."
+    }
+  ]
+}

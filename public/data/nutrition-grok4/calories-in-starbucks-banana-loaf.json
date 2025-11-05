@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in starbucks banana loaf",
+  "title": "Calories in Starbucks Banana Loaf",
+  "meta_description": "Learn calories in Starbucks banana loaf: about 410 kcal per serving, plus carbs, protein, fat, and full nutrition details with tweaks.",
+  "slug": "calories-in-starbucks-banana-loaf",
+  "h1": "Calories in Starbucks Banana Loaf",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "banana loaf",
+    "item": "Starbucks banana loaf"
+  },
+  "assumptions": "Standard Starbucks Banana Loaf (one serving/slice, ~125g); baked with banana, nuts, and typical ingredients; no customizations.",
+  "disclaimer": "Nutrition varies by location, batch, and exact recipe; check Starbucks app or packaging for latest values.",
+  "quick_answer": {
+    "total_kcal": 410,
+    "text": "One Starbucks banana loaf has ~410 kcal, 56g carbs, and 5g protein."
+  },
+  "basis": {
+    "label": "per 1 banana loaf",
+    "amount": 1,
+    "unit": "banana loaf",
+    "nutrition": {
+      "calories_kcal": 410,
+      "carbs_g": 56,
+      "fiber_g": 2,
+      "sugars_g": 33,
+      "protein_g": 5,
+      "fat_g": 19,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 45,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 410,
+    "carbs_g": 56,
+    "fiber_g": 2,
+    "sugars_g": 33,
+    "protein_g": 5,
+    "fat_g": 19,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 45,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.72
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp whipped cream topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 460
+    },
+    {
+      "label": "Low-fat version (reduce butter and nuts)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 310
+    },
+    {
+      "label": "Gluten-free adaptation (swap flour)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 390
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Starbucks banana loaf?",
+      "a": "Approximately 410 kcal per standard serving."
+    },
+    {
+      "q": "What are the carbs in Starbucks banana loaf?",
+      "a": "About 56g total carbs, including 33g sugars and 2g fiber."
+    },
+    {
+      "q": "Is Starbucks banana loaf high in fat?",
+      "a": "Yes, 19g total fat per loaf, with 3.5g saturated."
+    },
+    {
+      "q": "How much protein in a Starbucks banana loaf?",
+      "a": "Roughly 5g protein per serving."
+    },
+    {
+      "q": "Does Starbucks banana loaf have nuts?",
+      "a": "Yes, typically includes walnuts; check for allergies as it adds to calories and fat."
+    }
+  ]
+}

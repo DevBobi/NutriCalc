@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in bratwurst sausage",
+  "title": "How Many Calories in Bratwurst Sausage?",
+  "meta_description": "Discover how many calories in bratwurst sausage, including full nutrition breakdown per link, macros, and variations for your meal planning.",
+  "slug": "how-many-calories-in-bratwurst-sausage",
+  "h1": "How Many Calories in Bratwurst Sausage?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bratwurst sausage",
+    "item": "bratwurst"
+  },
+  "assumptions": "Standard pork bratwurst, cooked (grilled), ~85 g per link, no added seasonings or toppings.",
+  "disclaimer": "Nutrition varies by brand, meat type, cooking method, and size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "One cooked bratwurst sausage provides ~290 kcal and ~12 g protein."
+  },
+  "basis": {
+    "label": "per 1 bratwurst sausage",
+    "amount": 1,
+    "unit": "bratwurst sausage",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 1.5,
+      "fiber_g": 0,
+      "sugars_g": 0.5,
+      "protein_g": 12,
+      "fat_g": 25,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 70,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 1.5,
+    "fiber_g": 0,
+    "sugars_g": 0.5,
+    "protein_g": 12,
+    "fat_g": 25,
+    "sat_fat_g": 9,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 70,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Use chicken bratwurst instead of pork",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Add to a hot dog bun",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 410
+    },
+    {
+      "label": "Boiled in beer (adds minimal calories but flavor)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one bratwurst sausage?",
+      "a": "Approximately 290 kcal for a standard 85 g cooked pork bratwurst."
+    },
+    {
+      "q": "What is the protein content in bratwurst?",
+      "a": "About 12 g protein per sausage."
+    },
+    {
+      "q": "Are bratwursts high in fat?",
+      "a": "Yes, ~25 g total fat per sausage, with 9 g saturated."
+    },
+    {
+      "q": "How does cooking method affect calories in bratwurst?",
+      "a": "Grilling or boiling keeps calories similar; frying adds ~50-100 kcal from oil."
+    },
+    {
+      "q": "What about sodium in bratwurst sausage?",
+      "a": "Around 800 mg per sausage, so watch intake if on a low-sodium diet."
+    }
+  ]
+}

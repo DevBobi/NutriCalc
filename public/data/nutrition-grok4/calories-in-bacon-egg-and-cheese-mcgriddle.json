@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in bacon egg and cheese mcgriddle",
+  "title": "Calories in Bacon Egg and Cheese McGriddle",
+  "meta_description": "Discover calories in bacon egg and cheese mcgriddle, including full nutrition breakdown, macros, sodium, and preparation tweaks for this McDonald's breakfast item.",
+  "slug": "calories-in-bacon-egg-and-cheese-mcgriddle",
+  "h1": "Calories in Bacon Egg and Cheese McGriddle",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "McGriddle",
+    "item": "bacon egg and cheese"
+  },
+  "assumptions": "Standard McDonald's Bacon, Egg & Cheese McGriddle; folded egg, American cheese, Canadian bacon, griddle cakes with maple flavor; official nutrition data.",
+  "disclaimer": "Nutrition varies by location, customizations, and exact preparation; values based on standard U.S. McDonald's info. Check app or labels for updates.",
+  "quick_answer": {
+    "total_kcal": 420,
+    "text": "One Bacon, Egg & Cheese McGriddle contains 420 kcal, 17 g protein, and 45 g carbs."
+  },
+  "basis": {
+    "label": "per 1 McGriddle",
+    "amount": 1,
+    "unit": "McGriddle",
+    "nutrition": {
+      "calories_kcal": 420,
+      "carbs_g": 45,
+      "fiber_g": 2,
+      "sugars_g": 15,
+      "protein_g": 17,
+      "fat_g": 20,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 215,
+      "sodium_mg": 1020
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 420,
+    "carbs_g": 45,
+    "fiber_g": 2,
+    "sugars_g": 15,
+    "protein_g": 17,
+    "fat_g": 20,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 215,
+    "sodium_mg": 1020
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.76
+  },
+  "tweaks": [
+    {
+      "label": "Remove cheese",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Sausage instead of bacon",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Add hash brown on side",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 560
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bacon egg and cheese McGriddle?",
+      "a": "420 calories per standard serving."
+    },
+    {
+      "q": "What's the protein in bacon egg and cheese McGriddle?",
+      "a": "About 17 g of protein."
+    },
+    {
+      "q": "How much sodium is in a bacon egg and cheese McGriddle?",
+      "a": "Around 1020 mg, mostly from bacon and cheese."
+    },
+    {
+      "q": "Are McGriddles high in carbs?",
+      "a": "Yes, 45 g total carbs per McGriddle, including 15 g sugars from the maple-flavored buns."
+    },
+    {
+      "q": "Can I make a lower-calorie version of bacon egg and cheese McGriddle?",
+      "a": "Opt for no cheese or egg whites to reduce by 50-100 kcal; use turkey bacon for less fat."
+    }
+  ]
+}

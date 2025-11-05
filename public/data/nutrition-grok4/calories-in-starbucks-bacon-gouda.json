@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in starbucks bacon gouda",
+  "title": "Calories in Starbucks Bacon Gouda Sandwich",
+  "meta_description": "Discover calories in Starbucks bacon gouda sandwich, including full nutrition breakdown like protein, carbs, fat, sodium, and easy tweaks for your order.",
+  "slug": "calories-in-starbucks-bacon-gouda",
+  "h1": "Calories in Starbucks Bacon Gouda Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Starbucks Bacon Gouda"
+  },
+  "assumptions": "Per Starbucks Bacon, Gouda & Egg Sandwich; includes egg, bacon, Gouda cheese on artisan roll; standard preparation, no customizations.",
+  "disclaimer": "Nutrition varies by location, exact ingredients, portion size, and customizations. Check Starbucks app or packaging for latest values.",
+  "quick_answer": {
+    "total_kcal": 360,
+    "text": "One Starbucks Bacon Gouda sandwich provides 360 kcal, 20 g protein, and 40 g carbs."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 360,
+      "carbs_g": 40,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 20,
+      "fat_g": 16,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 215,
+      "sodium_mg": 860
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 360,
+    "carbs_g": 40,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 20,
+    "fat_g": 16,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 215,
+    "sodium_mg": 860
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with Starbucks info.",
+  "equivalents": {
+    "megajoules": 1.51
+  },
+  "tweaks": [
+    {
+      "label": "Remove the egg",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 290
+    },
+    {
+      "label": "Add extra slice of bacon",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 410
+    },
+    {
+      "label": "Substitute for whole wheat roll (if available)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Starbucks bacon gouda sandwich?",
+      "a": "About 360 kcal per sandwich."
+    },
+    {
+      "q": "What's the protein in a Starbucks bacon gouda?",
+      "a": "Approximately 20 g protein from the egg, bacon, and cheese."
+    },
+    {
+      "q": "Is the Starbucks bacon gouda low carb?",
+      "a": "No, it has 40 g carbs mainly from the roll; fiber is only 2 g."
+    },
+    {
+      "q": "How much sodium in Starbucks bacon gouda?",
+      "a": "Around 860 mg, mostly from bacon and cheese."
+    },
+    {
+      "q": "Can I make Starbucks bacon gouda lower calorie?",
+      "a": "Yes, remove egg or bacon to cut ~70-100 kcal; opt for modifications."
+    }
+  ]
+}

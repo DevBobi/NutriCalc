@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a buzz ball",
+  "title": "How Many Calories in a Buzz Ball?",
+  "meta_description": "Learn how many calories in a buzz ball, plus carbs, sugars, alcohol content, and full nutrition breakdown for this 100ml cocktail.",
+  "slug": "how-many-calories-in-a-buzz-ball",
+  "h1": "How Many Calories in a Buzz Ball?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "buzz ball",
+    "item": "buzz ball"
+  },
+  "assumptions": "Standard BuzzBallz cocktail, 100 ml serving, 12% ABV, flavored malt beverage (e.g., strawberry or lemon); no added mixers.",
+  "disclaimer": "Nutrition varies by flavor, brand batch, and exact serving size. Always check the product label for precise values.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "One Buzz Ball has about 110 calories, primarily from alcohol and added sugars."
+  },
+  "basis": {
+    "label": "per 1 Buzz Ball",
+    "amount": 1,
+    "unit": "buzz ball",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 14,
+      "fiber_g": 0,
+      "sugars_g": 12,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 14,
+    "fiber_g": 0,
+    "sugars_g": 12,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Lower-sugar flavor (e.g., lime instead of strawberry)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 95
+    },
+    {
+      "label": "Add 1 oz soda water (dilutes but calories unchanged)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "With added fruit juice (1 tbsp per ball)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a buzz ball?",
+      "a": "Approximately 110 calories per standard 100 ml Buzz Ball."
+    },
+    {
+      "q": "What are the carbs in one buzz ball?",
+      "a": "About 14 g total carbs, mostly 12 g sugars from the flavoring."
+    },
+    {
+      "q": "Does a buzz ball have protein or fat?",
+      "a": "No protein or fat; calories come from alcohol and carbs."
+    },
+    {
+      "q": "How much alcohol is in a buzz ball?",
+      "a": "12% ABV in 100 ml, equivalent to about 1 standard drink."
+    },
+    {
+      "q": "Do calories vary by buzz ball flavor?",
+      "a": "Yes, slightly—fruity flavors may have 5-15 more calories from sugars."
+    }
+  ]
+}

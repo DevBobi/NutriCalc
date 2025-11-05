@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 2 cup steamed rice",
+  "title": "Calories in 1/2 Cup Steamed Rice",
+  "meta_description": "Discover calories in 1/2 cup steamed rice, including carbs, protein, fat, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-1-2-cup-steamed-rice",
+  "h1": "Calories in 1/2 Cup Steamed Rice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 0.5,
+    "unit": "cup",
+    "item": "steamed rice"
+  },
+  "assumptions": "Cooked long-grain white rice, steamed without added fat, salt, or seasonings; approximately 79 g per 1/2 cup.",
+  "disclaimer": "Nutrition varies by rice type, brand, cooking method, water absorption, and portion measurement. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 103,
+    "text": "1/2 cup steamed white rice provides about 103 kcal and 22 g carbs."
+  },
+  "basis": {
+    "label": "per 1/2 cup steamed rice",
+    "amount": 1,
+    "unit": "1/2 cup",
+    "nutrition": {
+      "calories_kcal": 103,
+      "carbs_g": 22,
+      "fiber_g": 0.3,
+      "sugars_g": 0,
+      "protein_g": 2,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 103,
+    "carbs_g": 22,
+    "fiber_g": 0.3,
+    "sugars_g": 0,
+    "protein_g": 2,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.43
+  },
+  "tweaks": [
+    {
+      "label": "Use brown rice instead of white",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 108
+    },
+    {
+      "label": "Add 1 tsp butter per 1/2 cup",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 139
+    },
+    {
+      "label": "Jasmine rice variety (slightly stickier)",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 111
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1/2 cup steamed rice?",
+      "a": "Approximately 103 kcal for 1/2 cup cooked white rice."
+    },
+    {
+      "q": "What are the carbs in 1/2 cup steamed rice?",
+      "a": "About 22 g total carbs, with 0.3 g fiber and negligible sugars."
+    },
+    {
+      "q": "Is steamed rice high in protein?",
+      "a": "No, only about 2 g protein per 1/2 cup; it's mostly carbs."
+    },
+    {
+      "q": "How does brown rice compare to white steamed rice?",
+      "a": "Brown has similar calories (~108 kcal per 1/2 cup) but more fiber (1.8 g)."
+    },
+    {
+      "q": "Does cooking method affect calories in rice?",
+      "a": "Steamed is low-fat; frying or adding oil can increase calories by 30-50 per 1/2 cup."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cookout",
+  "title": "Calories in a Cookout Meal",
+  "meta_description": "Discover calories in cookout meals, including a typical backyard barbecue with burger, hot dog, corn, and sides—plus full nutrition breakdown and tweaks.",
+  "slug": "calories-in-cookout",
+  "h1": "Calories in a Cookout Meal",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cookout",
+    "item": "cookout meal"
+  },
+  "assumptions": "Typical backyard cookout: 1 beef burger with bun (4 oz patty), 1 hot dog with bun, 1 ear grilled corn, 100g potato salad; no beverages or desserts.",
+  "disclaimer": "Nutrition varies by portion sizes, ingredients, cooking methods, and recipes. Values are estimates; check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 690,
+    "text": "A standard cookout meal has about 690 kcal, with 30g protein and 70g carbs from mixed grilled items and sides."
+  },
+  "basis": {
+    "label": "per 1 cookout meal",
+    "amount": 1,
+    "unit": "cookout meal",
+    "nutrition": {
+      "calories_kcal": 690,
+      "carbs_g": 70,
+      "fiber_g": 5,
+      "sugars_g": 8,
+      "protein_g": 30,
+      "fat_g": 38,
+      "sat_fat_g": 14,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 120,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 690,
+    "carbs_g": 70,
+    "fiber_g": 5,
+    "sugars_g": 8,
+    "protein_g": 30,
+    "fat_g": 38,
+    "sat_fat_g": 14,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 120,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged or restaurant equivalents.",
+  "equivalents": {
+    "megajoules": 2.89
+  },
+  "tweaks": [
+    {
+      "label": "Add a 12 oz soda",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 840
+    },
+    {
+      "label": "Vegetarian: swap burger and hot dog for veggie versions",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 590
+    },
+    {
+      "label": "Add 1 tbsp butter to corn and salad",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 790
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a typical cookout?",
+      "a": "Around 690 kcal for a meal with burger, hot dog, corn, and potato salad."
+    },
+    {
+      "q": "What contributes most calories to a cookout?",
+      "a": "The burger and hot dog provide the bulk (~450 kcal combined), followed by sides."
+    },
+    {
+      "q": "Are cookout meals high in sodium?",
+      "a": "Yes, about 1200 mg from buns, meats, and seasoned sides—watch if on a low-sodium diet."
+    },
+    {
+      "q": "How to lower calories in a cookout?",
+      "a": "Opt for leaner meats, skip buns, or choose grilled veggies over creamy salads to cut 200+ kcal."
+    },
+    {
+      "q": "Does grilling affect cookout calories?",
+      "a": "Grilling without added fats keeps calories lower than frying; assumes no extra oils here."
+    }
+  ]
+}

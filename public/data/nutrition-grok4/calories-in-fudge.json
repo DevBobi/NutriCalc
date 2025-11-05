@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in fudge",
+  "title": "Calories in Fudge",
+  "meta_description": "Discover calories in fudge per 100g serving, including carbs, sugars, fat, protein, and tips for variations to fit your diet.",
+  "slug": "calories-in-fudge",
+  "h1": "Calories in Fudge",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "fudge"
+  },
+  "assumptions": "Chocolate fudge, standard homemade recipe; dense, creamy texture without nuts or add-ins.",
+  "disclaimer": "Nutrition varies by recipe, brand, flavor, and portion size; homemade vs. store-bought can differ significantly. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 410,
+    "text": "Fudge contains about 410 kcal per 100g, primarily from sugars and fats."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 410,
+      "carbs_g": 70,
+      "fiber_g": 2,
+      "sugars_g": 65,
+      "protein_g": 3,
+      "fat_g": 14,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 410,
+    "carbs_g": 70,
+    "fiber_g": 2,
+    "sugars_g": 65,
+    "protein_g": 3,
+    "fat_g": 14,
+    "sat_fat_g": 9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 50
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 1.71
+  },
+  "tweaks": [
+    {
+      "label": "Add 20g chopped nuts per 100g",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Use sugar substitute for low-carb version per 100g",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Peanut butter fudge variation per 100g",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 440
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one piece of fudge?",
+      "a": "Typically 50-100 kcal per small piece (15-25g), depending on size."
+    },
+    {
+      "q": "Is fudge high in sugar?",
+      "a": "Yes, about 65g sugars per 100g, making it a treat to enjoy in moderation."
+    },
+    {
+      "q": "What's the fat content in fudge?",
+      "a": "Around 14g total fat per 100g, with 9g saturated from butter and chocolate."
+    },
+    {
+      "q": "Does fudge have protein?",
+      "a": "Minimal, only about 3g per 100g; not a significant source."
+    },
+    {
+      "q": "How to reduce calories in fudge?",
+      "a": "Opt for dark chocolate, reduce sugar, or add fiber-rich ingredients like cocoa powder."
+    }
+  ]
+}

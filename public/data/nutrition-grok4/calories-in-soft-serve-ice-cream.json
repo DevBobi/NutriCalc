@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in soft serve ice cream",
+  "title": "Calories in Soft Serve Ice Cream",
+  "meta_description": "Discover calories in soft serve ice cream per 100 g serving, including carbs, fat, protein, and nutrition breakdowns for better tracking.",
+  "slug": "calories-in-soft-serve-ice-cream",
+  "h1": "Calories in Soft Serve Ice Cream",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "soft serve ice cream"
+  },
+  "assumptions": "Standard vanilla soft serve ice cream, full-fat dairy base, machine-dispensed.",
+  "disclaimer": "Nutrition varies by brand, flavor, fat content, and serving size. Check labels or machine info when available.",
+  "quick_answer": {
+    "total_kcal": 222,
+    "text": "100 g of soft serve ice cream has about 222 kcal, with high carbs from sugars."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 222,
+      "carbs_g": 30.5,
+      "fiber_g": 0,
+      "sugars_g": 25.2,
+      "protein_g": 3.5,
+      "fat_g": 11.1,
+      "sat_fat_g": 6.9,
+      "trans_fat_g": 0.4,
+      "cholesterol_mg": 42,
+      "sodium_mg": 102
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 222,
+    "carbs_g": 30.5,
+    "fiber_g": 0,
+    "sugars_g": 25.2,
+    "protein_g": 3.5,
+    "fat_g": 11.1,
+    "sat_fat_g": 6.9,
+    "trans_fat_g": 0.4,
+    "cholesterol_mg": 42,
+    "sodium_mg": 102
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.93
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat version (reduced dairy fat)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 162
+    },
+    {
+      "label": "Add chocolate syrup topping (1 tbsp per 100 g)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 272
+    },
+    {
+      "label": "Chocolate flavor (vs. vanilla)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 232
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in soft serve ice cream per serving?",
+      "a": "About 222 kcal per 100 g standard serving."
+    },
+    {
+      "q": "Is soft serve ice cream high in sugar?",
+      "a": "Yes, around 25 g sugars per 100 g, mostly added."
+    },
+    {
+      "q": "What's the fat content in soft serve ice cream?",
+      "a": "Approximately 11 g total fat, including 7 g saturated, per 100 g."
+    },
+    {
+      "q": "How does soft serve compare to regular ice cream calories?",
+      "a": "Similar or slightly higher due to aeration; varies by recipe, around 200-250 kcal per 100 g."
+    },
+    {
+      "q": "Are there low-calorie options for soft serve ice cream?",
+      "a": "Yes, low-fat or non-dairy versions can drop to 150-180 kcal per 100 g."
+    }
+  ]
+}

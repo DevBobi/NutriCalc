@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in meatloaf",
+  "title": "Calories in Meatloaf",
+  "meta_description": "Learn calories in meatloaf per slice (100g), including protein, carbs, fat, and full nutrition facts for easy tracking.",
+  "slug": "calories-in-meatloaf",
+  "h1": "Calories in Meatloaf",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "meatloaf"
+  },
+  "assumptions": "Homemade beef meatloaf with ground beef (80/20), breadcrumbs, egg, onions, and seasonings; baked. One slice ≈100g.",
+  "disclaimer": "Nutrition varies by recipe, meat type, portion size, and cooking method. Check labels for store-bought varieties.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "One slice of meatloaf (100g) provides about 220 kcal and 20g protein."
+  },
+  "basis": {
+    "label": "per 1 slice (100 g)",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 10,
+      "fiber_g": 0.5,
+      "sugars_g": 2,
+      "protein_g": 20,
+      "fat_g": 12,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 70,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 10,
+    "fiber_g": 0.5,
+    "sugars_g": 2,
+    "protein_g": 20,
+    "fat_g": 12,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 70,
+    "sodium_mg": 400
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Use lean ground turkey instead of beef",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Add ketchup and brown sugar glaze",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Include more breadcrumbs for filler",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 250
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of meatloaf?",
+      "a": "About 220 kcal for a standard 100g slice of homemade beef meatloaf."
+    },
+    {
+      "q": "What is the protein content in meatloaf?",
+      "a": "One 100g slice has roughly 20g of protein."
+    },
+    {
+      "q": "Does meatloaf have a lot of carbs?",
+      "a": "Yes, around 10g carbs per 100g slice, mainly from breadcrumbs."
+    },
+    {
+      "q": "How does cooking method affect calories in meatloaf?",
+      "a": "Baking keeps it lower; frying or adding oil increases calories by 20-50 kcal per slice."
+    },
+    {
+      "q": "What are calories in turkey meatloaf?",
+      "a": "Lower at about 170 kcal per 100g slice compared to beef."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ham cheese croissant",
+  "title": "Calories in a Ham and Cheese Croissant",
+  "meta_description": "Discover calories in ham cheese croissant, including full nutrition breakdown, protein, fat, carbs, and easy tweaks for variations.",
+  "slug": "calories-in-ham-cheese-croissant",
+  "h1": "Calories in a Ham and Cheese Croissant",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "croissant",
+    "item": "ham cheese croissant"
+  },
+  "assumptions": "Standard bakery-style ham and cheese croissant (~100 g), with sliced ham, cheddar cheese, baked with buttery pastry; no extra condiments.",
+  "disclaimer": "Nutrition varies by brand, recipe, portion size, cheese type, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A ham and cheese croissant provides ~350 kcal, with good protein from the ham and cheese."
+  },
+  "basis": {
+    "label": "per 1 croissant",
+    "amount": 1,
+    "unit": "croissant",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 35,
+      "fiber_g": 1,
+      "sugars_g": 5,
+      "protein_g": 12,
+      "fat_g": 18,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 35,
+    "fiber_g": 1,
+    "sugars_g": 5,
+    "protein_g": 12,
+    "fat_g": 18,
+    "sat_fat_g": 9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp mustard or mayo",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Use low-fat cheese and lean ham",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Vegetarian version with extra cheese",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 380
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in ham cheese croissant?",
+      "a": "Approximately 350 kcal for one standard serving."
+    },
+    {
+      "q": "What's the protein in a ham and cheese croissant?",
+      "a": "About 12 g protein, mainly from the ham and cheese."
+    },
+    {
+      "q": "Are ham cheese croissants high in fat?",
+      "a": "Yes, around 18 g total fat, including 9 g saturated from the pastry and cheese."
+    },
+    {
+      "q": "How much sodium in a ham cheese croissant?",
+      "a": "Roughly 600 mg, due to the ham, cheese, and any added salt in the dough."
+    },
+    {
+      "q": "Can I make a lower calorie ham cheese croissant?",
+      "a": "Yes, opt for low-fat cheese, lean ham, or bake with less butter to reduce calories by 50+."
+    }
+  ]
+}

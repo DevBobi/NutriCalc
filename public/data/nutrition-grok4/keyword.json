@@ -1,92 +1,92 @@
 {
   "keyword": "Keyword",
-  "title": "Calories in Keyword",
-  "meta_description": "Discover calories in Keyword, including protein, carbs, fat, and full nutrition breakdown per serving for quick reference.",
+  "title": "How Many Calories in 1 Apple?",
+  "meta_description": "Learn how many calories in 1 apple, plus full nutrition breakdown including carbs, fiber, sugars, protein, and quick tweaks for variations.",
   "slug": "keyword",
-  "h1": "Calories in Keyword",
-  "updated": "2024-10-04",
+  "h1": "How Many Calories in 1 Apple?",
+  "updated": "2024-10-07",
   "query": {
     "amount": 1,
-    "unit": "serving",
-    "item": "Keyword"
+    "unit": "apple",
+    "item": "apple"
   },
-  "assumptions": "Standard serving of Keyword, prepared plainly without added ingredients.",
-  "disclaimer": "Nutrition varies by brand, recipe, size, and preparation method. Check labels when available.",
+  "assumptions": "Medium apple (~182 g), raw, with skin, no added toppings.",
+  "disclaimer": "Nutrition varies by apple variety, size, ripeness, and storage; organic vs. conventional may differ slightly. Check produce labels when available.",
   "quick_answer": {
-    "total_kcal": 100,
-    "text": "One serving of Keyword contains about 100 kcal and balanced macros."
+    "total_kcal": 95,
+    "text": "One medium apple provides ~95 kcal, mostly from natural sugars and fiber."
   },
   "basis": {
-    "label": "per 1 serving",
+    "label": "per 1 medium apple",
     "amount": 1,
-    "unit": "serving",
-    "nutrition": {
-      "calories_kcal": 100,
-      "carbs_g": 15,
-      "fiber_g": 2,
-      "sugars_g": 5,
-      "protein_g": 5,
-      "fat_g": 3,
-      "sat_fat_g": 1,
+    "unit": "apple",
+    "nutrition": {Add back the automated thumbnail project generation process. File, youtube link, direct copy paste.
+      "calories_kcal": 95,
+      "carbs_g": 25,
+      "fiber_g": 4.4,
+      "sugars_g": 19,
+      "protein_g": 0.5,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
       "trans_fat_g": 0,
-      "cholesterol_mg": 10,
-      "sodium_mg": 150
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
     }
   },
   "nutrition_total": {
-    "calories_kcal": 100,
-    "carbs_g": 15,
-    "fiber_g": 2,
-    "sugars_g": 5,
-    "protein_g": 5,
-    "fat_g": 3,
-    "sat_fat_g": 1,
+    "calories_kcal": 95,
+    "carbs_g": 25,
+    "fiber_g": 4.4,
+    "sugars_g": 19,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
     "trans_fat_g": 0,
-    "cholesterol_mg": 10,
-    "sodium_mg": 150
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
   },
-  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "label_note": "Values align with standard Nutrition Facts labels for easy reference and comparison.",
   "equivalents": {
-    "megajoules": 0.42
+    "megajoules": 0.4
   },
   "tweaks": [
     {
-      "label": "Add low-fat dressing",
-      "delta_kcal_per_unit": 20,
-      "new_total_kcal": 120
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 90
     },
     {
-      "label": "Use baked instead of fried",
-      "delta_kcal_per_unit": -30,
-      "new_total_kcal": 70
+      "label": "Sliced with 1 tbsp peanut butter",
+      "delta_kcal_per_unit": 94,
+      "new_total_kcal": 189
     },
     {
-      "label": "Extra portion of veggies",
-      "delta_kcal_per_unit": 10,
-      "new_total_kcal": 110
+      "label": "Baked apple (no added sugar)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 85
     }
   ],
   "faqs_required_count": 5,
   "faqs": [
     {
-      "q": "How many calories are in one Keyword?",
-      "a": "Approximately 100 kcal per serving."
+      "q": "How many calories in a medium apple?",
+      "a": "Approximately 95 kcal for one medium raw apple with skin."
     },
     {
-      "q": "What is the protein content in Keyword?",
-      "a": "About 5 g of protein per serving."
+      "q": "What's the fiber content in 1 apple?",
+      "a": "About 4.4 g of dietary fiber, aiding digestion."
     },
     {
-      "q": "Does Keyword have a lot of sodium?",
-      "a": "Around 150 mg per serving, which is moderate."
+      "q": "Are apples low in fat?",
+      "a": "Yes, only 0.3 g total fat per medium apple, with negligible saturated fat."
     },
     {
-      "q": "Are there carbs in Keyword?",
-      "a": "Yes, 15 g total carbs, including 2 g fiber."
+      "q": "How much sugar is in one apple?",
+      "a": "Around 19 g of natural sugars, mostly fructose."
     },
     {
-      "q": "How does preparation affect calories in Keyword?",
-      "a": "Frying adds calories; baking or steaming reduces them."
+      "q": "Does apple size affect calories?",
+      "a": "Yes—small apples (~130 g) have ~70 kcal; large (~223 g) have ~116 kcal."
     }
   ]
 }

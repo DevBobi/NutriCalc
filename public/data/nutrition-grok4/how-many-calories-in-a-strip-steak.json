@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a strip steak",
+  "title": "How Many Calories in a Strip Steak?",
+  "meta_description": "Discover how many calories in a strip steak (about 425 kcal for a 6 oz grilled serving), plus protein, fat, full nutrition breakdown, and variations.",
+  "slug": "how-many-calories-in-a-strip-steak",
+  "h1": "How Many Calories in a Strip Steak?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "strip steak",
+    "item": "strip steak"
+  },
+  "assumptions": "Boneless New York strip steak, choice grade, grilled without added fat, excess fat trimmed, 6 oz (170 g) cooked weight.",
+  "disclaimer": "Nutrition varies by cut, grade, cooking method, portion size, and trimming; check labels or USDA data for specifics.",
+  "quick_answer": {
+    "total_kcal": 425,
+    "text": "A 6 oz grilled strip steak provides ~425 kcal and ~46 g protein."
+  },
+  "basis": {
+    "label": "per 1 strip steak (170 g)",
+    "amount": 1,
+    "unit": "strip steak",
+    "nutrition": {
+      "calories_kcal": 425,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 46,
+      "fat_g": 25,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 140,
+      "sodium_mg": 75
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 425,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 46,
+    "fat_g": 25,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 140,
+    "sodium_mg": 75
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.78
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 465
+    },
+    {
+      "label": "Lean select grade (less marbling)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 365
+    },
+    {
+      "label": "Pan-seared with 1 tsp oil",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 470
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a strip steak per ounce?",
+      "a": "About 71 kcal per oz for a grilled choice strip steak."
+    },
+    {
+      "q": "What's the protein in one strip steak?",
+      "a": "Approximately 46 g protein in a 6 oz grilled strip steak."
+    },
+    {
+      "q": "Does cooking method affect calories in strip steak?",
+      "a": "Yes—grilling keeps it lower; frying or adding fats increases calories by 40+ kcal."
+    },
+    {
+      "q": "How much fat is in a strip steak?",
+      "a": "Around 25 g total fat, including 10 g saturated, for a 170 g serving."
+    },
+    {
+      "q": "Are strip steaks high in cholesterol?",
+      "a": "Moderate—about 140 mg per 6 oz serving, mainly from the meat's natural content."
+    }
+  ]
+}

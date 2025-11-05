@@ -1,0 +1,92 @@
+{
+  "keyword": "in n out animal style fries calories",
+  "title": "Calories in In-N-Out Animal Style Fries",
+  "meta_description": "Discover in n out animal style fries calories: about 670 kcal per serving, plus full nutrition breakdown including fat, carbs, protein, and tweaks for variations.",
+  "slug": "in-n-out-animal-style-fries-calories",
+  "h1": "Calories in In-N-Out Animal Style Fries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "In-N-Out Animal Style Fries"
+  },
+  "assumptions": "Standard In-N-Out serving: french fries topped with melted cheese, grilled onions, and Thousand Island-style spread; no modifications.",
+  "disclaimer": "Nutrition varies by location, portion size, and customizations; values based on official In-N-Out data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 670,
+    "text": "One serving of In-N-Out Animal Style Fries has 670 kcal, 15 g protein, and 54 g carbs."
+  },
+  "basis": {
+    "label": "per serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 670,
+      "carbs_g": 54,
+      "fiber_g": 5,
+      "sugars_g": 1,
+      "protein_g": 15,
+      "fat_g": 39,
+      "sat_fat_g": 11,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 40,
+      "sodium_mg": 1160
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 670,
+    "carbs_g": 54,
+    "fiber_g": 5,
+    "sugars_g": 1,
+    "protein_g": 15,
+    "fat_g": 39,
+    "sat_fat_g": 11,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 40,
+    "sodium_mg": 1160
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.8
+  },
+  "tweaks": [
+    {
+      "label": "Regular fries (no cheese, onions, or spread)",
+      "delta_kcal_per_unit": -240,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Add 1 slice cheese extra",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 750
+    },
+    {
+      "label": "Protein-style (wrapped in lettuce, no bun/fry base adjustment)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 570
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in In-N-Out Animal Style Fries?",
+      "a": "Approximately 670 kcal per standard serving."
+    },
+    {
+      "q": "What are the macros for in n out animal style fries calories?",
+      "a": "39 g fat, 54 g carbs (5 g fiber), 1 g sugars, 15 g protein."
+    },
+    {
+      "q": "Are In-N-Out Animal Style Fries high in sodium?",
+      "a": "Yes, about 1160 mg sodium per serving from cheese and spread."
+    },
+    {
+      "q": "How do Animal Style Fries compare to regular fries calories?",
+      "a": "Animal Style adds ~240 kcal from toppings; regular fries are around 430 kcal."
+    },
+    {
+      "q": "Can I customize In-N-Out Animal Style Fries for fewer calories?",
+      "a": "Yes, skip the spread or cheese to reduce by 100-200 kcal."
+    }
+  ]
+}

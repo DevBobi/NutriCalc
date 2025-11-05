@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in 6 ounces of steak",
+  "title": "How Many Calories Are in 6 Ounces of Steak?",
+  "meta_description": "Discover how many calories are in 6 ounces of steak, including protein, fat, carbs, full nutrition breakdown per 100 g, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-are-in-6-ounces-of-steak",
+  "h1": "How Many Calories Are in 6 Ounces of Steak?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 6,
+    "unit": "ounce",
+    "item": "steak"
+  },
+  "assumptions": "Lean top sirloin steak, broiled/cooked, trimmed of visible fat; 1 oz ≈ 28.35 g.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, seasoning, and exact weight. Check labels or use a food scale for precision.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "6 ounces of cooked lean sirloin steak provides ~350 kcal and ~52 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 206,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 30.8,
+      "fat_g": 8.4,
+      "sat_fat_g": 3.3,
+      "trans_fat_g": 0.4,
+      "cholesterol_mg": 89,
+      "sodium_mg": 64
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 52.4,
+    "fat_g": 14.3,
+    "sat_fat_g": 5.6,
+    "trans_fat_g": 0.7,
+    "cholesterol_mg": 151,
+    "sodium_mg": 109
+  },
+  "label_note": "Totals are scaled from the per-100 g basis and mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per ounce during cooking",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 454
+    },
+    {
+      "label": "Ribeye steak (fattier cut) vs sirloin per 100 g",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 490
+    },
+    {
+      "label": "Grilled with marinade (1 tsp oil per ounce)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 470
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in 6 ounces of cooked steak?",
+      "a": "Approximately 350 kcal for lean sirloin, based on standard USDA data."
+    },
+    {
+      "q": "What's the protein in 6 ounces of steak?",
+      "a": "About 52 g of high-quality protein, ideal for muscle building."
+    },
+    {
+      "q": "Does steak have carbs or fiber?",
+      "a": "Zero carbs and zero fiber in plain cooked steak."
+    },
+    {
+      "q": "How does fat content affect calories in steak?",
+      "a": "Lean cuts like sirloin are lower (~206 kcal/100 g); fattier cuts like ribeye add 70+ kcal/100 g."
+    },
+    {
+      "q": "Are these values for raw or cooked steak?",
+      "a": "Cooked (broiled); raw is lower due to water loss during cooking, but weight is post-cook here."
+    }
+  ]
+}

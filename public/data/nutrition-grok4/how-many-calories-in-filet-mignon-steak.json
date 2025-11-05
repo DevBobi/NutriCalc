@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in filet mignon steak",
+  "title": "How Many Calories in Filet Mignon Steak?",
+  "meta_description": "Learn how many calories in filet mignon steak for a standard 6 oz serving, including protein, fat, carbs, and full nutrition details with tweaks and FAQs.",
+  "slug": "how-many-calories-in-filet-mignon-steak",
+  "h1": "How Many Calories in Filet Mignon Steak?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "steak",
+    "item": "filet mignon"
+  },
+  "assumptions": "6 oz (170 g) cooked weight, broiled, lean only, trimmed to 0\" fat, choice grade, no added oil, butter, or seasoning.",
+  "disclaimer": "Nutrition varies by cut, grade, cooking method, added fats, and portion size. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A 6-oz broiled filet mignon steak provides ~350 kcal and ~52 g protein."
+  },
+  "basis": {
+    "label": "per 1 6-oz (170 g) broiled filet mignon steak",
+    "amount": 1,
+    "unit": "steak",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 52,
+      "fat_g": 14,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 156,
+      "sodium_mg": 104
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 52,
+    "fat_g": 14,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 156,
+    "sodium_mg": 104
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter for basting",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Include 1/8-inch fat trim (vs. lean only)",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 410
+    },
+    {
+      "label": "Pan-seared with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 390
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 6 oz filet mignon steak?",
+      "a": "Approximately 350 kcal for a lean, broiled 6 oz serving."
+    },
+    {
+      "q": "What's the protein in filet mignon steak?",
+      "a": "About 52 g protein per 6 oz steak, making it a high-protein option."
+    },
+    {
+      "q": "Does filet mignon have carbs?",
+      "a": "No carbs, fiber, or sugars—it's nearly all protein and fat."
+    },
+    {
+      "q": "How does cooking method affect calories in filet mignon?",
+      "a": "Broiling keeps it lean; frying or adding fats can add 40+ kcal per tsp of oil or butter."
+    },
+    {
+      "q": "Is filet mignon lower in fat than other steaks?",
+      "a": "Yes, it's one of the leanest cuts at ~14 g fat per 6 oz vs. higher in ribeye or T-bone."
+    }
+  ]
+}

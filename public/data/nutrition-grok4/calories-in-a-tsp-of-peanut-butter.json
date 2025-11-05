@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a tsp of peanut butter",
+  "title": "Calories in a Teaspoon of Peanut Butter",
+  "meta_description": "Discover calories in a tsp of peanut butter, including fat, protein, carbs, and full nutrition breakdown per serving with tweaks and FAQs.",
+  "slug": "calories-in-a-tsp-of-peanut-butter",
+  "h1": "Calories in a Teaspoon of Peanut Butter",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tsp",
+    "item": "peanut butter"
+  },
+  "assumptions": "Smooth, natural peanut butter without added sugar or salt; approximately 5 g per teaspoon.",
+  "disclaimer": "Nutrition varies by brand, ingredients (e.g., added oils/sugars), and exact measurement. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 32,
+    "text": "A teaspoon of peanut butter provides about 32 kcal and 1.3 g protein."
+  },
+  "basis": {
+    "label": "per 1 tsp",
+    "amount": 1,
+    "unit": "tsp",
+    "nutrition": {
+      "calories_kcal": 32,
+      "carbs_g": 0.8,
+      "fiber_g": 0.3,
+      "sugars_g": 0.2,
+      "protein_g": 1.3,
+      "fat_g": 2.8,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 32,
+    "carbs_g": 0.8,
+    "fiber_g": 0.3,
+    "sugars_g": 0.2,
+    "protein_g": 1.3,
+    "fat_g": 2.8,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.13
+  },
+  "tweaks": [
+    {
+      "label": "Commercial brand with added sugar",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 37
+    },
+    {
+      "label": "Chunky peanut butter (with extra peanut pieces)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 34
+    },
+    {
+      "label": "Low-fat peanut butter version",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 22
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a tsp of peanut butter?",
+      "a": "About 32 kcal for one teaspoon of natural peanut butter."
+    },
+    {
+      "q": "Is peanut butter high in fat?",
+      "a": "Yes, one tsp has 2.8 g total fat, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "Does peanut butter have protein?",
+      "a": "One tsp provides 1.3 g protein, making it a good snack addition."
+    },
+    {
+      "q": "What's the carb content in a tsp of peanut butter?",
+      "a": "Low at 0.8 g carbs, with 0.3 g fiber and 0.2 g sugars."
+    },
+    {
+      "q": "How does brand affect calories in peanut butter?",
+      "a": "Added sugars or oils in commercial brands can increase calories by 5-10 kcal per tsp."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a frozen yogurt",
+  "title": "Calories in a Frozen Yogurt",
+  "meta_description": "Learn calories in a frozen yogurt serving, including carbs, sugars, protein, fat breakdown, and simple tweaks for variations.",
+  "slug": "calories-in-a-frozen-yogurt",
+  "h1": "Calories in a Frozen Yogurt",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "frozen yogurt",
+    "item": "frozen yogurt"
+  },
+  "assumptions": "Plain, low-fat frozen yogurt; standard serving size ~100 g (about 1/2 cup); no added toppings or mix-ins.",
+  "disclaimer": "Nutrition varies by brand, fat content, flavors, serving size, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "A serving of low-fat frozen yogurt provides ~120 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 21,
+      "fiber_g": 0,
+      "sugars_g": 19,
+      "protein_g": 4,
+      "fat_g": 2,
+      "sat_fat_g": 1.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 6,
+      "sodium_mg": 55
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 21,
+    "fiber_g": 0,
+    "sugars_g": 19,
+    "protein_g": 4,
+    "fat_g": 2,
+    "sat_fat_g": 1.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 6,
+    "sodium_mg": 55
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Full-fat version (vs. low-fat)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Add 1 tbsp chocolate syrup",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Non-dairy frozen yogurt alternative",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a frozen yogurt serving?",
+      "a": "About 120 kcal for a 100 g serving of plain low-fat frozen yogurt."
+    },
+    {
+      "q": "Is frozen yogurt lower in calories than ice cream?",
+      "a": "Often yes—low-fat versions have ~120 kcal per 100 g vs. ~200+ for full-fat ice cream."
+    },
+    {
+      "q": "What are the carbs in a frozen yogurt?",
+      "a": "Around 21 g per 100 g serving, primarily from sugars like lactose and added sweeteners."
+    },
+    {
+      "q": "Does frozen yogurt have protein?",
+      "a": "Yes, about 4 g per 100 g from the yogurt base, making it a bit more nutritious than sorbet."
+    },
+    {
+      "q": "How do toppings affect calories in a frozen yogurt?",
+      "a": "Toppings like nuts or syrup can add 50+ kcal per tablespoon; plain is lowest calorie."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken tenderloin",
+  "title": "Calories in Chicken Tenderloin",
+  "meta_description": "Discover calories in chicken tenderloin per 100 g, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for accurate tracking.",
+  "slug": "calories-in-chicken-tenderloin",
+  "h1": "Calories in Chicken Tenderloin",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chicken tenderloin"
+  },
+  "assumptions": "Skinless, boneless chicken tenderloin, grilled or baked without added oil; standard portion size.",
+  "disclaimer": "Nutrition varies by cut, cooking method, seasoning, and brand; values are approximate. Check labels or use a food scale for precision.",
+  "quick_answer": {
+    "total_kcal": 143,
+    "text": "100 g of cooked chicken tenderloin provides ~143 kcal and ~30 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 143,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 30,
+      "fat_g": 2.5,
+      "sat_fat_g": 0.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 70
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 143,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 30,
+    "fat_g": 2.5,
+    "sat_fat_g": 0.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 80,
+    "sodium_mg": 70
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.6
+  },
+  "tweaks": [
+    {
+      "label": "Breaded and fried (adds ~100 kcal per 100 g)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 243
+    },
+    {
+      "label": "Marinated with 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 183
+    },
+    {
+      "label": "Raw (uncooked) vs. cooked",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 123
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g chicken tenderloin?",
+      "a": "Approximately 143 kcal for cooked, skinless chicken tenderloin."
+    },
+    {
+      "q": "Is chicken tenderloin high in protein?",
+      "a": "Yes, about 30 g protein per 100 g, making it a lean source."
+    },
+    {
+      "q": "Does cooking method affect calories in chicken tenderloin?",
+      "a": "Yes—grilling keeps it low; frying or breading can add 100+ kcal per 100 g."
+    },
+    {
+      "q": "What about fat content in chicken tenderloin?",
+      "a": "Low at ~2.5 g total fat per 100 g, with 0.7 g saturated."
+    },
+    {
+      "q": "Are carbs present in chicken tenderloin?",
+      "a": "Negligible—0 g carbs, fiber, or sugars per 100 g."
+    }
+  ]
+}

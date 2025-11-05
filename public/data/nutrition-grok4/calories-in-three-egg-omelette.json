@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in three egg omelette",
+  "title": "Calories in a Three Egg Omelette",
+  "meta_description": "Discover calories in three egg omelette, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-three-egg-omelette",
+  "h1": "Calories in a Three Egg Omelette",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "egg",
+    "item": "egg omelette"
+  },
+  "assumptions": "Plain omelette using large eggs, cooked in 1 tsp butter or oil total, no added salt, fillings, or cheese.",
+  "disclaimer": "Nutrition varies by egg size, cooking fat amount, brand, and additions like veggies or cheese. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 270,
+    "text": "A plain three-egg omelette provides ~270 kcal and ~18 g protein."
+  },
+  "basis": {
+    "label": "per 1 large egg (in omelette)",
+    "amount": 1,
+    "unit": "egg",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 0.6,
+      "fiber_g": 0,
+      "sugars_g": 0.5,
+      "protein_g": 6,
+      "fat_g": 7,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 185,
+      "sodium_mg": 70
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 270,
+    "carbs_g": 1.8,
+    "fiber_g": 0,
+    "sugars_g": 1.5,
+    "protein_g": 18,
+    "fat_g": 21,
+    "sat_fat_g": 7.5,
+    "trans_fat_g": 0.3,
+    "cholesterol_mg": 555,
+    "sodium_mg": 210
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.13
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 oz cheddar cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Use egg whites only (no yolks)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Add veggies like spinach and tomatoes (1/2 cup total)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one egg omelette?",
+      "a": "About 90 kcal for a plain one-egg omelette."
+    },
+    {
+      "q": "What is the protein in a three egg omelette?",
+      "a": "Approximately 18 g of protein."
+    },
+    {
+      "q": "Does cooking method affect calories in three egg omelette?",
+      "a": "Yes, more oil or butter increases fat and calories; non-stick pan with minimal fat keeps it lower."
+    },
+    {
+      "q": "Are carbs high in a plain three egg omelette?",
+      "a": "No, only ~1.8 g carbs total, mostly from the eggs."
+    },
+    {
+      "q": "How does adding fillings change calories in three egg omelette?",
+      "a": "Fillings like cheese or ham can add 50-200 kcal; veggies add fewer."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in fairlife milk",
+  "title": "Calories in Fairlife Milk",
+  "meta_description": "Learn calories in fairlife milk per cup serving, including protein, carbs, fat, and full nutrition breakdown for this ultra-filtered dairy.",
+  "slug": "calories-in-fairlife-milk",
+  "h1": "Calories in Fairlife Milk",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "fairlife milk"
+  },
+  "assumptions": "Fairlife 2% ultra-filtered milk, per 1 cup (240 ml) serving; plain, no added flavors.",
+  "disclaimer": "Nutrition varies by Fairlife product type (e.g., fat content, flavored), batch, and serving size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "One cup of Fairlife 2% milk provides 120 kcal and 13 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup (240 ml)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sugars_g": 6,
+      "protein_g": 13,
+      "fat_g": 4.5,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 6,
+    "fiber_g": 0,
+    "sugars_g": 6,
+    "protein_g": 13,
+    "fat_g": 4.5,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 100
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Fairlife fat-free milk",
+      "delta_kcal_per_unit": -45,
+      "new_total_kcal": 75
+    },
+    {
+      "label": "Use Fairlife whole milk (3.25% fat)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Add Fairlife chocolate milk flavor",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 180
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of Fairlife milk?",
+      "a": "120 kcal for Fairlife 2% ultra-filtered milk per 1 cup serving."
+    },
+    {
+      "q": "What's the protein in Fairlife milk?",
+      "a": "13 g protein per cup, higher than regular milk due to ultra-filtration."
+    },
+    {
+      "q": "Does Fairlife milk have less sugar?",
+      "a": "Yes, about 6 g sugars per cup versus 12 g in regular 2% milk."
+    },
+    {
+      "q": "Calories in Fairlife skim milk?",
+      "a": "Around 75-80 kcal per cup, with 13 g protein and minimal fat."
+    },
+    {
+      "q": "Is Fairlife milk lactose-free?",
+      "a": "No, but it's easier to digest; lactose-free versions are available separately."
+    }
+  ]
+}

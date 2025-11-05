@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a peppermint",
+  "title": "How Many Calories in a Peppermint?",
+  "meta_description": "Discover how many calories in a peppermint, including carbs, sugars, and full nutrition breakdown per piece for quick reference.",
+  "slug": "how-many-calories-in-a-peppermint",
+  "h1": "How Many Calories in a Peppermint?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "peppermint",
+    "item": "peppermint"
+  },
+  "assumptions": "Standard hard peppermint candy, 1 piece (~5 g), no added fillings or coatings.",
+  "disclaimer": "Nutrition varies by brand, size, and ingredients; sugar-free versions differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 20,
+    "text": "One standard peppermint candy has about 20 kcal, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 peppermint",
+    "amount": 1,
+    "unit": "peppermint",
+    "nutrition": {
+      "calories_kcal": 20,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sugars_g": 5,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 20,
+    "carbs_g": 5,
+    "fiber_g": 0,
+    "sugars_g": 5,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Sugar-free version",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 5
+    },
+    {
+      "label": "Filled peppermint (with cream center)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 30
+    },
+    {
+      "label": "Larger piece (~10 g)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 40
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a peppermint candy?",
+      "a": "About 20 kcal for one standard 5 g hard peppermint."
+    },
+    {
+      "q": "Are peppermints low carb?",
+      "a": "No, mostly carbs from sugars—5 g carbs per piece, all sugars."
+    },
+    {
+      "q": "Do peppermints have fat or protein?",
+      "a": "Typically 0 g fat and 0 g protein per piece."
+    },
+    {
+      "q": "What's the difference in calories for sugar-free peppermint?",
+      "a": "Sugar-free versions have ~5 kcal, using artificial sweeteners."
+    },
+    {
+      "q": "How does peppermint size affect calories?",
+      "a": "Larger pieces (e.g., 10 g) can double to ~40 kcal; check serving size."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a beatbox",
+  "title": "How Many Calories in a BeatBox?",
+  "meta_description": "Discover how many calories in a beatbox, including carbs, sugars, alcohol content, and nutrition breakdowns for this popular alcoholic punch.",
+  "slug": "how-many-calories-in-a-beatbox",
+  "h1": "How Many Calories in a BeatBox?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "beatbox",
+    "item": "beatbox beverage"
+  },
+  "assumptions": "One 250ml serving of standard BeatBox alcoholic punch (e.g., Blue Razzberry), 11% ABV, fruit-flavored with added sugars; no ice or mixers.",
+  "disclaimer": "Nutrition varies by flavor, brand batch, serving size, and exact formulation. Alcoholic beverages' calories can differ; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 210,
+    "text": "A single 250ml BeatBox serving contains about 210 kcal, primarily from alcohol and sugars."
+  },
+  "basis": {
+    "label": "per 1 beatbox (250ml serving)",
+    "amount": 1,
+    "unit": "beatbox",
+    "nutrition": {
+      "calories_kcal": 210,
+      "carbs_g": 30,
+      "fiber_g": 0,
+      "sugars_g": 25,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 210,
+    "carbs_g": 30,
+    "fiber_g": 0,
+    "sugars_g": 25,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison with beverage labels.",
+  "equivalents": {
+    "megajoules": 0.88
+  },
+  "tweaks": [
+    {
+      "label": "Zero sugar flavor variant",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Add ice and dilute with soda (reduces concentration)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Harder punch variant (higher ABV, 14%)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 240
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a beatbox serving?",
+      "a": "Approximately 210 kcal for a standard 250ml BeatBox."
+    },
+    {
+      "q": "What are the carbs in a beatbox?",
+      "a": "About 30 g carbs, mostly sugars at 25 g per serving."
+    },
+    {
+      "q": "Does a beatbox have protein or fat?",
+      "a": "No significant protein or fat; calories come from alcohol and carbs."
+    },
+    {
+      "q": "How does BeatBox compare to other alcoholic punches?",
+      "a": "Similar to boxed cocktails, around 200-250 kcal per serving depending on ABV and sweetness."
+    },
+    {
+      "q": "Are there low-calorie beatbox options?",
+      "a": "Yes, zero-sugar versions reduce calories to about 150 kcal by cutting sugars."
+    }
+  ]
+}

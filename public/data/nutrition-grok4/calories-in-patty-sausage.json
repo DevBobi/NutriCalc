@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in patty sausage",
+  "title": "Calories in a Patty Sausage",
+  "meta_description": "Learn calories in patty sausage, with full nutrition breakdown including protein, fat, carbs, sodium, and easy tweaks for variations.",
+  "slug": "calories-in-patty-sausage",
+  "h1": "Calories in a Patty Sausage",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "patty",
+    "item": "sausage"
+  },
+  "assumptions": "Cooked pork breakfast sausage patty, standard size (~52 g), pan-fried without added oil or seasonings.",
+  "disclaimer": "Nutrition varies by brand, meat type, size, cooking method, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 180,
+    "text": "One pork sausage patty provides ~180 kcal and ~8 g protein."
+  },
+  "basis": {
+    "label": "per 1 patty",
+    "amount": 1,
+    "unit": "patty",
+    "nutrition": {
+      "calories_kcal": 180,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 8,
+      "fat_g": 16,
+      "sat_fat_g": 5,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 30,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 180,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 8,
+    "fat_g": 16,
+    "sat_fat_g": 5,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 30,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.75
+  },
+  "tweaks": [
+    {
+      "label": "Use turkey sausage patty (lower fat)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Add 1 tsp oil for frying per patty",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Low-sodium version",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 180
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one patty sausage?",
+      "a": "About 180 kcal for a standard cooked pork sausage patty."
+    },
+    {
+      "q": "What is the protein in patty sausage?",
+      "a": "Roughly 8 g protein per patty."
+    },
+    {
+      "q": "Are sausage patties high in sodium?",
+      "a": "Yes, typically ~500 mg sodium per patty; opt for low-sodium varieties."
+    },
+    {
+      "q": "Calories in turkey vs pork patty sausage?",
+      "a": "Turkey is lower at ~130 kcal per patty compared to pork's 180 kcal."
+    },
+    {
+      "q": "Does cooking method affect calories in patty sausage?",
+      "a": "Pan-frying adds calories if oil is used; baking or grilling keeps it closer to base values."
+    }
+  ]
+}

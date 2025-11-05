@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 20 piece nuggets",
+  "title": "Calories in 20 Piece Chicken Nuggets",
+  "meta_description": "Learn calories in 20 piece nuggets with full nutrition facts, including protein, fat, carbs, sodium, and easy tweaks for healthier options.",
+  "slug": "calories-in-20-piece-nuggets",
+  "h1": "Calories in 20 Piece Chicken Nuggets",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 20,
+    "unit": "piece",
+    "item": "chicken nuggets"
+  },
+  "assumptions": "Breaded, fried chicken nuggets, standard fast-food style (~16g each), no dipping sauce or sides.",
+  "disclaimer": "Nutrition varies by brand, size, breading, cooking method, and ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 1000,
+    "text": "20 piece chicken nuggets provide ~1000 kcal and ~80 g protein."
+  },
+  "basis": {
+    "label": "per 1 nugget",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 50,
+      "carbs_g": 4,
+      "fiber_g": 0.2,
+      "sugars_g": 0.1,
+      "protein_g": 4,
+      "fat_g": 3,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 10,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1000,
+    "carbs_g": 80,
+    "fiber_g": 4,
+    "sugars_g": 2,
+    "protein_g": 80,
+    "fat_g": 60,
+    "sat_fat_g": 10,
+    "trans_fat_g": 2,
+    "cholesterol_mg": 200,
+    "sodium_mg": 3000
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.18
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 700
+    },
+    {
+      "label": "Add 1 tbsp ketchup per 5 nuggets",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 1200
+    },
+    {
+      "label": "Homemade with whole wheat breading",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 900
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one chicken nugget?",
+      "a": "About 50 kcal per standard fried chicken nugget."
+    },
+    {
+      "q": "What is the protein in 20 piece nuggets?",
+      "a": "Roughly 80 g of protein from 20 piece chicken nuggets."
+    },
+    {
+      "q": "Are chicken nuggets high in sodium?",
+      "a": "Yes, 20 pieces can have up to 3000 mg sodium due to breading and seasoning."
+    },
+    {
+      "q": "How do baked nuggets compare in calories?",
+      "a": "Baked versions are typically 15-20 kcal less per nugget than fried."
+    },
+    {
+      "q": "Do chicken nuggets have trans fats?",
+      "a": "Some brands do; check for 0.1 g or less per nugget to minimize intake."
+    }
+  ]
+}

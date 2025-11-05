@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a deviled egg",
+  "title": "How Many Calories in a Deviled Egg?",
+  "meta_description": "Discover how many calories in a deviled egg, including full nutrition breakdown, protein, fat, carbs, and simple recipe tweaks for variations.",
+  "slug": "how-many-calories-in-a-deviled-egg",
+  "h1": "How Many Calories in a Deviled Egg?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "deviled egg",
+    "item": "deviled egg"
+  },
+  "assumptions": "Standard recipe: half hard-boiled large egg filled with yolk mixed with 1 tsp mayonnaise, mustard, salt, pepper; no extras like paprika or relish.",
+  "disclaimer": "Nutrition varies by recipe, egg size, mayo brand, and added ingredients. Check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 75,
+    "text": "A single deviled egg typically contains about 75 kcal with around 3 g protein."
+  },
+  "basis": {
+    "label": "per 1 deviled egg",
+    "amount": 1,
+    "unit": "deviled egg",
+    "nutrition": {
+      "calories_kcal": 75,
+      "carbs_g": 0.5,
+      "fiber_g": 0,
+      "sugars_g": 0.3,
+      "protein_g": 3,
+      "fat_g": 6.5,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 95,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 75,
+    "carbs_g": 0.5,
+    "fiber_g": 0,
+    "sugars_g": 0.3,
+    "protein_g": 3,
+    "fat_g": 6.5,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 95,
+    "sodium_mg": 100
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.31
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat mayonnaise instead of regular",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Add 1 tsp sweet pickle relish",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Top with 1 slice crumbled bacon",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 95
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a deviled egg?",
+      "a": "Approximately 75 kcal for one standard deviled egg."
+    },
+    {
+      "q": "What is the protein content in a deviled egg?",
+      "a": "About 3 g protein per deviled egg, mainly from the egg itself."
+    },
+    {
+      "q": "Are deviled eggs high in fat?",
+      "a": "Yes, around 6.5 g fat per egg, mostly from the yolk and mayonnaise."
+    },
+    {
+      "q": "How does the recipe affect calories in a deviled egg?",
+      "a": "More mayo or add-ins like relish or bacon can increase calories by 5-20 kcal each."
+    },
+    {
+      "q": "Do deviled eggs have carbs?",
+      "a": "Very low, about 0.5 g carbs per egg, with no fiber."
+    }
+  ]
+}

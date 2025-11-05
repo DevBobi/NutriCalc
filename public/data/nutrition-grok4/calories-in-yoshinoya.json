@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in yoshinoya",
+  "title": "Calories in Yoshinoya Beef Bowl",
+  "meta_description": "Discover calories in Yoshinoya beef bowl, including macros like protein and carbs, plus variations and FAQs for their popular gyudon menu item.",
+  "slug": "calories-in-yoshinoya",
+  "h1": "Calories in Yoshinoya Beef Bowl",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "yoshinoya beef bowl"
+  },
+  "assumptions": "Regular size Yoshinoya beef bowl (gyudon) with steamed rice, thinly sliced beef, onions, and soy-based sauce; no extras like egg or cheese.",
+  "disclaimer": "Nutrition varies by location, portion size, preparation, and customizations. Values based on standard U.S. Yoshinoya menu; check official app or site for latest.",
+  "quick_answer": {
+    "total_kcal": 760,
+    "text": "A regular Yoshinoya beef bowl contains about 760 kcal, with high carbs from rice and solid protein from beef."
+  },
+  "basis": {
+    "label": "per 1 regular beef bowl",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 760,
+      "carbs_g": 105,
+      "fiber_g": 2,
+      "sugars_g": 8,
+      "protein_g": 32,
+      "fat_g": 25,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 70,
+      "sodium_mg": 1820
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 760,
+    "carbs_g": 105,
+    "fiber_g": 2,
+    "sugars_g": 8,
+    "protein_g": 32,
+    "fat_g": 25,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 70,
+    "sodium_mg": 1820
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with menu info.",
+  "equivalents": {
+    "megajoules": 3.18
+  },
+  "tweaks": [
+    {
+      "label": "Add a raw egg (common topping)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 830
+    },
+    {
+      "label": "Upgrade to large size",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 960
+    },
+    {
+      "label": "Chicken bowl instead of beef",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 660
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Yoshinoya regular beef bowl?",
+      "a": "Approximately 760 kcal for the standard regular size."
+    },
+    {
+      "q": "What are the macros for calories in Yoshinoya gyudon?",
+      "a": "About 105 g carbs, 32 g protein, 25 g fat per regular bowl."
+    },
+    {
+      "q": "Is Yoshinoya beef bowl high in sodium?",
+      "a": "Yes, around 1820 mg sodium per bowl due to the soy sauce."
+    },
+    {
+      "q": "Calories in Yoshinoya with extra toppings?",
+      "a": "Adding egg or cheese increases calories by 70–150 kcal; check customizations."
+    },
+    {
+      "q": "How does Yoshinoya compare to other fast food rice bowls?",
+      "a": "Similar to teriyaki bowls, but Yoshinoya's is often higher in sodium and carbs from rice."
+    }
+  ]
+}

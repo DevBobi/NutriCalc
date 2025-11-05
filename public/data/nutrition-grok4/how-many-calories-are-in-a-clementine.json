@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a clementine",
+  "title": "How Many Calories Are in a Clementine?",
+  "meta_description": "Discover how many calories are in a clementine, including carbs, fiber, sugars, protein, and full nutrition breakdown per fruit.",
+  "slug": "how-many-calories-are-in-a-clementine",
+  "h1": "How Many Calories Are in a Clementine?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "clementine",
+    "item": "clementine"
+  },
+  "assumptions": "Medium-sized clementine (about 74 g edible portion), raw, peeled, no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by size, variety, ripeness, and growing conditions. Check labels for packaged products.",
+  "quick_answer": {
+    "total_kcal": 35,
+    "text": "One medium clementine provides about 35 kcal, mostly from natural sugars and carbs."
+  },
+  "basis": {
+    "label": "per 1 medium clementine",
+    "amount": 1,
+    "unit": "clementine",
+    "nutrition": {
+      "calories_kcal": 35,
+      "carbs_g": 8.9,
+      "fiber_g": 1.7,
+      "sugars_g": 6.8,
+      "protein_g": 0.6,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 35,
+    "carbs_g": 8.9,
+    "fiber_g": 1.7,
+    "sugars_g": 6.8,
+    "protein_g": 0.6,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged fruits.",
+  "equivalents": {
+    "megajoules": 0.15
+  },
+  "tweaks": [
+    {
+      "label": "Large clementine (about 100 g vs. 74 g)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Add 1 tsp honey drizzle",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 56
+    },
+    {
+      "label": "Canned in light syrup (drained)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 45
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a clementine?",
+      "a": "About 35 kcal for one medium clementine."
+    },
+    {
+      "q": "Are clementines low in carbs?",
+      "a": "Yes, one has 8.9 g carbs, with 1.7 g fiber and 6.8 g natural sugars."
+    },
+    {
+      "q": "How much vitamin C in a clementine?",
+      "a": "One medium clementine provides about 36 mg of vitamin C, over half the daily needs."
+    },
+    {
+      "q": "Do clementines have fat or protein?",
+      "a": "Very low: 0.2 g fat and 0.6 g protein per fruit."
+    },
+    {
+      "q": "Calories in clementine vs. orange?",
+      "a": "Similar; a small orange has about 45 kcal, slightly more than a clementine."
+    }
+  ]
+}

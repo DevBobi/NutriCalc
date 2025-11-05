@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in bourbon whiskey",
+  "title": "Calories in Bourbon Whiskey",
+  "meta_description": "Discover calories in bourbon whiskey per standard shot, including full nutrition breakdown, alcohol content, and serving tips for 80-proof varieties.",
+  "slug": "calories-in-bourbon-whiskey",
+  "h1": "Calories in Bourbon Whiskey",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "bourbon whiskey"
+  },
+  "assumptions": "Standard 1.5 fl oz (44 ml) serving of 80-proof (40% ABV) bourbon whiskey, straight, no mixers.",
+  "disclaimer": "Nutrition varies by proof, brand, distillation, and serving size. Higher proof increases calories; always check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "A standard 1.5 oz shot of 80-proof bourbon whiskey contains about 97 calories, all from alcohol."
+  },
+  "basis": {
+    "label": "per 1.5 fl oz shot",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0.3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0.3
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "100-proof bourbon (higher alcohol content)",
+      "delta_kcal_per_unit": 24,
+      "new_total_kcal": 121
+    },
+    {
+      "label": "Mixed with 4 oz diet soda (zero-calorie mixer)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 97
+    },
+    {
+      "label": "Aged bourbon with caramel notes (slight sugar variation)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 102
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one shot of bourbon whiskey?",
+      "a": "About 97 calories for a 1.5 oz shot of 80-proof bourbon."
+    },
+    {
+      "q": "Does bourbon whiskey have carbs or sugar?",
+      "a": "No carbs, fiber, or sugars—calories come entirely from alcohol."
+    },
+    {
+      "q": "How does proof affect calories in bourbon whiskey?",
+      "a": "Higher proof means more calories; e.g., 100-proof adds ~24 kcal per shot versus 80-proof."
+    },
+    {
+      "q": "Calories in bourbon whiskey vs. other whiskeys?",
+      "a": "Similar for most whiskeys at 80-proof (~97 kcal per shot); flavored varieties may add 10–50 kcal."
+    },
+    {
+      "q": "Is bourbon whiskey low in sodium or fat?",
+      "a": "Yes, negligible fat (0 g), sodium (~0.3 mg), and no cholesterol per shot."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in split peas",
+  "title": "Calories in Split Peas",
+  "meta_description": "Learn calories in split peas per 100g cooked, plus carbs, protein, fiber, and full nutrition details with tweaks for recipes.",
+  "slug": "calories-in-split-peas",
+  "h1": "Calories in Split Peas",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "split peas"
+  },
+  "assumptions": "Cooked green split peas, boiled without salt or added fat, drained; standard serving basis.",
+  "disclaimer": "Nutrition varies by type (green/yellow), cooking method, added ingredients, and brand. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 118,
+    "text": "100g of cooked split peas provides ~118 kcal, 8g protein, and 8g fiber."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 118,
+      "carbs_g": 21.1,
+      "fiber_g": 8.3,
+      "sugars_g": 2.9,
+      "protein_g": 8.3,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 15
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 118,
+    "carbs_g": 21.1,
+    "fiber_g": 8.3,
+    "sugars_g": 2.9,
+    "protein_g": 8.3,
+    "fat_g": 0.4,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 15
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.49
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil during cooking per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 158
+    },
+    {
+      "label": "Use dry split peas (uncooked weight equivalent)",
+      "delta_kcal_per_unit": 223,
+      "new_total_kcal": 341
+    },
+    {
+      "label": "Yellow split peas instead of green",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g cooked split peas?",
+      "a": "About 118 kcal per 100g cooked split peas."
+    },
+    {
+      "q": "Are split peas high in protein?",
+      "a": "Yes, ~8.3g protein per 100g cooked, making them a good plant-based source."
+    },
+    {
+      "q": "What's the fiber content in split peas?",
+      "a": "Around 8.3g dietary fiber per 100g cooked, aiding digestion."
+    },
+    {
+      "q": "Do split peas have fat or cholesterol?",
+      "a": "Very low fat (0.4g per 100g) and 0mg cholesterol."
+    },
+    {
+      "q": "Calories in dry vs cooked split peas?",
+      "a": "Dry: ~341 kcal per 100g; cooked: ~118 kcal per 100g due to water absorption."
+    }
+  ]
+}

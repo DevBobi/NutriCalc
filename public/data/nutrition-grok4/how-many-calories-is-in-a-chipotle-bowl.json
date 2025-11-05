@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in a chipotle bowl",
+  "title": "How Many Calories in a Chipotle Bowl?",
+  "meta_description": "Discover how many calories is in a chipotle bowl, including macros like protein and carbs, plus variations and nutrition facts for a standard build.",
+  "slug": "how-many-calories-is-in-a-chipotle-bowl",
+  "h1": "How Many Calories in a Chipotle Bowl?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "chipotle bowl"
+  },
+  "assumptions": "Standard chicken burrito bowl: white rice (4 oz), black beans (4 oz), chicken (4 oz), fajita veggies, mild tomato salsa, cheese (1 oz), lettuce. No guac, sour cream, or extra rice.",
+  "disclaimer": "Nutrition varies by customizations, portion sizes, and location; Chipotle values may differ. Check the Chipotle app or site for exact builds.",
+  "quick_answer": {
+    "total_kcal": 665,
+    "text": "A standard Chipotle chicken bowl contains about 665 calories with 45 g protein."
+  },
+  "basis": {
+    "label": "per 1 bowl",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 665,
+      "carbs_g": 70,
+      "fiber_g": 10,
+      "sugars_g": 5,
+      "protein_g": 45,
+      "fat_g": 25,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 100,
+      "sodium_mg": 1500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 665,
+    "carbs_g": 70,
+    "fiber_g": 10,
+    "sugars_g": 5,
+    "protein_g": 45,
+    "fat_g": 25,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 100,
+    "sodium_mg": 1500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.78
+  },
+  "tweaks": [
+    {
+      "label": "Add guacamole (4 oz)",
+      "delta_kcal_per_unit": 230,
+      "new_total_kcal": 895
+    },
+    {
+      "label": "Vegetarian with sofritas instead of chicken",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 615
+    },
+    {
+      "label": "No cheese and double veggies",
+      "delta_kcal_per_unit": -110,
+      "new_total_kcal": 555
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in a chipotle bowl with chicken?",
+      "a": "About 665 kcal for a standard build with rice, beans, chicken, veggies, salsa, and cheese."
+    },
+    {
+      "q": "What are the macros in a Chipotle bowl?",
+      "a": "Typically 70 g carbs, 45 g protein, 25 g fat, and 10 g fiber per standard bowl."
+    },
+    {
+      "q": "How to make a low-calorie Chipotle bowl?",
+      "a": "Skip rice, cheese, and guac; opt for salad base with lean protein and veggies for under 400 kcal."
+    },
+    {
+      "q": "Does brown rice change calories in a Chipotle bowl?",
+      "a": "Slightly; brown rice adds about 20-30 more kcal than white but more fiber."
+    },
+    {
+      "q": "Why is sodium high in Chipotle bowls?",
+      "a": "From beans, salsa, and seasonings; a standard bowl has around 1500 mg—watch if on a low-sodium diet."
+    }
+  ]
+}

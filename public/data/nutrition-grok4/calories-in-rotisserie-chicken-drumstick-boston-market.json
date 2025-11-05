@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in rotisserie chicken drumstick boston market",
+  "title": "Calories in Boston Market Rotisserie Chicken Drumstick",
+  "meta_description": "Discover calories in rotisserie chicken drumstick Boston Market, including protein, fat, sodium details, and preparation tweaks for this seasoned favorite.",
+  "slug": "calories-in-rotisserie-chicken-drumstick-boston-market",
+  "h1": "Calories in Boston Market Rotisserie Chicken Drumstick",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "drumstick",
+    "item": "rotisserie chicken Boston Market"
+  },
+  "assumptions": "One average drumstick (~90 g) with skin, roasted and seasoned per Boston Market recipe; no sides or sauces.",
+  "disclaimer": "Nutrition varies by portion size, seasoning, and exact preparation at Boston Market. Check official sources or labels for precision.",
+  "quick_answer": {
+    "total_kcal": 170,
+    "text": "One Boston Market rotisserie chicken drumstick has ~170 kcal and ~20 g protein."
+  },
+  "basis": {
+    "label": "per 1 drumstick",
+    "amount": 1,
+    "unit": "drumstick",
+    "nutrition": {
+      "calories_kcal": 170,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 20,
+      "fat_g": 10,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 170,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 20,
+    "fat_g": 10,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 80,
+    "sodium_mg": 400
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.71
+  },
+  "tweaks": [
+    {
+      "label": "Skin removed (per drumstick)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Add 1 tbsp barbecue sauce",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 215
+    },
+    {
+      "label": "Oven-roasted at home without extra seasoning",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 140
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one rotisserie chicken drumstick from Boston Market?",
+      "a": "Approximately 170 kcal per drumstick with skin."
+    },
+    {
+      "q": "What's the protein in Boston Market rotisserie chicken drumstick?",
+      "a": "About 20 g protein per drumstick."
+    },
+    {
+      "q": "Is sodium high in Boston Market rotisserie chicken?",
+      "a": "Yes, around 400 mg per drumstick due to seasoning."
+    },
+    {
+      "q": "Calories in skinless Boston Market rotisserie drumstick?",
+      "a": "Roughly 120 kcal after removing the skin."
+    },
+    {
+      "q": "Does Boston Market rotisserie chicken have carbs?",
+      "a": "Negligible carbs (0 g) in the plain drumstick."
+    }
+  ]
+}

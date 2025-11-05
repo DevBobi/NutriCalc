@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mussels",
+  "title": "Calories in Mussels",
+  "meta_description": "Discover calories in mussels per 100g serving, including protein, fat, carbs, and full nutrition breakdown for easy meal planning.",
+  "slug": "calories-in-mussels",
+  "h1": "Calories in Mussels",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "mussels"
+  },
+  "assumptions": "Cooked (steamed or boiled), shelled edible portion, no added fats, sauces, or seasonings.",
+  "disclaimer": "Nutrition varies by species, freshness, cooking method, and portion size. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 172,
+    "text": "100g of cooked mussels provide ~172 kcal and ~24g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 172,
+      "carbs_g": 7.4,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 23.8,
+      "fat_g": 4.5,
+      "sat_fat_g": 0.9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 56,
+      "sodium_mg": 369
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 172,
+    "carbs_g": 7.4,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 23.8,
+    "fat_g": 4.5,
+    "sat_fat_g": 0.9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 56,
+    "sodium_mg": 369
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 0.72
+  },
+  "tweaks": [
+    {
+      "label": "Sautéed in 1 tsp butter per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 212
+    },
+    {
+      "label": "Raw mussels (vs. cooked)",
+      "delta_kcal_per_unit": -86,
+      "new_total_kcal": 86
+    },
+    {
+      "label": "With white wine sauce (1 tbsp per 100g)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 197
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of mussels?",
+      "a": "About 172 kcal for cooked, shelled mussels."
+    },
+    {
+      "q": "Are mussels high in protein?",
+      "a": "Yes, 100g provides ~24g protein, making them a lean seafood option."
+    },
+    {
+      "q": "Do mussels have carbs?",
+      "a": "They contain ~7.4g carbs per 100g, mostly from natural glycogen."
+    },
+    {
+      "q": "What's the fat content in mussels?",
+      "a": "Around 4.5g total fat per 100g, with low saturated fat at 0.9g."
+    },
+    {
+      "q": "How does cooking affect calories in mussels?",
+      "a": "Cooking concentrates nutrients; raw mussels have about half the calories per 100g."
+    }
+  ]
+}

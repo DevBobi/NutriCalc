@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a shot of whiskey",
+  "title": "Calories in a Shot of Whiskey",
+  "meta_description": "Discover calories in a shot of whiskey, including full nutrition breakdown, alcohol content equivalents, and variations for different proofs.",
+  "slug": "calories-in-a-shot-of-whiskey",
+  "h1": "Calories in a Shot of Whiskey",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "whiskey"
+  },
+  "assumptions": "Standard 1.5 fl oz (44 ml) serving of 80-proof (40% ABV) straight whiskey, no mixers or additives.",
+  "disclaimer": "Nutrition varies by brand, proof, serving size, and any added flavors or mixers. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "A standard shot of 80-proof whiskey contains about 97 kcal, all from alcohol."
+  },
+  "basis": {
+    "label": "per 1 shot (1.5 fl oz)",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "100-proof whiskey (higher alcohol content)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 122
+    },
+    {
+      "label": "Flavored whiskey (e.g., honey or cinnamon variety)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 112
+    },
+    {
+      "label": "Add 1 oz soda mixer",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 107
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a shot of whiskey?",
+      "a": "Approximately 97 kcal for a 1.5 fl oz shot of 80-proof whiskey."
+    },
+    {
+      "q": "Does whiskey have carbs or sugar?",
+      "a": "Straight whiskey has 0 g carbs and 0 g sugars; calories come solely from alcohol."
+    },
+    {
+      "q": "How does proof affect calories in whiskey?",
+      "a": "Higher proof means more calories; e.g., 100-proof adds about 25 kcal per shot."
+    },
+    {
+      "q": "What about sodium or fat in a shot of whiskey?",
+      "a": "Typically 0 mg sodium and 0 g fat in plain whiskey shots."
+    },
+    {
+      "q": "Are calories the same for all whiskeys?",
+      "a": "No—varies by proof, flavorings, and brand; straight bourbon or scotch is around 97 kcal per shot."
+    }
+  ]
+}

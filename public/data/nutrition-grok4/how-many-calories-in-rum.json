@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in rum",
+  "title": "How Many Calories in Rum?",
+  "meta_description": "Discover how many calories in rum per standard 44 ml serving, including full nutrition facts, equivalents, and variations for different proofs.",
+  "slug": "how-many-calories-in-rum",
+  "h1": "How Many Calories in Rum?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 44,
+    "unit": "ml",
+    "item": "rum"
+  },
+  "assumptions": "40% ABV (80 proof) distilled rum, unflavored, standard serving of 44 ml (1.5 fl oz shot).",
+  "disclaimer": "Nutrition varies by proof, brand, flavoring, and serving size; mixers add extra calories. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "A standard 44 ml shot of 80-proof rum contains 97 calories, all from alcohol."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Higher proof (50% ABV vs. 40%)",
+      "delta_kcal_per_unit": 55,
+      "new_total_kcal": 121
+    },
+    {
+      "label": "Flavored rum (added sugars)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Lower proof (30% ABV vs. 40%)",
+      "delta_kcal_per_unit": -55,
+      "new_total_kcal": 42
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a shot of rum?",
+      "a": "About 97 kcal for a 44 ml shot of 80-proof rum."
+    },
+    {
+      "q": "Does rum have carbohydrates or sugar?",
+      "a": "Pure rum has 0 g carbs and 0 g sugars; flavored varieties may add some."
+    },
+    {
+      "q": "How does proof affect calories in rum?",
+      "a": "Higher proof means more alcohol and calories; e.g., 100-proof has ~25% more than 80-proof."
+    },
+    {
+      "q": "Are there fats or proteins in rum?",
+      "a": "No, rum contains 0 g fat and 0 g protein."
+    },
+    {
+      "q": "How many calories in 100 ml of rum?",
+      "a": "Approximately 220 kcal for 40% ABV rum."
+    }
+  ]
+}

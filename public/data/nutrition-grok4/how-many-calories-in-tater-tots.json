@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in tater tots",
+  "title": "How Many Calories in Tater Tots?",
+  "meta_description": "Learn how many calories in tater tots per 85g serving, plus carbs, protein, fat, sodium, and tips for different cooking methods.",
+  "slug": "how-many-calories-in-tater-tots",
+  "h1": "How Many Calories in Tater Tots?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 85,
+    "unit": "g",
+    "item": "tater tots"
+  },
+  "assumptions": "Frozen commercial tater tots (e.g., Ore-Ida style), oven-baked per package directions, no added oil, salt, or toppings.",
+  "disclaimer": "Nutrition varies by brand, size, cooking method, and added ingredients. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 145,
+    "text": "An 85g serving of oven-baked tater tots has about 145 kcal and 19.6g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 170,
+      "carbs_g": 23,
+      "fiber_g": 2.3,
+      "sugars_g": 0.5,
+      "protein_g": 2.9,
+      "fat_g": 8.4,
+      "sat_fat_g": 1.4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 412
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 145,
+    "carbs_g": 19.6,
+    "fiber_g": 2,
+    "sugars_g": 0.4,
+    "protein_g": 2.5,
+    "fat_g": 7.1,
+    "sat_fat_g": 1.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 350
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.61
+  },
+  "tweaks": [
+    {
+      "label": "Deep-fried instead of oven-baked",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 195
+    },
+    {
+      "label": "Air-fried with 1 tsp oil",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 165
+    },
+    {
+      "label": "Add shredded cheese (1 oz per serving)",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 255
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of tater tots?",
+      "a": "About 145 kcal for an 85g oven-baked serving."
+    },
+    {
+      "q": "Are tater tots high in carbs?",
+      "a": "Yes, around 23g carbs per 100g, mostly from potatoes."
+    },
+    {
+      "q": "What's the fat content in tater tots?",
+      "a": "About 8.4g total fat per 100g, with 1.4g saturated."
+    },
+    {
+      "q": "Do tater tots have cholesterol?",
+      "a": "Typically 0mg, as they're potato-based with vegetable oil."
+    },
+    {
+      "q": "How does cooking method affect calories in tater tots?",
+      "a": "Oven-baked is lowest; deep-frying adds 40-60 kcal per serving from absorbed oil."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in a rotisserie chicken",
+  "title": "How Many Calories in a Rotisserie Chicken?",
+  "meta_description": "Learn how many calories is in a rotisserie chicken—about 2200 kcal for a whole average bird—plus protein, fat, sodium, and tweaks for skinless or sauced versions.",
+  "slug": "how-many-calories-is-in-a-rotisserie-chicken",
+  "h1": "How Many Calories in a Rotisserie Chicken?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "chicken",
+    "item": "rotisserie chicken"
+  },
+  "assumptions": "Whole average rotisserie chicken (~1200 g edible meat and skin), roasted with mild seasoning, no added sauces or sides.",
+  "disclaimer": "Nutrition varies by size, brand, seasoning, cooking method, and portion (e.g., meat only vs. with skin). Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 2200,
+    "text": "A whole rotisserie chicken provides ~2200 kcal, with high protein (~288 g) and moderate fat."
+  },
+  "basis": {
+    "label": "per 1 whole rotisserie chicken",
+    "amount": 1,
+    "unit": "chicken",
+    "nutrition": {
+      "calories_kcal": 2200,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 288,
+      "fat_g": 120,
+      "sat_fat_g": 33.6,
+      "trans_fat_g": 1.2,
+      "cholesterol_mg": 1020,
+      "sodium_mg": 4800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 2200,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 288,
+    "fat_g": 120,
+    "sat_fat_g": 33.6,
+    "trans_fat_g": 1.2,
+    "cholesterol_mg": 1020,
+    "sodium_mg": 4800
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 9.2
+  },
+  "tweaks": [
+    {
+      "label": "Skin removed (reduces fat significantly)",
+      "delta_kcal_per_unit": -800,
+      "new_total_kcal": 1400
+    },
+    {
+      "label": "Add 2 tbsp BBQ sauce",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 2300
+    },
+    {
+      "label": "Herb-seasoned, low-sodium version",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 2100
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in a rotisserie chicken?",
+      "a": "Approximately 2200 kcal for a whole average rotisserie chicken with skin."
+    },
+    {
+      "q": "How much protein in a whole rotisserie chicken?",
+      "a": "About 288 g of protein, making it a great lean protein source."
+    },
+    {
+      "q": "Does rotisserie chicken have carbs?",
+      "a": "Typically 0 g carbs, as it's plain roasted meat and skin."
+    },
+    {
+      "q": "Why is sodium high in rotisserie chicken?",
+      "a": "Due to seasoning and brining; one whole chicken has ~4800 mg sodium."
+    },
+    {
+      "q": "Calories in half a rotisserie chicken?",
+      "a": "Around 1100 kcal for half, depending on even division of meat and skin."
+    }
+  ]
+}

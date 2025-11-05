@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 6 oz of chicken breast",
+  "title": "How Many Calories in 6 oz Chicken Breast?",
+  "meta_description": "Learn how many calories in 6 oz of chicken breast, plus detailed nutrition like protein, fat, carbs, and easy tweaks for your meals.",
+  "slug": "how-many-calories-in-6-oz-of-chicken-breast",
+  "h1": "How Many Calories in 6 oz Chicken Breast?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 6,
+    "unit": "oz",
+    "item": "chicken breast"
+  },
+  "assumptions": "Skinless, boneless chicken breast, cooked (roasted or grilled), no sauce/oil added; 6 oz ≈ 170 g.",
+  "disclaimer": "Nutrition varies by brand, cut, cooking method, seasoning, water content, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 281,
+    "text": "6 oz cooked, skinless chicken breast provides ~281 kcal and ~53 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 31,
+      "fat_g": 3.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 74
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 281,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 53,
+    "fat_g": 6.1,
+    "sat_fat_g": 1.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 145,
+    "sodium_mg": 126
+  },
+  "label_note": "Totals are scaled from the per-100 g basis and mirror Nutrition Facts fields.",
+  "equivalents": {
+    "megajoules": 1.18
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 349
+    },
+    {
+      "label": "Skin-on, roasted (vs. skinless) per 100 g",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 332
+    },
+    {
+      "label": "Breaded and fried (vs. grilled) per 100 g",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 481
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 6 oz of cooked chicken breast?",
+      "a": "Approximately 281 kcal for skinless, boneless, grilled or roasted."
+    },
+    {
+      "q": "How much protein in 6 oz chicken breast?",
+      "a": "About 53 g of high-quality protein."
+    },
+    {
+      "q": "Are these values for raw or cooked chicken breast?",
+      "a": "Cooked weight; raw would be higher due to water loss during cooking."
+    },
+    {
+      "q": "Does adding marinade affect calories in chicken breast?",
+      "a": "Yes, sugary or oil-based marinades can add 20-50 kcal per 100 g."
+    },
+    {
+      "q": "What is the fat content in 6 oz chicken breast?",
+      "a": "Around 6.1 g total fat, mostly unsaturated, for skinless cooked."
+    }
+  ]
+}

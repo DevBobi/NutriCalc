@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in scallops",
+  "title": "Calories in Scallops",
+  "meta_description": "Discover calories in scallops per 100 g serving, including protein, fat, carbs, and full nutrition breakdown for easy meal planning.",
+  "slug": "calories-in-scallops",
+  "h1": "Calories in Scallops",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "scallops"
+  },
+  "assumptions": "Sea scallops, steamed or seared, no added butter/oil/salt; values for cooked weight.",
+  "disclaimer": "Nutrition varies by scallop type (bay vs. sea), size, freshness, cooking method, and added ingredients. Check labels or sources when available.",
+  "quick_answer": {
+    "total_kcal": 111,
+    "text": "100 g of cooked scallops provide ~111 kcal and ~20.5 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 111,
+      "carbs_g": 5.4,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 20.5,
+      "fat_g": 0.8,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 41,
+      "sodium_mg": 265
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 111,
+    "carbs_g": 5.4,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 20.5,
+    "fat_g": 0.8,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 41,
+    "sodium_mg": 265
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Sautéed in 1 tsp butter per 100 g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 147
+    },
+    {
+      "label": "Raw scallops (vs. cooked)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 101
+    },
+    {
+      "label": "Bay scallops (smaller, per 100 g)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 106
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g of scallops?",
+      "a": "About 111 kcal for cooked sea scallops."
+    },
+    {
+      "q": "Are scallops high in protein?",
+      "a": "Yes, ~20.5 g protein per 100 g, making them a lean seafood option."
+    },
+    {
+      "q": "Do scallops have carbs?",
+      "a": "They contain ~5.4 g carbs per 100 g, mostly from natural glycogen."
+    },
+    {
+      "q": "What's the fat content in scallops?",
+      "a": "Low at ~0.8 g total fat per 100 g, with minimal saturated fat."
+    },
+    {
+      "q": "How does cooking affect calories in scallops?",
+      "a": "Minimal change if steamed; frying or butter adds 30-50 kcal per 100 g."
+    }
+  ]
+}

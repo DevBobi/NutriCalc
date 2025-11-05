@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cucumber salad",
+  "title": "Calories in Cucumber Salad",
+  "meta_description": "Discover calories in cucumber salad per serving, including carbs, protein, fat, and nutrition tweaks for variations like creamy or oil-based dressings.",
+  "slug": "calories-in-cucumber-salad",
+  "h1": "Calories in Cucumber Salad",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "cucumber salad"
+  },
+  "assumptions": "Simple vinegar-based cucumber salad with sliced cucumbers, red onion, dill, a touch of olive oil and vinegar; ~150 g per 1-cup serving, no added salt.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, portion size, and dressing type. Check labels or recipes for exact values.",
+  "quick_answer": {
+    "total_kcal": 68,
+    "text": "One cup of simple cucumber salad provides about 68 kcal, mostly from veggies with minimal fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 45,
+      "carbs_g": 6.5,
+      "fiber_g": 1,
+      "sugars_g": 3,
+      "protein_g": 1,
+      "fat_g": 1.8,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 68,
+    "carbs_g": 9.8,
+    "fiber_g": 1.5,
+    "sugars_g": 4.5,
+    "protein_g": 1.5,
+    "fat_g": 2.7,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 225
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.28
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp yogurt for creamy version per cup",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 83
+    },
+    {
+      "label": "Use oil-based dressing (extra 1 tsp oil) per cup",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 108
+    },
+    {
+      "label": "Add cherry tomatoes (50 g extra per cup)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 78
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of cucumber salad?",
+      "a": "About 68 kcal for a simple vinegar-dressed version."
+    },
+    {
+      "q": "Is cucumber salad low carb?",
+      "a": "Yes, around 9.8 g carbs per cup, with 1.5 g fiber."
+    },
+    {
+      "q": "What makes cucumber salad higher in calories?",
+      "a": "Added oils, creams, or sugars in dressings can increase calories significantly."
+    },
+    {
+      "q": "How much protein in cucumber salad?",
+      "a": "Minimal, about 1.5 g per cup from cucumbers and onions."
+    },
+    {
+      "q": "Can I make cucumber salad lower calorie?",
+      "a": "Use lemon juice instead of oil for under 50 kcal per cup."
+    }
+  ]
+}

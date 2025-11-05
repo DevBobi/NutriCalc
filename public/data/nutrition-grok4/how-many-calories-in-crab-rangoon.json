@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in crab rangoon",
+  "title": "How Many Calories in Crab Rangoon?",
+  "meta_description": "Discover how many calories in crab rangoon per piece, including full nutrition breakdown like carbs, protein, fat, sodium, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-crab-rangoon",
+  "h1": "How Many Calories in Crab Rangoon?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "crab rangoon",
+    "item": "crab rangoon"
+  },
+  "assumptions": "Fried crab rangoon appetizer with imitation crab, cream cheese, green onions, and wonton wrapper; standard size (~25g per piece).",
+  "disclaimer": "Nutrition varies by brand, recipe, frying method, portion size, and ingredients; restaurant versions may differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 55,
+    "text": "One crab rangoon contains about 55 kcal, mostly from the fried wrapper and cream cheese."
+  },
+  "basis": {
+    "label": "per 1 crab rangoon",
+    "amount": 1,
+    "unit": "crab rangoon",
+    "nutrition": {
+      "calories_kcal": 55,
+      "carbs_g": 6,
+      "fiber_g": 0.2,
+      "sugars_g": 0.5,
+      "protein_g": 2,
+      "fat_g": 2.5,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 10,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 55,
+    "carbs_g": 6,
+    "fiber_g": 0.2,
+    "sugars_g": 0.5,
+    "protein_g": 2,
+    "fat_g": 2.5,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 10,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.23
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 35
+    },
+    {
+      "label": "Add 1 tbsp sweet chili dipping sauce",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Use real crab and reduce cream cheese",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 45
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one crab rangoon?",
+      "a": "Approximately 55 kcal per fried piece."
+    },
+    {
+      "q": "What are the carbs in crab rangoon?",
+      "a": "About 6 g carbs per piece, mainly from the wonton wrapper."
+    },
+    {
+      "q": "Is crab rangoon high in sodium?",
+      "a": "Yes, around 150 mg per piece due to seasonings and imitation crab."
+    },
+    {
+      "q": "How does baking affect calories in crab rangoon?",
+      "a": "Baking reduces calories by about 20 kcal per piece by cutting oil absorption."
+    },
+    {
+      "q": "What's the protein content in crab rangoon?",
+      "a": "Roughly 2 g protein per piece, from the crab filling."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mexican rice",
+  "title": "Calories in Mexican Rice",
+  "meta_description": "Discover calories in mexican rice per cup, including carbs, protein, fat, sodium, and recipe tweaks for better nutrition tracking.",
+  "slug": "calories-in-mexican-rice",
+  "h1": "Calories in Mexican Rice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "mexican rice"
+  },
+  "assumptions": "Standard homemade or restaurant-style Mexican rice (arroz rojo) cooked with white rice, tomatoes, onions, garlic, green peppers, and vegetable oil; about 195g per cup.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, portion size, and cooking method. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 242,
+    "text": "One cup of Mexican rice provides ~242 kcal, mostly from carbs with some fat from cooking oil."
+  },
+  "basis": {
+    "label": "per 1 cup (195g)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 242,
+      "carbs_g": 42,
+      "fiber_g": 2.9,
+      "sugars_g": 3.1,
+      "protein_g": 5,
+      "fat_g": 6.2,
+      "sat_fat_g": 0.9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 585
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 242,
+    "carbs_g": 42,
+    "fiber_g": 2.9,
+    "sugars_g": 3.1,
+    "protein_g": 5,
+    "fat_g": 6.2,
+    "sat_fat_g": 0.9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 585
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.01
+  },
+  "tweaks": [
+    {
+      "label": "Use brown rice instead of white",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 252
+    },
+    {
+      "label": "Low-oil version (half the vegetable oil)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 192
+    },
+    {
+      "label": "Add 2 oz ground beef",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 392
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of Mexican rice?",
+      "a": "Approximately 242 kcal per cup (195g) based on standard recipe."
+    },
+    {
+      "q": "What are the carbs in Mexican rice?",
+      "a": "About 42g carbs per cup, including 2.9g fiber and 3.1g sugars."
+    },
+    {
+      "q": "Is Mexican rice high in sodium?",
+      "a": "Yes, around 585mg sodium per cup due to seasonings and tomatoes."
+    },
+    {
+      "q": "How does cooking method affect calories in Mexican rice?",
+      "a": "More oil or butter increases fat and calories; steaming reduces them."
+    },
+    {
+      "q": "Protein content in Mexican rice?",
+      "a": "Roughly 5g protein per cup; adding meat or beans boosts it."
+    }
+  ]
+}

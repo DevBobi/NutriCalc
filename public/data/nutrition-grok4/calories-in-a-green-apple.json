@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a green apple",
+  "title": "Calories in a Green Apple",
+  "meta_description": "Discover calories in a green apple, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown per medium fruit.",
+  "slug": "calories-in-a-green-apple",
+  "h1": "Calories in a Green Apple",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "apple",
+    "item": "green apple"
+  },
+  "assumptions": "Medium-sized green apple (e.g., Granny Smith, ~182 g with skin and core removed, raw, unpeeled).",
+  "disclaimer": "Nutrition varies by variety, size, ripeness, and growing conditions. Check labels or apps for specific produce.",
+  "quick_answer": {
+    "total_kcal": 95,
+    "text": "One medium green apple provides ~95 kcal and ~4.4 g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium green apple",
+    "amount": 1,
+    "unit": "apple",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 25,
+      "fiber_g": 4.4,
+      "sugars_g": 19,
+      "protein_g": 0.5,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 95,
+    "carbs_g": 25,
+    "fiber_g": 4.4,
+    "sugars_g": 19,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Sliced with 1 tbsp peanut butter",
+      "delta_kcal_per_unit": 94,
+      "new_total_kcal": 189
+    },
+    {
+      "label": "Baked without added sugar",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 93
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a green apple?",
+      "a": "About 95 kcal for one medium green apple."
+    },
+    {
+      "q": "Are green apples lower in calories than red?",
+      "a": "Similar—both ~95 kcal per medium apple; green may have slightly less sugar."
+    },
+    {
+      "q": "What's the fiber content in a green apple?",
+      "a": "Approximately 4.4 g per medium apple, mostly from the skin."
+    },
+    {
+      "q": "Do green apples have fat or protein?",
+      "a": "Very low: 0.3 g fat and 0.5 g protein per apple."
+    },
+    {
+      "q": "How does apple size affect calories?",
+      "a": "Small (~129 g) ≈68 kcal; large (~223 g) ≈116 kcal—scale by weight."
+    }
+  ]
+}

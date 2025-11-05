@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in an mre",
+  "title": "How Many Calories in an MRE?",
+  "meta_description": "Discover how many calories in an MRE, including full nutrition breakdown like carbs, protein, fat, sodium, and variations for different menus.",
+  "slug": "how-many-calories-in-an-mre",
+  "h1": "How Many Calories in an MRE?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "mre",
+    "item": "MRE"
+  },
+  "assumptions": "Standard US military MRE (full meal kit including entree, sides, dessert, beverage mix; average across menus).",
+  "disclaimer": "Nutrition varies by MRE menu, manufacturer, expiration date, and components consumed. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 1250,
+    "text": "A standard MRE provides about 1250 kcal, designed for high energy in field conditions."
+  },
+  "basis": {
+    "label": "per 1 MRE",
+    "amount": 1,
+    "unit": "mre",
+    "nutrition": {
+      "calories_kcal": 1250,
+      "carbs_g": 170,
+      "fiber_g": 15,
+      "sugars_g": 40,
+      "protein_g": 45,
+      "fat_g": 55,
+      "sat_fat_g": 20,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 200,
+      "sodium_mg": 4000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1250,
+    "carbs_g": 170,
+    "fiber_g": 15,
+    "sugars_g": 40,
+    "protein_g": 45,
+    "fat_g": 55,
+    "sat_fat_g": 20,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 200,
+    "sodium_mg": 4000
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 5.23
+  },
+  "tweaks": [
+    {
+      "label": "Skip dessert and snack components",
+      "delta_kcal_per_unit": -250,
+      "new_total_kcal": 1000
+    },
+    {
+      "label": "Add supplemental snack pack (e.g., energy bar)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 1450
+    },
+    {
+      "label": "Vegetarian MRE variant (lower fat entree)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 1150
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an MRE typically?",
+      "a": "Around 1200-1300 kcal per full MRE, averaging 1250 kcal."
+    },
+    {
+      "q": "What is the protein content in an MRE?",
+      "a": "Approximately 45 g of protein per MRE."
+    },
+    {
+      "q": "Why is sodium so high in MREs?",
+      "a": "For flavor and preservation in field conditions; about 4000 mg per MRE."
+    },
+    {
+      "q": "Do all MREs have the same calories?",
+      "a": "No, varies by menu—some beef entrees higher, vegetarian lower."
+    },
+    {
+      "q": "How do MRE carbs break down?",
+      "a": "About 170 g total carbs, with 15 g fiber and 40 g sugars."
+    }
+  ]
+}

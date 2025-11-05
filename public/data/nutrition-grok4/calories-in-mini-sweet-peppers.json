@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mini sweet peppers",
+  "title": "Calories in Mini Sweet Peppers",
+  "meta_description": "Discover calories in mini sweet peppers per 100 g, including carbs, fiber, protein, fat breakdown, and simple tweaks for your snacks.",
+  "slug": "calories-in-mini-sweet-peppers",
+  "h1": "Calories in Mini Sweet Peppers",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "mini sweet peppers"
+  },
+  "assumptions": "Raw, mixed colors (red, yellow, orange), washed and eaten whole; no seeds or stems; similar to standard sweet bell peppers.",
+  "disclaimer": "Nutrition varies by color, ripeness, growing conditions, and preparation; organic vs. conventional may differ slightly. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 26,
+    "text": "100 g of mini sweet peppers provide about 26 kcal, with high vitamin C and low calories."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 26,
+      "carbs_g": 6,
+      "fiber_g": 1.7,
+      "sugars_g": 3.9,
+      "protein_g": 0.9,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 26,
+    "carbs_g": 6,
+    "fiber_g": 1.7,
+    "sugars_g": 3.9,
+    "protein_g": 0.9,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.11
+  },
+  "tweaks": [
+    {
+      "label": "Roasted in 1 tsp olive oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 66
+    },
+    {
+      "label": "Stuffed with 1 oz cream cheese per 100 g peppers",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 106
+    },
+    {
+      "label": "Dipped in 2 tbsp hummus (serving for 100 g)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 126
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one mini sweet pepper?",
+      "a": "About 4 kcal per average mini pepper (10-15 g), scaling from 26 kcal per 100 g."
+    },
+    {
+      "q": "Are mini sweet peppers low carb?",
+      "a": "Yes, 6 g carbs per 100 g, with 1.7 g fiber, making net carbs about 4.3 g."
+    },
+    {
+      "q": "What nutrients are in mini sweet peppers besides calories?",
+      "a": "High in vitamin C, vitamin A, and antioxidants; low in fat (0.2 g) and protein (0.9 g) per 100 g."
+    },
+    {
+      "q": "Do cooking methods change calories in mini sweet peppers?",
+      "a": "Raw is lowest; roasting without oil adds minimal calories, but added fats increase them significantly."
+    },
+    {
+      "q": "How many mini sweet peppers equal 100 g?",
+      "a": "Approximately 7-10 mini peppers, depending on size (each ~10-15 g)."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a bottle white wine",
+  "title": "Calories in a Bottle of White Wine",
+  "meta_description": "Discover calories in a bottle white wine (standard 750 ml), including carbs, alcohol impact, and nutrition breakdown for dry varieties.",
+  "slug": "calories-in-a-bottle-white-wine",
+  "h1": "Calories in a Bottle of White Wine",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "white wine"
+  },
+  "assumptions": "Standard 750 ml bottle, dry white wine (e.g., Sauvignon Blanc), ~12% ABV, no added sugars or mixers.",
+  "disclaimer": "Nutrition varies by wine type, sweetness, alcohol content, brand, and serving size. Check labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 615,
+    "text": "A standard 750 ml bottle of dry white wine has about 615 kcal, mostly from alcohol and carbs."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 82,
+      "carbs_g": 2.6,
+      "fiber_g": 0,
+      "sugars_g": 0.7,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 615,
+    "carbs_g": 19.5,
+    "fiber_g": 0,
+    "sugars_g": 5.3,
+    "protein_g": 0.8,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 38
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.57
+  },
+  "tweaks": [
+    {
+      "label": "Sweet white wine (higher residual sugar)",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 765
+    },
+    {
+      "label": "Lower alcohol (10% ABV vs. 12%)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 535
+    },
+    {
+      "label": "Mixed with soda water (spritzer, half wine)",
+      "delta_kcal_per_unit": -308,
+      "new_total_kcal": 307
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a standard glass of white wine?",
+      "a": "About 120-150 kcal for a 150 ml pour from a dry white wine bottle."
+    },
+    {
+      "q": "Does white wine have more calories than red?",
+      "a": "Similar; dry white is ~82 kcal/100 ml, dry red ~85 kcal/100 ml—sweetness increases both."
+    },
+    {
+      "q": "What contributes most to calories in white wine?",
+      "a": "Primarily alcohol (~7 kcal/g) and carbs/sugars; dry varieties have fewer carbs."
+    },
+    {
+      "q": "How many calories in a bottle of Chardonnay?",
+      "a": "Around 600-700 kcal for a 750 ml bottle, depending on if it's dry or oaked/sweet."
+    },
+    {
+      "q": "Is white wine low-carb?",
+      "a": "Dry white wine has ~2.6 g carbs per 100 ml, making it relatively low-carb compared to beer or cocktails."
+    }
+  ]
+}

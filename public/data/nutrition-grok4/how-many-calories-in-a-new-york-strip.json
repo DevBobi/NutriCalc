@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a new york strip",
+  "title": "How Many Calories in a New York Strip Steak?",
+  "meta_description": "Discover how many calories in a new york strip steak (typical 8-oz serving), plus full nutrition breakdown, protein, fat, and easy tweaks for your meal.",
+  "slug": "how-many-calories-in-a-new-york-strip",
+  "h1": "How Many Calories in a New York Strip Steak?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "new york strip",
+    "item": "new york strip steak"
+  },
+  "assumptions": "One 8-oz (227 g) serving, lean only, boneless, grilled, trimmed to 0\" fat, choice grade, no added oil, salt, or sauce.",
+  "disclaimer": "Nutrition varies by cut, grade, cooking method, portion size, and added ingredients. Check labels or use a tracker for precision.",
+  "quick_answer": {
+    "total_kcal": 468,
+    "text": "A typical 8-oz grilled New York strip steak provides ~468 kcal and ~70 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 206,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 30.8,
+      "fat_g": 8.4,
+      "sat_fat_g": 3.3,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 88,
+      "sodium_mg": 59
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 468,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 70,
+    "fat_g": 19.1,
+    "sat_fat_g": 7.5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 200,
+    "sodium_mg": 134
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.96
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter for basting",
+      "delta_kcal_per_unit": 102,
+      "new_total_kcal": 570
+    },
+    {
+      "label": "Select grade with more marbling (vs. lean choice)",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 528
+    },
+    {
+      "label": "Pan-seared with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 508
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 6-oz New York strip?",
+      "a": "About 352 kcal for a 6-oz (170 g) grilled lean serving."
+    },
+    {
+      "q": "What's the protein in a New York strip steak?",
+      "a": "~70 g protein in an 8-oz serving, making it a high-protein choice."
+    },
+    {
+      "q": "Does cooking method affect calories in New York strip?",
+      "a": "Yes—grilling keeps it lower; frying or adding fat increases by 40–100 kcal."
+    },
+    {
+      "q": "How much fat is in a New York strip?",
+      "a": "~19 g total fat in an 8-oz lean grilled steak, with 7.5 g saturated."
+    },
+    {
+      "q": "Are New York strips low-carb?",
+      "a": "Yes, 0 g carbs per serving, ideal for keto or low-carb diets."
+    }
+  ]
+}

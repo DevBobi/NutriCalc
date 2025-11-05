@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 2 cups flour",
+  "title": "Calories in 2 Cups Flour",
+  "meta_description": "Discover calories in 2 cups flour, including carbs, protein, fat details per 100g basis, totals, and preparation tweaks for baking.",
+  "slug": "calories-in-2-cups-flour",
+  "h1": "Calories in 2 Cups Flour",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 2,
+    "unit": "cups",
+    "item": "flour"
+  },
+  "assumptions": "All-purpose white flour, unsifted (≈120 g per cup), plain without additives.",
+  "disclaimer": "Nutrition varies by flour type (e.g., all-purpose vs. whole wheat), brand, sifting, and measurement accuracy. Check packaging when available.",
+  "quick_answer": {
+    "total_kcal": 874,
+    "text": "2 cups all-purpose flour provide ~874 kcal and ~182 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 364,
+      "carbs_g": 76,
+      "fiber_g": 2.7,
+      "sugars_g": 0.3,
+      "protein_g": 10,
+      "fat_g": 1,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 874,
+    "carbs_g": 182,
+    "fiber_g": 6.5,
+    "sugars_g": 0.7,
+    "protein_g": 24,
+    "fat_g": 2.4,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.66
+  },
+  "tweaks": [
+    {
+      "label": "Switch to whole wheat flour",
+      "delta_kcal_per_unit": -58,
+      "new_total_kcal": 816
+    },
+    {
+      "label": "Sifted flour (≈100 g per cup, lighter)",
+      "delta_kcal_per_unit": -182,
+      "new_total_kcal": 692
+    },
+    {
+      "label": "Self-rising flour (with leavening agents)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 884
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 2 cups of all-purpose flour?",
+      "a": "Approximately 874 kcal for 2 cups (240 g total)."
+    },
+    {
+      "q": "What are the carbs in 2 cups flour?",
+      "a": "About 182 g carbs, including 6.5 g fiber and minimal sugars."
+    },
+    {
+      "q": "Does flour have protein or fat?",
+      "a": "Yes, ~24 g protein and 2.4 g fat in 2 cups, mostly from the grain."
+    },
+    {
+      "q": "How does whole wheat flour compare in calories?",
+      "a": "Slightly lower at ~816 kcal for 2 cups, with more fiber (~12 g)."
+    },
+    {
+      "q": "Why measure flour by weight not cups?",
+      "a": "Cups vary by packing/sifting; 120 g per cup is standard for accuracy."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in guacamole",
+  "title": "How Many Calories Are in Guacamole?",
+  "meta_description": "Learn how many calories in guacamole per 100g serving, including full nutrition facts like fats, carbs, fiber, and recipe tweaks for healthier options.",
+  "slug": "how-many-calories-in-guacamole",
+  "h1": "How Many Calories Are in Guacamole?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "guacamole"
+  },
+  "assumptions": "Homemade guacamole with ripe avocados, lime juice, onion, tomato, cilantro, and a pinch of salt; no added oils or creams.",
+  "disclaimer": "Nutrition varies by recipe, ingredient freshness, portion size, and added seasonings; store-bought versions may differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 160,
+    "text": "100g of guacamole provides about 160 kcal, primarily from healthy monounsaturated fats in avocados."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 160,
+      "carbs_g": 9,
+      "fiber_g": 7,
+      "sugars_g": 1.5,
+      "protein_g": 2,
+      "fat_g": 15,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 160,
+    "carbs_g": 9,
+    "fiber_g": 7,
+    "sugars_g": 1.5,
+    "protein_g": 2,
+    "fat_g": 15,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 250
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.67
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp sour cream per 100g",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 185
+    },
+    {
+      "label": "Use Greek yogurt instead of some avocado (lighter version)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Include jalapeño and extra onion (minimal calorie change)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 165
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of guacamole?",
+      "a": "Approximately 160 kcal per 100g."
+    },
+    {
+      "q": "Is guacamole high in healthy fats?",
+      "a": "Yes, about 15g total fat per 100g, mostly from avocados' monounsaturated fats."
+    },
+    {
+      "q": "How much fiber is in guacamole?",
+      "a": "Around 7g dietary fiber per 100g, thanks to avocados and veggies."
+    },
+    {
+      "q": "Does store-bought guacamole have more calories?",
+      "a": "Often yes, due to added preservatives or oils; check labels for exact values."
+    },
+    {
+      "q": "What's a low-calorie guacamole tweak?",
+      "a": "Replace half the avocado with mashed peas or yogurt to cut calories by 20-30%."
+    }
+  ]
+}

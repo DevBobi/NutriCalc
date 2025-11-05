@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cup 2 percent milk",
+  "title": "Calories in 1 Cup 2% Milk",
+  "meta_description": "Discover calories in 1 cup 2 percent milk, including full nutrition breakdown with protein, carbs, fat, and quick variations for your diet.",
+  "slug": "calories-in-1-cup-2-percent-milk",
+  "h1": "Calories in 1 Cup 2% Milk",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "2 percent milk"
+  },
+  "assumptions": "Reduced-fat (2%) cow's milk, pasteurized, no additives; 1 cup ≈ 244 g or 240 ml.",
+  "disclaimer": "Nutrition varies by brand, fat content, fortification, and processing; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 122,
+    "text": "One cup of 2% milk provides ~122 kcal and ~8 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 122,
+      "carbs_g": 12.3,
+      "fiber_g": 0,
+      "sugars_g": 12.3,
+      "protein_g": 8.1,
+      "fat_g": 4.8,
+      "sat_fat_g": 3.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 115
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 122,
+    "carbs_g": 12.3,
+    "fiber_g": 0,
+    "sugars_g": 12.3,
+    "protein_g": 8.1,
+    "fat_g": 4.8,
+    "sat_fat_g": 3.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 115
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.51
+  },
+  "tweaks": [
+    {
+      "label": "Switch to skim milk (0% fat)",
+      "delta_kcal_per_unit": -42,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Use whole milk (3.25% fat) instead",
+      "delta_kcal_per_unit": 28,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Add 1 tsp sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 138
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup 2 percent milk?",
+      "a": "Approximately 122 kcal per cup."
+    },
+    {
+      "q": "What's the protein in 1 cup of 2% milk?",
+      "a": "About 8.1 g of protein."
+    },
+    {
+      "q": "Does 2% milk have a lot of sugar?",
+      "a": "It contains ~12.3 g of natural lactose sugars per cup."
+    },
+    {
+      "q": "How does 2% milk compare to whole milk calories?",
+      "a": "2% has ~122 kcal per cup; whole milk has ~150 kcal."
+    },
+    {
+      "q": "Is the fat in 2% milk mostly saturated?",
+      "a": "Yes, ~3.1 g saturated fat out of 4.8 g total fat per cup."
+    }
+  ]
+}

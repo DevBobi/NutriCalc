@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a 7 11 taquito",
+  "title": "Calories in a 7-Eleven Taquito",
+  "meta_description": "Discover calories in a 7 11 taquito, including macros like protein and fat, plus tweaks and FAQs for quick nutrition insights.",
+  "slug": "calories-in-a-7-11-taquito",
+  "h1": "Calories in a 7-Eleven Taquito",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "taquito",
+    "item": "7-11 taquito"
+  },
+  "assumptions": "Standard 7-Eleven frozen breakfast taquito (e.g., bacon, egg, cheese; ~3.5 oz or 100g), microwaved, no added toppings.",
+  "disclaimer": "Nutrition varies by flavor, brand batch, preparation, and exact size. Check 7-Eleven packaging or app for precise values.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A 7-Eleven taquito typically contains ~250 kcal with 10 g protein."
+  },
+  "basis": {
+    "label": "per 1 taquito",
+    "amount": 1,
+    "unit": "taquito",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 10,
+      "fat_g": 12,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 150,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 25,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 10,
+    "fat_g": 12,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 150,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp salsa",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "With 1 tbsp sour cream",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Vegetarian bean and cheese version",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 7 11 taquito?",
+      "a": "Approximately 250 kcal for a standard breakfast taquito."
+    },
+    {
+      "q": "What are the macros in a 7-Eleven taquito?",
+      "a": "About 25 g carbs, 10 g protein, 12 g fat, and 600 mg sodium."
+    },
+    {
+      "q": "Does a 7 11 taquito have a lot of sodium?",
+      "a": "Yes, around 600 mg per taquito due to processing and cheese."
+    },
+    {
+      "q": "Are 7-Eleven taquitos fried or baked?",
+      "a": "Typically pre-fried and frozen; microwaving adds minimal extra calories."
+    },
+    {
+      "q": "How do calories vary by 7 11 taquito flavor?",
+      "a": "Bacon/egg ~250 kcal; bean/cheese lower at ~200 kcal; steak higher at ~280 kcal."
+    }
+  ]
+}

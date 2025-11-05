@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in sirloin steak",
+  "title": "How Many Calories in Sirloin Steak?",
+  "meta_description": "Discover how many calories in sirloin steak, including protein, fat, full nutrition breakdown per serving, and easy tweaks for different preparations.",
+  "slug": "how-many-calories-in-sirloin-steak",
+  "h1": "How Many Calories in Sirloin Steak?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "steak",
+    "item": "sirloin steak"
+  },
+  "assumptions": "Lean top sirloin steak, trimmed to 0\" fat, cooked (broiled), standard 150 g serving size.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and portion size. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 309,
+    "text": "One 150 g cooked sirloin steak has ~309 kcal and ~45 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 206,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 30,
+      "fat_g": 8.6,
+      "sat_fat_g": 3.4,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 82,
+      "sodium_mg": 58
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 309,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 45,
+    "fat_g": 12.9,
+    "sat_fat_g": 5.1,
+    "trans_fat_g": 0.3,
+    "cholesterol_mg": 123,
+    "sodium_mg": 87
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.29
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter for cooking per steak",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 345
+    },
+    {
+      "label": "Include 1/4 inch fat trim (vs. lean) per 100 g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 409
+    },
+    {
+      "label": "Grilled with 1 tsp olive oil per steak",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 349
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one sirloin steak?",
+      "a": "About 309 kcal for a 150 g lean, cooked sirloin steak."
+    },
+    {
+      "q": "What's the protein in sirloin steak?",
+      "a": "Roughly 30 g protein per 100 g, or 45 g per 150 g steak."
+    },
+    {
+      "q": "Does sirloin steak have carbs?",
+      "a": "No carbs, fiber, or sugars in plain cooked sirloin steak."
+    },
+    {
+      "q": "How does cooking method affect calories in sirloin steak?",
+      "a": "Broiling or grilling keeps it lean; frying or adding fats increases calories by 30-50 kcal per serving."
+    },
+    {
+      "q": "Is sirloin steak high in fat?",
+      "a": "Lean cuts have ~8.6 g fat per 100 g; choose trimmed for lower fat."
+    }
+  ]
+}

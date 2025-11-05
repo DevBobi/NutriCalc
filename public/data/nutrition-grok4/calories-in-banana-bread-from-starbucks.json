@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in banana bread from starbucks",
+  "title": "Calories in Starbucks Banana Bread",
+  "meta_description": "Discover calories in banana bread from Starbucks, including full nutrition breakdown per slice, macros, and preparation tweaks for your coffee shop treat.",
+  "slug": "calories-in-banana-bread-from-starbucks",
+  "h1": "Calories in Starbucks Banana Bread",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "banana bread from Starbucks"
+  },
+  "assumptions": "Standard Starbucks banana nut loaf slice (~113 g), baked with bananas, walnuts, and sugar; values from official menu data.",
+  "disclaimer": "Nutrition varies by location, batch, and customizations; check Starbucks app or labels for latest info.",
+  "quick_answer": {
+    "total_kcal": 410,
+    "text": "One slice of Starbucks banana bread has 410 kcal, with 58 g carbs and 5 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 410,
+      "carbs_g": 58,
+      "fiber_g": 2,
+      "sugars_g": 32,
+      "protein_g": 5,
+      "fat_g": 18,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 55,
+      "sodium_mg": 320
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 410,
+    "carbs_g": 58,
+    "fiber_g": 2,
+    "sugars_g": 32,
+    "protein_g": 5,
+    "fat_g": 18,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 55,
+    "sodium_mg": 320
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.72
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 pat of butter (~5 g)",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 446
+    },
+    {
+      "label": "Nut-free version (remove walnuts)",
+      "delta_kcal_per_unit": -45,
+      "new_total_kcal": 365
+    },
+    {
+      "label": "Half slice serving",
+      "delta_kcal_per_unit": -205,
+      "new_total_kcal": 205
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in banana bread from Starbucks?",
+      "a": "One standard slice contains 410 kcal."
+    },
+    {
+      "q": "What are the carbs in Starbucks banana bread?",
+      "a": "About 58 g total carbs, including 32 g sugars and 2 g fiber per slice."
+    },
+    {
+      "q": "Is Starbucks banana bread high in fat?",
+      "a": "Yes, 18 g total fat per slice, with 3.5 g saturated."
+    },
+    {
+      "q": "How much protein in a slice of Starbucks banana bread?",
+      "a": "Roughly 5 g protein per slice."
+    },
+    {
+      "q": "Does Starbucks banana bread have nuts?",
+      "a": "Yes, it includes walnuts; ask for nut-free if allergic, but availability varies."
+    }
+  ]
+}

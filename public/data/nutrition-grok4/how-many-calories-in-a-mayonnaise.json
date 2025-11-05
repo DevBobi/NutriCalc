@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a mayonnaise",
+  "title": "How Many Calories in a Tablespoon of Mayonnaise?",
+  "meta_description": "Discover how many calories in a mayonnaise serving (1 tbsp), including full nutrition breakdown, macros, and variations for light or homemade options.",
+  "slug": "how-many-calories-in-a-mayonnaise",
+  "h1": "How Many Calories in a Tablespoon of Mayonnaise?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "mayonnaise"
+  },
+  "assumptions": "Regular full-fat mayonnaise; standard serving size of 1 tablespoon (~13-15 g); commercial brand like Hellmann's, no added ingredients.",
+  "disclaimer": "Nutrition varies by brand, fat content, homemade vs. store-bought, and exact serving size. Check labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 94,
+    "text": "One tablespoon of regular mayonnaise contains about 94 kcal, mostly from fat."
+  },
+  "basis": {
+    "label": "per 1 tbsp",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 94,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0.1,
+      "protein_g": 0.1,
+      "fat_g": 10.3,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 6,
+      "sodium_mg": 88
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 94,
+    "carbs_g": 0.1,
+    "fiber_g": 0,
+    "sugars_g": 0.1,
+    "protein_g": 0.1,
+    "fat_g": 10.3,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 6,
+    "sodium_mg": 88
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.39
+  },
+  "tweaks": [
+    {
+      "label": "Switch to light mayonnaise",
+      "delta_kcal_per_unit": -45,
+      "new_total_kcal": 49
+    },
+    {
+      "label": "Homemade with olive oil (vs. vegetable oil base)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 99
+    },
+    {
+      "label": "Vegan mayo (egg-free alternative)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 84
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of mayonnaise?",
+      "a": "About 94 kcal per tablespoon of regular full-fat mayonnaise."
+    },
+    {
+      "q": "Is mayonnaise high in fat?",
+      "a": "Yes, primarily fat—10.3 g per tbsp, with 1.5 g saturated."
+    },
+    {
+      "q": "What's the difference in calories for light mayo?",
+      "a": "Light versions have around 35-50 kcal per tbsp, lower fat content."
+    },
+    {
+      "q": "Does mayonnaise have carbs or protein?",
+      "a": "Negligible—0.1 g carbs and 0.1 g protein per tbsp."
+    },
+    {
+      "q": "How does brand affect mayonnaise calories?",
+      "a": "Brands vary slightly; e.g., some reduced-fat options are 40-60 kcal per tbsp."
+    }
+  ]
+}

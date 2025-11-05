@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a calzone pizza",
+  "title": "Calories in a Calzone Pizza",
+  "meta_description": "Discover calories in a calzone pizza, including full nutrition breakdown like carbs, protein, fat, and tips for variations under 160 characters.",
+  "slug": "calories-in-a-calzone-pizza",
+  "h1": "Calories in a Calzone Pizza",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "calzone",
+    "item": "pizza calzone"
+  },
+  "assumptions": "Standard cheese calzone with marinara sauce and dough; approx. 300g serving, baked, no extra toppings.",
+  "disclaimer": "Nutrition varies by recipe, size, fillings, brand, and baking method. Check labels or recipes when available.",
+  "quick_answer": {
+    "total_kcal": 650,
+    "text": "A typical calzone pizza contains about 650 kcal with balanced macros from dough and cheese."
+  },
+  "basis": {
+    "label": "per 1 calzone",
+    "amount": 1,
+    "unit": "calzone",
+    "nutrition": {
+      "calories_kcal": 650,
+      "carbs_g": 75,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 25,
+      "fat_g": 25,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 50,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 650,
+    "carbs_g": 75,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 25,
+    "fat_g": 25,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 50,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged or restaurant items.",
+  "equivalents": {
+    "megajoules": 2.72
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni slices",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 750
+    },
+    {
+      "label": "Vegetarian with veggies (no meat/cheese reduction)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 600
+    },
+    {
+      "label": "Whole wheat dough substitution",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 630
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a calzone pizza?",
+      "a": "Approximately 650 kcal for a standard cheese calzone pizza."
+    },
+    {
+      "q": "What are the carbs in a calzone pizza?",
+      "a": "About 75 g carbs, mostly from the dough."
+    },
+    {
+      "q": "Is a calzone pizza high in sodium?",
+      "a": "Yes, around 1200 mg due to sauce and cheese."
+    },
+    {
+      "q": "How does adding meat affect calories in a calzone pizza?",
+      "a": "Adds about 100 kcal or more, depending on the meat type."
+    },
+    {
+      "q": "Can I make a lower-calorie calzone pizza?",
+      "a": "Yes, use veggies, reduce cheese, or opt for whole wheat dough to cut 20-100 kcal."
+    }
+  ]
+}

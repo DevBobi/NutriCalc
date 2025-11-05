@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in small wendys fry",
+  "title": "Calories in Small Wendy's Fry",
+  "meta_description": "Discover calories in small Wendy's fry, including full nutrition breakdown like carbs, fat, protein, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-small-wendys-fry",
+  "h1": "Calories in Small Wendy's Fry",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "small serving",
+    "item": "Wendy's fries"
+  },
+  "assumptions": "Wendy's small natural-cut fries, fried, standard preparation with salt; based on official nutrition data (approx. 113g serving).",
+  "disclaimer": "Nutrition varies by location, preparation, and portion size. Check Wendy's app or menu for latest values.",
+  "quick_answer": {
+    "total_kcal": 230,
+    "text": "A small Wendy's fry serving contains 230 calories and 3g protein."
+  },
+  "basis": {
+    "label": "per 1 small serving",
+    "amount": 1,
+    "unit": "small serving",
+    "nutrition": {
+      "calories_kcal": 230,
+      "carbs_g": 30,
+      "fiber_g": 3,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 11,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 290
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 230,
+    "carbs_g": 30,
+    "fiber_g": 3,
+    "sugars_g": 0,
+    "protein_g": 3,
+    "fat_g": 11,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 290
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.96
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "No salt added",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Upgrade to medium size",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 340
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small Wendy's fry?",
+      "a": "230 calories per small serving."
+    },
+    {
+      "q": "What are the carbs in small Wendy's fries?",
+      "a": "30g total carbs, including 3g fiber and 0g sugars."
+    },
+    {
+      "q": "How much fat and sodium in small Wendy's fry?",
+      "a": "11g total fat (2g saturated) and 290mg sodium."
+    },
+    {
+      "q": "Are Wendy's small fries gluten-free?",
+      "a": "Generally yes, but cross-contamination possible; check with restaurant."
+    },
+    {
+      "q": "How does small compare to large Wendy's fries calories?",
+      "a": "Small: 230 kcal; large: about 470 kcal."
+    }
+  ]
+}

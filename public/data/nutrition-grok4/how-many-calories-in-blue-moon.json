@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in blue moon",
+  "title": "How Many Calories in Blue Moon Beer?",
+  "meta_description": "Discover how many calories in blue moon beer per 12 oz serving, including carbs, alcohol content, and nutrition breakdowns for easy tracking.",
+  "slug": "how-many-calories-in-blue-moon",
+  "h1": "How Many Calories in Blue Moon Beer?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "Blue Moon beer"
+  },
+  "assumptions": "Standard 12 fl oz bottle of Blue Moon Belgian White, 5.4% ABV, unfiltered wheat beer with spices.",
+  "disclaimer": "Nutrition varies by batch, serving size, and brand specifics; alcohol content affects calorie absorption. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 170,
+    "text": "One 12 oz Blue Moon beer contains about 170 calories, mostly from carbs and alcohol."
+  },
+  "basis": {
+    "label": "per 12 fl oz bottle",
+    "amount": 1,
+    "unit": "bottle",
+    "nutrition": {
+      "calories_kcal": 170,
+      "carbs_g": 14.7,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 1.2,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 9
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 170,
+    "carbs_g": 14.7,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 1.2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 9
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.71
+  },
+  "tweaks": [
+    {
+      "label": "16 oz pint serving (vs. 12 oz bottle)",
+      "delta_kcal_per_unit": 57,
+      "new_total_kcal": 227
+    },
+    {
+      "label": "Blue Moon Light Sky (lower ABV variant) per bottle",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add orange slice garnish",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 175
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Blue Moon beer?",
+      "a": "Approximately 170 calories in a standard 12 fl oz bottle."
+    },
+    {
+      "q": "What are the carbs in Blue Moon?",
+      "a": "About 14.7 g of carbohydrates per 12 oz serving, with 1 g sugars."
+    },
+    {
+      "q": "Does Blue Moon have protein or fat?",
+      "a": "Minimal: 1.2 g protein and 0 g fat per bottle."
+    },
+    {
+      "q": "How does alcohol affect calories in blue moon?",
+      "a": "The 5.4% ABV contributes around 100 calories from alcohol alone."
+    },
+    {
+      "q": "Are there lower calorie Blue Moon options?",
+      "a": "Yes, like Blue Moon Light Sky at about 140 kcal per 12 oz."
+    }
+  ]
+}

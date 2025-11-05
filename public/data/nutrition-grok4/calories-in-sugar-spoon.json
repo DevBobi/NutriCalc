@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sugar spoon",
+  "title": "Calories in a Sugar Spoon",
+  "meta_description": "Discover calories in sugar spoon (1 tsp), plus carbs, sugars, full nutrition breakdown per serving, and easy tweaks for your recipes.",
+  "slug": "calories-in-sugar-spoon",
+  "h1": "Calories in a Sugar Spoon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "spoon",
+    "item": "sugar"
+  },
+  "assumptions": "Granulated white sugar; 1 level teaspoon (tsp) ≈4 g; no additives.",
+  "disclaimer": "Nutrition varies by sugar type (white, brown), granule size, packing level, and brand. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 16,
+    "text": "One teaspoon of sugar provides about 16 kcal, all from carbs."
+  },
+  "basis": {
+    "label": "per 1 tsp (4 g)",
+    "amount": 1,
+    "unit": "spoon",
+    "nutrition": {
+      "calories_kcal": 16,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sugars_g": 4,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 16,
+    "carbs_g": 4,
+    "fiber_g": 0,
+    "sugars_g": 4,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.07
+  },
+  "tweaks": [
+    {
+      "label": "Use 1 tablespoon (3 tsp) instead",
+      "delta_kcal_per_unit": 32,
+      "new_total_kcal": 48
+    },
+    {
+      "label": "Switch to brown sugar (per tsp)",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 17
+    },
+    {
+      "label": "Heaping tsp (≈5 g)",
+      "delta_kcal_per_unit": 4,
+      "new_total_kcal": 20
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one sugar spoon?",
+      "a": "About 16 kcal for 1 level teaspoon of granulated sugar."
+    },
+    {
+      "q": "Is sugar spoon calories from carbs?",
+      "a": "Yes, all 16 kcal come from 4 g of carbohydrates (sugars)."
+    },
+    {
+      "q": "What's the difference between tsp and tbsp sugar calories?",
+      "a": "1 tbsp is ≈48 kcal (3 tsp), so three times a teaspoon."
+    },
+    {
+      "q": "Does brown sugar have more calories per spoon?",
+      "a": "Slightly—about 17 kcal per tsp due to minor molasses content."
+    },
+    {
+      "q": "Are there any fats or proteins in sugar spoon?",
+      "a": "No—pure sugar is 0 g fat, 0 g protein, all carbs."
+    }
+  ]
+}

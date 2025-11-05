@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in an extra large egg",
+  "title": "Calories in an Extra Large Egg",
+  "meta_description": "Discover calories in an extra large egg, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-an-extra-large-egg",
+  "h1": "Calories in an Extra Large Egg",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "egg",
+    "item": "extra large egg"
+  },
+  "assumptions": "Extra large egg (~56 g), raw or hard-boiled, no added salt, oil, or seasonings.",
+  "disclaimer": "Nutrition varies by egg size, freshness, farming method, and preparation; check labels or sources for precision.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "An extra large egg provides ~80 kcal and ~7 g protein."
+  },
+  "basis": {
+    "label": "per 1 extra large egg",
+    "amount": 1,
+    "unit": "egg",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 0.6,
+      "fiber_g": 0,
+      "sugars_g": 0.4,
+      "protein_g": 7,
+      "fat_g": 5.5,
+      "sat_fat_g": 1.8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 210,
+      "sodium_mg": 80
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 0.6,
+    "fiber_g": 0,
+    "sugars_g": 0.4,
+    "protein_g": 7,
+    "fat_g": 5.5,
+    "sat_fat_g": 1.8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 210,
+    "sodium_mg": 80
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Fried in 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Egg whites only (remove yolk)",
+      "delta_kcal_per_unit": -55,
+      "new_total_kcal": 25
+    },
+    {
+      "label": "Scrambled with 1 tsp butter",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 115
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an extra large egg?",
+      "a": "Approximately 80 kcal for one extra large egg."
+    },
+    {
+      "q": "What's the protein in an extra large egg?",
+      "a": "About 7 g of high-quality protein per egg."
+    },
+    {
+      "q": "Do extra large eggs have more calories than large ones?",
+      "a": "Yes, ~80 kcal vs. ~70-78 kcal for a large egg due to greater size."
+    },
+    {
+      "q": "How does cooking affect calories in an extra large egg?",
+      "a": "Raw, boiled, or poached keep calories similar (~80 kcal); frying adds ~40+ kcal from oil."
+    },
+    {
+      "q": "Why is cholesterol high in an extra large egg?",
+      "a": "The yolk contains ~210 mg cholesterol, but dietary impact varies by individual health."
+    }
+  ]
+}

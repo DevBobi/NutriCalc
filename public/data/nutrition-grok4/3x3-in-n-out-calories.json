@@ -1,0 +1,92 @@
+{
+  "keyword": "3x3 in n out calories",
+  "title": "Calories in 3x3 In-N-Out Burger",
+  "meta_description": "Discover 3x3 in n out calories: 1090 kcal per burger, plus full nutrition breakdown including protein, fat, carbs, sodium, and tweaks for variations.",
+  "slug": "3x3-in-n-out-calories",
+  "h1": "Calories in 3x3 In-N-Out Burger",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "3x3 In-N-Out"
+  },
+  "assumptions": "Standard 3x3 burger with 3 beef patties, 3 cheese slices, lettuce, tomato, onion, spread, on toasted bun; no modifications.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations; values based on In-N-Out's published data. Check app or receipt for latest.",
+  "quick_answer": {
+    "total_kcal": 1090,
+    "text": "The 3x3 In-N-Out burger packs 1090 kcal with 71 g protein."
+  },
+  "basis": {
+    "label": "per 1 burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 1090,
+      "carbs_g": 39,
+      "fiber_g": 3,
+      "sugars_g": 10,
+      "protein_g": 71,
+      "fat_g": 73,
+      "sat_fat_g": 32,
+      "trans_fat_g": 3,
+      "cholesterol_mg": 280,
+      "sodium_mg": 2440
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1090,
+    "carbs_g": 39,
+    "fiber_g": 3,
+    "sugars_g": 10,
+    "protein_g": 71,
+    "fat_g": 73,
+    "sat_fat_g": 32,
+    "trans_fat_g": 3,
+    "cholesterol_mg": 280,
+    "sodium_mg": 2440
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.56
+  },
+  "tweaks": [
+    {
+      "label": "Protein style (bun replaced with lettuce wrap)",
+      "delta_kcal_per_unit": -240,
+      "new_total_kcal": 850
+    },
+    {
+      "label": "Remove spread (thousand island-style sauce)",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 1000
+    },
+    {
+      "label": "Add grilled onions (Animal Style tweak)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 1140
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 3x3 In-N-Out burger?",
+      "a": "1090 kcal for the standard 3x3."
+    },
+    {
+      "q": "What's the protein in 3x3 in n out calories breakdown?",
+      "a": "About 71 g protein from the three beef patties and cheese."
+    },
+    {
+      "q": "How much fat and sodium in a 3x3 In-N-Out?",
+      "a": "73 g total fat (32 g saturated) and 2440 mg sodium."
+    },
+    {
+      "q": "Are 3x3 in n out calories higher than a Double-Double?",
+      "a": "Yes, about 420 kcal more than the 670 kcal Double-Double."
+    },
+    {
+      "q": "Can I lower 3x3 in n out calories with mods?",
+      "a": "Yes—skip the spread to save 90 kcal or go protein style to cut 240 kcal."
+    }
+  ]
+}

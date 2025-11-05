@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in fat free milk",
+  "title": "Calories in Fat Free Milk",
+  "meta_description": "Discover calories in fat free milk per cup, including protein, carbs, fat details, and nutrition breakdowns for easy tracking.",
+  "slug": "calories-in-fat-free-milk",
+  "h1": "Calories in Fat Free Milk",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "fat free milk"
+  },
+  "assumptions": "Fat-free (skim) cow's milk, pasteurized; standard 1 cup serving (240 ml); no added flavors or sweeteners.",
+  "disclaimer": "Nutrition varies by brand, fortification, processing, and serving size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 83,
+    "text": "One cup of fat-free milk provides ~83 kcal and ~8 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup (240 ml)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 83,
+      "carbs_g": 12.2,
+      "fiber_g": 0,
+      "sugars_g": 12.2,
+      "protein_g": 8.3,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 107
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 83,
+    "carbs_g": 12.2,
+    "fiber_g": 0,
+    "sugars_g": 12.2,
+    "protein_g": 8.3,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 107
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.35
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate fat-free milk (added cocoa and sugar)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 133
+    },
+    {
+      "label": "Lactose-free fat-free milk",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "With 1 tsp added sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 99
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of fat free milk?",
+      "a": "Approximately 83 kcal per cup."
+    },
+    {
+      "q": "Is fat free milk high in protein?",
+      "a": "Yes, about 8.3 g protein per cup."
+    },
+    {
+      "q": "What are the carbs in fat free milk?",
+      "a": "Around 12.2 g carbs, mostly from natural lactose sugars."
+    },
+    {
+      "q": "Does fat free milk have any fat?",
+      "a": "Minimal, only 0.2 g total fat per cup."
+    },
+    {
+      "q": "How does fat free milk compare to whole milk calories?",
+      "a": "Fat free has ~83 kcal per cup; whole milk has ~150 kcal."
+    }
+  ]
+}

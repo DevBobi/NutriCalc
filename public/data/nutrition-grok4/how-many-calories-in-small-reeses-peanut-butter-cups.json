@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in small reeses peanut butter cups",
+  "title": "How Many Calories in Small Reese's Peanut Butter Cups?",
+  "meta_description": "Discover how many calories in small Reese's peanut butter cups—about 44 kcal per mini cup—plus full nutrition breakdown, macros, and tweaks for variations.",
+  "slug": "how-many-calories-in-small-reeses-peanut-butter-cups",
+  "h1": "How Many Calories in Small Reese's Peanut Butter Cups?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small cup",
+    "item": "Reese's peanut butter"
+  },
+  "assumptions": "Standard mini Reese's Peanut Butter Cup (about 8.7 g), milk chocolate exterior with creamy peanut butter filling; no modifications.",
+  "disclaimer": "Nutrition varies by batch, size, and manufacturer; values based on average USDA and brand data. Check packaging for exact info.",
+  "quick_answer": {
+    "total_kcal": 44,
+    "text": "One small Reese's Peanut Butter Cup contains about 44 calories, mostly from fat and carbs."
+  },
+  "basis": {
+    "label": "per 1 small Reese's Peanut Butter Cup",
+    "amount": 1,
+    "unit": "small cup",
+    "nutrition": {
+      "calories_kcal": 44,
+      "carbs_g": 4.4,
+      "fiber_g": 0.2,
+      "sugars_g": 3.8,
+      "protein_g": 1,
+      "fat_g": 2.6,
+      "sat_fat_g": 1.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 1,
+      "sodium_mg": 34
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 44,
+    "carbs_g": 4.4,
+    "fiber_g": 0.2,
+    "sugars_g": 3.8,
+    "protein_g": 1,
+    "fat_g": 2.6,
+    "sat_fat_g": 1.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 1,
+    "sodium_mg": 34
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.18
+  },
+  "tweaks": [
+    {
+      "label": "Sugar-free version (less sugar, similar fat)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 39
+    },
+    {
+      "label": "Add 1 tsp extra peanut butter filling",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 74
+    },
+    {
+      "label": "Dark chocolate coating (slightly less sweet)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 42
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in small Reese's peanut butter cups?",
+      "a": "One small (mini) Reese's Peanut Butter Cup has about 44 calories."
+    },
+    {
+      "q": "What are the macros for a small Reese's Peanut Butter Cup?",
+      "a": "Approximately 2.6 g fat, 4.4 g carbs (3.8 g sugars), and 1 g protein."
+    },
+    {
+      "q": "How much sugar is in small Reese's peanut butter cups?",
+      "a": "About 3.8 g of sugars per small cup, mainly from chocolate and filling."
+    },
+    {
+      "q": "Are small Reese's Peanut Butter Cups high in sodium?",
+      "a": "Moderately, with 34 mg sodium per small cup from peanut butter and chocolate."
+    },
+    {
+      "q": "How do calories compare in mini vs. standard Reese's cups?",
+      "a": "Mini (small) is 44 kcal; standard size is about 110 kcal—over twice as much."
+    }
+  ]
+}

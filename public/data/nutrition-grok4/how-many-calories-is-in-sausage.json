@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in sausage",
+  "title": "How Many Calories Are in a Sausage?",
+  "meta_description": "Discover how many calories is in sausage, including full nutrition breakdown per link, protein, fat, and variations for different types.",
+  "slug": "how-many-calories-is-in-sausage",
+  "h1": "How Many Calories Are in a Sausage?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sausage",
+    "item": "sausage"
+  },
+  "assumptions": "One standard cooked pork sausage link (85 g), pan-fried, no added seasonings or fillers.",
+  "disclaimer": "Nutrition varies by type (pork, beef, turkey), brand, size, cooking method, and additives. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 288,
+    "text": "One cooked pork sausage link provides about 288 kcal and 16 g protein."
+  },
+  "basis": {
+    "label": "per 1 cooked pork sausage (85 g)",
+    "amount": 1,
+    "unit": "sausage",
+    "nutrition": {
+      "calories_kcal": 288,
+      "carbs_g": 0.9,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 15.6,
+      "fat_g": 25.6,
+      "sat_fat_g": 8.8,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 65,
+      "sodium_mg": 694
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 288,
+    "carbs_g": 0.9,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 15.6,
+    "fat_g": 25.6,
+    "sat_fat_g": 8.8,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 65,
+    "sodium_mg": 694
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.2
+  },
+  "tweaks": [
+    {
+      "label": "Switch to turkey sausage (lower fat)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 188
+    },
+    {
+      "label": "Add 1 tsp oil for frying",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 328
+    },
+    {
+      "label": "Italian sausage with herbs and spices",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 308
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in sausage per link?",
+      "a": "About 288 kcal for one 85 g cooked pork sausage."
+    },
+    {
+      "q": "What's the protein in a sausage?",
+      "a": "Roughly 15.6 g protein per cooked pork sausage link."
+    },
+    {
+      "q": "Are sausages high in fat?",
+      "a": "Yes, about 25.6 g total fat, including 8.8 g saturated, per link."
+    },
+    {
+      "q": "How does cooking method affect calories in sausage?",
+      "a": "Grilling or baking reduces fat compared to frying; frying adds ~40 kcal if oil is used."
+    },
+    {
+      "q": "What's the sodium content in sausage?",
+      "a": "Around 694 mg per 85 g link, varying by brand and seasoning."
+    }
+  ]
+}

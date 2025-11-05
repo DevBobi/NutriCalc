@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a bloody mary",
+  "title": "How Many Calories in a Bloody Mary?",
+  "meta_description": "Discover how many calories in a bloody mary, including carbs, sodium, and full nutrition breakdown for a standard serving, plus recipe tweaks.",
+  "slug": "how-many-calories-in-a-bloody-mary",
+  "h1": "How Many Calories in a Bloody Mary?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "bloody mary"
+  },
+  "assumptions": "Standard 8 oz serving: 1.5 oz vodka, 4 oz tomato juice, lemon juice, Worcestershire sauce, hot sauce, celery salt; no garnishes or added sugar.",
+  "disclaimer": "Nutrition varies by recipe, brands, portion size, and alcohol content. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 125,
+    "text": "A standard Bloody Mary contains about 125 calories, mostly from tomato juice and vodka."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 125,
+      "carbs_g": 9.5,
+      "fiber_g": 1.2,
+      "sugars_g": 6.8,
+      "protein_g": 1.8,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 125,
+    "carbs_g": 9.5,
+    "fiber_g": 1.2,
+    "sugars_g": 6.8,
+    "protein_g": 1.8,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 850
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.52
+  },
+  "tweaks": [
+    {
+      "label": "Use low-sodium tomato juice",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Add 1 oz extra vodka",
+      "delta_kcal_per_unit": 65,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Garnish with celery stick and olive",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 135
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bloody mary without alcohol?",
+      "a": "About 60 kcal, mainly from tomato juice and seasonings."
+    },
+    {
+      "q": "What's the sodium content in a bloody mary?",
+      "a": "Around 850 mg per serving, due to sauces and salt."
+    },
+    {
+      "q": "Are bloody marys low-carb?",
+      "a": "Yes, about 9.5 g carbs per serving, with 1.2 g fiber."
+    },
+    {
+      "q": "How does vodka affect calories in a bloody mary?",
+      "a": "1.5 oz vodka adds ~96 kcal; it's mostly empty calories."
+    },
+    {
+      "q": "Can I make a lower-calorie bloody mary?",
+      "a": "Use diet tomato juice and skip salt for under 100 kcal."
+    }
+  ]
+}

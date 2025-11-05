@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in one starburst",
+  "title": "Calories in One Starburst",
+  "meta_description": "Discover calories in one Starburst, including carbs, sugars, and full nutrition breakdown per piece, plus tweaks and FAQs for candy lovers.",
+  "slug": "calories-in-one-starburst",
+  "h1": "Calories in One Starburst",
+  "updated": "2024-10-18",
+  "query": {
+    "amount": 1,
+    "unit": "starburst",
+    "item": "Starburst"
+  },
+  "assumptions": "Original fruit flavor, one standard piece (approx. 5 g), unwrapped chewy candy; no added ingredients.",
+  "disclaimer": "Nutrition varies by flavor, brand, exact size, and manufacturing; check packaging for precise values.",
+  "quick_answer": {
+    "total_kcal": 20,
+    "text": "One Starburst provides about 20 kcal, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 Starburst",
+    "amount": 1,
+    "unit": "starburst",
+    "nutrition": {
+      "calories_kcal": 20,
+      "carbs_g": 4.5,
+      "fiber_g": 0,
+      "sugars_g": 3.5,
+      "protein_g": 0,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 20,
+    "carbs_g": 4.5,
+    "fiber_g": 0,
+    "sugars_g": 3.5,
+    "protein_g": 0,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Sugar-free variety (per piece)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 10
+    },
+    {
+      "label": "FaveREDs flavor (slightly higher sugar, per piece)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 22
+    },
+    {
+      "label": "Wrapped (negligible, but includes paper weight if measured)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 20
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Starburst?",
+      "a": "Approximately 20 kcal per piece."
+    },
+    {
+      "q": "What are the carbs in one Starburst?",
+      "a": "About 4.5 g carbs, with 3.5 g sugars and 0 g fiber."
+    },
+    {
+      "q": "Does one Starburst have fat or protein?",
+      "a": "Negligible: 0.3 g fat (0.2 g saturated) and 0 g protein."
+    },
+    {
+      "q": "Are Starburst calories the same for all flavors?",
+      "a": "Mostly yes, but some like FaveREDs may vary slightly by 1-2 kcal."
+    },
+    {
+      "q": "How does one Starburst compare to other candies?",
+      "a": "Similar to one small gummy; lower than chocolate pieces but high in sugars."
+    }
+  ]
+}

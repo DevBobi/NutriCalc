@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a popsicle",
+  "title": "How Many Calories Are in a Popsicle?",
+  "meta_description": "Discover how many calories in a popsicle, including carbs, sugars, and full nutrition breakdown per serving with quick tweaks for variations.",
+  "slug": "how-many-calories-in-a-popsicle",
+  "h1": "How Many Calories Are in a Popsicle?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "popsicle",
+    "item": "popsicle"
+  },
+  "assumptions": "Standard fruit-flavored frozen popsicle, ~80g, made with fruit juice, water, and sugar; no dairy or artificial additives.",
+  "disclaimer": "Nutrition varies by brand, flavor, size, ingredients (e.g., cream vs. juice-based), and sweeteners. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "A typical fruit popsicle contains about 80 calories, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 popsicle",
+    "amount": 1,
+    "unit": "popsicle",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 20,
+      "fiber_g": 0,
+      "sugars_g": 18,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 20,
+    "fiber_g": 0,
+    "sugars_g": 18,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Cream-based or dairy popsicle",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Sugar-free version",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Add chocolate coating",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 130
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a fruit popsicle?",
+      "a": "About 80 kcal for a standard 80g fruit-flavored one."
+    },
+    {
+      "q": "Are popsicles high in sugar?",
+      "a": "Yes, typically 18g sugars per popsicle from fruit juice and added sweeteners."
+    },
+    {
+      "q": "What's the difference in calories between juice and cream popsicles?",
+      "a": "Juice-based are ~80 kcal; cream versions add 50-100 kcal from fat and dairy."
+    },
+    {
+      "q": "Do popsicles have any protein or fat?",
+      "a": "Negligible—0g protein and fat in standard fruit popsicles."
+    },
+    {
+      "q": "How do low-calorie popsicles compare?",
+      "a": "Sugar-free options are around 40 kcal, using artificial sweeteners instead."
+    }
+  ]
+}

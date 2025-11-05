@@ -1,0 +1,92 @@
+{
+  "keyword": "calorie in egg mcmuffin",
+  "title": "Calories in Egg McMuffin",
+  "meta_description": "Discover calorie in egg mcmuffin details: 310 kcal per serving, plus full nutrition breakdown including protein, fat, carbs, and fast-food tweaks for your meal planning.",
+  "slug": "calorie-in-egg-mcmuffin",
+  "h1": "Calories in Egg McMuffin",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "egg mcmuffin",
+    "item": "Egg McMuffin"
+  },
+  "assumptions": "Standard McDonald's Egg McMuffin: toasted English muffin, folded egg, Canadian bacon, American cheese; no customizations or additions.",
+  "disclaimer": "Nutrition varies by location, preparation, and custom orders. Values based on standard U.S. McDonald's data; check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 310,
+    "text": "One Egg McMuffin has 310 kcal, 17 g protein, and 30 g carbs."
+  },
+  "basis": {
+    "label": "per 1 Egg McMuffin",
+    "amount": 1,
+    "unit": "egg mcmuffin",
+    "nutrition": {
+      "calories_kcal": 310,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 17,
+      "fat_g": 13,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 235,
+      "sodium_mg": 770
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 310,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 17,
+    "fat_g": 13,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 235,
+    "sodium_mg": 770
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.3
+  },
+  "tweaks": [
+    {
+      "label": "Remove American cheese",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Add 1 hash brown patty",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 450
+    },
+    {
+      "label": "Egg white only (no yolk)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Egg McMuffin?",
+      "a": "Approximately 310 kcal for a standard Egg McMuffin."
+    },
+    {
+      "q": "What's the protein in Egg McMuffin?",
+      "a": "About 17 g of protein per serving."
+    },
+    {
+      "q": "Does Egg McMuffin have trans fats?",
+      "a": "0 g trans fat in the standard recipe."
+    },
+    {
+      "q": "How much sodium is in an Egg McMuffin?",
+      "a": "Around 770 mg of sodium."
+    },
+    {
+      "q": "Can I make a lower-calorie Egg McMuffin at home?",
+      "a": "Yes, skip cheese or use turkey bacon to reduce calories by 50+ kcal."
+    }
+  ]
+}

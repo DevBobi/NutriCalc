@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a little caesars pizza",
+  "title": "How Many Calories in a Little Caesars Pizza?",
+  "meta_description": "Discover how many calories in a Little Caesars pizza, including full nutrition breakdown for a large classic cheese, macros, and variations for better tracking.",
+  "slug": "how-many-calories-in-a-little-caesars-pizza",
+  "h1": "How Many Calories in a Little Caesars Pizza?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pizza",
+    "item": "little caesars pizza"
+  },
+  "assumptions": "Large (14-inch) Classic Cheese Pizza, Hot-N-Ready style, 8 slices, as served with standard crust, cheese, and sauce; no extra toppings.",
+  "disclaimer": "Nutrition varies by pizza type, size, crust style, toppings, and preparation; values based on average estimates. Check Little Caesars nutritional info or app for exacts.",
+  "quick_answer": {
+    "total_kcal": 2280,
+    "text": "A large Little Caesars Classic Cheese Pizza has about 2280 calories and 104 g protein."
+  },
+  "basis": {
+    "label": "per 1 large pizza",
+    "amount": 1,
+    "unit": "pizza",
+    "nutrition": {
+      "calories_kcal": 2280,
+      "carbs_g": 280,
+      "fiber_g": 16,
+      "sugars_g": 24,
+      "protein_g": 104,
+      "fat_g": 88,
+      "sat_fat_g": 40,
+      "trans_fat_g": 2,
+      "cholesterol_mg": 200,
+      "sodium_mg": 4960
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 2280,
+    "carbs_g": 280,
+    "fiber_g": 16,
+    "sugars_g": 24,
+    "protein_g": 104,
+    "fat_g": 88,
+    "sat_fat_g": 40,
+    "trans_fat_g": 2,
+    "cholesterol_mg": 200,
+    "sodium_mg": 4960
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 9.54
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni (standard topping)",
+      "delta_kcal_per_unit": 320,
+      "new_total_kcal": 2600
+    },
+    {
+      "label": "Thin crust instead of classic",
+      "delta_kcal_per_unit": -360,
+      "new_total_kcal": 1920
+    },
+    {
+      "label": "Extra cheese topping",
+      "delta_kcal_per_unit": 240,
+      "new_total_kcal": 2520
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of Little Caesars pizza?",
+      "a": "About 285 kcal per slice for a large classic cheese pizza (1/8 of whole)."
+    },
+    {
+      "q": "What are the macros for a Little Caesars cheese pizza?",
+      "a": "Per large pizza: 280 g carbs, 104 g protein, 88 g fat."
+    },
+    {
+      "q": "How does pepperoni affect calories in Little Caesars pizza?",
+      "a": "Adds ~40 kcal per slice or 320 kcal total for a large pepperoni pizza."
+    },
+    {
+      "q": "Is Little Caesars pizza high in sodium?",
+      "a": "Yes, a large classic has ~4960 mg sodium, mostly from cheese and sauce."
+    },
+    {
+      "q": "Calories in Little Caesars thin crust pizza?",
+      "a": "Lower than classic; ~1920 kcal for a large cheese thin crust vs. 2280 for regular."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 12 c strawberries",
+  "title": "Calories in 12 Cups of Strawberries",
+  "meta_description": "Discover calories in 12 c strawberries, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown per cup basis with tweaks.",
+  "slug": "calories-in-12-c-strawberries",
+  "h1": "Calories in 12 Cups of Strawberries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 12,
+    "unit": "c",
+    "item": "strawberries"
+  },
+  "assumptions": "Fresh, whole strawberries; 1 cup ≈ 152 g; no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by variety, ripeness, size, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 588,
+    "text": "12 cups of fresh strawberries provide ~588 kcal and ~36 g carbs, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "c",
+    "nutrition": {
+      "calories_kcal": 49,
+      "carbs_g": 11.7,
+      "fiber_g": 3,
+      "sugars_g": 7.4,
+      "protein_g": 1,
+      "fat_g": 0.5,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 588,
+    "carbs_g": 140.4,
+    "fiber_g": 36,
+    "sugars_g": 88.8,
+    "protein_g": 12,
+    "fat_g": 6,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 12
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.46
+  },
+  "tweaks": [
+    {
+      "label": "Sliced strawberries (more volume per weight)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 636
+    },
+    {
+      "label": "Add 1 tsp sugar per cup",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 780
+    },
+    {
+      "label": "Frozen, unsweetened (vs. fresh)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 564
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 12 c strawberries?",
+      "a": "Approximately 588 kcal for 12 cups of fresh whole strawberries."
+    },
+    {
+      "q": "What are the carbs in 12 cups of strawberries?",
+      "a": "About 140 g total carbs, with 36 g fiber and 89 g natural sugars."
+    },
+    {
+      "q": "Are strawberries low calorie for 12 cups?",
+      "a": "Yes, ~49 kcal per cup makes 12 cups a low-calorie fruit option at 588 kcal."
+    },
+    {
+      "q": "How much fiber in 12 c strawberries?",
+      "a": "Roughly 36 g of dietary fiber, aiding digestion."
+    },
+    {
+      "q": "Does preparation affect calories in strawberries?",
+      "a": "Slicing or adding sugar increases calories; frozen unsweetened is similar to fresh."
+    }
+  ]
+}

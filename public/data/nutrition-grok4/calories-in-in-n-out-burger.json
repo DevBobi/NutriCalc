@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in in n out burger",
+  "title": "Calories in In-N-Out Burger",
+  "meta_description": "Discover calories in in n out burger, including macros like protein and fat, full nutrition breakdown, and easy tweaks for variations.",
+  "slug": "calories-in-in-n-out-burger",
+  "h1": "Calories in In-N-Out Burger",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "In-N-Out burger"
+  },
+  "assumptions": "Standard In-N-Out Hamburger: fresh beef patty, bun, lettuce, tomato, onion, Thousand Island-style spread; no cheese or modifications.",
+  "disclaimer": "Nutrition varies by location, customizations, and exact preparation. Check In-N-Out's official nutrition info or app for latest values.",
+  "quick_answer": {
+    "total_kcal": 390,
+    "text": "One standard In-N-Out burger provides ~390 kcal and 16 g protein."
+  },
+  "basis": {
+    "label": "per 1 burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 390,
+      "carbs_g": 39,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 16,
+      "fat_g": 19,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 35,
+      "sodium_mg": 730
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 390,
+    "carbs_g": 39,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 16,
+    "fat_g": 19,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35,
+    "sodium_mg": 730
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.63
+  },
+  "tweaks": [
+    {
+      "label": "Add one slice of cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "Make it Animal Style (extra spread, grilled onions, mustard-fried patty)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 590
+    },
+    {
+      "label": "Double the patty (like Double-Double, minus cheese)",
+      "delta_kcal_per_unit": 240,
+      "new_total_kcal": 630
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in in n out burger?",
+      "a": "A standard In-N-Out Hamburger has about 390 calories."
+    },
+    {
+      "q": "What's the protein in an In-N-Out burger?",
+      "a": "Approximately 16 g of protein per burger."
+    },
+    {
+      "q": "Are In-N-Out burgers high in sodium?",
+      "a": "Yes, around 730 mg sodium per burger due to the spread and seasoning."
+    },
+    {
+      "q": "Calories in In-N-Out cheeseburger vs. hamburger?",
+      "a": "Cheeseburger adds ~50 kcal, totaling about 440 calories."
+    },
+    {
+      "q": "Does customizing an In-N-Out burger change calories much?",
+      "a": "Yes—options like extra patties or Animal Style can add 200+ kcal."
+    }
+  ]
+}

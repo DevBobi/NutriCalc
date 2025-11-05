@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in hush puppies",
+  "title": "Calories in Hush Puppies",
+  "meta_description": "Learn calories in hush puppies per serving, including carbs, fat, protein, sodium, and easy tweaks for healthier options.",
+  "slug": "calories-in-hush-puppies",
+  "h1": "Calories in Hush Puppies",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "hush puppy",
+    "item": "hush puppy"
+  },
+  "assumptions": "Standard deep-fried cornmeal hush puppies (~30 g each), basic recipe with flour, cornmeal, egg, milk, and oil; no dipping sauces.",
+  "disclaimer": "Nutrition varies by recipe, size, frying oil, and brand; homemade or restaurant versions differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 180,
+    "text": "Three hush puppies provide ~180 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 hush puppy",
+    "amount": 1,
+    "unit": "hush puppy",
+    "nutrition": {
+      "calories_kcal": 60,
+      "carbs_g": 8,
+      "fiber_g": 0.5,
+      "sugars_g": 0.5,
+      "protein_g": 1,
+      "fat_g": 3,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 180,
+    "carbs_g": 24,
+    "fiber_g": 1.5,
+    "sugars_g": 1.5,
+    "protein_g": 3,
+    "fat_g": 9,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.75
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of deep-fried",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 105
+    },
+    {
+      "label": "Add 1 tbsp chopped onions per hush puppy",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 195
+    },
+    {
+      "label": "Gluten-free cornmeal version (no wheat flour)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 165
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one hush puppy?",
+      "a": "About 60 kcal for a standard 30 g deep-fried hush puppy."
+    },
+    {
+      "q": "Are hush puppies high in carbs?",
+      "a": "Yes, mainly from cornmeal—8 g carbs per hush puppy, with 0.5 g fiber."
+    },
+    {
+      "q": "What's the fat content in hush puppies?",
+      "a": "Around 3 g total fat per hush puppy, including 0.5 g saturated fat from frying oil."
+    },
+    {
+      "q": "Do hush puppies have much protein?",
+      "a": "Low protein—only 1 g per hush puppy, better as a side than a main."
+    },
+    {
+      "q": "How to reduce calories in hush puppies?",
+      "a": "Bake or air-fry instead of deep-frying to cut ~25 kcal per piece."
+    }
+  ]
+}

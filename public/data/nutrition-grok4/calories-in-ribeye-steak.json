@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ribeye steak",
+  "title": "Calories in Ribeye Steak",
+  "meta_description": "Learn calories in ribeye steak per 100 g, plus full nutrition breakdown including protein, fat, carbs, and tips for variations.",
+  "slug": "calories-in-ribeye-steak",
+  "h1": "Calories in Ribeye Steak",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "ribeye steak"
+  },
+  "assumptions": "Boneless ribeye steak, choice grade, trimmed to 1/8 inch fat, grilled, cooked from raw; no added seasonings or marinades.",
+  "disclaimer": "Nutrition varies by cut, fat trim, grade, cooking method, and portion size. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 285,
+    "text": "100 g of grilled ribeye steak provides ~285 kcal and ~25 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 285,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 20,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 80,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 285,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 20,
+    "sat_fat_g": 9,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 80,
+    "sodium_mg": 60
+  },
+  "label_note": "Values mirror standard Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.19
+  },
+  "tweaks": [
+    {
+      "label": "Lean only, fully trimmed fat",
+      "delta_kcal_per_unit": -105,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Pan-seared with 1 tsp butter",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 325
+    },
+    {
+      "label": "Marinated in oil-based sauce",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 315
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g ribeye steak?",
+      "a": "Approximately 285 kcal for grilled ribeye with moderate fat trim."
+    },
+    {
+      "q": "What's the protein in ribeye steak?",
+      "a": "About 25 g protein per 100 g, making it a high-protein choice."
+    },
+    {
+      "q": "Does cooking method affect calories in ribeye steak?",
+      "a": "Yes—grilling retains more moisture than frying, but added fats increase calories."
+    },
+    {
+      "q": "How much fat is in ribeye steak?",
+      "a": "Around 20 g total fat per 100 g, with 9 g saturated."
+    },
+    {
+      "q": "Are there carbs in ribeye steak?",
+      "a": "No carbs, fiber, or sugars—it's nearly all protein and fat."
+    }
+  ]
+}

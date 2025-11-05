@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a 12 cup blueberries",
+  "title": "How Many Calories in 12 Cups Blueberries?",
+  "meta_description": "Discover how many calories in a 12 cup blueberries, including carbs, fiber, protein, full nutrition totals, and recipe tweaks for better understanding.",
+  "slug": "how-many-calories-in-a-12-cup-blueberries",
+  "h1": "How Many Calories in 12 Cups Blueberries?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 12,
+    "unit": "cup",
+    "item": "blueberries"
+  },
+  "assumptions": "Fresh, whole blueberries; 1 cup ≈ 148 g, unsweetened, no additives.",
+  "disclaimer": "Nutrition varies by variety, ripeness, fresh vs. frozen, and growing conditions. Check labels for packaged products.",
+  "quick_answer": {
+    "total_kcal": 1008,
+    "text": "12 cups of fresh blueberries provide ~1008 kcal, mostly from natural sugars and carbs."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 84,
+      "carbs_g": 21.5,
+      "fiber_g": 3.5,
+      "sugars_g": 14.7,
+      "protein_g": 1.1,
+      "fat_g": 0.5,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1008,
+    "carbs_g": 258,
+    "fiber_g": 42,
+    "sugars_g": 176.4,
+    "protein_g": 13.2,
+    "fat_g": 6,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 12
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.22
+  },
+  "tweaks": [
+    {
+      "label": "Use frozen unsweetened blueberries",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 1008
+    },
+    {
+      "label": "Add 1 tsp sugar per cup",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 1200
+    },
+    {
+      "label": "Substitute with dried blueberries (volume equivalent)",
+      "delta_kcal_per_unit": 300,
+      "new_total_kcal": 4500
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup of blueberries?",
+      "a": "About 84 kcal per cup of fresh blueberries."
+    },
+    {
+      "q": "What are the carbs in 12 cups blueberries?",
+      "a": "Approximately 258 g carbs, including 42 g fiber and 176 g sugars."
+    },
+    {
+      "q": "Do blueberries have protein or fat?",
+      "a": "Low in both: ~13 g protein and 6 g fat for 12 cups."
+    },
+    {
+      "q": "How does frozen affect calories in blueberries?",
+      "a": "Frozen unsweetened blueberries have similar calories to fresh, around 84 kcal per cup."
+    },
+    {
+      "q": "Are these values for fresh or cooked blueberries?",
+      "a": "Fresh; cooking or adding to recipes may alter totals based on method and additions."
+    }
+  ]
+}

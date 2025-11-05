@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 tbsp sugar",
+  "title": "Calories in 1 Tbsp Sugar",
+  "meta_description": "Discover calories in 1 tbsp sugar, including carbs, sugars, and full nutrition breakdown per serving with quick tweaks and FAQs for better understanding.",
+  "slug": "calories-in-1-tbsp-sugar",
+  "h1": "Calories in 1 Tbsp Sugar",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "sugar"
+  },
+  "assumptions": "Granulated white sugar; 1 tbsp ≈12.5 g; leveled, not heaping.",
+  "disclaimer": "Nutrition varies by sugar type, brand, packing density, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 48,
+    "text": "1 tbsp granulated sugar contains ~48 kcal, all from carbs."
+  },
+  "basis": {
+    "label": "per 1 tbsp",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 48,
+      "carbs_g": 12.5,
+      "fiber_g": 0,
+      "sugars_g": 12.5,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 48,
+    "carbs_g": 12.5,
+    "fiber_g": 0,
+    "sugars_g": 12.5,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.2
+  },
+  "tweaks": [
+    {
+      "label": "Use brown sugar instead (per tbsp)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Use powdered sugar (less dense, per tbsp)",
+      "delta_kcal_per_unit": -8,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Substitute with stevia (zero-calorie sweetener)",
+      "delta_kcal_per_unit": -48,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tbsp sugar?",
+      "a": "Approximately 48 kcal for granulated white sugar."
+    },
+    {
+      "q": "Is sugar all carbs?",
+      "a": "Yes, 1 tbsp sugar is nearly 100% carbs (12.5 g), all simple sugars."
+    },
+    {
+      "q": "Does brown sugar have more calories than white?",
+      "a": "Slightly—about 50 kcal per tbsp due to added molasses."
+    },
+    {
+      "q": "How much sugar is in 1 tbsp?",
+      "a": "Around 12.5 g of sugars, providing quick energy but no fiber or protein."
+    },
+    {
+      "q": "Can I reduce calories in recipes using sugar?",
+      "a": "Yes, swap for lower-calorie alternatives like stevia or reduce amount by 25-50% in baking."
+    }
+  ]
+}

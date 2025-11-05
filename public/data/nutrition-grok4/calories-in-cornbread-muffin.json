@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cornbread muffin",
+  "title": "Calories in a Cornbread Muffin",
+  "meta_description": "Discover calories in cornbread muffin, including full nutrition breakdown like carbs, protein, fat, and easy tweaks for variations.",
+  "slug": "calories-in-cornbread-muffin",
+  "h1": "Calories in a Cornbread Muffin",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "muffin",
+    "item": "cornbread muffin"
+  },
+  "assumptions": "Standard medium-sized cornbread muffin (~50 g), made from mix with cornmeal, flour, milk, egg, and butter; baked, no added toppings.",
+  "disclaimer": "Nutrition varies by recipe, brand, size, and ingredients like added sugar or oil. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "One cornbread muffin has about 200 kcal, with 28 g carbs and 4 g protein."
+  },
+  "basis": {
+    "label": "per 1 muffin",
+    "amount": 1,
+    "unit": "muffin",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 28,
+      "fiber_g": 1,
+      "sugars_g": 5,
+      "protein_g": 4,
+      "fat_g": 8,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 28,
+    "fiber_g": 1,
+    "sugars_g": 5,
+    "protein_g": 4,
+    "fat_g": 8,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter on top",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 236
+    },
+    {
+      "label": "Jalapeño version (add 1 tbsp chopped jalapeños)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 205
+    },
+    {
+      "label": "Gluten-free (substitute wheat flour)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in cornbread muffin?",
+      "a": "Approximately 200 kcal for one standard medium muffin."
+    },
+    {
+      "q": "What are the carbs in a cornbread muffin?",
+      "a": "About 28 g total carbs, including 1 g fiber and 5 g sugars."
+    },
+    {
+      "q": "Is cornbread muffin high in protein?",
+      "a": "No, it has around 4 g protein per muffin; it's more carb-focused."
+    },
+    {
+      "q": "How does sodium in cornbread muffin compare?",
+      "a": "Typically 300 mg per muffin, varying by recipe and added salt."
+    },
+    {
+      "q": "Can I make a lower-calorie cornbread muffin?",
+      "a": "Yes, use less butter or oil, or opt for a low-fat recipe to reduce to ~150 kcal."
+    }
+  ]
+}

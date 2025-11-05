@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a pupusa",
+  "title": "How Many Calories in a Pupusa?",
+  "meta_description": "Discover how many calories in a pupusa, including macros like protein, carbs, fat, plus variations and nutrition facts for this Salvadoran staple.",
+  "slug": "how-many-calories-in-a-pupusa",
+  "h1": "How Many Calories in a Pupusa?",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "pupusa",
+    "item": "pupusa"
+  },
+  "assumptions": "Standard cheese and bean pupusa (revuelta style), about 100 g, made with corn masa, no added oil or toppings.",
+  "disclaimer": "Nutrition varies by filling (e.g., pork, cheese, veggies), size, recipe, and cooking method. Check labels or recipes when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One typical pupusa has about 250 kcal, with 10 g protein and 30 g carbs."
+  },
+  "basis": {
+    "label": "per 1 pupusa",
+    "amount": 1,
+    "unit": "pupusa",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 30,
+      "fiber_g": 3,
+      "sugars_g": 1,
+      "protein_g": 10,
+      "fat_g": 10,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 30,
+    "fiber_g": 3,
+    "sugars_g": 1,
+    "protein_g": 10,
+    "fat_g": 10,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Pork-filled (add 50 g chicharrón)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Veggie-only (zucchini and beans, no cheese)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Add 1 tbsp sour cream topping",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a pupusa with cheese?",
+      "a": "About 250 kcal for a standard cheese and bean pupusa."
+    },
+    {
+      "q": "What are the macros in one pupusa?",
+      "a": "Roughly 30 g carbs, 10 g protein, 10 g fat, and 3 g fiber."
+    },
+    {
+      "q": "Are pupusas high in sodium?",
+      "a": "Yes, around 500 mg per pupusa due to masa and fillings."
+    },
+    {
+      "q": "How does pork change pupusa calories?",
+      "a": "Adds about 100 kcal, making it 350 kcal total."
+    },
+    {
+      "q": "Can pupusas be low-carb?",
+      "a": "Traditional ones have ~30 g carbs from corn masa; veggie versions slightly lower."
+    }
+  ]
+}

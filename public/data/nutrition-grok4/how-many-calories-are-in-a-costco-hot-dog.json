@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a costco hot dog",
+  "title": "How Many Calories Are in a Costco Hot Dog?",
+  "meta_description": "Learn how many calories are in a Costco hot dog, including the bun, plus protein, fat, carbs, sodium, and quick variations for your meal planning.",
+  "slug": "how-many-calories-are-in-a-costco-hot-dog",
+  "h1": "How Many Calories Are in a Costco Hot Dog?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "hot dog",
+    "item": "costco hot dog"
+  },
+  "assumptions": "Quarter-pound all-beef hot dog with steamed bun; no condiments or additional toppings.",
+  "disclaimer": "Nutrition varies by preparation, exact ingredients, and serving size. Check Costco's labels or app for the most current info.",
+  "quick_answer": {
+    "total_kcal": 570,
+    "text": "A standard Costco hot dog with bun contains about 570 calories and 26 g protein."
+  },
+  "basis": {
+    "label": "per 1 Costco hot dog with bun",
+    "amount": 1,
+    "unit": "hot dog",
+    "nutrition": {
+      "calories_kcal": 570,
+      "carbs_g": 49,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 26,
+      "fat_g": 32,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 80,
+      "sodium_mg": 1670
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 570,
+    "carbs_g": 49,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 26,
+    "fat_g": 32,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 80,
+    "sodium_mg": 1670
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.38
+  },
+  "tweaks": [
+    {
+      "label": "Add ketchup, mustard, and relish",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 600
+    },
+    {
+      "label": "Hot dog only, no bun",
+      "delta_kcal_per_unit": -180,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Add 1 slice of cheese",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 650
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a Costco hot dog without the bun?",
+      "a": "About 390 calories for the hot dog alone."
+    },
+    {
+      "q": "What is the protein content in a Costco hot dog?",
+      "a": "Approximately 26 g of protein per hot dog with bun."
+    },
+    {
+      "q": "How much sodium is in a Costco hot dog?",
+      "a": "Around 1670 mg, mostly from the hot dog and bun."
+    },
+    {
+      "q": "Are Costco hot dogs gluten-free?",
+      "a": "No, the bun contains gluten; opt for no bun if avoiding it."
+    },
+    {
+      "q": "How do condiments affect calories in a Costco hot dog?",
+      "a": "Basic condiments like ketchup and mustard add about 30 kcal; cheese or chili can add more."
+    }
+  ]
+}

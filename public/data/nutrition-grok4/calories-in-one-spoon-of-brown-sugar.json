@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in one spoon of brown sugar",
+  "title": "Calories in One Spoon of Brown Sugar",
+  "meta_description": "Discover calories in one spoon of brown sugar, including carbs, sugars, and full nutrition breakdown per teaspoon serving with quick tweaks and FAQs.",
+  "slug": "calories-in-one-spoon-of-brown-sugar",
+  "h1": "Calories in One Spoon of Brown Sugar",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "spoon",
+    "item": "brown sugar"
+  },
+  "assumptions": "1 spoon interpreted as 1 level teaspoon (tsp, ~4 g) of packed brown sugar; no additives.",
+  "disclaimer": "Nutrition varies by brand, packing density, moisture content, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 15,
+    "text": "One spoon (tsp) of brown sugar contains about 15 kcal, primarily from carbohydrates."
+  },
+  "basis": {
+    "label": "per 1 tsp (4 g)",
+    "amount": 1,
+    "unit": "tsp",
+    "nutrition": {
+      "calories_kcal": 15,
+      "carbs_g": 3.9,
+      "fiber_g": 0,
+      "sugars_g": 3.9,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 15,
+    "carbs_g": 3.9,
+    "fiber_g": 0,
+    "sugars_g": 3.9,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.06
+  },
+  "tweaks": [
+    {
+      "label": "Use 1 tablespoon instead of teaspoon",
+      "delta_kcal_per_unit": 37,
+      "new_total_kcal": 52
+    },
+    {
+      "label": "Substitute with white granulated sugar",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 15
+    },
+    {
+      "label": "Packed vs. loose measurement",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 17
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one spoon of brown sugar?",
+      "a": "About 15 kcal for one teaspoon serving."
+    },
+    {
+      "q": "Is brown sugar higher in calories than white sugar?",
+      "a": "No, similar at ~15 kcal per tsp; brown has slight molasses flavor but comparable nutrition."
+    },
+    {
+      "q": "What are the carbs in one spoon of brown sugar?",
+      "a": "Approximately 3.9 g carbs, all from sugars, with 0 g fiber."
+    },
+    {
+      "q": "Does brown sugar have any protein or fat?",
+      "a": "Negligible—0 g protein and 0 g fat per teaspoon."
+    },
+    {
+      "q": "How does spoon size affect calories in brown sugar?",
+      "a": "Teaspoon (~4 g) is 15 kcal; tablespoon (~12 g) is about 52 kcal—measure precisely."
+    }
+  ]
+}

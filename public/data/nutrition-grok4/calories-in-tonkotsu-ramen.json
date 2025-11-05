@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in tonkotsu ramen",
+  "title": "Calories in Tonkotsu Ramen",
+  "meta_description": "Discover calories in tonkotsu ramen per serving, including macros like fat, carbs, protein, sodium details, and easy tweaks for lighter options.",
+  "slug": "calories-in-tonkotsu-ramen",
+  "h1": "Calories in Tonkotsu Ramen",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "tonkotsu ramen"
+  },
+  "assumptions": "Standard restaurant serving (~600 g total) with pork bone broth, wheat noodles, chashu pork, half boiled egg, green onions, nori; no extra oil or toppings.",
+  "disclaimer": "Nutrition varies by restaurant, portion size, ingredients, and preparation; homemade versions differ. Check menus or labels when available.",
+  "quick_answer": {
+    "total_kcal": 900,
+    "text": "One bowl of tonkotsu ramen typically contains ~900 kcal, high in sodium and fat from the rich pork broth."
+  },
+  "basis": {
+    "label": "per 1 bowl",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 900,
+      "carbs_g": 100,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 40,
+      "fat_g": 40,
+      "sat_fat_g": 15,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 150,
+      "sodium_mg": 3000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 900,
+    "carbs_g": 100,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 40,
+    "fat_g": 40,
+    "sat_fat_g": 15,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 150,
+    "sodium_mg": 3000
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged or restaurant info.",
+  "equivalents": {
+    "megajoules": 3.77
+  },
+  "tweaks": [
+    {
+      "label": "Vegetarian version (tofu instead of pork chashu)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 700
+    },
+    {
+      "label": "Add extra chashu pork slice",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 1050
+    },
+    {
+      "label": "Lighter homemade broth (less fat skimmed)",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 600
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one bowl of tonkotsu ramen?",
+      "a": "Approximately 900 kcal for a standard restaurant serving."
+    },
+    {
+      "q": "Is tonkotsu ramen high in sodium?",
+      "a": "Yes, often ~3000 mg per bowl due to the salty pork broth."
+    },
+    {
+      "q": "What are the macros for tonkotsu ramen?",
+      "a": "~40 g protein, 100 g carbs, 40 g fat per bowl."
+    },
+    {
+      "q": "How to reduce calories in tonkotsu ramen?",
+      "a": "Opt for less broth, veggie toppings, or a lighter homemade version to cut ~200-300 kcal."
+    },
+    {
+      "q": "Does tonkotsu ramen have a lot of fat?",
+      "a": "Yes, ~40 g total fat per bowl, mostly from the creamy pork broth; saturated fat ~15 g."
+    }
+  ]
+}

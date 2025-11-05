@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a slice of american cheese",
+  "title": "How Many Calories in a Slice of American Cheese?",
+  "meta_description": "Discover how many calories are in a slice of American cheese, including full nutrition breakdown, protein, fat, sodium, and quick variations for your diet.",
+  "slug": "how-many-calories-are-in-a-slice-of-american-cheese",
+  "h1": "How Many Calories in a Slice of American Cheese?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "american cheese"
+  },
+  "assumptions": "Standard processed American cheese slice (~28 g or 1 oz), pasteurized process cheese food, unwrapped and plain.",
+  "disclaimer": "Nutrition varies by brand, slice thickness, fat content, and additives; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "One slice of American cheese provides ~90 kcal, 5 g protein, and 440 mg sodium."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 1.5,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 5,
+      "fat_g": 8,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 440
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 1.5,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 5,
+    "fat_g": 8,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 440
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Reduced-fat American cheese (2% milk)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Add 1 tsp butter for melting",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 126
+    },
+    {
+      "label": "Swiss cheese slice instead (similar weight)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 100
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a slice of American cheese?",
+      "a": "Approximately 90 kcal for a standard 28 g slice."
+    },
+    {
+      "q": "Is American cheese high in sodium?",
+      "a": "Yes, one slice has about 440 mg sodium—nearly 20% of daily recommended intake."
+    },
+    {
+      "q": "What's the fat content in a slice of American cheese?",
+      "a": "Around 8 g total fat, including 5 g saturated fat per slice."
+    },
+    {
+      "q": "Does American cheese have carbs?",
+      "a": "Very few—about 1.5 g carbs and 0 g fiber per slice."
+    },
+    {
+      "q": "How does slice size affect calories?",
+      "a": "Thicker or larger slices can add 20-50 kcal; always weigh for accuracy."
+    }
+  ]
+}

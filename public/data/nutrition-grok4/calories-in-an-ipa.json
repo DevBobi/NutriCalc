@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in an ipa",
+  "title": "Calories in an IPA",
+  "meta_description": "Discover calories in an IPA (12 oz serving), including carbs, protein, alcohol content, and variations for different styles.",
+  "slug": "calories-in-an-ipa",
+  "h1": "Calories in an IPA",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "IPA"
+  },
+  "assumptions": "Standard 12 oz (355 ml) bottle or can of India Pale Ale (IPA), ~6.5% ABV, craft brew style, no added flavors.",
+  "disclaimer": "Nutrition varies by brand, ABV, ingredients, and serving size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "A standard 12 oz IPA contains about 220 calories, mostly from carbs and alcohol."
+  },
+  "basis": {
+    "label": "per 12 oz serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 18,
+      "fiber_g": 0,
+      "sugars_g": 0.5,
+      "protein_g": 2,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 18,
+    "fiber_g": 0,
+    "sugars_g": 0.5,
+    "protein_g": 2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with beer packaging.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Switch to a light IPA (lower ABV and carbs)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Opt for a double IPA (higher ABV and hops)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Choose a non-alcoholic IPA version",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an IPA beer?",
+      "a": "About 220 calories in a standard 12 oz IPA serving."
+    },
+    {
+      "q": "What are the carbs in an IPA?",
+      "a": "Roughly 18 g of carbohydrates per 12 oz, mainly from malt."
+    },
+    {
+      "q": "Does IPA have protein or fat?",
+      "a": "Minimal: ~2 g protein and 0 g fat per serving."
+    },
+    {
+      "q": "How does ABV affect calories in an IPA?",
+      "a": "Higher ABV (e.g., 8%) adds ~50-100 calories due to more alcohol."
+    },
+    {
+      "q": "Are there low-calorie IPA options?",
+      "a": "Yes, light IPAs range from 100-150 kcal per 12 oz."
+    }
+  ]
+}

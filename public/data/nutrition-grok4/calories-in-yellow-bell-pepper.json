@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in yellow bell pepper",
+  "title": "Calories in a Yellow Bell Pepper",
+  "meta_description": "Learn calories in yellow bell pepper (one medium), plus carbs, fiber, vitamins, full nutrition facts, and preparation tweaks for better tracking.",
+  "slug": "calories-in-yellow-bell-pepper",
+  "h1": "Calories in a Yellow Bell Pepper",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bell pepper",
+    "item": "yellow bell pepper"
+  },
+  "assumptions": "Medium size (~119 g), raw, without stem or seeds; values based on USDA data.",
+  "disclaimer": "Nutrition varies by size, ripeness, growing conditions, and preparation; check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 25,
+    "text": "One medium yellow bell pepper provides ~25 kcal, mostly from carbs with good vitamin C."
+  },
+  "basis": {
+    "label": "per 1 medium yellow bell pepper",
+    "amount": 1,
+    "unit": "bell pepper",
+    "nutrition": {
+      "calories_kcal": 25,
+      "carbs_g": 6,
+      "fiber_g": 2.1,
+      "sugars_g": 3.9,
+      "protein_g": 1,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 25,
+    "carbs_g": 6,
+    "fiber_g": 2.1,
+    "sugars_g": 3.9,
+    "protein_g": 1,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Sautéed with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 65
+    },
+    {
+      "label": "Large size (~164 g) vs medium",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Roasted without added fat",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 23
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one yellow bell pepper?",
+      "a": "About 25 kcal for a medium raw yellow bell pepper."
+    },
+    {
+      "q": "Are yellow bell peppers low carb?",
+      "a": "Yes, ~6 g carbs per medium, with 2.1 g fiber and natural sugars."
+    },
+    {
+      "q": "What's the protein in yellow bell pepper?",
+      "a": "Minimal at 1 g per medium pepper; it's not a protein source."
+    },
+    {
+      "q": "Do bell peppers have fat or cholesterol?",
+      "a": "Very low fat (0.3 g) and 0 mg cholesterol per medium yellow bell pepper."
+    },
+    {
+      "q": "How does cooking affect calories in yellow bell pepper?",
+      "a": "Raw is lowest; added oils increase calories, but roasting alone keeps it similar."
+    }
+  ]
+}

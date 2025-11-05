@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ny strip steak 16 oz",
+  "title": "Calories in 16 oz NY Strip Steak",
+  "meta_description": "Discover calories in ny strip steak 16 oz, including protein, fat, full nutrition breakdown per 100 g basis, and preparation tweaks for better tracking.",
+  "slug": "calories-in-ny-strip-steak-16-oz",
+  "h1": "Calories in 16 oz NY Strip Steak",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 16,
+    "unit": "oz",
+    "item": "ny strip steak"
+  },
+  "assumptions": "USDA Choice grade, broiled, moderately trimmed fat, no added seasonings or marinades; 16 oz raw weight yields similar cooked weight after trimming.",
+  "disclaimer": "Nutrition varies by grade, cut thickness, cooking method, fat trimming, and doneness; values approximate—check labels or use a scale for precision.",
+  "quick_answer": {
+    "total_kcal": 1230,
+    "text": "A 16 oz NY strip steak provides ~1230 kcal and ~113 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 271,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 18,
+      "sat_fat_g": 7.5,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 80,
+      "sodium_mg": 58
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1230,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 113,
+    "fat_g": 82,
+    "sat_fat_g": 34,
+    "trans_fat_g": 2,
+    "cholesterol_mg": 363,
+    "sodium_mg": 263
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 5.15
+  },
+  "tweaks": [
+    {
+      "label": "Fully trim visible fat before cooking",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 830
+    },
+    {
+      "label": "Grill with 1 tbsp butter per 4 oz",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 1630
+    },
+    {
+      "label": "Choose leaner sirloin cut instead",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 910
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 16 oz NY strip steak?",
+      "a": "Approximately 1230 kcal for a broiled, moderately trimmed 16 oz NY strip steak."
+    },
+    {
+      "q": "What's the protein in 16 oz NY strip steak?",
+      "a": "About 113 g of protein, making it a high-protein choice."
+    },
+    {
+      "q": "Does cooking method affect calories in NY strip steak?",
+      "a": "Yes—broiling or grilling keeps calories lower than pan-frying with oil, which can add 50-100 kcal per serving."
+    },
+    {
+      "q": "How much fat is in 16 oz NY strip steak?",
+      "a": "Roughly 82 g total fat, including 34 g saturated, depending on trimming and grade."
+    },
+    {
+      "q": "Are these values for raw or cooked NY strip steak?",
+      "a": "Based on cooked weight; raw loses ~20-30% weight during cooking due to moisture loss."
+    }
+  ]
+}

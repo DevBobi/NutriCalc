@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pepperoni pizza",
+  "title": "Calories in Pepperoni Pizza",
+  "meta_description": "Discover calories in pepperoni pizza per slice, including macros like protein, fat, carbs, and sodium, plus tweaks and FAQs for better choices.",
+  "slug": "calories-in-pepperoni-pizza",
+  "h1": "Calories in Pepperoni Pizza",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "pepperoni pizza"
+  },
+  "assumptions": "Standard 14-inch pepperoni pizza with 8 slices; includes wheat crust, tomato sauce, mozzarella cheese, and pepperoni; baked, no extra oil or toppings.",
+  "disclaimer": "Nutrition varies by brand, size, crust type, topping amount, and baking method. Check labels or apps for specific products.",
+  "quick_answer": {
+    "total_kcal": 285,
+    "text": "A typical slice of pepperoni pizza contains about 285 calories and 13 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 285,
+      "carbs_g": 35,
+      "fiber_g": 2,
+      "sugars_g": 4,
+      "protein_g": 13,
+      "fat_g": 12,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 30,
+      "sodium_mg": 680
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 285,
+    "carbs_g": 35,
+    "fiber_g": 2,
+    "sugars_g": 4,
+    "protein_g": 13,
+    "fat_g": 12,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 30,
+    "sodium_mg": 680
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.19
+  },
+  "tweaks": [
+    {
+      "label": "Switch to thin crust",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 235
+    },
+    {
+      "label": "Add extra cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 335
+    },
+    {
+      "label": "Use whole wheat crust",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 265
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of pepperoni pizza?",
+      "a": "Approximately 285 kcal for a standard slice."
+    },
+    {
+      "q": "What are the macros in pepperoni pizza?",
+      "a": "Per slice: 35 g carbs, 13 g protein, 12 g fat, with 680 mg sodium."
+    },
+    {
+      "q": "Does pepperoni pizza have a lot of sodium?",
+      "a": "Yes, about 680 mg per slice, mainly from cheese and pepperoni."
+    },
+    {
+      "q": "How do calories change with different crusts?",
+      "a": "Thin crust reduces by ~50 kcal; deep dish adds ~100 kcal per slice."
+    },
+    {
+      "q": "Is pepperoni pizza high in saturated fat?",
+      "a": "It has 5 g saturated fat per slice, from cheese and pepperoni."
+    }
+  ]
+}

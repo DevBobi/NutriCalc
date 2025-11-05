@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a spoonful of peanut butter",
+  "title": "How Many Calories in a Spoonful of Peanut Butter?",
+  "meta_description": "Discover how many calories are in a spoonful of peanut butter, including full nutrition breakdown, protein, fats, and simple tweaks for your diet.",
+  "slug": "how-many-calories-are-in-a-spoonful-of-peanut-butter",
+  "h1": "How Many Calories in a Spoonful of Peanut Butter?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "spoonful",
+    "item": "peanut butter"
+  },
+  "assumptions": "Standard tablespoon spoonful (~16 g), smooth natural peanut butter, no added sugars or oils.",
+  "disclaimer": "Nutrition varies by brand, type (natural vs. processed), consistency, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 94,
+    "text": "One spoonful (1 tbsp) of peanut butter provides ~94 kcal and ~4 g protein."
+  },
+  "basis": {
+    "label": "per 1 spoonful (1 tbsp)",
+    "amount": 1,
+    "unit": "spoonful",
+    "nutrition": {
+      "calories_kcal": 94,
+      "carbs_g": 3.5,
+      "fiber_g": 1.3,
+      "sugars_g": 1.1,
+      "protein_g": 4,
+      "fat_g": 8,
+      "sat_fat_g": 1.6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 78
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 94,
+    "carbs_g": 3.5,
+    "fiber_g": 1.3,
+    "sugars_g": 1.1,
+    "protein_g": 4,
+    "fat_g": 8,
+    "sat_fat_g": 1.6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 78
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.39
+  },
+  "tweaks": [
+    {
+      "label": "Switch to crunchy peanut butter",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 96
+    },
+    {
+      "label": "Use low-fat or reduced-fat version",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 74
+    },
+    {
+      "label": "Add 1 tsp honey per spoonful",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 115
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a spoonful of peanut butter?",
+      "a": "About 94 kcal for one tablespoon (16 g) of natural peanut butter."
+    },
+    {
+      "q": "Is peanut butter high in protein?",
+      "a": "Yes, one spoonful has ~4 g protein, making it a good snack option."
+    },
+    {
+      "q": "How much fat is in a spoonful of peanut butter?",
+      "a": "Around 8 g total fat, including 1.6 g saturated fat, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "Does spoonful size affect calories in peanut butter?",
+      "a": "Yes—a teaspoon is ~32 kcal, while a heaping tablespoon can exceed 100 kcal."
+    },
+    {
+      "q": "What's the difference between natural and regular peanut butter calories?",
+      "a": "Natural has fewer additives and sugars; regular may add ~10-20 kcal per spoonful from oils and sugar."
+    }
+  ]
+}

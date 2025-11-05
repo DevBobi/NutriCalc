@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in benihana",
+  "title": "Calories in Benihana Meals",
+  "meta_description": "Discover calories in Benihana hibachi entrees, including steak, chicken, and shrimp options, with full nutrition breakdowns and serving tips for your next visit.",
+  "slug": "calories-in-benihana",
+  "h1": "Calories in Benihana Meals",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Benihana hibachi meal"
+  },
+  "assumptions": "Standard hibachi steak entree (~8 oz steak, 1 cup fried rice, grilled vegetables, miso soup, and 2-piece shrimp appetizer); cooked in hibachi style with minimal added oil.",
+  "disclaimer": "Nutrition varies by location, portion size, customizations, and preparation; Benihana values may differ—check their menu or app for exact info.",
+  "quick_answer": {
+    "total_kcal": 850,
+    "text": "A typical Benihana hibachi steak meal has about 850 kcal, with high protein from steak and carbs from rice."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 850,
+      "carbs_g": 65,
+      "fiber_g": 4,
+      "sugars_g": 6,
+      "protein_g": 48,
+      "fat_g": 42,
+      "sat_fat_g": 16,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 160,
+      "sodium_mg": 1400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 850,
+    "carbs_g": 65,
+    "fiber_g": 4,
+    "sugars_g": 6,
+    "protein_g": 48,
+    "fat_g": 42,
+    "sat_fat_g": 16,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 160,
+    "sodium_mg": 1400
+  },
+  "label_note": "Values mirror standard Nutrition Facts labels for easy comparison with restaurant disclosures.",
+  "equivalents": {
+    "megajoules": 3.56
+  },
+  "tweaks": [
+    {
+      "label": "Swap steak for hibachi chicken",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 700
+    },
+    {
+      "label": "Add Benihana house salad with ginger dressing",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 970
+    },
+    {
+      "label": "Choose shrimp entree instead of steak",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 750
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Benihana hibachi steak?",
+      "a": "About 850 kcal for a standard serving with rice and veggies."
+    },
+    {
+      "q": "What are the macros for calories in Benihana meals?",
+      "a": "Typically 48 g protein, 42 g fat, 65 g carbs per hibachi steak serving."
+    },
+    {
+      "q": "Are Benihana meals high in sodium?",
+      "a": "Yes, around 1400 mg per serving due to soy sauce and seasonings."
+    },
+    {
+      "q": "Calories in Benihana fried rice alone?",
+      "a": "About 300-400 kcal per cup, depending on added proteins."
+    },
+    {
+      "q": "How to lower calories in Benihana orders?",
+      "a": "Opt for grilled items without appetizers, skip rice, or choose veggie-focused entrees."
+    }
+  ]
+}

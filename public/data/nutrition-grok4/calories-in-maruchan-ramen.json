@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in maruchan ramen",
+  "title": "Calories in Maruchan Ramen",
+  "meta_description": "Discover calories in Maruchan ramen per package, including carbs, protein, fat, sodium details, and preparation tweaks for better nutrition.",
+  "slug": "calories-in-maruchan-ramen",
+  "h1": "Calories in Maruchan Ramen",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "package",
+    "item": "Maruchan ramen"
+  },
+  "assumptions": "Standard chicken flavor package (64g dry weight), prepared by boiling in water as directed; no added oils, vegetables, or proteins.",
+  "disclaimer": "Nutrition varies by flavor, brand batch, preparation method, and added ingredients. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 380,
+    "text": "One package of Maruchan ramen provides about 380 calories, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 package (prepared)",
+    "amount": 1,
+    "unit": "package",
+    "nutrition": {
+      "calories_kcal": 380,
+      "carbs_g": 52,
+      "fiber_g": 3,
+      "sugars_g": 1,
+      "protein_g": 9,
+      "fat_g": 14,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1610
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 380,
+    "carbs_g": 52,
+    "fiber_g": 3,
+    "sugars_g": 1,
+    "protein_g": 9,
+    "fat_g": 14,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1610
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.59
+  },
+  "tweaks": [
+    {
+      "label": "Add one boiled egg",
+      "delta_kcal_per_unit": 78,
+      "new_total_kcal": 458
+    },
+    {
+      "label": "Use half the seasoning packet",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Add 1 cup cooked vegetables (e.g., broccoli)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 415
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one package of Maruchan ramen?",
+      "a": "Approximately 380 calories for a standard prepared package."
+    },
+    {
+      "q": "Is Maruchan ramen high in sodium?",
+      "a": "Yes, one package has about 1610 mg sodium—over 70% of daily recommended intake."
+    },
+    {
+      "q": "What are the macros in Maruchan ramen?",
+      "a": "Per package: 52 g carbs, 9 g protein, 14 g fat."
+    },
+    {
+      "q": "Does cooking Maruchan ramen change the calories?",
+      "a": "No, boiling in water adds no calories; values are for prepared serving."
+    },
+    {
+      "q": "How to make Maruchan ramen healthier?",
+      "a": "Reduce seasoning, add veggies or protein, and drain excess oil from the packet."
+    }
+  ]
+}

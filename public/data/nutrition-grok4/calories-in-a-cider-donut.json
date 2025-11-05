@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a cider donut",
+  "title": "Calories in a Cider Donut",
+  "meta_description": "Discover calories in a cider donut, including full nutrition breakdown like carbs, fat, protein, and easy tweaks for variations.",
+  "slug": "calories-in-a-cider-donut",
+  "h1": "Calories in a Cider Donut",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "donut",
+    "item": "cider donut"
+  },
+  "assumptions": "Standard apple cider donut, fried, ~70 g, coated in cinnamon sugar; no fillings or glazes.",
+  "disclaimer": "Nutrition varies by brand, recipe, size, frying method, and ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A typical cider donut contains about 250 kcal, with high carbs from the dough and apple cider."
+  },
+  "basis": {
+    "label": "per 1 cider donut",
+    "amount": 1,
+    "unit": "donut",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 32,
+      "fiber_g": 1,
+      "sugars_g": 15,
+      "protein_g": 3,
+      "fat_g": 12,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 32,
+    "fiber_g": 1,
+    "sugars_g": 15,
+    "protein_g": 3,
+    "fat_g": 12,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add apple cider glaze",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Baked instead of fried",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Add cream filling",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cider donut?",
+      "a": "Approximately 250 kcal for a standard 70 g fried cider donut."
+    },
+    {
+      "q": "What are the carbs in a cider donut?",
+      "a": "About 32 g total carbs, including 15 g sugars and 1 g fiber."
+    },
+    {
+      "q": "Is a cider donut high in fat?",
+      "a": "Yes, around 12 g fat per donut, mostly from frying oil."
+    },
+    {
+      "q": "How does baking affect calories in a cider donut?",
+      "a": "Baking reduces calories by ~80 kcal compared to frying, to about 170 kcal."
+    },
+    {
+      "q": "What's the protein content of a cider donut?",
+      "a": "Low, at about 3 g per donut, mainly from flour and any added ingredients."
+    }
+  ]
+}

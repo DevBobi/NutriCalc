@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a bratwurst",
+  "title": "How Many Calories in a Bratwurst?",
+  "meta_description": "Discover how many calories in a bratwurst, including full nutrition breakdown like protein, fat, carbs, and sodium per serving, plus tweaks and FAQs.",
+  "slug": "how-many-calories-in-a-bratwurst",
+  "h1": "How Many Calories in a Bratwurst?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bratwurst",
+    "item": "bratwurst"
+  },
+  "assumptions": "Standard pork bratwurst, cooked (grilled or boiled), ~85 g serving size, no bun or toppings.",
+  "disclaimer": "Nutrition varies by brand, meat type, cooking method, and size; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "One standard cooked bratwurst has about 290 kcal, with 14 g protein and 25 g fat."
+  },
+  "basis": {
+    "label": "per 1 bratwurst",
+    "amount": 1,
+    "unit": "bratwurst",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 14,
+      "fat_g": 25,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 2,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 14,
+    "fat_g": 25,
+    "sat_fat_g": 9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 70,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Chicken bratwurst (lower fat alternative)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Add a hot dog bun",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 410
+    },
+    {
+      "label": "Beer-battered and fried",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 440
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bratwurst?",
+      "a": "About 290 kcal for one standard cooked pork bratwurst."
+    },
+    {
+      "q": "What's the protein in a bratwurst?",
+      "a": "Roughly 14 g protein per serving."
+    },
+    {
+      "q": "Are bratwursts high in sodium?",
+      "a": "Yes, around 800 mg sodium per bratwurst due to seasoning."
+    },
+    {
+      "q": "How does cooking method affect calories in a bratwurst?",
+      "a": "Grilling adds minimal calories; frying or battering can increase by 100+ kcal."
+    },
+    {
+      "q": "What's a lower-calorie bratwurst option?",
+      "a": "Try turkey or chicken varieties, which may have 150-200 kcal per serving."
+    }
+  ]
+}

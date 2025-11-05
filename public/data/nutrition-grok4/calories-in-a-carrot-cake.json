@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a carrot cake",
+  "title": "Calories in a Carrot Cake",
+  "meta_description": "Discover calories in a carrot cake, including full nutrition breakdown per serving and total for a standard cake, plus tweaks and FAQs for better choices.",
+  "slug": "calories-in-a-carrot-cake",
+  "h1": "Calories in a Carrot Cake",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cake",
+    "item": "carrot cake"
+  },
+  "assumptions": "Standard 9-inch homemade carrot cake with cream cheese frosting; ~1000 g total weight, serving 12-16 slices; includes walnuts and raisins.",
+  "disclaimer": "Nutrition varies by recipe, size, frosting amount, and ingredients; commercial versions may differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 4100,
+    "text": "A standard carrot cake contains about 4100 calories total."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 410,
+      "carbs_g": 50,
+      "fiber_g": 1.2,
+      "sugars_g": 35,
+      "protein_g": 4.5,
+      "fat_g": 22,
+      "sat_fat_g": 5.5,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 50,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 4100,
+    "carbs_g": 500,
+    "fiber_g": 12,
+    "sugars_g": 350,
+    "protein_g": 45,
+    "fat_g": 220,
+    "sat_fat_g": 55,
+    "trans_fat_g": 2,
+    "cholesterol_mg": 500,
+    "sodium_mg": 3000
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 17.15
+  },
+  "tweaks": [
+    {
+      "label": "Without cream cheese frosting",
+      "delta_kcal_per_unit": -1000,
+      "new_total_kcal": 3100
+    },
+    {
+      "label": "Low-fat version (reduced oil and sugar)",
+      "delta_kcal_per_unit": -800,
+      "new_total_kcal": 3300
+    },
+    {
+      "label": "Add extra walnuts (50 g more)",
+      "delta_kcal_per_unit": 300,
+      "new_total_kcal": 4400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a slice of carrot cake?",
+      "a": "A typical slice (about 70 g) has ~287 kcal, depending on the recipe."
+    },
+    {
+      "q": "Is carrot cake high in sugar?",
+      "a": "Yes, a whole standard carrot cake has ~350 g sugars, mostly from frosting and added sweeteners."
+    },
+    {
+      "q": "What's the protein in a carrot cake?",
+      "a": "About 45 g total, mainly from eggs, flour, and nuts."
+    },
+    {
+      "q": "How does store-bought carrot cake compare?",
+      "a": "Often similar or higher in calories due to more frosting; check labels for exact values."
+    },
+    {
+      "q": "Can carrot cake be healthy?",
+      "a": "Moderately, with carrots providing some fiber and vitamins, but high fat and sugar make it indulgent—opt for lighter versions."
+    }
+  ]
+}

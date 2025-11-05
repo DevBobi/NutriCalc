@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in mustard",
+  "title": "How Many Calories in Mustard?",
+  "meta_description": "Discover how many calories in mustard per tablespoon, including carbs, sodium, fat details, and variations like Dijon or honey mustard.",
+  "slug": "how-many-calories-in-mustard",
+  "h1": "How Many Calories in Mustard?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "mustard"
+  },
+  "assumptions": "Prepared yellow mustard; standard condiment serving (15 g per tbsp); no added ingredients.",
+  "disclaimer": "Nutrition varies by type (yellow, Dijon, whole grain), brand, and preparation; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 5,
+    "text": "One tablespoon of yellow mustard has about 5 calories and is low in fat."
+  },
+  "basis": {
+    "label": "per 1 tbsp (15 g)",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 5,
+      "carbs_g": 0.5,
+      "fiber_g": 0.3,
+      "sugars_g": 0.2,
+      "protein_g": 0.3,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 160
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 5,
+    "carbs_g": 0.5,
+    "fiber_g": 0.3,
+    "sugars_g": 0.2,
+    "protein_g": 0.3,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 160
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.02
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Dijon mustard",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 10
+    },
+    {
+      "label": "Use honey mustard (higher sugar)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 30
+    },
+    {
+      "label": "Whole grain mustard (with seeds)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 8
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of mustard?",
+      "a": "About 5 calories per tablespoon of yellow mustard."
+    },
+    {
+      "q": "Is mustard low-carb?",
+      "a": "Yes, only 0.5 g carbs per tbsp, with 0.3 g fiber."
+    },
+    {
+      "q": "How much sodium is in mustard?",
+      "a": "Around 160 mg per tablespoon, mostly from salt."
+    },
+    {
+      "q": "Calories in Dijon vs. yellow mustard?",
+      "a": "Dijon has about 10-15 kcal per tbsp, slightly more than yellow's 5 kcal."
+    },
+    {
+      "q": "Does mustard have fat or cholesterol?",
+      "a": "Very low: 0.3 g fat per tbsp and 0 mg cholesterol."
+    }
+  ]
+}

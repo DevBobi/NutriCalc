@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chick fil a small fries",
+  "title": "Calories in Chick-fil-A Small Fries",
+  "meta_description": "Learn calories in Chick-fil-A small fries: 320 kcal per small serving, with full nutrition facts on carbs, fat, protein, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-chick-fil-a-small-fries",
+  "h1": "Calories in Chick-fil-A Small Fries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small serving",
+    "item": "Chick-fil-A waffle potato fries"
+  },
+  "assumptions": "Chick-fil-A Waffle Potato Fries, small size (about 125g), fried as standard, with sea salt.",
+  "disclaimer": "Nutrition varies by location, preparation, and exact serving size. Values based on official Chick-fil-A data; check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 320,
+    "text": "A small serving of Chick-fil-A fries contains 320 calories and 5g protein."
+  },
+  "basis": {
+    "label": "per small serving",
+    "amount": 1,
+    "unit": "small fries",
+    "nutrition": {
+      "calories_kcal": 320,
+      "carbs_g": 43,
+      "fiber_g": 4,
+      "sugars_g": 0,
+      "protein_g": 5,
+      "fat_g": 15,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 190
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 320,
+    "carbs_g": 43,
+    "fiber_g": 4,
+    "sugars_g": 0,
+    "protein_g": 5,
+    "fat_g": 15,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 190
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.34
+  },
+  "tweaks": [
+    {
+      "label": "Add one packet of ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Upgrade to medium size",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 420
+    },
+    {
+      "label": "No salt added",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 320
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Chick-fil-A small fries?",
+      "a": "320 calories per small serving."
+    },
+    {
+      "q": "What are the carbs in Chick-fil-A small fries?",
+      "a": "43g total carbs, including 4g fiber and 0g sugars."
+    },
+    {
+      "q": "How much fat is in a small order of Chick-fil-A fries?",
+      "a": "15g total fat, with 2g saturated and 0g trans fat."
+    },
+    {
+      "q": "Are Chick-fil-A small fries high in sodium?",
+      "a": "190mg sodium per small serving, about 8% of daily value."
+    },
+    {
+      "q": "How does medium Chick-fil-A fries compare in calories?",
+      "a": "Medium has 420 calories, 100 more than small."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in olive garden breadsticks",
+  "title": "How Many Calories in Olive Garden Breadsticks?",
+  "meta_description": "Discover how many calories are in Olive Garden breadsticks per piece, including carbs, fat, sodium, and serving tips for your meal.",
+  "slug": "how-many-calories-are-in-olive-garden-breadsticks",
+  "h1": "How Many Calories in Olive Garden Breadsticks?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "breadstick",
+    "item": "olive garden breadstick"
+  },
+  "assumptions": "Standard Olive Garden soft breadstick, baked fresh, lightly brushed with butter/garlic topping; ~38 g each.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and additions like extra butter. Check Olive Garden's menu or app for latest info.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "One Olive Garden breadstick has about 140 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 breadstick",
+    "amount": 1,
+    "unit": "breadstick",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 25,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 4,
+      "fat_g": 3,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 460
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 25,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 4,
+    "fat_g": 3,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 460
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with restaurant info.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Extra garlic butter topping",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Whole wheat variation (if available)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Dipped in marinara sauce (1 tbsp)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 155
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one Olive Garden breadstick?",
+      "a": "Approximately 140 kcal per breadstick."
+    },
+    {
+      "q": "What are the carbs in Olive Garden breadsticks?",
+      "a": "About 25 g carbs per breadstick, with 1 g fiber."
+    },
+    {
+      "q": "Are Olive Garden breadsticks high in sodium?",
+      "a": "Yes, around 460 mg sodium per breadstick due to seasoning."
+    },
+    {
+      "q": "How many breadsticks in a typical serving?",
+      "a": "Often 2–4 per meal, so 280–560 kcal total; adjust based on your order."
+    },
+    {
+      "q": "Can I get lower-calorie Olive Garden breadsticks?",
+      "a": "Request plain without butter topping to save ~20 kcal each."
+    }
+  ]
+}

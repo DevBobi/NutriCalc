@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in modelo",
+  "title": "Calories in Modelo Beer",
+  "meta_description": "Discover calories in modelo beer per bottle, including carbs, protein, sodium, and quick tweaks for variations like light versions.",
+  "slug": "calories-in-modelo",
+  "h1": "Calories in Modelo Beer",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "Modelo beer"
+  },
+  "assumptions": "Standard 12 fl oz bottle of Modelo Especial lager; values based on typical serving without mixers or garnishes.",
+  "disclaimer": "Nutrition varies by specific variant, serving size, and brand batch; alcohol content affects calorie density. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 145,
+    "text": "One 12 oz bottle of Modelo Especial contains 145 calories, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 bottle (12 fl oz)",
+    "amount": 1,
+    "unit": "bottle",
+    "nutrition": {
+      "calories_kcal": 145,
+      "carbs_g": 13.5,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 1.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 25
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 145,
+    "carbs_g": 13.5,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 1.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 25
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.61
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Modelo Light",
+      "delta_kcal_per_unit": -55,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Modelo Negra (darker lager variant)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Add a salted rim and lime",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 155
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Modelo Especial?",
+      "a": "About 145 calories per 12 oz bottle."
+    },
+    {
+      "q": "What are the carbs in modelo beer?",
+      "a": "Approximately 13.5 g carbs per bottle, with no fiber or sugars."
+    },
+    {
+      "q": "Is Modelo beer low in protein?",
+      "a": "Yes, only 1.1 g protein per bottle."
+    },
+    {
+      "q": "Calories in Modelo Light vs regular?",
+      "a": "Modelo Light has 90 calories, 55 fewer than regular Modelo Especial."
+    },
+    {
+      "q": "Does Modelo have fat or cholesterol?",
+      "a": "Zero fat and zero cholesterol per serving."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a mini snickers",
+  "title": "How Many Calories in a Mini Snickers?",
+  "meta_description": "Discover how many calories in a mini Snickers, including full nutrition breakdown like carbs, protein, fat, and quick tweaks for variations.",
+  "slug": "how-many-calories-in-a-mini-snickers",
+  "h1": "How Many Calories in a Mini Snickers?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "mini bar",
+    "item": "Snickers"
+  },
+  "assumptions": "Standard Mini Snickers bar (~13g), milk chocolate with nougat, caramel, and peanuts; no customizations.",
+  "disclaimer": "Nutrition varies by brand batch, exact size, and storage; check packaging for precise values.",
+  "quick_answer": {
+    "total_kcal": 50,
+    "text": "A mini Snickers bar contains about 50 calories with 6.5g carbs and 0.7g protein."
+  },
+  "basis": {
+    "label": "per 1 mini Snickers bar",
+    "amount": 1,
+    "unit": "mini bar",
+    "nutrition": {
+      "calories_kcal": 50,
+      "carbs_g": 6.5,
+      "fiber_g": 0.2,
+      "sugars_g": 5.5,
+      "protein_g": 0.7,
+      "fat_g": 2.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 1,
+      "sodium_mg": 25
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 50,
+    "carbs_g": 6.5,
+    "fiber_g": 0.2,
+    "sugars_g": 5.5,
+    "protein_g": 0.7,
+    "fat_g": 2.6,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 1,
+    "sodium_mg": 25
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.21
+  },
+  "tweaks": [
+    {
+      "label": "Swap peanuts for almonds (per mini bar)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 52
+    },
+    {
+      "label": "Less caramel, more nougat (per mini bar)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 45
+    },
+    {
+      "label": "Dipped in dark chocolate (per mini bar)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 53
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a mini Snickers bar?",
+      "a": "Approximately 50 calories per mini bar."
+    },
+    {
+      "q": "What are the carbs in a mini Snickers?",
+      "a": "About 6.5g total carbs, including 5.5g sugars and 0.2g fiber."
+    },
+    {
+      "q": "Is protein high in a mini Snickers?",
+      "a": "No, just 0.7g protein from the peanuts."
+    },
+    {
+      "q": "How much fat in one mini Snickers?",
+      "a": "2.6g total fat, with 1g saturated fat."
+    },
+    {
+      "q": "Does a mini Snickers have trans fat?",
+      "a": "Typically 0g trans fat per bar."
+    }
+  ]
+}

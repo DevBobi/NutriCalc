@@ -1,0 +1,92 @@
+{
+  "keyword": "sugar in the raw packet calories",
+  "title": "Calories in One Sugar in the Raw Packet",
+  "meta_description": "Discover sugar in the raw packet calories—typically 16 kcal per packet—plus full nutrition breakdown, carbs, sugars, and quick alternatives for your coffee or tea.",
+  "slug": "sugar-in-the-raw-packet-calories",
+  "h1": "Calories in One Sugar in the Raw Packet",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "packet",
+    "item": "sugar in the raw"
+  },
+  "assumptions": "Standard single-serve packet of turbinado (raw cane) sugar, approximately 4 g; no additives.",
+  "disclaimer": "Nutrition varies by brand, packet size, and processing; always check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 16,
+    "text": "One packet of Sugar in the Raw provides 16 calories, all from 4 g of carbohydrates (sugars)."
+  },
+  "basis": {
+    "label": "per 1 packet",
+    "amount": 1,
+    "unit": "packet",
+    "nutrition": {
+      "calories_kcal": 16,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sugars_g": 4,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 16,
+    "carbs_g": 4,
+    "fiber_g": 0,
+    "sugars_g": 4,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.07
+  },
+  "tweaks": [
+    {
+      "label": "Switch to one packet of white granulated sugar",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 16
+    },
+    {
+      "label": "Use one packet of brown sugar (slightly moister)",
+      "delta_kcal_per_unit": -1,
+      "new_total_kcal": 15
+    },
+    {
+      "label": "Replace with one stevia packet (zero-calorie alternative)",
+      "delta_kcal_per_unit": -16,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a sugar in the raw packet?",
+      "a": "About 16 calories per standard 4 g packet."
+    },
+    {
+      "q": "Is Sugar in the Raw healthier than white sugar?",
+      "a": "It has similar calories (16 kcal per packet) but retains some minerals from the cane; still mostly sugar."
+    },
+    {
+      "q": "How much sugar is in one packet of Sugar in the Raw?",
+      "a": "4 grams of total sugars, all from carbohydrates."
+    },
+    {
+      "q": "Does Sugar in the Raw have any protein or fat?",
+      "a": "No—0 g protein, 0 g fat; it's pure carbohydrate energy."
+    },
+    {
+      "q": "How many packets equal a teaspoon of sugar?",
+      "a": "One packet is typically equivalent to one teaspoon (4 g)."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a large cucumber",
+  "title": "Calories in a Large Cucumber",
+  "meta_description": "Discover calories in a large cucumber, plus carbs, fiber, protein, fat, and full nutrition breakdown per serving with quick tweaks for recipes.",
+  "slug": "calories-in-a-large-cucumber",
+  "h1": "Calories in a Large Cucumber",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cucumber",
+    "item": "large cucumber"
+  },
+  "assumptions": "Fresh, raw, with peel; large size ≈300 g total weight.",
+  "disclaimer": "Nutrition varies by variety, freshness, growing conditions, and exact size; check produce labels or apps for precision.",
+  "quick_answer": {
+    "total_kcal": 45,
+    "text": "A large cucumber provides about 45 kcal, with high water content and 3 g fiber for hydration and digestion."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 15,
+      "carbs_g": 3.6,
+      "fiber_g": 1,
+      "sugars_g": 1.7,
+      "protein_g": 0.7,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 45,
+    "carbs_g": 10.8,
+    "fiber_g": 3,
+    "sugars_g": 5.1,
+    "protein_g": 2.1,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 6
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.19
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (removes skin, slight fiber loss)",
+      "delta_kcal_per_unit": -3,
+      "new_total_kcal": 42
+    },
+    {
+      "label": "With 1 tbsp Greek yogurt dip",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Pickled in brine (adds vinegar and salt)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a large cucumber?",
+      "a": "Approximately 45 kcal for a 300 g large cucumber."
+    },
+    {
+      "q": "Are cucumbers low in carbs?",
+      "a": "Yes, about 10.8 g carbs total, mostly from natural sugars and fiber."
+    },
+    {
+      "q": "What's the fiber content in a large cucumber?",
+      "a": "Around 3 g of dietary fiber, aiding digestion and satiety."
+    },
+    {
+      "q": "Do cucumbers have any protein or fat?",
+      "a": "Minimal: 2.1 g protein and 0.3 g fat per large cucumber."
+    },
+    {
+      "q": "How does size affect calories in cucumbers?",
+      "a": "Medium (200 g) ≈30 kcal; extra-large (400 g) ≈60 kcal—scale by weight."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in toast with avocado",
+  "title": "Calories in Toast with Avocado",
+  "meta_description": "Learn calories in toast with avocado for one serving, plus protein, fats, carbs, full nutrition facts, and easy tweaks to customize.",
+  "slug": "calories-in-toast-with-avocado",
+  "h1": "Calories in Toast with Avocado",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "toast with avocado"
+  },
+  "assumptions": "1 slice whole wheat bread (~28g), toasted; 1/2 medium Hass avocado (~68g), mashed or sliced; no added salt, oil, or toppings.",
+  "disclaimer": "Nutrition varies by bread type, avocado ripeness, portion size, and additions like seasonings or spreads. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 183,
+    "text": "One serving of toast with avocado provides ~183 kcal, rich in healthy fats and fiber."
+  },
+  "basis": {
+    "label": "per 1 serving (1 slice toast + 1/2 avocado)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 183,
+      "carbs_g": 18,
+      "fiber_g": 6.6,
+      "sugars_g": 0.9,
+      "protein_g": 3.4,
+      "fat_g": 11.5,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 155
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 183,
+    "carbs_g": 18,
+    "fiber_g": 6.6,
+    "sugars_g": 0.9,
+    "protein_g": 3.4,
+    "fat_g": 11.5,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 155
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.77
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter to toast",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 219
+    },
+    {
+      "label": "Use full medium avocado instead of half",
+      "delta_kcal_per_unit": 114,
+      "new_total_kcal": 297
+    },
+    {
+      "label": "Add one poached egg on top",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 253
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of avocado toast?",
+      "a": "About 183 kcal for 1 slice whole wheat toast with half an avocado."
+    },
+    {
+      "q": "Is avocado toast high in healthy fats?",
+      "a": "Yes, ~11.5 g total fat per serving, mostly monounsaturated from the avocado."
+    },
+    {
+      "q": "How much fiber in toast with avocado?",
+      "a": "Around 6.6 g per serving, mainly from the avocado and whole wheat bread."
+    },
+    {
+      "q": "Does avocado toast have protein?",
+      "a": "Modest amount: ~3.4 g per serving; add eggs or seeds to boost it."
+    },
+    {
+      "q": "Can I make avocado toast lower calorie?",
+      "a": "Yes, use thinner bread or less avocado; skip butter or oil to reduce by 30-50 kcal."
+    }
+  ]
+}

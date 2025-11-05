@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in an uncrustable",
+  "title": "How Many Calories in an Uncrustable?",
+  "meta_description": "Discover how many calories in an uncrustable, including full nutrition breakdown with carbs, protein, fat, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-an-uncrustable",
+  "h1": "How Many Calories in an Uncrustable?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "uncrustable",
+    "item": "uncrustable"
+  },
+  "assumptions": "Standard Smucker's Peanut Butter & Grape Jelly Uncrustable sandwich (66g), thawed, no added toppings or modifications.",
+  "disclaimer": "Nutrition varies by flavor, brand, serving size, and preparation; values based on average product data. Check packaging for exact info.",
+  "quick_answer": {
+    "total_kcal": 210,
+    "text": "One standard Uncrustable provides about 210 kcal, with 6g protein and 28g carbs."
+  },
+  "basis": {
+    "label": "per 1 uncrustable",
+    "amount": 1,
+    "unit": "uncrustable",
+    "nutrition": {
+      "calories_kcal": 210,
+      "carbs_g": 28,
+      "fiber_g": 2,
+      "sugars_g": 12,
+      "protein_g": 6,
+      "fat_g": 9,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 170
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 210,
+    "carbs_g": 28,
+    "fiber_g": 2,
+    "sugars_g": 12,
+    "protein_g": 6,
+    "fat_g": 9,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 170
+  },
+  "label_note": "Values mirror standard Nutrition Facts panel for quick comparison to product labels.",
+  "equivalents": {
+    "megajoules": 0.88
+  },
+  "tweaks": [
+    {
+      "label": "Strawberry jelly flavor (vs. grape)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Add 1 tbsp extra peanut butter",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Honey version instead of jelly",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 220
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Uncrustable?",
+      "a": "Approximately 210 kcal for a standard peanut butter and jelly Uncrustable."
+    },
+    {
+      "q": "What are the macros in an Uncrustable?",
+      "a": "About 28g carbs, 9g fat, 6g protein, and 2g fiber per sandwich."
+    },
+    {
+      "q": "Does Uncrustable have trans fats?",
+      "a": "Typically 0g trans fat, but check the label for your specific flavor."
+    },
+    {
+      "q": "How much sugar is in an Uncrustable?",
+      "a": "Around 12g total sugars from the jelly and bread."
+    },
+    {
+      "q": "Are Uncrustables high in sodium?",
+      "a": "About 170mg sodium per sandwich, which is moderate for a snack."
+    }
+  ]
+}

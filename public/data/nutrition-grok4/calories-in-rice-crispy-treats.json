@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in rice crispy treats",
+  "title": "Calories in Rice Crispy Treats",
+  "meta_description": "Discover calories in rice crispy treats, including full nutrition breakdown per treat, macros, and easy tweaks for homemade versions.",
+  "slug": "calories-in-rice-crispy-treats",
+  "h1": "Calories in Rice Crispy Treats",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "treat",
+    "item": "rice crispy treat"
+  },
+  "assumptions": "Standard store-bought or homemade; one square ~22g, made with Rice Krispies cereal, marshmallows, and butter; no added toppings.",
+  "disclaimer": "Nutrition varies by brand, recipe, size, and ingredients like butter type or cereal brand. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "One standard rice crispy treat contains about 90 calories and 18g carbs."
+  },
+  "basis": {
+    "label": "per 1 rice crispy treat",
+    "amount": 1,
+    "unit": "treat",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 18,
+      "fiber_g": 0,
+      "sugars_g": 8,
+      "protein_g": 1,
+      "fat_g": 3,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 110
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 18,
+    "fiber_g": 0,
+    "sugars_g": 8,
+    "protein_g": 1,
+    "fat_g": 3,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 110
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Homemade with extra butter (1 tsp more)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 125
+    },
+    {
+      "label": "Add chocolate chips (1 tbsp per treat)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Low-sugar marshmallows version",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 80
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one rice crispy treat?",
+      "a": "About 90 calories for a standard 22g treat."
+    },
+    {
+      "q": "What are the carbs in rice crispy treats?",
+      "a": "One treat has 18g carbs, mostly from marshmallows and cereal."
+    },
+    {
+      "q": "Do rice crispy treats have protein?",
+      "a": "Minimal, about 1g per treat from the cereal."
+    },
+    {
+      "q": "How does homemade vs store-bought differ in calories?",
+      "a": "Homemade can vary; extra butter or nuts increase calories by 20-50 per treat."
+    },
+    {
+      "q": "Are rice crispy treats high in sugar?",
+      "a": "Yes, one treat contains 8g sugars, mainly from marshmallows."
+    }
+  ]
+}

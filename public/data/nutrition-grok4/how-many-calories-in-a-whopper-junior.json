@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a whopper junior",
+  "title": "How Many Calories in a Whopper Junior?",
+  "meta_description": "Discover how many calories in a whopper junior, including full nutrition breakdown like protein, carbs, fat, and sodium, plus tweaks and FAQs.",
+  "slug": "how-many-calories-in-a-whopper-junior",
+  "h1": "How Many Calories in a Whopper Junior?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "Whopper Junior",
+    "item": "Whopper Junior"
+  },
+  "assumptions": "Standard Burger King Whopper Junior: flame-grilled beef patty, sesame seed bun, lettuce, tomato, pickles, onions, ketchup, mayo; no customizations.",
+  "disclaimer": "Nutrition varies by location, ingredients, preparation, and custom orders. Check Burger King app or packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 340,
+    "text": "A standard Whopper Junior contains about 340 calories with 15 g protein."
+  },
+  "basis": {
+    "label": "per 1 Whopper Junior",
+    "amount": 1,
+    "unit": "Whopper Junior",
+    "nutrition": {
+      "calories_kcal": 340,
+      "carbs_g": 37,
+      "fiber_g": 2,
+      "sugars_g": 8,
+      "protein_g": 15,
+      "fat_g": 16,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 35,
+      "sodium_mg": 570
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 340,
+    "carbs_g": 37,
+    "fiber_g": 2,
+    "sugars_g": 8,
+    "protein_g": 15,
+    "fat_g": 16,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35,
+    "sodium_mg": 570
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.42
+  },
+  "tweaks": [
+    {
+      "label": "Add American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Remove mayonnaise",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add bacon strips",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 410
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Whopper Junior without mayo?",
+      "a": "About 250 calories after removing mayo."
+    },
+    {
+      "q": "What is the protein in a Whopper Junior?",
+      "a": "Approximately 15 g of protein per burger."
+    },
+    {
+      "q": "How much sodium is in a Whopper Junior?",
+      "a": "Around 570 mg of sodium."
+    },
+    {
+      "q": "Are there carbs in a Whopper Junior?",
+      "a": "Yes, about 37 g total carbs, including 2 g fiber."
+    },
+    {
+      "q": "How does Whopper Junior compare to regular Whopper calories?",
+      "a": "Whopper Junior has ~340 kcal; regular Whopper is about 670 kcal."
+    }
+  ]
+}

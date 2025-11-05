@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a ataulfo mango",
+  "title": "Calories in One Ataulfo Mango",
+  "meta_description": "Discover calories in a ataulfo mango, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown per fruit.",
+  "slug": "calories-in-a-ataulfo-mango",
+  "h1": "Calories in One Ataulfo Mango",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "mango",
+    "item": "ataulfo mango"
+  },
+  "assumptions": "Medium-sized Ataulfo mango (~100g edible portion), ripe, peeled and pitted; values based on USDA data for this variety.",
+  "disclaimer": "Nutrition varies by size, ripeness, variety, and growing conditions. Check labels or apps for specific produce.",
+  "quick_answer": {
+    "total_kcal": 60,
+    "text": "One medium Ataulfo mango has about 60 kcal, mostly from natural sugars and carbs."
+  },
+  "basis": {
+    "label": "per 1 medium Ataulfo mango",
+    "amount": 1,
+    "unit": "mango",
+    "nutrition": {
+      "calories_kcal": 60,
+      "carbs_g": 15,
+      "fiber_g": 1.6,
+      "sugars_g": 13.7,
+      "protein_g": 0.8,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 60,
+    "carbs_g": 15,
+    "fiber_g": 1.6,
+    "sugars_g": 13.7,
+    "protein_g": 0.8,
+    "fat_g": 0.4,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.25
+  },
+  "tweaks": [
+    {
+      "label": "Larger size (~150g edible portion)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Blended into a smoothie with yogurt (add 100g plain yogurt)",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Dried mango slices (dehydrated, no added sugar)",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 180
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a ataulfo mango?",
+      "a": "About 60 kcal for one medium Ataulfo mango."
+    },
+    {
+      "q": "What's the sugar content in an Ataulfo mango?",
+      "a": "Around 13.7 g of natural sugars per medium fruit."
+    },
+    {
+      "q": "Are Ataulfo mangos low in fat?",
+      "a": "Yes, only 0.4 g total fat per mango, with minimal saturated fat."
+    },
+    {
+      "q": "How much fiber in one Ataulfo mango?",
+      "a": "Approximately 1.6 g of dietary fiber, aiding digestion."
+    },
+    {
+      "q": "Is an Ataulfo mango healthier than regular mango?",
+      "a": "Similar nutrition, but Ataulfo is sweeter and often smaller, with comparable calories per gram."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a quesadilla",
+  "title": "Calories in a Quesadilla",
+  "meta_description": "Discover calories in a quesadilla, including a basic cheese version with full nutrition breakdown, macros, and simple tweaks for variations.",
+  "slug": "calories-in-a-quesadilla",
+  "h1": "Calories in a Quesadilla",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "quesadilla",
+    "item": "quesadilla"
+  },
+  "assumptions": "Standard 8-inch flour tortilla with 2 oz shredded cheddar cheese, folded and cooked on a dry skillet; no added fillings or sauces.",
+  "disclaimer": "Nutrition varies by tortilla size, cheese type, added ingredients, cooking method, and brand. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "A basic cheese quesadilla contains about 450 calories and 20 g protein."
+  },
+  "basis": {
+    "label": "per 1 quesadilla",
+    "amount": 1,
+    "unit": "quesadilla",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 35,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 20,
+      "fat_g": 25,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 35,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 20,
+    "fat_g": 25,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Add 2 oz cooked chicken",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 550
+    },
+    {
+      "label": "Use corn tortilla instead of flour",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Add 1 tbsp sour cream topping",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 475
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a basic cheese quesadilla?",
+      "a": "Approximately 450 calories for one standard 8-inch version."
+    },
+    {
+      "q": "What are the macros in a quesadilla?",
+      "a": "About 35 g carbs, 20 g protein, 25 g fat, with 2 g fiber."
+    },
+    {
+      "q": "Does adding meat increase calories in a quesadilla?",
+      "a": "Yes, like 2 oz chicken adds ~100 kcal, making it 550 total."
+    },
+    {
+      "q": "Are quesadillas high in sodium?",
+      "a": "Yes, a basic one has ~800 mg due to cheese and tortilla."
+    },
+    {
+      "q": "How to make a lower-calorie quesadilla?",
+      "a": "Use veggies, low-fat cheese, or corn tortilla to reduce by 50-100 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in rice krispies",
+  "title": "Calories in Rice Krispies",
+  "meta_description": "Discover calories in rice krispies per serving, including carbs, protein, fat, sodium, and quick tweaks for your bowl.",
+  "slug": "calories-in-rice-krispies",
+  "h1": "Calories in Rice Krispies",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 30,
+    "unit": "g",
+    "item": "Rice Krispies"
+  },
+  "assumptions": "Kellogg's Rice Krispies cereal, dry and unprepared; standard 1-cup serving size (~30 g).",
+  "disclaimer": "Nutrition varies by brand, serving size, and added ingredients like milk or sugar. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "A 30 g serving of Rice Krispies provides ~120 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 30 g (1 cup) serving",
+    "amount": 30,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 27,
+      "fiber_g": 0.3,
+      "sugars_g": 3,
+      "protein_g": 2,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 190
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 27,
+    "fiber_g": 0.3,
+    "sugars_g": 3,
+    "protein_g": 2,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 190
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Add 1/2 cup skim milk per serving",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Add 1 tsp sugar per serving",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 136
+    },
+    {
+      "label": "Use low-sodium version",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of Rice Krispies?",
+      "a": "About 120 kcal per 30 g (1 cup) dry serving."
+    },
+    {
+      "q": "What are the carbs in Rice Krispies?",
+      "a": "27 g total carbs per 30 g serving, with 3 g sugars and 0.3 g fiber."
+    },
+    {
+      "q": "Does Rice Krispies have protein or fat?",
+      "a": "2 g protein and just 0.2 g fat per 30 g serving."
+    },
+    {
+      "q": "How much sodium in Rice Krispies?",
+      "a": "190 mg per 30 g serving; opt for low-sodium if watching intake."
+    },
+    {
+      "q": "Calories in Rice Krispies with milk?",
+      "a": "Adds ~40-80 kcal depending on milk type; total ~160-200 kcal for skim milk."
+    }
+  ]
+}

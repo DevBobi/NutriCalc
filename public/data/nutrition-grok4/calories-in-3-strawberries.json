@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 3 strawberries",
+  "title": "Calories in 3 Strawberries",
+  "meta_description": "Discover calories in 3 strawberries, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown per serving with quick tweaks.",
+  "slug": "calories-in-3-strawberries",
+  "h1": "Calories in 3 Strawberries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "strawberry",
+    "item": "strawberry"
+  },
+  "assumptions": "Fresh, medium-sized strawberries (about 12 g each), whole, no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by size, ripeness, variety, and growing conditions. Check labels for packaged berries when available.",
+  "quick_answer": {
+    "total_kcal": 12,
+    "text": "Three medium strawberries offer about 12 kcal, mainly from natural sugars, with 0.6 g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium strawberry",
+    "amount": 1,
+    "unit": "strawberry",
+    "nutrition": {
+      "calories_kcal": 4,
+      "carbs_g": 0.9,
+      "fiber_g": 0.2,
+      "sugars_g": 0.6,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 12,
+    "carbs_g": 2.7,
+    "fiber_g": 0.6,
+    "sugars_g": 1.8,
+    "protein_g": 0.3,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.05
+  },
+  "tweaks": [
+    {
+      "label": "Sprinkle 1 tsp sugar per strawberry",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Use large strawberries (about 18 g each)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 18
+    },
+    {
+      "label": "Add 1 tbsp whipped cream per serving",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 37
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one strawberry?",
+      "a": "About 4 kcal for one medium fresh strawberry."
+    },
+    {
+      "q": "Are strawberries low in carbs?",
+      "a": "Yes, 3 strawberries have just 2.7 g carbs, mostly natural sugars."
+    },
+    {
+      "q": "What's the fiber content in 3 strawberries?",
+      "a": "Approximately 0.6 g of dietary fiber, aiding digestion."
+    },
+    {
+      "q": "Do strawberries have any fat or protein?",
+      "a": "Negligible fat (0 g) and low protein (0.3 g) in 3 strawberries."
+    },
+    {
+      "q": "How does strawberry size affect calories?",
+      "a": "Larger strawberries add more calories; medium ones are about 4 kcal each, large around 6 kcal."
+    }
+  ]
+}

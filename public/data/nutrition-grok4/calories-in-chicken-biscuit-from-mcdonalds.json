@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken biscuit from mcdonalds",
+  "title": "Calories in McDonald's Chicken Biscuit",
+  "meta_description": "Learn calories in chicken biscuit from McDonalds: 510 kcal per serving, plus carbs, protein, fat, sodium, and full nutrition details for this breakfast item.",
+  "slug": "calories-in-chicken-biscuit-from-mcdonalds",
+  "h1": "Calories in McDonald's Chicken Biscuit",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 1,
+    "unit": "chicken biscuit",
+    "item": "McDonald's chicken biscuit"
+  },
+  "assumptions": "McDonald's standard Chicken Biscuit: crispy fried chicken patty on a warm baked biscuit with margarine spread; no additional toppings.",
+  "disclaimer": "Nutrition varies by location, preparation, and portion size. Based on McDonald's official data; check app or website for latest values.",
+  "quick_answer": {
+    "total_kcal": 510,
+    "text": "A McDonald's Chicken Biscuit provides 510 kcal, 16 g protein, and 50 g carbs."
+  },
+  "basis": {
+    "label": "per 1 Chicken Biscuit",
+    "amount": 1,
+    "unit": "chicken biscuit",
+    "nutrition": {
+      "calories_kcal": 510,
+      "carbs_g": 50,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 16,
+      "fat_g": 25,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 30,
+      "sodium_mg": 1080
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 510,
+    "carbs_g": 50,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 16,
+    "fat_g": 25,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30,
+    "sodium_mg": 1080
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.13
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 slice American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 560
+    },
+    {
+      "label": "Substitute grilled chicken patty (lower fat)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 410
+    },
+    {
+      "label": "Add 1 strip of bacon",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 550
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in chicken biscuit from McDonalds?",
+      "a": "510 kcal for one standard Chicken Biscuit."
+    },
+    {
+      "q": "What's the protein in a McDonald's chicken biscuit?",
+      "a": "About 16 g of protein per serving."
+    },
+    {
+      "q": "How much sodium is in McDonald's chicken biscuit?",
+      "a": "1080 mg of sodium, so watch intake if limiting salt."
+    },
+    {
+      "q": "Are there carbs in chicken biscuit from McDonalds?",
+      "a": "Yes, 50 g total carbs, mostly from the biscuit."
+    },
+    {
+      "q": "How does McDonald's chicken biscuit compare to sausage biscuit?",
+      "a": "Similar calories (around 430 for sausage), but chicken has more protein and slightly higher fat."
+    }
+  ]
+}

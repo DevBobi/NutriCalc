@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in gatorade",
+  "title": "How Many Calories in Gatorade?",
+  "meta_description": "Learn how many calories in Gatorade per 20 oz bottle, including carbs, sugars, sodium, and full nutrition breakdown for quick reference.",
+  "slug": "how-many-calories-in-gatorade",
+  "h1": "How Many Calories in Gatorade?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "gatorade"
+  },
+  "assumptions": "20 fl oz (591 ml) bottle of original Gatorade Thirst Quencher; fruit punch flavor; no added ingredients.",
+  "disclaimer": "Nutrition varies by flavor, brand formulation, serving size, and any dilutions or additions. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "A standard 20 oz bottle of Gatorade contains about 130 calories, primarily from carbohydrates."
+  },
+  "basis": {
+    "label": "per 20 fl oz bottle",
+    "amount": 1,
+    "unit": "bottle",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 34,
+      "fiber_g": 0,
+      "sugars_g": 34,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 270
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 34,
+    "fiber_g": 0,
+    "sugars_g": 34,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 270
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Gatorade Zero (sugar-free version)",
+      "delta_kcal_per_unit": -130,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Dilute with equal parts water",
+      "delta_kcal_per_unit": -65,
+      "new_total_kcal": 65
+    },
+    {
+      "label": "Opt for G2 low-calorie version",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 20 oz bottle of Gatorade?",
+      "a": "Approximately 130 calories for original Gatorade Thirst Quencher."
+    },
+    {
+      "q": "What are the carbs in Gatorade?",
+      "a": "About 34 g of carbohydrates, all from sugars, per 20 oz bottle."
+    },
+    {
+      "q": "Does Gatorade have protein or fat?",
+      "a": "No protein or fat; it's mainly carbs, electrolytes, and water."
+    },
+    {
+      "q": "How much sodium is in Gatorade?",
+      "a": "Around 270 mg per 20 oz bottle, helpful for hydration during exercise."
+    },
+    {
+      "q": "Are there zero-calorie Gatorade options?",
+      "a": "Yes, Gatorade Zero has 0 calories but retains electrolytes and flavor."
+    }
+  ]
+}

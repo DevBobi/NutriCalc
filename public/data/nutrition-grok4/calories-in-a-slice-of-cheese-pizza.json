@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a slice of cheese pizza",
+  "title": "Calories in a Slice of Cheese Pizza",
+  "meta_description": "Discover calories in a slice of cheese pizza, including macros like protein, carbs, fat, and sodium, plus tweaks and FAQs for better choices.",
+  "slug": "calories-in-a-slice-of-cheese-pizza",
+  "h1": "Calories in a Slice of Cheese Pizza",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "cheese pizza"
+  },
+  "assumptions": "Standard 14-inch pizza, one-eighth slice, mozzarella cheese topping, basic tomato sauce, medium crust; baked, no extra oil or toppings.",
+  "disclaimer": "Nutrition varies by brand, size, crust type, cheese amount, and baking method. Check labels or restaurant info when available.",
+  "quick_answer": {
+    "total_kcal": 285,
+    "text": "A typical slice of cheese pizza contains about 285 calories and 12 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 285,
+      "carbs_g": 36,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 12,
+      "fat_g": 10,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 640
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 285,
+    "carbs_g": 36,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 12,
+    "fat_g": 10,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 640
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.19
+  },
+  "tweaks": [
+    {
+      "label": "Add 2 slices of pepperoni",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 335
+    },
+    {
+      "label": "Switch to thin crust",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 235
+    },
+    {
+      "label": "Extra cheese topping",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 315
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a slice of cheese pizza?",
+      "a": "Approximately 285 kcal for a standard slice."
+    },
+    {
+      "q": "What's the protein in one slice of cheese pizza?",
+      "a": "About 12 g of protein per slice."
+    },
+    {
+      "q": "Does cheese pizza have a lot of sodium?",
+      "a": "Yes, around 640 mg per slice from cheese and sauce."
+    },
+    {
+      "q": "How do carbs break down in a cheese pizza slice?",
+      "a": "Roughly 36 g total carbs, with 2 g fiber and 5 g sugars."
+    },
+    {
+      "q": "What affects calories in cheese pizza slices?",
+      "a": "Crust thickness, cheese quantity, sauce, and portion size vary totals significantly."
+    }
+  ]
+}

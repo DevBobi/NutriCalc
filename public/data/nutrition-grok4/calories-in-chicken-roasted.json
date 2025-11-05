@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken roasted",
+  "title": "Calories in Roasted Chicken",
+  "meta_description": "Learn calories in chicken roasted per 100g, including protein, fat, carbs, and full nutrition details for easy tracking.",
+  "slug": "calories-in-chicken-roasted",
+  "h1": "Calories in Roasted Chicken",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "roasted chicken"
+  },
+  "assumptions": "Roasted chicken, meat and skin, cooked without added oils or seasonings; standard broiler/fryer.",
+  "disclaimer": "Nutrition varies by chicken cut, size, cooking method, and added ingredients. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 239,
+    "text": "100g of roasted chicken provides ~239 kcal and ~27g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 239,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 27.3,
+      "fat_g": 13.6,
+      "sat_fat_g": 3.9,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 85,
+      "sodium_mg": 82
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 239,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 27.3,
+    "fat_g": 13.6,
+    "sat_fat_g": 3.9,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 85,
+    "sodium_mg": 82
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1
+  },
+  "tweaks": [
+    {
+      "label": "Skinless roasted chicken (remove skin)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 139
+    },
+    {
+      "label": "Add 1 tsp olive oil per 100g during roasting",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 279
+    },
+    {
+      "label": "Breast meat only (vs. meat and skin mix)",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 169
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g roasted chicken?",
+      "a": "About 239 kcal for roasted chicken with skin."
+    },
+    {
+      "q": "What's the protein in roasted chicken per 100g?",
+      "a": "Approximately 27.3g protein per 100g."
+    },
+    {
+      "q": "Does roasted chicken have carbs?",
+      "a": "No carbs; 0g total carbohydrates per 100g."
+    },
+    {
+      "q": "How does skin affect calories in chicken roasted?",
+      "a": "Skin adds fat; skinless is ~139 kcal per 100g vs. 239 with skin."
+    },
+    {
+      "q": "What about sodium in roasted chicken?",
+      "a": "Around 82mg per 100g, but seasonings can increase it significantly."
+    }
+  ]
+}

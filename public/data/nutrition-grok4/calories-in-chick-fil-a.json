@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chick fil a",
+  "title": "Calories in Chick-fil-A Chicken Sandwich",
+  "meta_description": "Discover calories in chick fil a chicken sandwich (440 kcal), plus full nutrition breakdown, macros, sodium, and tweaks for meals.",
+  "slug": "calories-in-chick-fil-a",
+  "h1": "Calories in Chick-fil-A Chicken Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Chick-fil-A chicken sandwich"
+  },
+  "assumptions": "Original chicken sandwich with boneless breast, pickle, bun; no modifications or sides.",
+  "disclaimer": "Nutrition varies by location, preparation, customizations, and serving size. Check Chick-fil-A app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 440,
+    "text": "One Chick-fil-A chicken sandwich has 440 kcal, 28 g protein, and 1350 mg sodium."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 440,
+      "carbs_g": 44,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 28,
+      "fat_g": 19,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 65,
+      "sodium_mg": 1350
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 440,
+    "carbs_g": 44,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 28,
+    "fat_g": 19,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 65,
+    "sodium_mg": 1350
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.84
+  },
+  "tweaks": [
+    {
+      "label": "Grilled chicken version (vs. fried)",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Add medium waffle potato fries",
+      "delta_kcal_per_unit": 420,
+      "new_total_kcal": 860
+    },
+    {
+      "label": "No bun (lettuce wrap)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 240
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in chick fil a chicken sandwich?",
+      "a": "440 kcal for the original fried version."
+    },
+    {
+      "q": "What's the protein in a Chick-fil-A sandwich?",
+      "a": "About 28 g of protein per sandwich."
+    },
+    {
+      "q": "How much sodium is in Chick-fil-A chicken sandwich?",
+      "a": "1350 mg, mostly from breading and seasoning."
+    },
+    {
+      "q": "Calories in Chick-fil-A grilled sandwich?",
+      "a": "Around 320 kcal, lower fat than the original."
+    },
+    {
+      "q": "Does Chick-fil-A sandwich have trans fat?",
+      "a": "0 g trans fat, but check for updates as recipes change."
+    }
+  ]
+}

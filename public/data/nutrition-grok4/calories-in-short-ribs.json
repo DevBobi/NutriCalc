@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in short ribs",
+  "title": "Calories in Short Ribs",
+  "meta_description": "Discover calories in short ribs per 100g serving, including protein, fat, carbs, and full nutrition breakdown for braised beef short ribs.",
+  "slug": "calories-in-short-ribs",
+  "h1": "Calories in Short Ribs",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "short ribs"
+  },
+  "assumptions": "Beef short ribs, braised, trimmed of excess fat, bone-in but values for meat portion only; no added sauces.",
+  "disclaimer": "Nutrition varies by cut, cooking method, fat trimming, and beef grade. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 271,
+    "text": "100g of braised beef short ribs provides ~271 kcal and ~21g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 271,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 21,
+      "fat_g": 20,
+      "sat_fat_g": 8.5,
+      "trans_fat_g": 1.2,
+      "cholesterol_mg": 72,
+      "sodium_mg": 58
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 271,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 21,
+    "fat_g": 20,
+    "sat_fat_g": 8.5,
+    "trans_fat_g": 1.2,
+    "cholesterol_mg": 72,
+    "sodium_mg": 58
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 1.13
+  },
+  "tweaks": [
+    {
+      "label": "Grilled instead of braised (less fat rendered)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 221
+    },
+    {
+      "label": "Bone-in, untrimmed (more fat per 100g)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 311
+    },
+    {
+      "label": "Add 1 tbsp BBQ sauce per 100g",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 316
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in short ribs per 100g?",
+      "a": "About 271 kcal for braised beef short ribs."
+    },
+    {
+      "q": "Are short ribs high in protein?",
+      "a": "Yes, ~21g protein per 100g, making them a good source for muscle building."
+    },
+    {
+      "q": "What's the fat content in short ribs?",
+      "a": "Around 20g total fat per 100g, with 8.5g saturated."
+    },
+    {
+      "q": "Do short ribs have carbs?",
+      "a": "No carbs, fiber, or sugars in plain braised short ribs."
+    },
+    {
+      "q": "How does cooking method affect calories in short ribs?",
+      "a": "Braising renders fat (lower calories); grilling or smoking can vary by added oils or marinades."
+    }
+  ]
+}

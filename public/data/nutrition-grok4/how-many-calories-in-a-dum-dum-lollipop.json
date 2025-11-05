@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a dum dum lollipop",
+  "title": "How Many Calories in a Dum Dum Lollipop?",
+  "meta_description": "Discover how many calories in a dum dum lollipop, including carbs, sugars, and other nutrition facts per piece, with quick tweaks and FAQs for candy lovers.",
+  "slug": "how-many-calories-in-a-dum-dum-lollipop",
+  "h1": "How Many Calories in a Dum Dum Lollipop?",
+  "updated": "2023-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "lollipop",
+    "item": "dum dum lollipop"
+  },
+  "assumptions": "Standard size Dum Dum lollipop (~5-6 g), hard candy, average flavor like cherry; wrapper removed before eating.",
+  "disclaimer": "Nutrition varies by flavor, batch, and manufacturer; small candies like these have minimal differences. Check packaging when available.",
+  "quick_answer": {
+    "total_kcal": 25,
+    "text": "A single Dum Dum lollipop contains about 25 calories, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 Dum Dum lollipop",
+    "amount": 1,
+    "unit": "lollipop",
+    "nutrition": {
+      "calories_kcal": 25,
+      "carbs_g": 6.2,
+      "fiber_g": 0,
+      "sugars_g": 5.8,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 25,
+    "carbs_g": 6.2,
+    "fiber_g": 0,
+    "sugars_g": 5.8,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Sugar-free Dum Dum variety",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 5
+    },
+    {
+      "label": "Add a small chocolate coating",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 55
+    },
+    {
+      "label": "Homemade with reduced sugar",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 15
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a dum dum lollipop?",
+      "a": "Approximately 25 calories per standard Dum Dum lollipop."
+    },
+    {
+      "q": "Are Dum Dum lollipops low carb?",
+      "a": "Yes, about 6.2 g carbs per lollipop, all from sugars with no fiber."
+    },
+    {
+      "q": "Does flavor affect calories in Dum Dums?",
+      "a": "Minimal variation; most flavors are around 25 kcal each."
+    },
+    {
+      "q": "How much sugar is in one Dum Dum lollipop?",
+      "a": "Roughly 5.8 g of sugars per lollipop."
+    },
+    {
+      "q": "Are there fat-free options like Dum Dums?",
+      "a": "Yes, standard Dum Dums have 0 g fat and are cholesterol-free."
+    }
+  ]
+}

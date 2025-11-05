@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in goldfish",
+  "title": "Calories in Goldfish Crackers",
+  "meta_description": "Learn calories in goldfish crackers for a standard 30g serving, including carbs, protein, fat, sodium, and easy tweaks for different flavors.",
+  "slug": "calories-in-goldfish",
+  "h1": "Calories in Goldfish Crackers",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 30,
+    "unit": "g",
+    "item": "goldfish crackers"
+  },
+  "assumptions": "Cheddar flavor, baked; standard Pepperidge Farm variety; no added dips or toppings.",
+  "disclaimer": "Nutrition varies by flavor, brand, serving size, and preparation. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "30g of Goldfish crackers provides 140 kcal, 3g protein, and 230mg sodium."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 467,
+      "carbs_g": 60,
+      "fiber_g": 3,
+      "sugars_g": 0,
+      "protein_g": 10,
+      "fat_g": 20,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 17,
+      "sodium_mg": 767
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 18,
+    "fiber_g": 1,
+    "sugars_g": 0,
+    "protein_g": 3,
+    "fat_g": 6,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 230
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Switch to pretzel flavor (lower fat per 30g)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Add 1 tbsp cheddar dip per serving",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Whole grain variety (slightly higher fiber, similar calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 140
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in goldfish crackers per serving?",
+      "a": "About 140 calories in 30g (roughly 30 crackers) of cheddar Goldfish."
+    },
+    {
+      "q": "What are the carbs in goldfish crackers?",
+      "a": "18g carbs per 30g serving, with 1g fiber and 0g sugars."
+    },
+    {
+      "q": "Are goldfish crackers high in sodium?",
+      "a": "Yes, 230mg sodium per 30g serving—about 10% of daily value."
+    },
+    {
+      "q": "How much protein in a handful of goldfish?",
+      "a": "Around 3g protein per 30g serving."
+    },
+    {
+      "q": "Do different goldfish flavors vary in calories?",
+      "a": "Slightly; cheddar is 140 kcal per 30g, pretzel about 120 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in kraft mac and cheese",
+  "title": "Calories in Kraft Mac and Cheese",
+  "meta_description": "Learn calories in Kraft Mac and Cheese per prepared serving, plus carbs, protein, fat, sodium, and easy tweaks for variations.",
+  "slug": "calories-in-kraft-mac-and-cheese",
+  "h1": "Calories in Kraft Mac and Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "kraft mac and cheese"
+  },
+  "assumptions": "Prepared as directed: 1/3 box dry mix with 4 tbsp margarine and 1/4 cup 2% milk per box, yielding 3 servings (1 cup or 225g each).",
+  "disclaimer": "Nutrition varies by preparation method, brand specifics, milk type, and added ingredients. Check box for latest values.",
+  "quick_answer": {
+    "total_kcal": 420,
+    "text": "One prepared serving of Kraft Mac and Cheese contains about 420 calories and 10g protein."
+  },
+  "basis": {
+    "label": "per 1 serving (1 cup prepared)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 420,
+      "carbs_g": 49,
+      "fiber_g": 2,
+      "sugars_g": 7,
+      "protein_g": 10,
+      "fat_g": 21,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 710
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 420,
+    "carbs_g": 49,
+    "fiber_g": 2,
+    "sugars_g": 7,
+    "protein_g": 10,
+    "fat_g": 21,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 710
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.76
+  },
+  "tweaks": [
+    {
+      "label": "Use skim milk and half the margarine",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Add 1/4 cup shredded cheddar cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Prepare with olive oil instead of margarine (1 tbsp per serving)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 440
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of Kraft Mac and Cheese?",
+      "a": "About 420 calories per 1-cup prepared serving."
+    },
+    {
+      "q": "What are the macros for Kraft Mac and Cheese?",
+      "a": "Per serving: 49g carbs, 10g protein, 21g fat, with 710mg sodium."
+    },
+    {
+      "q": "Calories in a full box of Kraft Mac and Cheese?",
+      "a": "A full box prepared makes 3 servings, totaling about 1260 calories."
+    },
+    {
+      "q": "Is Kraft Mac and Cheese high in sodium?",
+      "a": "Yes, one serving has 710mg sodium, about 31% of daily recommended intake."
+    },
+    {
+      "q": "How to lower calories in Kraft Mac and Cheese?",
+      "a": "Use low-fat milk, reduce margarine or substitute with veggies for fewer calories."
+    }
+  ]
+}

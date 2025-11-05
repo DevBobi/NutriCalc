@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a cracker barrel biscuit",
+  "title": "Calories in a Cracker Barrel Biscuit",
+  "meta_description": "Discover calories in a cracker barrel biscuit, including full nutrition breakdown, macros, sodium, and serving tweaks for your meal planning.",
+  "slug": "calories-in-a-cracker-barrel-biscuit",
+  "h1": "Calories in a Cracker Barrel Biscuit",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "biscuit",
+    "item": "cracker barrel biscuit"
+  },
+  "assumptions": "Standard buttermilk biscuit from Cracker Barrel restaurant, approximately 60g, baked fresh, no added toppings.",
+  "disclaimer": "Nutrition varies by restaurant preparation, batch, and serving size. Values based on typical published data; check with Cracker Barrel for exact info.",
+  "quick_answer": {
+    "total_kcal": 160,
+    "text": "A single Cracker Barrel biscuit contains about 160 calories and 3g protein."
+  },
+  "basis": {
+    "label": "per 1 biscuit",
+    "amount": 1,
+    "unit": "biscuit",
+    "nutrition": {
+      "calories_kcal": 160,
+      "carbs_g": 21,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 3,
+      "fat_g": 7,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 10,
+      "sodium_mg": 380
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 160,
+    "carbs_g": 21,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 3,
+    "fat_g": 7,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 10,
+    "sodium_mg": 380
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.67
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 pat of butter (about 5g)",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 196
+    },
+    {
+      "label": "Homemade version with less butter",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "With honey topping (1 tsp)",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 181
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cracker barrel biscuit?",
+      "a": "Approximately 160 calories per biscuit."
+    },
+    {
+      "q": "What are the carbs in a Cracker Barrel biscuit?",
+      "a": "About 21g total carbs, including 1g fiber and 2g sugars."
+    },
+    {
+      "q": "Is a Cracker Barrel biscuit high in sodium?",
+      "a": "Yes, around 380mg sodium per biscuit due to baking powder and salt."
+    },
+    {
+      "q": "How much fat in one Cracker Barrel biscuit?",
+      "a": "7g total fat, with 3g saturated fat."
+    },
+    {
+      "q": "Can I get nutrition info for multiple Cracker Barrel biscuits?",
+      "a": "Double for two: 320 kcal, 42g carbs, 6g protein, but varies by serving."
+    }
+  ]
+}

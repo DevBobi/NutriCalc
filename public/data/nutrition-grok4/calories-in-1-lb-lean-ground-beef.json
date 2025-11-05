@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 lb lean ground beef",
+  "title": "Calories in 1 lb Lean Ground Beef",
+  "meta_description": "Discover calories in 1 lb lean ground beef, including protein, fat, carbs, full nutrition breakdown per 100 g, and preparation tweaks for accurate tracking.",
+  "slug": "calories-in-1-lb-lean-ground-beef",
+  "h1": "Calories in 1 lb Lean Ground Beef",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "lb",
+    "item": "lean ground beef"
+  },
+  "assumptions": "90% lean / 10% fat, raw (uncooked), no added seasonings or fillers; 1 lb ≈ 454 g.",
+  "disclaimer": "Nutrition varies by fat percentage, brand, exact leanness, and cooking method. Check labels or USDA data for specifics.",
+  "quick_answer": {
+    "total_kcal": 798,
+    "text": "1 lb of lean ground beef contains about 798 kcal and 91 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 176,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 20,
+      "fat_g": 10,
+      "sat_fat_g": 4.1,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 65,
+      "sodium_mg": 66
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 798,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 91,
+    "fat_g": 45,
+    "sat_fat_g": 19,
+    "trans_fat_g": 2,
+    "cholesterol_mg": 295,
+    "sodium_mg": 299
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.34
+  },
+  "tweaks": [
+    {
+      "label": "Pan-broiled and drained (cooked from raw weight)",
+      "delta_kcal_per_unit": -159,
+      "new_total_kcal": 639
+    },
+    {
+      "label": "80% lean instead of 90% (higher fat content)",
+      "delta_kcal_per_unit": 91,
+      "new_total_kcal": 889
+    },
+    {
+      "label": "Add 1 tbsp vegetable oil for cooking",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 918
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 lb of lean ground beef?",
+      "a": "Approximately 798 kcal for 90% lean raw ground beef."
+    },
+    {
+      "q": "What's the protein content in 1 lb lean ground beef?",
+      "a": "About 91 g of protein, making it a high-protein option."
+    },
+    {
+      "q": "Does cooking change calories in lean ground beef?",
+      "a": "Yes, pan-broiling and draining fat reduces total calories to around 639 kcal for the same raw weight."
+    },
+    {
+      "q": "How much fat is in 1 lb 90% lean ground beef?",
+      "a": "Roughly 45 g total fat, with 19 g saturated."
+    },
+    {
+      "q": "Is lean ground beef low-carb?",
+      "a": "Yes, 0 g carbs per serving, ideal for keto or low-carb diets."
+    }
+  ]
+}

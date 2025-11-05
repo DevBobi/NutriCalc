@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in large wendys chili",
+  "title": "Calories in Large Wendy's Chili",
+  "meta_description": "Discover calories in large Wendy's chili: 340 kcal per serving, plus full nutrition breakdown including protein, carbs, fat, sodium, and quick tweaks for custom orders.",
+  "slug": "calories-in-large-wendys-chili",
+  "h1": "Calories in Large Wendy's Chili",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "large serving",
+    "item": "Wendy's chili"
+  },
+  "assumptions": "Wendy's restaurant chili, large size (approx. 12 oz), standard recipe with beans, beef, and spices; no customizations.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and add-ons. Check Wendy's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 340,
+    "text": "A large Wendy's chili provides 340 kcal, 24 g protein, and 10 g fiber."
+  },
+  "basis": {
+    "label": "per 1 large serving",
+    "amount": 1,
+    "unit": "large serving",
+    "nutrition": {
+      "calories_kcal": 340,
+      "carbs_g": 32,
+      "fiber_g": 10,
+      "sugars_g": 6,
+      "protein_g": 24,
+      "fat_g": 10,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 55,
+      "sodium_mg": 1470
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 340,
+    "carbs_g": 32,
+    "fiber_g": 10,
+    "sugars_g": 6,
+    "protein_g": 24,
+    "fat_g": 10,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 55,
+    "sodium_mg": 1470
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.42
+  },
+  "tweaks": [
+    {
+      "label": "Add shredded cheddar cheese topping",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 450
+    },
+    {
+      "label": "Add sour cream dollop",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Small size instead of large",
+      "delta_kcal_per_unit": -170,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a large Wendy's chili?",
+      "a": "340 calories per large serving."
+    },
+    {
+      "q": "What's the protein in large Wendy's chili?",
+      "a": "About 24 g of protein, making it a filling option."
+    },
+    {
+      "q": "How much sodium is in large Wendy's chili?",
+      "a": "Approximately 1470 mg, so watch intake if on a low-sodium diet."
+    },
+    {
+      "q": "Does large Wendy's chili have fiber?",
+      "a": "Yes, 10 g of dietary fiber from beans and veggies."
+    },
+    {
+      "q": "Are calories in Wendy's chili different by size?",
+      "a": "Small is ~170 kcal; large is 340 kcal—double the portion, double the calories."
+    }
+  ]
+}

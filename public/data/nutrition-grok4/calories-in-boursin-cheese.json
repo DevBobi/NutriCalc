@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in boursin cheese",
+  "title": "Calories in Boursin Cheese",
+  "meta_description": "Discover calories in Boursin cheese per 100 g, including fat, protein, carbs, sodium, and quick tweaks for different flavors or servings.",
+  "slug": "calories-in-boursin-cheese",
+  "h1": "Calories in Boursin Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "boursin cheese"
+  },
+  "assumptions": "Garlic and herb flavored soft cheese; values based on standard commercial product, no added ingredients.",
+  "disclaimer": "Nutrition varies by flavor, brand, and exact recipe. Check labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 420,
+    "text": "100 g of Boursin cheese provides ~420 kcal and ~8 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 420,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sugars_g": 2,
+      "protein_g": 8,
+      "fat_g": 42,
+      "sat_fat_g": 26,
+      "trans_fat_g": 1.5,
+      "cholesterol_mg": 100,
+      "sodium_mg": 680
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 420,
+    "carbs_g": 3,
+    "fiber_g": 0,
+    "sugars_g": 2,
+    "protein_g": 8,
+    "fat_g": 42,
+    "sat_fat_g": 26,
+    "trans_fat_g": 1.5,
+    "cholesterol_mg": 100,
+    "sodium_mg": 680
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.76
+  },
+  "tweaks": [
+    {
+      "label": "Pepper flavor (slightly higher sodium)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Reduce to 28 g serving (1 oz)",
+      "delta_kcal_per_unit": -314,
+      "new_total_kcal": 118
+    },
+    {
+      "label": "Light version (reduced fat)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 320
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g of Boursin cheese?",
+      "a": "Approximately 420 kcal per 100 g."
+    },
+    {
+      "q": "What is the fat content in Boursin cheese?",
+      "a": "About 42 g total fat, including 26 g saturated fat per 100 g."
+    },
+    {
+      "q": "Does Boursin cheese have carbs?",
+      "a": "Yes, around 3 g carbs and 2 g sugars per 100 g, with 0 g fiber."
+    },
+    {
+      "q": "How much protein in Boursin cheese?",
+      "a": "Roughly 8 g protein per 100 g."
+    },
+    {
+      "q": "Is Boursin cheese high in sodium?",
+      "a": "Yes, about 680 mg sodium per 100 g due to seasoning."
+    }
+  ]
+}

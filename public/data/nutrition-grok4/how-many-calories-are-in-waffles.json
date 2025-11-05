@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in waffles",
+  "title": "How Many Calories Are in Waffles?",
+  "meta_description": "Learn how many calories are in waffles with a full nutrition breakdown for two standard servings, including macros, tweaks, and FAQs for better meal planning.",
+  "slug": "how-many-calories-are-in-waffles",
+  "h1": "How Many Calories Are in Waffles?",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 2,
+    "unit": "waffle",
+    "item": "waffle"
+  },
+  "assumptions": "Standard frozen waffles (plain, 75 g each), toasted without added toppings; values based on average brand like Eggo.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and preparation method. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 420,
+    "text": "Two standard waffles provide about 420 kcal and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 waffle",
+    "amount": 1,
+    "unit": "waffle",
+    "nutrition": {
+      "calories_kcal": 210,
+      "carbs_g": 28,
+      "fiber_g": 1.5,
+      "sugars_g": 1,
+      "protein_g": 4.5,
+      "fat_g": 9,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 350
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 420,
+    "carbs_g": 56,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 9,
+    "fat_g": 18,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 700
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.76
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter per waffle",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 620
+    },
+    {
+      "label": "Use whole wheat waffles (lower carb version)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Top with 2 tbsp maple syrup per waffle",
+      "delta_kcal_per_unit": 104,
+      "new_total_kcal": 628
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one waffle?",
+      "a": "About 210 kcal for a standard 75 g frozen waffle, toasted."
+    },
+    {
+      "q": "Are waffles high in carbs?",
+      "a": "Yes, one waffle has around 28 g carbs, mostly from flour."
+    },
+    {
+      "q": "How much protein in two waffles?",
+      "a": "Approximately 9 g protein total."
+    },
+    {
+      "q": "Do homemade waffles differ in calories from frozen?",
+      "a": "Yes, homemade can vary; added oil or sugar increases calories by 20-50 kcal per waffle."
+    },
+    {
+      "q": "What makes waffles higher in sodium?",
+      "a": "Ingredients like baking powder and preservatives; one waffle has about 350 mg."
+    }
+  ]
+}

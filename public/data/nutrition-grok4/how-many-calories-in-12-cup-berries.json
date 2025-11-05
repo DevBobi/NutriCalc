@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 12 cup berries",
+  "title": "How Many Calories in 1/2 Cup Berries?",
+  "meta_description": "Discover how many calories in 1/2 cup berries, including carbs, fiber, protein, and full nutrition breakdown per serving with easy tweaks.",
+  "slug": "how-many-calories-in-12-cup-berries",
+  "h1": "How Many Calories in 1/2 Cup Berries?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 0.5,
+    "unit": "cup",
+    "item": "berries"
+  },
+  "assumptions": "Fresh mixed berries (strawberries, blueberries, raspberries); ~75 g per 1/2 cup serving, no added sugar.",
+  "disclaimer": "Nutrition varies by berry type, ripeness, and preparation; values are averages. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 43,
+    "text": "1/2 cup mixed berries provides ~43 kcal, mostly from carbs with good fiber."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 57,
+      "carbs_g": 14.5,
+      "fiber_g": 3.6,
+      "sugars_g": 9.6,
+      "protein_g": 1,
+      "fat_g": 0.4,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 43,
+    "carbs_g": 10.9,
+    "fiber_g": 2.7,
+    "sugars_g": 7.2,
+    "protein_g": 0.8,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.18
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar per 1/2 cup",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 59
+    },
+    {
+      "label": "Frozen berries (thawed, no added sugar)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 43
+    },
+    {
+      "label": "Strawberries only (vs. mixed)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 38
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1/2 cup mixed berries?",
+      "a": "About 43 kcal for 1/2 cup fresh mixed berries."
+    },
+    {
+      "q": "What is the fiber content in 1/2 cup berries?",
+      "a": "Roughly 2.7 g dietary fiber, aiding digestion."
+    },
+    {
+      "q": "Are berries low carb?",
+      "a": "Yes, ~10.9 g carbs per 1/2 cup, mostly natural sugars."
+    },
+    {
+      "q": "How many calories in 1 cup berries?",
+      "a": "Double the 1/2 cup amount: ~86 kcal."
+    },
+    {
+      "q": "Do berries have protein or fat?",
+      "a": "Minimal: ~0.8 g protein and 0.3 g fat per 1/2 cup."
+    }
+  ]
+}

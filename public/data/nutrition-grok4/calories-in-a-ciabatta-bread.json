@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a ciabatta bread",
+  "title": "Calories in a Ciabatta Bread",
+  "meta_description": "Learn calories in a ciabatta bread (standard 250g loaf), plus carbs, protein, fat, and full nutrition facts for better meal planning.",
+  "slug": "calories-in-a-ciabatta-bread",
+  "h1": "Calories in a Ciabatta Bread",
+  "updated": "2024-10-07",
+  "query": {
+    "amount": 1,
+    "unit": "ciabatta bread",
+    "item": "ciabatta bread"
+  },
+  "assumptions": "Standard plain ciabatta loaf, approximately 250g, baked without added fats or toppings; values based on typical Italian-style recipe.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 650,
+    "text": "A standard 250g ciabatta bread loaf has about 650 kcal and 22.5g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 260,
+      "carbs_g": 50,
+      "fiber_g": 2.5,
+      "sugars_g": 1.5,
+      "protein_g": 9,
+      "fat_g": 1.5,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 550
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 650,
+    "carbs_g": 125,
+    "fiber_g": 6.3,
+    "sugars_g": 3.8,
+    "protein_g": 22.5,
+    "fat_g": 3.8,
+    "sat_fat_g": 0.8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1375
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.72
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter for spreading",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 750
+    },
+    {
+      "label": "Whole grain ciabatta variation (higher fiber)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 630
+    },
+    {
+      "label": "With olive oil drizzle (1 tsp per loaf)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 690
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a ciabatta bread loaf?",
+      "a": "About 650 kcal for a standard 250g plain loaf."
+    },
+    {
+      "q": "What are the carbs in a ciabatta bread?",
+      "a": "Around 125g total carbs, including 6.3g fiber, for a 250g loaf."
+    },
+    {
+      "q": "Is ciabatta bread high in protein?",
+      "a": "Moderate at 22.5g protein per 250g loaf; mostly from wheat flour."
+    },
+    {
+      "q": "How does ciabatta compare to other breads calorie-wise?",
+      "a": "Similar to baguette (250-280 kcal/100g); higher hydration makes it lighter but calorie-dense."
+    },
+    {
+      "q": "Does toasting change calories in ciabatta bread?",
+      "a": "No, toasting doesn't add calories, but toppings like oil or butter do (e.g., +100 kcal with 1 tbsp butter)."
+    }
+  ]
+}

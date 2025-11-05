@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a bottle of champagne",
+  "title": "How Many Calories in a Bottle of Champagne?",
+  "meta_description": "Discover how many calories in a bottle of champagne (standard 750 ml brut), plus carbs, sugars, full nutrition breakdown, and variations for different styles.",
+  "slug": "how-many-calories-in-a-bottle-of-champagne",
+  "h1": "How Many Calories in a Bottle of Champagne?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "champagne"
+  },
+  "assumptions": "Standard 750 ml bottle, brut style (dry), sparkling wine; no added mixers or garnishes.",
+  "disclaimer": "Nutrition varies by brand, sweetness level (brut, demi-sec), alcohol content, and serving size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 615,
+    "text": "A standard 750 ml bottle of brut champagne has about 615 calories, primarily from carbohydrates."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 82,
+      "carbs_g": 2.6,
+      "fiber_g": 0,
+      "sugars_g": 1.2,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 6
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 615,
+    "carbs_g": 19.5,
+    "fiber_g": 0,
+    "sugars_g": 9,
+    "protein_g": 0.75,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 45
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.57
+  },
+  "tweaks": [
+    {
+      "label": "Demi-sec style (sweeter, higher sugar)",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 765
+    },
+    {
+      "label": "Rose champagne (similar but with slight fruit notes)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 625
+    },
+    {
+      "label": "Mixed with 100 ml orange juice",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 660
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bottle of brut champagne?",
+      "a": "About 615 kcal for a standard 750 ml bottle."
+    },
+    {
+      "q": "What are the carbs in a bottle of champagne?",
+      "a": "Roughly 19.5 g total carbs, mostly sugars, in 750 ml brut."
+    },
+    {
+      "q": "Does champagne have fat or protein?",
+      "a": "Negligible fat (0 g) and very low protein (~0.75 g) per bottle."
+    },
+    {
+      "q": "How does sweetness affect calories in champagne?",
+      "a": "Drier styles like brut have fewer calories; sweeter demi-sec adds ~150 kcal per bottle."
+    },
+    {
+      "q": "Is champagne low-carb?",
+      "a": "Brut is relatively low at ~2.6 g carbs per 100 ml, but totals add up in a full bottle."
+    }
+  ]
+}

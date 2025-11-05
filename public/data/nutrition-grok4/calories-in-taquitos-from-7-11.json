@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in taquitos from 7-11",
+  "title": "Calories in Taquitos from 7-Eleven",
+  "meta_description": "Discover calories in taquitos from 7-11, including macros, sodium, and nutrition for a standard 2-taquito serving, plus tweaks and FAQs.",
+  "slug": "calories-in-taquitos-from-7-11",
+  "h1": "Calories in Taquitos from 7-Eleven",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 2,
+    "unit": "taquito",
+    "item": "taquitos from 7-Eleven"
+  },
+  "assumptions": "Frozen beef and cheese taquitos, heated in microwave or oven; standard size (~85 g each); no added dips or toppings.",
+  "disclaimer": "Nutrition varies by flavor, batch, heating method, and store preparation. Check 7-Eleven packaging or app for exact values.",
+  "quick_answer": {
+    "total_kcal": 420,
+    "text": "Two 7-Eleven taquitos provide ~420 kcal, 14 g protein, and 48 g carbs."
+  },
+  "basis": {
+    "label": "per 1 taquito",
+    "amount": 1,
+    "unit": "taquito",
+    "nutrition": {
+      "calories_kcal": 210,
+      "carbs_g": 24,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 7,
+      "fat_g": 10,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 420,
+    "carbs_g": 48,
+    "fiber_g": 4,
+    "sugars_g": 2,
+    "protein_g": 14,
+    "fat_g": 20,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.76
+  },
+  "tweaks": [
+    {
+      "label": "Chicken taquitos instead of beef",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Add 1 tbsp sour cream per taquito",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 480
+    },
+    {
+      "label": "Vegetarian bean taquitos",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one taquito from 7-11?",
+      "a": "About 210 kcal per beef taquito."
+    },
+    {
+      "q": "What are the carbs in taquitos from 7-11?",
+      "a": "Two taquitos have ~48 g carbs, mostly from the tortilla."
+    },
+    {
+      "q": "Are 7-11 taquitos high in sodium?",
+      "a": "Yes, two taquitos contain ~800 mg sodium—watch if on a low-sodium diet."
+    },
+    {
+      "q": "Calories in chicken vs beef taquitos from 7-11?",
+      "a": "Chicken versions are slightly lower at ~190 kcal per taquito."
+    },
+    {
+      "q": "Do 7-11 taquitos have trans fat?",
+      "a": "Typically 0 g trans fat per serving in standard varieties."
+    }
+  ]
+}

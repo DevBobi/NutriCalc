@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a bowl of rice",
+  "title": "How Many Calories in a Bowl of Rice?",
+  "meta_description": "Learn how many calories in a bowl of rice (about 260 kcal for 200g cooked white rice), plus carbs, protein, fat, and nutrition tweaks for different varieties.",
+  "slug": "how-many-calories-in-a-bowl-of-rice",
+  "h1": "How Many Calories in a Bowl of Rice?",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "rice"
+  },
+  "assumptions": "Plain cooked white rice (long-grain), approximately 200 g per bowl (standard serving, boiled without added fat or salt).",
+  "disclaimer": "Nutrition varies by rice type, cooking method, portion size, and additions like oil or seasonings. Check labels or use a tracker for precision.",
+  "quick_answer": {
+    "total_kcal": 260,
+    "text": "A typical bowl of cooked white rice (200 g) contains about 260 kcal, primarily from carbs."
+  },
+  "basis": {
+    "label": "per bowl (200 g cooked white rice)",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 260,
+      "carbs_g": 56.4,
+      "fiber_g": 0.8,
+      "sugars_g": 0.1,
+      "protein_g": 5.4,
+      "fat_g": 0.6,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 260,
+    "carbs_g": 56.4,
+    "fiber_g": 0.8,
+    "sugars_g": 0.1,
+    "protein_g": 5.4,
+    "fat_g": 0.6,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.09
+  },
+  "tweaks": [
+    {
+      "label": "Switch to brown rice (same 200 g portion)",
+      "delta_kcal_per_unit": -38,
+      "new_total_kcal": 222
+    },
+    {
+      "label": "Add 1 tsp oil during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Use jasmine rice (slightly sweeter variety)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bowl of brown rice?",
+      "a": "About 222 kcal for 200 g cooked brown rice, with more fiber than white."
+    },
+    {
+      "q": "What are the carbs in a bowl of rice?",
+      "a": "Around 56 g carbs per 200 g bowl of cooked white rice, mostly starch."
+    },
+    {
+      "q": "Is a bowl of rice high in protein?",
+      "a": "No, only about 5 g protein per 200 g; pair with other foods for balance."
+    },
+    {
+      "q": "How does cooking method affect calories in rice?",
+      "a": "Boiled is lowest; frying or adding oil can add 40+ kcal per teaspoon."
+    },
+    {
+      "q": "What's the serving size for a bowl of rice?",
+      "a": "Typically 200 g cooked (1 cup), but varies; measure for accuracy."
+    }
+  ]
+}

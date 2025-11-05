@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in biscuits",
+  "title": "Calories in Biscuits",
+  "meta_description": "Discover calories in biscuits, including macros like carbs, protein, and fat per serving, plus tweaks and FAQs for better nutrition tracking.",
+  "slug": "calories-in-biscuits",
+  "h1": "Calories in Biscuits",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "biscuit",
+    "item": "biscuit"
+  },
+  "assumptions": "Plain American-style buttermilk biscuits, baked, medium size (~60 g each), no added toppings.",
+  "disclaimer": "Nutrition varies by recipe, brand, size, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 212,
+    "text": "One medium biscuit has about 212 kcal, with 26 g carbs and 4 g protein."
+  },
+  "basis": {
+    "label": "per 1 medium biscuit",
+    "amount": 1,
+    "unit": "biscuit",
+    "nutrition": {
+      "calories_kcal": 212,
+      "carbs_g": 26,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 4,
+      "fat_g": 10,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 1,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 212,
+    "carbs_g": 26,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 4,
+    "fat_g": 10,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 1,
+    "sodium_mg": 500
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.89
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 pat of butter per biscuit",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 248
+    },
+    {
+      "label": "Whole wheat flour version (lower cal due to less fat)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 182
+    },
+    {
+      "label": "With gravy (1/4 cup per biscuit)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 312
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one biscuit?",
+      "a": "About 212 kcal for a medium plain biscuit."
+    },
+    {
+      "q": "Are biscuits high in carbs?",
+      "a": "Yes, one biscuit has ~26 g carbs, mostly from flour."
+    },
+    {
+      "q": "What's the fat content in biscuits?",
+      "a": "Around 10 g total fat per biscuit, with 3 g saturated."
+    },
+    {
+      "q": "Do biscuits have much protein?",
+      "a": "Only about 4 g per biscuit; pair with protein sources for balance."
+    },
+    {
+      "q": "How does biscuit size affect calories?",
+      "a": "Larger biscuits (~80 g) can have 250+ kcal; smaller ones less."
+    }
+  ]
+}

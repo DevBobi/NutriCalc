@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in bagel cream cheese",
+  "title": "Calories in a Bagel with Cream Cheese",
+  "meta_description": "Discover calories in bagel cream cheese serving, including full nutrition breakdown, macros, and easy tweaks for variations under 160 characters.",
+  "slug": "calories-in-bagel-cream-cheese",
+  "h1": "Calories in a Bagel with Cream Cheese",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "bagel with cream cheese"
+  },
+  "assumptions": "Standard plain bagel (~100 g), topped with 1 oz (28 g) full-fat cream cheese; no additional toppings or butter.",
+  "disclaimer": "Nutrition varies by bagel size, brand, cream cheese type, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 380,
+    "text": "One bagel with 1 oz cream cheese has ~380 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 serving (1 bagel + 1 oz cream cheese)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 380,
+      "carbs_g": 52,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 12,
+      "fat_g": 15,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 40,
+      "sodium_mg": 620
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 380,
+    "carbs_g": 52,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 12,
+    "fat_g": 15,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 40,
+    "sodium_mg": 620
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.59
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat cream cheese (1 oz)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Add 1 tsp butter on bagel",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 415
+    },
+    {
+      "label": "Whole wheat bagel instead of plain",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 390
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a plain bagel with cream cheese?",
+      "a": "About 380 kcal for one standard serving with 1 oz cream cheese."
+    },
+    {
+      "q": "What's the protein in bagel cream cheese?",
+      "a": "Roughly 12 g protein per serving, mainly from the bagel."
+    },
+    {
+      "q": "Are bagels with cream cheese high in carbs?",
+      "a": "Yes, ~52 g carbs per serving, mostly refined from the bagel."
+    },
+    {
+      "q": "How much fat is in a bagel with cream cheese?",
+      "a": "About 15 g total fat, including 8 g saturated from the cream cheese."
+    },
+    {
+      "q": "Can I reduce calories in bagel cream cheese?",
+      "a": "Opt for low-fat cream cheese or half the amount to cut ~40 kcal."
+    }
+  ]
+}

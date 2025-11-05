@@ -1,0 +1,92 @@
+{
+  "keyword": "calorie in caesar salad",
+  "title": "Calories in Caesar Salad",
+  "meta_description": "Discover the calorie in caesar salad per serving, including full nutrition breakdown like fat, protein, carbs, and tips for lighter versions.",
+  "slug": "calorie-in-caesar-salad",
+  "h1": "Calories in Caesar Salad",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 1,
+    "unit": "salad",
+    "item": "Caesar salad"
+  },
+  "assumptions": "Typical restaurant serving (≈200 g total) with romaine lettuce, croutons, parmesan cheese, and creamy Caesar dressing; no added protein like chicken.",
+  "disclaimer": "Nutrition varies by recipe, portion size, dressing amount, and ingredients; homemade or restaurant versions differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 400,
+    "text": "One typical Caesar salad serving has about 400 kcal, mostly from the dressing."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 12,
+      "fiber_g": 1.5,
+      "sugars_g": 2,
+      "protein_g": 4,
+      "fat_g": 16,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 15,
+      "sodium_mg": 350
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 400,
+    "carbs_g": 24,
+    "fiber_g": 3,
+    "sugars_g": 4,
+    "protein_g": 8,
+    "fat_g": 32,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 30,
+    "sodium_mg": 700
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged or restaurant info.",
+  "equivalents": {
+    "megajoules": 1.67
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat dressing (reduces fat per 100 g)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Omit croutons (removes carbs and some calories per serving)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Add grilled chicken breast (100 g extra protein)",
+      "delta_kcal_per_unit": 165,
+      "new_total_kcal": 565
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Caesar salad?",
+      "a": "About 400 kcal for a typical 200 g serving with standard dressing."
+    },
+    {
+      "q": "What's the main source of calories in Caesar salad?",
+      "a": "The creamy dressing contributes most calories, around 16 g fat per 100 g."
+    },
+    {
+      "q": "Are there carbs in Caesar salad?",
+      "a": "Yes, about 12 g per 100 g, mainly from croutons; fiber is low at 1.5 g."
+    },
+    {
+      "q": "How to make a lower calorie Caesar salad?",
+      "a": "Opt for light dressing, skip croutons, or use vinaigrette to cut ~100 kcal per serving."
+    },
+    {
+      "q": "Is Caesar salad high in sodium?",
+      "a": "Yes, around 350 mg per 100 g from cheese and dressing; total serving ≈700 mg."
+    }
+  ]
+}

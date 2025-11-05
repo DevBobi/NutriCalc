@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in japanese sweet potato",
+  "title": "Calories in Japanese Sweet Potato",
+  "meta_description": "Discover calories in Japanese sweet potato per 100 g, including carbs, protein, fiber, and full nutrition breakdown for baked servings.",
+  "slug": "calories-in-japanese-sweet-potato",
+  "h1": "Calories in Japanese Sweet Potato",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "japanese sweet potato"
+  },
+  "assumptions": "Baked Japanese sweet potato (Satsumaimo variety), skin on, no added fats, salt, or toppings; medium moisture content.",
+  "disclaimer": "Nutrition varies by variety, size, cooking method, and growing conditions. Check labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "100 g of baked Japanese sweet potato provides about 90 kcal and 21 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 21,
+      "fiber_g": 3.3,
+      "sugars_g": 7,
+      "protein_g": 2,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 36
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 21,
+    "fiber_g": 3.3,
+    "sugars_g": 7,
+    "protein_g": 2,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 36
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Boiled instead of baked (per 100 g)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Skin removed (per 100 g)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Mashed with 1 tsp butter (per 100 g)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 130
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g Japanese sweet potato?",
+      "a": "About 90 kcal for baked, skin-on Japanese sweet potato."
+    },
+    {
+      "q": "What's the carb content in Japanese sweet potato?",
+      "a": "Around 21 g carbs per 100 g, including 3.3 g fiber."
+    },
+    {
+      "q": "Are Japanese sweet potatoes lower in calories than regular?",
+      "a": "Similar to regular sweet potatoes at ~90 kcal per 100 g baked."
+    },
+    {
+      "q": "How does cooking affect calories in Japanese sweet potato?",
+      "a": "Baking retains more nutrients; boiling may slightly reduce calories due to water absorption."
+    },
+    {
+      "q": "Is Japanese sweet potato good for protein?",
+      "a": "Modest at 2 g protein per 100 g; pair with proteins for balanced meals."
+    }
+  ]
+}

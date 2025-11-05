@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a buffalo wing",
+  "title": "Calories in a Buffalo Wing",
+  "meta_description": "Discover calories in a buffalo wing, including protein, fat, carbs, sodium from sauce, and easy tweaks for variations.",
+  "slug": "calories-in-a-buffalo-wing",
+  "h1": "Calories in a Buffalo Wing",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "wing",
+    "item": "buffalo wing"
+  },
+  "assumptions": "Bone-in chicken wing with skin, fried, coated in traditional buffalo hot sauce; average size (~42 g meat and skin).",
+  "disclaimer": "Nutrition varies by wing size, frying method, sauce brand, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 100,
+    "text": "A buffalo wing provides ~100 kcal, mostly from fat and sauce."
+  },
+  "basis": {
+    "label": "per 1 buffalo wing",
+    "amount": 1,
+    "unit": "wing",
+    "nutrition": {
+      "calories_kcal": 100,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0.5,
+      "protein_g": 6,
+      "fat_g": 8,
+      "sat_fat_g": 2.2,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 25,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 100,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0.5,
+    "protein_g": 6,
+    "fat_g": 8,
+    "sat_fat_g": 2.2,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 25,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.42
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Add blue cheese dressing (1 tbsp)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Skinless, grilled version",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a buffalo wing?",
+      "a": "About 100 kcal for one average fried buffalo wing with sauce."
+    },
+    {
+      "q": "What's the sodium in a buffalo wing?",
+      "a": "Around 300 mg, mainly from the hot sauce."
+    },
+    {
+      "q": "Are buffalo wings high in fat?",
+      "a": "Yes, ~8 g fat per wing, including 2.2 g saturated from skin and frying."
+    },
+    {
+      "q": "How much protein in one buffalo wing?",
+      "a": "Approximately 6 g protein per wing."
+    },
+    {
+      "q": "Do buffalo wings have carbs?",
+      "a": "Minimal, about 1 g carbs from the sauce; no fiber."
+    }
+  ]
+}

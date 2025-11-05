@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken wings fried",
+  "title": "Calories in Fried Chicken Wings",
+  "meta_description": "Learn calories in chicken wings fried per 100g, including protein, fat, carbs, sodium, and tips for variations to fit your diet.",
+  "slug": "calories-in-chicken-wings-fried",
+  "h1": "Calories in Fried Chicken Wings",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "fried chicken wings"
+  },
+  "assumptions": "Batter-dipped, deep-fried in vegetable oil; meat and skin included; no additional sauce or seasoning.",
+  "disclaimer": "Nutrition varies by preparation, batter type, oil used, wing size, and brand. Check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 327,
+    "text": "100g of fried chicken wings provides ~327 kcal, with high fat from frying and ~18g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 327,
+      "carbs_g": 9.8,
+      "fiber_g": 0.3,
+      "sugars_g": 0,
+      "protein_g": 17.9,
+      "fat_g": 22.2,
+      "sat_fat_g": 5.8,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 81,
+      "sodium_mg": 536
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 327,
+    "carbs_g": 9.8,
+    "fiber_g": 0.3,
+    "sugars_g": 0,
+    "protein_g": 17.9,
+    "fat_g": 22.2,
+    "sat_fat_g": 5.8,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 81,
+    "sodium_mg": 536
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.37
+  },
+  "tweaks": [
+    {
+      "label": "Unbreaded, flour-dusted only (less batter)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 267
+    },
+    {
+      "label": "Add buffalo sauce (2 tbsp per 100g)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 362
+    },
+    {
+      "label": "Air-fried instead of deep-fried (less oil)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 227
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g fried chicken wings?",
+      "a": "Approximately 327 kcal for batter-dipped, fried chicken wings with skin."
+    },
+    {
+      "q": "Are fried chicken wings high in fat?",
+      "a": "Yes, about 22g total fat per 100g, mostly from the skin and frying oil."
+    },
+    {
+      "q": "What's the protein in fried chicken wings?",
+      "a": "Around 18g protein per 100g, making them a decent source despite the calories."
+    },
+    {
+      "q": "Do fried chicken wings have carbs?",
+      "a": "Yes, ~10g carbs per 100g mainly from the batter; fiber is low at 0.3g."
+    },
+    {
+      "q": "How does baking affect calories in chicken wings?",
+      "a": "Baked wings have ~200-250 kcal per 100g, lower than fried due to less oil absorption."
+    }
+  ]
+}

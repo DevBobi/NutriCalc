@@ -1,0 +1,92 @@
+{
+  "keyword": "calories per gram in carbs",
+  "title": "Calories Per Gram in Carbs",
+  "meta_description": "Discover calories per gram in carbs—exactly 4 kcal per gram of digestible carbohydrates, with breakdowns for macros, fiber, and common tweaks for better understanding.",
+  "slug": "calories-per-gram-in-carbs",
+  "h1": "Calories Per Gram in Carbs",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "g",
+    "item": "carbs"
+  },
+  "assumptions": "Digestible carbohydrates (e.g., starches or sugars); excludes fiber. Based on standard Atwater factors for energy calculation.",
+  "disclaimer": "Caloric values for carbs are general; actual content varies by food source, processing, and digestibility. Consult specific nutrition labels for foods.",
+  "quick_answer": {
+    "total_kcal": 4,
+    "text": "Carbohydrates provide 4 calories per gram."
+  },
+  "basis": {
+    "label": "per 1 g digestible carbs",
+    "amount": 1,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 4,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 4,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values reflect pure carbohydrate energy; totals match basis for 1 g query.",
+  "equivalents": {
+    "megajoules": 0.02
+  },
+  "tweaks": [
+    {
+      "label": "For dietary fiber (indigestible carbs)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 2
+    },
+    {
+      "label": "For added sugars (e.g., table sugar)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 4
+    },
+    {
+      "label": "For complex starches (e.g., in grains)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 4
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories per gram in carbs?",
+      "a": "Digestible carbohydrates contain 4 kcal per gram."
+    },
+    {
+      "q": "What's the difference in calories between carbs and fiber?",
+      "a": "Fiber has about 2 kcal per gram, while digestible carbs have 4 kcal per gram."
+    },
+    {
+      "q": "Do all carbs have the same calories per gram?",
+      "a": "Yes, most digestible carbs (sugars and starches) provide 4 kcal per gram; fiber is lower."
+    },
+    {
+      "q": "How does this compare to protein or fat?",
+      "a": "Carbs: 4 kcal/g; protein: 4 kcal/g; fat: 9 kcal/g."
+    },
+    {
+      "q": "Why use calories per gram for carbs in diet tracking?",
+      "a": "It helps calculate energy from carb-heavy foods like bread, pasta, or fruits accurately."
+    }
+  ]
+}

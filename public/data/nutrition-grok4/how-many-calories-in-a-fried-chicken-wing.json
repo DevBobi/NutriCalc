@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a fried chicken wing",
+  "title": "How Many Calories in a Fried Chicken Wing?",
+  "meta_description": "Discover how many calories in a fried chicken wing, including full nutrition breakdown, protein, fat, carbs, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-fried-chicken-wing",
+  "h1": "How Many Calories in a Fried Chicken Wing?",
+  "updated": "2024-10-07",
+  "query": {
+    "amount": 1,
+    "unit": "wing",
+    "item": "fried chicken wing"
+  },
+  "assumptions": "Bone-in, skin-on chicken wing, breaded and deep-fried in oil, no added sauce or seasonings beyond salt.",
+  "disclaimer": "Nutrition varies by size, breading type, oil used, frying method, and brand; check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 159,
+    "text": "One fried chicken wing has about 159 kcal, with 11 g protein and 12 g fat."
+  },
+  "basis": {
+    "label": "per 1 fried chicken wing",
+    "amount": 1,
+    "unit": "wing",
+    "nutrition": {
+      "calories_kcal": 159,
+      "carbs_g": 4.1,
+      "fiber_g": 0.2,
+      "sugars_g": 0.1,
+      "protein_g": 11.2,
+      "fat_g": 11.8,
+      "sat_fat_g": 3.1,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 52,
+      "sodium_mg": 298
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 159,
+    "carbs_g": 4.1,
+    "fiber_g": 0.2,
+    "sugars_g": 0.1,
+    "protein_g": 11.2,
+    "fat_g": 11.8,
+    "sat_fat_g": 3.1,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 52,
+    "sodium_mg": 298
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.67
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 99
+    },
+    {
+      "label": "Add buffalo sauce (1 tbsp)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 179
+    },
+    {
+      "label": "Remove skin and breading",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 79
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a fried chicken wing?",
+      "a": "Approximately 159 kcal for one average-sized, breaded and fried wing."
+    },
+    {
+      "q": "What's the protein in a fried chicken wing?",
+      "a": "About 11 g of protein per wing, mainly from the meat."
+    },
+    {
+      "q": "Are fried chicken wings high in fat?",
+      "a": "Yes, around 12 g total fat per wing, including 3 g saturated fat from skin and oil."
+    },
+    {
+      "q": "How does frying affect calories compared to grilled?",
+      "a": "Frying adds 50-100 kcal per wing due to absorbed oil and breading."
+    },
+    {
+      "q": "What's the sodium content in a fried chicken wing?",
+      "a": "Roughly 300 mg per wing, higher if extra salt or seasonings are added."
+    }
+  ]
+}

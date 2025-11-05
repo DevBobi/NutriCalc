@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cough drops",
+  "title": "Calories in Cough Drops",
+  "meta_description": "Learn calories in cough drops per piece, including carbs, sugars, and full nutrition breakdown for common menthol varieties.",
+  "slug": "calories-in-cough-drops",
+  "h1": "Calories in Cough Drops",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cough drop",
+    "item": "cough drops"
+  },
+  "assumptions": "Standard menthol cough drops (e.g., Halls brand); hard candy style, approximately 3-4g per drop, with sugar.",
+  "disclaimer": "Nutrition varies by brand, flavor, sugar content, and size. Sugar-free options differ; check labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 5,
+    "text": "One standard cough drop contains about 5 calories, primarily from sugars."
+  },
+  "basis": {
+    "label": "per 1 cough drop",
+    "amount": 1,
+    "unit": "cough drop",
+    "nutrition": {
+      "calories_kcal": 5,
+      "carbs_g": 1.3,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 5,
+    "carbs_g": 1.3,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.02
+  },
+  "tweaks": [
+    {
+      "label": "Sugar-free version (e.g., with artificial sweeteners)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Honey-lemon flavored (natural sugars added)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 8
+    },
+    {
+      "label": "Menthol with eucalyptus (herbal extract, no extra sugar)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 5
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cough drop?",
+      "a": "Typically 5 calories for a standard sugar-based menthol cough drop."
+    },
+    {
+      "q": "Are cough drops high in sugar?",
+      "a": "About 1g of sugars per drop, contributing to the low calorie count."
+    },
+    {
+      "q": "Do sugar-free cough drops have calories?",
+      "a": "Usually 0 calories, sweetened with sorbitol or aspartame."
+    },
+    {
+      "q": "What's the carb content in cough drops?",
+      "a": "Around 1.3g carbs per drop, mostly simple sugars with no fiber."
+    },
+    {
+      "q": "How many cough drops equal a full candy's calories?",
+      "a": "10-15 drops (50-75 kcal) approximate one small hard candy."
+    }
+  ]
+}

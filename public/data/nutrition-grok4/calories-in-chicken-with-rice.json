@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken with rice",
+  "title": "Calories in Chicken with Rice",
+  "meta_description": "Discover calories in chicken with rice for a standard serving, including protein, carbs, fat breakdown, and easy tweaks for your meal.",
+  "slug": "calories-in-chicken-with-rice",
+  "h1": "Calories in Chicken with Rice",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "chicken with rice"
+  },
+  "assumptions": "One serving: 150 g grilled skinless chicken breast + 150 g cooked white rice; no added oils, sauces, or seasonings.",
+  "disclaimer": "Nutrition varies by chicken cut, rice type, portion sizes, cooking method, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 443,
+    "text": "One serving of chicken with rice provides about 443 kcal, 51 g protein, and 42 g carbs."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 443,
+      "carbs_g": 42,
+      "fiber_g": 0.6,
+      "sugars_g": 0.1,
+      "protein_g": 51,
+      "fat_g": 5.4,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 128,
+      "sodium_mg": 110
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 443,
+    "carbs_g": 42,
+    "fiber_g": 0.6,
+    "sugars_g": 0.1,
+    "protein_g": 51,
+    "fat_g": 5.4,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 128,
+    "sodium_mg": 110
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.85
+  },
+  "tweaks": [
+    {
+      "label": "Use brown rice instead of white",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 428
+    },
+    {
+      "label": "Add 1 tbsp olive oil for cooking",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 563
+    },
+    {
+      "label": "Include 100 g mixed vegetables",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 473
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of chicken with rice?",
+      "a": "About 443 kcal for 150 g chicken + 150 g rice."
+    },
+    {
+      "q": "What's the protein in chicken with rice?",
+      "a": "Roughly 51 g protein per serving, mostly from the chicken."
+    },
+    {
+      "q": "Does chicken with rice have a lot of carbs?",
+      "a": "Yes, around 42 g carbs per serving, mainly from the rice."
+    },
+    {
+      "q": "How to lower calories in chicken with rice?",
+      "a": "Use less rice, opt for brown rice, or add veggies to bulk it up without many calories."
+    },
+    {
+      "q": "Are these values for cooked or raw chicken?",
+      "a": "Cooked grilled chicken; raw weights would be higher due to water loss during cooking."
+    }
+  ]
+}

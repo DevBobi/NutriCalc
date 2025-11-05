@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 100gm watermelon",
+  "title": "Calories in 100g Watermelon",
+  "meta_description": "Discover calories in 100gm watermelon, including carbs, sugars, hydration benefits, full nutrition breakdown per 100g, and simple tweaks for recipes.",
+  "slug": "calories-in-100gm-watermelon",
+  "h1": "Calories in 100g Watermelon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "watermelon"
+  },
+  "assumptions": "Fresh, seedless watermelon, edible flesh only (rind and seeds removed), raw.",
+  "disclaimer": "Nutrition varies by variety, ripeness, growing conditions, and portion (with/without rind); check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 30,
+    "text": "100g of watermelon provides about 30 kcal, mostly from natural sugars, with high water content for hydration."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 30,
+      "carbs_g": 7.6,
+      "fiber_g": 0.4,
+      "sugars_g": 6.2,
+      "protein_g": 0.6,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 30,
+    "carbs_g": 7.6,
+    "fiber_g": 0.4,
+    "sugars_g": 6.2,
+    "protein_g": 0.6,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.13
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp lime juice per 100 g",
+      "delta_kcal_per_unit": 4,
+      "new_total_kcal": 34
+    },
+    {
+      "label": "Sprinkle 1 tsp sugar per 100 g",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 46
+    },
+    {
+      "label": "Include seeds (adds minimal calories)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 32
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100gm watermelon?",
+      "a": "Approximately 30 kcal per 100g of fresh watermelon."
+    },
+    {
+      "q": "Is watermelon low in carbs?",
+      "a": "Yes, about 7.6g carbs per 100g, mostly natural sugars with 0.4g fiber."
+    },
+    {
+      "q": "Does watermelon have protein or fat?",
+      "a": "Very little: 0.6g protein and 0.2g fat per 100g."
+    },
+    {
+      "q": "What's the sugar content in 100gm watermelon?",
+      "a": "Around 6.2g of natural sugars per 100g."
+    },
+    {
+      "q": "How does preparation affect calories in watermelon?",
+      "a": "Raw is lowest; blending into juice or adding sweeteners increases calories slightly."
+    }
+  ]
+}

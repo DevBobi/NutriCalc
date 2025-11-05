@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in yellow squash",
+  "title": "Calories in Yellow Squash",
+  "meta_description": "Discover calories in yellow squash per 100g, including carbs, protein, fiber, and full nutrition breakdown for this low-cal veggie.",
+  "slug": "calories-in-yellow-squash",
+  "h1": "Calories in Yellow Squash",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "yellow squash"
+  },
+  "assumptions": "Raw, fresh yellow squash (summer squash variety); no added seasonings or oils.",
+  "disclaimer": "Nutrition varies by variety, freshness, cooking method, and portion size. Check labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 16,
+    "text": "100g of yellow squash contains about 16 kcal and is rich in vitamins with minimal fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 16,
+      "carbs_g": 3.6,
+      "fiber_g": 1.1,
+      "sugars_g": 2.2,
+      "protein_g": 1.1,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 16,
+    "carbs_g": 3.6,
+    "fiber_g": 1.1,
+    "sugars_g": 2.2,
+    "protein_g": 1.1,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.07
+  },
+  "tweaks": [
+    {
+      "label": "Steamed or boiled (minimal water loss)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 16
+    },
+    {
+      "label": "Sautéed with 1 tsp oil per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 56
+    },
+    {
+      "label": "Roasted with herbs (no added fat)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 18
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g yellow squash?",
+      "a": "About 16 kcal per 100g raw."
+    },
+    {
+      "q": "Is yellow squash low carb?",
+      "a": "Yes, 3.6g carbs per 100g, with 1.1g fiber."
+    },
+    {
+      "q": "What nutrients are in yellow squash?",
+      "a": "High in vitamin C and A; low in fat (0.2g) and protein (1.1g) per 100g."
+    },
+    {
+      "q": "Calories in cooked yellow squash?",
+      "a": "Similar to raw at ~16 kcal per 100g if steamed without added fats."
+    },
+    {
+      "q": "How does yellow squash compare to zucchini?",
+      "a": "Very similar; both ~16-17 kcal per 100g, interchangeable in recipes."
+    }
+  ]
+}

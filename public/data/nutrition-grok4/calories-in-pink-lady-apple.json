@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pink lady apple",
+  "title": "Calories in a Pink Lady Apple",
+  "meta_description": "Learn calories in pink lady apple, including full nutrition facts like carbs, fiber, sugars, protein, and fat for one medium fruit.",
+  "slug": "calories-in-pink-lady-apple",
+  "h1": "Calories in a Pink Lady Apple",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "apple",
+    "item": "pink lady apple"
+  },
+  "assumptions": "Medium size (~182 g), raw, with skin, fresh; values based on USDA data for Pink Lady variety.",
+  "disclaimer": "Nutrition varies by apple size, ripeness, growing conditions, and storage; check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 95,
+    "text": "One medium Pink Lady apple provides ~95 kcal and ~4.4 g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium Pink Lady apple",
+    "amount": 1,
+    "unit": "apple",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 25,
+      "fiber_g": 4.4,
+      "sugars_g": 19,
+      "protein_g": 0.5,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 95,
+    "carbs_g": 25,
+    "fiber_g": 4.4,
+    "sugars_g": 19,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Sliced with 1 tbsp peanut butter",
+      "delta_kcal_per_unit": 94,
+      "new_total_kcal": 189
+    },
+    {
+      "label": "Baked without added sugar",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 93
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pink lady apple?",
+      "a": "About 95 kcal for a medium Pink Lady apple."
+    },
+    {
+      "q": "What are the carbs in a pink lady apple?",
+      "a": "Approximately 25 g carbs, including 4.4 g fiber and 19 g sugars."
+    },
+    {
+      "q": "Is a pink lady apple low in fat?",
+      "a": "Yes, only 0.3 g total fat per medium apple, with 0 g saturated fat."
+    },
+    {
+      "q": "How much fiber in pink lady apple?",
+      "a": "Around 4.4 g dietary fiber per medium apple, aiding digestion."
+    },
+    {
+      "q": "Does apple size affect calories?",
+      "a": "Yes—small apples (~125 g) have ~70 kcal, large (~223 g) ~116 kcal."
+    }
+  ]
+}

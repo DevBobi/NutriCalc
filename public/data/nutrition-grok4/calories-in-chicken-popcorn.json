@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken popcorn",
+  "title": "Calories in Chicken Popcorn",
+  "meta_description": "Discover calories in chicken popcorn per 100 g serving, including protein, fat, carbs, sodium, and tips for healthier tweaks to fit your diet.",
+  "slug": "calories-in-chicken-popcorn",
+  "h1": "Calories in Chicken Popcorn",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chicken popcorn"
+  },
+  "assumptions": "Breaded, deep-fried bite-sized chicken pieces; fast-food style with standard seasoning, no added sauces.",
+  "disclaimer": "Nutrition varies by brand, frying method, breading, portion size, and added ingredients. Check labels or apps for exact values.",
+  "quick_answer": {
+    "total_kcal": 280,
+    "text": "100 g of chicken popcorn contains about 280 kcal, with 18 g protein and 18 g fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 280,
+      "carbs_g": 15,
+      "fiber_g": 1,
+      "sugars_g": 1,
+      "protein_g": 18,
+      "fat_g": 18,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 50,
+      "sodium_mg": 700
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 280,
+    "carbs_g": 15,
+    "fiber_g": 1,
+    "sugars_g": 1,
+    "protein_g": 18,
+    "fat_g": 18,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 50,
+    "sodium_mg": 700
+  },
+  "label_note": "Values mirror standard Nutrition Facts panels for quick label comparisons.",
+  "equivalents": {
+    "megajoules": 1.17
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (air-fried or oven)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Add 1 tbsp dipping sauce per 100 g",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Unbreaded (plain fried chicken bites)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 230
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in chicken popcorn per 100 g?",
+      "a": "Approximately 280 kcal for breaded, fried chicken popcorn."
+    },
+    {
+      "q": "Is chicken popcorn high in protein?",
+      "a": "Yes, about 18 g protein per 100 g, making it a decent source."
+    },
+    {
+      "q": "What's the fat content in chicken popcorn?",
+      "a": "Around 18 g total fat per 100 g, mostly from frying oil."
+    },
+    {
+      "q": "How does baking affect calories in chicken popcorn?",
+      "a": "Baking reduces calories by about 100 kcal per 100 g compared to deep-frying."
+    },
+    {
+      "q": "Why is sodium high in chicken popcorn?",
+      "a": "Due to breading and seasoning; typically 700 mg per 100 g."
+    }
+  ]
+}

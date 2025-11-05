@@ -1,0 +1,92 @@
+{
+  "keyword": "double double in n out calories",
+  "title": "Calories in In-N-Out Double Double",
+  "meta_description": "Discover double double in n out calories: 670 kcal per burger, plus full macros like protein, fat, carbs, sodium, and tweaks for custom orders.",
+  "slug": "double-double-in-n-out-calories",
+  "h1": "Calories in In-N-Out Double Double",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "In-N-Out Double Double"
+  },
+  "assumptions": "Standard Double Double: two beef patties, two cheese slices, lettuce, tomato, onion, spread, toasted bun. No modifications or extras.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations; In-N-Out values based on official data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 670,
+    "text": "An In-N-Out Double Double packs 670 kcal and 37 g protein."
+  },
+  "basis": {
+    "label": "per 1 Double Double burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 670,
+      "carbs_g": 39,
+      "fiber_g": 2,
+      "sugars_g": 10,
+      "protein_g": 37,
+      "fat_g": 39,
+      "sat_fat_g": 16,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 95,
+      "sodium_mg": 1440
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 670,
+    "carbs_g": 39,
+    "fiber_g": 2,
+    "sugars_g": 10,
+    "protein_g": 37,
+    "fat_g": 39,
+    "sat_fat_g": 16,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 95,
+    "sodium_mg": 1440
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.8
+  },
+  "tweaks": [
+    {
+      "label": "Protein style (lettuce wrap, no bun)",
+      "delta_kcal_per_unit": -240,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Animal style (extra spread, mustard, pickles, grilled onions)",
+      "delta_kcal_per_unit": 190,
+      "new_total_kcal": 860
+    },
+    {
+      "label": "No cheese (remove two slices)",
+      "delta_kcal_per_unit": -160,
+      "new_total_kcal": 510
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a double double in n out?",
+      "a": "670 calories for the standard Double Double burger."
+    },
+    {
+      "q": "What's the protein content in an In-N-Out Double Double?",
+      "a": "About 37 g of protein per burger."
+    },
+    {
+      "q": "How much fat and sodium in a Double Double?",
+      "a": "39 g total fat (16 g saturated) and 1440 mg sodium."
+    },
+    {
+      "q": "Are there carbs in In-N-Out Double Double calories?",
+      "a": "Yes, 39 g carbs including 2 g fiber and 10 g sugars, mostly from the bun and spread."
+    },
+    {
+      "q": "How do customizations affect Double Double calories?",
+      "a": "Swapping bun for lettuce cuts ~240 kcal; adding cheese or extras increases by 80–190 kcal."
+    }
+  ]
+}

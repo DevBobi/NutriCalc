@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in burger mcdo",
+  "title": "Calories in McDo Burger",
+  "meta_description": "Discover calories in burger mcdo, including macros like protein, fat, carbs, sodium, and quick tweaks for variations at McDonald's.",
+  "slug": "calories-in-burger-mcdo",
+  "h1": "Calories in McDo Burger",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "McDonald's burger"
+  },
+  "assumptions": "Standard McDonald's Hamburger: beef patty, bun, ketchup, mustard, onions, pickles; no customizations or sides.",
+  "disclaimer": "Nutrition varies by location, recipe changes, and customizations; check McDonald's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A standard McDonald's burger contains about 250 kcal and 12 g protein."
+  },
+  "basis": {
+    "label": "per 1 burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 31,
+      "fiber_g": 2,
+      "sugars_g": 6,
+      "protein_g": 12,
+      "fat_g": 9,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 510
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 31,
+    "fiber_g": 2,
+    "sugars_g": 6,
+    "protein_g": 12,
+    "fat_g": 9,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 510
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add one slice of cheese (cheeseburger variation)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Remove the bun for low-carb option",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Upgrade to Quarter Pounder (larger patty)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 450
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a standard burger mcdo?",
+      "a": "About 250 kcal for a McDonald's Hamburger."
+    },
+    {
+      "q": "What is the protein in burger mcdo?",
+      "a": "Roughly 12 g protein per burger."
+    },
+    {
+      "q": "Are there trans fats in McDo burger?",
+      "a": "0 g trans fat in the standard recipe."
+    },
+    {
+      "q": "How much sodium in calories in burger mcdo?",
+      "a": "Approximately 510 mg sodium per burger."
+    },
+    {
+      "q": "Does adding mayo change calories in burger mcdo?",
+      "a": "Yes, 1 tbsp mayo adds ~90 kcal; total becomes ~340 kcal."
+    }
+  ]
+}

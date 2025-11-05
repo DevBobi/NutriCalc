@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a fun size snickers",
+  "title": "How Many Calories in a Fun Size Snickers?",
+  "meta_description": "Learn how many calories in a fun size Snickers, including full nutrition facts like carbs, sugars, protein, fat, and sodium for easy tracking.",
+  "slug": "how-many-calories-in-a-fun-size-snickers",
+  "h1": "How Many Calories in a Fun Size Snickers?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "fun size bar",
+    "item": "Snickers"
+  },
+  "assumptions": "Standard Fun Size Snickers bar (~17 g), milk chocolate, nougat, caramel, and peanuts; no modifications.",
+  "disclaimer": "Nutrition varies by brand batch, exact size, and storage; values based on average USDA data. Check packaging for precise info.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "A fun size Snickers bar contains about 80 calories with 8.5 g sugars and 1.1 g protein."
+  },
+  "basis": {
+    "label": "per 1 fun size Snickers bar",
+    "amount": 1,
+    "unit": "fun size bar",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 10.5,
+      "fiber_g": 0.3,
+      "sugars_g": 8.5,
+      "protein_g": 1.1,
+      "fat_g": 4,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 2,
+      "sodium_mg": 45
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 10.5,
+    "fiber_g": 0.3,
+    "sugars_g": 8.5,
+    "protein_g": 1.1,
+    "fat_g": 4,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 2,
+    "sodium_mg": 45
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp peanut butter on top",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Share the bar (half portion)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Opt for Snickers Almond variety",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a fun size Snickers?",
+      "a": "Approximately 80 calories per fun size bar."
+    },
+    {
+      "q": "What's the sugar content in a fun size Snickers?",
+      "a": "About 8.5 g of sugars per bar."
+    },
+    {
+      "q": "Does a fun size Snickers have protein?",
+      "a": "Yes, around 1.1 g from peanuts and nougat."
+    },
+    {
+      "q": "How much fat is in a fun size Snickers?",
+      "a": "Roughly 4 g total fat, including 1.5 g saturated."
+    },
+    {
+      "q": "Are fun size Snickers lower in sodium?",
+      "a": "They contain about 45 mg sodium per bar, moderate for a treat."
+    }
+  ]
+}

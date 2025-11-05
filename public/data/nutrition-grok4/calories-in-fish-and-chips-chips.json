@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in fish and chips chips",
+  "title": "Calories in Fish and Chips Chips",
+  "meta_description": "Discover calories in fish and chips chips for a typical 150g serving, including carbs, fat, protein, sodium details, and preparation tweaks.",
+  "slug": "calories-in-fish-and-chips-chips",
+  "h1": "Calories in Fish and Chips Chips",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 150,
+    "unit": "g",
+    "item": "fish and chips chips"
+  },
+  "assumptions": "Deep-fried potato french fries (chips) from a traditional fish and chips shop, salted, standard portion ~150g, no added sauces.",
+  "disclaimer": "Nutrition varies by shop, oil type, portion size, and frying method. Check restaurant info or labels when available.",
+  "quick_answer": {
+    "total_kcal": 468,
+    "text": "A 150g serving of fish and chips chips provides ~468 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 312,
+      "carbs_g": 41.4,
+      "fiber_g": 3.8,
+      "sugars_g": 0.3,
+      "protein_g": 3.4,
+      "fat_g": 14.8,
+      "sat_fat_g": 1.9,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 0,
+      "sodium_mg": 610
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 468,
+    "carbs_g": 62.1,
+    "fiber_g": 5.7,
+    "sugars_g": 0.45,
+    "protein_g": 5.1,
+    "fat_g": 22.2,
+    "sat_fat_g": 2.85,
+    "trans_fat_g": 0.15,
+    "cholesterol_mg": 0,
+    "sodium_mg": 915
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.96
+  },
+  "tweaks": [
+    {
+      "label": "Oven-baked instead of deep-fried (less oil)",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 276
+    },
+    {
+      "label": "Add 1 tbsp tartar sauce per serving",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 558
+    },
+    {
+      "label": "Thinner cut, extra crispy (more oil absorption)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 543
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of fish and chips chips?",
+      "a": "About 468 kcal for a typical 150g deep-fried portion."
+    },
+    {
+      "q": "What are the carbs in fish and chips chips?",
+      "a": "Around 62g total carbs in 150g, with 5.7g fiber."
+    },
+    {
+      "q": "Are fish and chips chips high in sodium?",
+      "a": "Yes, ~915mg in 150g due to salt; varies by preparation."
+    },
+    {
+      "q": "How does frying affect calories in chips?",
+      "a": "Deep-frying adds fat and calories; baking reduces them by ~120 kcal per 100g."
+    },
+    {
+      "q": "Protein in fish and chips chips?",
+      "a": "Low at ~5g per 150g serving; mainly from potatoes."
+    }
+  ]
+}

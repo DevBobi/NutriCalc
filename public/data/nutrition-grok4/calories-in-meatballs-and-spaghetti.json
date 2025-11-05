@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in meatballs and spaghetti",
+  "title": "Calories in Meatballs and Spaghetti",
+  "meta_description": "Discover calories in meatballs and spaghetti for a standard serving, including macros, protein, fat, carbs, and easy tweaks for variations.",
+  "slug": "calories-in-meatballs-and-spaghetti",
+  "h1": "Calories in Meatballs and Spaghetti",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "meatballs and spaghetti"
+  },
+  "assumptions": "Standard serving: 1 cup cooked spaghetti (140 g), 4 medium beef meatballs (100 g total), 1/2 cup tomato sauce; homemade, no added cheese.",
+  "disclaimer": "Nutrition varies by meat type, sauce ingredients, portion size, and cooking method. Check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 520,
+    "text": "A standard serving of meatballs and spaghetti has about 520 kcal and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 520,
+      "carbs_g": 60,
+      "fiber_g": 4,
+      "sugars_g": 8,
+      "protein_g": 25,
+      "fat_g": 18,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 65,
+      "sodium_mg": 850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 520,
+    "carbs_g": 60,
+    "fiber_g": 4,
+    "sugars_g": 8,
+    "protein_g": 25,
+    "fat_g": 18,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 65,
+    "sodium_mg": 850
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged or restaurant versions.",
+  "equivalents": {
+    "megajoules": 2.18
+  },
+  "tweaks": [
+    {
+      "label": "Use turkey meatballs instead of beef",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "Add 1 oz grated Parmesan cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 630
+    },
+    {
+      "label": "Whole wheat spaghetti instead of white",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 500
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of meatballs and spaghetti?",
+      "a": "About 520 kcal for 1 cup pasta with 4 meatballs and sauce."
+    },
+    {
+      "q": "What's the protein in meatballs and spaghetti?",
+      "a": "Roughly 25 g protein per standard serving, mostly from the meatballs."
+    },
+    {
+      "q": "Are carbs high in spaghetti and meatballs?",
+      "a": "Yes, around 60 g carbs per serving, primarily from the pasta."
+    },
+    {
+      "q": "How does sauce affect calories in meatballs and spaghetti?",
+      "a": "Tomato sauce adds about 50-100 kcal; creamy sauces increase it more."
+    },
+    {
+      "q": "Can I lower calories in meatballs and spaghetti?",
+      "a": "Yes, opt for lean meat, veggie meatballs, or smaller portions to reduce by 100+ kcal."
+    }
+  ]
+}

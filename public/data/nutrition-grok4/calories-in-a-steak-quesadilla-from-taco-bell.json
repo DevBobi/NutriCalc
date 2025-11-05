@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a steak quesadilla from taco bell",
+  "title": "Calories in a Taco Bell Steak Quesadilla",
+  "meta_description": "Discover calories in a steak quesadilla from Taco Bell—510 kcal total, plus full nutrition breakdown including protein, fat, carbs, and tweaks for custom orders.",
+  "slug": "calories-in-a-steak-quesadilla-from-taco-bell",
+  "h1": "Calories in a Taco Bell Steak Quesadilla",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "quesadilla",
+    "item": "steak quesadilla from Taco Bell"
+  },
+  "assumptions": "Standard Taco Bell Steak Quesadilla with flour tortilla, grilled steak, three-cheese blend, and creamy jalapeño sauce; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, portion size, and customizations. Check Taco Bell app or menu for latest values.",
+  "quick_answer": {
+    "total_kcal": 510,
+    "text": "A Taco Bell steak quesadilla provides 510 kcal and 27 g protein."
+  },
+  "basis": {
+    "label": "per 1 quesadilla",
+    "amount": 1,
+    "unit": "quesadilla",
+    "nutrition": {
+      "calories_kcal": 510,
+      "carbs_g": 37,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 27,
+      "fat_g": 26,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 70,
+      "sodium_mg": 1240
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 510,
+    "carbs_g": 37,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 27,
+    "fat_g": 26,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 70,
+    "sodium_mg": 1240
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with Taco Bell's info.",
+  "equivalents": {
+    "megajoules": 2.13
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet of sour cream",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 570
+    },
+    {
+      "label": "Fresco style (no cheese or sauce, add pico de gallo)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Double the steak portion",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 610
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Taco Bell steak quesadilla?",
+      "a": "510 calories for the standard version."
+    },
+    {
+      "q": "What's the protein in a steak quesadilla from Taco Bell?",
+      "a": "About 27 g of protein per quesadilla."
+    },
+    {
+      "q": "How much sodium is in a Taco Bell steak quesadilla?",
+      "a": "Around 1240 mg of sodium."
+    },
+    {
+      "q": "Are Taco Bell quesadillas high in fat?",
+      "a": "Yes, 26 g total fat including 12 g saturated fat."
+    },
+    {
+      "q": "Can I make a lower-calorie steak quesadilla at Taco Bell?",
+      "a": "Opt for fresco style to reduce calories by about 150 kcal."
+    }
+  ]
+}

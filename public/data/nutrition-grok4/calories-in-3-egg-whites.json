@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 3 egg whites",
+  "title": "Calories in 3 Egg Whites",
+  "meta_description": "Discover calories in 3 egg whites, including protein, low-fat profile, full nutrition breakdown, and simple tweaks for recipes.",
+  "slug": "calories-in-3-egg-whites",
+  "h1": "Calories in 3 Egg Whites",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "egg white",
+    "item": "egg white"
+  },
+  "assumptions": "From large eggs (~33 g per white), raw or lightly cooked without added fat, salt, or oil.",
+  "disclaimer": "Nutrition varies by egg size, freshness, and preparation method; liquid egg whites may differ slightly. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 51,
+    "text": "3 egg whites provide ~51 kcal and ~11 g protein with negligible fat."
+  },
+  "basis": {
+    "label": "per 1 large egg white",
+    "amount": 1,
+    "unit": "egg white",
+    "nutrition": {
+      "calories_kcal": 17,
+      "carbs_g": 0.2,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 3.6,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 55
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 51,
+    "carbs_g": 0.6,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 10.8,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 165
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.21
+  },
+  "tweaks": [
+    {
+      "label": "Fried in 1 tsp oil per white",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 171
+    },
+    {
+      "label": "From jumbo eggs (larger whites)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 66
+    },
+    {
+      "label": "Add 1 tbsp low-fat cheese per white",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 111
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one egg white?",
+      "a": "About 17 kcal per large egg white."
+    },
+    {
+      "q": "Do egg whites have protein?",
+      "a": "Yes, ~3.6 g protein per large egg white, making 3 whites ~11 g total."
+    },
+    {
+      "q": "Are egg whites cholesterol-free?",
+      "a": "Yes, 0 mg cholesterol in egg whites since it's all in the yolk."
+    },
+    {
+      "q": "How do egg whites compare to whole eggs?",
+      "a": "Egg whites are lower in calories and fat; 3 whites ≈51 kcal vs. 234 kcal for 3 whole eggs."
+    },
+    {
+      "q": "Can I use liquid egg whites instead?",
+      "a": "Yes, equivalent to ~3 large whites is 90-100 ml, with similar nutrition."
+    }
+  ]
+}

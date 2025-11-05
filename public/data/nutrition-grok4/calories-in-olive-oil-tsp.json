@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in olive oil tsp",
+  "title": "Calories in 1 Teaspoon Olive Oil",
+  "meta_description": "Discover calories in olive oil tsp, including full nutrition breakdown, fat content, and healthy fat equivalents for cooking and dieting.",
+  "slug": "calories-in-olive-oil-tsp",
+  "h1": "Calories in 1 Teaspoon Olive Oil",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tsp",
+    "item": "olive oil"
+  },
+  "assumptions": "Extra virgin olive oil; 1 tsp ≈ 5 ml or 4.5 g; pure, no additives.",
+  "disclaimer": "Nutrition varies by olive variety, processing, and brand. Density can affect volume-to-weight; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 40,
+    "text": "One teaspoon of olive oil provides ~40 kcal, primarily from monounsaturated fats."
+  },
+  "basis": {
+    "label": "per 1 tsp",
+    "amount": 1,
+    "unit": "tsp",
+    "nutrition": {
+      "calories_kcal": 40,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 4.5,
+      "sat_fat_g": 0.6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 40,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 4.5,
+    "sat_fat_g": 0.6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.17
+  },
+  "tweaks": [
+    {
+      "label": "Use extra light olive oil instead",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 35
+    },
+    {
+      "label": "Switch to avocado oil",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Add to salad dressing with vinegar (no calorie change from oil)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 40
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in olive oil tsp?",
+      "a": "About 40 kcal per teaspoon of extra virgin olive oil."
+    },
+    {
+      "q": "Is olive oil fat healthy?",
+      "a": "Yes, mostly monounsaturated fats support heart health; 4.5 g fat per tsp."
+    },
+    {
+      "q": "Calories in tablespoon of olive oil?",
+      "a": "Around 120 kcal for 1 tbsp (3 tsp)."
+    },
+    {
+      "q": "Does olive oil have carbs or protein?",
+      "a": "No—0 g carbs, 0 g protein; all calories from fat."
+    },
+    {
+      "q": "How does olive oil compare to butter per tsp?",
+      "a": "Olive oil: 40 kcal, 0.6 g sat fat; butter: ~34 kcal, 2.3 g sat fat."
+    }
+  ]
+}

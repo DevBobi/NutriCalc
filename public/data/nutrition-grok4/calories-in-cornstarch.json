@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cornstarch",
+  "title": "Calories in Cornstarch",
+  "meta_description": "Discover calories in cornstarch per 100 g, including carbs, protein, fat, and full nutrition breakdown for cooking and baking uses.",
+  "slug": "calories-in-cornstarch",
+  "h1": "Calories in Cornstarch",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "cornstarch"
+  },
+  "assumptions": "Plain, unmodified cornstarch, dry powder; standard commercial variety.",
+  "disclaimer": "Nutrition varies by brand, processing, and additives; values are approximate. Check product labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 381,
+    "text": "100 g of cornstarch contains about 381 kcal, mostly from carbohydrates."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 381,
+      "carbs_g": 91,
+      "fiber_g": 0.9,
+      "sugars_g": 0,
+      "protein_g": 0.3,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 9
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 381,
+    "carbs_g": 91,
+    "fiber_g": 0.9,
+    "sugars_g": 0,
+    "protein_g": 0.3,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 9
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.59
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp sugar per 100 g",
+      "delta_kcal_per_unit": 49,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Mixed with 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 421
+    },
+    {
+      "label": "Per 1 tbsp serving (8 g, scaled)",
+      "delta_kcal_per_unit": -303,
+      "new_total_kcal": 78
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g of cornstarch?",
+      "a": "Approximately 381 kcal, primarily from carbs."
+    },
+    {
+      "q": "Is cornstarch high in carbs?",
+      "a": "Yes, about 91 g carbs per 100 g, with minimal protein or fat."
+    },
+    {
+      "q": "Calories in 1 tablespoon of cornstarch?",
+      "a": "Around 30 kcal for 1 tbsp (8 g), mostly carbohydrates."
+    },
+    {
+      "q": "Does cornstarch have fiber or sugar?",
+      "a": "Low fiber (0.9 g per 100 g) and no added sugars."
+    },
+    {
+      "q": "How does cornstarch compare to flour calories?",
+      "a": "Similar; cornstarch has ~381 kcal/100 g vs. ~364 kcal for all-purpose flour."
+    }
+  ]
+}

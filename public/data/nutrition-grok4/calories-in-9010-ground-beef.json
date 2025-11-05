@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 9010 ground beef",
+  "title": "Calories in 90/10 Ground Beef",
+  "meta_description": "Discover calories in 9010 ground beef per 100g, including protein, fat, carbs, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "calories-in-9010-ground-beef",
+  "h1": "Calories in 90/10 Ground Beef",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "90/10 ground beef"
+  },
+  "assumptions": "90% lean, 10% fat ground beef, cooked (pan-broiled patty), drained of excess fat; no added seasonings or binders.",
+  "disclaimer": "Nutrition varies by exact lean/fat ratio, cooking method, portion size, and brand; raw values differ from cooked. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 217,
+    "text": "100g of cooked 90/10 ground beef provides ~217 kcal and ~26g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 217,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 26.4,
+      "fat_g": 11.7,
+      "sat_fat_g": 4.7,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 88,
+      "sodium_mg": 72
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 217,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 26.4,
+    "fat_g": 11.7,
+    "sat_fat_g": 4.7,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 88,
+    "sodium_mg": 72
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.91
+  },
+  "tweaks": [
+    {
+      "label": "Use 80/20 ground beef instead (per 100g cooked)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 262
+    },
+    {
+      "label": "Raw instead of cooked (per 100g)",
+      "delta_kcal_per_unit": -41,
+      "new_total_kcal": 176
+    },
+    {
+      "label": "Add 1 tsp oil during cooking (per 100g)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 257
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 90/10 ground beef per 100g?",
+      "a": "About 217 kcal for cooked 90/10 ground beef per 100g."
+    },
+    {
+      "q": "What's the protein in 9010 ground beef?",
+      "a": "Approximately 26.4g protein per 100g cooked."
+    },
+    {
+      "q": "Does cooking change calories in 90/10 ground beef?",
+      "a": "Yes, cooked (per 100g) has more calories than raw due to water loss; raw is ~176 kcal."
+    },
+    {
+      "q": "How much fat in 9010 ground beef?",
+      "a": "About 11.7g total fat per 100g cooked, with 4.7g saturated."
+    },
+    {
+      "q": "Is 90/10 ground beef low-carb?",
+      "a": "Yes, 0g carbs and 0g fiber per 100g cooked."
+    }
+  ]
+}

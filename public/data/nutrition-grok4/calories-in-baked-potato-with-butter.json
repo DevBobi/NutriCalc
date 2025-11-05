@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in baked potato with butter",
+  "title": "Calories in Baked Potato with Butter",
+  "meta_description": "Discover calories in baked potato with butter, including full nutrition breakdown, macros, and easy tweaks for your meal.",
+  "slug": "calories-in-baked-potato-with-butter",
+  "h1": "Calories in Baked Potato with Butter",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "baked potato with butter"
+  },
+  "assumptions": "Medium russet potato (173 g baked with skin), topped with 1 tbsp (14 g) salted butter; no additional toppings.",
+  "disclaimer": "Nutrition varies by potato size, butter brand, baking method, and exact portions. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 263,
+    "text": "A medium baked potato with 1 tbsp butter provides ~263 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 medium baked potato with 1 tbsp butter",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 263,
+      "carbs_g": 36.6,
+      "fiber_g": 4.7,
+      "sugars_g": 1.7,
+      "protein_g": 4.4,
+      "fat_g": 11.7,
+      "sat_fat_g": 7.4,
+      "trans_fat_g": 0.3,
+      "cholesterol_mg": 31,
+      "sodium_mg": 110
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 263,
+    "carbs_g": 36.6,
+    "fiber_g": 4.7,
+    "sugars_g": 1.7,
+    "protein_g": 4.4,
+    "fat_g": 11.7,
+    "sat_fat_g": 7.4,
+    "trans_fat_g": 0.3,
+    "cholesterol_mg": 31,
+    "sodium_mg": 110
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 1.1
+  },
+  "tweaks": [
+    {
+      "label": "Omit the butter (plain baked potato)",
+      "delta_kcal_per_unit": -102,
+      "new_total_kcal": 161
+    },
+    {
+      "label": "Add 1 tbsp sour cream instead of butter",
+      "delta_kcal_per_unit": 26,
+      "new_total_kcal": 289
+    },
+    {
+      "label": "Use light butter (half the fat)",
+      "delta_kcal_per_unit": -51,
+      "new_total_kcal": 212
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a baked potato with butter?",
+      "a": "About 263 kcal for one medium potato with 1 tbsp butter."
+    },
+    {
+      "q": "What's the protein in baked potato with butter?",
+      "a": "Roughly 4.4 g protein, mainly from the potato."
+    },
+    {
+      "q": "Does baking potato with skin affect calories?",
+      "a": "No calorie change, but skin adds ~4.7 g fiber for better nutrition."
+    },
+    {
+      "q": "How much fat is in baked potato with butter?",
+      "a": "About 11.7 g total fat, with 7.4 g saturated from the butter."
+    },
+    {
+      "q": "Can I reduce calories in baked potato with butter?",
+      "a": "Yes—skip butter for 161 kcal, or use a smaller potato (150 g) for ~240 kcal total."
+    }
+  ]
+}

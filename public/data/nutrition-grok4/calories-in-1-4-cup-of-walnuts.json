@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 4 cup of walnuts",
+  "title": "Calories in 1/4 Cup of Walnuts",
+  "meta_description": "Discover calories in 1 4 cup of walnuts, including fat, protein, carbs, fiber, and full nutrition breakdown per serving with tweaks and FAQs.",
+  "slug": "calories-in-1-4-cup-of-walnuts",
+  "h1": "Calories in 1/4 Cup of Walnuts",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "1/4 cup",
+    "item": "walnuts"
+  },
+  "assumptions": "Raw, shelled English walnuts, chopped; approximately 28 g per 1/4 cup serving.",
+  "disclaimer": "Nutrition varies by walnut variety, freshness, processing, and portion measurement. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 185,
+    "text": "1/4 cup of walnuts provides ~185 kcal, mostly from healthy fats, with 4 g protein and 2 g fiber."
+  },
+  "basis": {
+    "label": "per 1/4 cup (28 g)",
+    "amount": 1,
+    "unit": "1/4 cup",
+    "nutrition": {
+      "calories_kcal": 185,
+      "carbs_g": 3.9,
+      "fiber_g": 1.9,
+      "sugars_g": 0.7,
+      "protein_g": 4.3,
+      "fat_g": 18.5,
+      "sat_fat_g": 1.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 185,
+    "carbs_g": 3.9,
+    "fiber_g": 1.9,
+    "sugars_g": 0.7,
+    "protein_g": 4.3,
+    "fat_g": 18.5,
+    "sat_fat_g": 1.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.77
+  },
+  "tweaks": [
+    {
+      "label": "Roasted without oil",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Add 1 tsp honey per serving",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 206
+    },
+    {
+      "label": "Chopped and mixed with raisins (1 tbsp)",
+      "delta_kcal_per_unit": 52,
+      "new_total_kcal": 237
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1/4 cup walnuts?",
+      "a": "Approximately 185 kcal for 1/4 cup (28 g) raw walnuts."
+    },
+    {
+      "q": "Are walnuts high in fat?",
+      "a": "Yes, about 18.5 g total fat per 1/4 cup, mostly unsaturated healthy fats."
+    },
+    {
+      "q": "How much protein in 1/4 cup of walnuts?",
+      "a": "Around 4.3 g protein per serving."
+    },
+    {
+      "q": "Do walnuts have fiber?",
+      "a": "Yes, about 1.9 g dietary fiber per 1/4 cup, aiding digestion."
+    },
+    {
+      "q": "Is 1/4 cup the standard walnut serving?",
+      "a": "Yes, often recommended as a handful or 1 oz for snacks; adjust for dietary needs."
+    }
+  ]
+}

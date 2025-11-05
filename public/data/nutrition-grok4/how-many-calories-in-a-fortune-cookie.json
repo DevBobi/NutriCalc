@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a fortune cookie",
+  "title": "How Many Calories in a Fortune Cookie?",
+  "meta_description": "Discover how many calories in a fortune cookie, including carbs, sugars, and other nutrients on a per-cookie basis, with quick tweaks and FAQs for better understanding.",
+  "slug": "how-many-calories-in-a-fortune-cookie",
+  "h1": "How Many Calories in a Fortune Cookie?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cookie",
+    "item": "fortune cookie"
+  },
+  "assumptions": "Standard commercial fortune cookie, approximately 10 g, thin crispy shell with paper message inside, no added fillings or toppings.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and manufacturing; homemade versions may differ. Check packaging when available.",
+  "quick_answer": {
+    "total_kcal": 30,
+    "text": "A standard fortune cookie contains about 30 calories, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 fortune cookie",
+    "amount": 1,
+    "unit": "cookie",
+    "nutrition": {
+      "calories_kcal": 30,
+      "carbs_g": 7,
+      "fiber_g": 0.2,
+      "sugars_g": 3,
+      "protein_g": 0.5,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 30,
+    "carbs_g": 7,
+    "fiber_g": 0.2,
+    "sugars_g": 3,
+    "protein_g": 0.5,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.13
+  },
+  "tweaks": [
+    {
+      "label": "Homemade with extra sugar",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Gluten-free rice flour version",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 35
+    },
+    {
+      "label": "Larger size (15 g)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 45
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a fortune cookie?",
+      "a": "Approximately 30 calories per standard cookie."
+    },
+    {
+      "q": "Are fortune cookies high in sugar?",
+      "a": "They contain about 3 g of sugars per cookie, mainly from the dough."
+    },
+    {
+      "q": "Do fortune cookies have fat or protein?",
+      "a": "Very low: 0.1 g fat and 0.5 g protein per cookie."
+    },
+    {
+      "q": "How do calories in fortune cookies compare to other cookies?",
+      "a": "Lower than chocolate chip (about 50 kcal) due to simple ingredients."
+    },
+    {
+      "q": "Can fortune cookies be part of a low-carb diet?",
+      "a": "Moderately; 7 g carbs per cookie, but best in small amounts."
+    }
+  ]
+}

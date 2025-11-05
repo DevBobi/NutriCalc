@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in soba noodles",
+  "title": "Calories in Soba Noodles",
+  "meta_description": "Discover calories in soba noodles per 100g serving, including carbs, protein, fat breakdown, and preparation tweaks for better nutrition tracking.",
+  "slug": "calories-in-soba-noodles",
+  "h1": "Calories in Soba Noodles",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "soba noodles"
+  },
+  "assumptions": "Cooked soba noodles (buckwheat-based), plain, boiled without added salt, oil, or sauce; standard serving basis.",
+  "disclaimer": "Nutrition varies by brand, buckwheat ratio, cooking method, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 99,
+    "text": "100g of cooked soba noodles provides ~99 kcal and ~5g protein."
+  },
+  "basis": {
+    "label": "per 100 g cooked",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 99,
+      "carbs_g": 20.7,
+      "fiber_g": 0,
+      "sugars_g": 0.1,
+      "protein_g": 5.1,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 99,
+    "carbs_g": 20.7,
+    "fiber_g": 0,
+    "sugars_g": 0.1,
+    "protein_g": 5.1,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 4
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp soy sauce",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 109
+    },
+    {
+      "label": "Use dry (uncooked) soba noodles",
+      "delta_kcal_per_unit": 237,
+      "new_total_kcal": 336
+    },
+    {
+      "label": "Add 1 tsp sesame oil for stir-fry",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 139
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of cooked soba noodles?",
+      "a": "About 99 kcal per 100g cooked."
+    },
+    {
+      "q": "Are soba noodles low in fat?",
+      "a": "Yes, only 0.1g fat per 100g cooked, making them a light option."
+    },
+    {
+      "q": "What's the protein in soba noodles?",
+      "a": "Approximately 5.1g protein per 100g cooked."
+    },
+    {
+      "q": "Do soba noodles have fiber?",
+      "a": "Minimal fiber at 0g per 100g; opt for whole buckwheat varieties for more."
+    },
+    {
+      "q": "Calories in a typical serving of soba noodles?",
+      "a": "A standard 150g cooked serving is about 149 kcal; adjust for portion size."
+    }
+  ]
+}

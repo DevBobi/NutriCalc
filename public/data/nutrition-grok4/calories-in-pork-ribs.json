@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pork ribs",
+  "title": "Calories in Pork Ribs",
+  "meta_description": "Discover calories in pork ribs per 100g serving, including protein, fat, carbs, and full nutrition breakdown with tweaks and FAQs for better meal planning.",
+  "slug": "calories-in-pork-ribs",
+  "h1": "Calories in Pork Ribs",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "pork ribs"
+  },
+  "assumptions": "Cooked baby back pork ribs, roasted without sauce; edible portion only (lean and fat, bone removed).",
+  "disclaimer": "Nutrition varies by cut (spare vs. baby back), cooking method, fat trimming, and added sauces; check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 280,
+    "text": "100g of cooked pork ribs provides ~280 kcal and ~25g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 280,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 20,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 90,
+      "sodium_mg": 80
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 280,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 20,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 90,
+    "sodium_mg": 80
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.17
+  },
+  "tweaks": [
+    {
+      "label": "Add 2 tbsp BBQ sauce per 100g",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Fat-trimmed (remove excess fat)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Spareribs instead of baby back",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g pork ribs?",
+      "a": "Approximately 280 kcal for cooked baby back pork ribs."
+    },
+    {
+      "q": "What is the protein in pork ribs?",
+      "a": "About 25g protein per 100g serving."
+    },
+    {
+      "q": "Are pork ribs high in fat?",
+      "a": "Yes, around 20g total fat per 100g, including 7g saturated."
+    },
+    {
+      "q": "Do pork ribs have carbs?",
+      "a": "Typically 0g carbs, unless sauce or breading is added."
+    },
+    {
+      "q": "How does cooking method affect calories in pork ribs?",
+      "a": "Grilling or roasting keeps calories lower; braising or frying can add 50-100 kcal per 100g from absorbed fats."
+    }
+  ]
+}

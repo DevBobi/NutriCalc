@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in coffee with milk",
+  "title": "Calories in Coffee with Milk",
+  "meta_description": "Discover calories in coffee with milk for a standard serving, including macros like fat, carbs, protein, and easy tweaks for variations.",
+  "slug": "calories-in-coffee-with-milk",
+  "h1": "Calories in Coffee with Milk",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "coffee with milk"
+  },
+  "assumptions": "8 oz (240 ml) black brewed coffee with 2 tbsp (30 ml) whole milk added; no sugar, cream, or flavorings.",
+  "disclaimer": "Nutrition varies by milk type, coffee strength, serving size, and additions like sugar; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 20,
+    "text": "One cup of coffee with 2 tbsp whole milk contains about 20 kcal and 1 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup (8 oz coffee + 2 tbsp milk)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 20,
+      "carbs_g": 1.5,
+      "fiber_g": 0,
+      "sugars_g": 1.5,
+      "protein_g": 1,
+      "fat_g": 1.2,
+      "sat_fat_g": 0.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 15
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 20,
+    "carbs_g": 1.5,
+    "fiber_g": 0,
+    "sugars_g": 1.5,
+    "protein_g": 1,
+    "fat_g": 1.2,
+    "sat_fat_g": 0.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 15
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Use skim milk instead of whole",
+      "delta_kcal_per_unit": -8,
+      "new_total_kcal": 12
+    },
+    {
+      "label": "Add 1 tsp sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 36
+    },
+    {
+      "label": "Double the milk to 4 tbsp",
+      "delta_kcal_per_unit": 18,
+      "new_total_kcal": 38
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in coffee with milk no sugar?",
+      "a": "About 20 kcal for 8 oz coffee with 2 tbsp whole milk."
+    },
+    {
+      "q": "Is coffee with milk low carb?",
+      "a": "Yes, only ~1.5 g carbs from the milk in a standard serving."
+    },
+    {
+      "q": "What if I use almond milk in coffee?",
+      "a": "Unsweetened almond milk adds ~5 kcal and less fat than whole milk."
+    },
+    {
+      "q": "Does black coffee have calories?",
+      "a": "Negligible, about 2 kcal per cup; milk adds most of the calories."
+    },
+    {
+      "q": "How does milk type affect calories in coffee?",
+      "a": "Whole milk ~18 kcal per 2 tbsp; skim ~10 kcal; plant-based varies by brand."
+    }
+  ]
+}

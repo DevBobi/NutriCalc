@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a 14 cup of sugar",
+  "title": "Calories in a 1/4 Cup of Sugar",
+  "meta_description": "Discover calories in a 1/4 cup of sugar (assuming common '1/4' query), with full nutrition facts including carbs, sugars, and variations for different sugar types.",
+  "slug": "calories-in-a-14-cup-of-sugar",
+  "h1": "Calories in a 1/4 Cup of Sugar",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 0.25,
+    "unit": "cup",
+    "item": "sugar"
+  },
+  "assumptions": "Granulated white sugar; 1 cup ≈ 200 g (unsifted, standard measure).",
+  "disclaimer": "Nutrition varies by sugar type, brand, density (sifted vs. packed), and measurement accuracy. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 194,
+    "text": "A 1/4 cup of granulated sugar provides about 194 calories, all from simple carbohydrates."
+  },
+  "basis": {
+    "label": "per 1 cup (200 g)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 774,
+      "carbs_g": 200,
+      "fiber_g": 0,
+      "sugars_g": 200,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 194,
+    "carbs_g": 50,
+    "fiber_g": 0,
+    "sugars_g": 50,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0.5
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.81
+  },
+  "tweaks": [
+    {
+      "label": "Brown sugar (packed, per cup)",
+      "delta_kcal_per_unit": -14,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Powdered sugar (sifted, ~120 g per cup)",
+      "delta_kcal_per_unit": -310,
+      "new_total_kcal": 116
+    },
+    {
+      "label": "Raw cane sugar (per cup, similar density)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 194
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 1/4 cup of sugar?",
+      "a": "Approximately 194 calories for granulated white sugar."
+    },
+    {
+      "q": "What are the carbs in 1/4 cup sugar?",
+      "a": "50 g of carbohydrates, all as sugars with 0 g fiber."
+    },
+    {
+      "q": "How much does 1/4 cup of sugar weigh?",
+      "a": "About 50 grams for granulated sugar."
+    },
+    {
+      "q": "Calories in brown sugar vs. white for 1/4 cup?",
+      "a": "Similar; brown is about 190 calories due to slight moisture difference."
+    },
+    {
+      "q": "Does sugar have any protein or fat?",
+      "a": "No, granulated sugar is pure carbs with 0 g protein and 0 g fat."
+    }
+  ]
+}

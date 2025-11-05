@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a miller lite beer",
+  "title": "How Many Calories in a Miller Lite Beer?",
+  "meta_description": "Discover how many calories in a Miller Lite beer (about 96 kcal per 12 oz), plus carbs, sodium, and light beer comparisons for your diet tracking.",
+  "slug": "how-many-calories-in-a-miller-lite-beer",
+  "h1": "How Many Calories in a Miller Lite Beer?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "beer",
+    "item": "Miller Lite beer"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) bottle or can serving, as per official Miller Lite nutrition info; no additives.",
+  "disclaimer": "Nutrition varies slightly by batch, serving size, and temperature; check labels or official sources for exact values.",
+  "quick_answer": {
+    "total_kcal": 96,
+    "text": "A standard 12 oz Miller Lite beer contains 96 calories with low carbs."
+  },
+  "basis": {
+    "label": "per 1 beer (12 fl oz)",
+    "amount": 1,
+    "unit": "beer",
+    "nutrition": {
+      "calories_kcal": 96,
+      "carbs_g": 3.2,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.7,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 96,
+    "carbs_g": 3.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.7,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Switch to regular Miller High Life beer",
+      "delta_kcal_per_unit": 47,
+      "new_total_kcal": 143
+    },
+    {
+      "label": "Add 1 oz orange juice mixer",
+      "delta_kcal_per_unit": 14,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "For Miller64 ultra-light version",
+      "delta_kcal_per_unit": -24,
+      "new_total_kcal": 72
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Miller Lite beer?",
+      "a": "96 calories per 12 fl oz serving."
+    },
+    {
+      "q": "What are the carbs in a Miller Lite?",
+      "a": "3.2 g total carbs, with 0 g sugars and 0 g fiber."
+    },
+    {
+      "q": "Does Miller Lite have protein or fat?",
+      "a": "About 0.7 g protein and 0 g total fat."
+    },
+    {
+      "q": "How much sodium in a Miller Lite beer?",
+      "a": "10 mg per 12 oz serving."
+    },
+    {
+      "q": "Is Miller Lite lower calorie than other beers?",
+      "a": "Yes, at 96 kcal it's lighter than regular beers (often 140+ kcal) but similar to other light beers."
+    }
+  ]
+}

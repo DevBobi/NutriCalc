@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 tbsp maple syrup",
+  "title": "Calories in 1 Tbsp Maple Syrup",
+  "meta_description": "Discover calories in 1 tbsp maple syrup, including carbs, sugars, full nutrition breakdown per serving, and simple tweaks for your recipes.",
+  "slug": "calories-in-1-tbsp-maple-syrup",
+  "h1": "Calories in 1 Tbsp Maple Syrup",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "maple syrup"
+  },
+  "assumptions": "Pure maple syrup, Grade A; 1 tbsp ≈ 20 g or 15 ml, no additives.",
+  "disclaimer": "Nutrition varies by grade, brand, processing, and measurement. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 52,
+    "text": "1 tbsp maple syrup contains ~52 kcal, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 1 tbsp",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 52,
+      "carbs_g": 13.4,
+      "fiber_g": 0,
+      "sugars_g": 12,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 52,
+    "carbs_g": 13.4,
+    "fiber_g": 0,
+    "sugars_g": 12,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.22
+  },
+  "tweaks": [
+    {
+      "label": "Use sugar-free maple syrup alternative",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 12
+    },
+    {
+      "label": "Add 1 tsp butter to 1 tbsp syrup",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 88
+    },
+    {
+      "label": "Substitute with 1 tbsp honey",
+      "delta_kcal_per_unit": 12,
+      "new_total_kcal": 64
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tbsp maple syrup?",
+      "a": "Approximately 52 kcal per tablespoon."
+    },
+    {
+      "q": "Is maple syrup high in sugar?",
+      "a": "Yes, about 12 g of sugars per 1 tbsp, all from natural sources."
+    },
+    {
+      "q": "Does maple syrup have any protein or fat?",
+      "a": "Negligible—0 g protein and 0 g fat per serving."
+    },
+    {
+      "q": "How many carbs in 1 tbsp maple syrup?",
+      "a": "Around 13.4 g total carbs, with 0 g fiber."
+    },
+    {
+      "q": "What's the difference in calories between maple syrup grades?",
+      "a": "Minimal variation; all grades are ~52 kcal per tbsp, but darker grades may have more minerals."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in frosty small",
+  "title": "Calories in a Small Frosty",
+  "meta_description": "Learn calories in frosty small from Wendy's Chocolate Frosty, with full nutrition facts, macros, sodium, sugars, and easy tweaks for your dessert choice.",
+  "slug": "calories-in-frosty-small",
+  "h1": "Calories in a Small Frosty",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small",
+    "item": "Frosty"
+  },
+  "assumptions": "Wendy's Chocolate Frosty, small size (12 oz / 340 g), standard recipe with milk, cocoa, and sugar; no toppings.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and customizations. Check Wendy's app or menu for latest values.",
+  "quick_answer": {
+    "total_kcal": 340,
+    "text": "A small Wendy's Chocolate Frosty contains 340 calories and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 small Frosty",
+    "amount": 1,
+    "unit": "small Frosty",
+    "nutrition": {
+      "calories_kcal": 340,
+      "carbs_g": 57,
+      "fiber_g": 2,
+      "sugars_g": 42,
+      "protein_g": 9,
+      "fat_g": 9,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 220
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 340,
+    "carbs_g": 57,
+    "fiber_g": 2,
+    "sugars_g": 42,
+    "protein_g": 9,
+    "fat_g": 9,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 220
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.42
+  },
+  "tweaks": [
+    {
+      "label": "Add whipped cream topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Vanilla Frosty instead of chocolate",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "No-sugar-added version (if available)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 240
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in frosty small at Wendy's?",
+      "a": "A small Chocolate Frosty has 340 calories."
+    },
+    {
+      "q": "What's the sugar in a small Frosty?",
+      "a": "About 42 g of sugars per small serving."
+    },
+    {
+      "q": "Is a small Frosty high in fat?",
+      "a": "It has 9 g total fat, including 6 g saturated fat."
+    },
+    {
+      "q": "How much protein in a small Frosty?",
+      "a": "Around 9 g of protein from the milk base."
+    },
+    {
+      "q": "Does Frosty size affect calories?",
+      "a": "Yes—medium is ~470 kcal, large ~590 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pf chang chinese steamed vegetable dumplings",
+  "title": "Calories in PF Chang's Steamed Vegetable Dumplings",
+  "meta_description": "Discover calories in PF Chang Chinese steamed vegetable dumplings per serving of 6, plus carbs, protein, fat, sodium, and preparation tweaks for better tracking.",
+  "slug": "calories-in-pf-chang-chinese-steamed-vegetable-dumplings",
+  "h1": "Calories in PF Chang's Steamed Vegetable Dumplings",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 6,
+    "unit": "dumplings",
+    "item": "PF Chang's Chinese steamed vegetable dumplings"
+  },
+  "assumptions": "PF Chang's restaurant-style, steamed veggie dumplings with cabbage, carrots, mushrooms; serving of 6 pieces (~210 g total), no added sauces.",
+  "disclaimer": "Nutrition varies by restaurant location, exact recipe, portion size, and preparation; values are approximate based on standard PF Chang's data. Check menu or app for latest.",
+  "quick_answer": {
+    "total_kcal": 240,
+    "text": "Six PF Chang's steamed vegetable dumplings provide ~240 kcal, with 10 g protein and high sodium."
+  },
+  "basis": {
+    "label": "per 6 dumplings",
+    "amount": 6,
+    "unit": "dumplings",
+    "nutrition": {
+      "calories_kcal": 240,
+      "carbs_g": 35,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 10,
+      "fat_g": 6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 240,
+    "carbs_g": 35,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 10,
+    "fat_g": 6,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with restaurant or packaged info.",
+  "equivalents": {
+    "megajoules": 1
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp soy sauce dipping",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Fried instead of steamed",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Home-made with extra veggies (less wrapper)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one PF Chang steamed vegetable dumpling?",
+      "a": "About 40 kcal per dumpling, based on a 6-piece serving totaling 240 kcal."
+    },
+    {
+      "q": "What are the macros for PF Chang Chinese steamed vegetable dumplings?",
+      "a": "Per 6 dumplings: 35 g carbs, 10 g protein, 6 g fat, 3 g fiber."
+    },
+    {
+      "q": "Are PF Chang vegetable dumplings low calorie?",
+      "a": "Moderately low at 240 kcal for 6, but high sodium (800 mg) from wrappers and fillings."
+    },
+    {
+      "q": "How does steaming affect calories in these dumplings?",
+      "a": "Steaming keeps calories lower (~240 for 6) vs. frying, which adds oil and ~120 kcal."
+    },
+    {
+      "q": "Can I get nutrition info for PF Chang's veggie dumplings at home?",
+      "a": "Approximate with similar recipes; restaurant values vary—use apps or menus for accuracy."
+    }
+  ]
+}

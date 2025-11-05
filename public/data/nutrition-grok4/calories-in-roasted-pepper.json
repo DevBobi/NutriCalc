@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in roasted pepper",
+  "title": "Calories in Roasted Pepper",
+  "meta_description": "Discover calories in roasted pepper, including macros, fiber, and nutrition facts per serving, plus tweaks and FAQs for better meal planning.",
+  "slug": "calories-in-roasted-pepper",
+  "h1": "Calories in Roasted Pepper",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "pepper",
+    "item": "roasted pepper"
+  },
+  "assumptions": "Medium red bell pepper (approx. 119 g), dry-roasted, peeled, seeds removed, no added oil, salt, or seasonings.",
+  "disclaimer": "Nutrition varies by pepper type (red/green), size, roasting method, and any added ingredients. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 31,
+    "text": "One medium roasted red pepper provides about 31 kcal, mainly from carbs with good fiber content."
+  },
+  "basis": {
+    "label": "per 1 medium roasted pepper",
+    "amount": 1,
+    "unit": "pepper",
+    "nutrition": {
+      "calories_kcal": 31,
+      "carbs_g": 7,
+      "fiber_g": 2.4,
+      "sugars_g": 4.6,
+      "protein_g": 1.1,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 31,
+    "carbs_g": 7,
+    "fiber_g": 2.4,
+    "sugars_g": 4.6,
+    "protein_g": 1.1,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 4
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.13
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil during roasting",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 71
+    },
+    {
+      "label": "Use green bell pepper instead of red",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 26
+    },
+    {
+      "label": "Include skin (not peeled)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 36
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one roasted pepper?",
+      "a": "About 31 kcal for a medium red roasted bell pepper."
+    },
+    {
+      "q": "Are roasted peppers low in carbs?",
+      "a": "Yes, one medium has ~7 g carbs, with 2.4 g fiber and 4.6 g natural sugars."
+    },
+    {
+      "q": "What's the protein in roasted pepper?",
+      "a": "Minimal at ~1.1 g per medium pepper; it's mostly a veggie carb source."
+    },
+    {
+      "q": "Do roasted peppers have fat?",
+      "a": "Very low, only 0.3 g total fat per pepper, with no cholesterol."
+    },
+    {
+      "q": "How does roasting affect pepper calories?",
+      "a": "Roasting concentrates nutrients slightly but keeps calories low (~25-30 kcal per 100 g); avoid added oils to stay lean."
+    }
+  ]
+}

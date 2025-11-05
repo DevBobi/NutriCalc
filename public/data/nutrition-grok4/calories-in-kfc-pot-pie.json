@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in kfc pot pie",
+  "title": "Calories in KFC Pot Pie",
+  "meta_description": "Learn calories in KFC pot pie, with a full breakdown of macros like protein, carbs, fat, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-kfc-pot-pie",
+  "h1": "Calories in KFC Pot Pie",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pot pie",
+    "item": "KFC pot pie"
+  },
+  "assumptions": "KFC's standard Chicken Pot Pie (8 oz serving), including flaky crust, chicken, vegetables, and gravy; values based on official KFC nutrition data.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and customizations. Check KFC's official app or site for latest info.",
+  "quick_answer": {
+    "total_kcal": 720,
+    "text": "One KFC pot pie has 720 calories, 27 g protein, and 39 g fat."
+  },
+  "basis": {
+    "label": "per 1 pot pie",
+    "amount": 1,
+    "unit": "pot pie",
+    "nutrition": {
+      "calories_kcal": 720,
+      "carbs_g": 72,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 27,
+      "fat_g": 39,
+      "sat_fat_g": 11,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 65,
+      "sodium_mg": 1860
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 720,
+    "carbs_g": 72,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 27,
+    "fat_g": 39,
+    "sat_fat_g": 11,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 65,
+    "sodium_mg": 1860
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 3.01
+  },
+  "tweaks": [
+    {
+      "label": "Vegetarian version (no chicken, extra veggies)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 620
+    },
+    {
+      "label": "Add 1 tbsp extra gravy",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 770
+    },
+    {
+      "label": "Low-fat crust substitute",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 640
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one KFC pot pie?",
+      "a": "Approximately 720 calories per standard Chicken Pot Pie."
+    },
+    {
+      "q": "What's the protein in KFC pot pie?",
+      "a": "About 27 g of protein from chicken and filling."
+    },
+    {
+      "q": "How much sodium is in KFC pot pie?",
+      "a": "Around 1860 mg, mostly from gravy and seasoning."
+    },
+    {
+      "q": "Are carbs high in KFC pot pie?",
+      "a": "Yes, 72 g total, mainly from the crust and veggies."
+    },
+    {
+      "q": "Can I make a lower-calorie KFC pot pie?",
+      "a": "Opt for half portion or tweaks like less crust to reduce calories by 100-200."
+    }
+  ]
+}

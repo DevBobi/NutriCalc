@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in one starburst",
+  "title": "How Many Calories in One Starburst?",
+  "meta_description": "Discover how many calories in one Starburst, plus carbs, sugars, fat, and other nutrition facts per piece with quick tweaks and FAQs.",
+  "slug": "how-many-calories-in-one-starburst",
+  "h1": "How Many Calories in One Starburst?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "starburst",
+    "item": "starburst"
+  },
+  "assumptions": "Standard fruit chew flavor, one piece (~4 g), no wrappers or packaging included.",
+  "disclaimer": "Nutrition varies by flavor, brand batch, and exact size. Check packaging for precise values.",
+  "quick_answer": {
+    "total_kcal": 16,
+    "text": "One Starburst chew contains about 16 calories, primarily from sugars."
+  },
+  "basis": {
+    "label": "per 1 Starburst piece",
+    "amount": 1,
+    "unit": "starburst",
+    "nutrition": {
+      "calories_kcal": 16,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sugars_g": 3,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 16,
+    "carbs_g": 4,
+    "fiber_g": 0,
+    "sugars_g": 3,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.07
+  },
+  "tweaks": [
+    {
+      "label": "Sour Starburst (slightly higher acidity but similar calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 16
+    },
+    {
+      "label": "FaveRED variety (cherry flavor, minor sugar variation)",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 17
+    },
+    {
+      "label": "Wrapped in chocolate (if applicable, adds fat)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 36
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Starburst chew?",
+      "a": "Approximately 16 calories per piece."
+    },
+    {
+      "q": "Are Starbursts high in sugar?",
+      "a": "Yes, one piece has about 3 g of sugars with 4 g total carbs."
+    },
+    {
+      "q": "Do Starbursts have any protein or fat?",
+      "a": "No, they contain 0 g protein and 0 g fat per piece."
+    },
+    {
+      "q": "How many Starbursts in a full pack?",
+      "a": "A standard pack has 8 pieces, totaling about 128 calories."
+    },
+    {
+      "q": "Does flavor affect calories in Starburst?",
+      "a": "Minimal variation; most flavors are around 16 kcal per piece."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a grilled salmon",
+  "title": "Calories in a Grilled Salmon Fillet",
+  "meta_description": "Discover calories in a grilled salmon fillet, including protein, fat, carbs, full nutrition breakdown per 100 g, and preparation tweaks for your diet.",
+  "slug": "calories-in-a-grilled-salmon",
+  "h1": "Calories in a Grilled Salmon Fillet",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "fillet",
+    "item": "grilled salmon"
+  },
+  "assumptions": "One standard 150 g fillet, skinless, grilled without added oil or seasonings; wild or farmed Atlantic salmon.",
+  "disclaimer": "Nutrition varies by salmon type (wild vs. farmed), size, cooking method, and additions like oil or sauce. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 309,
+    "text": "A 150 g grilled salmon fillet provides ~309 kcal and ~33 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 206,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 22.1,
+      "fat_g": 12.4,
+      "sat_fat_g": 2.3,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 71,
+      "sodium_mg": 61
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 309,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 33.2,
+    "fat_g": 18.6,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 107,
+    "sodium_mg": 92
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.29
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil during grilling",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 349
+    },
+    {
+      "label": "Skin-on fillet (vs. skinless)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 334
+    },
+    {
+      "label": "Lemon herb seasoning (no calories added)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 309
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a grilled salmon fillet?",
+      "a": "About 309 kcal for a 150 g skinless fillet grilled without oil."
+    },
+    {
+      "q": "What's the protein in grilled salmon?",
+      "a": "Approximately 33 g protein per 150 g fillet."
+    },
+    {
+      "q": "Does grilled salmon have carbs?",
+      "a": "No carbs; it's primarily protein and healthy fats."
+    },
+    {
+      "q": "Wild vs. farmed salmon calories?",
+      "a": "Wild is slightly lower (~182 kcal/100 g) due to less fat; farmed ~206 kcal/100 g."
+    },
+    {
+      "q": "How does grilling affect salmon nutrition?",
+      "a": "Grilling preserves nutrients but adds minimal calories unless oil is used; avoids extra fats from frying."
+    }
+  ]
+}

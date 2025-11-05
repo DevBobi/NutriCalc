@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a persian cucumber",
+  "title": "Calories in a Persian Cucumber",
+  "meta_description": "Learn calories in a Persian cucumber, plus carbs, fiber, protein, and full nutrition breakdown per serving with quick tips.",
+  "slug": "calories-in-a-persian-cucumber",
+  "h1": "Calories in a Persian Cucumber",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "persian cucumber",
+    "item": "persian cucumber"
+  },
+  "assumptions": "Fresh, raw, medium-sized (approx. 100 g), seedless variety.",
+  "disclaimer": "Nutrition varies by size, variety, freshness, and growing conditions. Check produce labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 16,
+    "text": "One medium Persian cucumber has about 16 calories and provides hydration with minimal carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 16,
+      "carbs_g": 3.6,
+      "fiber_g": 0.5,
+      "sugars_g": 1.7,
+      "protein_g": 0.65,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 16,
+    "carbs_g": 3.6,
+    "fiber_g": 0.5,
+    "sugars_g": 1.7,
+    "protein_g": 0.65,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.07
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 14
+    },
+    {
+      "label": "With 1 tbsp tzatziki dip",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 36
+    },
+    {
+      "label": "Sliced into salad with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 56
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a Persian cucumber?",
+      "a": "About 16 calories for one medium (100 g) Persian cucumber."
+    },
+    {
+      "q": "Are Persian cucumbers low in carbs?",
+      "a": "Yes, only 3.6 g carbs per 100 g, mostly from natural sugars."
+    },
+    {
+      "q": "What's the difference in nutrition between Persian and regular cucumbers?",
+      "a": "Similar profiles; Persian are often smaller, seedless, and slightly lower in fiber but equally low-calorie."
+    },
+    {
+      "q": "How much fiber is in a Persian cucumber?",
+      "a": "Approximately 0.5 g dietary fiber per 100 g, aiding digestion."
+    },
+    {
+      "q": "Are Persian cucumbers good for weight loss?",
+      "a": "Yes, they're low-calorie (16 kcal/100 g), high-water, and provide vitamins like K and C."
+    }
+  ]
+}

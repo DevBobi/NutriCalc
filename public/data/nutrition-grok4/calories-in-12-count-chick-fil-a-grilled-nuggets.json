@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 12 count chick fil a grilled nuggets",
+  "title": "Calories in 12 Count Chick-fil-A Grilled Nuggets",
+  "meta_description": "Discover calories in 12 count Chick-fil-A grilled nuggets: 200 kcal total, high protein, low carb, with full nutrition breakdown and tweaks for sauces.",
+  "slug": "calories-in-12-count-chick-fil-a-grilled-nuggets",
+  "h1": "Calories in 12 Count Chick-fil-A Grilled Nuggets",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 12,
+    "unit": "count",
+    "item": "chick fil a grilled nuggets"
+  },
+  "assumptions": "Boneless, skinless chicken breast pieces, marinated and grilled per Chick-fil-A standard recipe; no dipping sauces or sides included.",
+  "disclaimer": "Nutrition varies by location, preparation, and exact serving size; values based on official Chick-fil-A data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "12 Chick-fil-A grilled nuggets provide 200 kcal and 38 g protein."
+  },
+  "basis": {
+    "label": "per 1 grilled nugget",
+    "amount": 1,
+    "unit": "nugget",
+    "nutrition": {
+      "calories_kcal": 16.7,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0.1,
+      "protein_g": 3.2,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 8.3,
+      "sodium_mg": 36.7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 38,
+    "fat_g": 3,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 100,
+    "sodium_mg": 440
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet Chick-fil-A sauce (for 12 count serving)",
+      "delta_kcal_per_unit": 11.7,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Switch to fried nuggets preparation (12 count)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Add 1 packet honey roasted BBQ sauce (for 12 count)",
+      "delta_kcal_per_unit": 3.8,
+      "new_total_kcal": 245
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 12 count Chick-fil-A grilled nuggets?",
+      "a": "200 calories total."
+    },
+    {
+      "q": "What's the protein in Chick-fil-A 12 count grilled nuggets?",
+      "a": "38 grams of protein."
+    },
+    {
+      "q": "Are calories in Chick-fil-A grilled nuggets low carb?",
+      "a": "Yes, only 1 g carbs for 12 count."
+    },
+    {
+      "q": "How much sodium in 12 count Chick-fil-A grilled nuggets?",
+      "a": "440 mg of sodium."
+    },
+    {
+      "q": "Do Chick-fil-A grilled nuggets have trans fat?",
+      "a": "No trans fat; 3 g total fat for 12 count."
+    }
+  ]
+}

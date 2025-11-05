@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in whisky shot",
+  "title": "How Many Calories in a Whisky Shot?",
+  "meta_description": "Discover how many calories in whisky shot, including full nutrition breakdown, alcohol content, and variations for mixers or doubles.",
+  "slug": "how-many-calories-in-whisky-shot",
+  "h1": "How Many Calories in a Whisky Shot?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "whisky"
+  },
+  "assumptions": "Standard 1.5 oz (44 ml) shot of 40% ABV whisky; straight, no mixers or ice.",
+  "disclaimer": "Nutrition varies by brand, proof (ABV), shot size, and any additions; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "A standard whisky shot contains about 97 calories, primarily from alcohol."
+  },
+  "basis": {
+    "label": "per 1 shot",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Double shot (3 oz)",
+      "delta_kcal_per_unit": 97,
+      "new_total_kcal": 194
+    },
+    {
+      "label": "With 4 oz cola mixer",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 147
+    },
+    {
+      "label": "Higher proof (50% ABV)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 117
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a whisky shot?",
+      "a": "Approximately 97 kcal for a standard 1.5 oz shot of 40% ABV whisky."
+    },
+    {
+      "q": "Does whisky have carbs or sugar?",
+      "a": "No, straight whisky has 0 g carbs, fiber, and sugars—all calories from alcohol."
+    },
+    {
+      "q": "How does shot size affect calories in whisky?",
+      "a": "Calories scale with volume; a 1 oz shot is ~65 kcal, while 2 oz is ~130 kcal."
+    },
+    {
+      "q": "Are there fats or protein in whisky?",
+      "a": "Zero fat and protein; it's pure alcohol with negligible other nutrients."
+    },
+    {
+      "q": "What about calories in whisky with mixer?",
+      "a": "Add-ons like cola or ginger ale increase calories—e.g., +50 kcal for 4 oz cola."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a slice of turkey",
+  "title": "How Many Calories in a Slice of Turkey?",
+  "meta_description": "Discover how many calories in a slice of turkey, including protein, fat, sodium details, per-slice basis, and simple tweaks for variations.",
+  "slug": "how-many-calories-in-a-slice-of-turkey",
+  "h1": "How Many Calories in a Slice of Turkey?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "turkey"
+  },
+  "assumptions": "Deli-style roasted turkey breast; 1 slice ≈28 g (1 oz); thinly sliced, no added breading or sauce.",
+  "disclaimer": "Nutrition varies by brand, thickness, curing process, and flavoring; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 30,
+    "text": "One slice of deli turkey provides about 30 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 30,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0.5,
+      "protein_g": 6,
+      "fat_g": 0.5,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 30,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0.5,
+    "protein_g": 6,
+    "fat_g": 0.5,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.13
+  },
+  "tweaks": [
+    {
+      "label": "Thicker slice (≈56 g, double weight)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Low-sodium version",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 28
+    },
+    {
+      "label": "Smoked turkey (added flavoring)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 35
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a slice of turkey?",
+      "a": "Approximately 30 kcal for a standard 28 g deli slice."
+    },
+    {
+      "q": "Is turkey slice high in protein?",
+      "a": "Yes, about 6 g protein per slice, making it a lean option."
+    },
+    {
+      "q": "What's the sodium content in turkey slices?",
+      "a": "Around 300 mg per slice due to curing; opt for low-sodium if watching intake."
+    },
+    {
+      "q": "Do turkey slices have carbs?",
+      "a": "Very low, about 1 g per slice, mostly from any added preservatives."
+    },
+    {
+      "q": "How does slice thickness affect calories?",
+      "a": "Thicker slices (e.g., 56 g) double the calories to ~60 kcal."
+    }
+  ]
+}

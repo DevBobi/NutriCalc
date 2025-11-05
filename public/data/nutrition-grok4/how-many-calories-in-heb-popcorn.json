@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in heb popcorn",
+  "title": "How Many Calories in HEB Popcorn?",
+  "meta_description": "Learn how many calories in HEB popcorn per serving, including full nutrition facts for carbs, fat, protein, sodium, and easy tweaks for different preparations.",
+  "slug": "how-many-calories-in-heb-popcorn",
+  "h1": "How Many Calories in HEB Popcorn?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "HEB popcorn"
+  },
+  "assumptions": "One serving (3 cups popped, 28 g) of HEB butter-flavored microwave popcorn, prepared as directed without extra toppings.",
+  "disclaimer": "Nutrition varies by flavor, brand specifics, preparation method, and serving size. Check HEB packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "One serving of HEB butter popcorn provides about 150 kcal and 3 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving (28 g)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 19,
+      "fiber_g": 3,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 8,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 320
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 19,
+    "fiber_g": 3,
+    "sugars_g": 0,
+    "protein_g": 3,
+    "fat_g": 8,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 320
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Air-popped plain (no butter flavoring)",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Add 1 tbsp melted butter per serving",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Light butter version (reduced fat)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of HEB popcorn?",
+      "a": "About 150 kcal for a 28 g serving of butter-flavored HEB popcorn."
+    },
+    {
+      "q": "What are the carbs in HEB popcorn?",
+      "a": "One serving has 19 g carbs, including 3 g fiber and 0 g sugars."
+    },
+    {
+      "q": "Is HEB popcorn high in sodium?",
+      "a": "Yes, a serving contains 320 mg sodium due to the butter flavoring."
+    },
+    {
+      "q": "How does HEB popcorn compare to plain popcorn calories?",
+      "a": "Butter-flavored is higher at 150 kcal per serving vs. 60 kcal for plain air-popped."
+    },
+    {
+      "q": "Can I eat HEB popcorn on a low-fat diet?",
+      "a": "Opt for light or plain versions to reduce fat from 8 g to under 2 g per serving."
+    }
+  ]
+}

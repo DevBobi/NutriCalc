@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a slice of pumpkin pie",
+  "title": "Calories in a Slice of Pumpkin Pie",
+  "meta_description": "Discover calories in a slice of pumpkin pie, including full nutrition breakdown like carbs, protein, fat, and easy tweaks for variations.",
+  "slug": "calories-in-a-slice-of-pumpkin-pie",
+  "h1": "Calories in a Slice of Pumpkin Pie",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "pumpkin pie"
+  },
+  "assumptions": "Standard 9-inch pie cut into 8 slices; includes graham cracker or pastry crust, pumpkin puree filling with eggs, milk, sugar, spices; baked, no toppings.",
+  "disclaimer": "Nutrition varies by recipe, crust type, serving size, and added toppings. Check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 323,
+    "text": "A typical slice of pumpkin pie contains about 323 calories and 4 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice (1/8 of 9-inch pie)",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 323,
+      "carbs_g": 46,
+      "fiber_g": 2.5,
+      "sugars_g": 25,
+      "protein_g": 4,
+      "fat_g": 14,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 70,
+      "sodium_mg": 250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 323,
+    "carbs_g": 46,
+    "fiber_g": 2.5,
+    "sugars_g": 25,
+    "protein_g": 4,
+    "fat_g": 14,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 70,
+    "sodium_mg": 250
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.35
+  },
+  "tweaks": [
+    {
+      "label": "Add 2 tbsp whipped cream topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 373
+    },
+    {
+      "label": "Crustless version (remove crust)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 223
+    },
+    {
+      "label": "Use low-fat milk and reduce sugar by 20%",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 283
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a slice of pumpkin pie?",
+      "a": "Approximately 323 calories for a standard 1/8 slice of 9-inch pie."
+    },
+    {
+      "q": "What's the carb count in pumpkin pie per slice?",
+      "a": "About 46 g carbs, including 2.5 g fiber and 25 g sugars."
+    },
+    {
+      "q": "Is pumpkin pie high in fat?",
+      "a": "Yes, around 14 g total fat per slice, with 7 g saturated."
+    },
+    {
+      "q": "How does serving size affect calories in pumpkin pie?",
+      "a": "A smaller 1/10 slice would be ~258 kcal; larger portions increase totals proportionally."
+    },
+    {
+      "q": "Can I make pumpkin pie lower calorie?",
+      "a": "Yes, opt for crustless, low-sugar recipes, or Greek yogurt instead of cream to cut ~40-100 kcal per slice."
+    }
+  ]
+}

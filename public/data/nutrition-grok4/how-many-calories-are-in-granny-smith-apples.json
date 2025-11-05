@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in granny smith apples",
+  "title": "How Many Calories in Granny Smith Apples?",
+  "meta_description": "Discover how many calories are in granny smith apples per medium fruit, plus carbs, fiber, protein, and nutrition tweaks for better tracking.",
+  "slug": "how-many-calories-are-in-granny-smith-apples",
+  "h1": "How Many Calories in Granny Smith Apples?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "apple",
+    "item": "granny smith apple"
+  },
+  "assumptions": "Raw, with skin, medium size (~182 g); values similar to general apples as Granny Smith specifics align closely.",
+  "disclaimer": "Nutrition varies by apple size, ripeness, and variety; organic vs. conventional may differ slightly. Check produce labels or apps for precision.",
+  "quick_answer": {
+    "total_kcal": 95,
+    "text": "One medium Granny Smith apple has about 95 kcal and 4.4 g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium Granny Smith apple",
+    "amount": 1,
+    "unit": "apple",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 25.1,
+      "fiber_g": 4.4,
+      "sugars_g": 18.9,
+      "protein_g": 0.5,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 95,
+    "carbs_g": 25.1,
+    "fiber_g": 4.4,
+    "sugars_g": 18.9,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -3,
+      "new_total_kcal": 92
+    },
+    {
+      "label": "Sliced with 1 tbsp peanut butter",
+      "delta_kcal_per_unit": 94,
+      "new_total_kcal": 189
+    },
+    {
+      "label": "Baked without added sugar",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one Granny Smith apple?",
+      "a": "About 95 kcal for a medium raw apple with skin."
+    },
+    {
+      "q": "Are Granny Smith apples low in calories?",
+      "a": "Yes, around 52 kcal per 100 g, making them a low-calorie snack."
+    },
+    {
+      "q": "How much fiber in Granny Smith apples?",
+      "a": "One medium apple provides ~4.4 g dietary fiber, mostly soluble."
+    },
+    {
+      "q": "Do Granny Smith apples have protein or fat?",
+      "a": "Minimal: 0.5 g protein and 0.3 g fat per medium apple."
+    },
+    {
+      "q": "How does apple size affect calories in Granny Smith apples?",
+      "a": "Smaller apples (~130 g) have ~68 kcal; larger (~223 g) around 116 kcal."
+    }
+  ]
+}

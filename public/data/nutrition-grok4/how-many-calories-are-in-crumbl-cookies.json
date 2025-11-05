@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in crumbl cookies",
+  "title": "How Many Calories Are in Crumbl Cookies?",
+  "meta_description": "Discover how many calories are in Crumbl cookies per serving, including macros, nutrition breakdown, and flavor variations for your favorite gourmet treats.",
+  "slug": "how-many-calories-are-in-crumbl-cookies",
+  "h1": "How Many Calories Are in Crumbl Cookies?",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "cookie",
+    "item": "Crumbl cookie"
+  },
+  "assumptions": "Average large Crumbl cookie (e.g., chocolate chip with frosting); approximately 120g each; values based on typical flavors as exact nutrition varies by weekly rotation.",
+  "disclaimer": "Nutrition varies by flavor, size, ingredients, and bakery preparation. Check Crumbl's official site or packaging for current values.",
+  "quick_answer": {
+    "total_kcal": 1000,
+    "text": "One Crumbl cookie typically contains about 1000 kcal, packed with carbs and sugars from dough and frosting."
+  },
+  "basis": {
+    "label": "per 1 cookie",
+    "amount": 1,
+    "unit": "cookie",
+    "nutrition": {
+      "calories_kcal": 1000,
+      "carbs_g": 140,
+      "fiber_g": 3,
+      "sugars_g": 90,
+      "protein_g": 10,
+      "fat_g": 50,
+      "sat_fat_g": 25,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 100,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1000,
+    "carbs_g": 140,
+    "fiber_g": 3,
+    "sugars_g": 90,
+    "protein_g": 10,
+    "fat_g": 50,
+    "sat_fat_g": 25,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 100,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.18
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate-covered variation (e.g., brownie batter flavor)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 1100
+    },
+    {
+      "label": "Half cookie portion",
+      "delta_kcal_per_unit": -500,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Low-sugar alternative (if available, reduced frosting)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 850
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one Crumbl cookie?",
+      "a": "Approximately 1000 kcal per large cookie, depending on the flavor."
+    },
+    {
+      "q": "Do all Crumbl cookies have the same calories?",
+      "a": "No, calories range from 800-1200 kcal based on weekly flavors and toppings."
+    },
+    {
+      "q": "What are the macros in Crumbl cookies?",
+      "a": "Typically 140g carbs, 50g fat, 10g protein, with high sugars around 90g."
+    },
+    {
+      "q": "Are Crumbl cookies high in sodium?",
+      "a": "Yes, about 500mg sodium per cookie from dough and mix-ins."
+    },
+    {
+      "q": "How do Crumbl cookies compare to regular cookies?",
+      "a": "Much higher at 1000 kcal vs. 200-300 kcal for a standard chocolate chip cookie due to size and richness."
+    }
+  ]
+}

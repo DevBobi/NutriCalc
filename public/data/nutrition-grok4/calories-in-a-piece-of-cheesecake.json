@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a piece of cheesecake",
+  "title": "Calories in a Piece of Cheesecake",
+  "meta_description": "Discover calories in a piece of cheesecake—typically around 350 kcal per slice—plus full nutrition breakdown, macros, and variations for better choices.",
+  "slug": "calories-in-a-piece-of-cheesecake",
+  "h1": "Calories in a Piece of Cheesecake",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "piece",
+    "item": "cheesecake"
+  },
+  "assumptions": "Standard New York-style slice (~100g), with graham cracker crust and cream cheese filling; no additional toppings.",
+  "disclaimer": "Nutrition varies by recipe, brand, slice size, crust type, and toppings. Check labels or recipes when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A typical piece of cheesecake contains about 350 kcal, with high fat and carbs from the creamy filling and crust."
+  },
+  "basis": {
+    "label": "per 1 piece (slice)",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 30,
+      "fiber_g": 0.5,
+      "sugars_g": 20,
+      "protein_g": 6,
+      "fat_g": 24,
+      "sat_fat_g": 13,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 80,
+      "sodium_mg": 250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 30,
+    "fiber_g": 0.5,
+    "sugars_g": 20,
+    "protein_g": 6,
+    "fat_g": 24,
+    "sat_fat_g": 13,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 80,
+    "sodium_mg": 250
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat cream cheese version",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add strawberry topping (1 tbsp)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "No-crust, lighter recipe",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a piece of cheesecake?",
+      "a": "About 350 kcal for a standard 100g slice."
+    },
+    {
+      "q": "What are the macros in a slice of cheesecake?",
+      "a": "Roughly 30g carbs, 24g fat, 6g protein, with 13g saturated fat."
+    },
+    {
+      "q": "Is cheesecake high in sugar?",
+      "a": "Yes, around 20g sugars per piece from the filling and crust."
+    },
+    {
+      "q": "How does slice size affect calories in cheesecake?",
+      "a": "Larger slices (150g) can reach 500+ kcal; smaller ones under 250 kcal."
+    },
+    {
+      "q": "Are there lower-calorie cheesecake options?",
+      "a": "Yes, low-fat or no-bake versions reduce calories by 80-100 kcal per slice."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a pb sandwich",
+  "title": "How Many Calories in a PB Sandwich?",
+  "meta_description": "Discover how many calories in a PB sandwich, including protein, fats, carbs, and tweaks for variations like adding jelly.",
+  "slug": "how-many-calories-in-a-pb-sandwich",
+  "h1": "How Many Calories in a PB Sandwich?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "pb sandwich"
+  },
+  "assumptions": "Standard PB sandwich: 2 slices white bread, 2 tbsp creamy peanut butter, no jelly or added ingredients.",
+  "disclaimer": "Nutrition varies by bread type, peanut butter brand, portion size, and additions like jelly. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A standard PB sandwich has about 350 kcal and 13 g protein."
+  },
+  "basis": {
+    "label": "per 1 PB sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 36,
+      "fiber_g": 4,
+      "sugars_g": 5,
+      "protein_g": 13,
+      "fat_g": 18,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 450
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 36,
+    "fiber_g": 4,
+    "sugars_g": 5,
+    "protein_g": 13,
+    "fat_g": 18,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 450
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp jelly",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Use whole wheat bread instead",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Reduce to 1 tbsp peanut butter",
+      "delta_kcal_per_unit": -94,
+      "new_total_kcal": 256
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a PB sandwich with jelly?",
+      "a": "About 400 kcal for a standard version with 1 tbsp jelly added."
+    },
+    {
+      "q": "What's the protein in a PB sandwich?",
+      "a": "Roughly 13 g protein from the peanut butter and bread."
+    },
+    {
+      "q": "Does bread type affect calories in a PB sandwich?",
+      "a": "Yes—whole wheat may lower it slightly to ~330 kcal versus white bread."
+    },
+    {
+      "q": "How much fat is in a PB sandwich?",
+      "a": "Around 18 g total fat, mostly healthy unsaturated from peanut butter."
+    },
+    {
+      "q": "Are PB sandwiches high in sodium?",
+      "a": "Moderately, about 450 mg due to bread and salted peanut butter."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a sausage egg mcmuffin",
+  "title": "Calories in a Sausage Egg McMuffin",
+  "meta_description": "Discover calories in a sausage egg mcmuffin, including full nutrition breakdown like protein, fat, carbs, and sodium, plus tweaks and FAQs for fast food fans.",
+  "slug": "calories-in-a-sausage-egg-mcmuffin",
+  "h1": "Calories in a Sausage Egg McMuffin",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sausage egg mcmuffin",
+    "item": "sausage egg mcmuffin"
+  },
+  "assumptions": "McDonald's Sausage Egg McMuffin: English muffin, pork sausage patty, folded egg, American cheese; standard preparation, no customizations.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and custom orders. Check McDonald's app or packaging for latest values.",
+  "quick_answer": {
+    "total_kcal": 480,
+    "text": "A Sausage Egg McMuffin packs ~480 kcal with 21 g protein and 31 g fat."
+  },
+  "basis": {
+    "label": "per 1 Sausage Egg McMuffin",
+    "amount": 1,
+    "unit": "sausage egg mcmuffin",
+    "nutrition": {
+      "calories_kcal": 480,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugars_g": 2,
+      "protein_g": 21,
+      "fat_g": 31,
+      "sat_fat_g": 11,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 245,
+      "sodium_mg": 830
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 480,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 2,
+    "protein_g": 21,
+    "fat_g": 31,
+    "sat_fat_g": 11,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 245,
+    "sodium_mg": 830
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with fast food info.",
+  "equivalents": {
+    "megajoules": 2.01
+  },
+  "tweaks": [
+    {
+      "label": "Canadian bacon instead of pork sausage",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "No cheese added",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Add a hash brown patty",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 620
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Sausage Egg McMuffin?",
+      "a": "Approximately 480 kcal per sandwich."
+    },
+    {
+      "q": "What's the protein in a sausage egg mcmuffin?",
+      "a": "About 21 g of protein from the egg, sausage, and cheese."
+    },
+    {
+      "q": "Is a Sausage Egg McMuffin high in sodium?",
+      "a": "Yes, around 830 mg sodium—over 30% of daily recommended intake."
+    },
+    {
+      "q": "How many carbs in a sausage egg mcmuffin?",
+      "a": "Roughly 30 g carbs, including 2 g fiber from the English muffin."
+    },
+    {
+      "q": "Does McDonald's Sausage Egg McMuffin have trans fat?",
+      "a": "Typically 0 g trans fat, but check current menu for updates."
+    }
+  ]
+}

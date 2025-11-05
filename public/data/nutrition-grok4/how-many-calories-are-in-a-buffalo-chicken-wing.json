@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a buffalo chicken wing",
+  "title": "How Many Calories Are in a Buffalo Chicken Wing?",
+  "meta_description": "Discover how many calories are in a buffalo chicken wing, including full nutrition breakdown, protein, fat, sodium, and easy tweaks for variations.",
+  "slug": "how-many-calories-are-in-a-buffalo-chicken-wing",
+  "h1": "How Many Calories Are in a Buffalo Chicken Wing?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "wing",
+    "item": "buffalo chicken wing"
+  },
+  "assumptions": "Standard chicken wing (drumette or flat, ~30g), deep-fried, coated in buffalo sauce (hot sauce and butter, mild heat), no celery or dip.",
+  "disclaimer": "Nutrition varies by wing size, brand, sauce spiciness, frying method, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "A single buffalo chicken wing contains about 90 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 buffalo chicken wing",
+    "amount": 1,
+    "unit": "wing",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0.5,
+      "protein_g": 6,
+      "fat_g": 7,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0.5,
+    "protein_g": 6,
+    "fat_g": 7,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "No buffalo sauce (plain fried wing)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Extra sauce coating",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 105
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a buffalo chicken wing?",
+      "a": "Approximately 90 kcal per wing, based on standard preparation."
+    },
+    {
+      "q": "What's the protein in one buffalo wing?",
+      "a": "About 6 g of protein per buffalo chicken wing."
+    },
+    {
+      "q": "Are buffalo wings high in sodium?",
+      "a": "Yes, around 300 mg sodium per wing due to the sauce."
+    },
+    {
+      "q": "How does baking affect calories in buffalo wings?",
+      "a": "Baking reduces calories by about 30 kcal per wing compared to frying."
+    },
+    {
+      "q": "Do buffalo wings have carbs?",
+      "a": "Minimal, about 1 g carbs per wing, mostly from the sauce."
+    }
+  ]
+}

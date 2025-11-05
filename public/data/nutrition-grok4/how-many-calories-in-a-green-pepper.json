@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a green pepper",
+  "title": "How Many Calories in a Green Pepper?",
+  "meta_description": "Discover how many calories in a green pepper, including carbs, fiber, vitamins, and nutrition breakdown per medium size, with tweaks for cooking.",
+  "slug": "how-many-calories-in-a-green-pepper",
+  "h1": "How Many Calories in a Green Pepper?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "green pepper",
+    "item": "green pepper"
+  },
+  "assumptions": "Medium green bell pepper (~119 g), raw, whole (without seeds/stem).",
+  "disclaimer": "Nutrition varies by size, variety, ripeness, and growing conditions. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 24,
+    "text": "One medium green pepper has about 24 kcal and is low in fat with good fiber."
+  },
+  "basis": {
+    "label": "per 1 medium green pepper",
+    "amount": 1,
+    "unit": "green pepper",
+    "nutrition": {
+      "calories_kcal": 24,
+      "carbs_g": 5.5,
+      "fiber_g": 2,
+      "sugars_g": 2.9,
+      "protein_g": 1,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 24,
+    "carbs_g": 5.5,
+    "fiber_g": 2,
+    "sugars_g": 2.9,
+    "protein_g": 1,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Sautéed in 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 64
+    },
+    {
+      "label": "Stuffed with ground beef (add 100 g cooked)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 224
+    },
+    {
+      "label": "Roasted without oil",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 22
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a green pepper?",
+      "a": "About 24 kcal for one medium raw green bell pepper."
+    },
+    {
+      "q": "Are green peppers low carb?",
+      "a": "Yes, one medium has ~5.5 g carbs, including 2 g fiber."
+    },
+    {
+      "q": "What's the protein in a green pepper?",
+      "a": "Roughly 1 g protein per medium green pepper."
+    },
+    {
+      "q": "Do green peppers have fat?",
+      "a": "Very low—only 0.2 g total fat per medium pepper, no saturated or trans fat."
+    },
+    {
+      "q": "How does size affect calories in green peppers?",
+      "a": "Smaller peppers (~74 g) have ~15 kcal; larger (~164 g) around 33 kcal."
+    }
+  ]
+}

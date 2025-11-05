@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a cup of carrots",
+  "title": "Calories in a Cup of Carrots",
+  "meta_description": "Discover calories in a cup of carrots, including carbs, fiber, protein, fat, and full nutrition breakdown per serving with easy tweaks.",
+  "slug": "calories-in-a-cup-of-carrots",
+  "h1": "Calories in a Cup of Carrots",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "carrots"
+  },
+  "assumptions": "Raw, sliced carrots; 1 cup ≈128 g; no added dressings or seasonings.",
+  "disclaimer": "Nutrition varies by carrot size, variety, freshness, preparation, and measurement. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 52,
+    "text": "One cup of sliced raw carrots provides ~52 kcal and ~3.6 g fiber."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 41,
+      "carbs_g": 9.6,
+      "fiber_g": 2.8,
+      "sugars_g": 4.7,
+      "protein_g": 0.9,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.04,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 69
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 52,
+    "carbs_g": 12.3,
+    "fiber_g": 3.6,
+    "sugars_g": 6,
+    "protein_g": 1.2,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.05,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 88
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.22
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per cup",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 88
+    },
+    {
+      "label": "Boiled carrots (drained, no salt)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Baby carrots (1 cup, peeled)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 57
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cup of raw carrots?",
+      "a": "About 52 kcal for 1 cup sliced raw carrots."
+    },
+    {
+      "q": "What is the fiber content in a cup of carrots?",
+      "a": "Approximately 3.6 g of dietary fiber per cup."
+    },
+    {
+      "q": "Are carrots low-carb?",
+      "a": "Yes, 1 cup has ~12.3 g carbs, mostly from natural sugars and fiber."
+    },
+    {
+      "q": "Do cooked carrots have more calories than raw?",
+      "a": "No, boiled carrots have similar or slightly fewer calories (~50 kcal per cup)."
+    },
+    {
+      "q": "How much protein in a cup of carrots?",
+      "a": "Only about 1.2 g protein per cup; carrots are low in protein."
+    }
+  ]
+}

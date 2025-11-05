@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a cheerio",
+  "title": "Calories in a Cheerio",
+  "meta_description": "Discover calories in a cheerio – about 1 kcal per piece – plus full nutrition facts, macros, tweaks, and FAQs for original Cheerios cereal.",
+  "slug": "calories-in-a-cheerio",
+  "h1": "Calories in a Cheerio",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cheerio",
+    "item": "cheerio"
+  },
+  "assumptions": "Original plain Cheerios cereal; one piece weighs ~0.28 g; based on USDA data scaled from 28 g serving (1 cup ≈100 pieces).",
+  "disclaimer": "Nutrition varies by brand, batch, and exact size; values are approximate for dry cereal. Add milk or toppings to adjust.",
+  "quick_answer": {
+    "total_kcal": 1,
+    "text": "A single Cheerio contains about 1 calorie and negligible macros."
+  },
+  "basis": {
+    "label": "per 1 cheerio",
+    "amount": 1,
+    "unit": "cheerio",
+    "nutrition": {
+      "calories_kcal": 1,
+      "carbs_g": 0.2,
+      "fiber_g": 0.03,
+      "sugars_g": 0.01,
+      "protein_g": 0.03,
+      "fat_g": 0.02,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1.9
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1,
+    "carbs_g": 0.2,
+    "fiber_g": 0.03,
+    "sugars_g": 0.01,
+    "protein_g": 0.03,
+    "fat_g": 0.02,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1.9
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.004
+  },
+  "tweaks": [
+    {
+      "label": "Dipped in 1 tsp milk",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 6
+    },
+    {
+      "label": "Honey Nut variety (vs. original)",
+      "delta_kcal_per_unit": 0.2,
+      "new_total_kcal": 1.2
+    },
+    {
+      "label": "Toasted with 1 tsp sugar sprinkle",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 17
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cheerio?",
+      "a": "Approximately 1 kcal per single piece of original Cheerios."
+    },
+    {
+      "q": "What are the carbs in one cheerio?",
+      "a": "About 0.2 g total carbs, including 0.03 g fiber."
+    },
+    {
+      "q": "Does a cheerio have protein or fat?",
+      "a": "Negligible: ~0.03 g protein and 0.02 g fat per piece."
+    },
+    {
+      "q": "How many cheerios in a standard serving?",
+      "a": "Around 100 pieces per 1 cup (28 g) serving, totaling 100 kcal."
+    },
+    {
+      "q": "Are cheerios low sodium?",
+      "a": "Yes, one cheerio has ~1.9 mg sodium; a full serving has 190 mg."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a lb of ground beef",
+  "title": "How Many Calories in a Pound of Ground Beef?",
+  "meta_description": "Learn how many calories in a lb of ground beef (80/20 lean), plus protein, fat, full nutrition facts per 100 g, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-in-a-lb-of-ground-beef",
+  "h1": "How Many Calories in a Pound of Ground Beef?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "lb",
+    "item": "ground beef"
+  },
+  "assumptions": "80% lean / 20% fat, raw, no added seasonings or fillers; 1 lb ≈ 454 g.",
+  "disclaimer": "Nutrition varies by fat percentage, brand, exact leanness, and cooking method (e.g., draining fat reduces calories). Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 1153,
+    "text": "One pound of 80/20 ground beef has about 1153 calories and 78 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 254,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 17.2,
+      "fat_g": 20,
+      "sat_fat_g": 7.7,
+      "trans_fat_g": 0.8,
+      "cholesterol_mg": 71,
+      "sodium_mg": 66
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1153,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 78,
+    "fat_g": 91,
+    "sat_fat_g": 35,
+    "trans_fat_g": 4,
+    "cholesterol_mg": 322,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.83
+  },
+  "tweaks": [
+    {
+      "label": "Use 90% lean ground beef instead of 80/20",
+      "delta_kcal_per_unit": -78,
+      "new_total_kcal": 799
+    },
+    {
+      "label": "Pan-broil and drain excess fat",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 553
+    },
+    {
+      "label": "Add 1 tsp oil for frying per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 1335
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a lb of 80/20 ground beef?",
+      "a": "Approximately 1153 calories for 1 lb raw."
+    },
+    {
+      "q": "Is this for raw or cooked ground beef?",
+      "a": "Raw weight; cooking and draining can reduce calories by 20-40% due to fat loss."
+    },
+    {
+      "q": "How much protein in a pound of ground beef?",
+      "a": "About 78 g protein in 1 lb of 80/20 ground beef."
+    },
+    {
+      "q": "What affects calories in ground beef most?",
+      "a": "Fat content—leaner (90/10) has fewer calories (~800 per lb) vs. fattier (70/30) with more."
+    },
+    {
+      "q": "Does cooking change the calorie count for ground beef?",
+      "a": "Yes, broiling/draining lowers it per original weight; cooked yield is ~75% of raw weight."
+    }
+  ]
+}

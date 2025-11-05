@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in bourbon shot",
+  "title": "Calories in a Bourbon Shot",
+  "meta_description": "Discover calories in bourbon shot, including full nutrition breakdown per standard pour, alcohol content, and tips for variations under 160 characters.",
+  "slug": "calories-in-bourbon-shot",
+  "h1": "Calories in a Bourbon Shot",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "bourbon"
+  },
+  "assumptions": "Standard 1.5 fl oz (44 ml) shot of bourbon whiskey, 80 proof (40% ABV), straight with no mixers or additives.",
+  "disclaimer": "Nutrition varies by brand, proof, pour size, and any additions; values are approximate. Drink responsibly and check labels.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "A standard shot of bourbon provides about 97 calories, primarily from alcohol."
+  },
+  "basis": {
+    "label": "per 1 shot",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Higher proof (100 proof vs 80 proof)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 117
+    },
+    {
+      "label": "Add 4 oz cola mixer",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 147
+    },
+    {
+      "label": "On the rocks (melted ice dilution, no calorie change)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 97
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a shot of bourbon?",
+      "a": "Approximately 97 calories for a standard 1.5 oz shot at 80 proof."
+    },
+    {
+      "q": "Does bourbon have carbs or sugar?",
+      "a": "Straight bourbon has 0 g carbs and 0 g sugars; calories come solely from alcohol."
+    },
+    {
+      "q": "What affects calories in bourbon shots?",
+      "a": "Proof strength, pour size, and mixers; higher proof or additions increase calories."
+    },
+    {
+      "q": "Is bourbon low-carb?",
+      "a": "Yes, a pure shot has 0 g carbs, making it keto-friendly in moderation."
+    },
+    {
+      "q": "How many shots equal a standard drink?",
+      "a": "One 1.5 oz shot of 80-proof bourbon is one standard drink."
+    }
+  ]
+}

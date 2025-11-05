@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken bbq",
+  "title": "Calories in Chicken BBQ",
+  "meta_description": "Discover calories in chicken bbq per 100g, including protein, fat, carbs, sodium from sauce, and preparation tweaks for better tracking.",
+  "slug": "calories-in-chicken-bbq",
+  "h1": "Calories in Chicken BBQ",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chicken bbq"
+  },
+  "assumptions": "Skinless chicken breast, grilled and basted with moderate BBQ sauce; cooked weight, no added sides.",
+  "disclaimer": "Nutrition varies by cut, sauce brand, cooking method, and portion size. Check labels or apps for exact values.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "100g of barbecued chicken provides ~200 kcal, with high protein and some added carbs from sauce."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 6,
+      "fiber_g": 0.2,
+      "sugars_g": 5,
+      "protein_g": 25,
+      "fat_g": 8,
+      "sat_fat_g": 2.2,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 75,
+      "sodium_mg": 450
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 6,
+    "fiber_g": 0.2,
+    "sugars_g": 5,
+    "protein_g": 25,
+    "fat_g": 8,
+    "sat_fat_g": 2.2,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 75,
+    "sodium_mg": 450
+  },
+  "label_note": "Values align with Nutrition Facts panels for straightforward comparison to packaged foods.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "No BBQ sauce (plain grilled)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Skin-on chicken thigh BBQ",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Extra sauce (2 tbsp per 100g)",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 260
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g chicken bbq?",
+      "a": "Approximately 200 kcal, including sauce contributions."
+    },
+    {
+      "q": "What's the protein in chicken bbq?",
+      "a": "About 25g per 100g, making it a lean protein source."
+    },
+    {
+      "q": "Does BBQ sauce add a lot of sodium to chicken?",
+      "a": "Yes, around 450mg per 100g due to sauce; opt for low-sodium versions."
+    },
+    {
+      "q": "Calories in chicken bbq vs plain grilled?",
+      "a": "BBQ adds ~40 kcal per 100g from sauce sugars and flavors."
+    },
+    {
+      "q": "Is chicken bbq high in fat?",
+      "a": "Moderate at 8g per 100g; skinless breast keeps it lower than dark meat."
+    }
+  ]
+}

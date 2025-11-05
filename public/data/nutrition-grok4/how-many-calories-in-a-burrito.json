@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a burrito",
+  "title": "How Many Calories in a Burrito?",
+  "meta_description": "Learn how many calories in a burrito with a full nutrition breakdown, macros, sodium details, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-burrito",
+  "h1": "How Many Calories in a Burrito?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burrito",
+    "item": "burrito"
+  },
+  "assumptions": "Standard beef and bean burrito with flour tortilla, rice, beans, cheese, onions, and mild salsa; approximately 300-400 g total weight, fast-food style.",
+  "disclaimer": "Nutrition varies by recipe, brand, fillings, portion size, and preparation; check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 550,
+    "text": "A typical burrito has about 550 calories, packed with carbs from the tortilla and protein from beef and beans."
+  },
+  "basis": {
+    "label": "per 1 burrito",
+    "amount": 1,
+    "unit": "burrito",
+    "nutrition": {
+      "calories_kcal": 550,
+      "carbs_g": 70,
+      "fiber_g": 8,
+      "sugars_g": 2,
+      "protein_g": 25,
+      "fat_g": 20,
+      "sat_fat_g": 8,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 50,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 550,
+    "carbs_g": 70,
+    "fiber_g": 8,
+    "sugars_g": 2,
+    "protein_g": 25,
+    "fat_g": 20,
+    "sat_fat_g": 8,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 50,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.3
+  },
+  "tweaks": [
+    {
+      "label": "Add guacamole and sour cream",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 700
+    },
+    {
+      "label": "Vegetarian version (no beef, extra beans)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 470
+    },
+    {
+      "label": "Whole wheat tortilla and less cheese",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 500
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a beef burrito?",
+      "a": "Around 550 kcal for a standard one with beans, rice, and cheese."
+    },
+    {
+      "q": "What are the carbs in a burrito?",
+      "a": "Typically 70 g, mostly from the tortilla, rice, and beans."
+    },
+    {
+      "q": "Is a burrito high in sodium?",
+      "a": "Yes, often 1200 mg or more due to seasonings, cheese, and salsa."
+    },
+    {
+      "q": "How to lower calories in a burrito?",
+      "a": "Opt for less cheese, no sour cream, or a smaller tortilla to cut 50-150 kcal."
+    },
+    {
+      "q": "Calories in a breakfast burrito vs. regular?",
+      "a": "Breakfast versions with eggs and sausage can be 400-600 kcal, similar but varies by fillings."
+    }
+  ]
+}

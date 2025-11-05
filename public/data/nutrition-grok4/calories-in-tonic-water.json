@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in tonic water",
+  "title": "Calories in Tonic Water",
+  "meta_description": "Learn calories in tonic water per 200ml serving, including carbs, sugars, sodium, and comparisons to diet versions for better choices.",
+  "slug": "calories-in-tonic-water",
+  "h1": "Calories in Tonic Water",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 200,
+    "unit": "ml",
+    "item": "tonic water"
+  },
+  "assumptions": "Regular sweetened tonic water (e.g., Schweppes-style), carbonated, no added flavors; 200ml as standard serving size.",
+  "disclaimer": "Nutrition varies by brand, sugar content, and quinine levels. Diet versions differ significantly. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 70,
+    "text": "A 200ml serving of tonic water contains about 70 kcal, primarily from sugars."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 35,
+      "carbs_g": 8.5,
+      "fiber_g": 0,
+      "sugars_g": 8.5,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 15
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 70,
+    "carbs_g": 17,
+    "fiber_g": 0,
+    "sugars_g": 17,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 30
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Switch to diet tonic water (sugar-free)",
+      "delta_kcal_per_unit": -35,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Add 1 oz gin per serving",
+      "delta_kcal_per_unit": 65,
+      "new_total_kcal": 135
+    },
+    {
+      "label": "Use low-sodium version",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 200ml glass of tonic water?",
+      "a": "Approximately 70 kcal, all from carbohydrates."
+    },
+    {
+      "q": "Is tonic water high in sugar?",
+      "a": "Yes, about 17 g sugars in 200ml, similar to a soda."
+    },
+    {
+      "q": "Calories in diet tonic water?",
+      "a": "Typically 0-1 kcal per 200ml, sweetened with artificial sweeteners."
+    },
+    {
+      "q": "Does tonic water have protein or fat?",
+      "a": "No, 0 g protein and 0 g fat per serving."
+    },
+    {
+      "q": "Why is sodium in tonic water?",
+      "a": "From added sodium benzoate or natural minerals; about 30 mg per 200ml."
+    }
+  ]
+}

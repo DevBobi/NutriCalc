@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a pbj",
+  "title": "How Many Calories in a PB&J?",
+  "meta_description": "Discover how many calories in a pbj sandwich, including full nutrition breakdown, macros, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-pbj",
+  "h1": "How Many Calories in a PB&J?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "pbj"
+  },
+  "assumptions": "Standard PB&J: 2 slices white bread, 2 tbsp creamy peanut butter, 1 tbsp grape jelly; no added ingredients.",
+  "disclaimer": "Nutrition varies by bread type, PB brand, jelly flavor, portion sizes, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 400,
+    "text": "A standard PB&J sandwich has about 400 kcal, with 13 g protein and 50 g carbs."
+  },
+  "basis": {
+    "label": "per 1 PB&J sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 400,
+      "carbs_g": 50,
+      "fiber_g": 3,
+      "sugars_g": 18,
+      "protein_g": 13,
+      "fat_g": 16,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 350
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 400,
+    "carbs_g": 50,
+    "fiber_g": 3,
+    "sugars_g": 18,
+    "protein_g": 13,
+    "fat_g": 16,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 350
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged items.",
+  "equivalents": {
+    "megajoules": 1.67
+  },
+  "tweaks": [
+    {
+      "label": "Use whole wheat bread instead of white",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Reduce to 1 tbsp peanut butter",
+      "delta_kcal_per_unit": -94,
+      "new_total_kcal": 306
+    },
+    {
+      "label": "Add 1 sliced banana",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 490
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a standard PB&J?",
+      "a": "About 400 kcal for 2 slices bread, 2 tbsp PB, and 1 tbsp jelly."
+    },
+    {
+      "q": "What's the protein in a PB&J?",
+      "a": "Roughly 13 g, mostly from the peanut butter."
+    },
+    {
+      "q": "Does jelly add a lot of sugar to PB&J calories?",
+      "a": "Yes, 1 tbsp jelly adds ~18 g sugars total, contributing to the carb count."
+    },
+    {
+      "q": "How to lower calories in a PB&J?",
+      "a": "Use less PB, opt for low-sugar jelly, or choose thinner bread slices."
+    },
+    {
+      "q": "Is PB&J high in fat?",
+      "a": "Moderate at 16 g fat per sandwich, primarily from peanut butter; choose natural PB to reduce saturated fat."
+    }
+  ]
+}

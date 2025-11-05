@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 2 cups of rice",
+  "title": "How Many Calories Are in 2 Cups of Rice?",
+  "meta_description": "Discover how many calories in 2 cups of rice, including carbs, protein, fat, full nutrition breakdown per cup, and preparation tweaks for better choices.",
+  "slug": "how-many-calories-in-2-cups-of-rice",
+  "h1": "How Many Calories Are in 2 Cups of Rice?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 2,
+    "unit": "cup",
+    "item": "rice"
+  },
+  "assumptions": "Cooked long-grain white rice, measured after cooking (~158 g per cup), no added salt, oil, or seasonings.",
+  "disclaimer": "Nutrition varies by rice type (white vs. brown), brand, cooking method, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 410,
+    "text": "Two cups of cooked white rice contain about 410 calories and 89 grams of carbohydrates."
+  },
+  "basis": {
+    "label": "per 1 cup cooked",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 205,
+      "carbs_g": 44.5,
+      "fiber_g": 0.6,
+      "sugars_g": 0.1,
+      "protein_g": 4.3,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 410,
+    "carbs_g": 89,
+    "fiber_g": 1.2,
+    "sugars_g": 0.2,
+    "protein_g": 8.6,
+    "fat_g": 0.8,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.72
+  },
+  "tweaks": [
+    {
+      "label": "Switch to brown rice (per cup)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Add 1 tsp butter per cup",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 478
+    },
+    {
+      "label": "Use jasmine rice (slightly higher carbs per cup)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 440
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of cooked rice?",
+      "a": "About 205 calories for one cup of cooked white rice."
+    },
+    {
+      "q": "What's the carb content in 2 cups of rice?",
+      "a": "Approximately 89 grams of carbohydrates, mostly starch."
+    },
+    {
+      "q": "Does brown rice have more calories than white?",
+      "a": "Slightly more—around 215 kcal per cup due to higher fiber."
+    },
+    {
+      "q": "Are these calories for cooked or uncooked rice?",
+      "a": "Cooked; uncooked rice has more calories per cup as it expands when cooked."
+    },
+    {
+      "q": "How does cooking method affect calories in rice?",
+      "a": "Boiling absorbs water (lower density); frying adds oil and calories."
+    }
+  ]
+}

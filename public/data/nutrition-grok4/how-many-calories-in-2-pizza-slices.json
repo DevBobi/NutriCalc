@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 2 pizza slices",
+  "title": "How Many Calories in 2 Pizza Slices?",
+  "meta_description": "Discover how many calories in 2 pizza slices from a standard cheese pizza, including full nutrition breakdown, macros, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-2-pizza-slices",
+  "h1": "How Many Calories in 2 Pizza Slices?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 2,
+    "unit": "slice",
+    "item": "pizza slice"
+  },
+  "assumptions": "Standard 14-inch cheese pizza (1/8 slice per serving), hand-tossed crust, tomato sauce, mozzarella cheese; no extra toppings or dipping sauce.",
+  "disclaimer": "Nutrition varies by pizza size, crust type, brand, toppings, and baking method. Check restaurant or package labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 570,
+    "text": "Two slices of cheese pizza provide about 570 kcal and 24 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 285,
+      "carbs_g": 36,
+      "fiber_g": 2.5,
+      "sugars_g": 4,
+      "protein_g": 12,
+      "fat_g": 10,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 700
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 570,
+    "carbs_g": 72,
+    "fiber_g": 5,
+    "sugars_g": 8,
+    "protein_g": 24,
+    "fat_g": 20,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 1400
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged or restaurant info.",
+  "equivalents": {
+    "megajoules": 2.39
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni (2-3 slices per pizza slice)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 670
+    },
+    {
+      "label": "Switch to thin crust (vs. hand-tossed)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 490
+    },
+    {
+      "label": "Add extra cheese (1 oz per slice)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 730
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pizza slice?",
+      "a": "About 285 kcal for one slice of standard cheese pizza."
+    },
+    {
+      "q": "What are the macros for 2 pizza slices?",
+      "a": "Approximately 24 g protein, 20 g fat, 72 g carbs, with 5 g fiber."
+    },
+    {
+      "q": "Does pizza have a lot of sodium?",
+      "a": "Yes, two slices have about 1400 mg sodium, mostly from cheese and sauce."
+    },
+    {
+      "q": "How do toppings affect calories in pizza slices?",
+      "a": "Meats like pepperoni add 50+ kcal per slice; veggies add fewer, around 10-20 kcal."
+    },
+    {
+      "q": "Are these calories for cheese pizza only?",
+      "a": "Yes, based on plain cheese; other toppings like sausage or veggies will increase totals."
+    }
+  ]
+}

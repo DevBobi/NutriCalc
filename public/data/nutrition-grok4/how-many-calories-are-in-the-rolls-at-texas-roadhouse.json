@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in the rolls at texas roadhouse",
+  "title": "How Many Calories in Texas Roadhouse Rolls?",
+  "meta_description": "Learn how many calories are in the rolls at Texas Roadhouse per serving, including carbs, fat, protein, and nutrition tips for your meal.",
+  "slug": "how-many-calories-are-in-the-rolls-at-texas-roadhouse",
+  "h1": "How Many Calories in Texas Roadhouse Rolls?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "roll",
+    "item": "Texas Roadhouse roll"
+  },
+  "assumptions": "Fresh baked yeast dinner roll, plain without butter or toppings; approximately 60 g per roll.",
+  "disclaimer": "Nutrition varies by exact recipe, serving size, and preparation; Texas Roadhouse values may differ—check official sources or app for latest info.",
+  "quick_answer": {
+    "total_kcal": 204,
+    "text": "One Texas Roadhouse roll contains about 204 calories and 5 g protein."
+  },
+  "basis": {
+    "label": "per 1 roll",
+    "amount": 1,
+    "unit": "roll",
+    "nutrition": {
+      "calories_kcal": 204,
+      "carbs_g": 33,
+      "fiber_g": 1,
+      "sugars_g": 4,
+      "protein_g": 5,
+      "fat_g": 6,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 204,
+    "carbs_g": 33,
+    "fiber_g": 1,
+    "sugars_g": 4,
+    "protein_g": 5,
+    "fat_g": 6,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 250
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with restaurant or packaged info.",
+  "equivalents": {
+    "megajoules": 0.85
+  },
+  "tweaks": [
+    {
+      "label": "With 1 tsp cinnamon honey butter",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 304
+    },
+    {
+      "label": "Skip the butter (plain roll only)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 204
+    },
+    {
+      "label": "Half roll portion",
+      "delta_kcal_per_unit": -102,
+      "new_total_kcal": 102
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one Texas Roadhouse roll?",
+      "a": "Approximately 204 calories per plain roll."
+    },
+    {
+      "q": "What are the carbs in Texas Roadhouse rolls?",
+      "a": "About 33 g carbs per roll, including 1 g fiber and 4 g sugars."
+    },
+    {
+      "q": "Do Texas Roadhouse rolls have a lot of sodium?",
+      "a": "Yes, around 250 mg sodium per roll due to the yeast and dough ingredients."
+    },
+    {
+      "q": "How does adding butter affect calories in Texas Roadhouse rolls?",
+      "a": "One teaspoon of their cinnamon honey butter adds about 100 calories."
+    },
+    {
+      "q": "Are Texas Roadhouse rolls high in protein?",
+      "a": "Moderately, with 5 g protein per roll—better paired with lean meats for more."
+    }
+  ]
+}

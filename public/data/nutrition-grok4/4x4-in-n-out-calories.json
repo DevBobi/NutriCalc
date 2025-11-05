@@ -1,0 +1,92 @@
+{
+  "keyword": "4x4 in n out calories",
+  "title": "Calories in 4x4 In-N-Out Burger",
+  "meta_description": "Learn the 4x4 in n out calories—about 1090 kcal—plus full nutrition facts for protein, fat, carbs, sodium, and tweaks for variations.",
+  "slug": "4x4-in-n-out-calories",
+  "h1": "Calories in 4x4 In-N-Out Burger",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "4x4 In-N-Out burger"
+  },
+  "assumptions": "Standard 4x4 burger with sesame seed bun, 4 beef patties, 4 cheese slices, lettuce, tomato, onion, and Thousand Island-style spread; no modifications.",
+  "disclaimer": "Nutrition varies by location, exact preparation, and customizations; based on In-N-Out's official data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 1090,
+    "text": "A 4x4 In-N-Out burger packs ~1090 kcal and ~63 g protein."
+  },
+  "basis": {
+    "label": "per 1 4x4 burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 1090,
+      "carbs_g": 39,
+      "fiber_g": 2,
+      "sugars_g": 10,
+      "protein_g": 63,
+      "fat_g": 67,
+      "sat_fat_g": 32,
+      "trans_fat_g": 2,
+      "cholesterol_mg": 245,
+      "sodium_mg": 2440
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1090,
+    "carbs_g": 39,
+    "fiber_g": 2,
+    "sugars_g": 10,
+    "protein_g": 63,
+    "fat_g": 67,
+    "sat_fat_g": 32,
+    "trans_fat_g": 2,
+    "cholesterol_mg": 245,
+    "sodium_mg": 2440
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.56
+  },
+  "tweaks": [
+    {
+      "label": "Protein style (no bun, wrapped in lettuce)",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 790
+    },
+    {
+      "label": "Animal style (extra spread, grilled onions, mustard-fried patty)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 1190
+    },
+    {
+      "label": "No cheese (remove 4 slices)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 890
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 4x4 In-N-Out burger?",
+      "a": "Approximately 1090 calories for the standard version."
+    },
+    {
+      "q": "What's the protein content in 4x4 In-N-Out calories query?",
+      "a": "About 63 g of protein, mainly from the four beef patties."
+    },
+    {
+      "q": "How much fat and sodium in a 4x4 In-N-Out?",
+      "a": "67 g total fat (32 g saturated) and 2440 mg sodium."
+    },
+    {
+      "q": "Are 4x4 In-N-Out calories different without the bun?",
+      "a": "Yes, protein style drops it to ~790 kcal by removing the bun."
+    },
+    {
+      "q": "How do carbs factor into 4x4 In-N-Out calories?",
+      "a": "39 g carbs, mostly from the bun, with 2 g fiber and 10 g sugars."
+    }
+  ]
+}

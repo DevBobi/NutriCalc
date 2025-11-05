@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in ritz crackers",
+  "title": "How Many Calories Are in Ritz Crackers?",
+  "meta_description": "Discover how many calories are in Ritz crackers per serving of 5, plus full nutrition breakdown including carbs, fat, protein, and quick tweaks for variations.",
+  "slug": "how-many-calories-are-in-ritz-crackers",
+  "h1": "How Many Calories Are in Ritz Crackers?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 5,
+    "unit": "crackers",
+    "item": "ritz crackers"
+  },
+  "assumptions": "Original Ritz crackers, standard serving of 5 crackers (about 16 g), no toppings or spreads.",
+  "disclaimer": "Nutrition varies by flavor, brand batch, and serving size; check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "A serving of 5 Ritz crackers contains about 80 calories and 1 g protein."
+  },
+  "basis": {
+    "label": "per 1 cracker",
+    "amount": 1,
+    "unit": "cracker",
+    "nutrition": {
+      "calories_kcal": 16,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sugars_g": 0.2,
+      "protein_g": 0.2,
+      "fat_g": 0.9,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 28
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 10,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 1,
+    "fat_g": 4.5,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 140
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp peanut butter per cracker",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Use reduced-fat Ritz crackers",
+      "delta_kcal_per_unit": -3,
+      "new_total_kcal": 65
+    },
+    {
+      "label": "Top with 1 slice cheddar cheese per cracker",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 480
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one Ritz cracker?",
+      "a": "About 16 calories per single Ritz cracker."
+    },
+    {
+      "q": "What are the carbs in 5 Ritz crackers?",
+      "a": "Approximately 10 g of carbohydrates, with 0 g fiber and 1 g sugars."
+    },
+    {
+      "q": "Are Ritz crackers high in sodium?",
+      "a": "A serving of 5 has 140 mg sodium, about 6% of daily value."
+    },
+    {
+      "q": "How much fat is in Ritz crackers?",
+      "a": "5 crackers provide 4.5 g total fat, including 1 g saturated fat."
+    },
+    {
+      "q": "Do Ritz crackers have protein?",
+      "a": "Yes, about 1 g protein per serving of 5 crackers."
+    }
+  ]
+}

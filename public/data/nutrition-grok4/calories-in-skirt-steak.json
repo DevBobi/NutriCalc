@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in skirt steak",
+  "title": "Calories in Skirt Steak",
+  "meta_description": "Discover calories in skirt steak per 100 g, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-skirt-steak",
+  "h1": "Calories in Skirt Steak",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "skirt steak"
+  },
+  "assumptions": "Beef skirt steak, separable lean and fat, trimmed to 0\" fat, choice grade, cooked by grilling; no added oils or marinades.",
+  "disclaimer": "Nutrition varies by cut, grade, cooking method, fat trimming, and source; values are averages—check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 271,
+    "text": "100 g of grilled skirt steak provides ~271 kcal and ~25 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 271,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25.1,
+      "fat_g": 18.4,
+      "sat_fat_g": 7.4,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 85,
+      "sodium_mg": 58
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 271,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25.1,
+    "fat_g": 18.4,
+    "sat_fat_g": 7.4,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 85,
+    "sodium_mg": 58
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.13
+  },
+  "tweaks": [
+    {
+      "label": "Trim visible fat before cooking (per 100 g)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 221
+    },
+    {
+      "label": "Marinated with 1 tbsp oil and soy sauce (per 100 g)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 351
+    },
+    {
+      "label": "Pan-seared with 1 tsp butter added (per 100 g)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 311
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g skirt steak?",
+      "a": "About 271 kcal for grilled skirt steak with lean and fat."
+    },
+    {
+      "q": "Is skirt steak high in protein?",
+      "a": "Yes, ~25 g protein per 100 g, making it great for muscle-building meals."
+    },
+    {
+      "q": "What's the fat content in skirt steak?",
+      "a": "Around 18.4 g total fat per 100 g, including 7.4 g saturated."
+    },
+    {
+      "q": "Does cooking method affect calories in skirt steak?",
+      "a": "Yes—grilling is lower cal than frying; added fats increase totals."
+    },
+    {
+      "q": "How does skirt steak compare to other steaks calorie-wise?",
+      "a": "Similar to flank steak (~200-270 kcal/100 g) but higher fat than lean sirloin (~180 kcal)."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mayo",
+  "title": "Calories in Mayo (Per Tablespoon)",
+  "meta_description": "Discover calories in mayo per tablespoon, including fat, carbs, sodium, and variations for low-fat or homemade options to fit your diet.",
+  "slug": "calories-in-mayo",
+  "h1": "Calories in Mayo (Per Tablespoon)",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "mayonnaise"
+  },
+  "assumptions": "Regular full-fat mayonnaise, store-bought; 1 tbsp ≈14 g; no added ingredients.",
+  "disclaimer": "Nutrition varies by brand, fat content, recipe, and serving size. Check labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 94,
+    "text": "One tablespoon of regular mayo provides about 94 kcal, primarily from fat."
+  },
+  "basis": {
+    "label": "per 1 tablespoon",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 94,
+      "carbs_g": 0.6,
+      "fiber_g": 0,
+      "sugars_g": 0.4,
+      "protein_g": 0.1,
+      "fat_g": 10.3,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 6,
+      "sodium_mg": 88
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 94,
+    "carbs_g": 0.6,
+    "fiber_g": 0,
+    "sugars_g": 0.4,
+    "protein_g": 0.1,
+    "fat_g": 10.3,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 6,
+    "sodium_mg": 88
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.39
+  },
+  "tweaks": [
+    {
+      "label": "Switch to low-fat mayonnaise",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 44
+    },
+    {
+      "label": "Homemade with olive oil (vs. vegetable oil base)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 104
+    },
+    {
+      "label": "Light mayo with added herbs",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 54
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tbsp of mayo?",
+      "a": "About 94 kcal for regular full-fat mayonnaise."
+    },
+    {
+      "q": "Is mayo high in fat?",
+      "a": "Yes, 1 tbsp has 10.3 g total fat, including 1.5 g saturated."
+    },
+    {
+      "q": "Calories in low-fat mayo?",
+      "a": "Typically 40-50 kcal per tbsp, reduced by using less oil and more water/emulsifiers."
+    },
+    {
+      "q": "Does mayo have carbs or protein?",
+      "a": "Minimal: 0.6 g carbs and 0.1 g protein per tbsp."
+    },
+    {
+      "q": "How does brand affect calories in mayo?",
+      "a": "Brands vary; full-fat is 90-100 kcal/tbsp, while reduced-fat options are lower."
+    }
+  ]
+}

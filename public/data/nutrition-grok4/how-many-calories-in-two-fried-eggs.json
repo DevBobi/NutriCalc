@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in two fried eggs",
+  "title": "How Many Calories Are in Two Fried Eggs?",
+  "meta_description": "Discover how many calories in two fried eggs, including full nutrition breakdown, protein, fat, carbs, and simple tweaks for variations.",
+  "slug": "how-many-calories-in-two-fried-eggs",
+  "h1": "How Many Calories Are in Two Fried Eggs?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 2,
+    "unit": "egg",
+    "item": "fried egg"
+  },
+  "assumptions": "Large eggs (~50 g each), fried sunny-side up in 1 tsp total oil or butter, lightly salted.",
+  "disclaimer": "Nutrition varies by egg size, frying fat amount, cooking time, and added seasonings. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 185,
+    "text": "Two large fried eggs offer ~185 kcal and ~13 g protein."
+  },
+  "basis": {
+    "label": "per 1 large fried egg",
+    "amount": 1,
+    "unit": "egg",
+    "nutrition": {
+      "calories_kcal": 92,
+      "carbs_g": 0.6,
+      "fiber_g": 0,
+      "sugars_g": 0.6,
+      "protein_g": 6.3,
+      "fat_g": 7,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 186,
+      "sodium_mg": 71
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 185,
+    "carbs_g": 1.2,
+    "fiber_g": 0,
+    "sugars_g": 1.2,
+    "protein_g": 12.6,
+    "fat_g": 14,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 372,
+    "sodium_mg": 142
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.77
+  },
+  "tweaks": [
+    {
+      "label": "Fried in 1 tbsp extra oil total",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 245
+    },
+    {
+      "label": "No added fat (pan-fried dry or poached)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 145
+    },
+    {
+      "label": "Add 1 slice cheese per egg",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 345
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one fried egg?",
+      "a": "About 92 kcal for one large fried egg."
+    },
+    {
+      "q": "What's the protein in two fried eggs?",
+      "a": "Approximately 13 g protein total."
+    },
+    {
+      "q": "Do fried eggs have more calories than boiled?",
+      "a": "Yes, due to added cooking fat; fried adds ~14 kcal per egg vs. boiled."
+    },
+    {
+      "q": "How does frying method affect calories?",
+      "a": "More oil or butter increases fat and calories; minimal fat keeps it closer to boiled."
+    },
+    {
+      "q": "Are fried eggs high in cholesterol?",
+      "a": "Yes, two provide ~372 mg, mostly from yolks; consider dietary needs."
+    }
+  ]
+}

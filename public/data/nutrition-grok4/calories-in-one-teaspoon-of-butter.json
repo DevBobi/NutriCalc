@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in one teaspoon of butter",
+  "title": "Calories in One Teaspoon of Butter",
+  "meta_description": "Discover calories in one teaspoon of butter, including fat, sodium, full nutrition breakdown per teaspoon, and simple tweaks for recipes.",
+  "slug": "calories-in-one-teaspoon-of-butter",
+  "h1": "Calories in One Teaspoon of Butter",
+  "updated": "2023-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "teaspoon",
+    "item": "butter"
+  },
+  "assumptions": "Standard salted butter from a stick, softened or melted; ~4.7 g per teaspoon.",
+  "disclaimer": "Nutrition varies by brand, salted vs. unsalted, and exact measurement. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 34,
+    "text": "One teaspoon of butter contains about 34 kcal, mostly from fat."
+  },
+  "basis": {
+    "label": "per 1 teaspoon",
+    "amount": 1,
+    "unit": "teaspoon",
+    "nutrition": {
+      "calories_kcal": 34,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 3.8,
+      "sat_fat_g": 2.4,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 10,
+      "sodium_mg": 31
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 34,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 3.8,
+    "sat_fat_g": 2.4,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 10,
+    "sodium_mg": 31
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.14
+  },
+  "tweaks": [
+    {
+      "label": "Use unsalted butter instead",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 34
+    },
+    {
+      "label": "Substitute with margarine (regular)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 32
+    },
+    {
+      "label": "Clarified butter (ghee)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 36
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one teaspoon of butter?",
+      "a": "Approximately 34 kcal per teaspoon."
+    },
+    {
+      "q": "Is butter high in saturated fat?",
+      "a": "Yes, about 2.4 g saturated fat per teaspoon."
+    },
+    {
+      "q": "Does unsalted butter have fewer calories?",
+      "a": "Calories are the same; it just has less sodium (about 2 mg vs. 31 mg)."
+    },
+    {
+      "q": "How much fat is in a teaspoon of butter?",
+      "a": "Total fat is 3.8 g, nearly all from dairy sources."
+    },
+    {
+      "q": "Can I use butter in baking without adding carbs?",
+      "a": "Butter has 0 g carbs, making it suitable for low-carb recipes."
+    }
+  ]
+}

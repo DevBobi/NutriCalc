@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in baked hot cheetos",
+  "title": "Calories in Baked Hot Cheetos",
+  "meta_description": "Discover calories in baked hot cheetos per serving, including carbs, fat, protein, sodium, and easy tweaks for your snack.",
+  "slug": "calories-in-baked-hot-cheetos",
+  "h1": "Calories in Baked Hot Cheetos",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "oz",
+    "item": "baked hot cheetos"
+  },
+  "assumptions": "Standard 1 oz (28g) serving of baked Flamin' Hot Cheetos, crunchy variety, no additional toppings or dips.",
+  "disclaimer": "Nutrition varies by brand, flavor intensity, batch, and serving size. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "One 1 oz serving of baked hot cheetos contains about 150 calories and 16g carbs."
+  },
+  "basis": {
+    "label": "per 1 oz (28g) serving",
+    "amount": 1,
+    "unit": "oz",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 16,
+      "fiber_g": 1,
+      "sugars_g": 1,
+      "protein_g": 2,
+      "fat_g": 9,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 280
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 16,
+    "fiber_g": 1,
+    "sugars_g": 1,
+    "protein_g": 2,
+    "fat_g": 9,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 280
+  },
+  "label_note": "Values mirror standard Nutrition Facts labels for quick comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Double serving size to 2 oz",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Pair with 1 tbsp low-fat dip",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 175
+    },
+    {
+      "label": "Homemade baked with reduced oil",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of baked hot cheetos?",
+      "a": "About 150 calories per 1 oz (28g) serving."
+    },
+    {
+      "q": "Are baked hot cheetos lower in fat than regular?",
+      "a": "Yes, baked versions typically have less fat (9g vs. 10-11g in fried) per serving."
+    },
+    {
+      "q": "What's the sodium content in baked hot cheetos?",
+      "a": "Around 280 mg per 1 oz serving, due to spicy seasoning."
+    },
+    {
+      "q": "Do baked hot cheetos have protein?",
+      "a": "Minimal, about 2g protein per serving."
+    },
+    {
+      "q": "How do calories in baked hot cheetos compare to original cheetos?",
+      "a": "Baked hot cheetos have similar calories (150) but less fat than fried originals (160+ kcal)."
+    }
+  ]
+}

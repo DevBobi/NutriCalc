@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in beef filet mignon 6 oz",
+  "title": "Calories in 6 oz Beef Filet Mignon",
+  "meta_description": "Discover calories in beef filet mignon 6 oz, including protein, fat, full nutrition breakdown per serving, and easy tweaks for cooking variations.",
+  "slug": "calories-in-beef-filet-mignon-6-oz",
+  "h1": "Calories in 6 oz Beef Filet Mignon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 6,
+    "unit": "oz",
+    "item": "beef filet mignon"
+  },
+  "assumptions": "Lean beef filet mignon, cooked (broiled or grilled), trimmed of visible fat, no added salt, oil, or marinades.",
+  "disclaimer": "Nutrition varies by cut, grade, cooking method, added fats, and portion accuracy. Check labels or USDA data when available.",
+  "quick_answer": {
+    "total_kcal": 304,
+    "text": "6 oz cooked filet mignon provides ~304 kcal and ~47 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 179,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 27.7,
+      "fat_g": 7.3,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0.3,
+      "cholesterol_mg": 85,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 304,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 47.1,
+    "fat_g": 12.4,
+    "sat_fat_g": 5.1,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 144.5,
+    "sodium_mg": 102
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.27
+  },
+  "tweaks": [
+    {
+      "label": "Pan-seared with 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 372
+    },
+    {
+      "label": "Add 1 tbsp butter sauce per serving",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 404
+    },
+    {
+      "label": "Raw vs. cooked (shrinkage adjustment)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 264
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 6 oz filet mignon?",
+      "a": "Approximately 304 kcal for cooked, lean beef filet mignon."
+    },
+    {
+      "q": "What's the protein in 6 oz beef filet mignon?",
+      "a": "About 47 g of high-quality protein."
+    },
+    {
+      "q": "Does filet mignon have carbs?",
+      "a": "No carbs, fiber, or sugars—it's nearly all protein and fat."
+    },
+    {
+      "q": "How does cooking affect calories in filet mignon?",
+      "a": "Cooking reduces weight due to moisture loss, concentrating nutrients; values here are for cooked weight."
+    },
+    {
+      "q": "Is filet mignon low-fat?",
+      "a": "Yes, lean cuts have ~7.3 g fat per 100 g, but added oils or butter increase it."
+    }
+  ]
+}

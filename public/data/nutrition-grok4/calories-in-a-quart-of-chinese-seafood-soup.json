@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a quart of chinese seafood soup",
+  "title": "Calories in a Quart of Chinese Seafood Soup",
+  "meta_description": "Learn calories in a quart of chinese seafood soup, with protein, carbs, fat, sodium breakdown, and recipe tweaks for accuracy.",
+  "slug": "calories-in-a-quart-of-chinese-seafood-soup",
+  "h1": "Calories in a Quart of Chinese Seafood Soup",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "quart",
+    "item": "chinese seafood soup"
+  },
+  "assumptions": "Restaurant-style with shrimp, fish, vegetables, mushrooms in light broth; no added noodles or thickeners; approx. 946 ml per quart.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, restaurant, and portion size; soups can differ greatly—check labels or recipes when available.",
+  "quick_answer": {
+    "total_kcal": 426,
+    "text": "A quart of Chinese seafood soup offers about 426 kcal and 38 g protein."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 45,
+      "carbs_g": 3,
+      "fiber_g": 0.5,
+      "sugars_g": 1,
+      "protein_g": 4,
+      "fat_g": 2,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 426,
+    "carbs_g": 28.4,
+    "fiber_g": 4.7,
+    "sugars_g": 9.5,
+    "protein_g": 37.8,
+    "fat_g": 18.9,
+    "sat_fat_g": 4.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 189,
+    "sodium_mg": 4730
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.78
+  },
+  "tweaks": [
+    {
+      "label": "Add 50 g noodles per 100 ml",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 1106
+    },
+    {
+      "label": "Creamy version with coconut milk per 100 ml",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 662
+    },
+    {
+      "label": "Low-sodium broth (reduce salt per 100 ml)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 396
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a quart of chinese seafood soup?",
+      "a": "Approximately 426 kcal for a standard light broth version."
+    },
+    {
+      "q": "What's the protein in chinese seafood soup per quart?",
+      "a": "About 38 g protein from seafood and veggies."
+    },
+    {
+      "q": "Is chinese seafood soup high in sodium?",
+      "a": "Yes, around 4730 mg per quart due to broth and seasonings."
+    },
+    {
+      "q": "How do carbs in chinese seafood soup compare?",
+      "a": "Roughly 28 g carbs per quart, mostly from vegetables."
+    },
+    {
+      "q": "Does adding rice noodles change calories in chinese seafood soup?",
+      "a": "Yes, adding noodles can increase calories by 600+ per quart."
+    }
+  ]
+}

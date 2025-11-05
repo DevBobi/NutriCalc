@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a cup of black coffee",
+  "title": "How Many Calories in a Cup of Black Coffee?",
+  "meta_description": "Discover how many calories in a cup of black coffee—nearly zero—plus full nutrition breakdown, equivalents, and tweaks for variations like adding milk or sugar.",
+  "slug": "how-many-calories-in-a-cup-of-black-coffee",
+  "h1": "How Many Calories in a Cup of Black Coffee?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "black coffee"
+  },
+  "assumptions": "Brewed black coffee (no additives), standard 8 oz (240 ml) serving, from ground beans.",
+  "disclaimer": "Nutrition varies by brew method, bean type, and serving size; minimal for black coffee. Check product labels if applicable.",
+  "quick_answer": {
+    "total_kcal": 2,
+    "text": "A standard cup of black coffee contains about 2 calories with negligible macros."
+  },
+  "basis": {
+    "label": "per 1 cup (8 oz)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 2,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.3,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 2,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.3,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison; values are negligible for black coffee.",
+  "equivalents": {
+    "megajoules": 0.01
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 18
+    },
+    {
+      "label": "Add 1 tbsp 2% milk",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 10
+    },
+    {
+      "label": "Espresso shot instead (1 oz)",
+      "delta_kcal_per_unit": -1,
+      "new_total_kcal": 1
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cup of black coffee?",
+      "a": "Approximately 2 calories for an 8 oz serving."
+    },
+    {
+      "q": "Does black coffee have any protein or fat?",
+      "a": "Trace protein (~0.3 g) and zero fat per cup."
+    },
+    {
+      "q": "Is black coffee carb-free?",
+      "a": "Yes, 0 g carbs, fiber, or sugars in plain black coffee."
+    },
+    {
+      "q": "How does brewing method affect calories in black coffee?",
+      "a": "Minimal impact; all methods yield ~2 kcal per cup without additives."
+    },
+    {
+      "q": "What if I add cream to black coffee?",
+      "a": "1 tbsp heavy cream adds ~50 kcal, making total ~52 kcal."
+    }
+  ]
+}

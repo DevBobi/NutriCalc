@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken broccoli chinese",
+  "title": "Calories in Chicken Broccoli Chinese",
+  "meta_description": "Discover calories in chicken broccoli chinese dish per serving, including protein, carbs, fat, sodium details, and easy tweaks for your takeout favorite.",
+  "slug": "calories-in-chicken-broccoli-chinese",
+  "h1": "Calories in Chicken Broccoli Chinese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 250,
+    "unit": "g",
+    "item": "chicken broccoli chinese"
+  },
+  "assumptions": "Stir-fried boneless chicken breast with broccoli florets in a light soy-ginger sauce; standard Chinese restaurant style, no added rice.",
+  "disclaimer": "Nutrition varies by restaurant, portion size, sauce thickness, oil used, and ingredients; check menus or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 275,
+    "text": "250 g of chicken broccoli Chinese provides ~275 kcal and ~30 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 5,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 12,
+      "fat_g": 4,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 35,
+      "sodium_mg": 450
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 275,
+    "carbs_g": 12.5,
+    "fiber_g": 5,
+    "sugars_g": 2.5,
+    "protein_g": 30,
+    "fat_g": 10,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 87.5,
+    "sodium_mg": 1125
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.15
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp extra oyster sauce per 100 g",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 335
+    },
+    {
+      "label": "Use tofu instead of chicken per 100 g",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 175
+    },
+    {
+      "label": "Steam instead of stir-fry (less oil) per 100 g",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 230
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of chicken broccoli chinese?",
+      "a": "About 275 kcal for a 250 g serving."
+    },
+    {
+      "q": "Is chicken broccoli chinese high in protein?",
+      "a": "Yes, ~30 g protein per 250 g serving from the chicken."
+    },
+    {
+      "q": "What's the sodium content in chicken broccoli chinese?",
+      "a": "Around 1125 mg per 250 g due to soy sauce; watch if on a low-sodium diet."
+    },
+    {
+      "q": "Are there many carbs in chicken broccoli chinese?",
+      "a": "Low—about 12.5 g carbs per 250 g, mostly from veggies and sauce."
+    },
+    {
+      "q": "How to lower calories in chicken broccoli chinese?",
+      "a": "Opt for steamed preparation, less oil, or more broccoli and less sauce."
+    }
+  ]
+}

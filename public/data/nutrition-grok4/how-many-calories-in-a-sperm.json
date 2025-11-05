@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a sperm",
+  "title": "How Many Calories in a Sperm?",
+  "meta_description": "Discover how many calories in a sperm (ejaculation), including key nutrients like protein and carbs, based on average values and quick facts.",
+  "slug": "how-many-calories-in-a-sperm",
+  "h1": "How Many Calories in a Sperm?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "ejaculation",
+    "item": "sperm"
+  },
+  "assumptions": "Average human male ejaculation (~3-5 ml volume); composition includes water, fructose, proteins, and minerals; not intended as food.",
+  "disclaimer": "Values vary widely by individual health, hydration, diet, and volume; this is approximate and for informational purposes only. Consult professionals for health advice.",
+  "quick_answer": {
+    "total_kcal": 15,
+    "text": "One average ejaculation of sperm contains about 15 kcal, mostly from sugars and proteins."
+  },
+  "basis": {
+    "label": "per 1 ejaculation",
+    "amount": 1,
+    "unit": "ejaculation",
+    "nutrition": {
+      "calories_kcal": 15,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sugars_g": 1.5,
+      "protein_g": 1,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 30
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 15,
+    "carbs_g": 2,
+    "fiber_g": 0,
+    "sugars_g": 1.5,
+    "protein_g": 1,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 30
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.06
+  },
+  "tweaks": [
+    {
+      "label": "Higher volume ejaculation (5 ml vs. average 3 ml)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 25
+    },
+    {
+      "label": "Lower fructose content (diet variation)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 10
+    },
+    {
+      "label": "Add to a beverage (mixed with 100 ml water)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 15
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one sperm ejaculation?",
+      "a": "Approximately 15 kcal for an average 3-5 ml volume."
+    },
+    {
+      "q": "What nutrients are in sperm besides calories?",
+      "a": "About 1 g protein, 2 g carbs (mostly sugars), and trace fats/minerals."
+    },
+    {
+      "q": "Does sperm have any protein or carbs?",
+      "a": "Yes, ~1 g protein and ~2 g carbs per ejaculation, providing the calories."
+    },
+    {
+      "q": "How does volume affect calories in sperm?",
+      "a": "Larger volume (e.g., 5 ml) can increase to ~25 kcal; smaller to ~10 kcal."
+    },
+    {
+      "q": "Is sperm nutritious as a food source?",
+      "a": "It has minimal calories and nutrients; not recommended or significant for diet."
+    }
+  ]
+}

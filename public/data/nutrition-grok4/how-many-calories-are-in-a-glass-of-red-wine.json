@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a glass of red wine",
+  "title": "How Many Calories Are in a Glass of Red Wine?",
+  "meta_description": "Discover how many calories are in a glass of red wine—about 125 kcal per standard 150 ml serving—plus carbs, alcohol content, and variations for different types.",
+  "slug": "how-many-calories-are-in-a-glass-of-red-wine",
+  "h1": "How Many Calories Are in a Glass of Red Wine?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "glass",
+    "item": "red wine"
+  },
+  "assumptions": "Standard 5 oz (150 ml) serving of dry red wine, 13% ABV, no added sugar.",
+  "disclaimer": "Nutrition varies by wine type, brand, alcohol content, sweetness, and serving size. Check labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 125,
+    "text": "A standard glass of red wine contains about 125 calories, mostly from alcohol and carbs."
+  },
+  "basis": {
+    "label": "per 1 glass (150 ml)",
+    "amount": 1,
+    "unit": "glass",
+    "nutrition": {
+      "calories_kcal": 125,
+      "carbs_g": 3.8,
+      "fiber_g": 0,
+      "sugars_g": 0.9,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 125,
+    "carbs_g": 3.8,
+    "fiber_g": 0,
+    "sugars_g": 0.9,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 4
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.52
+  },
+  "tweaks": [
+    {
+      "label": "Sweet red wine (higher residual sugar)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Larger pour (6 oz or 175 ml)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Dry white wine instead",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a glass of red wine?",
+      "a": "Approximately 125 kcal for a standard 150 ml serving of dry red wine."
+    },
+    {
+      "q": "Does red wine have carbs?",
+      "a": "Yes, about 3.8 g carbs per glass, mainly from residual sugars and alcohol fermentation."
+    },
+    {
+      "q": "How does wine alcohol content affect calories?",
+      "a": "Higher ABV increases calories; 13% ABV is standard, but 15% adds ~15-20 kcal per glass."
+    },
+    {
+      "q": "Are there calories in dealcoholized red wine?",
+      "a": "Much lower—around 20-30 kcal per glass, from carbs only, without alcohol's contribution."
+    },
+    {
+      "q": "What serving size is a standard glass of red wine?",
+      "a": "Typically 5 oz (150 ml), but pours vary; always measure for accuracy."
+    }
+  ]
+}

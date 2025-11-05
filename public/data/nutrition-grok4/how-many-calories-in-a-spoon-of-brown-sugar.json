@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a spoon of brown sugar",
+  "title": "How Many Calories in a Spoon of Brown Sugar?",
+  "meta_description": "Discover how many calories in a spoon of brown sugar, including carbs, sugars, and nutrition breakdown per teaspoon basis with quick tweaks and FAQs.",
+  "slug": "how-many-calories-in-a-spoon-of-brown-sugar",
+  "h1": "How Many Calories in a Spoon of Brown Sugar?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "spoon",
+    "item": "brown sugar"
+  },
+  "assumptions": "Assuming 1 level teaspoon (4 g) of packed brown sugar; no additives.",
+  "disclaimer": "Nutrition varies by brand, packing density, moisture content, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 15,
+    "text": "A spoon of brown sugar contains about 15 calories, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 teaspoon (4 g)",
+    "amount": 1,
+    "unit": "spoon",
+    "nutrition": {
+      "calories_kcal": 15,
+      "carbs_g": 3.9,
+      "fiber_g": 0,
+      "sugars_g": 3.9,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 15,
+    "carbs_g": 3.9,
+    "fiber_g": 0,
+    "sugars_g": 3.9,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.06
+  },
+  "tweaks": [
+    {
+      "label": "Packed teaspoon (vs. level)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 18
+    },
+    {
+      "label": "Use white granulated sugar instead",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 15
+    },
+    {
+      "label": "Tablespoon (3 tsp equivalent)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 45
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a spoon of brown sugar?",
+      "a": "About 15 kcal for one level teaspoon (4 g)."
+    },
+    {
+      "q": "Is brown sugar higher in calories than white?",
+      "a": "Similar; both around 15 kcal per teaspoon, but brown has slight molasses flavor."
+    },
+    {
+      "q": "What's the carb content in a spoon of brown sugar?",
+      "a": "Nearly 4 g carbs, all from sugars, with 0 g fiber or protein."
+    },
+    {
+      "q": "Does packing affect calories in brown sugar?",
+      "a": "Yes; a packed teaspoon adds ~3 kcal due to more sugar (about 5 g)."
+    },
+    {
+      "q": "How does brown sugar nutrition compare per 100 g?",
+      "a": "About 380 kcal, 98 g carbs (97 g sugars), 0 g fat or protein per 100 g."
+    }
+  ]
+}

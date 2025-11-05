@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ritas ice",
+  "title": "Calories in Rita's Italian Ice",
+  "meta_description": "Learn calories in ritas ice for a small serving, plus carbs, sugars, full nutrition breakdown, and serving tweaks to fit your diet.",
+  "slug": "calories-in-ritas-ice",
+  "h1": "Calories in Rita's Italian Ice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small serving",
+    "item": "Rita's Italian Ice"
+  },
+  "assumptions": "Small serving (6 oz / 170 g), average fruit flavor like cherry or lemon, no added toppings or custard.",
+  "disclaimer": "Nutrition varies by flavor, serving size, brand specifics, and customizations. Check Rita's menu or app for exact values.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A small serving of Rita's Italian Ice contains about 250 calories, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 small serving",
+    "amount": 1,
+    "unit": "small serving",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 62,
+      "fiber_g": 0,
+      "sugars_g": 58,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 62,
+    "fiber_g": 0,
+    "sugars_g": 58,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add vanilla custard (gelati style)",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Choose sugar-free flavor option",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Large serving instead of small",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small Rita's Italian Ice?",
+      "a": "Approximately 250 calories for a standard small serving."
+    },
+    {
+      "q": "What are the carbs in ritas ice?",
+      "a": "About 62 g carbs per small serving, nearly all from sugars with 0 g fiber."
+    },
+    {
+      "q": "Is Rita's Italian Ice low-fat?",
+      "a": "Yes, 0 g fat per serving, making it a lighter frozen treat option."
+    },
+    {
+      "q": "Do calories vary by flavor in ritas ice?",
+      "a": "Slightly; fruit flavors like lemon are around 250 kcal, while others may differ by 20-50 kcal."
+    },
+    {
+      "q": "How does gelati affect calories in ritas ice?",
+      "a": "Adding custard increases calories by about 150, totaling around 400 kcal for a small gelati."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a frosty",
+  "title": "Calories in a Frosty",
+  "meta_description": "Learn calories in a frosty with full nutrition for a medium Wendy's Chocolate Frosty: 470 kcal, macros, fiber, sugars, and easy tweaks for sizes.",
+  "slug": "calories-in-a-frosty",
+  "h1": "Calories in a Frosty",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "frosty",
+    "item": "frosty"
+  },
+  "assumptions": "Medium Wendy's Chocolate Frosty (16 oz serving); based on official nutrition data, no toppings added.",
+  "disclaimer": "Nutrition varies by size, flavor, location, and customizations. Check Wendy's app or labels for latest values.",
+  "quick_answer": {
+    "total_kcal": 470,
+    "text": "A medium Wendy's Chocolate Frosty contains about 470 calories and 12 g protein."
+  },
+  "basis": {
+    "label": "per 1 medium frosty",
+    "amount": 1,
+    "unit": "frosty",
+    "nutrition": {
+      "calories_kcal": 470,
+      "carbs_g": 76,
+      "fiber_g": 2,
+      "sugars_g": 64,
+      "protein_g": 12,
+      "fat_g": 14,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 40,
+      "sodium_mg": 280
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 470,
+    "carbs_g": 76,
+    "fiber_g": 2,
+    "sugars_g": 64,
+    "protein_g": 12,
+    "fat_g": 14,
+    "sat_fat_g": 9,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 40,
+    "sodium_mg": 280
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.97
+  },
+  "tweaks": [
+    {
+      "label": "Small size (12 oz) instead of medium",
+      "delta_kcal_per_unit": -130,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Large size (20 oz) instead of medium",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 590
+    },
+    {
+      "label": "Add whipped cream and cherry topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 520
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small Frosty?",
+      "a": "A small Wendy's Chocolate Frosty has about 340 calories."
+    },
+    {
+      "q": "What are the carbs in a Frosty?",
+      "a": "A medium Frosty has 76 g total carbs, including 64 g sugars and 2 g fiber."
+    },
+    {
+      "q": "Is a Frosty high in sugar?",
+      "a": "Yes, a medium has 64 g sugars, mostly from milk and chocolate syrup."
+    },
+    {
+      "q": "How much protein in a Frosty?",
+      "a": "About 12 g protein per medium Frosty from dairy ingredients."
+    },
+    {
+      "q": "Calories in a vanilla Frosty vs. chocolate?",
+      "a": "Similar; a medium vanilla has around 460 kcal, slightly less sugar."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in fried catfish fillet",
+  "title": "Calories in Fried Catfish Fillet",
+  "meta_description": "Discover calories in fried catfish fillet, including protein, fat, carbs, full nutrition breakdown per serving, and preparation tweaks for healthier options.",
+  "slug": "calories-in-fried-catfish-fillet",
+  "h1": "Calories in Fried Catfish Fillet",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "fillet",
+    "item": "fried catfish"
+  },
+  "assumptions": "Breaded with cornmeal batter, deep-fried in vegetable oil; standard 100g fillet portion; no added sauces or sides.",
+  "disclaimer": "Nutrition varies by fish size, breading type, oil used, frying time, and portion; check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "One fried catfish fillet (100g) contains about 220 kcal and 18 g protein."
+  },
+  "basis": {
+    "label": "per 1 fried catfish fillet (100 g)",
+    "amount": 1,
+    "unit": "fillet",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 10,
+      "fiber_g": 0.5,
+      "sugars_g": 0.5,
+      "protein_g": 18,
+      "fat_g": 12,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 55,
+      "sodium_mg": 350
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 10,
+    "fiber_g": 0.5,
+    "sugars_g": 0.5,
+    "protein_g": 18,
+    "fat_g": 12,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 55,
+    "sodium_mg": 350
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (no added oil)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Add 2 tbsp tartar sauce",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Gluten-free breading (cornmeal only)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one fried catfish fillet?",
+      "a": "Approximately 220 kcal for a standard 100g breaded and fried fillet."
+    },
+    {
+      "q": "What's the protein in fried catfish fillet?",
+      "a": "About 18 g protein per 100g serving, making it a good lean source."
+    },
+    {
+      "q": "Does frying catfish add a lot of fat?",
+      "a": "Yes, frying adds about 12 g total fat per fillet, mostly from oil absorption."
+    },
+    {
+      "q": "Are there carbs in fried catfish?",
+      "a": "Around 10 g carbs per fillet, primarily from the breading or batter."
+    },
+    {
+      "q": "How to reduce calories in fried catfish fillet?",
+      "a": "Opt for baking, air-frying, or lighter breading to cut 80-100 kcal per serving."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in penn station",
+  "title": "Calories in Penn Station Sub",
+  "meta_description": "Discover calories in Penn Station subs like a standard 6-inch grilled chicken option, plus full nutrition breakdown, macros, and tweaks for customization.",
+  "slug": "calories-in-penn-station",
+  "h1": "Calories in Penn Station Sub",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sub",
+    "item": "Penn Station sub"
+  },
+  "assumptions": "6-inch grilled chicken sub with provolone cheese, mushrooms, onions, banana peppers, and mayo on a white roll; no extra sauces or sides.",
+  "disclaimer": "Nutrition varies by location, exact ingredients, portion size, and customizations. Check Penn Station's menu or app for latest values.",
+  "quick_answer": {
+    "total_kcal": 510,
+    "text": "A standard 6-inch Penn Station grilled chicken sub provides ~510 kcal and 36 g protein."
+  },
+  "basis": {
+    "label": "per 1 6-inch sub",
+    "amount": 1,
+    "unit": "sub",
+    "nutrition": {
+      "calories_kcal": 510,
+      "carbs_g": 48,
+      "fiber_g": 4,
+      "sugars_g": 6,
+      "protein_g": 36,
+      "fat_g": 18,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 510,
+    "carbs_g": 48,
+    "fiber_g": 4,
+    "sugars_g": 6,
+    "protein_g": 36,
+    "fat_g": 18,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 70,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.13
+  },
+  "tweaks": [
+    {
+      "label": "Add a side of Penn Station fries",
+      "delta_kcal_per_unit": 350,
+      "new_total_kcal": 860
+    },
+    {
+      "label": "Upgrade to 12-inch sub size",
+      "delta_kcal_per_unit": 510,
+      "new_total_kcal": 1020
+    },
+    {
+      "label": "No mayo and extra veggies",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 420
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Penn Station 6-inch sub?",
+      "a": "About 510 kcal for a standard grilled chicken sub."
+    },
+    {
+      "q": "What are the macros for Penn Station subs?",
+      "a": "Typically 36 g protein, 18 g fat, 48 g carbs per 6-inch chicken sub."
+    },
+    {
+      "q": "Are Penn Station subs high in sodium?",
+      "a": "Yes, around 1200 mg sodium per 6-inch sub due to cheese, mayo, and roll."
+    },
+    {
+      "q": "Calories in Penn Station steak sub?",
+      "a": "Similar to chicken; a 6-inch steak sub is about 590 kcal."
+    },
+    {
+      "q": "How to lower calories in Penn Station orders?",
+      "a": "Opt for no mayo, wheat roll, or half portions to reduce by 100-200 kcal."
+    }
+  ]
+}

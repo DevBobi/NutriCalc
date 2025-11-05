@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 4 cup sugar",
+  "title": "Calories in 1/4 Cup Sugar",
+  "meta_description": "Discover calories in 1 4 cup sugar, including carbs, sugars, and full nutrition breakdown per serving with quick tweaks and FAQs.",
+  "slug": "calories-in-1-4-cup-sugar",
+  "h1": "Calories in 1/4 Cup Sugar",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 0.25,
+    "unit": "cup",
+    "item": "sugar"
+  },
+  "assumptions": "Granulated white sugar, unpacked; 1/4 cup ≈ 50 g.",
+  "disclaimer": "Nutrition varies by type (white, brown), brand, packing density, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 194,
+    "text": "1/4 cup granulated sugar provides about 194 calories, all from carbohydrates."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 387,
+      "carbs_g": 100,
+      "fiber_g": 0,
+      "sugars_g": 100,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 194,
+    "carbs_g": 50,
+    "fiber_g": 0,
+    "sugars_g": 50,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0.5
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.81
+  },
+  "tweaks": [
+    {
+      "label": "Use brown sugar (unpacked)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 197
+    },
+    {
+      "label": "Use powdered sugar (sifted)",
+      "delta_kcal_per_unit": -74,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Packed granulated sugar",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 234
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1/4 cup white sugar?",
+      "a": "Approximately 194 calories for unpacked granulated white sugar."
+    },
+    {
+      "q": "Is sugar all carbs?",
+      "a": "Yes, 100% carbohydrates, with 50 g total sugars in 1/4 cup."
+    },
+    {
+      "q": "Calories in 1 cup of sugar?",
+      "a": "About 774 calories for 1 full cup (200 g) granulated sugar."
+    },
+    {
+      "q": "Does brown sugar have more calories than white?",
+      "a": "Similar—about 197 kcal in 1/4 cup unpacked brown sugar."
+    },
+    {
+      "q": "Any protein or fat in sugar?",
+      "a": "No protein or fat; it's pure carbs with 0 g fiber."
+    }
+  ]
+}

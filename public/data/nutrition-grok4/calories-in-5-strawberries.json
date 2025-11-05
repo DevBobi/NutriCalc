@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 5 strawberries",
+  "title": "Calories in 5 Strawberries",
+  "meta_description": "Learn calories in 5 strawberries, plus carbs, fiber, sugars, protein, and full nutrition breakdown per serving for easy tracking.",
+  "slug": "calories-in-5-strawberries",
+  "h1": "Calories in 5 Strawberries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 5,
+    "unit": "strawberry",
+    "item": "strawberry"
+  },
+  "assumptions": "Fresh, medium-sized strawberries (about 12 g each), raw, with hulls removed.",
+  "disclaimer": "Nutrition varies by size, ripeness, variety, and growing conditions. Check labels for packaged berries when available.",
+  "quick_answer": {
+    "total_kcal": 20,
+    "text": "Five medium strawberries offer about 20 kcal, mainly from natural sugars and fiber."
+  },
+  "basis": {
+    "label": "per 1 medium strawberry",
+    "amount": 1,
+    "unit": "strawberry",
+    "nutrition": {
+      "calories_kcal": 4,
+      "carbs_g": 0.9,
+      "fiber_g": 0.2,
+      "sugars_g": 0.6,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 20,
+    "carbs_g": 4.5,
+    "fiber_g": 1,
+    "sugars_g": 3,
+    "protein_g": 0.5,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Sprinkle 1 tsp sugar on all 5 strawberries",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 35
+    },
+    {
+      "label": "Use large strawberries (18 g each vs. medium)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 30
+    },
+    {
+      "label": "Add 1 tbsp whipped cream to the serving",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 45
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one strawberry?",
+      "a": "About 4 kcal for a medium fresh strawberry."
+    },
+    {
+      "q": "Are strawberries low in carbs?",
+      "a": "Yes, 5 strawberries have ~4.5 g carbs, mostly natural sugars with 1 g fiber."
+    },
+    {
+      "q": "Do strawberries have protein or fat?",
+      "a": "Minimal—0.5 g protein and 0.2 g fat total for 5 strawberries."
+    },
+    {
+      "q": "Calories in frozen strawberries vs. fresh?",
+      "a": "Similar at ~20 kcal for 5 medium, but frozen may have slight variations from processing."
+    },
+    {
+      "q": "What affects calories in strawberries?",
+      "a": "Size and added toppings like sugar or cream; fresh ones are naturally low-cal."
+    }
+  ]
+}

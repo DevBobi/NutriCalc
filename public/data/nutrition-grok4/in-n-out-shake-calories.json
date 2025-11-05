@@ -1,0 +1,92 @@
+{
+  "keyword": "in n out shake calories",
+  "title": "Calories in In-N-Out Shake",
+  "meta_description": "Discover in n out shake calories, plus full nutrition breakdown including carbs, protein, fat, and quick tweaks for variations.",
+  "slug": "in-n-out-shake-calories",
+  "h1": "Calories in In-N-Out Shake",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shake",
+    "item": "In-N-Out shake"
+  },
+  "assumptions": "Standard 16 oz milkshake (vanilla, chocolate, or strawberry flavor); includes ice cream, milk, and syrup; no toppings.",
+  "disclaimer": "Nutrition varies by flavor, portion size, and customizations; values based on In-N-Out's standard recipe. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 590,
+    "text": "One In-N-Out shake contains about 590 kcal, with high sugar from the ice cream base."
+  },
+  "basis": {
+    "label": "per 1 shake (16 oz)",
+    "amount": 1,
+    "unit": "shake",
+    "nutrition": {
+      "calories_kcal": 590,
+      "carbs_g": 72,
+      "fiber_g": 0,
+      "sugars_g": 66,
+      "protein_g": 13,
+      "fat_g": 8,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 320
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 590,
+    "carbs_g": 72,
+    "fiber_g": 0,
+    "sugars_g": 66,
+    "protein_g": 13,
+    "fat_g": 8,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 320
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.47
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate flavor (vs. vanilla)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 600
+    },
+    {
+      "label": "Strawberry flavor with extra syrup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 610
+    },
+    {
+      "label": "Made with low-fat milk",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 540
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an In-N-Out shake?",
+      "a": "Approximately 590 kcal for one standard 16 oz shake."
+    },
+    {
+      "q": "What's the sugar content in In-N-Out shake calories?",
+      "a": "About 66 g of sugars, mostly from ice cream and flavoring."
+    },
+    {
+      "q": "Are In-N-Out shakes high in fat?",
+      "a": "8 g total fat per shake, with 5 g saturated; moderate for a dessert."
+    },
+    {
+      "q": "Do flavors affect In-N-Out shake calories?",
+      "a": "Minimal difference—chocolate or strawberry adds ~10-20 kcal vs. vanilla."
+    },
+    {
+      "q": "How much protein in an In-N-Out shake?",
+      "a": "Around 13 g, from the milk and ice cream base."
+    }
+  ]
+}

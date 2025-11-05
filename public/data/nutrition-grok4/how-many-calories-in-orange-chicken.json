@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in orange chicken",
+  "title": "How Many Calories in Orange Chicken?",
+  "meta_description": "Discover how many calories in orange chicken per typical serving, including carbs, protein, fat, sodium, and easy tweaks for healthier options.",
+  "slug": "how-many-calories-in-orange-chicken",
+  "h1": "How Many Calories in Orange Chicken?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "orange chicken"
+  },
+  "assumptions": "Restaurant-style (e.g., similar to fast-food chains); breaded, fried chicken pieces in sweet orange sauce; ~240g per serving.",
+  "disclaimer": "Nutrition varies by restaurant, recipe, portion size, frying method, and sauce amount. Check menus or labels when available.",
+  "quick_answer": {
+    "total_kcal": 490,
+    "text": "A standard serving of orange chicken contains about 490 kcal, with high carbs from the sauce."
+  },
+  "basis": {
+    "label": "per 1 serving (~240g)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 490,
+      "carbs_g": 51,
+      "fiber_g": 2,
+      "sugars_g": 19,
+      "protein_g": 22,
+      "fat_g": 23,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 55,
+      "sodium_mg": 820
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 490,
+    "carbs_g": 51,
+    "fiber_g": 2,
+    "sugars_g": 19,
+    "protein_g": 22,
+    "fat_g": 23,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 55,
+    "sodium_mg": 820
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.05
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (reduces oil absorption)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Less sauce (half the sweet glaze)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Add steamed broccoli (per serving side)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 525
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of orange chicken?",
+      "a": "Approximately 490 kcal for a typical restaurant serving."
+    },
+    {
+      "q": "Is orange chicken high in carbs?",
+      "a": "Yes, about 51g carbs per serving, mostly from the sugary sauce."
+    },
+    {
+      "q": "How much protein in orange chicken?",
+      "a": "Around 22g protein per serving from the chicken."
+    },
+    {
+      "q": "Why is orange chicken so high in sodium?",
+      "a": "Due to soy sauce and seasonings; ~820mg per serving."
+    },
+    {
+      "q": "Can I make orange chicken lower in calories?",
+      "a": "Yes, bake the chicken and reduce sauce for ~340-390 kcal per serving."
+    }
+  ]
+}

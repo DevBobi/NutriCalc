@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a chicken quesadilla",
+  "title": "How Many Calories in a Chicken Quesadilla?",
+  "meta_description": "Discover how many calories in a chicken quesadilla, including full nutrition breakdown, protein, carbs, fat, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-chicken-quesadilla",
+  "h1": "How Many Calories in a Chicken Quesadilla?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "quesadilla",
+    "item": "chicken quesadilla"
+  },
+  "assumptions": "8-inch flour tortilla, 100g grilled chicken breast, 50g cheddar cheese, onions/peppers, cooked with 1 tsp oil; no sour cream or salsa.",
+  "disclaimer": "Nutrition varies by recipe, portion size, cheese type, cooking method, and added toppings. Check restaurant info or labels when available.",
+  "quick_answer": {
+    "total_kcal": 550,
+    "text": "A standard chicken quesadilla has about 550 kcal and 35 g protein."
+  },
+  "basis": {
+    "label": "per 1 quesadilla",
+    "amount": 1,
+    "unit": "quesadilla",
+    "nutrition": {
+      "calories_kcal": 550,
+      "carbs_g": 45,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 35,
+      "fat_g": 28,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 100,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 550,
+    "carbs_g": 45,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 35,
+    "fat_g": 28,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 100,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.3
+  },
+  "tweaks": [
+    {
+      "label": "Add 2 tbsp sour cream",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 610
+    },
+    {
+      "label": "Use low-fat cheese (50g)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 470
+    },
+    {
+      "label": "Vegetarian version (no chicken, extra veggies)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chicken quesadilla from a restaurant?",
+      "a": "Typically 500-700 kcal; homemade versions like this are around 550 kcal."
+    },
+    {
+      "q": "What's the protein in a chicken quesadilla?",
+      "a": "About 35 g from the chicken and cheese."
+    },
+    {
+      "q": "Are chicken quesadillas high in sodium?",
+      "a": "Yes, around 1200 mg due to cheese and tortilla seasoning."
+    },
+    {
+      "q": "How to make a lower-calorie chicken quesadilla?",
+      "a": "Use low-fat cheese, whole wheat tortilla, and skip added oil for ~400 kcal."
+    },
+    {
+      "q": "Does the tortilla type affect calories in a chicken quesadilla?",
+      "a": "Flour tortillas add ~200 kcal; corn or low-carb options reduce it by 50-100 kcal."
+    }
+  ]
+}

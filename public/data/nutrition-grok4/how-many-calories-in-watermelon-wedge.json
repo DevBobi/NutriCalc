@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in watermelon wedge",
+  "title": "How Many Calories in a Watermelon Wedge?",
+  "meta_description": "Discover how many calories in watermelon wedge (about 86 kcal for a 286g serving), plus carbs, protein, fiber, and nutrition tweaks for your snack.",
+  "slug": "how-many-calories-in-watermelon-wedge",
+  "h1": "How Many Calories in a Watermelon Wedge?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "wedge",
+    "item": "watermelon"
+  },
+  "assumptions": "Fresh, seedless watermelon flesh only; typical wedge ~286 g (1/8 of a medium watermelon), no rind or added ingredients.",
+  "disclaimer": "Nutrition varies by variety, ripeness, portion size, and growing conditions. Check fresh produce labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 86,
+    "text": "A standard watermelon wedge (286 g) contains about 86 calories, mostly from natural sugars, with high water content for hydration."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 30,
+      "carbs_g": 7.6,
+      "fiber_g": 0.4,
+      "sugars_g": 6.2,
+      "protein_g": 0.6,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 86,
+    "carbs_g": 21.7,
+    "fiber_g": 1.1,
+    "sugars_g": 17.7,
+    "protein_g": 1.7,
+    "fat_g": 0.6,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with fresh produce.",
+  "equivalents": {
+    "megajoules": 0.36
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp lime juice",
+      "delta_kcal_per_unit": 4,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "With 1 oz crumbled feta cheese",
+      "delta_kcal_per_unit": 75,
+      "new_total_kcal": 161
+    },
+    {
+      "label": "Smaller wedge (150 g)",
+      "delta_kcal_per_unit": -45,
+      "new_total_kcal": 41
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one watermelon wedge?",
+      "a": "Approximately 86 kcal for a 286 g wedge."
+    },
+    {
+      "q": "Is watermelon low in calories per wedge?",
+      "a": "Yes, a wedge is only 86 kcal and 91% water, making it a hydrating, low-calorie treat."
+    },
+    {
+      "q": "How much sugar in a watermelon wedge?",
+      "a": "About 17.7 g of natural sugars from the fruit's carbs."
+    },
+    {
+      "q": "Does a watermelon wedge have fiber?",
+      "a": "Yes, roughly 1.1 g of dietary fiber per 286 g wedge."
+    },
+    {
+      "q": "How does wedge size affect calories in watermelon?",
+      "a": "Larger wedges (e.g., 400 g) would have ~120 kcal; scale by weight for accuracy."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cocktail shrimp",
+  "title": "Calories in Cocktail Shrimp",
+  "meta_description": "Discover calories in cocktail shrimp per 100 g serving, including protein, fat, carbs, and full nutrition breakdown for easy tracking.",
+  "slug": "calories-in-cocktail-shrimp",
+  "h1": "Calories in Cocktail Shrimp",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "cocktail shrimp"
+  },
+  "assumptions": "Peeled, deveined, cooked (boiled or steamed), chilled; no added sauce, salt, or seasonings.",
+  "disclaimer": "Nutrition varies by shrimp size, cooking method, added salt, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 99,
+    "text": "100 g of cocktail shrimp provides ~99 kcal and ~24 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 99,
+      "carbs_g": 0.2,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 161,
+      "sodium_mg": 111
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 99,
+    "carbs_g": 0.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 24,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 161,
+    "sodium_mg": 111
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "With 1 tbsp cocktail sauce per 100 g",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 124
+    },
+    {
+      "label": "Breaded and fried (vs. boiled) per 100 g",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 199
+    },
+    {
+      "label": "Add 1 tsp olive oil for sautéing per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 139
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g cocktail shrimp?",
+      "a": "About 99 kcal for 100 g cooked, peeled cocktail shrimp."
+    },
+    {
+      "q": "What's the protein in cocktail shrimp?",
+      "a": "Roughly 24 g protein per 100 g, making it a lean seafood option."
+    },
+    {
+      "q": "Do cocktail shrimp have carbs?",
+      "a": "Very low—only 0.2 g carbs per 100 g, with 0 g fiber and sugars."
+    },
+    {
+      "q": "Is cholesterol high in cocktail shrimp?",
+      "a": "Yes, about 161 mg per 100 g, mostly from the natural shrimp content."
+    },
+    {
+      "q": "How does preparation affect calories in cocktail shrimp?",
+      "a": "Boiled/steamed is lowest; frying or adding sauce can add 25–100 kcal per 100 g."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in baked beans",
+  "title": "Calories in Baked Beans",
+  "meta_description": "Discover calories in baked beans per cup and 100g, including carbs, protein, fiber, sodium details, and preparation tweaks for better nutrition tracking.",
+  "slug": "calories-in-baked-beans",
+  "h1": "Calories in Baked Beans",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "baked beans"
+  },
+  "assumptions": "Canned baked beans in tomato sauce, vegetarian style, standard serving (246 g per cup), drained solids.",
+  "disclaimer": "Nutrition varies by brand, recipe (e.g., added sugar or meat), serving size, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 295,
+    "text": "One cup of canned baked beans provides ~295 kcal, 12 g protein, and 15 g fiber."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 22,
+      "fiber_g": 6,
+      "sugars_g": 8,
+      "protein_g": 6,
+      "fat_g": 0.5,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 295,
+    "carbs_g": 54,
+    "fiber_g": 15,
+    "sugars_g": 20,
+    "protein_g": 15,
+    "fat_g": 1.2,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 984
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.23
+  },
+  "tweaks": [
+    {
+      "label": "With added bacon (2 strips per cup)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 375
+    },
+    {
+      "label": "Low-sugar variety (reduce added sugars)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 255
+    },
+    {
+      "label": "Homemade with less salt (per cup)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 295
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of baked beans?",
+      "a": "About 295 kcal for one cup (246 g) of canned baked beans."
+    },
+    {
+      "q": "Are baked beans high in protein?",
+      "a": "Yes, ~15 g protein per cup, plus good fiber from beans."
+    },
+    {
+      "q": "What's the sodium content in baked beans?",
+      "a": "Around 984 mg per cup; opt for low-sodium versions to reduce."
+    },
+    {
+      "q": "Do baked beans have a lot of sugar?",
+      "a": "Typically 20 g sugars per cup from sauce; check labels for added sugars."
+    },
+    {
+      "q": "How do calories in baked beans compare to other beans?",
+      "a": "Higher than plain beans due to sauce (~120 kcal/100g vs. 80-100 kcal for plain)."
+    }
+  ]
+}

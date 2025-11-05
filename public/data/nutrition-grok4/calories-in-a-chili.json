@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a chili",
+  "title": "Calories in a Chili",
+  "meta_description": "Learn calories in a chili serving, plus full nutrition breakdown including protein, carbs, fat, and easy tweaks for variations.",
+  "slug": "calories-in-a-chili",
+  "h1": "Calories in a Chili",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "chili"
+  },
+  "assumptions": "Standard beef chili con carne with ground beef, kidney beans, tomatoes, onions, and spices; 1 cup (245 g) serving, homemade without added cheese or toppings.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, portion size, and preparation method. Check labels for canned or restaurant versions.",
+  "quick_answer": {
+    "total_kcal": 286,
+    "text": "One cup of beef chili provides about 286 kcal and 17 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 286,
+      "carbs_g": 23,
+      "fiber_g": 6,
+      "sugars_g": 5,
+      "protein_g": 17,
+      "fat_g": 14,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 40,
+      "sodium_mg": 900
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 286,
+    "carbs_g": 23,
+    "fiber_g": 6,
+    "sugars_g": 5,
+    "protein_g": 17,
+    "fat_g": 14,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 40,
+    "sodium_mg": 900
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 1.2
+  },
+  "tweaks": [
+    {
+      "label": "Vegetarian version (no beef, extra beans)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 206
+    },
+    {
+      "label": "Add 1 oz shredded cheddar cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 396
+    },
+    {
+      "label": "Turkey chili (ground turkey instead of beef)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 256
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bowl of chili?",
+      "a": "About 286 kcal for a 1-cup serving of beef chili."
+    },
+    {
+      "q": "Is chili high in protein?",
+      "a": "Yes, one serving has around 17 g protein from beef and beans."
+    },
+    {
+      "q": "What's the carb count in a chili?",
+      "a": "Approximately 23 g carbs, including 6 g fiber, per cup."
+    },
+    {
+      "q": "How does canned chili compare in calories?",
+      "a": "Canned versions often have 200-300 kcal per cup but higher sodium; check the label."
+    },
+    {
+      "q": "Can I make low-calorie chili?",
+      "a": "Yes, use lean turkey, more veggies, and less oil to drop calories below 200 per serving."
+    }
+  ]
+}

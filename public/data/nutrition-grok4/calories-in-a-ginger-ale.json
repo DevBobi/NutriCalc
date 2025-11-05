@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a ginger ale",
+  "title": "Calories in a Ginger Ale",
+  "meta_description": "Learn calories in a ginger ale for a standard 12 oz serving, including carbs, sugars, sodium, and quick diet tweaks to adjust intake.",
+  "slug": "calories-in-a-ginger-ale",
+  "h1": "Calories in a Ginger Ale",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "ginger ale"
+  },
+  "assumptions": "Regular ginger ale, 12 fl oz (355 ml) can, carbonated soft drink like Canada Dry; includes ginger flavoring and sugar.",
+  "disclaimer": "Nutrition varies by brand, serving size, and formulation (e.g., high-fructose corn syrup vs. cane sugar). Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "A standard 12 oz can of ginger ale contains about 140 calories, primarily from sugars."
+  },
+  "basis": {
+    "label": "per 12 oz can",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 36,
+      "fiber_g": 0,
+      "sugars_g": 36,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 36,
+    "fiber_g": 0,
+    "sugars_g": 36,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 50
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Switch to diet ginger ale (sugar-free)",
+      "delta_kcal_per_unit": -140,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Homemade with half the sugar",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Add a splash of real ginger juice",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 145
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a ginger ale?",
+      "a": "About 140 calories in a standard 12 oz can of regular ginger ale."
+    },
+    {
+      "q": "Are there carbs in ginger ale?",
+      "a": "Yes, around 36 g of carbs per 12 oz can, all from sugars with 0 g fiber."
+    },
+    {
+      "q": "What's the sugar content in a ginger ale?",
+      "a": "Typically 36 g of sugars per 12 oz serving, equivalent to about 9 teaspoons."
+    },
+    {
+      "q": "How many calories in diet ginger ale?",
+      "a": "Zero calories, as it's sweetened with artificial sweeteners instead of sugar."
+    },
+    {
+      "q": "Does ginger ale have sodium?",
+      "a": "Yes, about 50 mg per 12 oz can, mainly from added ingredients."
+    }
+  ]
+}

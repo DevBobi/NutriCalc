@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 5 oz salmon",
+  "title": "Calories in 5 oz Salmon",
+  "meta_description": "Discover calories in 5 oz salmon, including protein, fat, carbs, full nutrition breakdown per 100 g basis, and preparation tweaks for better tracking.",
+  "slug": "calories-in-5-oz-salmon",
+  "h1": "Calories in 5 oz Salmon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 5,
+    "unit": "oz",
+    "item": "salmon"
+  },
+  "assumptions": "Farmed Atlantic salmon fillet, baked or grilled, skinless; no added oil, salt, or seasonings; 5 oz ≈142 g.",
+  "disclaimer": "Nutrition varies by salmon type (wild vs. farmed), cut, cooking method, and portion size. Check labels or sources for precision.",
+  "quick_answer": {
+    "total_kcal": 292,
+    "text": "5 oz cooked salmon offers ~292 kcal and ~31 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 206,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 22,
+      "fat_g": 12,
+      "sat_fat_g": 2.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 55,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 292,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 31,
+    "fat_g": 17,
+    "sat_fat_g": 3.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 78,
+    "sodium_mg": 71
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.22
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil per 100 g during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 332
+    },
+    {
+      "label": "Use wild salmon (leaner, fewer calories per 100 g)",
+      "delta_kcal_per_unit": -24,
+      "new_total_kcal": 248
+    },
+    {
+      "label": "Skin-on preparation (adds fat per 100 g)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 359
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 5 oz cooked salmon?",
+      "a": "Approximately 292 kcal for baked, skinless farmed salmon."
+    },
+    {
+      "q": "What's the protein in 5 oz salmon?",
+      "a": "About 31 g of high-quality protein."
+    },
+    {
+      "q": "Does salmon have carbs?",
+      "a": "No carbs, fiber, or sugars in plain cooked salmon."
+    },
+    {
+      "q": "Wild vs. farmed salmon calories?",
+      "a": "Wild is leaner (~182 kcal/100 g) vs. farmed (~206 kcal/100 g); adjust for type."
+    },
+    {
+      "q": "How does cooking affect salmon calories?",
+      "a": "Baking/grilling keeps calories steady; frying with oil adds ~40 kcal per tsp per 100 g."
+    }
+  ]
+}

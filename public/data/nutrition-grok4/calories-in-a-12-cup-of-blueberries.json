@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a 12 cup of blueberries",
+  "title": "Calories in a 1/2 Cup of Blueberries",
+  "meta_description": "Discover calories in a 1/2 cup of blueberries, including carbs, fiber, sugars, protein, and full nutrition breakdown per serving.",
+  "slug": "calories-in-a-12-cup-of-blueberries",
+  "h1": "Calories in a 1/2 Cup of Blueberries",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 0.5,
+    "unit": "cup",
+    "item": "blueberries"
+  },
+  "assumptions": "Fresh, raw blueberries; 1 cup ≈148 g, so 1/2 cup ≈74 g; no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by variety, ripeness, and cultivation; values are averages. Check labels for packaged berries.",
+  "quick_answer": {
+    "total_kcal": 42,
+    "text": "A 1/2 cup of fresh blueberries provides ~42 kcal and ~2 g fiber."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 84,
+      "carbs_g": 21.5,
+      "fiber_g": 3.6,
+      "sugars_g": 14.9,
+      "protein_g": 1.1,
+      "fat_g": 0.5,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 42,
+    "carbs_g": 10.8,
+    "fiber_g": 1.8,
+    "sugars_g": 7.5,
+    "protein_g": 0.6,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.18
+  },
+  "tweaks": [
+    {
+      "label": "Frozen blueberries (thawed, no added sugar)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Add 1 tsp sugar per 1/2 cup",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 58
+    },
+    {
+      "label": "Dried blueberries (unsweetened) equivalent volume",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 192
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 1/2 cup of blueberries?",
+      "a": "About 42 kcal for fresh blueberries."
+    },
+    {
+      "q": "What are the carbs in a 1/2 cup of blueberries?",
+      "a": "Approximately 10.8 g total carbs, including 1.8 g fiber and 7.5 g sugars."
+    },
+    {
+      "q": "Are blueberries low in fat and protein?",
+      "a": "Yes, only 0.3 g fat and 0.6 g protein per 1/2 cup."
+    },
+    {
+      "q": "Do blueberries have cholesterol or sodium?",
+      "a": "Negligible—0 mg cholesterol and 1 mg sodium per 1/2 cup."
+    },
+    {
+      "q": "How does frozen vs. fresh affect calories in blueberries?",
+      "a": "Frozen are similar, often 2-4 kcal less per serving due to minimal processing."
+    }
+  ]
+}

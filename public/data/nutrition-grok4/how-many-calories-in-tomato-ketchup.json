@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in tomato ketchup",
+  "title": "How Many Calories in Tomato Ketchup?",
+  "meta_description": "Discover how many calories in tomato ketchup per tablespoon, including carbs, sugars, sodium, full nutrition breakdown, and serving tips.",
+  "slug": "how-many-calories-in-tomato-ketchup",
+  "h1": "How Many Calories in Tomato Ketchup?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "tomato ketchup"
+  },
+  "assumptions": "Standard tomato ketchup (e.g., Heinz-style), per 1 tablespoon (17 g serving); no added ingredients.",
+  "disclaimer": "Nutrition varies by brand, recipe, sugar content, and serving size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 20,
+    "text": "One tablespoon of tomato ketchup contains about 20 kcal, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 tablespoon (17 g)",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 20,
+      "carbs_g": 5.1,
+      "fiber_g": 0.2,
+      "sugars_g": 4.2,
+      "protein_g": 0.2,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 192
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 20,
+    "carbs_g": 5.1,
+    "fiber_g": 0.2,
+    "sugars_g": 4.2,
+    "protein_g": 0.2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 192
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Low-sugar variety (reduced sugars per tbsp)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 10
+    },
+    {
+      "label": "Organic or no-salt-added version per tbsp",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 20
+    },
+    {
+      "label": "Add 1 tsp mustard mixed in per tbsp",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 25
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one tablespoon of tomato ketchup?",
+      "a": "Approximately 20 kcal per tablespoon."
+    },
+    {
+      "q": "Is tomato ketchup high in sugar?",
+      "a": "Yes, about 4.2 g of sugars per tablespoon, mainly from added sugars."
+    },
+    {
+      "q": "What about sodium in tomato ketchup?",
+      "a": "Around 192 mg per tablespoon, so watch portions if on a low-sodium diet."
+    },
+    {
+      "q": "Calories in tomato ketchup per 100 g?",
+      "a": "Roughly 112 kcal per 100 g; scale up from the tablespoon serving."
+    },
+    {
+      "q": "Does brand affect calories in tomato ketchup?",
+      "a": "Yes, variations range from 15–25 kcal per tbsp depending on recipe and sugar content."
+    }
+  ]
+}

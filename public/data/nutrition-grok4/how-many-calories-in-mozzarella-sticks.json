@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in mozzarella sticks",
+  "title": "How Many Calories in Mozzarella Sticks?",
+  "meta_description": "Discover how many calories in mozzarella sticks for a typical 3-stick serving, including full nutrition breakdown, macros, and preparation tweaks.",
+  "slug": "how-many-calories-in-mozzarella-sticks",
+  "h1": "How Many Calories in Mozzarella Sticks?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "stick",
+    "item": "mozzarella stick"
+  },
+  "assumptions": "Deep-fried frozen mozzarella sticks, standard commercial brand, ~28 g each with breading and cheese; no dipping sauce included.",
+  "disclaimer": "Nutrition varies by brand, size, frying method, and added ingredients. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 240,
+    "text": "Three mozzarella sticks contain about 240 kcal and 15 g protein."
+  },
+  "basis": {
+    "label": "per 1 mozzarella stick",
+    "amount": 1,
+    "unit": "stick",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 8,
+      "fiber_g": 0.5,
+      "sugars_g": 1,
+      "protein_g": 5,
+      "fat_g": 4,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 10,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 240,
+    "carbs_g": 24,
+    "fiber_g": 1.5,
+    "sugars_g": 3,
+    "protein_g": 15,
+    "fat_g": 12,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.3,
+    "cholesterol_mg": 30,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (per stick)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Add 1 tbsp marinara sauce per serving",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Low-fat cheese version (per stick)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 195
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one mozzarella stick?",
+      "a": "About 80 kcal per standard fried mozzarella stick."
+    },
+    {
+      "q": "Are mozzarella sticks high in sodium?",
+      "a": "Yes, three sticks have around 600 mg sodium due to breading and cheese."
+    },
+    {
+      "q": "What's the protein in mozzarella sticks?",
+      "a": "Three sticks provide approximately 15 g protein from the cheese."
+    },
+    {
+      "q": "Do mozzarella sticks have trans fat?",
+      "a": "A small amount, about 0.3 g in three sticks from frying oil."
+    },
+    {
+      "q": "How to reduce calories in mozzarella sticks?",
+      "a": "Opt for baking over frying or choose low-fat cheese to cut 30-50 kcal per serving."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 10 blackberries",
+  "title": "How Many Calories in 10 Blackberries?",
+  "meta_description": "Learn how many calories in 10 blackberries, plus carbs, fiber, sugars, protein, and full nutrition breakdown per berry basis.",
+  "slug": "how-many-calories-in-10-blackberries",
+  "h1": "How Many Calories in 10 Blackberries?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 10,
+    "unit": "blackberry",
+    "item": "blackberry"
+  },
+  "assumptions": "Fresh, raw blackberries; average size (~5 g each), no added sugars or toppings.",
+  "disclaimer": "Nutrition varies by ripeness, variety, growing conditions, and size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 22,
+    "text": "10 average blackberries provide ~22 kcal and ~3 g fiber."
+  },
+  "basis": {
+    "label": "per 1 average blackberry",
+    "amount": 1,
+    "unit": "blackberry",
+    "nutrition": {
+      "calories_kcal": 2,
+      "carbs_g": 0.5,
+      "fiber_g": 0.3,
+      "sugars_g": 0.2,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 22,
+    "carbs_g": 4.8,
+    "fiber_g": 2.6,
+    "sugars_g": 2.5,
+    "protein_g": 1.4,
+    "fat_g": 0.5,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.09
+  },
+  "tweaks": [
+    {
+      "label": "Dried blackberries (vs. fresh) per berry",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 102
+    },
+    {
+      "label": "Add 1 tsp sugar per 10 berries",
+      "delta_kcal_per_unit": 4.8,
+      "new_total_kcal": 70.8
+    },
+    {
+      "label": "Frozen with no added sugar (vs. fresh)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 22
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one blackberry?",
+      "a": "About 2 kcal for an average fresh blackberry."
+    },
+    {
+      "q": "What are the carbs in 10 blackberries?",
+      "a": "Approximately 4.8 g total carbs, including 2.6 g fiber."
+    },
+    {
+      "q": "Do blackberries have protein or fat?",
+      "a": "Low amounts: ~1.4 g protein and 0.5 g fat for 10 berries."
+    },
+    {
+      "q": "How much fiber in 10 blackberries?",
+      "a": "Around 2.6 g dietary fiber, aiding digestion."
+    },
+    {
+      "q": "Are frozen blackberries higher in calories?",
+      "a": "No, similar if unsweetened; added sugars increase calories."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in wendys medium french fries",
+  "title": "Calories in Wendy's Medium French Fries",
+  "meta_description": "Discover calories in Wendys medium french fries (340 kcal per serving), plus full nutrition breakdown including carbs, fat, protein, sodium, and quick tweaks for your meal.",
+  "slug": "calories-in-wendys-medium-french-fries",
+  "h1": "Calories in Wendy's Medium French Fries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "medium serving",
+    "item": "Wendy's french fries"
+  },
+  "assumptions": "Standard Wendy's medium french fries (approx. 113 g), fried in vegetable oil blend, seasoned with salt; values from official nutrition data.",
+  "disclaimer": "Nutrition varies by location, preparation, and portion size. Check Wendy's app or website for latest info and allergens.",
+  "quick_answer": {
+    "total_kcal": 340,
+    "text": "One medium serving of Wendy's french fries contains 340 calories, 47 g carbs, and 5 g protein."
+  },
+  "basis": {
+    "label": "per medium serving",
+    "amount": 1,
+    "unit": "medium serving",
+    "nutrition": {
+      "calories_kcal": 340,
+      "carbs_g": 47,
+      "fiber_g": 4,
+      "sugars_g": 0,
+      "protein_g": 5,
+      "fat_g": 15,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 290
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 340,
+    "carbs_g": 47,
+    "fiber_g": 4,
+    "sugars_g": 0,
+    "protein_g": 5,
+    "fat_g": 15,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 290
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with fast-food menus.",
+  "equivalents": {
+    "megajoules": 1.42
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet of ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "No salt added (request unsalted)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Upgrade to large size (vs. medium)",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 450
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Wendys medium french fries?",
+      "a": "340 calories per medium serving."
+    },
+    {
+      "q": "What are the carbs in Wendy's medium fries?",
+      "a": "About 47 g total carbs, including 4 g fiber and 0 g sugars."
+    },
+    {
+      "q": "How much fat and protein in Wendys medium french fries?",
+      "a": "15 g total fat (2.5 g saturated) and 5 g protein."
+    },
+    {
+      "q": "Is sodium high in Wendy's medium fries?",
+      "a": "Yes, 290 mg per serving; opt for no salt to reduce it."
+    },
+    {
+      "q": "How does Wendy's medium fries compare to large?",
+      "a": "Large has about 450 calories, 64 g carbs, and 20 g fat—110 more calories than medium."
+    }
+  ]
+}

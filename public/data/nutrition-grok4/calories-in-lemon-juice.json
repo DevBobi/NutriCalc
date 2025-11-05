@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in lemon juice",
+  "title": "Calories in Lemon Juice",
+  "meta_description": "Discover calories in lemon juice per 100 g, including carbs, protein, fat, and other nutrients for fresh, raw varieties.",
+  "slug": "calories-in-lemon-juice",
+  "h1": "Calories in Lemon Juice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "lemon juice"
+  },
+  "assumptions": "Fresh, raw lemon juice; no added sugar, preservatives, or dilution.",
+  "disclaimer": "Nutrition varies by freshness, lemon variety, processing, and added ingredients. Check labels for bottled products.",
+  "quick_answer": {
+    "total_kcal": 22,
+    "text": "100 g of fresh lemon juice contains about 22 kcal, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 22,
+      "carbs_g": 6.9,
+      "fiber_g": 0.3,
+      "sugars_g": 2.5,
+      "protein_g": 0.4,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 22,
+    "carbs_g": 6.9,
+    "fiber_g": 0.3,
+    "sugars_g": 2.5,
+    "protein_g": 0.4,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.09
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar per 100 g",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 38
+    },
+    {
+      "label": "Bottled lemon juice (commercial)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 25
+    },
+    {
+      "label": "Diluted with water (50/50 mix)",
+      "delta_kcal_per_unit": -11,
+      "new_total_kcal": 11
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tablespoon of lemon juice?",
+      "a": "About 4 kcal for 1 tbsp (15 g) of fresh lemon juice."
+    },
+    {
+      "q": "Is lemon juice low carb?",
+      "a": "Yes, 100 g has 6.9 g carbs, mostly natural sugars, with 0.3 g fiber."
+    },
+    {
+      "q": "Does lemon juice have protein or fat?",
+      "a": "Very low: 0.4 g protein and 0.2 g fat per 100 g."
+    },
+    {
+      "q": "Calories in sweetened lemon juice?",
+      "a": "Adding sugar increases calories; e.g., 1 tsp adds ~16 kcal per 100 g."
+    },
+    {
+      "q": "Difference between fresh and bottled lemon juice calories?",
+      "a": "Bottled may have slightly more (up to 25 kcal/100 g) due to preservatives or concentration."
+    }
+  ]
+}

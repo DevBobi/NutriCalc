@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 20 grapes",
+  "title": "How Many Calories in 20 Grapes?",
+  "meta_description": "Discover how many calories in 20 grapes, including carbs, sugars, fiber, protein, fat, and easy tweaks for your snack.",
+  "slug": "how-many-calories-in-20-grapes",
+  "h1": "How Many Calories in 20 Grapes?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 20,
+    "unit": "grape",
+    "item": "grape"
+  },
+  "assumptions": "Fresh, seedless red or green grapes, average size (~5 g each), with skin; 20 grapes ≈ 100 g.",
+  "disclaimer": "Nutrition varies by variety, size, ripeness, and growing conditions. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 69,
+    "text": "20 grapes provide about 69 kcal, mostly from natural sugars, with 0.7 g protein and 0.9 g fiber."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 69,
+      "carbs_g": 18,
+      "fiber_g": 0.9,
+      "sugars_g": 15.8,
+      "protein_g": 0.7,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 69,
+    "carbs_g": 18,
+    "fiber_g": 0.9,
+    "sugars_g": 15.8,
+    "protein_g": 0.7,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Peeled grapes (remove skin from all 20)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 64
+    },
+    {
+      "label": "Add 1 tsp honey drizzle over 20 grapes",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Frozen grapes (no added sugar)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 69
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one grape?",
+      "a": "About 3-4 kcal per average-sized grape."
+    },
+    {
+      "q": "Are grapes high in sugar?",
+      "a": "Yes, 20 grapes have ~16 g natural sugars, but also fiber to slow absorption."
+    },
+    {
+      "q": "Do grapes have any protein or fat?",
+      "a": "Minimal—0.7 g protein and 0.2 g fat in 20 grapes."
+    },
+    {
+      "q": "How does grape variety affect calories?",
+      "a": "Red and green grapes are similar (~69 kcal per 100 g); darker varieties may have slightly more antioxidants but same calories."
+    },
+    {
+      "q": "Are these values for seedless or seeded grapes?",
+      "a": "Seedless assumed; seeded may add negligible calories from seeds."
+    }
+  ]
+}

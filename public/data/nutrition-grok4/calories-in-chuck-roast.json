@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chuck roast",
+  "title": "Calories in Chuck Roast",
+  "meta_description": "Learn calories in chuck roast per 100g, including protein, fat, carbs, sodium, and full nutrition details for this beef cut.",
+  "slug": "calories-in-chuck-roast",
+  "h1": "Calories in Chuck Roast",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chuck roast"
+  },
+  "assumptions": "Beef chuck roast, braised/cooked, separable lean and fat, trimmed to 0\" external fat, no added salt or seasonings.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and brand. Values are averages; check labels or USDA data for specifics.",
+  "quick_answer": {
+    "total_kcal": 271,
+    "text": "100g of cooked chuck roast provides ~271 kcal and ~26g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 271,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25.8,
+      "fat_g": 18.1,
+      "sat_fat_g": 7.1,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 92,
+      "sodium_mg": 67
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 271,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25.8,
+    "fat_g": 18.1,
+    "sat_fat_g": 7.1,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 92,
+    "sodium_mg": 67
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.13
+  },
+  "tweaks": [
+    {
+      "label": "Lean only (separable lean, no fat trimmed)",
+      "delta_kcal_per_unit": -109,
+      "new_total_kcal": 162
+    },
+    {
+      "label": "Add 1 tsp oil for searing per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 311
+    },
+    {
+      "label": "Slow-cooked with vegetables (minimal added calories)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 281
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g chuck roast?",
+      "a": "About 271 kcal for cooked chuck roast with lean and fat."
+    },
+    {
+      "q": "Is chuck roast high in protein?",
+      "a": "Yes, ~26g protein per 100g, making it a good source for muscle building."
+    },
+    {
+      "q": "What's the fat content in chuck roast?",
+      "a": "Around 18g total fat per 100g, with 7g saturated; trim fat to reduce."
+    },
+    {
+      "q": "Does cooking method affect calories in chuck roast?",
+      "a": "Braising keeps it tender; grilling or roasting may vary slightly by moisture loss."
+    },
+    {
+      "q": "How does chuck roast compare to other beef cuts?",
+      "a": "Higher fat than sirloin (~150 kcal/100g) but more flavorful; choose lean for lower calories."
+    }
+  ]
+}

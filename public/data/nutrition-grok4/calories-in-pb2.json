@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pb2",
+  "title": "Calories in PB2 Powdered Peanut Butter",
+  "meta_description": "Discover calories in PB2, the low-calorie powdered peanut butter alternative, including full nutrition per serving, macros, and preparation tips.",
+  "slug": "calories-in-pb2",
+  "h1": "Calories in PB2 Powdered Peanut Butter",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "PB2 powdered peanut butter"
+  },
+  "assumptions": "Unprepared PB2 powdered peanut butter; standard 2 tbsp serving (13 g); no added ingredients.",
+  "disclaimer": "Nutrition varies by brand, batch, and preparation method. Values based on PB2 original; check packaging for exact details.",
+  "quick_answer": {
+    "total_kcal": 60,
+    "text": "One 2 tbsp serving of PB2 has 60 kcal, 6 g protein, and just 1.5 g fat."
+  },
+  "basis": {
+    "label": "per 2 tbsp serving (13 g)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 60,
+      "carbs_g": 5,
+      "fiber_g": 2,
+      "sugars_g": 2,
+      "protein_g": 6,
+      "fat_g": 1.5,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 120
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 60,
+    "carbs_g": 5,
+    "fiber_g": 2,
+    "sugars_g": 2,
+    "protein_g": 6,
+    "fat_g": 1.5,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 120
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.25
+  },
+  "tweaks": [
+    {
+      "label": "Prepared with 1 tbsp water (reconstituted spread)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Add 1 tsp peanut oil per serving for creamier texture",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Use chocolate PB2 variety",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of PB2?",
+      "a": "About 60 kcal per 2 tbsp (13 g) serving."
+    },
+    {
+      "q": "Is PB2 lower in calories than regular peanut butter?",
+      "a": "Yes, PB2 has 60 kcal per serving vs. ~190 kcal for 2 tbsp regular peanut butter."
+    },
+    {
+      "q": "What are the macros in PB2?",
+      "a": "6 g protein, 5 g carbs (2 g fiber), 1.5 g fat per serving."
+    },
+    {
+      "q": "Does PB2 have added sugar?",
+      "a": "Yes, about 2 g sugars per serving from natural peanut sugars and minimal processing."
+    },
+    {
+      "q": "How to use PB2 in recipes?",
+      "a": "Mix with water for spread, or add to smoothies, baking, or oatmeal for low-fat peanut flavor."
+    }
+  ]
+}

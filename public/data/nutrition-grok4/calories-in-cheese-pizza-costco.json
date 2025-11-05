@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cheese pizza costco",
+  "title": "Calories in Costco Cheese Pizza",
+  "meta_description": "Discover calories in cheese pizza costco per slice, including full nutrition breakdown, macros, and variations for your diet tracking.",
+  "slug": "calories-in-cheese-pizza-costco",
+  "h1": "Calories in Costco Cheese Pizza",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "Costco cheese pizza"
+  },
+  "assumptions": "Standard Costco food court 18-inch cheese pizza slice (1/6 of whole), baked with mozzarella cheese, tomato sauce, and wheat crust.",
+  "disclaimer": "Nutrition varies by exact preparation, slice size, and location; values based on average reported data. Check Costco nutrition info when available.",
+  "quick_answer": {
+    "total_kcal": 710,
+    "text": "One slice of Costco cheese pizza contains 710 calories and 34 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 710,
+      "carbs_g": 92,
+      "fiber_g": 5,
+      "sugars_g": 8,
+      "protein_g": 34,
+      "fat_g": 24,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 50,
+      "sodium_mg": 1230
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 710,
+    "carbs_g": 92,
+    "fiber_g": 5,
+    "sugars_g": 8,
+    "protein_g": 34,
+    "fat_g": 24,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 50,
+    "sodium_mg": 1230
+  },
+  "label_note": "Values mirror standard Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.97
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni toppings per slice",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 810
+    },
+    {
+      "label": "Half slice portion",
+      "delta_kcal_per_unit": -355,
+      "new_total_kcal": 355
+    },
+    {
+      "label": "Vegetarian with extra veggies (e.g., peppers, onions) per slice",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 730
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of Costco cheese pizza?",
+      "a": "Approximately 710 calories per slice."
+    },
+    {
+      "q": "What are the macros for calories in cheese pizza costco?",
+      "a": "Per slice: 92 g carbs, 34 g protein, 24 g fat."
+    },
+    {
+      "q": "How many calories in a whole Costco cheese pizza?",
+      "a": "About 4260 calories for the full 18-inch pizza (6 slices)."
+    },
+    {
+      "q": "Is Costco cheese pizza high in sodium?",
+      "a": "Yes, one slice has around 1230 mg sodium due to cheese and sauce."
+    },
+    {
+      "q": "How does cooking method affect calories in cheese pizza costco?",
+      "a": "Standard baked; added oil or thicker crust can increase calories by 50-100 per slice."
+    }
+  ]
+}

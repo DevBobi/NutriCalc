@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in cuties",
+  "title": "How Many Calories Are in Cuties?",
+  "meta_description": "Discover how many calories are in cuties (one medium clementine), including carbs, fiber, sugars, and full nutrition breakdown for easy tracking.",
+  "slug": "how-many-calories-are-in-cuties",
+  "h1": "How Many Calories Are in Cuties?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cutie",
+    "item": "Cuties clementine"
+  },
+  "assumptions": "One medium Cuties clementine (~74 g), fresh, peeled and eaten whole, no added toppings.",
+  "disclaimer": "Nutrition varies by fruit size, ripeness, variety, and growing conditions. Check labels or apps for specifics when available.",
+  "quick_answer": {
+    "total_kcal": 35,
+    "text": "One medium Cuties clementine provides ~35 kcal, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 1 medium cutie",
+    "amount": 1,
+    "unit": "cutie",
+    "nutrition": {
+      "calories_kcal": 35,
+      "carbs_g": 8.9,
+      "fiber_g": 1.7,
+      "sugars_g": 7,
+      "protein_g": 0.6,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 35,
+    "carbs_g": 8.9,
+    "fiber_g": 1.7,
+    "sugars_g": 7,
+    "protein_g": 0.6,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.15
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp honey drizzle",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 56
+    },
+    {
+      "label": "Two cuties (double serving)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "With a sprinkle of cinnamon (negligible calories)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 37
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one cutie?",
+      "a": "About 35 kcal for one medium Cuties clementine."
+    },
+    {
+      "q": "What are the carbs in cuties?",
+      "a": "One cutie has ~8.9 g carbs, including 1.7 g fiber and 7 g sugars."
+    },
+    {
+      "q": "Are cuties low in fat and protein?",
+      "a": "Yes—0.2 g fat and 0.6 g protein per cutie, mostly water and vitamins."
+    },
+    {
+      "q": "How does cutie size affect calories?",
+      "a": "Smaller cuties ~25-30 kcal; larger ~40-45 kcal. Average is 35 kcal."
+    },
+    {
+      "q": "Can I eat cuties for a snack without sodium worries?",
+      "a": "Yes, just 1 mg sodium per cutie, making it a low-sodium option."
+    }
+  ]
+}

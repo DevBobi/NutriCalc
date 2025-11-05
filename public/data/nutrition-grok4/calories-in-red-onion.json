@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in red onion",
+  "title": "Calories in Red Onion",
+  "meta_description": "Discover calories in red onion per medium serving, plus carbs, fiber, protein, fat, and nutrition tweaks for recipes.",
+  "slug": "calories-in-red-onion",
+  "h1": "Calories in Red Onion",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "medium onion",
+    "item": "red onion"
+  },
+  "assumptions": "Raw, medium-sized red onion (about 110 g), peeled and sliced.",
+  "disclaimer": "Nutrition varies by size, variety, freshness, and preparation method. Check labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 44,
+    "text": "One medium raw red onion provides about 44 kcal and 10 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g raw",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 40,
+      "carbs_g": 9.3,
+      "fiber_g": 1.7,
+      "sugars_g": 4.2,
+      "protein_g": 1.1,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 44,
+    "carbs_g": 10.2,
+    "fiber_g": 1.9,
+    "sugars_g": 4.6,
+    "protein_g": 1.2,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 4
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.18
+  },
+  "tweaks": [
+    {
+      "label": "Sautéed in 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 84
+    },
+    {
+      "label": "Caramelized (slow-cooked, reduced sugars)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 49
+    },
+    {
+      "label": "Pickled (with vinegar brine)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 42
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one medium red onion?",
+      "a": "About 44 kcal for a medium raw red onion (110 g)."
+    },
+    {
+      "q": "Are red onions low in calories?",
+      "a": "Yes, around 40 kcal per 100 g, mostly from natural sugars and carbs."
+    },
+    {
+      "q": "What's the carb content in red onion?",
+      "a": "Approximately 9.3 g carbs per 100 g, including 1.7 g fiber."
+    },
+    {
+      "q": "Do red onions have protein or fat?",
+      "a": "Low amounts: 1.1 g protein and 0.1 g fat per 100 g."
+    },
+    {
+      "q": "How does cooking affect calories in red onion?",
+      "a": "Cooking methods like sautéing add calories from oil; boiling or raw keeps them low."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pinot noir",
+  "title": "Calories in Pinot Noir",
+  "meta_description": "Discover calories in pinot noir per standard glass, plus carbs, alcohol content, nutrition breakdown, and serving tweaks for wine lovers.",
+  "slug": "calories-in-pinot-noir",
+  "h1": "Calories in Pinot Noir",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "5 fl oz serving",
+    "item": "pinot noir"
+  },
+  "assumptions": "Dry red wine, standard 5 fl oz (148 ml) pour; alcohol by volume ~13%; no added sugars.",
+  "disclaimer": "Nutrition varies by brand, vintage, region, sweetness level, and serving size. Check bottle labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 125,
+    "text": "A standard 5 fl oz glass of Pinot Noir has about 125 kcal, mostly from alcohol and minimal carbs."
+  },
+  "basis": {
+    "label": "per 5 fl oz serving",
+    "amount": 1,
+    "unit": "5 fl oz serving",
+    "nutrition": {
+      "calories_kcal": 125,
+      "carbs_g": 3.8,
+      "fiber_g": 0,
+      "sugars_g": 0.9,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 125,
+    "carbs_g": 3.8,
+    "fiber_g": 0,
+    "sugars_g": 0.9,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 4
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.52
+  },
+  "tweaks": [
+    {
+      "label": "Larger 8 fl oz pour",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Sweeter style (higher residual sugar)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 145
+    },
+    {
+      "label": "Lower alcohol version (~11% ABV)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a glass of Pinot Noir?",
+      "a": "About 125 kcal in a standard 5 fl oz serving of dry Pinot Noir."
+    },
+    {
+      "q": "Does Pinot Noir have carbs or sugar?",
+      "a": "Minimal: ~3.8 g carbs and 0.9 g sugars per 5 fl oz, mostly from grapes."
+    },
+    {
+      "q": "Is Pinot Noir low-calorie wine?",
+      "a": "Yes, relatively—125 kcal per glass, with calories mainly from 13% alcohol."
+    },
+    {
+      "q": "How does serving size affect calories in Pinot Noir?",
+      "a": "Calories scale with volume; an 8 oz pour jumps to ~200 kcal."
+    },
+    {
+      "q": "Any protein or fat in Pinot Noir?",
+      "a": "Negligible: 0 g fat and ~0.1 g protein per serving."
+    }
+  ]
+}

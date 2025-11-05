@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 mango without skin",
+  "title": "Calories in 1 Mango Without Skin",
+  "meta_description": "Discover calories in 1 mango without skin, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown per serving.",
+  "slug": "calories-in-1-mango-without-skin",
+  "h1": "Calories in 1 Mango Without Skin",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "mango",
+    "item": "mango without skin"
+  },
+  "assumptions": "Medium mango (≈165g edible flesh), peeled, pit removed, fresh, ripe but not overripe.",
+  "disclaimer": "Nutrition varies by variety, ripeness, size, and growing conditions. Check labels when available for packaged fruit.",
+  "quick_answer": {
+    "total_kcal": 99,
+    "text": "One medium mango without skin provides ~99 kcal, mostly from natural sugars and carbs."
+  },
+  "basis": {
+    "label": "per 1 medium mango without skin",
+    "amount": 1,
+    "unit": "mango",
+    "nutrition": {
+      "calories_kcal": 99,
+      "carbs_g": 25,
+      "fiber_g": 2.6,
+      "sugars_g": 22.7,
+      "protein_g": 1.4,
+      "fat_g": 0.6,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 99,
+    "carbs_g": 25,
+    "fiber_g": 2.6,
+    "sugars_g": 22.7,
+    "protein_g": 1.4,
+    "fat_g": 0.6,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Small mango (≈100g edible flesh)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 59
+    },
+    {
+      "label": "Large mango (≈200g edible flesh)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 119
+    },
+    {
+      "label": "Add 1 tbsp lime juice",
+      "delta_kcal_per_unit": 4,
+      "new_total_kcal": 103
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 mango without skin?",
+      "a": "About 99 kcal for one medium mango without skin."
+    },
+    {
+      "q": "What are the carbs in a peeled mango?",
+      "a": "≈25 g carbs, including 2.6 g fiber and 22.7 g natural sugars."
+    },
+    {
+      "q": "Is mango low in fat or protein?",
+      "a": "Very low fat (0.6 g) and protein (1.4 g); it's mostly carbs from fruit sugars."
+    },
+    {
+      "q": "Does skin removal affect calories much?",
+      "a": "Minimal impact; skin is thin and low-cal, but edible portion is the focus here."
+    },
+    {
+      "q": "How does mango size change calorie count?",
+      "a": "Smaller mangos ≈60 kcal, larger ≈120 kcal; weigh edible flesh for accuracy."
+    }
+  ]
+}

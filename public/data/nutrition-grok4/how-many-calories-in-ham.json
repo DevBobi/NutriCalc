@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in ham",
+  "title": "How Many Calories Are in Ham?",
+  "meta_description": "Discover how many calories in ham per 100 g serving, including protein, fat, carbs, sodium details, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-in-ham",
+  "h1": "How Many Calories Are in Ham?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "ham"
+  },
+  "assumptions": "Sliced, cooked, cured ham (boneless, like deli-style); no added sauces or breading.",
+  "disclaimer": "Nutrition varies by brand, curing method, cut, and preparation; check labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 145,
+    "text": "100 g of cooked ham provides about 145 kcal and 17 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 145,
+      "carbs_g": 1.5,
+      "fiber_g": 0,
+      "sugars_g": 1.2,
+      "protein_g": 17.4,
+      "fat_g": 7.9,
+      "sat_fat_g": 2.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 53,
+      "sodium_mg": 1203
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 145,
+    "carbs_g": 1.5,
+    "fiber_g": 0,
+    "sugars_g": 1.2,
+    "protein_g": 17.4,
+    "fat_g": 7.9,
+    "sat_fat_g": 2.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 53,
+    "sodium_mg": 1203
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.61
+  },
+  "tweaks": [
+    {
+      "label": "Low-sodium version (reduced salt curing)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Glazed with honey (1 tsp per 100 g)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 165
+    },
+    {
+      "label": "Extra lean, uncured (vs. standard cured)",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g of ham?",
+      "a": "Approximately 145 kcal for standard cooked ham."
+    },
+    {
+      "q": "Is ham high in sodium?",
+      "a": "Yes, about 1203 mg per 100 g due to curing process."
+    },
+    {
+      "q": "How much protein in ham per serving?",
+      "a": "Around 17.4 g protein per 100 g."
+    },
+    {
+      "q": "Calories in ham vs. turkey ham?",
+      "a": "Similar, but turkey ham is often lower in fat (~120 kcal per 100 g)."
+    },
+    {
+      "q": "Does cooking method affect ham calories?",
+      "a": "Baking or frying adds calories if oil is used; boiling keeps it closer to base values."
+    }
+  ]
+}

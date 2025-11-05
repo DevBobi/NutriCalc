@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a 20 piece mcnugget",
+  "title": "Calories in a 20-Piece McNugget",
+  "meta_description": "Learn calories in a 20 piece mcnugget from McDonald's, with full nutrition facts including protein, fat, carbs, sodium, and tweaks for sauces or alternatives.",
+  "slug": "calories-in-a-20-piece-mcnugget",
+  "h1": "Calories in a 20-Piece McNugget",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 20,
+    "unit": "piece",
+    "item": "Chicken McNugget"
+  },
+  "assumptions": "Standard McDonald's breaded, fried Chicken McNuggets; approximately 17 g each; no dipping sauces or sides included.",
+  "disclaimer": "Nutrition varies by location, recipe changes, and portion size. Check McDonald's official app or website for the most current values.",
+  "quick_answer": {
+    "total_kcal": 880,
+    "text": "A 20-piece Chicken McNugget serving contains 880 calories and 46 g of protein."
+  },
+  "basis": {
+    "label": "per 1 Chicken McNugget",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 44,
+      "carbs_g": 2.8,
+      "fiber_g": 0.2,
+      "sugars_g": 0,
+      "protein_g": 2.3,
+      "fat_g": 2.8,
+      "sat_fat_g": 0.4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 88
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 880,
+    "carbs_g": 56,
+    "fiber_g": 4,
+    "sugars_g": 0,
+    "protein_g": 46,
+    "fat_g": 56,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 100,
+    "sodium_mg": 1760
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.68
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (lower oil absorption)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 580
+    },
+    {
+      "label": "Add one BBQ sauce packet for the serving",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 920
+    },
+    {
+      "label": "Plain grilled chicken bites (no breading)",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 380
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 20 piece mcnugget?",
+      "a": "Approximately 880 calories for a standard McDonald's 20-piece serving."
+    },
+    {
+      "q": "How much protein is in 20 Chicken McNuggets?",
+      "a": "About 46 g of protein total."
+    },
+    {
+      "q": "Are there a lot of carbs in a 20-piece McNugget?",
+      "a": "Yes, around 56 g from the breading, with 4 g fiber."
+    },
+    {
+      "q": "What's the sodium in one McNugget?",
+      "a": "About 88 mg per piece, or 1760 mg for 20 pieces."
+    },
+    {
+      "q": "How do dipping sauces affect calories in McNuggets?",
+      "a": "One BBQ sauce packet adds ~45 kcal; choose low-cal options to keep totals down."
+    }
+  ]
+}

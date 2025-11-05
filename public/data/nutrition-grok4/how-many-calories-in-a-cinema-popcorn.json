@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a cinema popcorn",
+  "title": "How Many Calories in a Cinema Popcorn?",
+  "meta_description": "Discover how many calories in a cinema popcorn serving, including full nutrition breakdown, macros, and tips for lighter options under 160 characters.",
+  "slug": "how-many-calories-in-a-cinema-popcorn",
+  "h1": "How Many Calories in a Cinema Popcorn?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "cinema popcorn"
+  },
+  "assumptions": "Buttered movie theater popcorn, medium serving size (~100 g or 11 cups popped), includes oil, butter flavoring, and salt.",
+  "disclaimer": "Nutrition varies by theater chain, serving size, butter amount, and preparation; values are averages. Check venue info when available.",
+  "quick_answer": {
+    "total_kcal": 535,
+    "text": "A medium serving of buttered cinema popcorn contains about 535 kcal, with high fat from added oils."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 535,
+      "carbs_g": 50,
+      "fiber_g": 9,
+      "sugars_g": 0,
+      "protein_g": 7,
+      "fat_g": 35,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 0,
+      "sodium_mg": 900
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 535,
+    "carbs_g": 50,
+    "fiber_g": 9,
+    "sugars_g": 0,
+    "protein_g": 7,
+    "fat_g": 35,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 0,
+    "sodium_mg": 900
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.24
+  },
+  "tweaks": [
+    {
+      "label": "Plain (no butter or oil added)",
+      "delta_kcal_per_unit": -250,
+      "new_total_kcal": 285
+    },
+    {
+      "label": "Extra butter topping",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 635
+    },
+    {
+      "label": "Large serving (double size)",
+      "delta_kcal_per_unit": 535,
+      "new_total_kcal": 1070
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cinema popcorn without butter?",
+      "a": "About 285 kcal for a plain medium serving of 100 g."
+    },
+    {
+      "q": "Is cinema popcorn high in sodium?",
+      "a": "Yes, around 900 mg per medium serving due to added salt."
+    },
+    {
+      "q": "How much fat is in a cinema popcorn?",
+      "a": "Approximately 35 g total fat, including 6 g saturated, from butter and oil."
+    },
+    {
+      "q": "Does cinema popcorn have fiber?",
+      "a": "Yes, about 9 g per 100 g serving from the corn kernels."
+    },
+    {
+      "q": "How do calories vary by cinema chain?",
+      "a": "Chains like AMC or Regal differ; medium buttered can range 400-800 kcal based on size and toppings."
+    }
+  ]
+}

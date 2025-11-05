@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a tootsie pop",
+  "title": "How Many Calories in a Tootsie Pop?",
+  "meta_description": "Learn how many calories in a tootsie pop, plus full nutrition breakdown including carbs, sugars, and sodium for this lollipop treat.",
+  "slug": "how-many-calories-in-a-tootsie-pop",
+  "h1": "How Many Calories in a Tootsie Pop?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "tootsie pop",
+    "item": "tootsie pop"
+  },
+  "assumptions": "Standard size Tootsie Pop (cherry or similar flavor), about 17g total weight, including hard candy shell and Tootsie Roll center; no allergens added.",
+  "disclaimer": "Nutrition varies by flavor, exact size, and manufacturer batch. Check packaging for precise values.",
+  "quick_answer": {
+    "total_kcal": 60,
+    "text": "A single Tootsie Pop contains about 60 calories, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 Tootsie Pop",
+    "amount": 1,
+    "unit": "tootsie pop",
+    "nutrition": {
+      "calories_kcal": 60,
+      "carbs_g": 14,
+      "fiber_g": 0,
+      "sugars_g": 10,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 60,
+    "carbs_g": 14,
+    "fiber_g": 0,
+    "sugars_g": 10,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.25
+  },
+  "tweaks": [
+    {
+      "label": "Sugar-free version (using artificial sweeteners)",
+      "delta_kcal_per_unit": -45,
+      "new_total_kcal": 15
+    },
+    {
+      "label": "Remove the Tootsie Roll center",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 45
+    },
+    {
+      "label": "Jumbo size (double the candy)",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a tootsie pop?",
+      "a": "Approximately 60 calories per standard Tootsie Pop."
+    },
+    {
+      "q": "What are the carbs in a Tootsie Pop?",
+      "a": "About 14g total carbs, all from sugars with 0g fiber."
+    },
+    {
+      "q": "Does a Tootsie Pop have any protein or fat?",
+      "a": "No protein or fat; it's primarily a sugar-based candy."
+    },
+    {
+      "q": "How much sugar is in one Tootsie Pop?",
+      "a": "Around 10g of sugars per pop."
+    },
+    {
+      "q": "Do different flavors change the calories in a Tootsie Pop?",
+      "a": "Slight variations by flavor, but standard flavors are consistently about 60 kcal."
+    }
+  ]
+}

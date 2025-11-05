@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in two pieces of bacon",
+  "title": "How Many Calories in Two Pieces of Bacon?",
+  "meta_description": "Discover how many calories in two pieces of bacon, including protein, fat, sodium details, per-piece breakdown, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-in-two-pieces-of-bacon",
+  "h1": "How Many Calories in Two Pieces of Bacon?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 2,
+    "unit": "pieces",
+    "item": "bacon"
+  },
+  "assumptions": "Standard pork bacon, cooked (pan-fried), medium slices (~8 g each), no added oil or seasonings.",
+  "disclaimer": "Nutrition varies by brand, cut thickness, cooking method, and fat content. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 86,
+    "text": "Two pieces of cooked bacon provide ~86 kcal and ~6 g protein."
+  },
+  "basis": {
+    "label": "per 1 piece",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 43,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 3.3,
+      "sat_fat_g": 1.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 9,
+      "sodium_mg": 192
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 86,
+    "carbs_g": 0.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 6,
+    "fat_g": 6.6,
+    "sat_fat_g": 2.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 18,
+    "sodium_mg": 384
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.36
+  },
+  "tweaks": [
+    {
+      "label": "Use turkey bacon instead",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 56
+    },
+    {
+      "label": "Thick-cut bacon (vs. medium)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 126
+    },
+    {
+      "label": "Baked instead of fried (less fat absorbed)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 76
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories per piece of bacon?",
+      "a": "About 43 kcal for one medium cooked slice."
+    },
+    {
+      "q": "What's the protein in two pieces of bacon?",
+      "a": "Roughly 6 g protein total."
+    },
+    {
+      "q": "Why is sodium high in bacon?",
+      "a": "Curing process adds salt; two pieces have ~384 mg sodium."
+    },
+    {
+      "q": "Does cooking method affect calories in bacon?",
+      "a": "Yes—frying retains more fat than baking or microwaving."
+    },
+    {
+      "q": "How do calories compare for different bacon types?",
+      "a": "Pork bacon ~43 kcal/slice; turkey ~28 kcal/slice; vegetarian options vary widely."
+    }
+  ]
+}

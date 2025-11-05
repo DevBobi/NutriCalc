@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sour patch",
+  "title": "Calories in Sour Patch Kids",
+  "meta_description": "Discover calories in sour patch kids per serving, including carbs, sugars, and full nutrition breakdown for this tangy candy.",
+  "slug": "calories-in-sour-patch",
+  "h1": "Calories in Sour Patch Kids",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Sour Patch Kids"
+  },
+  "assumptions": "Standard serving of 40 g (about 16 pieces), assorted flavors, no additional ingredients.",
+  "disclaimer": "Nutrition varies by flavor, batch, and manufacturer; serving sizes may differ. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "One 40 g serving of Sour Patch Kids contains 140 calories, primarily from carbohydrates and sugars."
+  },
+  "basis": {
+    "label": "per 1 serving (40 g)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 35,
+      "fiber_g": 0,
+      "sugars_g": 26,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 20
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 35,
+    "fiber_g": 0,
+    "sugars_g": 26,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 20
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Smaller serving (20 g, about 8 pieces)",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Larger serving (60 g, about 24 pieces)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Single flavor pack (may vary slightly by color)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 140
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in sour patch kids per serving?",
+      "a": "About 140 calories in a standard 40 g serving."
+    },
+    {
+      "q": "What are the carbs in sour patch?",
+      "a": "One serving has 35 g of carbohydrates, all from sugars with no fiber."
+    },
+    {
+      "q": "Does sour patch kids have any protein or fat?",
+      "a": "No protein or fat; it's nearly 100% carbs from sugars."
+    },
+    {
+      "q": "How much sugar is in sour patch kids?",
+      "a": "26 g of sugars per 40 g serving."
+    },
+    {
+      "q": "Are calories the same for all sour patch flavors?",
+      "a": "Very similar across flavors, but check labels for exact minor variations."
+    }
+  ]
+}

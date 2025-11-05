@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pasta",
+  "title": "Calories in Pasta",
+  "meta_description": "Discover calories in pasta per 100 g serving, including carbs, protein, fat, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "calories-in-pasta",
+  "h1": "Calories in Pasta",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "pasta"
+  },
+  "assumptions": "Cooked plain spaghetti pasta from durum wheat semolina, boiled without salt or oil; drained.",
+  "disclaimer": "Nutrition varies by pasta type, brand, cooking method, portion size, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 131,
+    "text": "100 g of cooked plain pasta provides ~131 kcal and ~25 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g cooked",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 131,
+      "carbs_g": 25,
+      "fiber_g": 1.8,
+      "sugars_g": 0.5,
+      "protein_g": 5.2,
+      "fat_g": 0.9,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 131,
+    "carbs_g": 25,
+    "fiber_g": 1.8,
+    "sugars_g": 0.5,
+    "protein_g": 5.2,
+    "fat_g": 0.9,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.55
+  },
+  "tweaks": [
+    {
+      "label": "Add 50 g marinara sauce",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 166
+    },
+    {
+      "label": "Use whole wheat pasta instead",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 126
+    },
+    {
+      "label": "Add 1 tsp olive oil during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 171
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g of cooked pasta?",
+      "a": "About 131 kcal for plain cooked pasta."
+    },
+    {
+      "q": "What are the carbs in pasta per serving?",
+      "a": "Roughly 25 g carbs per 100 g cooked, mostly from starch."
+    },
+    {
+      "q": "Does dry pasta have more calories than cooked?",
+      "a": "Yes, dry pasta is ~371 kcal per 100 g; cooking adds water, reducing density."
+    },
+    {
+      "q": "Is pasta high in protein?",
+      "a": "Moderate at ~5.2 g per 100 g cooked; pair with meat or beans for more."
+    },
+    {
+      "q": "How do different pasta shapes affect calories?",
+      "a": "Calories are similar per weight; shapes mainly affect cooking time and portion perception."
+    }
+  ]
+}

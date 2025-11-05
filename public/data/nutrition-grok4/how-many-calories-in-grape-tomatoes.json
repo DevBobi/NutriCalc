@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in grape tomatoes",
+  "title": "How Many Calories in Grape Tomatoes?",
+  "meta_description": "Discover how many calories in grape tomatoes per 100g, including carbs, fiber, protein, fat, and more for easy tracking.",
+  "slug": "how-many-calories-in-grape-tomatoes",
+  "h1": "How Many Calories in Grape Tomatoes?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "grape tomatoes"
+  },
+  "assumptions": "Fresh, raw grape tomatoes; typical small variety (~5-10g each).",
+  "disclaimer": "Nutrition varies by variety, ripeness, growing conditions, and storage; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 18,
+    "text": "100g of grape tomatoes provide about 18 kcal and 0.9g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 18,
+      "carbs_g": 3.9,
+      "fiber_g": 1.2,
+      "sugars_g": 2.6,
+      "protein_g": 0.9,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 18,
+    "carbs_g": 3.9,
+    "fiber_g": 1.2,
+    "sugars_g": 2.6,
+    "protein_g": 0.9,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil for roasting per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 58
+    },
+    {
+      "label": "Sun-dried (vs. fresh) per 100g",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 168
+    },
+    {
+      "label": "In a salad with 1 tbsp vinaigrette per 100g",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 78
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g grape tomatoes?",
+      "a": "Approximately 18 kcal per 100g."
+    },
+    {
+      "q": "Are grape tomatoes low in carbs?",
+      "a": "Yes, about 3.9g carbs per 100g, with 1.2g fiber."
+    },
+    {
+      "q": "How much fiber in grape tomatoes?",
+      "a": "Around 1.2g dietary fiber per 100g."
+    },
+    {
+      "q": "Do grape tomatoes have fat or cholesterol?",
+      "a": "Negligible fat (0.2g per 100g) and 0mg cholesterol."
+    },
+    {
+      "q": "Calories in a cup of grape tomatoes?",
+      "a": "About 27 kcal for 150g (roughly one cup)."
+    }
+  ]
+}

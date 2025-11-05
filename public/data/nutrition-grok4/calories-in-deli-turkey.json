@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in deli turkey",
+  "title": "Calories in Deli Turkey",
+  "meta_description": "Discover calories in deli turkey per 100g serving, including protein, fat, sodium, and full nutrition breakdown with tweaks and FAQs for better meal planning.",
+  "slug": "calories-in-deli-turkey",
+  "h1": "Calories in Deli Turkey",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "deli turkey"
+  },
+  "assumptions": "Sliced deli turkey breast, oven-roasted, low-sodium variety, no added sugars or fillers; typical sandwich portion.",
+  "disclaimer": "Nutrition varies by brand, processing, sodium content, and slice thickness. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 100,
+    "text": "100g of deli turkey provides about 100 kcal and 18g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 100,
+      "carbs_g": 2.5,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 18,
+      "fat_g": 1.5,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 100,
+    "carbs_g": 2.5,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 18,
+    "fat_g": 1.5,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.42
+  },
+  "tweaks": [
+    {
+      "label": "Regular sodium version (vs. low-sodium)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Add 1 tsp mustard per 100g",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 105
+    },
+    {
+      "label": "Smoked turkey (higher fat content)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g deli turkey?",
+      "a": "Approximately 100 kcal for lean, roasted deli turkey breast."
+    },
+    {
+      "q": "Is deli turkey high in protein?",
+      "a": "Yes, about 18g protein per 100g, making it a lean option."
+    },
+    {
+      "q": "What's the sodium in deli turkey?",
+      "a": "Around 800mg per 100g; opt for low-sodium to reduce intake."
+    },
+    {
+      "q": "Does deli turkey have carbs?",
+      "a": "Minimal, about 2.5g per 100g, mostly from any binders or seasonings."
+    },
+    {
+      "q": "How does cooking affect calories in deli turkey?",
+      "a": "Deli turkey is pre-cooked; further heating doesn't significantly change calories but may add if oil is used."
+    }
+  ]
+}

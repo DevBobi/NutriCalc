@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 1 teaspoon of honey",
+  "title": "How Many Calories in 1 Teaspoon of Honey?",
+  "meta_description": "Learn how many calories in 1 teaspoon of honey, including carbs, sugars, and full nutrition breakdown per serving for better dietary tracking.",
+  "slug": "how-many-calories-in-1-teaspoon-of-honey",
+  "h1": "How Many Calories in 1 Teaspoon of Honey?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "teaspoon",
+    "item": "honey"
+  },
+  "assumptions": "Pure, natural honey; standard teaspoon measure (~7 g); no additives.",
+  "disclaimer": "Nutrition varies by honey type (e.g., raw, floral source), brand, and exact measurement. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 21,
+    "text": "One teaspoon of honey provides about 21 calories, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 1 teaspoon",
+    "amount": 1,
+    "unit": "teaspoon",
+    "nutrition": {
+      "calories_kcal": 21,
+      "carbs_g": 5.8,
+      "fiber_g": 0,
+      "sugars_g": 5.7,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 21,
+    "carbs_g": 5.8,
+    "fiber_g": 0,
+    "sugars_g": 5.7,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.09
+  },
+  "tweaks": [
+    {
+      "label": "Raw Manuka honey (slightly denser)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 23
+    },
+    {
+      "label": "Mixed with 1/2 tsp butter",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 57
+    },
+    {
+      "label": "Diluted in herbal tea (same honey amount)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 21
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 teaspoon of honey?",
+      "a": "About 21 calories per teaspoon."
+    },
+    {
+      "q": "How much sugar is in a teaspoon of honey?",
+      "a": "Approximately 5.7 grams of sugars."
+    },
+    {
+      "q": "Does honey have any protein or fat?",
+      "a": "Negligible—0 g protein and 0 g fat per teaspoon."
+    },
+    {
+      "q": "Is raw honey lower in calories than processed?",
+      "a": "Calories are similar (~21 per tsp); raw may have more nutrients."
+    },
+    {
+      "q": "How does honey compare to table sugar calories?",
+      "a": "Similar density: 1 tsp honey ≈ 21 kcal, 1 tsp sugar ≈ 16 kcal."
+    }
+  ]
+}

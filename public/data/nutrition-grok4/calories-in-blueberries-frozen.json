@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in blueberries frozen",
+  "title": "Calories in Frozen Blueberries",
+  "meta_description": "Learn calories in blueberries frozen per 100g serving, including carbs, fiber, sugars, protein, fat, and quick nutrition facts for easy tracking.",
+  "slug": "calories-in-blueberries-frozen",
+  "h1": "Calories in Frozen Blueberries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "frozen blueberries"
+  },
+  "assumptions": "Unsweetened frozen blueberries; nutrition based on standard commercial varieties, thawed or as eaten; similar to fresh.",
+  "disclaimer": "Nutrition varies by brand, ripeness, freezing process, and added sugars; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 51,
+    "text": "100g of frozen blueberries provides ~51 kcal, mainly from carbs with good fiber content."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 51,
+      "carbs_g": 12.2,
+      "fiber_g": 2.7,
+      "sugars_g": 8.7,
+      "protein_g": 0.4,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 51,
+    "carbs_g": 12.2,
+    "fiber_g": 2.7,
+    "sugars_g": 8.7,
+    "protein_g": 0.4,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.21
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar per 100g",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 67
+    },
+    {
+      "label": "With 100g plain yogurt",
+      "delta_kcal_per_unit": 61,
+      "new_total_kcal": 112
+    },
+    {
+      "label": "Thawed and drained (slight water loss concentrates nutrients)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 56
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g frozen blueberries?",
+      "a": "About 51 kcal per 100g of unsweetened frozen blueberries."
+    },
+    {
+      "q": "Are frozen blueberries lower in calories than fresh?",
+      "a": "No, similar at ~51-57 kcal per 100g; freezing preserves most nutrients."
+    },
+    {
+      "q": "What's the fiber content in frozen blueberries?",
+      "a": "Around 2.7g fiber per 100g, aiding digestion."
+    },
+    {
+      "q": "Do frozen blueberries have added sugars?",
+      "a": "Unsweetened varieties have natural sugars (~8.7g per 100g); check labels for sweetened types."
+    },
+    {
+      "q": "How do calories in blueberries frozen compare to other berries?",
+      "a": "Similar to fresh blueberries; lower than strawberries (~32 kcal/100g) but higher carbs."
+    }
+  ]
+}

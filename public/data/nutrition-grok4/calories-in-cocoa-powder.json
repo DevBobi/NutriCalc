@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cocoa powder",
+  "title": "Calories in Cocoa Powder",
+  "meta_description": "Discover calories in cocoa powder per 100g, including carbs, protein, fiber, fat breakdown, and preparation tweaks for your recipes.",
+  "slug": "calories-in-cocoa-powder",
+  "h1": "Calories in Cocoa Powder",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "cocoa powder"
+  },
+  "assumptions": "Unsweetened, natural cocoa powder (non-alkalized); dry, sifted; no added sugars or fats.",
+  "disclaimer": "Nutrition varies by brand, processing (natural vs. Dutch), and moisture content. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 228,
+    "text": "100g of unsweetened cocoa powder contains about 228 kcal and 20g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 228,
+      "carbs_g": 57.9,
+      "fiber_g": 33.2,
+      "sugars_g": 1.8,
+      "protein_g": 19.6,
+      "fat_g": 13.7,
+      "sat_fat_g": 8.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 21
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 228,
+    "carbs_g": 57.9,
+    "fiber_g": 33.2,
+    "sugars_g": 1.8,
+    "protein_g": 19.6,
+    "fat_g": 13.7,
+    "sat_fat_g": 8.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 21
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.95
+  },
+  "tweaks": [
+    {
+      "label": "Dutch-processed cocoa (per 100 g)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 238
+    },
+    {
+      "label": "Add 1 tbsp sugar per 100 g",
+      "delta_kcal_per_unit": 49,
+      "new_total_kcal": 277
+    },
+    {
+      "label": "Mix with 1 tsp oil for baking (per 100 g)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 268
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tablespoon of cocoa powder?",
+      "a": "About 12 kcal per tablespoon (5g) of unsweetened cocoa powder."
+    },
+    {
+      "q": "Is cocoa powder high in fiber?",
+      "a": "Yes, 100g provides ~33g fiber, mostly insoluble for digestive health."
+    },
+    {
+      "q": "What's the protein content in cocoa powder?",
+      "a": "Around 20g protein per 100g, making it a good plant-based source."
+    },
+    {
+      "q": "Does Dutch-processed cocoa have more calories?",
+      "a": "Slightly, about 10-20 kcal more per 100g due to processing, but similar macros."
+    },
+    {
+      "q": "Are there carbs in unsweetened cocoa powder?",
+      "a": "Yes, ~58g per 100g, but mostly fiber with low net carbs (~25g)."
+    }
+  ]
+}

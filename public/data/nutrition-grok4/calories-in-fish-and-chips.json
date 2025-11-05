@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in fish and chips",
+  "title": "Calories in Fish and Chips",
+  "meta_description": "Learn calories in fish and chips for a typical serving, including protein, carbs, fat breakdown, and healthier tweaks to reduce intake.",
+  "slug": "calories-in-fish-and-chips",
+  "h1": "Calories in Fish and Chips",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "fish and chips"
+  },
+  "assumptions": "Standard UK portion: battered and deep-fried haddock fillet (~150 g) with thick-cut chips (~200 g), no mushy peas or tartar sauce.",
+  "disclaimer": "Nutrition varies by portion size, fish type, batter, oil used, and restaurant preparation. Check menus or labels when available.",
+  "quick_answer": {
+    "total_kcal": 900,
+    "text": "A typical serving of fish and chips contains about 900 kcal, with high fat from frying."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 900,
+      "carbs_g": 100,
+      "fiber_g": 5,
+      "sugars_g": 2,
+      "protein_g": 30,
+      "fat_g": 45,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 100,
+      "sodium_mg": 1500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 900,
+    "carbs_g": 100,
+    "fiber_g": 5,
+    "sugars_g": 2,
+    "protein_g": 30,
+    "fat_g": 45,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 100,
+    "sodium_mg": 1500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.77
+  },
+  "tweaks": [
+    {
+      "label": "Oven-baked fish and air-fried chips (vs. deep-fried)",
+      "delta_kcal_per_unit": -400,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Remove half the chips portion",
+      "delta_kcal_per_unit": -250,
+      "new_total_kcal": 650
+    },
+    {
+      "label": "Grilled fish with no batter",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 700
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a typical fish and chips meal?",
+      "a": "Around 900 kcal for a standard battered fish fillet and chips serving."
+    },
+    {
+      "q": "What contributes most to calories in fish and chips?",
+      "a": "The deep-frying oil and batter add the majority of fat and calories; chips alone can be 400+ kcal."
+    },
+    {
+      "q": "Are there healthier ways to eat fish and chips?",
+      "a": "Yes—opt for grilled or baked fish, air-fried chips, and smaller portions to cut calories by 300–500."
+    },
+    {
+      "q": "How much protein is in fish and chips?",
+      "a": "About 30 g from the fish, making it a decent protein source despite the carbs and fat."
+    },
+    {
+      "q": "Does restaurant fish and chips differ in calories?",
+      "a": "Yes—portions and frying methods vary; fast-food versions may exceed 1000 kcal with extras like sauce."
+    }
+  ]
+}

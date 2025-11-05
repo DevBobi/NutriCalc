@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in one cup of pasta",
+  "title": "Calories in One Cup of Pasta",
+  "meta_description": "Discover calories in one cup of pasta, including carbs, protein, fat, full nutrition breakdown, and easy tweaks for variations.",
+  "slug": "calories-in-one-cup-of-pasta",
+  "h1": "Calories in One Cup of Pasta",
+  "updated": "2023-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "pasta"
+  },
+  "assumptions": "Cooked plain pasta (e.g., spaghetti or penne), drained, no sauce, oil, or salt added; 1 cup ≈140 g.",
+  "disclaimer": "Nutrition varies by pasta type, brand, cooking method, portion size, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 221,
+    "text": "One cup of cooked plain pasta provides ~221 kcal and ~8 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 158,
+      "carbs_g": 31,
+      "fiber_g": 1.8,
+      "sugars_g": 0.6,
+      "protein_g": 5.8,
+      "fat_g": 0.9,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 221,
+    "carbs_g": 43.4,
+    "fiber_g": 2.5,
+    "sugars_g": 0.8,
+    "protein_g": 8.1,
+    "fat_g": 1.3,
+    "sat_fat_g": 0.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Add 2 tbsp tomato sauce",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 251
+    },
+    {
+      "label": "Use whole wheat pasta instead",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 211
+    },
+    {
+      "label": "Toss with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 261
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of cooked pasta?",
+      "a": "About 221 kcal for one cup of plain cooked pasta."
+    },
+    {
+      "q": "What are the carbs in one cup of pasta?",
+      "a": "Approximately 43 g carbs, with 2.5 g fiber."
+    },
+    {
+      "q": "Is pasta high in protein?",
+      "a": "One cup has ~8 g protein; pair with meat or beans for more."
+    },
+    {
+      "q": "How does dry vs. cooked pasta calories differ?",
+      "a": "Dry pasta is denser; 1 cup dry ≈370 kcal, expands when cooked."
+    },
+    {
+      "q": "Does pasta type affect calories?",
+      "a": "Yes—whole grain or gluten-free may vary slightly in calories and macros."
+    }
+  ]
+}

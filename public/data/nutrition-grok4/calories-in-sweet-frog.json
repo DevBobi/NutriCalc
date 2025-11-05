@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sweet frog",
+  "title": "Calories in Sweet Frog Frozen Yogurt",
+  "meta_description": "Discover calories in sweet frog frozen yogurt per serving, including carbs, protein, fat, and nutrition breakdowns for popular flavors and tweaks.",
+  "slug": "calories-in-sweet-frog",
+  "h1": "Calories in Sweet Frog Frozen Yogurt",
+  "updated": "2024-10-18",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "sweet frog frozen yogurt"
+  },
+  "assumptions": "Plain or vanilla frozen yogurt; standard mix-ins not included; values based on typical nutritional profiles for the brand.",
+  "disclaimer": "Nutrition varies by flavor, toppings, portion size, and preparation; check Sweet Frog's official labels or app for exact values.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "100 g of Sweet Frog frozen yogurt contains about 130 kcal and 24 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 24,
+      "fiber_g": 0,
+      "sugars_g": 20,
+      "protein_g": 3,
+      "fat_g": 3,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 24,
+    "fiber_g": 0,
+    "sugars_g": 20,
+    "protein_g": 3,
+    "fat_g": 3,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 50
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate flavor instead of vanilla",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add 1 tbsp granola topping per 100 g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Low-fat version (reduced fat content)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in sweet frog per 100 g?",
+      "a": "Approximately 130 kcal for plain or vanilla Sweet Frog frozen yogurt."
+    },
+    {
+      "q": "What are the carbs in Sweet Frog frozen yogurt?",
+      "a": "About 24 g carbs per 100 g, mostly from sugars."
+    },
+    {
+      "q": "Does Sweet Frog have low-calorie options?",
+      "a": "Yes, non-fat or low-fat flavors can be under 100 kcal per 100 g."
+    },
+    {
+      "q": "How do toppings affect calories in sweet frog?",
+      "a": "Toppings like candy or nuts can add 50-100 kcal per serving."
+    },
+    {
+      "q": "Is Sweet Frog frozen yogurt healthier than ice cream?",
+      "a": "Often yes, with lower fat (3 g vs. 7 g per 100 g) but similar calories."
+    }
+  ]
+}

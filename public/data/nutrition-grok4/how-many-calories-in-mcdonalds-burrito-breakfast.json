@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in mcdonalds burrito breakfast",
+  "title": "How Many Calories in McDonald's Breakfast Burrito?",
+  "meta_description": "Discover how many calories in McDonald's burrito breakfast, including full nutrition breakdown, macros, and serving tips for the Sausage Burrito.",
+  "slug": "how-many-calories-in-mcdonalds-burrito-breakfast",
+  "h1": "How Many Calories in McDonald's Breakfast Burrito?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burrito",
+    "item": "McDonald's breakfast burrito"
+  },
+  "assumptions": "Standard McDonald's Sausage Breakfast Burrito (tortilla, sausage, eggs, cheese, onions, green peppers, tomatoes); as prepared and served.",
+  "disclaimer": "Nutrition varies by location, customizations, and preparation; values based on standard U.S. menu. Check McDonald's app or site for latest.",
+  "quick_answer": {
+    "total_kcal": 310,
+    "text": "One McDonald's Sausage Breakfast Burrito has 310 kcal, with 13 g protein and 30 g carbs."
+  },
+  "basis": {
+    "label": "per 1 burrito",
+    "amount": 1,
+    "unit": "burrito",
+    "nutrition": {
+      "calories_kcal": 310,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 13,
+      "fat_g": 16,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 790
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 310,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 13,
+    "fat_g": 16,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 790
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.3
+  },
+  "tweaks": [
+    {
+      "label": "Add extra cheese (1 slice per burrito)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Bacon version instead of sausage",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "No cheese (remove shredded cheddar)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 260
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in McDonald's burrito breakfast?",
+      "a": "The standard Sausage Breakfast Burrito has 310 calories."
+    },
+    {
+      "q": "What's the protein in McDonald's breakfast burrito?",
+      "a": "About 13 g of protein per burrito from sausage, eggs, and cheese."
+    },
+    {
+      "q": "How much sodium is in McDonald's burrito breakfast?",
+      "a": "Around 790 mg per serving, mostly from sausage and cheese."
+    },
+    {
+      "q": "Are there carbs in McDonald's breakfast burrito?",
+      "a": "Yes, 30 g total carbs, including 2 g fiber from the tortilla and veggies."
+    },
+    {
+      "q": "Can I customize McDonald's burrito breakfast for fewer calories?",
+      "a": "Opt for no cheese or egg whites only to reduce by 50-100 kcal."
+    }
+  ]
+}

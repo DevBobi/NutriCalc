@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a diet dr pepper",
+  "title": "Calories in a Diet Dr Pepper",
+  "meta_description": "Discover calories in a diet dr pepper: zero calories per can, plus full nutrition breakdown including sodium and quick tweaks for variations.",
+  "slug": "calories-in-a-diet-dr-pepper",
+  "h1": "Calories in a Diet Dr Pepper",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "diet dr pepper"
+  },
+  "assumptions": "Standard 12 fl oz can; zero-calorie, aspartame-sweetened soda; no added flavors or modifications.",
+  "disclaimer": "Nutrition varies by brand, serving size, and formulation; check labels for exact values as recipes can change.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "A standard 12 oz can of Diet Dr Pepper contains 0 calories."
+  },
+  "basis": {
+    "label": "per 1 can (12 fl oz)",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 35
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 35
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Switch to regular Dr Pepper (full sugar)",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "20 fl oz bottle instead of 12 oz can",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Add a splash of cream (1 tbsp)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a diet dr pepper can?",
+      "a": "Zero calories in a standard 12 oz can."
+    },
+    {
+      "q": "Does diet dr pepper have carbs or sugar?",
+      "a": "No carbs or sugars; it's sweetened with artificial sweeteners."
+    },
+    {
+      "q": "What's the sodium in a diet dr pepper?",
+      "a": "About 35 mg per 12 oz can."
+    },
+    {
+      "q": "Is diet dr pepper really zero calories?",
+      "a": "Yes, due to non-nutritive sweeteners like aspartame."
+    },
+    {
+      "q": "How does diet dr pepper compare to regular?",
+      "a": "Diet has 0 kcal vs. ~150 kcal in regular; same flavor, less sugar."
+    }
+  ]
+}

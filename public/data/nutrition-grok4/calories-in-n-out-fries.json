@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in n out fries",
+  "title": "Calories in In-N-Out Fries",
+  "meta_description": "Discover calories in n out fries for one standard serving, including full nutrition breakdown, macros, sodium, and preparation tweaks for better choices.",
+  "slug": "calories-in-n-out-fries",
+  "h1": "Calories in In-N-Out Fries",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "In-N-Out fries"
+  },
+  "assumptions": "Standard In-N-Out french fries, one order (~125 g), fresh-cut, cooked in 100% cholesterol-free vegetable oil, no added toppings.",
+  "disclaimer": "Nutrition varies by location, portion size, oil used, and customizations; check In-N-Out app or menu for latest values.",
+  "quick_answer": {
+    "total_kcal": 370,
+    "text": "One serving of In-N-Out fries has ~370 kcal, 51 g carbs, and 17 g fat."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 370,
+      "carbs_g": 51,
+      "fiber_g": 5,
+      "sugars_g": 0,
+      "protein_g": 6,
+      "fat_g": 17,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 260
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 370,
+    "carbs_g": 51,
+    "fiber_g": 5,
+    "sugars_g": 0,
+    "protein_g": 6,
+    "fat_g": 17,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 260
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.55
+  },
+  "tweaks": [
+    {
+      "label": "Animal style (add cheese, grilled onions, and spread)",
+      "delta_kcal_per_unit": 340,
+      "new_total_kcal": 710
+    },
+    {
+      "label": "Baked at home (air-fried version, no oil)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Add 1 packet ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 390
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in n out fries per serving?",
+      "a": "One standard serving of In-N-Out fries contains 370 calories."
+    },
+    {
+      "q": "What are the macros for In-N-Out fries?",
+      "a": "51 g carbs, 17 g fat (3 g saturated), 6 g protein, and 5 g fiber per serving."
+    },
+    {
+      "q": "Are In-N-Out fries high in sodium?",
+      "a": "Yes, about 260 mg sodium per serving, mainly from the potatoes and seasoning."
+    },
+    {
+      "q": "Do In-N-Out fries have trans fats?",
+      "a": "No trans fats (0 g) as they use cholesterol-free vegetable oil."
+    },
+    {
+      "q": "How do animal style n out fries change calories?",
+      "a": "Adding cheese, onions, and spread increases calories to around 710 per serving."
+    }
+  ]
+}

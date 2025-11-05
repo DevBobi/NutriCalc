@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a chocolate glazed doughnut",
+  "title": "Calories in a Chocolate Glazed Doughnut",
+  "meta_description": "Discover calories in a chocolate glazed doughnut, including full nutrition breakdown like carbs, fat, protein, and easy tweaks for variations.",
+  "slug": "calories-in-a-chocolate-glazed-doughnut",
+  "h1": "Calories in a Chocolate Glazed Doughnut",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "doughnut",
+    "item": "chocolate glazed doughnut"
+  },
+  "assumptions": "Standard yeast-raised doughnut with chocolate icing glaze, similar to Krispy Kreme; approximately 52 g weight, fried in oil.",
+  "disclaimer": "Nutrition varies by brand, recipe, size, frying method, and icing thickness. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "A chocolate glazed doughnut typically contains about 220 kcal, with high carbs from dough and sugars."
+  },
+  "basis": {
+    "label": "per 1 chocolate glazed doughnut",
+    "amount": 1,
+    "unit": "doughnut",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 30,
+      "fiber_g": 1,
+      "sugars_g": 15,
+      "protein_g": 3,
+      "fat_g": 10,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 120
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 30,
+    "fiber_g": 1,
+    "sugars_g": 15,
+    "protein_g": 3,
+    "fat_g": 10,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 120
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Add rainbow sprinkles on top",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Baked version instead of fried",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Extra chocolate glaze coating",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 250
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chocolate glazed doughnut?",
+      "a": "Approximately 220 kcal for one standard chocolate glazed doughnut."
+    },
+    {
+      "q": "What are the carbs in a chocolate glazed doughnut?",
+      "a": "About 30 g total carbs, including 15 g sugars and 1 g fiber."
+    },
+    {
+      "q": "Is a chocolate glazed doughnut high in fat?",
+      "a": "Yes, around 10 g total fat, with 5 g saturated fat from frying and icing."
+    },
+    {
+      "q": "How much protein in a chocolate glazed doughnut?",
+      "a": "Roughly 3 g protein per doughnut."
+    },
+    {
+      "q": "Does brand affect calories in chocolate glazed doughnuts?",
+      "a": "Yes, variations like Dunkin' or homemade can range from 200-300 kcal; always verify specific labels."
+    }
+  ]
+}

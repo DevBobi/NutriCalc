@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in canned corn",
+  "title": "Calories in Canned Corn",
+  "meta_description": "Discover calories in canned corn per cup serving, including carbs, protein, fat, sodium details, and easy tweaks for your diet.",
+  "slug": "calories-in-canned-corn",
+  "h1": "Calories in Canned Corn",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "canned corn"
+  },
+  "assumptions": "Drained solids, standard sweet corn variety, with added salt; 1 cup ≈ 165 g.",
+  "disclaimer": "Nutrition varies by brand, sodium content, draining method, and whether low-sodium or organic; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 132,
+    "text": "One cup of drained canned corn provides ~132 kcal and ~4.3 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 19,
+      "fiber_g": 2.7,
+      "sugars_g": 5.4,
+      "protein_g": 2.6,
+      "fat_g": 1.2,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 282
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 132,
+    "carbs_g": 31.4,
+    "fiber_g": 4.5,
+    "sugars_g": 8.9,
+    "protein_g": 4.3,
+    "fat_g": 2,
+    "sat_fat_g": 0.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 465
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.55
+  },
+  "tweaks": [
+    {
+      "label": "Low-sodium version (rinsed and drained)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 132
+    },
+    {
+      "label": "Add 1 tsp butter per cup",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 166
+    },
+    {
+      "label": "Cream-style canned corn (higher fat)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 152
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of canned corn?",
+      "a": "About 132 kcal for 1 drained cup (165 g)."
+    },
+    {
+      "q": "Is canned corn high in sodium?",
+      "a": "Yes, standard versions have ~465 mg sodium per cup due to added salt; opt for low-sodium to reduce."
+    },
+    {
+      "q": "What are the carbs in canned corn?",
+      "a": "Around 31 g total carbs per cup, including 4.5 g fiber and 8.9 g sugars."
+    },
+    {
+      "q": "Calories in canned vs fresh corn?",
+      "a": "Canned is similar (~80 kcal/100 g), but fresh may have slightly more fiber and less sodium."
+    },
+    {
+      "q": "Does draining canned corn affect calories?",
+      "a": "Minimal impact on calories, but reduces sodium by up to 40% if rinsed."
+    }
+  ]
+}

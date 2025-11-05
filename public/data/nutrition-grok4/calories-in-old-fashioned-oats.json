@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in old fashioned oats",
+  "title": "Calories in Old Fashioned Oats",
+  "meta_description": "Learn calories in old fashioned oats per 40g serving (1/2 cup dry), including carbs, protein, fiber, and full nutrition facts for easy meal planning.",
+  "slug": "calories-in-old-fashioned-oats",
+  "h1": "Calories in Old Fashioned Oats",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 40,
+    "unit": "g",
+    "item": "old fashioned oats"
+  },
+  "assumptions": "Dry, uncooked old fashioned rolled oats; plain, no added sugar, flavors, or salt.",
+  "disclaimer": "Nutrition varies by brand, processing, and portion accuracy; cooked oats absorb water, changing weight-based values. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 156,
+    "text": "40 g (about 1/2 cup dry) of old fashioned oats provides ~156 kcal and ~6.7 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 389,
+      "carbs_g": 66,
+      "fiber_g": 10,
+      "sugars_g": 1,
+      "protein_g": 17,
+      "fat_g": 7,
+      "sat_fat_g": 1.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 156,
+    "carbs_g": 26.4,
+    "fiber_g": 4,
+    "sugars_g": 0.4,
+    "protein_g": 6.8,
+    "fat_g": 2.8,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.65
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp brown sugar per 40g serving",
+      "delta_kcal_per_unit": 52,
+      "new_total_kcal": 208
+    },
+    {
+      "label": "Add 1 tbsp chopped walnuts per 40g serving",
+      "delta_kcal_per_unit": 52,
+      "new_total_kcal": 208
+    },
+    {
+      "label": "Cooked with 100 ml 1% milk (vs. water)",
+      "delta_kcal_per_unit": 42,
+      "new_total_kcal": 198
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1/2 cup old fashioned oats?",
+      "a": "About 156 kcal for 40 g dry serving."
+    },
+    {
+      "q": "What's the protein in old fashioned oats?",
+      "a": "Around 6.8 g protein per 40 g dry serving."
+    },
+    {
+      "q": "How much fiber is in old fashioned oats?",
+      "a": "Approximately 4 g dietary fiber per 40 g dry serving."
+    },
+    {
+      "q": "Do old fashioned oats have sugar?",
+      "a": "Plain varieties have minimal natural sugars (~0.4 g per 40 g dry)."
+    },
+    {
+      "q": "Calories in cooked vs. dry old fashioned oats?",
+      "a": "Calories remain the same (~156 kcal per original 40 g dry), but cooked weight increases due to water absorption."
+    }
+  ]
+}

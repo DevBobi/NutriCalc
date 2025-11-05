@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in cinnamon bun",
+  "title": "How Many Calories in a Cinnamon Bun?",
+  "meta_description": "Learn how many calories in cinnamon bun, plus carbs, sugars, fat, protein, and full nutrition breakdown per serving.",
+  "slug": "how-many-calories-in-cinnamon-bun",
+  "h1": "How Many Calories in a Cinnamon Bun?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bun",
+    "item": "cinnamon bun"
+  },
+  "assumptions": "Standard bakery cinnamon bun with icing, baked, approximately 70g serving size.",
+  "disclaimer": "Nutrition varies by brand, recipe, size, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A typical cinnamon bun has about 250 calories and 20g of sugars."
+  },
+  "basis": {
+    "label": "per 1 cinnamon bun",
+    "amount": 1,
+    "unit": "bun",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 40,
+      "fiber_g": 1,
+      "sugars_g": 20,
+      "protein_g": 4,
+      "fat_g": 10,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 20,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 40,
+    "fiber_g": 1,
+    "sugars_g": 20,
+    "protein_g": 4,
+    "fat_g": 10,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 20,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Without icing",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Add extra cinnamon and nuts",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Homemade with reduced sugar",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cinnamon bun?",
+      "a": "About 250 calories for a standard iced cinnamon bun."
+    },
+    {
+      "q": "Are cinnamon buns high in carbs?",
+      "a": "Yes, typically 40g of carbs per bun, mostly from dough and sugars."
+    },
+    {
+      "q": "How much sugar is in a cinnamon bun?",
+      "a": "Around 20g of sugars, primarily from the filling and icing."
+    },
+    {
+      "q": "What's the fat content in cinnamon buns?",
+      "a": "About 10g total fat, including 5g saturated fat per bun."
+    },
+    {
+      "q": "Do cinnamon buns have protein?",
+      "a": "A modest 4g of protein per bun, mainly from the dough."
+    }
+  ]
+}

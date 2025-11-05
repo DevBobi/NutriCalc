@@ -1,0 +1,92 @@
+{
+  "keyword": "protein shakes low in calories",
+  "title": "Protein Shakes Low in Calories: Nutrition",
+  "meta_description": "Discover protein shakes low in calories with high protein, low carbs and fat—get per-serving nutrition, tweaks, and FAQs for your low-cal shake options.",
+  "slug": "protein-shakes-low-in-calories",
+  "h1": "Protein Shakes Low in Calories: Nutrition",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "shake",
+    "item": "low calorie protein shake"
+  },
+  "assumptions": "Whey protein isolate powder (30 g scoop) mixed with water; no added sugars, flavors like vanilla; ~250 ml total volume.",
+  "disclaimer": "Nutrition varies by brand, flavor, powder type, and mixing liquid. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "A low-calorie protein shake typically has ~110 kcal and 25 g protein per serving."
+  },
+  "basis": {
+    "label": "per 1 shake (30 g powder + water)",
+    "amount": 1,
+    "unit": "shake",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 25,
+      "fat_g": 1,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 2,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 25,
+    "fat_g": 1,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 150
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Mix with skim milk instead of water",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Add fresh berries (50 g) for flavor",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 135
+    },
+    {
+      "label": "Use plant-based protein (pea/soy) vs. whey",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "What makes protein shakes low in calories?",
+      "a": "Low-cal shakes use minimal carbs/sugars, low-fat protein sources, and water as the base—aim for under 150 kcal per serving."
+    },
+    {
+      "q": "How much protein in low-calorie shakes?",
+      "a": "Typically 20–25 g protein per shake, making them ideal for muscle support without excess calories."
+    },
+    {
+      "q": "Are low-calorie protein shakes good for weight loss?",
+      "a": "Yes, they provide satiety from protein while keeping calories low, but pair with a balanced diet."
+    },
+    {
+      "q": "What brands offer protein shakes low in calories?",
+      "a": "Options like Isopure Zero Carb, Premier Protein Clear, or Orgain Organic—check for <120 kcal servings."
+    },
+    {
+      "q": "Can I make my own low-calorie protein shake?",
+      "a": "Yes, blend protein powder with water, ice, and zero-cal flavorings; avoid high-cal add-ins like nut butters."
+    }
+  ]
+}

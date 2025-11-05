@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in posole",
+  "title": "Calories in Posole",
+  "meta_description": "Discover calories in posole per serving, including macros like protein, carbs, fat, sodium details, and recipe tweaks for your traditional Mexican stew.",
+  "slug": "calories-in-posole",
+  "h1": "Calories in Posole",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "posole"
+  },
+  "assumptions": "Traditional pork posole with hominy, pork shoulder, onion, garlic, chili broth; no added toppings like lime, cabbage, or radish; about 240 g per cup.",
+  "disclaimer": "Nutrition varies by recipe, meat type, portion size, and added ingredients. Check homemade or restaurant labels when available.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "One cup of traditional pork posole has about 200 kcal and 12 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 18,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 12,
+      "fat_g": 9,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 18,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 12,
+    "fat_g": 9,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 800
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged or restaurant versions.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 oz shredded cheese and radishes as toppings",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Use chicken instead of pork",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Vegetarian version with beans (no meat)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 160
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of posole?",
+      "a": "About 200 kcal per 1 cup of traditional pork posole."
+    },
+    {
+      "q": "Is posole high in sodium?",
+      "a": "Yes, around 800 mg per cup due to broth and seasonings."
+    },
+    {
+      "q": "What's the protein content in posole?",
+      "a": "Roughly 12 g per cup, mainly from the pork and hominy."
+    },
+    {
+      "q": "How do carbs in posole compare to other stews?",
+      "a": "About 18 g per cup, mostly from hominy; moderate for a hearty soup."
+    },
+    {
+      "q": "Can posole be low-calorie?",
+      "a": "Yes, opt for chicken or vegetarian versions and skip fatty toppings to reduce to under 170 kcal per cup."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pilaf rice",
+  "title": "Calories in Pilaf Rice",
+  "meta_description": "Discover calories in pilaf rice per 100 g, including carbs, protein, fat, sodium from broth, and easy tweaks for variations.",
+  "slug": "calories-in-pilaf-rice",
+  "h1": "Calories in Pilaf Rice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "pilaf rice"
+  },
+  "assumptions": "Vegetable pilaf rice cooked in broth with onions, carrots, and a bit of oil; no meat or nuts added.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, brand of rice/broth, cooking method, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "100 g of pilaf rice provides ~150 kcal, mostly from carbs with some added fat from cooking oil."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 28,
+      "fiber_g": 1.5,
+      "sugars_g": 1,
+      "protein_g": 3,
+      "fat_g": 3,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 28,
+    "fiber_g": 1.5,
+    "sugars_g": 1,
+    "protein_g": 3,
+    "fat_g": 3,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Add 50 g cooked chicken per 100 g rice",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Use plain boiled rice (no oil or broth)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Include 20 g almonds for nutty pilaf",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g of pilaf rice?",
+      "a": "About 150 kcal for vegetable pilaf rice."
+    },
+    {
+      "q": "What are the carbs in pilaf rice?",
+      "a": "Around 28 g carbs per 100 g, with 1.5 g fiber."
+    },
+    {
+      "q": "Is pilaf rice higher in calories than plain rice?",
+      "a": "Yes, due to added oil and broth; plain rice is ~110 kcal per 100 g."
+    },
+    {
+      "q": "How much sodium is in pilaf rice?",
+      "a": "Approximately 300 mg per 100 g from the broth used in cooking."
+    },
+    {
+      "q": "Can I make low-calorie pilaf rice?",
+      "a": "Yes, use low-sodium broth and minimal oil to reduce calories to ~120 kcal per 100 g."
+    }
+  ]
+}

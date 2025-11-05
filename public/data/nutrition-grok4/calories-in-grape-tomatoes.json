@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in grape tomatoes",
+  "title": "Calories in Grape Tomatoes",
+  "meta_description": "Discover calories in grape tomatoes per 100 g, including carbs, fiber, protein, fat, and quick serving tweaks for your diet.",
+  "slug": "calories-in-grape-tomatoes",
+  "h1": "Calories in Grape Tomatoes",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "grape tomatoes"
+  },
+  "assumptions": "Fresh, raw grape tomatoes (similar to cherry tomatoes, ~15-20 g each); no added seasonings or dressings.",
+  "disclaimer": "Nutrition varies by variety, ripeness, growing conditions, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 18,
+    "text": "100 g of grape tomatoes provides ~18 kcal and ~1.2 g fiber."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 18,
+      "carbs_g": 3.9,
+      "fiber_g": 1.2,
+      "sugars_g": 2.6,
+      "protein_g": 0.9,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 18,
+    "carbs_g": 3.9,
+    "fiber_g": 1.2,
+    "sugars_g": 2.6,
+    "protein_g": 0.9,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Roasted with 1 tsp olive oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 58
+    },
+    {
+      "label": "Add balsamic vinegar (1 tbsp per 100 g)",
+      "delta_kcal_per_unit": 14,
+      "new_total_kcal": 32
+    },
+    {
+      "label": "Sun-dried (vs. fresh) per 100 g",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 168
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g grape tomatoes?",
+      "a": "About 18 kcal per 100 g of fresh grape tomatoes."
+    },
+    {
+      "q": "Are grape tomatoes low-carb?",
+      "a": "Yes, ~3.9 g carbs per 100 g, with 1.2 g fiber."
+    },
+    {
+      "q": "What's the protein in grape tomatoes?",
+      "a": "Minimal at ~0.9 g per 100 g."
+    },
+    {
+      "q": "Do grape tomatoes have fat or cholesterol?",
+      "a": "Very low fat (~0.2 g per 100 g) and 0 mg cholesterol."
+    },
+    {
+      "q": "How do calories change if cooked?",
+      "a": "Cooking methods like roasting with oil can add 40+ kcal per 100 g."
+    }
+  ]
+}

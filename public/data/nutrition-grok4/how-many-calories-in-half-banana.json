@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in half banana",
+  "title": "How Many Calories in Half a Banana?",
+  "meta_description": "Discover how many calories in half banana, including carbs, fiber, sugars, protein, and fat details on a per-banana basis with easy tweaks.",
+  "slug": "how-many-calories-in-half-banana",
+  "h1": "How Many Calories in Half a Banana?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 0.5,
+    "unit": "banana",
+    "item": "banana"
+  },
+  "assumptions": "Medium banana (~118 g whole, peeled), raw, ripe; half refers to one-half of the fruit.",
+  "disclaimer": "Nutrition varies by banana size, ripeness, variety, and storage; values are averages. Check fresh produce for specifics.",
+  "quick_answer": {
+    "total_kcal": 53,
+    "text": "Half a medium banana provides ~53 kcal, 14 g carbs, and 1.5 g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium banana",
+    "amount": 1,
+    "unit": "banana",
+    "nutrition": {
+      "calories_kcal": 105,
+      "carbs_g": 27,
+      "fiber_g": 3,
+      "sugars_g": 14,
+      "protein_g": 1.3,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 53,
+    "carbs_g": 13.5,
+    "fiber_g": 1.5,
+    "sugars_g": 7,
+    "protein_g": 0.65,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.05,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0.5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.22
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp peanut butter",
+      "delta_kcal_per_unit": 32,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Small banana half (vs. medium)",
+      "delta_kcal_per_unit": -21,
+      "new_total_kcal": 32
+    },
+    {
+      "label": "With skin (unpeeled half)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 58
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in half banana?",
+      "a": "About 53 kcal for half a medium banana."
+    },
+    {
+      "q": "What are the carbs in half a banana?",
+      "a": "Approximately 13.5 g carbs, including 1.5 g fiber and 7 g sugars."
+    },
+    {
+      "q": "Is protein high in half banana?",
+      "a": "No, just 0.65 g protein; it's mostly carbs from natural sugars."
+    },
+    {
+      "q": "How does banana size affect calories?",
+      "a": "Smaller bananas have fewer calories (e.g., ~42 kcal whole); larger up to 120 kcal."
+    },
+    {
+      "q": "Does ripeness change calories in banana?",
+      "a": "Riper bananas have more sugars but similar total calories; starch converts to sugar."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in salt",
+  "title": "Calories in Salt",
+  "meta_description": "Discover calories in salt (zero, as expected), plus sodium content, nutrition breakdown per teaspoon, and common FAQs for dietary tracking.",
+  "slug": "calories-in-salt",
+  "h1": "Calories in Salt",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "teaspoon",
+    "item": "salt"
+  },
+  "assumptions": "Table salt (sodium chloride), fine grain, standard iodized variety; 1 tsp ≈ 5.7 g.",
+  "disclaimer": "Nutrition varies by type (table, sea, kosher), grain size, and brand; sodium levels can differ slightly. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "Salt contains 0 calories per teaspoon."
+  },
+  "basis": {
+    "label": "per 1 teaspoon",
+    "amount": 1,
+    "unit": "teaspoon",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2325
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2325
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Switch to sea salt (similar density)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Use kosher salt (flakier, ≈3 g per tsp equivalent)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Low-sodium salt substitute (potassium chloride blend)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "Does salt have any calories?",
+      "a": "No, salt has 0 calories—it's pure sodium chloride with no energy content."
+    },
+    {
+      "q": "How much sodium is in 1 teaspoon of salt?",
+      "a": "About 2325 mg, which is roughly the daily recommended limit for adults."
+    },
+    {
+      "q": "Are there calories in different types of salt?",
+      "a": "No, table, sea, or Himalayan salt all have 0 calories; only sodium varies slightly."
+    },
+    {
+      "q": "Why track calories in salt if it's zero?",
+      "a": "Salt impacts sodium intake for blood pressure and heart health, even without calories."
+    },
+    {
+      "q": "What's the calorie difference between table salt and salt substitutes?",
+      "a": "Both have 0 calories, but substitutes often have less sodium and added potassium."
+    }
+  ]
+}

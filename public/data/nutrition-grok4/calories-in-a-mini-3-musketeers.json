@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a mini 3 musketeers",
+  "title": "Calories in a Mini 3 Musketeers",
+  "meta_description": "Learn calories in a mini 3 musketeers bar, including carbs, sugars, fat, and full nutrition facts for this fun-size treat.",
+  "slug": "calories-in-a-mini-3-musketeers",
+  "h1": "Calories in a Mini 3 Musketeers",
+  "updated": "2024-10-01",
+  "query": {
+    "amount": 1,
+    "unit": "mini",
+    "item": "3 Musketeers"
+  },
+  "assumptions": "Standard mini fun-size bar (~10g), milk chocolate with nougat filling, no additional toppings.",
+  "disclaimer": "Nutrition varies by brand, exact size, and manufacturing; check packaging for precise values.",
+  "quick_answer": {
+    "total_kcal": 45,
+    "text": "A mini 3 Musketeers bar contains about 45 calories, mostly from carbs and sugars."
+  },
+  "basis": {
+    "label": "per 1 mini 3 Musketeers bar",
+    "amount": 1,
+    "unit": "bar",
+    "nutrition": {
+      "calories_kcal": 45,
+      "carbs_g": 9,
+      "fiber_g": 0,
+      "sugars_g": 8,
+      "protein_g": 0.5,
+      "fat_g": 1,
+      "sat_fat_g": 0.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 1,
+      "sodium_mg": 20
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 45,
+    "carbs_g": 9,
+    "fiber_g": 0,
+    "sugars_g": 8,
+    "protein_g": 0.5,
+    "fat_g": 1,
+    "sat_fat_g": 0.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 1,
+    "sodium_mg": 20
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.19
+  },
+  "tweaks": [
+    {
+      "label": "Pair with 1 tsp peanut butter",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 75
+    },
+    {
+      "label": "Two minis instead of one",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Full-size bar (equivalent to ~6 minis)",
+      "delta_kcal_per_unit": 225,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a mini 3 Musketeers?",
+      "a": "About 45 calories per mini bar."
+    },
+    {
+      "q": "What are the carbs in a mini 3 Musketeers?",
+      "a": "Approximately 9g carbs, with 8g sugars and 0g fiber."
+    },
+    {
+      "q": "Is a mini 3 Musketeers low in fat?",
+      "a": "Yes, only 1g total fat, including 0.7g saturated fat."
+    },
+    {
+      "q": "How does a mini compare to a full-size 3 Musketeers?",
+      "a": "A mini has 45 kcal; full-size is around 250 kcal for 60g."
+    },
+    {
+      "q": "Any protein in a mini 3 Musketeers?",
+      "a": "Minimal, about 0.5g protein per mini bar."
+    }
+  ]
+}

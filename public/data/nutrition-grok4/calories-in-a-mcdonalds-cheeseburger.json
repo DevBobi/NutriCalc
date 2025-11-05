@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a mcdonalds cheeseburger",
+  "title": "Calories in a McDonald's Cheeseburger",
+  "meta_description": "Discover calories in a mcdonalds cheeseburger, including full nutrition breakdown like protein, carbs, fat, and sodium, plus quick tweaks and FAQs.",
+  "slug": "calories-in-a-mcdonalds-cheeseburger",
+  "h1": "Calories in a McDonald's Cheeseburger",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cheeseburger",
+    "item": "McDonald's cheeseburger"
+  },
+  "assumptions": "Standard McDonald's cheeseburger: beef patty, American cheese, bun, ketchup, mustard, onions, pickles; no customizations.",
+  "disclaimer": "Nutrition varies by location, recipe changes, and custom orders. Check McDonald's app or website for latest values.",
+  "quick_answer": {
+    "total_kcal": 300,
+    "text": "A McDonald's cheeseburger contains about 300 kcal and 15 g protein."
+  },
+  "basis": {
+    "label": "per 1 McDonald's cheeseburger",
+    "amount": 1,
+    "unit": "cheeseburger",
+    "nutrition": {
+      "calories_kcal": 300,
+      "carbs_g": 33,
+      "fiber_g": 2,
+      "sugars_g": 6,
+      "protein_g": 15,
+      "fat_g": 13,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 40,
+      "sodium_mg": 680
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 300,
+    "carbs_g": 33,
+    "fiber_g": 2,
+    "sugars_g": 6,
+    "protein_g": 15,
+    "fat_g": 13,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 40,
+    "sodium_mg": 680
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.26
+  },
+  "tweaks": [
+    {
+      "label": "Remove the cheese slice",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add one strip of bacon",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Upgrade to quarter pounder patty",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a McDonald's cheeseburger?",
+      "a": "Approximately 300 kcal for a standard one."
+    },
+    {
+      "q": "What is the protein in a McDonald's cheeseburger?",
+      "a": "About 15 g of protein per cheeseburger."
+    },
+    {
+      "q": "How much sodium is in a McDonald's cheeseburger?",
+      "a": "Roughly 680 mg of sodium."
+    },
+    {
+      "q": "Are there trans fats in a McDonald's cheeseburger?",
+      "a": "Yes, about 0.5 g of trans fat per burger."
+    },
+    {
+      "q": "How do customizations affect calories in a McDonald's cheeseburger?",
+      "a": "Removing cheese saves ~50 kcal; adding bacon adds ~40 kcal."
+    }
+  ]
+}

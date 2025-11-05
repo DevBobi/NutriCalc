@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a cup of ground beef",
+  "title": "Calories in a Cup of Ground Beef",
+  "meta_description": "Discover calories in a cup of ground beef, including protein, fat, carbs, full nutrition breakdown per 100 g basis, and preparation tweaks for better tracking.",
+  "slug": "calories-in-a-cup-of-ground-beef",
+  "h1": "Calories in a Cup of Ground Beef",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "ground beef"
+  },
+  "assumptions": "80% lean ground beef, cooked (pan-browned), drained of fat, crumbled; 1 cup ≈ 226 g.",
+  "disclaimer": "Nutrition varies by lean percentage, cooking method, added fats/seasonings, and exact measurement. Check labels or use a food scale for precision.",
+  "quick_answer": {
+    "total_kcal": 565,
+    "text": "A cup of cooked 80% lean ground beef provides ~565 kcal and ~59 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 26,
+      "fat_g": 16,
+      "sat_fat_g": 6.5,
+      "trans_fat_g": 0.4,
+      "cholesterol_mg": 88,
+      "sodium_mg": 75
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 565,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 58.8,
+    "fat_g": 36.2,
+    "sat_fat_g": 14.7,
+    "trans_fat_g": 0.9,
+    "cholesterol_mg": 199,
+    "sodium_mg": 169.5
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.36
+  },
+  "tweaks": [
+    {
+      "label": "Switch to 90% lean ground beef",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 384
+    },
+    {
+      "label": "Add 1 tsp oil per 100 g during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 645
+    },
+    {
+      "label": "Use raw ground beef (uncooked)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 441
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cup of cooked ground beef?",
+      "a": "About 565 kcal for 1 cup (226 g) of 80% lean, cooked and drained."
+    },
+    {
+      "q": "What's the protein in a cup of ground beef?",
+      "a": "Approximately 59 g protein per cup of cooked 80% lean ground beef."
+    },
+    {
+      "q": "Does lean percentage affect calories in ground beef?",
+      "a": "Yes—90% lean has fewer calories (~384 kcal per cup) than 80% lean due to less fat."
+    },
+    {
+      "q": "Are these values for cooked or raw ground beef?",
+      "a": "Cooked and drained; raw is lower in calories per volume but shrinks when cooked."
+    },
+    {
+      "q": "How much fat is in a cup of ground beef?",
+      "a": "About 36 g total fat, including 15 g saturated, for 80% lean cooked."
+    }
+  ]
+}

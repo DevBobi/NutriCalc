@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in kalamata olives",
+  "title": "Calories in Kalamata Olives",
+  "meta_description": "Discover calories in kalamata olives per 100g, including fat, sodium, carbs, protein, and serving tips for Mediterranean diets.",
+  "slug": "calories-in-kalamata-olives",
+  "h1": "Calories in Kalamata Olives",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "kalamata olives"
+  },
+  "assumptions": "Brine-cured, pitted kalamata olives; drained weight; no added oil or seasonings.",
+  "disclaimer": "Nutrition varies by brand, curing method, brine concentration, and pitting; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 215,
+    "text": "100 g of kalamata olives provides ~215 kcal, mostly from healthy fats."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 215,
+      "carbs_g": 4,
+      "fiber_g": 3.2,
+      "sugars_g": 0.5,
+      "protein_g": 1.7,
+      "fat_g": 20,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 215,
+    "carbs_g": 4,
+    "fiber_g": 3.2,
+    "sugars_g": 0.5,
+    "protein_g": 1.7,
+    "fat_g": 20,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2000
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.9
+  },
+  "tweaks": [
+    {
+      "label": "Oil-packed instead of brine-packed",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 265
+    },
+    {
+      "label": "Rinse to reduce sodium (minimal calorie change)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 215
+    },
+    {
+      "label": "Add 1 tsp olive oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 255
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g kalamata olives?",
+      "a": "Approximately 215 kcal per 100 g."
+    },
+    {
+      "q": "Are kalamata olives high in fat?",
+      "a": "Yes, about 20 g total fat per 100 g, mostly monounsaturated."
+    },
+    {
+      "q": "What's the sodium content in kalamata olives?",
+      "a": "Around 2000 mg per 100 g due to brining; rinse to lower it."
+    },
+    {
+      "q": "Do kalamata olives have fiber?",
+      "a": "Yes, roughly 3.2 g dietary fiber per 100 g."
+    },
+    {
+      "q": "How many kalamata olives in a serving?",
+      "a": "About 5-7 olives (30-50 g) for a typical serving, equating to 65-110 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in crunchwrap supreme",
+  "title": "Calories in Crunchwrap Supreme",
+  "meta_description": "Discover calories in crunchwrap supreme from Taco Bell, including full nutrition breakdown, macros, sodium, and easy tweaks for variations.",
+  "slug": "calories-in-crunchwrap-supreme",
+  "h1": "Calories in Crunchwrap Supreme",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "Crunchwrap Supreme",
+    "item": "Crunchwrap Supreme"
+  },
+  "assumptions": "Standard Taco Bell beef Crunchwrap Supreme with seasoned beef, nacho cheese, lettuce, diced tomatoes, and flour tortilla; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations. Values based on standard recipe; check Taco Bell app or packaging for latest info.",
+  "quick_answer": {
+    "total_kcal": 530,
+    "text": "One Crunchwrap Supreme packs about 530 calories with 16 g protein and high sodium."
+  },
+  "basis": {
+    "label": "per 1 Crunchwrap Supreme",
+    "amount": 1,
+    "unit": "Crunchwrap Supreme",
+    "nutrition": {
+      "calories_kcal": 530,
+      "carbs_g": 66,
+      "fiber_g": 7,
+      "sugars_g": 6,
+      "protein_g": 16,
+      "fat_g": 24,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 1300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 530,
+    "carbs_g": 66,
+    "fiber_g": 7,
+    "sugars_g": 6,
+    "protein_g": 16,
+    "fat_g": 24,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 1300
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.22
+  },
+  "tweaks": [
+    {
+      "label": "Add sour cream and guacamole",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 630
+    },
+    {
+      "label": "Veggie version (no beef, add beans)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 480
+    },
+    {
+      "label": "Fresca style (no cheese or sour cream)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 450
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Crunchwrap Supreme?",
+      "a": "Approximately 530 calories for the standard beef version."
+    },
+    {
+      "q": "What are the macros in Crunchwrap Supreme?",
+      "a": "About 66 g carbs, 24 g fat, 16 g protein, and 7 g fiber."
+    },
+    {
+      "q": "Is the Crunchwrap Supreme high in sodium?",
+      "a": "Yes, around 1300 mg sodium per serving—over half the daily recommended limit."
+    },
+    {
+      "q": "Calories in chicken Crunchwrap Supreme?",
+      "a": "Similar at about 470-520 kcal, depending on preparation; slightly lower than beef."
+    },
+    {
+      "q": "How does frying affect calories in Crunchwrap Supreme?",
+      "a": "Deep-frying adds oil, increasing calories by 100-200 kcal; stick to grilled for lower fat."
+    }
+  ]
+}

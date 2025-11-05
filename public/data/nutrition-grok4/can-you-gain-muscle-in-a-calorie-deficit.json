@@ -1,0 +1,92 @@
+{
+  "keyword": "can you gain muscle in a calorie deficit",
+  "title": "Can You Gain Muscle in a Calorie Deficit?",
+  "meta_description": "Can you gain muscle in a calorie deficit? Learn if it's possible, with sample daily nutrition needs, protein tips, training advice, and tweaks for success.",
+  "slug": "can-you-gain-muscle-in-a-calorie-deficit",
+  "h1": "Can You Gain Muscle in a Calorie Deficit?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "day",
+    "item": "muscle gain in calorie deficit"
+  },
+  "assumptions": "Beginner to intermediate trainee, high-protein diet, resistance training 4x/week, 500 kcal daily deficit from maintenance.",
+  "disclaimer": "Results vary by experience, body composition, genetics, sleep, and consistency. Consult a professional for personalized advice.",
+  "quick_answer": {
+    "total_kcal": 2200,
+    "text": "Yes, beginners and those with higher body fat can gain muscle in a calorie deficit with high protein (1.6–2.2g/kg body weight) and progressive training."
+  },
+  "basis": {
+    "label": "per day in deficit",
+    "amount": 1,
+    "unit": "day",
+    "nutrition": {
+      "calories_kcal": 2200,
+      "carbs_g": 225,
+      "fiber_g": 30,
+      "sugars_g": 50,
+      "protein_g": 160,
+      "fat_g": 70,
+      "sat_fat_g": 20,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 300,
+      "sodium_mg": 2300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 2200,
+    "carbs_g": 225,
+    "fiber_g": 30,
+    "sugars_g": 50,
+    "protein_g": 160,
+    "fat_g": 70,
+    "sat_fat_g": 20,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 300,
+    "sodium_mg": 2300
+  },
+  "label_note": "Daily nutrition approximates a balanced intake for muscle preservation/gain in deficit, mirroring label-style macros for meal planning.",
+  "equivalents": {
+    "megajoules": 9.2
+  },
+  "tweaks": [
+    {
+      "label": "Increase protein to 200g (add whey shake)",
+      "delta_kcal_per_unit": 160,
+      "new_total_kcal": 2360
+    },
+    {
+      "label": "Reduce carbs by 50g for deeper deficit (cut rice portion)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 2000
+    },
+    {
+      "label": "Add healthy fats (1 tbsp olive oil)",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 2320
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "Can you gain muscle in a calorie deficit as a beginner?",
+      "a": "Yes, new trainees often experience 'newbie gains' even in a mild deficit with proper protein and training."
+    },
+    {
+      "q": "How much protein do you need to gain muscle in a calorie deficit?",
+      "a": "Aim for 1.6–2.2g per kg of body weight daily to support muscle repair and growth."
+    },
+    {
+      "q": "Is it harder for advanced lifters to gain muscle in a calorie deficit?",
+      "a": "Yes, experienced individuals typically need a surplus for muscle gain; deficit works better for recomp or fat loss."
+    },
+    {
+      "q": "What training is best for gaining muscle in a calorie deficit?",
+      "a": "Focus on progressive resistance training, 3–5 sessions per week, emphasizing compound lifts like squats and deadlifts."
+    },
+    {
+      "q": "How big should the calorie deficit be for muscle gain?",
+      "a": "Keep it mild (300–500 kcal below maintenance) to minimize muscle loss while allowing slow progress."
+    }
+  ]
+}

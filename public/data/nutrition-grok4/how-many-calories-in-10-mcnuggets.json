@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 10 mcnuggets",
+  "title": "How Many Calories in 10 McNuggets?",
+  "meta_description": "Discover how many calories in 10 McNuggets, including full nutrition breakdown like protein, fat, carbs, sodium, and easy tweaks for your meal.",
+  "slug": "how-many-calories-in-10-mcnuggets",
+  "h1": "How Many Calories in 10 McNuggets?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 10,
+    "unit": "mcnugget",
+    "item": "Chicken McNugget"
+  },
+  "assumptions": "Standard McDonald's Chicken McNuggets (breaded, fried chicken pieces, ~16.5 g each); no dipping sauce or sides included.",
+  "disclaimer": "Nutrition varies by restaurant, portion size, frying method, and customizations. Check McDonald's app or packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 460,
+    "text": "10 Chicken McNuggets provide ~460 kcal and ~24 g protein."
+  },
+  "basis": {
+    "label": "per 1 Chicken McNugget",
+    "amount": 1,
+    "unit": "mcnugget",
+    "nutrition": {
+      "calories_kcal": 46,
+      "carbs_g": 2.4,
+      "fiber_g": 0.1,
+      "sugars_g": 0,
+      "protein_g": 2.4,
+      "fat_g": 3,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 80
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 460,
+    "carbs_g": 24,
+    "fiber_g": 1,
+    "sugars_g": 0,
+    "protein_g": 24,
+    "fat_g": 30,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 100,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.92
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet of BBQ dipping sauce",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 510
+    },
+    {
+      "label": "Add 1 packet of sweet 'n sour sauce",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 520
+    },
+    {
+      "label": "Hypothetical grilled (no breading/oil) per nugget",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 260
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one McNugget?",
+      "a": "About 46 kcal per standard Chicken McNugget."
+    },
+    {
+      "q": "What is the protein in 10 McNuggets?",
+      "a": "Roughly 24 g of protein from 10 Chicken McNuggets."
+    },
+    {
+      "q": "Are McNuggets high in sodium?",
+      "a": "Yes, 10 McNuggets have ~800 mg sodium—watch if on a low-sodium diet."
+    },
+    {
+      "q": "Do McNuggets have trans fat?",
+      "a": "Typically 0 g trans fat in modern recipes, but check for updates."
+    },
+    {
+      "q": "How do sauces affect calories in 10 McNuggets?",
+      "a": "One sauce packet adds 45-70 kcal; choose low-cal options like honey mustard to minimize."
+    }
+  ]
+}

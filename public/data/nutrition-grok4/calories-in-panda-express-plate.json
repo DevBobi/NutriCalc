@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in panda express plate",
+  "title": "Calories in a Panda Express Plate",
+  "meta_description": "Discover calories in panda express plate, including macros, sodium, and tips for lighter options—typical plate around 1,190 kcal with entrees and side.",
+  "slug": "calories-in-panda-express-plate",
+  "h1": "Calories in a Panda Express Plate",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "plate",
+    "item": "panda express plate"
+  },
+  "assumptions": "Standard Plate: 1 serving Orange Chicken, 1 serving String Bean Chicken Breast, 1 serving Chow Mein. Values from official nutrition data, approximate.",
+  "disclaimer": "Nutrition varies by exact items chosen, portion size, preparation, and customizations. Check Panda Express app or site for latest info.",
+  "quick_answer": {
+    "total_kcal": 1190,
+    "text": "A typical Panda Express Plate has about 1,190 kcal, 48 g protein, and high sodium."
+  },
+  "basis": {
+    "label": "per 1 plate",
+    "amount": 1,
+    "unit": "plate",
+    "nutrition": {
+      "calories_kcal": 1190,
+      "carbs_g": 147,
+      "fiber_g": 3,
+      "sugars_g": 20,
+      "protein_g": 48,
+      "fat_g": 47,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 150,
+      "sodium_mg": 2180
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1190,
+    "carbs_g": 147,
+    "fiber_g": 3,
+    "sugars_g": 20,
+    "protein_g": 48,
+    "fat_g": 47,
+    "sat_fat_g": 9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 150,
+    "sodium_mg": 2180
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.98
+  },
+  "tweaks": [
+    {
+      "label": "Swap Chow Mein for Super Greens side",
+      "delta_kcal_per_unit": -340,
+      "new_total_kcal": 850
+    },
+    {
+      "label": "Choose two grilled entrees (e.g., Teriyaki Chicken, Mushroom Chicken)",
+      "delta_kcal_per_unit": -400,
+      "new_total_kcal": 790
+    },
+    {
+      "label": "Add cream cheese Rangoon (1 serving)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 1390
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Panda Express Plate?",
+      "a": "About 1,190 kcal for a typical plate with Orange Chicken, String Bean Chicken, and Chow Mein."
+    },
+    {
+      "q": "What's the protein in a Panda Express Plate?",
+      "a": "Around 48 g protein from the entrees."
+    },
+    {
+      "q": "Are Panda Express plates high in sodium?",
+      "a": "Yes, typically over 2,000 mg sodium due to sauces and seasonings."
+    },
+    {
+      "q": "How to make a lower-calorie Panda Express Plate?",
+      "a": "Opt for grilled entrees and veggie sides like Super Greens to cut ~300-400 kcal."
+    },
+    {
+      "q": "Calories in Panda Express Bigger Plate vs. regular?",
+      "a": "Bigger Plate (3 entrees + 1 side) adds ~300-500 kcal more than a standard Plate."
+    }
+  ]
+}

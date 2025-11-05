@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a hamburger patty",
+  "title": "Calories in a Hamburger Patty",
+  "meta_description": "Find out calories in a hamburger patty (about 230 kcal for a standard beef one), plus protein, fat, carbs, full nutrition facts, and preparation tweaks.",
+  "slug": "calories-in-a-hamburger-patty",
+  "h1": "Calories in a Hamburger Patty",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "patty",
+    "item": "hamburger patty"
+  },
+  "assumptions": "80% lean ground beef, broiled or grilled, no added salt/seasonings, ~85g cooked weight (from 113g raw).",
+  "disclaimer": "Nutrition varies by meat leaness, cooking method, added ingredients, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 230,
+    "text": "A standard cooked hamburger patty provides ~230 kcal and ~22 g protein."
+  },
+  "basis": {
+    "label": "per 1 hamburger patty",
+    "amount": 1,
+    "unit": "patty",
+    "nutrition": {
+      "calories_kcal": 230,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 22,
+      "fat_g": 15,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 80,
+      "sodium_mg": 70
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 230,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 22,
+    "fat_g": 15,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 80,
+    "sodium_mg": 70
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.96
+  },
+  "tweaks": [
+    {
+      "label": "Use 90% lean ground beef (less fat)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Add 1 slice cheddar cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Pan-fried with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a hamburger patty?",
+      "a": "About 230 kcal for a standard 80% lean beef patty, cooked."
+    },
+    {
+      "q": "What's the protein in a hamburger patty?",
+      "a": "Roughly 22 g protein per patty."
+    },
+    {
+      "q": "Does a leaner patty have fewer calories?",
+      "a": "Yes, a 90% lean patty drops to ~170 kcal."
+    },
+    {
+      "q": "Are there carbs in a hamburger patty?",
+      "a": "No carbs, fiber, or sugars in plain beef patty."
+    },
+    {
+      "q": "How does cooking method affect calories in a hamburger patty?",
+      "a": "Grilling/broiling is lower calorie than frying, which adds ~40 kcal from oil."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in twisted tea",
+  "title": "How Many Calories in Twisted Tea?",
+  "meta_description": "Discover how many calories in twisted tea per 12 oz bottle, including carbs, sugars, alcohol content, and variations for better choices.",
+  "slug": "how-many-calories-in-twisted-tea",
+  "h1": "How Many Calories in Twisted Tea?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "Twisted Tea"
+  },
+  "assumptions": "Standard 12 oz bottle of original Twisted Tea hard iced tea (5% ABV), no added mixers.",
+  "disclaimer": "Nutrition varies by flavor, brand batch, serving size, and any added ingredients. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 144,
+    "text": "One 12 oz bottle of Twisted Tea contains 144 calories, mostly from carbs and alcohol."
+  },
+  "basis": {
+    "label": "per 1 bottle (12 oz)",
+    "amount": 1,
+    "unit": "bottle",
+    "nutrition": {
+      "calories_kcal": 144,
+      "carbs_g": 13.5,
+      "fiber_g": 0,
+      "sugars_g": 13.5,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 144,
+    "carbs_g": 13.5,
+    "fiber_g": 0,
+    "sugars_g": 13.5,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.6
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Twisted Tea Light (per bottle)",
+      "delta_kcal_per_unit": -94,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Add a splash of lemon juice (minimal change)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 149
+    },
+    {
+      "label": "Original vs. Peach flavor (similar calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 144
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Twisted Tea bottle?",
+      "a": "About 144 calories in a standard 12 oz bottle of original Twisted Tea."
+    },
+    {
+      "q": "What are the carbs in Twisted Tea?",
+      "a": "13.5 g carbs per 12 oz bottle, all from sugars, with 0 g fiber."
+    },
+    {
+      "q": "Does Twisted Tea have protein or fat?",
+      "a": "No protein or fat—it's primarily carbs and alcohol at 5% ABV."
+    },
+    {
+      "q": "How does Twisted Tea Light compare?",
+      "a": "Twisted Tea Light has only 50 calories per bottle, with fewer carbs (4 g)."
+    },
+    {
+      "q": "Is Twisted Tea low-sodium?",
+      "a": "Yes, about 10 mg sodium per bottle, making it a lower-sodium alcoholic option."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in small fry burger king",
+  "title": "Calories in Small Fries from Burger King",
+  "meta_description": "Learn calories in small fry Burger King: about 220 kcal per small serving, plus full macros, sodium, and tweaks for custom orders.",
+  "slug": "calories-in-small-fry-burger-king",
+  "h1": "Calories in Small Fries from Burger King",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small fry",
+    "item": "Burger King fries"
+  },
+  "assumptions": "Standard Burger King small french fries (~76 g), cooked in vegetable oil blend; no added salt or toppings.",
+  "disclaimer": "Nutrition varies by location, preparation, oil type, and portion size. Check Burger King app or packaging for latest values.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "A small order of Burger King fries provides ~220 kcal, 29 g carbs, and 10 g fat."
+  },
+  "basis": {
+    "label": "per 1 small serving",
+    "amount": 1,
+    "unit": "small fry",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 29,
+      "fiber_g": 3,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 10,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 290
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 29,
+    "fiber_g": 3,
+    "sugars_g": 0,
+    "protein_g": 3,
+    "fat_g": 10,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 290
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with fast food info.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "No salt (reduces sodium but not calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Upgrade to medium size (~113 g)",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 310
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in small fry Burger King?",
+      "a": "Approximately 220 kcal for a small serving."
+    },
+    {
+      "q": "What's the fat content in Burger King small fries?",
+      "a": "About 10 g total fat, including 1.5 g saturated fat."
+    },
+    {
+      "q": "Do Burger King small fries have protein?",
+      "a": "Yes, roughly 3 g protein per small order."
+    },
+    {
+      "q": "How much sodium in small fry from Burger King?",
+      "a": "Around 290 mg sodium per small serving."
+    },
+    {
+      "q": "Are Burger King fries gluten-free?",
+      "a": "Generally yes, but cross-contamination possible; check with store for allergies."
+    }
+  ]
+}

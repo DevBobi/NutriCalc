@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sausage mcgriddle",
+  "title": "Calories in a Sausage McGriddle",
+  "meta_description": "Learn calories in sausage mcgriddle from McDonald's, including full nutrition facts like protein, carbs, fat, sodium, and quick variations for your breakfast.",
+  "slug": "calories-in-sausage-mcgriddle",
+  "h1": "Calories in a Sausage McGriddle",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sausage mcgriddle",
+    "item": "sausage mcgriddle"
+  },
+  "assumptions": "McDonald's Sausage McGriddle: sausage patty, folded egg, American cheese on maple-flavored griddle cakes; standard serving size ~195 g.",
+  "disclaimer": "Nutrition varies by location, customizations, and preparation; values based on standard U.S. McDonald's data. Check app or labels for latest.",
+  "quick_answer": {
+    "total_kcal": 550,
+    "text": "One Sausage McGriddle has about 550 kcal, with 18 g protein and 48 g carbs."
+  },
+  "basis": {
+    "label": "per 1 sausage mcgriddle",
+    "amount": 1,
+    "unit": "sausage mcgriddle",
+    "nutrition": {
+      "calories_kcal": 550,
+      "carbs_g": 48,
+      "fiber_g": 2,
+      "sugars_g": 15,
+      "protein_g": 18,
+      "fat_g": 31,
+      "sat_fat_g": 11,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 80,
+      "sodium_mg": 1120
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 550,
+    "carbs_g": 48,
+    "fiber_g": 2,
+    "sugars_g": 15,
+    "protein_g": 18,
+    "fat_g": 31,
+    "sat_fat_g": 11,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 80,
+    "sodium_mg": 1120
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.3
+  },
+  "tweaks": [
+    {
+      "label": "Remove American cheese",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Add one hash brown patty",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 690
+    },
+    {
+      "label": "Bacon instead of sausage",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 530
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a McDonald's sausage mcgriddle?",
+      "a": "Approximately 550 kcal for one standard Sausage McGriddle."
+    },
+    {
+      "q": "What's the protein in sausage mcgriddle?",
+      "a": "About 18 g protein per Sausage McGriddle."
+    },
+    {
+      "q": "Are sausage mcgriddles high in sodium?",
+      "a": "Yes, around 1120 mg sodium due to sausage, cheese, and pancakes."
+    },
+    {
+      "q": "How many carbs in a sausage mcgriddle?",
+      "a": "Roughly 48 g carbs, including 15 g sugars from maple-flavored cakes."
+    },
+    {
+      "q": "Can I make a lower-calorie sausage mcgriddle?",
+      "a": "Yes, skip cheese or use egg whites to reduce by 50+ kcal."
+    }
+  ]
+}

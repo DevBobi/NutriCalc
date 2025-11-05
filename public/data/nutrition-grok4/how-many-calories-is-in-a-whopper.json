@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in a whopper",
+  "title": "How Many Calories in a Whopper?",
+  "meta_description": "Discover how many calories is in a whopper from Burger King, including full nutrition breakdown, macros, and variations for your meal planning.",
+  "slug": "how-many-calories-is-in-a-whopper",
+  "h1": "How Many Calories in a Whopper?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "Whopper",
+    "item": "Whopper"
+  },
+  "assumptions": "Standard Burger King Whopper: flame-grilled beef patty, sesame seed bun, lettuce, tomatoes, pickles, onions, ketchup, mayo; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, customizations, and exact ingredients. Check Burger King app or packaging for latest values.",
+  "quick_answer": {
+    "total_kcal": 670,
+    "text": "A standard Whopper has about 670 kcal, with 28 g protein and 51 g carbs."
+  },
+  "basis": {
+    "label": "per 1 Whopper",
+    "amount": 1,
+    "unit": "Whopper",
+    "nutrition": {
+      "calories_kcal": 670,
+      "carbs_g": 51,
+      "fiber_g": 2,
+      "sugars_g": 11,
+      "protein_g": 28,
+      "fat_g": 40,
+      "sat_fat_g": 12,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 90,
+      "sodium_mg": 980
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 670,
+    "carbs_g": 51,
+    "fiber_g": 2,
+    "sugars_g": 11,
+    "protein_g": 28,
+    "fat_g": 40,
+    "sat_fat_g": 12,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 90,
+    "sodium_mg": 980
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.8
+  },
+  "tweaks": [
+    {
+      "label": "Add one slice of American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 720
+    },
+    {
+      "label": "Remove mayonnaise",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 580
+    },
+    {
+      "label": "Whopper Jr. (smaller patty and bun)",
+      "delta_kcal_per_unit": -250,
+      "new_total_kcal": 420
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in a whopper without mayo?",
+      "a": "About 580 kcal, saving roughly 90 kcal from removing the mayo."
+    },
+    {
+      "q": "What is the protein in a Whopper?",
+      "a": "Approximately 28 g of protein per standard Whopper."
+    },
+    {
+      "q": "How much sodium is in a Whopper?",
+      "a": "Around 980 mg of sodium, mostly from the bun and condiments."
+    },
+    {
+      "q": "Are there trans fats in a Whopper?",
+      "a": "Yes, about 1 g of trans fat per Whopper from the beef patty."
+    },
+    {
+      "q": "How does a Whopper compare to a Big Mac in calories?",
+      "a": "A Whopper has 670 kcal; a Big Mac has about 590 kcal—similar but Whopper is higher in fat."
+    }
+  ]
+}

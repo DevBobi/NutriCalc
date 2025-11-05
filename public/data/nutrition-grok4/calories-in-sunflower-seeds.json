@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sunflower seeds",
+  "title": "Calories in Sunflower Seeds",
+  "meta_description": "Learn calories in sunflower seeds per 100g, including full nutrition facts like fats, protein, carbs, fiber, and quick serving tweaks for better tracking.",
+  "slug": "calories-in-sunflower-seeds",
+  "h1": "Calories in Sunflower Seeds",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "sunflower seeds"
+  },
+  "assumptions": "Dry-roasted, unsalted, shelled sunflower seeds; standard kernel variety.",
+  "disclaimer": "Nutrition varies by brand, roast type, whether shelled, added oils/salt, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 584,
+    "text": "100g of dry-roasted sunflower seeds pack about 584 kcal, mainly from healthy unsaturated fats and 21g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 584,
+      "carbs_g": 20,
+      "fiber_g": 8.6,
+      "sugars_g": 2.6,
+      "protein_g": 20.8,
+      "fat_g": 51.5,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 9
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 584,
+    "carbs_g": 20,
+    "fiber_g": 8.6,
+    "sugars_g": 2.6,
+    "protein_g": 20.8,
+    "fat_g": 51.5,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 9
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.44
+  },
+  "tweaks": [
+    {
+      "label": "Oil-roasted (vs dry-roasted)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 604
+    },
+    {
+      "label": "Salted version (adds sodium)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 584
+    },
+    {
+      "label": "Raw (unroasted) sunflower seeds",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 579
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 oz of sunflower seeds?",
+      "a": "About 163 kcal for 28g (1 oz) of dry-roasted sunflower seeds."
+    },
+    {
+      "q": "Are sunflower seeds high in fat?",
+      "a": "Yes, 51.5g total fat per 100g, but mostly healthy unsaturated fats."
+    },
+    {
+      "q": "How much protein in sunflower seeds?",
+      "a": "Around 20.8g protein per 100g, making them a good plant-based source."
+    },
+    {
+      "q": "Do sunflower seeds have fiber?",
+      "a": "Yes, about 8.6g dietary fiber per 100g, aiding digestion."
+    },
+    {
+      "q": "Calories in shelled vs unshelled sunflower seeds?",
+      "a": "Similar per edible kernel weight; unshelled includes inedible hulls, so measure kernels for accuracy."
+    }
+  ]
+}

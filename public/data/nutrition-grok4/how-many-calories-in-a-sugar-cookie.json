@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a sugar cookie",
+  "title": "How Many Calories in a Sugar Cookie?",
+  "meta_description": "Discover how many calories in a sugar cookie, including carbs, sugars, fat, protein, and quick tweaks for variations like frosted options.",
+  "slug": "how-many-calories-in-a-sugar-cookie",
+  "h1": "How Many Calories in a Sugar Cookie?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cookie",
+    "item": "sugar cookie"
+  },
+  "assumptions": "Medium-sized (about 30g), homemade or store-bought, plain (no frosting), baked with butter and sugar.",
+  "disclaimer": "Nutrition varies by recipe, size, brand, frosting, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "A typical sugar cookie contains about 120 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 sugar cookie",
+    "amount": 1,
+    "unit": "cookie",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 17,
+      "fiber_g": 0.5,
+      "sugars_g": 10,
+      "protein_g": 1.5,
+      "fat_g": 5,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 20,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 17,
+    "fiber_g": 0.5,
+    "sugars_g": 10,
+    "protein_g": 1.5,
+    "fat_g": 5,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 20,
+    "sodium_mg": 100
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Add frosting (1 tsp per cookie)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Use margarine instead of butter",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Smaller cookie (half size)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 60
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a sugar cookie?",
+      "a": "About 120 kcal for a medium plain sugar cookie."
+    },
+    {
+      "q": "What are the carbs in a sugar cookie?",
+      "a": "Roughly 17 g carbs, including 10 g sugars and 0.5 g fiber."
+    },
+    {
+      "q": "Does frosting add many calories to a sugar cookie?",
+      "a": "Yes, about 50 extra kcal per teaspoon of frosting."
+    },
+    {
+      "q": "How much fat is in a sugar cookie?",
+      "a": "Around 5 g total fat, with 3 g saturated."
+    },
+    {
+      "q": "Are sugar cookies high in sodium?",
+      "a": "Moderate at 100 mg per cookie; varies by recipe."
+    }
+  ]
+}

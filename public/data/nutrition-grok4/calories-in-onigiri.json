@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in onigiri",
+  "title": "Calories in Onigiri",
+  "meta_description": "Learn calories in onigiri for a standard serving, including carbs, protein, fat, and full nutrition details with tweaks and FAQs.",
+  "slug": "calories-in-onigiri",
+  "h1": "Calories in Onigiri",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "onigiri",
+    "item": "onigiri"
+  },
+  "assumptions": "Standard plain onigiri (triangular rice ball, ~110g), made with short-grain white rice, lightly salted, wrapped in nori seaweed; no filling.",
+  "disclaimer": "Nutrition varies by size, rice type, filling, brand, and preparation method. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 180,
+    "text": "One standard onigiri provides about 180 kcal, mostly from carbohydrates in the rice."
+  },
+  "basis": {
+    "label": "per 1 onigiri",
+    "amount": 1,
+    "unit": "onigiri",
+    "nutrition": {
+      "calories_kcal": 180,
+      "carbs_g": 40,
+      "fiber_g": 0.5,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 1,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 180,
+    "carbs_g": 40,
+    "fiber_g": 0.5,
+    "sugars_g": 0,
+    "protein_g": 3,
+    "fat_g": 1,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 300
+  },
+  "label_note": "Values align with Nutrition Facts label format for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.75
+  },
+  "tweaks": [
+    {
+      "label": "Add umeboshi (pickled plum) filling",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Salmon flake filling",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Use brown rice instead of white",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one onigiri?",
+      "a": "Approximately 180 kcal for a standard plain onigiri."
+    },
+    {
+      "q": "What are the main nutrients in onigiri?",
+      "a": "Primarily 40g carbs from rice, 3g protein, 1g fat, with low fiber and sugars."
+    },
+    {
+      "q": "Do fillings affect calories in onigiri?",
+      "a": "Yes—salmon adds ~60 kcal, tuna mayo ~100 kcal per onigiri."
+    },
+    {
+      "q": "Is onigiri high in sodium?",
+      "a": "Often yes, around 300mg per plain onigiri due to salt in rice and seaweed."
+    },
+    {
+      "q": "How does onigiri size impact calories?",
+      "a": "Larger onigiri (~150g) can reach 250 kcal; smaller ones under 150 kcal."
+    }
+  ]
+}

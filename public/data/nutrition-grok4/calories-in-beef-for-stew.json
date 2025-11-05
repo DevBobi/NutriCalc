@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in beef for stew",
+  "title": "Calories in Beef for Stew",
+  "meta_description": "Learn calories in beef for stew per 100g, including protein, fat, carbs, and full nutrition details for stewing beef.",
+  "slug": "calories-in-beef-for-stew",
+  "h1": "Calories in Beef for Stew",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "beef for stew"
+  },
+  "assumptions": "Lean chuck beef cubes, braised/cooked, trimmed of visible fat, no added salt, oil, or vegetables.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and added ingredients. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "100g of cooked beef for stew provides ~190 kcal and ~30g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 30,
+      "fat_g": 6.5,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 90,
+      "sodium_mg": 70
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 30,
+    "fat_g": 6.5,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 90,
+    "sodium_mg": 70
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Include fat trim (vs. lean only)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 235
+    },
+    {
+      "label": "Add 1 tsp oil per 100g during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Raw beef cubes (vs. cooked)",
+      "delta_kcal_per_unit": -55,
+      "new_total_kcal": 135
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of beef for stew?",
+      "a": "About 190 kcal for cooked lean beef for stew."
+    },
+    {
+      "q": "What's the protein in beef for stew?",
+      "a": "Approximately 30g protein per 100g cooked."
+    },
+    {
+      "q": "Does beef for stew have carbs?",
+      "a": "No carbs, fiber, or sugars in plain cooked beef for stew."
+    },
+    {
+      "q": "How does cooking affect calories in beef for stew?",
+      "a": "Cooking reduces water content, increasing calories per gram compared to raw (135 kcal raw vs. 190 kcal cooked)."
+    },
+    {
+      "q": "What cut is best for low-calorie beef stew?",
+      "a": "Lean chuck or round cuts; trim fat to keep under 200 kcal per 100g cooked."
+    }
+  ]
+}

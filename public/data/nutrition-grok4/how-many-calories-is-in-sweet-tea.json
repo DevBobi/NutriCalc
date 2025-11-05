@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in sweet tea",
+  "title": "How Many Calories Are in Sweet Tea?",
+  "meta_description": "Discover how many calories is in sweet tea per 8 oz serving, including carbs from sugar, sodium, and tips for lower-calorie versions.",
+  "slug": "how-many-calories-is-in-sweet-tea",
+  "h1": "How Many Calories Are in Sweet Tea?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "8 oz serving",
+    "item": "sweet tea"
+  },
+  "assumptions": "Standard iced sweet tea (Southern-style), brewed black tea with added white sugar, no lemon or other flavors; 8 oz (240 ml) serving.",
+  "disclaimer": "Nutrition varies by brand, sugar amount, tea strength, and preparation; homemade vs. bottled differs. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 86,
+    "text": "One 8 oz serving of sweet tea contains about 86 calories, primarily from 22 g of sugar."
+  },
+  "basis": {
+    "label": "per 8 oz serving",
+    "amount": 1,
+    "unit": "8 oz serving",
+    "nutrition": {
+      "calories_kcal": 86,
+      "carbs_g": 22,
+      "fiber_g": 0,
+      "sugars_g": 22,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 86,
+    "carbs_g": 22,
+    "fiber_g": 0,
+    "sugars_g": 22,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 7
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.36
+  },
+  "tweaks": [
+    {
+      "label": "Unsweetened (no added sugar)",
+      "delta_kcal_per_unit": -86,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "With diet sweetener (e.g., stevia instead of sugar)",
+      "delta_kcal_per_unit": -86,
+      "new_total_kcal": 2
+    },
+    {
+      "label": "Extra sweet (double sugar)",
+      "delta_kcal_per_unit": 86,
+      "new_total_kcal": 172
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in sweet tea per serving?",
+      "a": "About 86 calories in an 8 oz serving of standard sweet tea."
+    },
+    {
+      "q": "Are there carbs in sweet tea?",
+      "a": "Yes, around 22 g of carbs per 8 oz, all from added sugars; no fiber."
+    },
+    {
+      "q": "How does bottled sweet tea compare to homemade?",
+      "a": "Bottled versions vary but often have 90-120 kcal per 8 oz due to added preservatives and varying sugar."
+    },
+    {
+      "q": "Can I make low-calorie sweet tea?",
+      "a": "Yes, use zero-calorie sweeteners like Splenda or stevia to drop calories to nearly 0 while keeping it sweet."
+    },
+    {
+      "q": "What's the sugar content in sweet tea?",
+      "a": "Typically 22 g of sugars per 8 oz serving, equivalent to about 5-6 teaspoons."
+    }
+  ]
+}

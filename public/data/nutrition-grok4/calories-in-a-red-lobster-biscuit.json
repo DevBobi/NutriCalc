@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a red lobster biscuit",
+  "title": "Calories in a Red Lobster Biscuit",
+  "meta_description": "Discover calories in a red lobster biscuit, including full nutrition breakdown, macros, and variations for this popular Cheddar Bay treat.",
+  "slug": "calories-in-a-red-lobster-biscuit",
+  "h1": "Calories in a Red Lobster Biscuit",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "biscuit",
+    "item": "red lobster biscuit"
+  },
+  "assumptions": "Standard Cheddar Bay Biscuit from Red Lobster, freshly baked, including cheddar cheese and garlic butter topping.",
+  "disclaimer": "Nutrition varies by restaurant preparation, portion size, and recipe changes; check Red Lobster's menu for latest info.",
+  "quick_answer": {
+    "total_kcal": 160,
+    "text": "One Red Lobster Cheddar Bay Biscuit has about 160 kcal, with 9 g fat and 3 g protein."
+  },
+  "basis": {
+    "label": "per 1 biscuit",
+    "amount": 1,
+    "unit": "biscuit",
+    "nutrition": {
+      "calories_kcal": 160,
+      "carbs_g": 16,
+      "fiber_g": 0.5,
+      "sugars_g": 1,
+      "protein_g": 3,
+      "fat_g": 9,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 380
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 160,
+    "carbs_g": 16,
+    "fiber_g": 0.5,
+    "sugars_g": 1,
+    "protein_g": 3,
+    "fat_g": 9,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 380
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.67
+  },
+  "tweaks": [
+    {
+      "label": "Extra garlic butter topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Homemade version without cheese",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Gluten-free flour substitute",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Red Lobster biscuit?",
+      "a": "Approximately 160 kcal per Cheddar Bay Biscuit."
+    },
+    {
+      "q": "What are the carbs in a red lobster biscuit?",
+      "a": "About 16 g carbs, including 0.5 g fiber and 1 g sugars."
+    },
+    {
+      "q": "Is a Red Lobster biscuit high in sodium?",
+      "a": "Yes, around 380 mg sodium per biscuit due to cheese and seasoning."
+    },
+    {
+      "q": "How much fat in one red lobster biscuit?",
+      "a": "9 g total fat, with 4 g saturated fat from butter and cheese."
+    },
+    {
+      "q": "Can I make a lower-calorie red lobster biscuit at home?",
+      "a": "Yes, reduce butter or cheese to cut ~30-50 kcal per biscuit."
+    }
+  ]
+}

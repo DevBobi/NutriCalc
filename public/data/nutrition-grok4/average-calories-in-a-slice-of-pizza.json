@@ -1,0 +1,92 @@
+{
+  "keyword": "average calories in a slice of pizza",
+  "title": "Average Calories in a Slice of Pizza",
+  "meta_description": "Discover the average calories in a slice of pizza—around 285 kcal—plus carbs, protein, fat, and tips for variations to fit your diet.",
+  "slug": "average-calories-in-a-slice-of-pizza",
+  "h1": "Average Calories in a Slice of Pizza",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "pizza"
+  },
+  "assumptions": "Standard 14-inch cheese pizza, one slice (1/8 of pie, ~110g), thin crust, mozzarella cheese, tomato sauce; no extra toppings.",
+  "disclaimer": "Nutrition varies by pizza size, crust type, toppings, brand, and preparation. Check labels or restaurant info when available.",
+  "quick_answer": {
+    "total_kcal": 285,
+    "text": "An average slice of cheese pizza contains about 285 calories and 12g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 285,
+      "carbs_g": 35,
+      "fiber_g": 2,
+      "sugars_g": 4,
+      "protein_g": 12,
+      "fat_g": 10,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 285,
+    "carbs_g": 35,
+    "fiber_g": 2,
+    "sugars_g": 4,
+    "protein_g": 12,
+    "fat_g": 10,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.19
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni (2-3 slices per slice)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 335
+    },
+    {
+      "label": "Thick crust instead of thin",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 345
+    },
+    {
+      "label": "Veggie toppings (e.g., peppers, onions) instead of meat",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 265
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "What is the average calories in a slice of pizza?",
+      "a": "About 285 kcal for a standard cheese slice."
+    },
+    {
+      "q": "How many carbs in a slice of pizza?",
+      "a": "Roughly 35g carbs, including 2g fiber, per average slice."
+    },
+    {
+      "q": "Does pizza slice calories vary by toppings?",
+      "a": "Yes—meat toppings add 50+ kcal; veggies may reduce by 20 kcal."
+    },
+    {
+      "q": "What about sodium in a pizza slice?",
+      "a": "Around 600mg per slice, mostly from cheese and sauce."
+    },
+    {
+      "q": "Are calories higher for deep-dish pizza?",
+      "a": "Yes, a deep-dish slice can add 100+ kcal due to thicker crust."
+    }
+  ]
+}

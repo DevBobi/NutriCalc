@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in imitation crab",
+  "title": "Calories in Imitation Crab",
+  "meta_description": "Learn calories in imitation crab per 100g serving, including carbs, protein, fat, sodium, and full nutrition facts for easy meal planning.",
+  "slug": "calories-in-imitation-crab",
+  "h1": "Calories in Imitation Crab",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "imitation crab"
+  },
+  "assumptions": "Standard imitation crab (surimi-based seafood sticks), commercial product, plain without added sauces or seasonings.",
+  "disclaimer": "Nutrition varies by brand, processing, ingredients, and portion size; check product labels for accurate values.",
+  "quick_answer": {
+    "total_kcal": 95,
+    "text": "Imitation crab provides about 95 kcal per 100g, mainly from carbs with moderate protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 15,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 8,
+      "fat_g": 0.5,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 95,
+    "carbs_g": 15,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 8,
+    "fat_g": 0.5,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 800
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp mayonnaise per 100g",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 185
+    },
+    {
+      "label": "Mixed with 50g cooked rice per 100g crab",
+      "delta_kcal_per_unit": 65,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Low-sodium version (reduced salt)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 95
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in imitation crab per serving?",
+      "a": "About 95 kcal per 100g serving of plain imitation crab."
+    },
+    {
+      "q": "What is the protein content in imitation crab?",
+      "a": "Roughly 8g protein per 100g, lower than real crab due to fish paste base."
+    },
+    {
+      "q": "Why is sodium high in imitation crab?",
+      "a": "Processing adds salt for flavor and texture; about 800mg per 100g."
+    },
+    {
+      "q": "Does imitation crab have carbs?",
+      "a": "Yes, around 15g per 100g from added starch binders, unlike real crab."
+    },
+    {
+      "q": "Is imitation crab low in fat?",
+      "a": "Very low at 0.5g fat per 100g, making it a lean seafood alternative."
+    }
+  ]
+}

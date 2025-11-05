@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ahi tuna",
+  "title": "Calories in Ahi Tuna",
+  "meta_description": "Discover calories in ahi tuna per 100 g serving, including protein, fat, carbs, and full nutrition breakdown for raw yellowfin tuna.",
+  "slug": "calories-in-ahi-tuna",
+  "h1": "Calories in Ahi Tuna",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "ahi tuna"
+  },
+  "assumptions": "Raw ahi tuna (yellowfin tuna), sushi-grade, no added seasonings or oils.",
+  "disclaimer": "Nutrition varies by fish freshness, cut, preparation method, and sourcing; consult labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 108,
+    "text": "100 g of raw ahi tuna contains about 108 kcal and 24 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 108,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 23.6,
+      "fat_g": 0.96,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 45,
+      "sodium_mg": 36
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 108,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 23.6,
+    "fat_g": 0.96,
+    "sat_fat_g": 0.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 45,
+    "sodium_mg": 36
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged seafood.",
+  "equivalents": {
+    "megajoules": 0.45
+  },
+  "tweaks": [
+    {
+      "label": "Seared (lightly cooked) with 1 tsp sesame oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 148
+    },
+    {
+      "label": "Cooked (grilled) without added fat",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 118
+    },
+    {
+      "label": "With soy sauce marinade (1 tbsp per 100 g)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 118
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in ahi tuna per 100 g?",
+      "a": "About 108 kcal for raw ahi tuna."
+    },
+    {
+      "q": "Is ahi tuna high in protein?",
+      "a": "Yes, 100 g provides roughly 24 g of protein."
+    },
+    {
+      "q": "Does ahi tuna have carbs or fat?",
+      "a": "0 g carbs and only 1 g fat per 100 g raw."
+    },
+    {
+      "q": "What's the difference in calories for cooked ahi tuna?",
+      "a": "Lightly seared adds minimal calories; grilling without oil increases to ~118 kcal per 100 g."
+    },
+    {
+      "q": "Is ahi tuna low in sodium?",
+      "a": "Yes, raw ahi tuna has about 36 mg sodium per 100 g, but marinades can increase it."
+    }
+  ]
+}

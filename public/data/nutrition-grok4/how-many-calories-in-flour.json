@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in flour",
+  "title": "How Many Calories in Flour?",
+  "meta_description": "Learn how many calories in flour per 100g, including carbs, protein, fat, and full nutrition breakdown for all-purpose flour.",
+  "slug": "how-many-calories-in-flour",
+  "h1": "How Many Calories in Flour?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "flour"
+  },
+  "assumptions": "All-purpose white flour, sifted, unenriched; standard refined wheat flour.",
+  "disclaimer": "Nutrition varies by type (e.g., whole wheat, bleached), brand, enrichment, and processing. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 364,
+    "text": "100g of all-purpose flour provides about 364 kcal, primarily from carbohydrates."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 364,
+      "carbs_g": 76,
+      "fiber_g": 2.7,
+      "sugars_g": 0.3,
+      "protein_g": 10,
+      "fat_g": 1,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 364,
+    "carbs_g": 76,
+    "fiber_g": 2.7,
+    "sugars_g": 0.3,
+    "protein_g": 10,
+    "fat_g": 1,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.52
+  },
+  "tweaks": [
+    {
+      "label": "Switch to whole wheat flour",
+      "delta_kcal_per_unit": -24,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Use self-rising flour (added leavening agents)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 369
+    },
+    {
+      "label": "Add 1 tbsp granulated sugar per 100g",
+      "delta_kcal_per_unit": 49,
+      "new_total_kcal": 413
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cup of flour?",
+      "a": "About 455 kcal for 1 cup (125g) of all-purpose flour."
+    },
+    {
+      "q": "Is flour high in carbs?",
+      "a": "Yes, 76g carbs per 100g, mostly starch with low fiber (2.7g)."
+    },
+    {
+      "q": "How much protein in flour?",
+      "a": "Around 10g protein per 100g of all-purpose flour."
+    },
+    {
+      "q": "Calories in whole wheat vs white flour?",
+      "a": "Whole wheat has ~340 kcal per 100g, slightly less than white flour's 364 kcal."
+    },
+    {
+      "q": "Does flour have fat or cholesterol?",
+      "a": "Minimal fat (1g per 100g) and 0mg cholesterol."
+    }
+  ]
+}

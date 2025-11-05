@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in two strips of bacon",
+  "title": "Calories in Two Strips of Bacon",
+  "meta_description": "Learn calories in two strips of bacon, plus detailed nutrition like fat, protein, sodium, and easy tweaks for variations.",
+  "slug": "calories-in-two-strips-of-bacon",
+  "h1": "Calories in Two Strips of Bacon",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 2,
+    "unit": "strip",
+    "item": "bacon"
+  },
+  "assumptions": "Standard pork bacon strips, pan-fried until crispy; average weight ~8 g per cooked strip, no added seasonings.",
+  "disclaimer": "Nutrition varies by brand, cut thickness, cooking method, and fat drainage. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 86,
+    "text": "Two strips of cooked bacon provide ~86 kcal and ~6 g protein."
+  },
+  "basis": {
+    "label": "per 1 strip",
+    "amount": 1,
+    "unit": "strip",
+    "nutrition": {
+      "calories_kcal": 43,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 3.3,
+      "sat_fat_g": 1.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 9,
+      "sodium_mg": 192
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 86,
+    "carbs_g": 0.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 6,
+    "fat_g": 6.6,
+    "sat_fat_g": 2.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 18,
+    "sodium_mg": 384
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.36
+  },
+  "tweaks": [
+    {
+      "label": "Switch to turkey bacon per strip",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 46
+    },
+    {
+      "label": "Use thick-cut bacon per strip",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 126
+    },
+    {
+      "label": "Oven-baked with less oil drained",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 76
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one strip of bacon?",
+      "a": "About 43 kcal per standard cooked pork bacon strip."
+    },
+    {
+      "q": "What's the fat content in two strips of bacon?",
+      "a": "Roughly 6.6 g total fat, including 2.2 g saturated fat."
+    },
+    {
+      "q": "Are there carbs in bacon?",
+      "a": "Very few—about 0.2 g carbs in two strips, with 0 g fiber."
+    },
+    {
+      "q": "How much sodium is in two strips of bacon?",
+      "a": "Approximately 384 mg, which can vary by brand and curing."
+    },
+    {
+      "q": "Does cooking method affect calories in bacon?",
+      "a": "Yes—frying retains more fat than baking or microwaving with draining."
+    }
+  ]
+}

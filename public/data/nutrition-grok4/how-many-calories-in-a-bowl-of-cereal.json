@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a bowl of cereal",
+  "title": "How Many Calories in a Bowl of Cereal?",
+  "meta_description": "Discover how many calories in a bowl of cereal, including a typical serving with milk, full nutrition breakdown, and easy tweaks for different options.",
+  "slug": "how-many-calories-in-a-bowl-of-cereal",
+  "h1": "How Many Calories in a Bowl of Cereal?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "cereal"
+  },
+  "assumptions": "30 g cornflakes (dry) with 240 ml skim milk; no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by cereal type, brand, milk fat content, portion size, and additions. Check labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "A standard bowl of cornflakes with skim milk contains about 190 kcal and 10 g protein."
+  },
+  "basis": {
+    "label": "per 1 bowl",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 36,
+      "fiber_g": 0.5,
+      "sugars_g": 18,
+      "protein_g": 10,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 280
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 36,
+    "fiber_g": 0.5,
+    "sugars_g": 18,
+    "protein_g": 10,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 280
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Use whole milk instead of skim",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Add one medium banana (sliced)",
+      "delta_kcal_per_unit": 105,
+      "new_total_kcal": 295
+    },
+    {
+      "label": "Dry cereal only (no milk)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bowl of cereal with milk?",
+      "a": "About 190 kcal for 30 g cornflakes with 240 ml skim milk."
+    },
+    {
+      "q": "Does the type of cereal affect calories?",
+      "a": "Yes—sugary cereals can add 50+ kcal per bowl compared to plain ones."
+    },
+    {
+      "q": "How much protein in a bowl of cereal?",
+      "a": "Roughly 10 g, mostly from the milk; cereal alone provides about 2 g."
+    },
+    {
+      "q": "Are there carbs in a bowl of cereal?",
+      "a": "Yes, around 36 g total, with most from the cereal and milk sugars."
+    },
+    {
+      "q": "How to reduce calories in cereal?",
+      "a": "Use low-fat milk, smaller portions, or opt for high-fiber, low-sugar varieties."
+    }
+  ]
+}

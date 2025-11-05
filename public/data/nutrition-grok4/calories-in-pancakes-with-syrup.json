@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pancakes with syrup",
+  "title": "Calories in Pancakes with Syrup",
+  "meta_description": "Discover calories in pancakes with syrup for a standard serving of two, plus full nutrition breakdown, macros, and easy tweaks for variations.",
+  "slug": "calories-in-pancakes-with-syrup",
+  "h1": "Calories in Pancakes with Syrup",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 2,
+    "unit": "pancakes",
+    "item": "pancakes with syrup"
+  },
+  "assumptions": "Two medium (4-inch) buttermilk pancakes topped with 2 tablespoons pure maple syrup; no butter, fruit, or other toppings.",
+  "disclaimer": "Nutrition varies by recipe, size, syrup type, and preparation method. Check labels or recipes for exact values.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "Two pancakes with 2 tbsp syrup provide ~290 kcal, primarily from carbohydrates."
+  },
+  "basis": {
+    "label": "per 1 pancake with 1 tbsp syrup",
+    "amount": 1,
+    "unit": "pancake",
+    "nutrition": {
+      "calories_kcal": 145,
+      "carbs_g": 28,
+      "fiber_g": 0.5,
+      "sugars_g": 12,
+      "protein_g": 2.5,
+      "fat_g": 2.5,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 202
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 56,
+    "fiber_g": 1,
+    "sugars_g": 24,
+    "protein_g": 5,
+    "fat_g": 5,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 404
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per pancake",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 358
+    },
+    {
+      "label": "Use sugar-free syrup (per tbsp)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Whole wheat pancakes (vs. white flour)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pancake with syrup?",
+      "a": "About 145 kcal for one medium pancake with 1 tbsp maple syrup."
+    },
+    {
+      "q": "What are the carbs in pancakes with syrup?",
+      "a": "Two pancakes with 2 tbsp syrup have ~56 g carbs, mostly from flour and syrup sugars."
+    },
+    {
+      "q": "Are pancakes with syrup high in sugar?",
+      "a": "Yes, ~24 g sugars total from the syrup and batter; opt for low-sugar alternatives."
+    },
+    {
+      "q": "How does syrup affect calories in pancakes?",
+      "a": "2 tbsp maple syrup adds ~104 kcal; lighter pours reduce totals significantly."
+    },
+    {
+      "q": "Can I make lower-calorie pancakes with syrup?",
+      "a": "Yes, use oat flour, less syrup, or add fruit for fiber—can drop to ~200 kcal per serving."
+    }
+  ]
+}

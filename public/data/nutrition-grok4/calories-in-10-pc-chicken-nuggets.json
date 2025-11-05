@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 10 pc chicken nuggets",
+  "title": "Calories in 10 Chicken Nuggets",
+  "meta_description": "Discover calories in 10 pc chicken nuggets, including protein, fat, carbs, sodium details, and simple tweaks for healthier options.",
+  "slug": "calories-in-10-pc-chicken-nuggets",
+  "h1": "Calories in 10 Chicken Nuggets",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 10,
+    "unit": "pc",
+    "item": "chicken nuggets"
+  },
+  "assumptions": "Standard breaded, frozen chicken nuggets, deep-fried, average size ~20 g each, no dipping sauce.",
+  "disclaimer": "Nutrition varies by brand, size, breading, cooking method, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 500,
+    "text": "10 chicken nuggets provide ~500 kcal and ~40 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken nugget",
+    "amount": 1,
+    "unit": "pc",
+    "nutrition": {
+      "calories_kcal": 50,
+      "carbs_g": 4,
+      "fiber_g": 0.2,
+      "sugars_g": 0.1,
+      "protein_g": 4,
+      "fat_g": 3,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 10,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 500,
+    "carbs_g": 40,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 40,
+    "fat_g": 30,
+    "sat_fat_g": 5,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 100,
+    "sodium_mg": 1000
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.09
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (per nugget)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Add 1 tbsp ketchup per 5 nuggets",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 520
+    },
+    {
+      "label": "Homemade with less breading (per nugget)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one chicken nugget?",
+      "a": "About 50 kcal per standard breaded, fried chicken nugget."
+    },
+    {
+      "q": "What is the protein in 10 pc chicken nuggets?",
+      "a": "Approximately 40 g of protein."
+    },
+    {
+      "q": "Are chicken nuggets high in sodium?",
+      "a": "Yes, 10 pieces have ~1000 mg sodium due to breading and seasoning."
+    },
+    {
+      "q": "How does baking affect calories in chicken nuggets?",
+      "a": "Baking reduces calories by ~15 kcal per nugget compared to frying."
+    },
+    {
+      "q": "Do chicken nuggets have trans fats?",
+      "a": "Small amounts, about 1 g total for 10 pieces from frying oils."
+    }
+  ]
+}

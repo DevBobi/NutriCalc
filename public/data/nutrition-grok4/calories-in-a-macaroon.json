@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a macaroon",
+  "title": "Calories in a Macaroon",
+  "meta_description": "Learn calories in a macaroon with a full nutrition breakdown, including carbs, fat, protein, and tips for variations under 160 characters.",
+  "slug": "calories-in-a-macaroon",
+  "h1": "Calories in a Macaroon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "macaroon",
+    "item": "macaroon"
+  },
+  "assumptions": "Standard coconut macaroon, approximately 28g per cookie, baked with shredded coconut, egg whites, and sugar; no fillings or dips.",
+  "disclaimer": "Nutrition varies by recipe, brand, size, ingredients (e.g., coconut vs. almond), and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "A typical macaroon has about 140 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 macaroon",
+    "amount": 1,
+    "unit": "macaroon",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 18,
+      "fiber_g": 1,
+      "sugars_g": 17,
+      "protein_g": 2,
+      "fat_g": 7,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 30
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 18,
+    "fiber_g": 1,
+    "sugars_g": 17,
+    "protein_g": 2,
+    "fat_g": 7,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 30
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate-dipped (add 10g chocolate coating)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Almond macaroon (vs. coconut, lower fat)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Reduced-sugar version (half the sugar)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a macaroon?",
+      "a": "About 140 kcal for a standard coconut macaroon."
+    },
+    {
+      "q": "What are the carbs in a macaroon?",
+      "a": "Approximately 18 g carbs, including 17 g sugars and 1 g fiber."
+    },
+    {
+      "q": "Is a macaroon high in fat?",
+      "a": "Yes, about 7 g total fat per macaroon, with 6 g saturated."
+    },
+    {
+      "q": "How does macaroon size affect calories?",
+      "a": "Larger macaroons (40g+) can have 200+ kcal; smaller ones under 100 kcal."
+    },
+    {
+      "q": "Are macaroons gluten-free?",
+      "a": "Traditional coconut macaroons often are, but check for added flours in recipes."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a new york strip",
+  "title": "How Many Calories Are in a New York Strip?",
+  "meta_description": "Discover how many calories are in a New York strip steak, including protein, fat, full nutrition breakdown per serving, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-are-in-a-new-york-strip",
+  "h1": "How Many Calories Are in a New York Strip?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "new york strip",
+    "item": "new york strip steak"
+  },
+  "assumptions": "Boneless, trimmed of visible fat, cooked (grilled or broiled); standard serving size ~200g.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and exact weight. Check labels or use a food scale for precision.",
+  "quick_answer": {
+    "total_kcal": 412,
+    "text": "A New York strip steak (~200g cooked, lean) provides about 412 kcal and 60 g protein."
+  },
+  "basis": {
+    "label": "per 1 New York strip steak (200g cooked)",
+    "amount": 1,
+    "unit": "steak",
+    "nutrition": {
+      "calories_kcal": 412,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 60,
+      "fat_g": 18,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 180,
+      "sodium_mg": 120
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 412,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 60,
+    "fat_g": 18,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 180,
+    "sodium_mg": 120
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.72
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter during cooking",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 512
+    },
+    {
+      "label": "Include some fat trim (untrimmed cut)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 492
+    },
+    {
+      "label": "Smaller portion (150g instead of 200g)",
+      "delta_kcal_per_unit": -103,
+      "new_total_kcal": 309
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a New York strip steak?",
+      "a": "About 412 kcal for a 200g cooked, lean serving."
+    },
+    {
+      "q": "What's the protein in a New York strip?",
+      "a": "Approximately 60 g protein per 200g cooked steak."
+    },
+    {
+      "q": "Does cooking method affect calories in New York strip?",
+      "a": "Yes; grilling or broiling keeps it lower than frying, which adds fat."
+    },
+    {
+      "q": "How much fat is in a New York strip steak?",
+      "a": "Around 18 g total fat, including 8 g saturated, for a 200g lean cooked portion."
+    },
+    {
+      "q": "Are New York strips high in cholesterol?",
+      "a": "Yes, about 180 mg per 200g serving, mostly from the meat itself."
+    }
+  ]
+}

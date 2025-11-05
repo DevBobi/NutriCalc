@@ -1,0 +1,92 @@
+{
+  "keyword": "how much calories in rice and chicken",
+  "title": "How Many Calories in Rice and Chicken?",
+  "meta_description": "Discover how much calories in rice and chicken for a standard serving, including protein, carbs, fat breakdown, and easy tweaks to customize your meal.",
+  "slug": "how-much-calories-in-rice-and-chicken",
+  "h1": "How Many Calories in Rice and Chicken?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "rice and chicken"
+  },
+  "assumptions": "1 cup cooked white rice (158 g) + 100 g grilled skinless chicken breast; no added oils, sauces, or seasonings.",
+  "disclaimer": "Nutrition varies by rice type, chicken cut, cooking method, portion sizes, and added ingredients. Check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 370,
+    "text": "A standard serving of rice and chicken provides ~370 kcal, with high protein from the chicken."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 370,
+      "carbs_g": 45,
+      "fiber_g": 0.6,
+      "sugars_g": 0.1,
+      "protein_g": 35,
+      "fat_g": 4,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 75
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 370,
+    "carbs_g": 45,
+    "fiber_g": 0.6,
+    "sugars_g": 0.1,
+    "protein_g": 35,
+    "fat_g": 4,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 85,
+    "sodium_mg": 75
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward meal tracking.",
+  "equivalents": {
+    "megajoules": 1.55
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp soy sauce",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Use brown rice instead of white",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 385
+    },
+    {
+      "label": "Fry chicken in 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 410
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How much calories in rice and chicken per serving?",
+      "a": "About 370 kcal for 1 cup white rice and 100 g grilled chicken breast."
+    },
+    {
+      "q": "What's the protein in rice and chicken?",
+      "a": "Roughly 35 g, mostly from the chicken portion."
+    },
+    {
+      "q": "Does rice and chicken have a lot of carbs?",
+      "a": "Yes, around 45 g from the rice; choose brown rice for more fiber."
+    },
+    {
+      "q": "How to lower calories in rice and chicken?",
+      "a": "Use less rice, skinless chicken, and skip oils or sauces to reduce by 50+ kcal."
+    },
+    {
+      "q": "Is rice and chicken low-fat?",
+      "a": "Yes, about 4 g fat per serving if grilled without added oils."
+    }
+  ]
+}

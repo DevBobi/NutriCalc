@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cocktail sauce",
+  "title": "Calories in Cocktail Sauce",
+  "meta_description": "Discover calories in cocktail sauce per serving, including carbs, sodium, and full nutrition breakdown for this tangy condiment.",
+  "slug": "calories-in-cocktail-sauce",
+  "h1": "Calories in Cocktail Sauce",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "cocktail sauce"
+  },
+  "assumptions": "Commercial cocktail sauce made with ketchup, horseradish, lemon juice, and Worcestershire; no added sugars or thickeners.",
+  "disclaimer": "Nutrition varies by brand, recipe, ingredients, and portion size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 112,
+    "text": "Cocktail sauce contains about 112 kcal per 100 g, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 112,
+      "carbs_g": 25,
+      "fiber_g": 0.5,
+      "sugars_g": 18,
+      "protein_g": 1.5,
+      "fat_g": 0.5,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 112,
+    "carbs_g": 25,
+    "fiber_g": 0.5,
+    "sugars_g": 18,
+    "protein_g": 1.5,
+    "fat_g": 0.5,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1200
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.47
+  },
+  "tweaks": [
+    {
+      "label": "Homemade with reduced sugar ketchup",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 92
+    },
+    {
+      "label": "Add 1 tsp olive oil per 100 g for creaminess",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 152
+    },
+    {
+      "label": "Low-sodium version (reduced salt)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 112
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tablespoon of cocktail sauce?",
+      "a": "About 15-20 kcal per tablespoon (15 g), depending on the brand."
+    },
+    {
+      "q": "What makes cocktail sauce high in sodium?",
+      "a": "Ingredients like ketchup and Worcestershire sauce contribute to around 1200 mg sodium per 100 g."
+    },
+    {
+      "q": "Are there carbs in cocktail sauce?",
+      "a": "Yes, approximately 25 g carbs per 100 g, mainly from sugars in ketchup."
+    },
+    {
+      "q": "Is cocktail sauce low in fat?",
+      "a": "Very low—only 0.5 g fat per 100 g, with minimal saturated fat."
+    },
+    {
+      "q": "How does cocktail sauce nutrition compare to ketchup?",
+      "a": "Similar calories (around 112 vs. 100 per 100 g), but higher sodium and spice from horseradish."
+    }
+  ]
+}

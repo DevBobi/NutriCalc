@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in oikos triple zero",
+  "title": "How Many Calories in Oikos Triple Zero?",
+  "meta_description": "Discover how many calories in Oikos Triple Zero yogurt per serving, including protein, carbs, fat, and full nutrition breakdown for this nonfat Greek yogurt.",
+  "slug": "how-many-calories-in-oikos-triple-zero",
+  "h1": "How Many Calories in Oikos Triple Zero?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "container",
+    "item": "Oikos Triple Zero yogurt"
+  },
+  "assumptions": "Nonfat Greek yogurt, 5.3 oz (150 g) single-serve container, standard vanilla flavor; no added toppings.",
+  "disclaimer": "Nutrition varies by flavor, batch, and exact serving size. Check product label for most accurate values.",
+  "quick_answer": {
+    "total_kcal": 100,
+    "text": "One 150 g container of Oikos Triple Zero has 100 kcal and 15 g protein."
+  },
+  "basis": {
+    "label": "per 150 g (1 container)",
+    "amount": 150,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 100,
+      "carbs_g": 7,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 15,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 65
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 100,
+    "carbs_g": 7,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 15,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 65
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.42
+  },
+  "tweaks": [
+    {
+      "label": "Strawberry flavor (slightly higher natural sugars)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Add 1 tbsp granola topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Plain variety (no stevia flavoring)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Oikos Triple Zero yogurt?",
+      "a": "About 100 kcal per 150 g container."
+    },
+    {
+      "q": "What is the protein content in Oikos Triple Zero?",
+      "a": "15 g protein per serving, making it a high-protein snack."
+    },
+    {
+      "q": "Does Oikos Triple Zero have fat or added sugar?",
+      "a": "Zero fat and zero added sugar; carbs come from milk lactose."
+    },
+    {
+      "q": "How many carbs in Oikos Triple Zero?",
+      "a": "7 g total carbs, including 3 g fiber and 5 g sugars per container."
+    },
+    {
+      "q": "Is Oikos Triple Zero suitable for low-carb diets?",
+      "a": "Yes, with only 4 g net carbs (7 g total minus 3 g fiber) per serving."
+    }
+  ]
+}

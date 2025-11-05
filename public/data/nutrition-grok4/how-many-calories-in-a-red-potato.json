@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a red potato",
+  "title": "How Many Calories in a Red Potato?",
+  "meta_description": "Discover how many calories in a red potato, including full nutrition breakdown per medium serving, macros, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-in-a-red-potato",
+  "h1": "How Many Calories in a Red Potato?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "potato",
+    "item": "red potato"
+  },
+  "assumptions": "Medium size (about 150g), baked with skin, no added fats, salt, or toppings.",
+  "disclaimer": "Nutrition varies by potato size, variety, cooking method, and added ingredients. Check labels or scales for accuracy.",
+  "quick_answer": {
+    "total_kcal": 135,
+    "text": "A medium red potato provides ~135 kcal, 31g carbs, and 3.4g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium red potato (150g)",
+    "amount": 1,
+    "unit": "potato",
+    "nutrition": {
+      "calories_kcal": 135,
+      "carbs_g": 31,
+      "fiber_g": 3.4,
+      "sugars_g": 2,
+      "protein_g": 3.3,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 11
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 135,
+    "carbs_g": 31,
+    "fiber_g": 3.4,
+    "sugars_g": 2,
+    "protein_g": 3.3,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 11
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.56
+  },
+  "tweaks": [
+    {
+      "label": "Boiled without skin",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 115
+    },
+    {
+      "label": "Add 1 tsp butter",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 169
+    },
+    {
+      "label": "Mashed with 1 tbsp milk",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 145
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a medium red potato?",
+      "a": "About 135 kcal for one medium (150g) baked with skin."
+    },
+    {
+      "q": "Are red potatoes low carb?",
+      "a": "No, one medium has ~31g carbs, but also 3.4g fiber for net carbs around 27.6g."
+    },
+    {
+      "q": "What's the protein in a red potato?",
+      "a": "Roughly 3.3g protein per medium red potato."
+    },
+    {
+      "q": "Do red potatoes have fat?",
+      "a": "Very low—only 0.2g total fat per medium potato, with 0g saturated."
+    },
+    {
+      "q": "How does cooking affect calories in red potatoes?",
+      "a": "Baking or boiling keeps calories low; frying or adding butter/oil increases them significantly."
+    }
+  ]
+}

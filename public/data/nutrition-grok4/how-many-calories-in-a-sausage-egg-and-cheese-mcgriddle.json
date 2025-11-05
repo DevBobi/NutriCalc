@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a sausage egg and cheese mcgriddle",
+  "title": "How Many Calories in a Sausage Egg and Cheese McGriddle?",
+  "meta_description": "Discover how many calories in a sausage egg and cheese McGriddle, including full nutrition breakdown, macros, and preparation tweaks for better choices.",
+  "slug": "how-many-calories-in-a-sausage-egg-and-cheese-mcgriddle",
+  "h1": "How Many Calories in a Sausage Egg and Cheese McGriddle?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "mcgriddle",
+    "item": "sausage egg and cheese mcgriddle"
+  },
+  "assumptions": "McDonald's standard Sausage, Egg & Cheese McGriddle; includes sausage patty, folded egg, American cheese, and maple-flavored griddle cakes.",
+  "disclaimer": "Nutrition varies by location, customizations, and preparation; values based on standard U.S. McDonald's data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 550,
+    "text": "A Sausage Egg & Cheese McGriddle contains about 550 calories with 17 g protein and 44 g carbs."
+  },
+  "basis": {
+    "label": "per 1 Sausage Egg & Cheese McGriddle",
+    "amount": 1,
+    "unit": "mcgriddle",
+    "nutrition": {
+      "calories_kcal": 550,
+      "carbs_g": 44,
+      "fiber_g": 2,
+      "sugars_g": 15,
+      "protein_g": 17,
+      "fat_g": 33,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 225,
+      "sodium_mg": 1240
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 550,
+    "carbs_g": 44,
+    "fiber_g": 2,
+    "sugars_g": 15,
+    "protein_g": 17,
+    "fat_g": 33,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 225,
+    "sodium_mg": 1240
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.3
+  },
+  "tweaks": [
+    {
+      "label": "Remove the cheese slice",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Swap sausage for Canadian bacon",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 450
+    },
+    {
+      "label": "Add hash browns on the side",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 690
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a sausage egg and cheese McGriddle?",
+      "a": "Approximately 550 calories for the standard version."
+    },
+    {
+      "q": "What are the macros for a sausage egg McGriddle?",
+      "a": "33 g fat, 44 g carbs (2 g fiber, 15 g sugars), and 17 g protein."
+    },
+    {
+      "q": "Is the McGriddle high in sodium?",
+      "a": "Yes, about 1240 mg sodium per sandwich due to sausage and cheese."
+    },
+    {
+      "q": "How does removing sausage affect calories in McGriddle?",
+      "a": "Egg and cheese McGriddle drops to around 400 calories, reducing fat and protein."
+    },
+    {
+      "q": "Are McGriddles gluten-free?",
+      "a": "No, the griddle cakes contain wheat; not suitable for gluten-free diets."
+    }
+  ]
+}

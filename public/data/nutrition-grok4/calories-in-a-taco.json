@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a taco",
+  "title": "Calories in a Taco",
+  "meta_description": "Learn calories in a taco with a full breakdown of macros, protein, fat, carbs, and tips for variations to fit your diet.",
+  "slug": "calories-in-a-taco",
+  "h1": "Calories in a Taco",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "taco",
+    "item": "taco"
+  },
+  "assumptions": "Standard beef taco: corn tortilla, 1 oz cooked ground beef, 0.5 oz cheddar cheese, shredded lettuce, diced tomato, salsa; no sour cream or guacamole.",
+  "disclaimer": "Nutrition varies by ingredients, portion sizes, preparation, and brands. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "A standard taco provides about 200 kcal and 12 g protein."
+  },
+  "basis": {
+    "label": "per 1 taco",
+    "amount": 1,
+    "unit": "taco",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 20,
+      "fiber_g": 3,
+      "sugars_g": 1,
+      "protein_g": 12,
+      "fat_g": 10,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 30,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 20,
+    "fiber_g": 3,
+    "sugars_g": 1,
+    "protein_g": 12,
+    "fat_g": 10,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30,
+    "sodium_mg": 400
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged or restaurant items.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp sour cream",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Use flour tortilla instead of corn",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Vegetarian with refried beans (replace beef)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 180
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a beef taco?",
+      "a": "About 200 kcal for a standard beef taco with corn tortilla and basic toppings."
+    },
+    {
+      "q": "What are the macros in a taco?",
+      "a": "Typically 20 g carbs, 12 g protein, 10 g fat, with 3 g fiber."
+    },
+    {
+      "q": "Are tacos high in sodium?",
+      "a": "Yes, around 400 mg per taco due to cheese, salsa, and seasonings."
+    },
+    {
+      "q": "How to lower calories in a taco?",
+      "a": "Skip cheese or sour cream, use lettuce wrap instead of tortilla, or choose leaner protein."
+    },
+    {
+      "q": "Calories in a chicken taco vs beef?",
+      "a": "Chicken tacos are often 20-50 kcal lower per taco due to less fat in the meat."
+    }
+  ]
+}

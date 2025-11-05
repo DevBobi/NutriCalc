@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a cupcake",
+  "title": "How Many Calories Are in a Cupcake?",
+  "meta_description": "Discover how many calories in a cupcake, including full nutrition breakdown, macros, and variations for different types.",
+  "slug": "how-many-calories-in-a-cupcake",
+  "h1": "How Many Calories Are in a Cupcake?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cupcake",
+    "item": "cupcake"
+  },
+  "assumptions": "Standard size (~50g) vanilla cupcake with chocolate frosting; baked, no fillings or toppings beyond basic frosting.",
+  "disclaimer": "Nutrition varies by recipe, size, frosting type, and brand. Check labels or recipes for precise values.",
+  "quick_answer": {
+    "total_kcal": 280,
+    "text": "A typical cupcake provides about 280 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 cupcake",
+    "amount": 1,
+    "unit": "cupcake",
+    "nutrition": {
+      "calories_kcal": 280,
+      "carbs_g": 40,
+      "fiber_g": 1,
+      "sugars_g": 30,
+      "protein_g": 3,
+      "fat_g": 12,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 280,
+    "carbs_g": 40,
+    "fiber_g": 1,
+    "sugars_g": 30,
+    "protein_g": 3,
+    "fat_g": 12,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.17
+  },
+  "tweaks": [
+    {
+      "label": "Without frosting",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Add sprinkles and nuts",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Gluten-free version",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cupcake without frosting?",
+      "a": "About 160 kcal for a plain baked cupcake."
+    },
+    {
+      "q": "What are the macros in a standard cupcake?",
+      "a": "Roughly 40 g carbs, 12 g fat, 3 g protein, and 30 g sugars."
+    },
+    {
+      "q": "Do cupcakes have a lot of sugar?",
+      "a": "Yes, typically 30 g or more per cupcake, mainly from frosting and batter."
+    },
+    {
+      "q": "How does cupcake size affect calories?",
+      "a": "Mini cupcakes are ~100 kcal; jumbo ones can exceed 500 kcal."
+    },
+    {
+      "q": "Are there low-calorie cupcake options?",
+      "a": "Yes, using applesauce or yogurt can reduce calories by 50-100 per cupcake."
+    }
+  ]
+}

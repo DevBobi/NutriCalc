@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in yuengling bock beer",
+  "title": "How Many Calories in Yuengling Bock Beer?",
+  "meta_description": "Discover how many calories in Yuengling Bock Beer per 12 oz serving, including carbs, protein, sodium, and quick nutrition facts for this malty brew.",
+  "slug": "how-many-calories-in-yuengling-bock-beer",
+  "h1": "How Many Calories in Yuengling Bock Beer?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "12 oz serving",
+    "item": "Yuengling Bock Beer"
+  },
+  "assumptions": "Standard 12 fl oz bottle or serving; unfiltered bock style with typical malt profile; no additives.",
+  "disclaimer": "Nutrition varies by batch, serving size, and exact formulation. Check brewery labels or apps for latest info.",
+  "quick_answer": {
+    "total_kcal": 165,
+    "text": "One 12 oz serving of Yuengling Bock Beer contains about 165 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 12 fl oz serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 13.5,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 1.5,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 165,
+    "carbs_g": 13.5,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 1.5,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Values align with standard beverage nutrition labels for easy reference.",
+  "equivalents": {
+    "megajoules": 0.69
+  },
+  "tweaks": [
+    {
+      "label": "Served as a 16 oz pint (vs. 12 oz)",
+      "delta_kcal_per_unit": 55,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Switch to Yuengling Traditional Lager (lighter style)",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add a splash of fruit juice mixer (1 oz per serving)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 185
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Yuengling Bock Beer?",
+      "a": "About 165 kcal per 12 oz serving."
+    },
+    {
+      "q": "What are the carbs in Yuengling Bock Beer?",
+      "a": "Approximately 13.5 g of carbs per 12 oz, with no fiber or sugars."
+    },
+    {
+      "q": "Does Yuengling Bock Beer have protein or fat?",
+      "a": "It has about 1.5 g protein and 0 g fat per serving."
+    },
+    {
+      "q": "How much sodium is in a Yuengling Bock Beer?",
+      "a": "Around 10 mg per 12 oz serving."
+    },
+    {
+      "q": "Are there calories from alcohol in Yuengling Bock Beer?",
+      "a": "Yes, alcohol contributes to the 165 kcal total, alongside malt carbs."
+    }
+  ]
+}

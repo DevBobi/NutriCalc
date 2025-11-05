@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in matcha",
+  "title": "Calories in Matcha",
+  "meta_description": "Discover calories in matcha per teaspoon serving, including carbs, protein, fat, and nutrition facts for this green tea powder.",
+  "slug": "calories-in-matcha",
+  "h1": "Calories in Matcha",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tsp",
+    "item": "matcha"
+  },
+  "assumptions": "Pure matcha green tea powder, ceremonial grade, unsweetened; 1 tsp ≈ 2 g.",
+  "disclaimer": "Nutrition varies by grade, brand, processing, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 6,
+    "text": "One teaspoon of matcha powder contains about 6 kcal and provides antioxidants."
+  },
+  "basis": {
+    "label": "per 1 tsp (2 g)",
+    "amount": 1,
+    "unit": "tsp",
+    "nutrition": {
+      "calories_kcal": 6,
+      "carbs_g": 0.6,
+      "fiber_g": 0.4,
+      "sugars_g": 0,
+      "protein_g": 0.5,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 6,
+    "carbs_g": 0.6,
+    "fiber_g": 0.4,
+    "sugars_g": 0,
+    "protein_g": 0.5,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.03
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar per tsp matcha",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 22
+    },
+    {
+      "label": "In matcha latte with 1 cup (240 ml) almond milk",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 36
+    },
+    {
+      "label": "Culinary grade matcha (slightly higher starch content)",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 7
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tsp of matcha?",
+      "a": "About 6 kcal for 1 tsp (2 g) of pure matcha powder."
+    },
+    {
+      "q": "Does matcha have carbs or sugar?",
+      "a": "Low carbs at 0.6 g per tsp, with 0 g sugars and 0.4 g fiber."
+    },
+    {
+      "q": "What's the protein in matcha?",
+      "a": "Approximately 0.5 g protein per teaspoon serving."
+    },
+    {
+      "q": "Calories in matcha latte vs plain matcha?",
+      "a": "Plain is ~6 kcal per tsp; latte adds 30-100+ kcal depending on milk and sweeteners."
+    },
+    {
+      "q": "Is matcha low calorie for weight loss?",
+      "a": "Yes, very low at 6 kcal per tsp, plus metabolism-boosting catechins."
+    }
+  ]
+}

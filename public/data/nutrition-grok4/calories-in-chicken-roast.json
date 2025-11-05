@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken roast",
+  "title": "Calories in Chicken Roast",
+  "meta_description": "Discover calories in chicken roast per 100 g, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-chicken-roast",
+  "h1": "Calories in Chicken Roast",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chicken roast"
+  },
+  "assumptions": "Skinless, roasted whole chicken (mixed white and dark meat), no added oils, salts, or seasonings; average values from USDA data.",
+  "disclaimer": "Nutrition varies by chicken size, cut, cooking method, added ingredients, and brand; always check labels or use a food scale for precision.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "100 g of roasted chicken provides about 190 kcal and 25 g of protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 10,
+      "sat_fat_g": 2.8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 80
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 10,
+    "sat_fat_g": 2.8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 85,
+    "sodium_mg": 80
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison and meal planning.",
+  "equivalents": {
+    "megajoules": 0.79
+  },
+  "tweaks": [
+    {
+      "label": "With skin on (adds fat per 100 g)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 235
+    },
+    {
+      "label": "Add 1 tsp olive oil for roasting per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Breast meat only (leaner, skinless per 100 g)",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 165
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g chicken roast?",
+      "a": "Approximately 190 kcal for skinless roasted chicken."
+    },
+    {
+      "q": "What's the protein in chicken roast?",
+      "a": "About 25 g protein per 100 g, making it a high-protein option."
+    },
+    {
+      "q": "Does roasting chicken add calories?",
+      "a": "Roasting without added fat keeps calories low; oils or skin increase them."
+    },
+    {
+      "q": "Calories in a whole roasted chicken?",
+      "a": "A 1.5 kg whole chicken yields ~800-1000 kcal total, depending on size and prep."
+    },
+    {
+      "q": "Is chicken roast low-carb?",
+      "a": "Yes, 0 g carbs per 100 g, ideal for low-carb or keto diets."
+    }
+  ]
+}

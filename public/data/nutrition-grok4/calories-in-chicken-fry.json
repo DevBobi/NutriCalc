@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken fry",
+  "title": "Calories in Chicken Fry",
+  "meta_description": "Discover calories in chicken fry per 100 g, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for healthier options.",
+  "slug": "calories-in-chicken-fry",
+  "h1": "Calories in Chicken Fry",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chicken fry"
+  },
+  "assumptions": "Breaded, deep-fried chicken pieces with skin; standard fast-food style recipe, no extra sauces.",
+  "disclaimer": "Nutrition varies by recipe, breading type, oil used, portion size, and cooking method. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 253,
+    "text": "100 g of breaded fried chicken provides ~253 kcal and ~24 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 253,
+      "carbs_g": 8.6,
+      "fiber_g": 0.3,
+      "sugars_g": 0.2,
+      "protein_g": 24.3,
+      "fat_g": 13.7,
+      "sat_fat_g": 3.7,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 85,
+      "sodium_mg": 453
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 253,
+    "carbs_g": 8.6,
+    "fiber_g": 0.3,
+    "sugars_g": 0.2,
+    "protein_g": 24.3,
+    "fat_g": 13.7,
+    "sat_fat_g": 3.7,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 85,
+    "sodium_mg": 453
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 1.06
+  },
+  "tweaks": [
+    {
+      "label": "Air-fried instead of deep-fried (less oil)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 193
+    },
+    {
+      "label": "Skinless and unbreaded (grilled variation)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 173
+    },
+    {
+      "label": "Add spicy seasoning (negligible change)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 258
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g chicken fry?",
+      "a": "Approximately 253 kcal for breaded, deep-fried chicken fry."
+    },
+    {
+      "q": "Is chicken fry high in protein?",
+      "a": "Yes, about 24 g protein per 100 g, making it a good source."
+    },
+    {
+      "q": "What makes chicken fry high in fat?",
+      "a": "Breading and frying in oil contribute ~14 g fat per 100 g."
+    },
+    {
+      "q": "How to reduce calories in chicken fry?",
+      "a": "Opt for air-frying, remove skin, or skip breading to cut 60-80 kcal per 100 g."
+    },
+    {
+      "q": "Does chicken fry have carbs?",
+      "a": "Yes, around 8.6 g per 100 g, mostly from the breading."
+    }
+  ]
+}

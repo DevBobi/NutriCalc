@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cherry with pit",
+  "title": "Calories in 1 Cherry with Pit",
+  "meta_description": "Discover calories in 1 cherry with pit, including carbs, fiber, sugars, protein, fat, and more from our nutrition breakdown.",
+  "slug": "calories-in-1-cherry-with-pit",
+  "h1": "Calories in 1 Cherry with Pit",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cherry",
+    "item": "cherry with pit"
+  },
+  "assumptions": "Fresh sweet cherry (e.g., Bing variety), average size (~8 g total with pit), nutrition for edible flesh only; pit discarded.",
+  "disclaimer": "Nutrition varies by variety, ripeness, size, and growing conditions. Check labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 4,
+    "text": "One cherry with pit provides about 4 kcal, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 1 cherry (edible portion)",
+    "amount": 1,
+    "unit": "cherry",
+    "nutrition": {
+      "calories_kcal": 4,
+      "carbs_g": 0.9,
+      "fiber_g": 0.2,
+      "sugars_g": 0.7,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 4,
+    "carbs_g": 0.9,
+    "fiber_g": 0.2,
+    "sugars_g": 0.7,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.02
+  },
+  "tweaks": [
+    {
+      "label": "Tart cherry variety (e.g., Montmorency) instead of sweet",
+      "delta_kcal_per_unit": -1,
+      "new_total_kcal": 3
+    },
+    {
+      "label": "Larger cherry (10 g edible vs. 6 g average)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 6
+    },
+    {
+      "label": "Pitted and frozen (minimal change, but slight water loss)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 4
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cherry with pit?",
+      "a": "About 4 kcal for the edible portion of one average sweet cherry."
+    },
+    {
+      "q": "Does the pit affect cherry calories?",
+      "a": "No, the pit is not eaten; calories are based on the flesh only."
+    },
+    {
+      "q": "What are the carbs in one cherry?",
+      "a": "Approximately 0.9 g carbs, including 0.2 g fiber and 0.7 g sugars."
+    },
+    {
+      "q": "Are cherries low in fat and protein?",
+      "a": "Yes, negligible fat (0 g) and very low protein (0.1 g) per cherry."
+    },
+    {
+      "q": "How does cherry size impact calories?",
+      "a": "Smaller cherries have fewer calories; larger ones up to 6-8 kcal each."
+    }
+  ]
+}

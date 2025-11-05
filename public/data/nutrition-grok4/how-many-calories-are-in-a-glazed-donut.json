@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a glazed donut",
+  "title": "How Many Calories Are in a Glazed Donut?",
+  "meta_description": "Discover how many calories are in a glazed donut, including full nutrition breakdown with carbs, fat, protein, and quick tweaks for variations.",
+  "slug": "how-many-calories-are-in-a-glazed-donut",
+  "h1": "How Many Calories Are in a Glazed Donut?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "donut",
+    "item": "glazed donut"
+  },
+  "assumptions": "Standard yeast-raised glazed donut (~60 g), fried, with sugar glaze; similar to common brands like Dunkin' or Krispy Kreme.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and frying method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 242,
+    "text": "A standard glazed donut contains about 242 calories."
+  },
+  "basis": {
+    "label": "per 1 glazed donut",
+    "amount": 1,
+    "unit": "donut",
+    "nutrition": {
+      "calories_kcal": 242,
+      "carbs_g": 29,
+      "fiber_g": 1,
+      "sugars_g": 13,
+      "protein_g": 3,
+      "fat_g": 13,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 183
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 242,
+    "carbs_g": 29,
+    "fiber_g": 1,
+    "sugars_g": 13,
+    "protein_g": 3,
+    "fat_g": 13,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 183
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.01
+  },
+  "tweaks": [
+    {
+      "label": "Add chocolate glaze topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 292
+    },
+    {
+      "label": "Baked version (less oil)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 162
+    },
+    {
+      "label": "Gluten-free flour variation",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 262
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a glazed donut?",
+      "a": "Approximately 242 calories for a standard size."
+    },
+    {
+      "q": "What are the carbs in a glazed donut?",
+      "a": "About 29 g of carbohydrates, including 13 g sugars."
+    },
+    {
+      "q": "Is a glazed donut high in fat?",
+      "a": "Yes, around 13 g total fat, with 6 g saturated."
+    },
+    {
+      "q": "How does brand affect calories in a glazed donut?",
+      "a": "Brands vary; Dunkin' is ~230 kcal, Krispy Kreme ~190 kcal per donut."
+    },
+    {
+      "q": "Are there lower-calorie glazed donut options?",
+      "a": "Baked or mini versions can reduce calories by 50-100 kcal."
+    }
+  ]
+}

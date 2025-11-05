@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in coors banquet",
+  "title": "How Many Calories in Coors Banquet?",
+  "meta_description": "Discover how many calories in Coors Banquet beer per 12 oz serving, including carbs, protein, sodium, and quick tweaks for variations.",
+  "slug": "how-many-calories-in-coors-banquet",
+  "h1": "How Many Calories in Coors Banquet?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "12 oz serving",
+    "item": "Coors Banquet beer"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) bottle or can of Coors Banquet Original lager (5% ABV), no additives.",
+  "disclaimer": "Nutrition varies by serving size, brand batch, and any mix-ins; alcohol content affects totals. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 149,
+    "text": "One 12 oz Coors Banquet beer contains 149 calories and 12 g carbs."
+  },
+  "basis": {
+    "label": "per 12 oz serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 149,
+      "carbs_g": 12,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 149,
+    "carbs_g": 12,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.62
+  },
+  "tweaks": [
+    {
+      "label": "16 oz pint pour (vs. 12 oz)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 199
+    },
+    {
+      "label": "Mixed as shandy with equal lemonade",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 194
+    },
+    {
+      "label": "Coors Light variant (lower carb version)",
+      "delta_kcal_per_unit": -45,
+      "new_total_kcal": 104
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Coors Banquet?",
+      "a": "About 149 calories per 12 oz serving."
+    },
+    {
+      "q": "What are the carbs in Coors Banquet beer?",
+      "a": "12 g of carbohydrates per 12 oz, with 0 g fiber and 0 g sugars."
+    },
+    {
+      "q": "Does Coors Banquet have protein or fat?",
+      "a": "1 g protein and 0 g fat per 12 oz serving."
+    },
+    {
+      "q": "How many calories in a six-pack of Coors Banquet?",
+      "a": "Approximately 894 calories for six 12 oz servings."
+    },
+    {
+      "q": "Is Coors Banquet low-carb?",
+      "a": "No, it has 12 g carbs per serving; opt for light beers for fewer carbs."
+    }
+  ]
+}

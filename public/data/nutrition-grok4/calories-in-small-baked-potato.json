@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in small baked potato",
+  "title": "Calories in a Small Baked Potato",
+  "meta_description": "Discover calories in small baked potato, including carbs, fiber, protein, and full nutrition breakdown per serving with easy tweaks.",
+  "slug": "calories-in-small-baked-potato",
+  "h1": "Calories in a Small Baked Potato",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "potato",
+    "item": "small baked potato"
+  },
+  "assumptions": "Plain russet potato, baked with skin, no added butter/oil/salt, approximately 150g.",
+  "disclaimer": "Nutrition varies by potato variety, size, baking method, and any additions; values are averages—check sources for precision.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "A small baked potato provides about 140 kcal, mainly from complex carbs."
+  },
+  "basis": {
+    "label": "per 1 small baked potato (~150g)",
+    "amount": 1,
+    "unit": "small baked potato",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 32,
+      "fiber_g": 3.4,
+      "sugars_g": 1.8,
+      "protein_g": 3.7,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 15
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 32,
+    "fiber_g": 3.4,
+    "sugars_g": 1.8,
+    "protein_g": 3.7,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 15
+  },
+  "label_note": "Values align with standard Nutrition Facts for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 176
+    },
+    {
+      "label": "Remove skin (peeled)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Top with 2 tbsp sour cream",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small baked potato?",
+      "a": "Approximately 140 kcal for a plain 150g baked potato with skin."
+    },
+    {
+      "q": "What are the carbs in a small baked potato?",
+      "a": "About 32g total carbs, including 3.4g fiber and 1.8g sugars."
+    },
+    {
+      "q": "Is a small baked potato low in fat?",
+      "a": "Yes, only 0.2g fat total, with no saturated or trans fats."
+    },
+    {
+      "q": "How much protein in a small baked potato?",
+      "a": "Roughly 3.7g protein per small baked potato."
+    },
+    {
+      "q": "Does baking affect potato calories?",
+      "a": "Baking retains most nutrients; calories are similar to boiled but depend on moisture loss."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in beef stew",
+  "title": "Calories in Beef Stew",
+  "meta_description": "Discover calories in beef stew per serving, including protein, carbs, fat, and full nutrition breakdown with tweaks and FAQs for better meal planning.",
+  "slug": "calories-in-beef-stew",
+  "h1": "Calories in Beef Stew",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "beef stew"
+  },
+  "assumptions": "Homemade beef stew with lean beef chunks, carrots, potatoes, onions, celery, and beef broth; simmered without added oil or thickeners; ~245 g per cup.",
+  "disclaimer": "Nutrition varies by recipe, meat cut, vegetable amounts, cooking method, and brand (if canned); check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One cup of homemade beef stew has about 250 kcal and 15 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 18,
+      "fiber_g": 3,
+      "sugars_g": 4,
+      "protein_g": 15,
+      "fat_g": 12,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 45,
+      "sodium_mg": 650
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 18,
+    "fiber_g": 3,
+    "sugars_g": 4,
+    "protein_g": 15,
+    "fat_g": 12,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 45,
+    "sodium_mg": 650
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Use leaner beef and reduce oil in browning",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Add extra vegetables like peas and reduce beef",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Thicken with flour roux (1 tsp per cup)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of beef stew?",
+      "a": "About 250 kcal per cup of homemade beef stew."
+    },
+    {
+      "q": "What is the protein content in beef stew?",
+      "a": "Roughly 15 g protein per cup from the beef and minimal from veggies."
+    },
+    {
+      "q": "Does beef stew have a lot of sodium?",
+      "a": "Yes, around 650 mg per cup, mainly from broth; low-sodium versions reduce this."
+    },
+    {
+      "q": "How do carbs in beef stew break down?",
+      "a": "About 18 g total carbs per cup, with 3 g fiber from potatoes and vegetables."
+    },
+    {
+      "q": "Are canned beef stews higher in calories?",
+      "a": "Often yes, due to added thickeners and preservatives; check labels for exact values."
+    }
+  ]
+}

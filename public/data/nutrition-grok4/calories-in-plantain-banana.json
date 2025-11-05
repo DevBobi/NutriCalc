@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in plantain banana",
+  "title": "Calories in Plantain Banana",
+  "meta_description": "Discover calories in plantain banana per medium serving, including carbs, protein, fat, and nutrition breakdown for better meal planning.",
+  "slug": "calories-in-plantain-banana",
+  "h1": "Calories in Plantain Banana",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "plantain",
+    "item": "plantain banana"
+  },
+  "assumptions": "Medium raw plantain banana (118 g edible portion, peeled); green/unripe variety. Plantains are starchy and often cooked.",
+  "disclaimer": "Nutrition varies by ripeness, size, variety, and cooking method (e.g., frying adds calories). Check labels or USDA data for accuracy.",
+  "quick_answer": {
+    "total_kcal": 144,
+    "text": "One medium raw plantain banana provides about 144 calories, primarily from complex carbs."
+  },
+  "basis": {
+    "label": "per 1 medium raw plantain (118 g)",
+    "amount": 1,
+    "unit": "plantain",
+    "nutrition": {
+      "calories_kcal": 144,
+      "carbs_g": 37.6,
+      "fiber_g": 2.7,
+      "sugars_g": 17.7,
+      "protein_g": 1.5,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 144,
+    "carbs_g": 37.6,
+    "fiber_g": 2.7,
+    "sugars_g": 17.7,
+    "protein_g": 1.5,
+    "fat_g": 0.4,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Values based on USDA data and formatted to match Nutrition Facts labels for easy reference.",
+  "equivalents": {
+    "megajoules": 0.6
+  },
+  "tweaks": [
+    {
+      "label": "Boiled plantain (no added fat)",
+      "delta_kcal_per_unit": -8,
+      "new_total_kcal": 136
+    },
+    {
+      "label": "Fried in 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 184
+    },
+    {
+      "label": "Ripe plantain (sweeter, higher sugars)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 154
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one plantain banana?",
+      "a": "Approximately 144 calories for a medium raw plantain banana."
+    },
+    {
+      "q": "Are plantain bananas high in carbs?",
+      "a": "Yes, about 38 g carbs per medium plantain, mostly starch with some natural sugars."
+    },
+    {
+      "q": "What's the protein in plantain banana?",
+      "a": "Low at around 1.5 g per medium serving."
+    },
+    {
+      "q": "Do calories change if cooked?",
+      "a": "Boiling slightly reduces to ~136 kcal; frying adds 40+ kcal from oil."
+    },
+    {
+      "q": "Plantain vs regular banana calories?",
+      "a": "Plantain has similar calories but more starch and less sweetness than a regular banana."
+    }
+  ]
+}

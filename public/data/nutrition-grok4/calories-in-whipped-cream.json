@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in whipped cream",
+  "title": "Calories in Whipped Cream",
+  "meta_description": "Learn calories in whipped cream per 100g, with detailed nutrition facts on fat, carbs, protein, and simple tweaks for lighter options.",
+  "slug": "calories-in-whipped-cream",
+  "h1": "Calories in Whipped Cream",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "whipped cream"
+  },
+  "assumptions": "Sweetened heavy cream-based whipped topping, aerosol or homemade; includes sugar and stabilizers.",
+  "disclaimer": "Nutrition varies by brand, fat content, sweetness level, and preparation method. Check labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 300,
+    "text": "100g of whipped cream provides about 300 kcal, primarily from fat and added sugars."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 300,
+      "carbs_g": 10,
+      "fiber_g": 0,
+      "sugars_g": 10,
+      "protein_g": 2,
+      "fat_g": 28,
+      "sat_fat_g": 18,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 100,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 300,
+    "carbs_g": 10,
+    "fiber_g": 0,
+    "sugars_g": 10,
+    "protein_g": 2,
+    "fat_g": 28,
+    "sat_fat_g": 18,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 100,
+    "sodium_mg": 50
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.26
+  },
+  "tweaks": [
+    {
+      "label": "Unsweetened version (no added sugar)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Light whipped cream (reduced fat)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Homemade with half-and-half base",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 220
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a tablespoon of whipped cream?",
+      "a": "About 25 kcal for 1 tablespoon (8g) of sweetened whipped cream."
+    },
+    {
+      "q": "Is whipped cream high in fat?",
+      "a": "Yes, around 28g total fat per 100g, with 18g saturated."
+    },
+    {
+      "q": "Calories in whipped cream vs. heavy cream?",
+      "a": "Whipped cream is similar to heavy cream at ~300 kcal/100g but lighter in texture due to air."
+    },
+    {
+      "q": "Does whipped cream have protein?",
+      "a": "Minimal, about 2g per 100g, mostly from the cream base."
+    },
+    {
+      "q": "How to reduce calories in whipped cream?",
+      "a": "Opt for light or unsweetened varieties, or make it at home with low-fat dairy."
+    }
+  ]
+}

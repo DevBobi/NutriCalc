@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in tres leche cake",
+  "title": "Calories in Tres Leches Cake",
+  "meta_description": "Learn calories in tres leches cake per slice, including carbs, sugars, fat, protein, and full nutrition facts for easy tracking.",
+  "slug": "calories-in-tres-leche-cake",
+  "h1": "Calories in Tres Leches Cake",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "tres leches cake"
+  },
+  "assumptions": "Standard slice (~100 g), soaked in evaporated milk, condensed milk, whole milk; topped with whipped cream; no added fruit.",
+  "disclaimer": "Nutrition varies by recipe, portion size, brand, and preparation method. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 295,
+    "text": "One slice of tres leches cake has about 295 kcal, mostly from sugars and fat in the milk soak and topping."
+  },
+  "basis": {
+    "label": "per 1 slice (100 g)",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 295,
+      "carbs_g": 40,
+      "fiber_g": 0.5,
+      "sugars_g": 30,
+      "protein_g": 5,
+      "fat_g": 12,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0.3,
+      "cholesterol_mg": 80,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 295,
+    "carbs_g": 40,
+    "fiber_g": 0.5,
+    "sugars_g": 30,
+    "protein_g": 5,
+    "fat_g": 12,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0.3,
+    "cholesterol_mg": 80,
+    "sodium_mg": 200
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 1.23
+  },
+  "tweaks": [
+    {
+      "label": "Without whipped cream topping",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 245
+    },
+    {
+      "label": "Add fresh strawberries on top",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 310
+    },
+    {
+      "label": "Low-fat milk version (reduce whole milk)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 265
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of tres leches cake?",
+      "a": "Approximately 295 kcal per 100 g slice."
+    },
+    {
+      "q": "What are the carbs in tres leches cake?",
+      "a": "About 40 g carbs per slice, with 30 g from sugars due to the condensed milk."
+    },
+    {
+      "q": "Is tres leches cake high in fat?",
+      "a": "Yes, 12 g total fat per slice, including 7 g saturated from cream and milks."
+    },
+    {
+      "q": "How much protein in tres leches cake?",
+      "a": "Roughly 5 g protein per slice, mainly from the eggs and milk."
+    },
+    {
+      "q": "Does tres leches cake have fiber?",
+      "a": "Very little, about 0.5 g per slice; it's a rich dessert with minimal fiber."
+    }
+  ]
+}

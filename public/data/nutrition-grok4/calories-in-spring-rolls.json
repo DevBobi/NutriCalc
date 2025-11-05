@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in spring rolls",
+  "title": "Calories in Spring Rolls",
+  "meta_description": "Discover calories in spring rolls, including macros like carbs, protein, fat, per-roll nutrition, and tips for variations to fit your diet.",
+  "slug": "calories-in-spring-rolls",
+  "h1": "Calories in Spring Rolls",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "spring roll",
+    "item": "spring roll"
+  },
+  "assumptions": "Vegetable-filled spring rolls, fried, medium size (~50 g each), no dipping sauce included.",
+  "disclaimer": "Nutrition varies by filling, size, frying method, brand, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "One typical fried vegetable spring roll contains about 120 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 medium spring roll",
+    "amount": 1,
+    "unit": "spring roll",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 15,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 3,
+      "fat_g": 6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 15,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 3,
+    "fat_g": 6,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 300
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Add shrimp filling (vs. vegetable)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "With 1 tbsp sweet chili dipping sauce",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one spring roll?",
+      "a": "About 120 kcal for a medium fried vegetable spring roll."
+    },
+    {
+      "q": "Are spring rolls high in carbs?",
+      "a": "Yes, around 15 g carbs per roll, mainly from the wrapper and veggies."
+    },
+    {
+      "q": "What's the fat content in spring rolls?",
+      "a": "Typically 6 g total fat per roll, with 1 g saturated, from frying oil."
+    },
+    {
+      "q": "Do baked spring rolls have fewer calories?",
+      "a": "Yes, baking reduces calories by about 40 kcal per roll compared to frying."
+    },
+    {
+      "q": "How does sodium vary in spring rolls?",
+      "a": "Around 300 mg per roll; sauces or store-bought versions can increase it significantly."
+    }
+  ]
+}

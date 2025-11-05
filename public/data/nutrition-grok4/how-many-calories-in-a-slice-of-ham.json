@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a slice of ham",
+  "title": "How Many Calories in a Slice of Ham?",
+  "meta_description": "Discover how many calories in a slice of ham, including protein, fat, sodium details, per-slice basis, and simple tweaks for variations.",
+  "slug": "how-many-calories-in-a-slice-of-ham",
+  "h1": "How Many Calories in a Slice of Ham?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "ham"
+  },
+  "assumptions": "Deli-sliced cooked ham, ~28 g per thin slice, cured and low-fat variety, no added sauces or breading.",
+  "disclaimer": "Nutrition varies by brand, thickness, curing method, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 45,
+    "text": "One slice of ham contains about 45 kcal and 5 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 45,
+      "carbs_g": 1.2,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 5,
+      "fat_g": 2.5,
+      "sat_fat_g": 0.9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 320
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 45,
+    "carbs_g": 1.2,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 5,
+    "fat_g": 2.5,
+    "sat_fat_g": 0.9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 320
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.19
+  },
+  "tweaks": [
+    {
+      "label": "Thicker slice (double the weight)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Low-sodium version",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Glazed with honey (1 tsp added)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 65
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a slice of ham?",
+      "a": "Approximately 45 kcal for a standard 28 g deli slice."
+    },
+    {
+      "q": "What's the protein in one slice of ham?",
+      "a": "About 5 g of protein per slice."
+    },
+    {
+      "q": "Is ham high in sodium?",
+      "a": "Yes, typically 320 mg sodium per slice due to curing."
+    },
+    {
+      "q": "How does slice thickness affect calories?",
+      "a": "Thicker slices can double calories to ~90 kcal."
+    },
+    {
+      "q": "Are there carbs in ham slices?",
+      "a": "Minimal, about 1.2 g carbs per slice, mostly from sugars in curing."
+    }
+  ]
+}

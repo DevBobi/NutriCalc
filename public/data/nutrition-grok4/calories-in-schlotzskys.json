@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in schlotzskys",
+  "title": "Calories in Schlotzsky's Sandwich",
+  "meta_description": "Discover calories in Schlotzsky's Original sandwich, including macros like protein and fat, plus tweaks and FAQs for better choices.",
+  "slug": "calories-in-schlotzskys",
+  "h1": "Calories in Schlotzsky's Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Schlotzsky's Original"
+  },
+  "assumptions": "Small Original sandwich on sourdough with ham, salami, turkey, cheeses, olives, mustard, and veggies; no sides.",
+  "disclaimer": "Nutrition varies by location, size, customizations, and preparation; check Schlotzsky's app or menu for exact values.",
+  "quick_answer": {
+    "total_kcal": 810,
+    "text": "One small Schlotzsky's Original sandwich has ~810 kcal and ~40 g protein."
+  },
+  "basis": {
+    "label": "per 1 small sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 810,
+      "carbs_g": 90,
+      "fiber_g": 5,
+      "sugars_g": 5,
+      "protein_g": 40,
+      "fat_g": 35,
+      "sat_fat_g": 15,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 80,
+      "sodium_mg": 2000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 810,
+    "carbs_g": 90,
+    "fiber_g": 5,
+    "sugars_g": 5,
+    "protein_g": 40,
+    "fat_g": 35,
+    "sat_fat_g": 15,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 80,
+    "sodium_mg": 2000
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with menu info.",
+  "equivalents": {
+    "megajoules": 3.39
+  },
+  "tweaks": [
+    {
+      "label": "Upgrade to medium size",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 1010
+    },
+    {
+      "label": "Remove cheese and olives",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 660
+    },
+    {
+      "label": "Add a side of chips",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 960
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small Schlotzsky's Original?",
+      "a": "About 810 kcal for the small size."
+    },
+    {
+      "q": "What are the macros for Schlotzsky's sandwich?",
+      "a": "≈90 g carbs, 40 g protein, 35 g fat per small Original."
+    },
+    {
+      "q": "Is sodium high in Schlotzsky's?",
+      "a": "Yes, around 2000 mg per small sandwich due to cured meats and bread."
+    },
+    {
+      "q": "Calories in Schlotzsky's without bread?",
+      "a": "Removing bread cuts ~400 kcal, leaving ~410 kcal from fillings."
+    },
+    {
+      "q": "How does Schlotzsky's compare to other sandwiches?",
+      "a": "Higher in sodium and carbs than plain deli sandwiches but similar calories to fast-food options."
+    }
+  ]
+}

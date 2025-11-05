@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in grits",
+  "title": "How Many Calories in Grits?",
+  "meta_description": "Discover how many calories in grits per cup serving, including carbs, protein, fat breakdown, and simple tweaks for different preparations.",
+  "slug": "how-many-calories-in-grits",
+  "h1": "How Many Calories in Grits?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "grits"
+  },
+  "assumptions": "Plain corn grits cooked in water without salt, butter, or other additions; 1 cup serving weighs approximately 158 g.",
+  "disclaimer": "Nutrition varies by grits type (e.g., stone-ground vs. instant), brand, cooking method, and any added ingredients like butter or cheese. Check product labels when available.",
+  "quick_answer": {
+    "total_kcal": 112,
+    "text": "One cup of plain cooked grits has about 112 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 100 g cooked",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 71,
+      "carbs_g": 15.85,
+      "fiber_g": 0.94,
+      "sugars_g": 0.32,
+      "protein_g": 1.54,
+      "fat_g": 0.31,
+      "sat_fat_g": 0.11,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 112,
+    "carbs_g": 25,
+    "fiber_g": 1.5,
+    "sugars_g": 0.5,
+    "protein_g": 2.4,
+    "fat_g": 0.5,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 11
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 0.47
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter per cup",
+      "delta_kcal_per_unit": 102,
+      "new_total_kcal": 214
+    },
+    {
+      "label": "Cooked with 1% milk instead of water",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 162
+    },
+    {
+      "label": "Instant grits with added salt and flavoring",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 132
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of grits?",
+      "a": "About 112 kcal for plain cooked grits without additions."
+    },
+    {
+      "q": "Are grits low in fat?",
+      "a": "Yes, plain cooked grits have only 0.5 g fat per cup."
+    },
+    {
+      "q": "How much protein in grits?",
+      "a": "Roughly 2.4 g protein per cup of plain cooked grits."
+    },
+    {
+      "q": "Do grits have fiber?",
+      "a": "Yes, about 1.5 g dietary fiber per cup from the corn."
+    },
+    {
+      "q": "What makes grits higher in calories?",
+      "a": "Additions like butter, cheese, or cooking in milk increase calories significantly."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a mcdonalds hamburger",
+  "title": "How Many Calories in a McDonald's Hamburger?",
+  "meta_description": "Discover how many calories in a McDonald's hamburger, including full nutrition breakdown, macros, and quick tweaks for variations.",
+  "slug": "how-many-calories-in-a-mcdonalds-hamburger",
+  "h1": "How Many Calories in a McDonald's Hamburger?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "hamburger",
+    "item": "McDonald's hamburger"
+  },
+  "assumptions": "Standard McDonald's hamburger: regular bun, beef patty, ketchup, mustard, onions, pickles; no cheese or extras.",
+  "disclaimer": "Nutrition varies by location, recipe changes, and customizations. Check McDonald's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A standard McDonald's hamburger has 250 kcal, with 12 g protein and 31 g carbs."
+  },
+  "basis": {
+    "label": "per 1 hamburger",
+    "amount": 1,
+    "unit": "hamburger",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 31,
+      "fiber_g": 2,
+      "sugars_g": 6,
+      "protein_g": 12,
+      "fat_g": 9,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 25,
+      "sodium_mg": 510
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 31,
+    "fiber_g": 2,
+    "sugars_g": 6,
+    "protein_g": 12,
+    "fat_g": 9,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 25,
+    "sodium_mg": 510
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add one slice of American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Remove the bun",
+      "delta_kcal_per_unit": -140,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Upgrade to quarter pounder patty",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a McDonald's hamburger?",
+      "a": "A standard one has 250 calories."
+    },
+    {
+      "q": "What's the protein in a McDonald's hamburger?",
+      "a": "About 12 g of protein per hamburger."
+    },
+    {
+      "q": "Does a McDonald's hamburger have trans fat?",
+      "a": "Yes, approximately 0.2 g per hamburger."
+    },
+    {
+      "q": "How much sodium is in a McDonald's hamburger?",
+      "a": "Around 510 mg of sodium."
+    },
+    {
+      "q": "Are McDonald's hamburger calories the same everywhere?",
+      "a": "They can vary slightly by country or recipe updates; check local info."
+    }
+  ]
+}

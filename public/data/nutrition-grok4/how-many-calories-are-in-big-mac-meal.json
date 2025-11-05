@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in big mac meal",
+  "title": "How Many Calories Are in a Big Mac Meal?",
+  "meta_description": "Discover how many calories are in big mac meal, including full nutrition breakdown for the burger, fries, and drink, plus tweaks and FAQs.",
+  "slug": "how-many-calories-are-in-big-mac-meal",
+  "h1": "How Many Calories Are in a Big Mac Meal?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "meal",
+    "item": "Big Mac meal"
+  },
+  "assumptions": "Standard McDonald's Big Mac meal: Big Mac burger, medium fries, medium Coca-Cola (no ice); values based on US menu.",
+  "disclaimer": "Nutrition varies by location, customizations, portion sizes, and brands. Check McDonald's app or labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 1020,
+    "text": "A standard Big Mac meal totals about 1020 kcal, with high carbs from fries and bun."
+  },
+  "basis": {
+    "label": "per 1 Big Mac meal",
+    "amount": 1,
+    "unit": "meal",
+    "nutrition": {
+      "calories_kcal": 1020,
+      "carbs_g": 134,
+      "fiber_g": 6,
+      "sugars_g": 48,
+      "protein_g": 29,
+      "fat_g": 44,
+      "sat_fat_g": 13,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 80,
+      "sodium_mg": 1940
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1020,
+    "carbs_g": 134,
+    "fiber_g": 6,
+    "sugars_g": 48,
+    "protein_g": 29,
+    "fat_g": 44,
+    "sat_fat_g": 13,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 80,
+    "sodium_mg": 1940
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.26
+  },
+  "tweaks": [
+    {
+      "label": "Switch to diet Coke (zero sugar)",
+      "delta_kcal_per_unit": -140,
+      "new_total_kcal": 880
+    },
+    {
+      "label": "Upgrade to large fries",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 1120
+    },
+    {
+      "label": "Remove the bun from Big Mac",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 870
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in big mac meal without drink?",
+      "a": "About 880 kcal for Big Mac and medium fries only."
+    },
+    {
+      "q": "What are the carbs in a Big Mac meal?",
+      "a": "Approximately 134 g total carbs, mostly from fries and soda."
+    },
+    {
+      "q": "Is a Big Mac meal high in sodium?",
+      "a": "Yes, around 1940 mg, mainly from the burger and fries."
+    },
+    {
+      "q": "How does a Big Mac meal compare to a Quarter Pounder meal?",
+      "a": "Similar calories (around 1000-1100 kcal), but varies by sides."
+    },
+    {
+      "q": "Can I make a lower-calorie Big Mac meal?",
+      "a": "Opt for apple slices instead of fries and water or diet drink to cut ~400 kcal."
+    }
+  ]
+}

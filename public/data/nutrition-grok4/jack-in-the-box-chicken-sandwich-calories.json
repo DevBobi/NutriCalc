@@ -1,0 +1,92 @@
+{
+  "keyword": "jack in the box chicken sandwich calories",
+  "title": "Jack in the Box Chicken Sandwich Calories",
+  "meta_description": "Learn jack in the box chicken sandwich calories—about 460 kcal—plus protein, carbs, fat, sodium, and tweaks for variations.",
+  "slug": "jack-in-the-box-chicken-sandwich-calories",
+  "h1": "Jack in the Box Chicken Sandwich Calories",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Jack in the Box chicken sandwich"
+  },
+  "assumptions": "Standard menu item: breaded chicken fillet, lettuce, tomato, mayo on sesame seed bun; values from official or averaged data.",
+  "disclaimer": "Nutrition varies by location, preparation, customizations, and menu changes. Check Jack in the Box app or site for latest info.",
+  "quick_answer": {
+    "total_kcal": 460,
+    "text": "One Jack in the Box Chicken Sandwich provides ~460 kcal and ~25 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 460,
+      "carbs_g": 50,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 25,
+      "fat_g": 20,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 1000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 460,
+    "carbs_g": 50,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 25,
+    "fat_g": 20,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 1000
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.92
+  },
+  "tweaks": [
+    {
+      "label": "Remove mayonnaise",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Add bacon strips",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Grilled chicken instead of breaded",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 360
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Jack in the Box chicken sandwich?",
+      "a": "Approximately 460 kcal for the standard version."
+    },
+    {
+      "q": "What's the protein in Jack in the Box chicken sandwich?",
+      "a": "About 25 g of protein per sandwich."
+    },
+    {
+      "q": "How much sodium is in Jack in the Box chicken sandwich calories info?",
+      "a": "Around 1000 mg of sodium, mostly from breading and bun."
+    },
+    {
+      "q": "Are Jack in the Box chicken sandwich calories high in carbs?",
+      "a": "Yes, ~50 g carbs mainly from the bun and breading."
+    },
+    {
+      "q": "Can I make Jack in the Box chicken sandwich lower calorie?",
+      "a": "Opt for grilled chicken or skip mayo to reduce by 90–100 kcal."
+    }
+  ]
+}

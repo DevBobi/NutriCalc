@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a candy cane",
+  "title": "Calories in a Candy Cane",
+  "meta_description": "Discover calories in a candy cane, including carbs, sugars, and full nutrition breakdown per piece, plus tweaks and FAQs for holiday treats.",
+  "slug": "calories-in-a-candy-cane",
+  "h1": "Calories in a Candy Cane",
+  "updated": "2024-12-20",
+  "query": {
+    "amount": 1,
+    "unit": "candy cane",
+    "item": "candy cane"
+  },
+  "assumptions": "Standard 15 g peppermint hard candy cane, no fillings or coatings.",
+  "disclaimer": "Nutrition varies by brand, size, flavor, and ingredients; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 60,
+    "text": "A standard candy cane provides ~60 kcal, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 candy cane",
+    "amount": 1,
+    "unit": "candy cane",
+    "nutrition": {
+      "calories_kcal": 60,
+      "carbs_g": 15,
+      "fiber_g": 0,
+      "sugars_g": 15,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 60,
+    "carbs_g": 15,
+    "fiber_g": 0,
+    "sugars_g": 15,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.25
+  },
+  "tweaks": [
+    {
+      "label": "Mini candy cane (half size)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 30
+    },
+    {
+      "label": "Chocolate-dipped candy cane",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Sugar-free version",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 10
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a candy cane?",
+      "a": "About 60 kcal for a standard 15 g piece."
+    },
+    {
+      "q": "Are candy canes high in sugar?",
+      "a": "Yes, nearly all 15 g carbs are sugars with no fiber."
+    },
+    {
+      "q": "Do candy canes have fat or protein?",
+      "a": "Typically 0 g fat and 0 g protein per candy cane."
+    },
+    {
+      "q": "What's the sodium in a candy cane?",
+      "a": "Usually 0 mg, but flavored varieties may vary slightly."
+    },
+    {
+      "q": "How do mini candy canes compare?",
+      "a": "Mini versions have ~30 kcal, half the standard size."
+    }
+  ]
+}

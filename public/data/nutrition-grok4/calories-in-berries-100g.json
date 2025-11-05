@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in berries 100g",
+  "title": "Calories in 100g Berries",
+  "meta_description": "Discover calories in berries 100g, including carbs, fiber, protein, fat, and full nutrition breakdown for mixed fresh berries.",
+  "slug": "calories-in-berries-100g",
+  "h1": "Calories in 100g Berries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "berries"
+  },
+  "assumptions": "Mixed fresh berries (strawberries, blueberries, raspberries, blackberries), raw, no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by berry type, ripeness, variety, and growing conditions. Check labels or databases for specific types.",
+  "quick_answer": {
+    "total_kcal": 57,
+    "text": "100g of mixed fresh berries provides ~57 kcal and ~3.6 g fiber."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 57,
+      "carbs_g": 14.5,
+      "fiber_g": 3.6,
+      "sugars_g": 9.9,
+      "protein_g": 1.2,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 57,
+    "carbs_g": 14.5,
+    "fiber_g": 3.6,
+    "sugars_g": 9.9,
+    "protein_g": 1.2,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.24
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar per 100 g",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 73
+    },
+    {
+      "label": "Dried berries (vs. fresh) per 100 g",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 207
+    },
+    {
+      "label": "Frozen, thawed (minimal change)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 57
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in berries 100g?",
+      "a": "About 57 kcal for 100g mixed fresh berries."
+    },
+    {
+      "q": "What are the carbs in 100g berries?",
+      "a": "Roughly 14.5 g total carbs, including 3.6 g fiber and 9.9 g sugars."
+    },
+    {
+      "q": "Are berries low in fat?",
+      "a": "Yes, only 0.3 g fat per 100g, with no saturated or trans fats."
+    },
+    {
+      "q": "Do berries have protein?",
+      "a": "A small amount: about 1.2 g protein per 100g."
+    },
+    {
+      "q": "How does berry type affect calories?",
+      "a": "Strawberries ~32 kcal/100g, blueberries ~57 kcal/100g; mixes average out."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in panda express teriyaki chicken",
+  "title": "Calories in Panda Express Teriyaki Chicken",
+  "meta_description": "Discover calories in panda express teriyaki chicken per serving, including macros like protein and fat, plus tweaks and FAQs for better meal choices.",
+  "slug": "calories-in-panda-express-teriyaki-chicken",
+  "h1": "Calories in Panda Express Teriyaki Chicken",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "panda express teriyaki chicken"
+  },
+  "assumptions": "Standard single serving (5.7 oz / 162 g) of grilled teriyaki chicken with sauce, as per Panda Express menu.",
+  "disclaimer": "Nutrition varies by location, portion size, preparation, and customizations. Check the official Panda Express app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 300,
+    "text": "One serving provides 300 kcal, 34 g protein, and 13 g fat."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 300,
+      "carbs_g": 14,
+      "fiber_g": 0,
+      "sugars_g": 13,
+      "protein_g": 34,
+      "fat_g": 13,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 760
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 300,
+    "carbs_g": 14,
+    "fiber_g": 0,
+    "sugars_g": 13,
+    "protein_g": 34,
+    "fat_g": 13,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 80,
+    "sodium_mg": 760
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with restaurant info.",
+  "equivalents": {
+    "megajoules": 1.26
+  },
+  "tweaks": [
+    {
+      "label": "Without teriyaki sauce (grilled chicken only)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add 1/2 cup steamed white rice",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 450
+    },
+    {
+      "label": "Double protein portion",
+      "delta_kcal_per_unit": 300,
+      "new_total_kcal": 600
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of Panda Express teriyaki chicken?",
+      "a": "300 calories per standard serving."
+    },
+    {
+      "q": "What's the protein content in Panda Express teriyaki chicken?",
+      "a": "34 g protein per serving, making it a high-protein option."
+    },
+    {
+      "q": "Does Panda Express teriyaki chicken have a lot of sodium?",
+      "a": "Yes, about 760 mg sodium per serving, mostly from the sauce."
+    },
+    {
+      "q": "Are there carbs in Panda Express teriyaki chicken?",
+      "a": "14 g carbs per serving, primarily from the sugary teriyaki sauce."
+    },
+    {
+      "q": "How does cooking method affect calories in Panda Express teriyaki chicken?",
+      "a": "It's grilled, keeping calories lower than fried versions; sauce adds most of the sugars and sodium."
+    }
+  ]
+}

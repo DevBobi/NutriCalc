@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a slice of provolone cheese",
+  "title": "Calories in a Slice of Provolone Cheese",
+  "meta_description": "Discover calories in a slice of provolone cheese, including full nutrition breakdown, protein, fat, sodium details, and simple variations for your diet.",
+  "slug": "calories-in-a-slice-of-provolone-cheese",
+  "h1": "Calories in a Slice of Provolone Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "provolone cheese"
+  },
+  "assumptions": "Standard 1 oz (28 g) slice of full-fat provolone cheese; mild variety, no additives.",
+  "disclaimer": "Nutrition varies by brand, fat content, slice thickness, and aging process. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 100,
+    "text": "One slice of provolone cheese contains about 100 kcal and 7 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 100,
+      "carbs_g": 0.6,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 7,
+      "fat_g": 7.7,
+      "sat_fat_g": 4.8,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 25,
+      "sodium_mg": 338
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 100,
+    "carbs_g": 0.6,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 7,
+    "fat_g": 7.7,
+    "sat_fat_g": 4.8,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 25,
+    "sodium_mg": 338
+  },
+  "label_note": "Values mirror standard Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.42
+  },
+  "tweaks": [
+    {
+      "label": "Switch to reduced-fat provolone",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Aged provolone (sharper flavor, slightly higher fat)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Thinner slice (0.75 oz instead of 1 oz)",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 75
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one slice of provolone cheese?",
+      "a": "Approximately 100 kcal per standard 1 oz slice."
+    },
+    {
+      "q": "What is the protein content in a slice of provolone?",
+      "a": "About 7 g of protein per slice."
+    },
+    {
+      "q": "Is provolone cheese high in sodium?",
+      "a": "Yes, around 338 mg sodium per slice, so watch intake if on a low-sodium diet."
+    },
+    {
+      "q": "How much fat is in provolone cheese per slice?",
+      "a": "Roughly 7.7 g total fat, with 4.8 g saturated."
+    },
+    {
+      "q": "Does provolone have carbs or fiber?",
+      "a": "Very low: 0.6 g carbs and 0 g fiber per slice."
+    }
+  ]
+}

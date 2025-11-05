@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in rice bowl",
+  "title": "How Many Calories in a Rice Bowl?",
+  "meta_description": "Discover how many calories in rice bowl, including macros, per-100g basis, tweaks for variations, and FAQs for quick insights.",
+  "slug": "how-many-calories-in-rice-bowl",
+  "h1": "How Many Calories in a Rice Bowl?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "rice bowl"
+  },
+  "assumptions": "Plain cooked white rice, 1 standard bowl ≈ 200 g (about 1.5 cups); no added oil, salt, or toppings.",
+  "disclaimer": "Nutrition varies by rice type, portion size, cooking method, and additions like sauces or proteins. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 260,
+    "text": "A standard 200 g rice bowl has ~260 kcal and ~5 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 28,
+      "fiber_g": 0.4,
+      "sugars_g": 0.1,
+      "protein_g": 2.7,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 260,
+    "carbs_g": 56,
+    "fiber_g": 0.8,
+    "sugars_g": 0.2,
+    "protein_g": 5.4,
+    "fat_g": 0.6,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.09
+  },
+  "tweaks": [
+    {
+      "label": "Switch to brown rice (per bowl)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Add 1 tsp butter per bowl",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 296
+    },
+    {
+      "label": "Add 100 g grilled chicken",
+      "delta_kcal_per_unit": 165,
+      "new_total_kcal": 425
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a plain rice bowl?",
+      "a": "About 260 kcal for a 200 g serving of cooked white rice."
+    },
+    {
+      "q": "What's the carb content in a rice bowl?",
+      "a": "Roughly 56 g carbs, mostly starch, with minimal fiber (0.8 g)."
+    },
+    {
+      "q": "Does rice type affect calories in rice bowl?",
+      "a": "Yes—brown rice adds ~10 kcal per 200 g due to higher fiber."
+    },
+    {
+      "q": "Are there fats or cholesterol in rice bowl?",
+      "a": "Plain rice has negligible fat (0.6 g) and 0 mg cholesterol."
+    },
+    {
+      "q": "How to lower calories in rice bowl?",
+      "a": "Use smaller portions, opt for cauliflower rice, or add veggies instead of extras."
+    }
+  ]
+}

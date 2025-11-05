@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a slice of little caesars pizza",
+  "title": "How Many Calories in a Slice of Little Caesars Pizza?",
+  "meta_description": "Discover how many calories in a slice of Little Caesars pizza, including full nutrition breakdown, macros, and variations for their classic pepperoni slice.",
+  "slug": "how-many-calories-in-a-slice-of-little-caesars-pizza",
+  "h1": "How Many Calories in a Slice of Little Caesars Pizza?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "little caesars pizza"
+  },
+  "assumptions": "Standard Hot-N-Ready classic pepperoni pizza slice (1/8 of 14-inch pie), including crust, sauce, cheese, and pepperoni; no extra toppings.",
+  "disclaimer": "Nutrition varies by pizza type, size, toppings, and preparation; values are averages. Check Little Caesars nutritional info for exact details.",
+  "quick_answer": {
+    "total_kcal": 285,
+    "text": "A slice of Little Caesars pepperoni pizza contains about 285 calories and 12 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 285,
+      "carbs_g": 35,
+      "fiber_g": 2,
+      "sugars_g": 4,
+      "protein_g": 12,
+      "fat_g": 10,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 650
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 285,
+    "carbs_g": 35,
+    "fiber_g": 2,
+    "sugars_g": 4,
+    "protein_g": 12,
+    "fat_g": 10,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 650
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.19
+  },
+  "tweaks": [
+    {
+      "label": "Cheese pizza (no pepperoni)",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Add extra cheese topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 335
+    },
+    {
+      "label": "Thin crust variation (if available)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 245
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a slice of Little Caesars pepperoni pizza?",
+      "a": "Approximately 285 calories per slice."
+    },
+    {
+      "q": "What are the macros for a Little Caesars pizza slice?",
+      "a": "About 35 g carbs, 12 g protein, 10 g fat per slice."
+    },
+    {
+      "q": "Is sodium high in Little Caesars pizza?",
+      "a": "Yes, around 650 mg per slice due to cheese, sauce, and toppings."
+    },
+    {
+      "q": "How does Little Caesars compare to other pizza chains?",
+      "a": "Similar to competitors; calories range 250-350 per slice depending on toppings."
+    },
+    {
+      "q": "Are there lower-calorie options at Little Caesars?",
+      "a": "Opt for cheese or veggie slices; avoid extra meat or stuffed crust to reduce calories."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in four egg white",
+  "title": "Calories in Four Egg Whites",
+  "meta_description": "Discover calories in four egg white, including protein, carbs, fat, and full nutrition breakdown per serving with quick tweaks and FAQs.",
+  "slug": "calories-in-four-egg-white",
+  "h1": "Calories in Four Egg Whites",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 4,
+    "unit": "egg white",
+    "item": "egg white"
+  },
+  "assumptions": "Large egg whites (~33 g each), separated from yolks, raw or poached, no added salt or ingredients.",
+  "disclaimer": "Nutrition varies by egg size, brand, and preparation method; values are approximate. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 68,
+    "text": "Four large egg whites provide ~68 kcal and ~14 g protein with negligible fat."
+  },
+  "basis": {
+    "label": "per 1 large egg white",
+    "amount": 1,
+    "unit": "egg white",
+    "nutrition": {
+      "calories_kcal": 17,
+      "carbs_g": 0.2,
+      "fiber_g": 0,
+      "sugars_g": 0.2,
+      "protein_g": 3.6,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 55
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 68,
+    "carbs_g": 0.8,
+    "fiber_g": 0,
+    "sugars_g": 0.8,
+    "protein_g": 14.4,
+    "fat_g": 0.4,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 220
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.28
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar per egg white for meringue",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "From extra-large eggs (larger whites)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Cooked with 1 tsp oil per two whites",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 108
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one egg white?",
+      "a": "About 17 kcal for one large egg white."
+    },
+    {
+      "q": "What is the protein in four egg whites?",
+      "a": "Approximately 14.4 g protein."
+    },
+    {
+      "q": "Do egg whites have cholesterol?",
+      "a": "No cholesterol in egg whites; it's all in the yolk."
+    },
+    {
+      "q": "Calories in four egg whites vs. whole eggs?",
+      "a": "Four egg whites: ~68 kcal; four whole eggs: ~288 kcal (due to yolks)."
+    },
+    {
+      "q": "Are egg whites low-carb?",
+      "a": "Yes, only ~0.8 g carbs in four egg whites, mostly sugars."
+    }
+  ]
+}

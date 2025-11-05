@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a small fry from mcdonalds",
+  "title": "How Many Calories in a Small McDonald's Fry?",
+  "meta_description": "Discover how many calories are in a small fry from mcdonalds—about 230 kcal—plus full nutrition breakdown, macros, and serving tweaks for your meal planning.",
+  "slug": "how-many-calories-are-in-a-small-fry-from-mcdonalds",
+  "h1": "How Many Calories in a Small McDonald's Fry?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small fry serving",
+    "item": "McDonald's small fry"
+  },
+  "assumptions": "McDonald's small French fries (71 g serving), cooked in vegetable oil blend; official nutrition data as of latest menu.",
+  "disclaimer": "Nutrition varies by location, preparation time, and menu changes; check McDonald's app or site for current values.",
+  "quick_answer": {
+    "total_kcal": 230,
+    "text": "A small McDonald's fry contains about 230 calories with 29 g carbs and 11 g fat."
+  },
+  "basis": {
+    "label": "per 1 small serving (71 g)",
+    "amount": 1,
+    "unit": "small fry serving",
+    "nutrition": {
+      "calories_kcal": 230,
+      "carbs_g": 29,
+      "fiber_g": 3,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 11,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 160
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 230,
+    "carbs_g": 29,
+    "fiber_g": 3,
+    "sugars_g": 0,
+    "protein_g": 3,
+    "fat_g": 11,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 160
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.96
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet (9 g) ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Upgrade to medium size (117 g)",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "No salt added (rinsed)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 230
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a small fry from McDonald's?",
+      "a": "Approximately 230 calories per small serving."
+    },
+    {
+      "q": "What are the macros in a small McDonald's fry?",
+      "a": "29 g carbs, 11 g fat, 3 g protein, and 3 g fiber."
+    },
+    {
+      "q": "Does a small McDonald's fry have trans fats?",
+      "a": "0 g trans fat, but 1.5 g saturated fat per serving."
+    },
+    {
+      "q": "How much sodium in a small fry from McDonald's?",
+      "a": "About 160 mg sodium per small serving."
+    },
+    {
+      "q": "Are McDonald's small fries gluten-free?",
+      "a": "Generally yes, but cross-contamination possible; check for allergies."
+    }
+  ]
+}

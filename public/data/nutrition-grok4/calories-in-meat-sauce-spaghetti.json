@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in meat sauce spaghetti",
+  "title": "Calories in Meat Sauce Spaghetti",
+  "meta_description": "Discover calories in meat sauce spaghetti per serving, including carbs, protein, fat, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-meat-sauce-spaghetti",
+  "h1": "Calories in Meat Sauce Spaghetti",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "spaghetti with meat sauce"
+  },
+  "assumptions": "Homemade bolognese-style: 140g cooked spaghetti, 120g meat sauce (ground beef, tomatoes, onions, herbs); ~260g total serving, no cheese or extra oil.",
+  "disclaimer": "Nutrition varies by recipe, portion size, meat type, pasta brand, and cooking method. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 442,
+    "text": "One serving of spaghetti with meat sauce provides ~442 kcal and ~20 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 170,
+      "carbs_g": 20,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 8,
+      "fat_g": 5,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 442,
+    "carbs_g": 52,
+    "fiber_g": 5.2,
+    "sugars_g": 7.8,
+    "protein_g": 20.8,
+    "fat_g": 13,
+    "sat_fat_g": 5.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 52,
+    "sodium_mg": 780
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.85
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp grated parmesan cheese",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 467
+    },
+    {
+      "label": "Use ground turkey instead of beef",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 402
+    },
+    {
+      "label": "Whole wheat pasta substitution",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 432
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of meat sauce spaghetti?",
+      "a": "About 442 kcal for a standard 260g serving."
+    },
+    {
+      "q": "What are the macros in spaghetti with meat sauce?",
+      "a": "Per serving: ~52 g carbs, 20.8 g protein, 13 g fat."
+    },
+    {
+      "q": "Does meat sauce spaghetti have a lot of sodium?",
+      "a": "Yes, around 780 mg per serving due to sauce ingredients; varies by recipe."
+    },
+    {
+      "q": "How to reduce calories in meat sauce spaghetti?",
+      "a": "Use leaner meat, less oil in sauce, or smaller pasta portions to cut ~50-100 kcal."
+    },
+    {
+      "q": "Is spaghetti with meat sauce high in protein?",
+      "a": "Moderately—~21 g per serving from beef and pasta."
+    }
+  ]
+}

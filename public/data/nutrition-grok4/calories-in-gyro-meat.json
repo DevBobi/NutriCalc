@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in gyro meat",
+  "title": "Calories in Gyro Meat",
+  "meta_description": "Discover calories in gyro meat per 100g, including protein, fat, carbs, and full nutrition breakdown with tweaks and FAQs for better meal planning.",
+  "slug": "calories-in-gyro-meat",
+  "h1": "Calories in Gyro Meat",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "gyro meat"
+  },
+  "assumptions": "Lamb and beef mixture, cooked on vertical rotisserie, thinly sliced; no pita, veggies, or sauces included.",
+  "disclaimer": "Nutrition varies by meat blend, seasoning, cooking method, and brand. Check labels or restaurant info when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "Gyro meat provides about 250 kcal per 100g, with high protein and fat content."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 15,
+      "fat_g": 20,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 70,
+      "sodium_mg": 700
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 15,
+    "fat_g": 20,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 70,
+    "sodium_mg": 700
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged or restaurant items.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add 2 tbsp tzatziki sauce per 100g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Use lean chicken gyro meat instead",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Pork-based gyro (less fatty)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 220
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of gyro meat?",
+      "a": "Approximately 250 kcal per 100g of traditional lamb-beef gyro meat."
+    },
+    {
+      "q": "What is the protein content in gyro meat?",
+      "a": "About 15g of protein per 100g, making it a good source for muscle building."
+    },
+    {
+      "q": "Is gyro meat high in fat?",
+      "a": "Yes, around 20g total fat per 100g, including 8g saturated fat."
+    },
+    {
+      "q": "Does gyro meat have carbs?",
+      "a": "Very low, only about 2g carbs per 100g, mostly from seasonings."
+    },
+    {
+      "q": "Why is sodium high in gyro meat?",
+      "a": "Due to marinades and spices; around 700mg per 100g, so watch intake if on a low-sodium diet."
+    }
+  ]
+}
