@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a sesame seed bagel",
+  "title": "Calories in a Sesame Seed Bagel",
+  "meta_description": "Discover calories in a sesame seed bagel, including full nutrition breakdown with carbs, protein, fat, and easy tweaks for variations.",
+  "slug": "calories-in-a-sesame-seed-bagel",
+  "h1": "Calories in a Sesame Seed Bagel",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bagel",
+    "item": "sesame seed bagel"
+  },
+  "assumptions": "Standard size (about 85g), baked plain with sesame seeds, no added toppings or butter.",
+  "disclaimer": "Nutrition varies by brand, size, baking method, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "A sesame seed bagel provides ~290 kcal, mostly from carbs, with 10g protein."
+  },
+  "basis": {
+    "label": "per 1 sesame seed bagel",
+    "amount": 1,
+    "unit": "bagel",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 56,
+      "fiber_g": 2.5,
+      "sugars_g": 5,
+      "protein_g": 10,
+      "fat_g": 3.5,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 450
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 56,
+    "fiber_g": 2.5,
+    "sugars_g": 5,
+    "protein_g": 10,
+    "fat_g": 3.5,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 450
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 326
+    },
+    {
+      "label": "Whole grain sesame bagel variation",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Top with 1 oz cream cheese",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 390
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a sesame seed bagel?",
+      "a": "Approximately 290 kcal for one standard sesame seed bagel."
+    },
+    {
+      "q": "What are the carbs in a sesame seed bagel?",
+      "a": "About 56g total carbs, including 2.5g fiber and 5g sugars."
+    },
+    {
+      "q": "Is a sesame seed bagel high in protein?",
+      "a": "It has around 10g protein per bagel, moderate for a carb-focused item."
+    },
+    {
+      "q": "How does sodium content compare in bagels?",
+      "a": "Typically 450mg sodium per sesame seed bagel; varies by brand."
+    },
+    {
+      "q": "Are sesame seeds adding many calories?",
+      "a": "Sesame seeds contribute minimal calories (~10-15 kcal) but add healthy fats."
+    }
+  ]
+}

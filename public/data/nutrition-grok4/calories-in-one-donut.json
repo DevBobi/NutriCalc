@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in one donut",
+  "title": "Calories in One Donut",
+  "meta_description": "Discover calories in one donut, including full nutrition breakdown like carbs, fat, protein, and easy tweaks for variations.",
+  "slug": "calories-in-one-donut",
+  "h1": "Calories in One Donut",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "donut",
+    "item": "donut"
+  },
+  "assumptions": "Standard glazed yeast donut (~60 g), bakery-style, fried in oil, with basic glaze; no fillings or toppings.",
+  "disclaimer": "Nutrition varies by type (yeast vs. cake), brand, size, frying method, and toppings. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One standard glazed donut contains about 250 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 donut",
+    "amount": 1,
+    "unit": "donut",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 28,
+      "fiber_g": 1,
+      "sugars_g": 14,
+      "protein_g": 3,
+      "fat_g": 14,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 28,
+    "fiber_g": 1,
+    "sugars_g": 14,
+    "protein_g": 3,
+    "fat_g": 14,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate frosted topping instead of glaze",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Add cream filling",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Baked version (vs. fried)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 150
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one glazed donut?",
+      "a": "Approximately 250 kcal for a standard 60 g glazed yeast donut."
+    },
+    {
+      "q": "What are the macros for one donut?",
+      "a": "About 28 g carbs, 14 g fat, 3 g protein, and 14 g sugars."
+    },
+    {
+      "q": "Do donuts have a lot of sugar?",
+      "a": "Yes, one donut typically has 14 g of sugars from the glaze and dough."
+    },
+    {
+      "q": "How does donut size affect calories?",
+      "a": "Larger donuts (e.g., 80 g) can have 300+ kcal; mini versions around 100 kcal."
+    },
+    {
+      "q": "Are there low-calorie donut options?",
+      "a": "Baked or air-fried versions reduce calories by 50-100 kcal compared to fried."
+    }
+  ]
+}

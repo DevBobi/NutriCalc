@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 3 slices bacon",
+  "title": "Calories in 3 Slices of Bacon",
+  "meta_description": "Learn calories in 3 slices bacon, including fat, protein, sodium, full nutrition breakdown, and preparation tweaks for better choices.",
+  "slug": "calories-in-3-slices-bacon",
+  "h1": "Calories in 3 Slices of Bacon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "slice",
+    "item": "bacon"
+  },
+  "assumptions": "Standard pork bacon, pan-fried to crisp, medium thickness slices (~8 g each cooked weight).",
+  "disclaimer": "Nutrition varies by brand, cut thickness, cooking method, and added fats; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 129,
+    "text": "3 slices of cooked bacon provide ~129 kcal and ~9 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 43,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 3.3,
+      "sat_fat_g": 1.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 9,
+      "sodium_mg": 192
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 129,
+    "carbs_g": 0.3,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 9,
+    "fat_g": 9.9,
+    "sat_fat_g": 3.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 27,
+    "sodium_mg": 576
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Switch to turkey bacon per slice",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 54
+    },
+    {
+      "label": "Use thick-cut bacon per slice",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 189
+    },
+    {
+      "label": "Oven-baked (less fat drained) vs pan-fried",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 114
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of bacon?",
+      "a": "About 43 kcal per medium slice of cooked pork bacon."
+    },
+    {
+      "q": "What's the fat content in 3 slices bacon?",
+      "a": "Approximately 9.9 g total fat, including 3.3 g saturated."
+    },
+    {
+      "q": "Is bacon high in sodium?",
+      "a": "Yes, 3 slices have ~576 mg sodium—watch intake if monitoring salt."
+    },
+    {
+      "q": "How does cooking method affect calories in bacon?",
+      "a": "Pan-frying retains more fat; baking or microwaving can reduce by 5-10 kcal per slice."
+    },
+    {
+      "q": "Are there lower-calorie bacon alternatives?",
+      "a": "Turkey or chicken bacon typically has 20-30 fewer kcal per slice than pork."
+    }
+  ]
+}

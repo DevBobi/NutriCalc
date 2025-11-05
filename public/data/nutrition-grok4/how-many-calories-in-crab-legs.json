@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in crab legs",
+  "title": "How Many Calories Are in Crab Legs?",
+  "meta_description": "Discover how many calories in crab legs per 100 g serving, including protein, fat, sodium details, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-in-crab-legs",
+  "h1": "How Many Calories Are in Crab Legs?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "crab legs"
+  },
+  "assumptions": "Cooked Alaskan king crab legs, meat only (shell removed), steamed, no added butter or seasonings.",
+  "disclaimer": "Nutrition varies by crab type (king, snow, Dungeness), size, cooking method, and added ingredients like butter. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "100 g of cooked crab legs provides about 90 kcal and 18 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 18,
+      "fat_g": 1,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 18,
+    "fat_g": 1,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 70,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Dipped in 1 tbsp melted butter per 100 g",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Snow crab instead of king crab per 100 g",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Boiled with added salt (extra 1/4 tsp)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g crab legs?",
+      "a": "Approximately 90 kcal for cooked king crab legs, meat only."
+    },
+    {
+      "q": "Are crab legs high in protein?",
+      "a": "Yes, about 18 g protein per 100 g, with low fat and carbs."
+    },
+    {
+      "q": "What's the sodium in crab legs?",
+      "a": "Around 500 mg per 100 g, which can vary with preparation."
+    },
+    {
+      "q": "Do crab legs have cholesterol?",
+      "a": "Yes, roughly 70 mg per 100 g; mostly from natural shellfish content."
+    },
+    {
+      "q": "How does cooking affect calories in crab legs?",
+      "a": "Steaming or boiling keeps calories low; frying or butter adds significantly more."
+    }
+  ]
+}

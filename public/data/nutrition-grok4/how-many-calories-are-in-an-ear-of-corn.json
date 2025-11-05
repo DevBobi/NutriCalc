@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in an ear of corn",
+  "title": "How Many Calories Are in an Ear of Corn?",
+  "meta_description": "Discover how many calories are in an ear of corn, including carbs, protein, fiber, and full nutrition breakdown per ear with easy tweaks.",
+  "slug": "how-many-calories-are-in-an-ear-of-corn",
+  "h1": "How Many Calories Are in an Ear of Corn?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "ear",
+    "item": "corn"
+  },
+  "assumptions": "Medium ear of corn (~90 g kernels), yellow sweet corn, boiled or steamed, no added butter, salt, or seasonings.",
+  "disclaimer": "Nutrition varies by corn variety, size, freshness, cooking method, and added ingredients. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "One medium ear of corn provides about 90 kcal and 3 g protein."
+  },
+  "basis": {
+    "label": "per 1 medium ear",
+    "amount": 1,
+    "unit": "ear",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 19,
+      "fiber_g": 2,
+      "sugars_g": 6,
+      "protein_g": 3,
+      "fat_g": 1.2,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 15
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 19,
+    "fiber_g": 2,
+    "sugars_g": 6,
+    "protein_g": 3,
+    "fat_g": 1.2,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 15
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter per ear",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Grilled with husk removed (vs. boiled)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 95
+    },
+    {
+      "label": "Small ear (~70 g kernels)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in an ear of corn?",
+      "a": "About 90 kcal for one medium ear of boiled sweet corn."
+    },
+    {
+      "q": "What are the carbs in an ear of corn?",
+      "a": "Approximately 19 g total carbs, including 2 g fiber and 6 g sugars."
+    },
+    {
+      "q": "Is corn high in protein?",
+      "a": "No, one ear has about 3 g protein; it's mostly carbs."
+    },
+    {
+      "q": "How does cooking affect calories in corn?",
+      "a": "Boiling or steaming adds minimal calories; grilling may add a few if charred."
+    },
+    {
+      "q": "Does adding butter change the calories much?",
+      "a": "Yes, 1 tbsp butter adds ~100 kcal per ear."
+    }
+  ]
+}

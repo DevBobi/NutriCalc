@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in toast with butter",
+  "title": "Calories in Toast with Butter",
+  "meta_description": "Discover calories in toast with butter, including full nutrition breakdown per slice, macros, and easy tweaks for variations.",
+  "slug": "calories-in-toast-with-butter",
+  "h1": "Calories in Toast with Butter",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "toast with butter"
+  },
+  "assumptions": "1 slice (28 g) white bread, toasted; topped with 1 tsp (5 g) salted butter; no additional toppings.",
+  "disclaimer": "Nutrition varies by bread type, butter brand, portion size, and toasting method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "One slice of toast with butter provides ~110 kcal, with 3 g protein and 5 g fat."
+  },
+  "basis": {
+    "label": "per 1 slice toast with 1 tsp butter",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 15,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 3,
+      "fat_g": 5,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 13,
+      "sodium_mg": 170
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 15,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 3,
+    "fat_g": 5,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 13,
+    "sodium_mg": 170
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Use whole wheat bread instead of white",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Add 1 tsp jam on top",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Use margarine instead of butter",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 105
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of toast with butter?",
+      "a": "About 110 kcal for 1 slice white toast with 1 tsp butter."
+    },
+    {
+      "q": "What are the carbs in toast with butter?",
+      "a": "Around 15 g carbs per slice, mostly from the bread."
+    },
+    {
+      "q": "Does butter add a lot of fat to toast?",
+      "a": "Yes, 1 tsp butter adds ~5 g fat, including 3 g saturated fat."
+    },
+    {
+      "q": "How to reduce calories in toast with butter?",
+      "a": "Use less butter, opt for whole grain bread, or choose a low-fat spread."
+    },
+    {
+      "q": "Is toast with butter high in sodium?",
+      "a": "Moderately; ~170 mg per slice due to salted butter and bread."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 2 cup of rice",
+  "title": "Calories in 1/2 Cup of Rice",
+  "meta_description": "Discover calories in 1/2 cup of rice, including carbs, protein, fat, and full nutrition breakdown per serving with easy tweaks for variations.",
+  "slug": "calories-in-1-2-cup-of-rice",
+  "h1": "Calories in 1/2 Cup of Rice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 0.5,
+    "unit": "cup",
+    "item": "rice"
+  },
+  "assumptions": "Cooked long-grain white rice, unenriched, boiled without added salt, oil, or butter; ~79 g per 1/2 cup serving.",
+  "disclaimer": "Nutrition varies by rice type, brand, cooking method, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 102,
+    "text": "1/2 cup of cooked white rice provides ~102 kcal and ~22 g carbs."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 205,
+      "carbs_g": 44.5,
+      "fiber_g": 0.6,
+      "sugars_g": 0.1,
+      "protein_g": 4.3,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 102,
+    "carbs_g": 22.3,
+    "fiber_g": 0.3,
+    "sugars_g": 0.1,
+    "protein_g": 2.2,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.43
+  },
+  "tweaks": [
+    {
+      "label": "Switch to brown rice (per 1/2 cup cooked)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 117
+    },
+    {
+      "label": "Add 1 tsp butter per 1/2 cup",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 136
+    },
+    {
+      "label": "Use jasmine rice (slightly higher starch, per 1/2 cup)",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1/2 cup of cooked white rice?",
+      "a": "Approximately 102 kcal."
+    },
+    {
+      "q": "What are the carbs in 1/2 cup of rice?",
+      "a": "About 22.3 g of carbohydrates, with minimal fiber and sugars."
+    },
+    {
+      "q": "Is rice high in protein?",
+      "a": "No, 1/2 cup provides only ~2.2 g protein; pair with other sources for balance."
+    },
+    {
+      "q": "Calories in 1/2 cup uncooked vs. cooked rice?",
+      "a": "Uncooked is denser: ~180 kcal per 1/2 cup dry, but it expands when cooked."
+    },
+    {
+      "q": "How does rice type affect calories?",
+      "a": "Brown rice has slightly more (~117 kcal per 1/2 cup) due to fiber; sticky varieties may vary."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a cinnabon",
+  "title": "How Many Calories in a Cinnabon?",
+  "meta_description": "Discover how many calories in a cinnabon, including full nutrition breakdown like carbs, protein, fat, and tips for variations under 160 characters.",
+  "slug": "how-many-calories-in-a-cinnabon",
+  "h1": "How Many Calories in a Cinnabon?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cinnabon",
+    "item": "cinnabon"
+  },
+  "assumptions": "Standard Classic Cinnabon cinnamon roll with cream cheese frosting; approximately 148 g serving size, fresh-baked.",
+  "disclaimer": "Nutrition varies by size, recipe changes, and customizations; values based on official Cinnabon data. Check with the brand for latest info.",
+  "quick_answer": {
+    "total_kcal": 880,
+    "text": "A classic Cinnabon roll contains about 880 calories and 13 g protein."
+  },
+  "basis": {
+    "label": "per 1 Cinnabon roll",
+    "amount": 1,
+    "unit": "roll",
+    "nutrition": {
+      "calories_kcal": 880,
+      "carbs_g": 119,
+      "fiber_g": 2,
+      "sugars_g": 67,
+      "protein_g": 13,
+      "fat_g": 36,
+      "sat_fat_g": 18,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 65,
+      "sodium_mg": 610
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 880,
+    "carbs_g": 119,
+    "fiber_g": 2,
+    "sugars_g": 67,
+    "protein_g": 13,
+    "fat_g": 36,
+    "sat_fat_g": 18,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 65,
+    "sodium_mg": 610
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.68
+  },
+  "tweaks": [
+    {
+      "label": "Without cream cheese frosting",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 680
+    },
+    {
+      "label": "Mini Cinnabon (half size)",
+      "delta_kcal_per_unit": -440,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "With extra frosting",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 980
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a classic Cinnabon?",
+      "a": "Approximately 880 calories per roll."
+    },
+    {
+      "q": "What are the carbs in a Cinnabon?",
+      "a": "About 119 g total carbs, including 67 g sugars and 2 g fiber."
+    },
+    {
+      "q": "Is a Cinnabon high in fat?",
+      "a": "Yes, 36 g total fat per roll, with 18 g saturated fat."
+    },
+    {
+      "q": "How much protein in a Cinnabon?",
+      "a": "Roughly 13 g protein per standard roll."
+    },
+    {
+      "q": "Are there lower-calorie Cinnabon options?",
+      "a": "Yes, minis have about 440 kcal; skip frosting to reduce by 200 kcal."
+    }
+  ]
+}

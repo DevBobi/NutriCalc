@@ -76,8 +76,22 @@ interface PageProps {
 async function getNutritionData(slug: string): Promise<NutritionData | null> {
   try {
     const filePath = path.join(process.cwd(), 'public', 'data', 'nutrition-grok4', `${slug}.json`);
+    
+    if (!fs.existsSync(filePath)) {
+      console.error(`File not found: ${slug}.json`);
+      return null;
+    }
+    
     const fileContents = fs.readFileSync(filePath, 'utf8');
-    return JSON.parse(fileContents);
+    const data = JSON.parse(fileContents);
+    
+    // Validate essential fields
+    if (!data.title || !data.quick_answer) {
+      console.error(`Invalid data structure in ${slug}.json`);
+      return null;
+    }
+    
+    return data;
   } catch (error) {
     console.error(`Error reading nutrition data for ${slug}:`, error);
     return null;
@@ -105,9 +119,11 @@ export async function generateStaticParams() {
       return [];
     }
     
+    // Generate params for ALL nutrition pages
     const files = fs.readdirSync(nutritionDir)
-      .filter(file => file.endsWith('.json'))
-      .slice(0, 20); // Only first 20 files
+      .filter(file => file.endsWith('.json'));
+    
+    console.log(`📊 Generating static params for ${files.length} nutrition pages...`);
     
     return files.map(file => ({
       slug: file.replace('.json', ''),

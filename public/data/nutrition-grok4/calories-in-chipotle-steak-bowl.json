@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chipotle steak bowl",
+  "title": "Calories in Chipotle Steak Bowl",
+  "meta_description": "Learn calories in chipotle steak bowl with full nutrition facts, macros, protein, and tweaks for custom orders under 160 characters.",
+  "slug": "calories-in-chipotle-steak-bowl",
+  "h1": "Calories in Chipotle Steak Bowl",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "chipotle steak bowl"
+  },
+  "assumptions": "Standard Chipotle burrito bowl: adobo-marinated steak, white rice, black beans, fajita veggies, tomato salsa, cheese, lettuce; no guac or sour cream.",
+  "disclaimer": "Nutrition varies by portion size, customizations, location, and preparation. Check Chipotle app or receipt for exact values.",
+  "quick_answer": {
+    "total_kcal": 665,
+    "text": "A standard Chipotle steak bowl contains about 665 kcal and 45 g protein."
+  },
+  "basis": {
+    "label": "per 1 bowl",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 665,
+      "carbs_g": 70,
+      "fiber_g": 10,
+      "sugars_g": 5,
+      "protein_g": 45,
+      "fat_g": 25,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 100,
+      "sodium_mg": 1500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 665,
+    "carbs_g": 70,
+    "fiber_g": 10,
+    "sugars_g": 5,
+    "protein_g": 45,
+    "fat_g": 25,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 100,
+    "sodium_mg": 1500
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.78
+  },
+  "tweaks": [
+    {
+      "label": "Add guacamole",
+      "delta_kcal_per_unit": 230,
+      "new_total_kcal": 895
+    },
+    {
+      "label": "No rice (swap for extra veggies)",
+      "delta_kcal_per_unit": -210,
+      "new_total_kcal": 455
+    },
+    {
+      "label": "Double the steak",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 865
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Chipotle steak bowl without rice?",
+      "a": "About 455 kcal if swapping rice for extra veggies."
+    },
+    {
+      "q": "What's the protein in a Chipotle steak bowl?",
+      "a": "Approximately 45 g from steak, beans, and cheese."
+    },
+    {
+      "q": "Are Chipotle steak bowls high in sodium?",
+      "a": "Yes, around 1500 mg due to seasoning and salsa."
+    },
+    {
+      "q": "Calories in Chipotle steak bowl with brown rice?",
+      "a": "Similar to white rice, about 665 kcal; brown adds slightly more fiber."
+    },
+    {
+      "q": "How to make a lower-calorie Chipotle steak bowl?",
+      "a": "Skip cheese and rice, add extra lettuce and veggies for ~400 kcal."
+    }
+  ]
+}

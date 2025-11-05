@@ -1,0 +1,92 @@
+{
+  "keyword": "protein style in n out calories",
+  "title": "Calories in In-N-Out Protein Style Burger",
+  "meta_description": "Discover protein style in n out calories for one burger: about 240 kcal with low carbs, high protein, plus full nutrition breakdown and tweaks.",
+  "slug": "protein-style-in-n-out-calories",
+  "h1": "Calories in In-N-Out Protein Style Burger",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "In-N-Out Protein Style Hamburger"
+  },
+  "assumptions": "Standard single patty Protein Style Hamburger: 100% beef patty, lettuce wrap, tomato, onion, spread; no bun, cheese, or extras.",
+  "disclaimer": "Nutrition varies by location, customizations, and preparation; values based on In-N-Out standard info. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 240,
+    "text": "One In-N-Out Protein Style Hamburger provides 240 kcal and 16 g protein."
+  },
+  "basis": {
+    "label": "per 1 burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 240,
+      "carbs_g": 11,
+      "fiber_g": 2,
+      "sugars_g": 4,
+      "protein_g": 16,
+      "fat_g": 17,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 45,
+      "sodium_mg": 650
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 240,
+    "carbs_g": 11,
+    "fiber_g": 2,
+    "sugars_g": 4,
+    "protein_g": 16,
+    "fat_g": 17,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 45,
+    "sodium_mg": 650
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with menu info.",
+  "equivalents": {
+    "megajoules": 1
+  },
+  "tweaks": [
+    {
+      "label": "Add one slice of cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 290
+    },
+    {
+      "label": "Make it a Double-Double (add second patty and cheese)",
+      "delta_kcal_per_unit": 280,
+      "new_total_kcal": 520
+    },
+    {
+      "label": "Remove spread (thousand island-style sauce)",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 150
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in protein style in n out hamburger?",
+      "a": "About 240 kcal for one standard Protein Style Hamburger."
+    },
+    {
+      "q": "What's the protein in In-N-Out Protein Style?",
+      "a": "16 g protein per burger, mainly from the beef patty."
+    },
+    {
+      "q": "Are carbs low in protein style in n out?",
+      "a": "Yes, only 11 g carbs due to no bun, from veggies and spread."
+    },
+    {
+      "q": "How does Protein Style compare to regular In-N-Out burger?",
+      "a": "Protein Style saves ~200 kcal by skipping the bun, reducing carbs significantly."
+    },
+    {
+      "q": "Sodium in protein style in n out calories info?",
+      "a": "Around 650 mg sodium per burger, mostly from the patty and spread."
+    }
+  ]
+}

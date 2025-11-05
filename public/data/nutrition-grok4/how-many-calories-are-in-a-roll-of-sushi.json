@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a roll of sushi",
+  "title": "How Many Calories Are in a Roll of Sushi?",
+  "meta_description": "Discover how many calories are in a roll of sushi, including macros like protein and carbs, plus variations and FAQs for better choices.",
+  "slug": "how-many-calories-are-in-a-roll-of-sushi",
+  "h1": "How Many Calories Are in a Roll of Sushi?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "roll",
+    "item": "sushi"
+  },
+  "assumptions": "Standard California roll (8 pieces, ~200g total), with sushi rice, imitation crab, avocado, cucumber; no added sauces.",
+  "disclaimer": "Nutrition varies by roll type, ingredients, rice portion, and preparation; restaurant vs. homemade differs. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 255,
+    "text": "A typical California sushi roll contains about 255 kcal and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 roll (8 pieces)",
+    "amount": 1,
+    "unit": "roll",
+    "nutrition": {
+      "calories_kcal": 255,
+      "carbs_g": 38,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 9,
+      "fat_g": 7,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 700
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 255,
+    "carbs_g": 38,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 9,
+    "fat_g": 7,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 700
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.07
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp spicy mayo per roll",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 345
+    },
+    {
+      "label": "Veggie roll (no crab, extra veggies)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 205
+    },
+    {
+      "label": "Tempura shrimp roll (battered and fried)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 355
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a roll of sushi?",
+      "a": "About 255 kcal for a standard California roll (8 pieces)."
+    },
+    {
+      "q": "What are the carbs in a sushi roll?",
+      "a": "Typically 38 g carbs per roll, mostly from rice."
+    },
+    {
+      "q": "Is sushi high in sodium?",
+      "a": "Yes, around 700 mg per roll due to soy sauce and seasonings."
+    },
+    {
+      "q": "How does roll type affect calories?",
+      "a": "Veggie rolls are lower (~200 kcal); fried or creamy ones higher (300+ kcal)."
+    },
+    {
+      "q": "Protein in a sushi roll?",
+      "a": "About 9 g per standard roll, higher with fish or shrimp."
+    }
+  ]
+}

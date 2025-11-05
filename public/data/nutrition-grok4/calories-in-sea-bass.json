@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sea bass",
+  "title": "Calories in Sea Bass",
+  "meta_description": "Learn calories in sea bass per 100g serving, including protein, fat, carbs, and full nutrition facts for easy meal planning.",
+  "slug": "calories-in-sea-bass",
+  "h1": "Calories in Sea Bass",
+  "updated": "2024-10-02",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "sea bass"
+  },
+  "assumptions": "Cooked (baked or grilled), skinless fillet, no added oil, butter, or seasonings; European sea bass variety.",
+  "disclaimer": "Nutrition varies by species, freshness, cooking method, and portion size. Check labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "100g of cooked sea bass provides ~97 kcal and ~21g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 21,
+      "fat_g": 1.7,
+      "sat_fat_g": 0.4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 52,
+      "sodium_mg": 81
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 21,
+    "fat_g": 1.7,
+    "sat_fat_g": 0.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 52,
+    "sodium_mg": 81
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Pan-fried with 1 tsp oil per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 137
+    },
+    {
+      "label": "Add lemon butter sauce (1 tsp per 100g)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 147
+    },
+    {
+      "label": "Raw vs. cooked (per 100g)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 77
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in sea bass per 100g?",
+      "a": "About 97 kcal for cooked sea bass per 100g."
+    },
+    {
+      "q": "Is sea bass high in protein?",
+      "a": "Yes, ~21g protein per 100g, making it a lean protein source."
+    },
+    {
+      "q": "Does sea bass have carbs?",
+      "a": "No carbs, fiber, or sugars in plain cooked sea bass."
+    },
+    {
+      "q": "How does cooking affect calories in sea bass?",
+      "a": "Baking or grilling keeps it low-cal; frying adds ~40+ kcal from oil."
+    },
+    {
+      "q": "What's the fat content in sea bass?",
+      "a": "Low at 1.7g total fat per 100g, with 0.4g saturated."
+    }
+  ]
+}

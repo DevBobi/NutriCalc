@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in an everything bagel",
+  "title": "How Many Calories in an Everything Bagel?",
+  "meta_description": "Discover how many calories in an everything bagel, including carbs, protein, fat, sodium details, and simple tweaks for variations.",
+  "slug": "how-many-calories-in-an-everything-bagel",
+  "h1": "How Many Calories in an Everything Bagel?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bagel",
+    "item": "everything bagel"
+  },
+  "assumptions": "Standard medium bagel (~100 g), baked plain with everything topping (sesame seeds, poppy seeds, dried onion, garlic, salt); no fillings or spreads.",
+  "disclaimer": "Nutrition varies by brand, size, baking method, and toppings; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 270,
+    "text": "One everything bagel provides ~270 kcal, mostly from carbs, with 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 everything bagel",
+    "amount": 1,
+    "unit": "bagel",
+    "nutrition": {
+      "calories_kcal": 270,
+      "carbs_g": 53,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 9,
+      "fat_g": 1.5,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 520
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 270,
+    "carbs_g": 53,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 9,
+    "fat_g": 1.5,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 520
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.13
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 oz cream cheese",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Whole grain version (vs. white flour)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Toasted with 1 tsp butter",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 305
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an everything bagel without toppings?",
+      "a": "A plain bagel base is similar, around 250-270 kcal; everything seasoning adds minimal calories."
+    },
+    {
+      "q": "What's the carb count for an everything bagel?",
+      "a": "About 53 g carbs per bagel, including 2 g fiber."
+    },
+    {
+      "q": "Are everything bagels high in sodium?",
+      "a": "Yes, ~520 mg sodium due to the salt in the everything mix."
+    },
+    {
+      "q": "How does bagel size affect calories?",
+      "a": "Smaller bagels (~85 g) have ~220 kcal; larger ones (~120 g) up to 320 kcal."
+    },
+    {
+      "q": "Can I make a lower-calorie everything bagel?",
+      "a": "Opt for whole grain or thin versions, or skip high-cal spreads to reduce totals."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in movie theater popcorn",
+  "title": "How Many Calories in Movie Theater Popcorn?",
+  "meta_description": "Discover how many calories in movie theater popcorn for a small serving, including full nutrition breakdown, fats, carbs, sodium, and tips to cut calories.",
+  "slug": "how-many-calories-in-movie-theater-popcorn",
+  "h1": "How Many Calories in Movie Theater Popcorn?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small serving",
+    "item": "movie theater popcorn"
+  },
+  "assumptions": "Standard small serving (~11 cups popped, ~85g); includes coconut oil and butter topping; no additional salt or drinks.",
+  "disclaimer": "Nutrition varies by theater chain, serving size, butter amount, and toppings. Values are averages; check venue info or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "A small serving of movie theater popcorn typically contains about 450 calories, mostly from added fats."
+  },
+  "basis": {
+    "label": "per small serving",
+    "amount": 1,
+    "unit": "small serving",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 50,
+      "fiber_g": 8,
+      "sugars_g": 0,
+      "protein_g": 7,
+      "fat_g": 25,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 0,
+      "sodium_mg": 700
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 50,
+    "fiber_g": 8,
+    "sugars_g": 0,
+    "protein_g": 7,
+    "fat_g": 25,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 0,
+    "sodium_mg": 700
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Without butter or oil topping",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Extra butter (1 additional oz)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 650
+    },
+    {
+      "label": "Air-popped at home equivalent (plain, no oil)",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 150
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small movie theater popcorn?",
+      "a": "About 450 calories for a standard small serving with butter."
+    },
+    {
+      "q": "Why is movie theater popcorn so high in calories?",
+      "a": "Added coconut oil and butter topping contribute most fats and calories; plain kernels are low-cal."
+    },
+    {
+      "q": "How much sodium is in movie theater popcorn?",
+      "a": "Around 700 mg per small serving, mainly from salt and butter."
+    },
+    {
+      "q": "Calories in movie theater popcorn without butter?",
+      "a": "Roughly 250 calories for a small serving, focusing on the popped corn itself."
+    },
+    {
+      "q": "How do calories compare for large movie theater popcorn?",
+      "a": "A large can be 800-1200 calories or more, depending on size and toppings—opt for small to control intake."
+    }
+  ]
+}

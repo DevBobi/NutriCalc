@@ -1,0 +1,92 @@
+{
+  "keyword": "jack in the box taco calories",
+  "title": "Jack in the Box Taco Calories",
+  "meta_description": "Learn jack in the box taco calories: one taco has 147 kcal, plus carbs, fat, protein, sodium, and fast-food nutrition details.",
+  "slug": "jack-in-the-box-taco-calories",
+  "h1": "Jack in the Box Taco Calories",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "taco",
+    "item": "Jack in the Box taco"
+  },
+  "assumptions": "Standard crunchy shell taco with seasoned beef, cheddar cheese, lettuce, and mild taco sauce; approximately 78 g per taco.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations; values based on official Jack in the Box data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 147,
+    "text": "One Jack in the Box taco provides 147 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 taco",
+    "amount": 1,
+    "unit": "taco",
+    "nutrition": {
+      "calories_kcal": 147,
+      "carbs_g": 15,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 6,
+      "fat_g": 6,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 320
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 147,
+    "carbs_g": 15,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 6,
+    "fat_g": 6,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 320
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with fast-food menus.",
+  "equivalents": {
+    "megajoules": 0.62
+  },
+  "tweaks": [
+    {
+      "label": "Add extra cheese (1 slice equivalent)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 197
+    },
+    {
+      "label": "No beef (veggie substitute with beans)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 117
+    },
+    {
+      "label": "With extra mild sauce (1 packet)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 157
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Jack in the Box taco?",
+      "a": "One standard taco has 147 calories."
+    },
+    {
+      "q": "What are the macros for Jack in the Box taco calories?",
+      "a": "6 g protein, 6 g fat, 15 g carbs (2 g fiber) per taco."
+    },
+    {
+      "q": "Is sodium high in Jack in the Box tacos?",
+      "a": "Yes, about 320 mg sodium per taco from seasoning and sauce."
+    },
+    {
+      "q": "How many calories in two Jack in the Box tacos?",
+      "a": "Two tacos total around 294 calories."
+    },
+    {
+      "q": "Does the Jack in the Box taco have trans fat?",
+      "a": "No trans fat (0 g) in the standard taco."
+    }
+  ]
+}

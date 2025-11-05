@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in tuna salad",
+  "title": "Calories in Tuna Salad",
+  "meta_description": "Learn calories in tuna salad per serving, with full nutrition facts including protein, fat, carbs, sodium, and easy recipe tweaks for lighter options.",
+  "slug": "calories-in-tuna-salad",
+  "h1": "Calories in Tuna Salad",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "tuna salad"
+  },
+  "assumptions": "Prepared with 3 oz canned tuna in water, 1 tbsp full-fat mayonnaise, diced celery, onion, and salt; 1 serving ≈ 1/2 cup or 100g.",
+  "disclaimer": "Nutrition varies by recipe, tuna type (oil vs. water), mayo brand, added ingredients, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 191,
+    "text": "A typical 1/2 cup serving of tuna salad provides ~191 kcal and 16 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving (1/2 cup)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 191,
+      "carbs_g": 3,
+      "fiber_g": 0.5,
+      "sugars_g": 1,
+      "protein_g": 16,
+      "fat_g": 12,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 191,
+    "carbs_g": 3,
+    "fiber_g": 0.5,
+    "sugars_g": 1,
+    "protein_g": 16,
+    "fat_g": 12,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Use light mayonnaise instead of full-fat",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 141
+    },
+    {
+      "label": "Substitute mayo with Greek yogurt",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 151
+    },
+    {
+      "label": "Add 1/4 cup chopped celery and apple",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 211
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of tuna salad?",
+      "a": "About 191 kcal for a standard 1/2 cup serving with mayo."
+    },
+    {
+      "q": "Is tuna salad high in protein?",
+      "a": "Yes, one serving has ~16 g protein from the tuna."
+    },
+    {
+      "q": "How much fat is in tuna salad?",
+      "a": "Around 12 g total fat per serving, mostly from mayonnaise."
+    },
+    {
+      "q": "Can I make tuna salad lower calorie?",
+      "a": "Yes, swap mayo for yogurt or light mayo to cut ~40-50 kcal per serving."
+    },
+    {
+      "q": "What's the sodium in tuna salad?",
+      "a": "Approximately 500 mg per serving, higher if using tuna in brine."
+    }
+  ]
+}

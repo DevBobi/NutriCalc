@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in personal pan pizza hut",
+  "title": "Calories in Personal Pan Pizza Hut",
+  "meta_description": "Discover calories in personal pan pizza hut, including full nutrition breakdown for a standard cheese version, macros, and easy tweaks for toppings.",
+  "slug": "calories-in-personal-pan-pizza-hut",
+  "h1": "Calories in Personal Pan Pizza Hut",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "personal pan pizza",
+    "item": "Pizza Hut"
+  },
+  "assumptions": "Standard cheese personal pan pizza (6-inch, ~228 g), pan crust, no extra toppings or modifications.",
+  "disclaimer": "Nutrition varies by exact recipe, location, toppings, and portion size. Check Pizza Hut's official nutrition info or app for current values.",
+  "quick_answer": {
+    "total_kcal": 590,
+    "text": "A standard Pizza Hut personal pan cheese pizza contains about 590 calories and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 personal pan pizza",
+    "amount": 1,
+    "unit": "personal pan pizza",
+    "nutrition": {
+      "calories_kcal": 590,
+      "carbs_g": 69,
+      "fiber_g": 4,
+      "sugars_g": 7,
+      "protein_g": 25,
+      "fat_g": 25,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 1260
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 590,
+    "carbs_g": 69,
+    "fiber_g": 4,
+    "sugars_g": 7,
+    "protein_g": 25,
+    "fat_g": 25,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 1260
+  },
+  "label_note": "Values mirror standard Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.47
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni toppings",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 740
+    },
+    {
+      "label": "Supreme toppings (sausage, peppers, onions)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 790
+    },
+    {
+      "label": "Veggie toppings (no meat, extra veggies)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 640
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Pizza Hut personal pan cheese pizza?",
+      "a": "Approximately 590 calories for the whole standard cheese pizza."
+    },
+    {
+      "q": "What are the macros for personal pan pizza hut?",
+      "a": "About 69 g carbs, 25 g fat, 25 g protein, and 4 g fiber."
+    },
+    {
+      "q": "Does adding toppings increase calories in personal pan pizza hut?",
+      "a": "Yes, meats like pepperoni add ~150 kcal; veggies add less, around 50 kcal."
+    },
+    {
+      "q": "How much sodium is in a personal pan pizza hut?",
+      "a": "Around 1260 mg, mostly from cheese and crust—watch if on a low-sodium diet."
+    },
+    {
+      "q": "Is the personal pan pizza hut gluten-free?",
+      "a": "No, it's made with wheat flour; opt for gluten-free alternatives if needed, but calories may vary."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a spoonful of sugar",
+  "title": "How Many Calories in a Spoonful of Sugar?",
+  "meta_description": "Learn how many calories are in a spoonful of sugar (about 16 kcal per teaspoon), plus carbs, full nutrition breakdown, and common variations for better tracking.",
+  "slug": "how-many-calories-are-in-a-spoonful-of-sugar",
+  "h1": "How Many Calories in a Spoonful of Sugar?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "spoonful",
+    "item": "sugar"
+  },
+  "assumptions": "Granulated white sugar; 1 spoonful = 1 level teaspoon ≈4 g; no additives.",
+  "disclaimer": "Nutrition varies by sugar type, granule size, packing density, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 16,
+    "text": "A spoonful (teaspoon) of granulated sugar contains about 16 calories, all from carbs."
+  },
+  "basis": {
+    "label": "per 1 teaspoon (4 g)",
+    "amount": 1,
+    "unit": "teaspoon",
+    "nutrition": {
+      "calories_kcal": 16,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sugars_g": 4,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 16,
+    "carbs_g": 4,
+    "fiber_g": 0,
+    "sugars_g": 4,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.07
+  },
+  "tweaks": [
+    {
+      "label": "Heaping teaspoon (≈6 g)",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 24
+    },
+    {
+      "label": "Tablespoon (≈12 g)",
+      "delta_kcal_per_unit": 32,
+      "new_total_kcal": 48
+    },
+    {
+      "label": "Brown sugar (per teaspoon)",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 17
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a teaspoon of sugar?",
+      "a": "About 16 kcal for 1 level teaspoon of granulated sugar."
+    },
+    {
+      "q": "Is a spoonful of sugar the same as a teaspoon?",
+      "a": "Typically yes, but specify level or heaping; a tablespoon is larger at 48 kcal."
+    },
+    {
+      "q": "What are the carbs in a spoonful of sugar?",
+      "a": "4 g carbs, all from sugars, with 0 g fiber or protein."
+    },
+    {
+      "q": "How does brown sugar compare calorie-wise?",
+      "a": "Similar at ≈17 kcal per teaspoon due to trace molasses."
+    },
+    {
+      "q": "Does sugar type affect calories per spoonful?",
+      "a": "Minimal difference; granulated, powdered, or brown are ≈16-17 kcal per teaspoon."
+    }
+  ]
+}

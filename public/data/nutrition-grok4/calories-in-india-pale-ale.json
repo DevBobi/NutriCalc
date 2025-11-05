@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in india pale ale",
+  "title": "Calories in India Pale Ale",
+  "meta_description": "Discover calories in India Pale Ale per standard serving, including carbs, alcohol content, and nutrition breakdowns for popular IPAs.",
+  "slug": "calories-in-india-pale-ale",
+  "h1": "Calories in India Pale Ale",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "12 fl oz serving",
+    "item": "India Pale Ale"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) serving of India Pale Ale (IPA) at ~6.5% ABV, unfiltered or filtered craft beer style, no added sugars.",
+  "disclaimer": "Nutrition varies by brand, ABV, brewing method, and serving size. Check labels or brewery info for exact values.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "A standard 12 fl oz India Pale Ale contains about 220 calories, mostly from alcohol and carbs."
+  },
+  "basis": {
+    "label": "per 12 fl oz serving",
+    "amount": 1,
+    "unit": "12 fl oz",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 18,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 1.5,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 18,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 1.5,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with beer packaging.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Switch to a session IPA (lower 4.5% ABV)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Opt for a double IPA (higher 8% ABV)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Low-carb IPA variant",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 180
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a standard India Pale Ale?",
+      "a": "About 220 kcal in a 12 fl oz serving of typical IPA."
+    },
+    {
+      "q": "What contributes most to calories in India Pale Ale?",
+      "a": "Primarily alcohol (~6.5% ABV) and fermentable carbs from malt, totaling ~18 g carbs."
+    },
+    {
+      "q": "Does India Pale Ale have protein or fat?",
+      "a": "Minimal: ~1.5 g protein and 0 g fat per 12 fl oz."
+    },
+    {
+      "q": "How does ABV affect calories in IPA?",
+      "a": "Higher ABV increases calories; a 4.5% session IPA has ~160 kcal vs. 220 for 6.5%."
+    },
+    {
+      "q": "Are there low-calorie India Pale Ale options?",
+      "a": "Yes, light or low-carb IPAs range from 100-150 kcal per serving."
+    }
+  ]
+}

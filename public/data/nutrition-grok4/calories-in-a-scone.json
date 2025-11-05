@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a scone",
+  "title": "Calories in a Scone",
+  "meta_description": "Discover calories in a scone, including full nutrition breakdown like carbs, protein, fat, and easy tweaks for variations.",
+  "slug": "calories-in-a-scone",
+  "h1": "Calories in a Scone",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "scone",
+    "item": "scone"
+  },
+  "assumptions": "Standard plain scone, baked, about 60 g, made with flour, butter, milk, and sugar; no fillings or toppings.",
+  "disclaimer": "Nutrition varies by recipe, size, ingredients, and baking method. Check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "A typical plain scone contains about 200 kcal and 4 g protein."
+  },
+  "basis": {
+    "label": "per 1 scone",
+    "amount": 1,
+    "unit": "scone",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 30,
+      "fiber_g": 1,
+      "sugars_g": 3,
+      "protein_g": 4,
+      "fat_g": 7,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 30,
+    "fiber_g": 1,
+    "sugars_g": 3,
+    "protein_g": 4,
+    "fat_g": 7,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "Add clotted cream and jam (1 tbsp each)",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Whole wheat flour version",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Blueberry or fruit-filled scone",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a plain scone?",
+      "a": "About 200 kcal for a standard 60 g plain scone."
+    },
+    {
+      "q": "What are the carbs in a scone?",
+      "a": "Roughly 30 g carbs, including 1 g fiber and 3 g sugars."
+    },
+    {
+      "q": "Is a scone high in fat?",
+      "a": "Yes, about 7 g total fat, with 4 g saturated from butter."
+    },
+    {
+      "q": "How does scone size affect calories?",
+      "a": "Larger scones (80 g) may have 250+ kcal; smaller ones under 150 kcal."
+    },
+    {
+      "q": "Are scones gluten-free?",
+      "a": "Traditional ones aren't; gluten-free versions use alternative flours but calories are similar."
+    }
+  ]
+}

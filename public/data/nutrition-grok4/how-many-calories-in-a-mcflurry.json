@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a mcflurry",
+  "title": "How Many Calories in a McFlurry?",
+  "meta_description": "Discover how many calories in a mcflurry, including full nutrition breakdown with carbs, protein, fat, and tips for variations at McDonald's.",
+  "slug": "how-many-calories-in-a-mcflurry",
+  "h1": "How Many Calories in a McFlurry?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "mcflurry",
+    "item": "mcflurry"
+  },
+  "assumptions": "Standard small Oreo McFlurry from McDonald's; vanilla soft serve with Oreo cookie pieces; ~160 g serving.",
+  "disclaimer": "Nutrition varies by size, flavor, toppings, location, and recipe changes. Check McDonald's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 510,
+    "text": "A small Oreo McFlurry contains about 510 calories and 8 g protein."
+  },
+  "basis": {
+    "label": "per 1 small McFlurry",
+    "amount": 1,
+    "unit": "mcflurry",
+    "nutrition": {
+      "calories_kcal": 510,
+      "carbs_g": 77,
+      "fiber_g": 1,
+      "sugars_g": 61,
+      "protein_g": 8,
+      "fat_g": 17,
+      "sat_fat_g": 11,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 40,
+      "sodium_mg": 220
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 510,
+    "carbs_g": 77,
+    "fiber_g": 1,
+    "sugars_g": 61,
+    "protein_g": 8,
+    "fat_g": 17,
+    "sat_fat_g": 11,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 40,
+    "sodium_mg": 220
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.13
+  },
+  "tweaks": [
+    {
+      "label": "Switch to M&M's flavor (similar size)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Upgrade to medium size",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 650
+    },
+    {
+      "label": "No toppings, just vanilla soft serve",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 410
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small McFlurry?",
+      "a": "About 510 kcal for a small Oreo McFlurry."
+    },
+    {
+      "q": "What are the carbs in a McFlurry?",
+      "a": "Around 77 g carbs, mostly from sugars at 61 g."
+    },
+    {
+      "q": "Is a McFlurry high in fat?",
+      "a": "Yes, 17 g total fat including 11 g saturated per small serving."
+    },
+    {
+      "q": "How does McFlurry nutrition compare to other desserts?",
+      "a": "Similar to a sundae; higher calories than yogurt but with fun mix-ins."
+    },
+    {
+      "q": "Does McFlurry size affect calories?",
+      "a": "Yes—small ~510 kcal, medium ~650 kcal, large even higher."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 6 strawberries",
+  "title": "How Many Calories Are in 6 Strawberries?",
+  "meta_description": "Discover how many calories in 6 strawberries, including carbs, fiber, sugars, protein, and fat details on a per-strawberry basis with quick tweaks for variations.",
+  "slug": "how-many-calories-in-6-strawberries",
+  "h1": "How Many Calories Are in 6 Strawberries?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 6,
+    "unit": "strawberry",
+    "item": "strawberry"
+  },
+  "assumptions": "Fresh, medium-sized strawberries (about 15 g each), whole, ripe, no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by size, variety, ripeness, and growing conditions. Check labels for packaged berries when available.",
+  "quick_answer": {
+    "total_kcal": 24,
+    "text": "Six medium strawberries offer about 24 calories, mostly from natural sugars and carbs."
+  },
+  "basis": {
+    "label": "per 1 medium strawberry",
+    "amount": 1,
+    "unit": "strawberry",
+    "nutrition": {
+      "calories_kcal": 4,
+      "carbs_g": 0.9,
+      "fiber_g": 0.2,
+      "sugars_g": 0.6,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 24,
+    "carbs_g": 5.4,
+    "fiber_g": 1.2,
+    "sugars_g": 3.6,
+    "protein_g": 0.6,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Dipped in 1 tsp chocolate per strawberry",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 144
+    },
+    {
+      "label": "Topped with 1 tsp sugar per strawberry",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Blended into a smoothie with yogurt (add 50 g yogurt for all 6)",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 78
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one strawberry?",
+      "a": "About 4 calories for one medium fresh strawberry."
+    },
+    {
+      "q": "Are strawberries low in carbs?",
+      "a": "Yes, 6 strawberries have only 5.4 g carbs, with 1.2 g fiber."
+    },
+    {
+      "q": "Do strawberries have any protein or fat?",
+      "a": "Minimal—0.6 g protein and 0 g fat in 6 strawberries."
+    },
+    {
+      "q": "How do strawberries compare calorie-wise to other berries?",
+      "a": "Similar to raspberries (low ~30 kcal per cup); lower than bananas but higher than blackberries per piece."
+    },
+    {
+      "q": "Does strawberry size affect calorie count?",
+      "a": "Yes—larger ones (20 g) add ~2-3 more kcal each; smaller ones less."
+    }
+  ]
+}

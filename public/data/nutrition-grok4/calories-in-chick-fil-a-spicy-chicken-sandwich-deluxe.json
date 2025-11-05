@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chick fil a spicy chicken sandwich deluxe",
+  "title": "Calories in Chick-fil-A Spicy Chicken Sandwich Deluxe",
+  "meta_description": "Discover calories in Chick-fil-A Spicy Chicken Sandwich Deluxe: 540 kcal per sandwich, plus full macros like 28g protein, 44g carbs, and sodium details for your meal tracking.",
+  "slug": "calories-in-chick-fil-a-spicy-chicken-sandwich-deluxe",
+  "h1": "Calories in Chick-fil-A Spicy Chicken Sandwich Deluxe",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Chick-fil-A Spicy Chicken Sandwich Deluxe"
+  },
+  "assumptions": "Official Chick-fil-A values: breaded spicy chicken fillet, Monterey Jack and Colby cheese, bacon, lettuce, tomato on a multigrain bun; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, and custom orders. Check Chick-fil-A app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 540,
+    "text": "One Chick-fil-A Spicy Chicken Deluxe Sandwich contains 540 calories and 28g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 540,
+      "carbs_g": 44,
+      "fiber_g": 2,
+      "sugars_g": 7,
+      "protein_g": 28,
+      "fat_g": 25,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 1700
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 540,
+    "carbs_g": 44,
+    "fiber_g": 2,
+    "sugars_g": 7,
+    "protein_g": 28,
+    "fat_g": 25,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 85,
+    "sodium_mg": 1700
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.26
+  },
+  "tweaks": [
+    {
+      "label": "Remove cheese and bacon",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 420
+    },
+    {
+      "label": "Add 1 packet Chick-fil-A sauce",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 680
+    },
+    {
+      "label": "No bun (lettuce wrap)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 340
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Chick-fil-A Spicy Chicken Sandwich Deluxe?",
+      "a": "540 calories per sandwich."
+    },
+    {
+      "q": "What's the protein in Chick-fil-A Spicy Deluxe?",
+      "a": "About 28g protein from the chicken, cheese, and bacon."
+    },
+    {
+      "q": "How much sodium is in the Spicy Chicken Deluxe?",
+      "a": "1700 mg, mostly from the breading and bacon."
+    },
+    {
+      "q": "Carbs in Chick-fil-A Spicy Chicken Sandwich Deluxe?",
+      "a": "44g total carbs, including 2g fiber and 7g sugars."
+    },
+    {
+      "q": "Fat content of Chick-fil-A Spicy Deluxe sandwich?",
+      "a": "25g total fat, with 5g saturated; no trans fat."
+    }
+  ]
+}

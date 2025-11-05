@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a chicken big mac",
+  "title": "How Many Calories in a Chicken Big Mac?",
+  "meta_description": "Discover how many calories in a chicken big mac, including full nutrition breakdown, macros, and easy tweaks for your meal.",
+  "slug": "how-many-calories-in-a-chicken-big-mac",
+  "h1": "How Many Calories in a Chicken Big Mac?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "chicken big mac"
+  },
+  "assumptions": "McDonald's Chicken Big Mac: two crispy chicken patties, special sauce, shredded lettuce, American cheese, pickles, onions, on a sesame seed bun; standard serving size.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and customizations. Check McDonald's app or packaging for latest values.",
+  "quick_answer": {
+    "total_kcal": 567,
+    "text": "A Chicken Big Mac provides about 567 kcal with 28 g protein and 45 g carbs."
+  },
+  "basis": {
+    "label": "per 1 chicken big mac",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 567,
+      "carbs_g": 45,
+      "fiber_g": 2,
+      "sugars_g": 9,
+      "protein_g": 28,
+      "fat_g": 30,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 70,
+      "sodium_mg": 1040
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 567,
+    "carbs_g": 45,
+    "fiber_g": 2,
+    "sugars_g": 9,
+    "protein_g": 28,
+    "fat_g": 30,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 70,
+    "sodium_mg": 1040
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.37
+  },
+  "tweaks": [
+    {
+      "label": "Remove the cheese slice",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 517
+    },
+    {
+      "label": "Use grilled chicken patties instead of crispy",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 467
+    },
+    {
+      "label": "Add extra special sauce (1 packet)",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 657
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chicken big mac from McDonald's?",
+      "a": "Approximately 567 kcal for one standard Chicken Big Mac."
+    },
+    {
+      "q": "What's the protein in a chicken big mac?",
+      "a": "About 28 g of protein per sandwich."
+    },
+    {
+      "q": "Does a chicken big mac have a lot of sodium?",
+      "a": "Yes, around 1040 mg, mostly from the sauce and bun."
+    },
+    {
+      "q": "How does chicken big mac compare to regular big mac calories?",
+      "a": "Similar at ~567 kcal vs. 590 kcal for the beef version; chicken is slightly lower in fat."
+    },
+    {
+      "q": "Can I make a lower calorie chicken big mac?",
+      "a": "Yes, opt for grilled patties and skip cheese to reduce by 100-150 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a dominos pizza slice",
+  "title": "How Many Calories in a Domino's Pizza Slice?",
+  "meta_description": "Discover how many calories in a Domino's pizza slice, including carbs, protein, fat, sodium, and variations for different styles and toppings.",
+  "slug": "how-many-calories-in-a-dominos-pizza-slice",
+  "h1": "How Many Calories in a Domino's Pizza Slice?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "Domino's pizza"
+  },
+  "assumptions": "Medium hand-tossed crust cheese pizza slice (~1/8 of a 12-inch pizza); standard cheese and sauce, no extra toppings.",
+  "disclaimer": "Nutrition varies by pizza size, crust type, toppings, location, and preparation. Check Domino's app or site for exact values.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "A standard Domino's cheese pizza slice has about 220 kcal and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 26,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 9,
+      "fat_g": 9,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 26,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 9,
+    "fat_g": 9,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni topping",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Switch to thin crust",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Extra cheese added",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Domino's cheese pizza slice?",
+      "a": "Approximately 220 kcal for a medium hand-tossed slice."
+    },
+    {
+      "q": "What are the macros in a Domino's pizza slice?",
+      "a": "About 26 g carbs, 9 g protein, 9 g fat per standard cheese slice."
+    },
+    {
+      "q": "Does crust type affect calories in Domino's pizza?",
+      "a": "Yes—thin crust reduces by ~30 kcal, deep dish adds ~50 kcal per slice."
+    },
+    {
+      "q": "How much sodium is in a Domino's pizza slice?",
+      "a": "Around 500 mg per cheese slice, higher with meat toppings."
+    },
+    {
+      "q": "Are Domino's calories the same for all pizza sizes?",
+      "a": "No—large slices have more calories (~280 kcal) than medium (~220 kcal)."
+    }
+  ]
+}

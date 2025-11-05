@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in shrimp cocktail",
+  "title": "How Many Calories in Shrimp Cocktail?",
+  "meta_description": "Discover how many calories in shrimp cocktail for a standard serving, including protein, carbs, fat, sodium details, and preparation tweaks.",
+  "slug": "how-many-calories-in-shrimp-cocktail",
+  "h1": "How Many Calories in Shrimp Cocktail?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "shrimp cocktail"
+  },
+  "assumptions": "Standard serving: 6 medium cooked shrimp (85 g) with 2 tbsp cocktail sauce; shrimp boiled, sauce tomato-based with horseradish.",
+  "disclaimer": "Nutrition varies by shrimp size, sauce brand, preparation method, and portion; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 115,
+    "text": "A typical serving of shrimp cocktail provides ~115 kcal and ~18 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 115,
+      "carbs_g": 8,
+      "fiber_g": 0.5,
+      "sugars_g": 5,
+      "protein_g": 18,
+      "fat_g": 1,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 160,
+      "sodium_mg": 650
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 115,
+    "carbs_g": 8,
+    "fiber_g": 0.5,
+    "sugars_g": 5,
+    "protein_g": 18,
+    "fat_g": 1,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 160,
+    "sodium_mg": 650
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.48
+  },
+  "tweaks": [
+    {
+      "label": "Without cocktail sauce",
+      "delta_kcal_per_unit": -35,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Add 1 tbsp low-fat mayo to sauce",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 135
+    },
+    {
+      "label": "Use 8 large shrimp instead of 6 medium",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 155
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in shrimp cocktail without sauce?",
+      "a": "About 80 kcal for 6 medium shrimp alone."
+    },
+    {
+      "q": "Is shrimp cocktail high in protein?",
+      "a": "Yes, a standard serving has ~18 g protein."
+    },
+    {
+      "q": "What's the sodium content in shrimp cocktail?",
+      "a": "Around 650 mg per serving, mostly from the sauce."
+    },
+    {
+      "q": "Are there carbs in shrimp cocktail?",
+      "a": "About 8 g carbs per serving, primarily from the cocktail sauce."
+    },
+    {
+      "q": "How does preparation affect calories in shrimp cocktail?",
+      "a": "Boiled shrimp is low-cal; fried or added oils increase it by 50+ kcal."
+    }
+  ]
+}

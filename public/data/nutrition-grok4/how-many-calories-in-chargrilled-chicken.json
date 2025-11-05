@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in chargrilled chicken",
+  "title": "How Many Calories in Chargrilled Chicken?",
+  "meta_description": "Discover how many calories in chargrilled chicken per 100 g serving, including protein, fat, carbs, and nutrition breakdowns for easy meal planning.",
+  "slug": "how-many-calories-in-chargrilled-chicken",
+  "h1": "How Many Calories in Chargrilled Chicken?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chargrilled chicken"
+  },
+  "assumptions": "Skinless, boneless chicken breast, chargrilled without added oil or marinade; standard portion size.",
+  "disclaimer": "Nutrition varies by cut, size, cooking method, seasonings, and brand. Check labels or apps for precise values.",
+  "quick_answer": {
+    "total_kcal": 165,
+    "text": "100 g of chargrilled chicken breast provides about 165 kcal and 31 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 31,
+      "fat_g": 3.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 74
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 165,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 31,
+    "fat_g": 3.6,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 85,
+    "sodium_mg": 74
+  },
+  "label_note": "Values align with standard Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.69
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil for grilling per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 205
+    },
+    {
+      "label": "Use skin-on chicken breast",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Marinate with 1 tbsp BBQ sauce per 100 g",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g chargrilled chicken?",
+      "a": "Approximately 165 kcal for skinless, boneless chargrilled chicken breast."
+    },
+    {
+      "q": "What's the protein in chargrilled chicken?",
+      "a": "About 31 g protein per 100 g serving."
+    },
+    {
+      "q": "Does chargrilling add calories to chicken?",
+      "a": "Minimal if no oil is added; it can reduce fat compared to frying."
+    },
+    {
+      "q": "How many calories in a 200 g chargrilled chicken breast?",
+      "a": "Around 330 kcal, doubling the per-100 g values."
+    },
+    {
+      "q": "Is chargrilled chicken low-carb?",
+      "a": "Yes, 0 g carbs per 100 g, making it ideal for low-carb diets."
+    }
+  ]
+}

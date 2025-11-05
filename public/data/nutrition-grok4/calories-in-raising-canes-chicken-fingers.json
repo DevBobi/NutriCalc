@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in raising canes chicken fingers",
+  "title": "Calories in Raising Cane's Chicken Fingers",
+  "meta_description": "Discover calories in raising canes chicken fingers—130 per finger—plus protein, fat, carbs, sodium, and meal tweaks for better tracking.",
+  "slug": "calories-in-raising-canes-chicken-fingers",
+  "h1": "Calories in Raising Cane's Chicken Fingers",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "finger",
+    "item": "Raising Cane's chicken finger"
+  },
+  "assumptions": "Standard breaded and fried chicken tender from Raising Cane's; approx. 38g per finger; no sauce or sides included.",
+  "disclaimer": "Nutrition varies by location, portion size, and preparation. Based on official Raising Cane's data; check their app for updates.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "One Raising Cane's chicken finger has 130 calories, 17g protein, and 5g carbs from breading."
+  },
+  "basis": {
+    "label": "per 1 chicken finger",
+    "amount": 1,
+    "unit": "finger",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 17,
+      "fat_g": 6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 340
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 5,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 17,
+    "fat_g": 6,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 340
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 serving (3 oz) Cane's sauce",
+      "delta_kcal_per_unit": 190,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Pair with 1 slice Texas toast",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Hypothetical grilled version (less oil)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 100
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Raising Cane's chicken finger?",
+      "a": "130 calories per standard chicken finger."
+    },
+    {
+      "q": "How much protein in raising canes chicken fingers?",
+      "a": "17 grams of protein per chicken finger."
+    },
+    {
+      "q": "What are the carbs in Raising Cane's chicken fingers?",
+      "a": "5 grams of carbs per finger, mostly from breading; 0g fiber."
+    },
+    {
+      "q": "Is sodium high in raising canes chicken fingers?",
+      "a": "Yes, 340 mg sodium per finger due to seasoning and breading."
+    },
+    {
+      "q": "How many chicken fingers in a Raising Cane's combo?",
+      "a": "Box Combo has 4 fingers (520 calories total); Kids Combo has 2."
+    }
+  ]
+}

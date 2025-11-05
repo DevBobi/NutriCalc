@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a small potato",
+  "title": "How Many Calories in a Small Potato?",
+  "meta_description": "Discover how many calories in a small potato, including carbs, fiber, protein, and full nutrition breakdown per serving with quick tweaks.",
+  "slug": "how-many-calories-in-a-small-potato",
+  "h1": "How Many Calories in a Small Potato?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "small potato",
+    "item": "potato"
+  },
+  "assumptions": "Plain baked russet potato with skin, small size (~130 g raw weight).",
+  "disclaimer": "Nutrition varies by variety, size, cooking method, and added ingredients. Check labels or sources for precision.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "A small baked potato provides about 130 kcal and 30 g of carbohydrates."
+  },
+  "basis": {
+    "label": "per 1 small baked potato",
+    "amount": 1,
+    "unit": "small potato",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 30,
+      "fiber_g": 3.4,
+      "sugars_g": 1.2,
+      "protein_g": 3.3,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 30,
+    "fiber_g": 3.4,
+    "sugars_g": 1.2,
+    "protein_g": 3.3,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 7
+  },
+  "label_note": "Values align with standard Nutrition Facts for easy label comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Boiled instead of baked (no skin)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "French fries (fried in oil, ~100 g serving)",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small baked potato?",
+      "a": "Approximately 130 kcal for a plain small russet potato with skin."
+    },
+    {
+      "q": "What are the carbs in a small potato?",
+      "a": "About 30 g total carbs, including 3.4 g fiber."
+    },
+    {
+      "q": "Is a small potato low in fat?",
+      "a": "Yes, only 0.2 g fat, mostly unsaturated."
+    },
+    {
+      "q": "How does cooking method affect calories in a small potato?",
+      "a": "Baking keeps it low; frying or adding butter/oil increases calories significantly."
+    },
+    {
+      "q": "What's the protein content of a small potato?",
+      "a": "Roughly 3.3 g protein per small baked potato."
+    }
+  ]
+}

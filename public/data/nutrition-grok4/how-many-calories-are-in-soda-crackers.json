@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in soda crackers",
+  "title": "How Many Calories Are in Soda Crackers?",
+  "meta_description": "Learn how many calories are in soda crackers per 100g, including carbs, protein, fat, sodium, and full nutrition facts for easy tracking.",
+  "slug": "how-many-calories-are-in-soda-crackers",
+  "h1": "How Many Calories Are in Soda Crackers?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "soda crackers"
+  },
+  "assumptions": "Plain baked soda crackers (like saltines), no added toppings, fats, or seasonings; standard commercial variety.",
+  "disclaimer": "Nutrition varies by brand, recipe, and serving size; check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 418,
+    "text": "Soda crackers contain about 418 kcal per 100g, with high carbs and moderate sodium."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 418,
+      "carbs_g": 74,
+      "fiber_g": 3.4,
+      "sugars_g": 0.4,
+      "protein_g": 9,
+      "fat_g": 9.9,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1265
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 418,
+    "carbs_g": 74,
+    "fiber_g": 3.4,
+    "sugars_g": 0.4,
+    "protein_g": 9,
+    "fat_g": 9.9,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1265
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.75
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per 100g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 454
+    },
+    {
+      "label": "Low-sodium version (reduced salt)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 418
+    },
+    {
+      "label": "Top with 1 oz cheddar cheese per 100g",
+      "delta_kcal_per_unit": 115,
+      "new_total_kcal": 533
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one soda cracker?",
+      "a": "About 4-5 kcal per single soda cracker (assuming ~12g each)."
+    },
+    {
+      "q": "What are the carbs in soda crackers?",
+      "a": "Around 74g carbs per 100g, mostly from refined flour."
+    },
+    {
+      "q": "Are soda crackers high in sodium?",
+      "a": "Yes, approximately 1265mg sodium per 100g due to added salt."
+    },
+    {
+      "q": "How much protein in soda crackers?",
+      "a": "About 9g protein per 100g, from wheat flour."
+    },
+    {
+      "q": "Do soda crackers have fiber?",
+      "a": "A modest 3.4g dietary fiber per 100g."
+    }
+  ]
+}

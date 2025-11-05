@@ -31,7 +31,8 @@ const CONFIG = {
   inputPath: './input/',
   outputPath: './public/data/nutrition-grok4/',
   maxRetries: 3,
-  delayBetweenRequests: 2000, // 2 seconds delay to respect rate limits
+  delayBetweenRequests: 10, // 0.01 seconds delay - maximum speed
+  concurrentRequests: 20, // Process 20 keywords at once - aggressive
 };
 
 // Comprehensive system message for Grok-4
@@ -295,7 +296,8 @@ function readKeywordsFromExcel() {
     .map(row => row[0])
     .filter(keyword => keyword && typeof keyword === 'string')
     .map(cleanKeyword)
-    .filter(keyword => keyword.length > 0);
+    .filter(keyword => keyword.length > 0)
+    .filter(keyword => keyword.toLowerCase() !== 'keyword'); // Skip header row
   
   console.log(`📊 Found ${keywords.length} keywords to process`);
   return keywords;
@@ -348,6 +350,14 @@ function saveJsonContent(slug, jsonData) {
 async function processKeyword(keyword, index, total) {
   try {
     const slug = createSlug(keyword);
+    const filePath = path.join(CONFIG.outputPath, `${slug}.json`);
+    
+    // Skip if file already exists
+    if (fs.existsSync(filePath)) {
+      console.log(`⏭️  Skipped ${index + 1}/${total}: ${keyword} (already exists)`);
+      return true;
+    }
+    
     console.log(`🔄 Processing ${index + 1}/${total}: ${keyword}`);
     
     // Generate content
@@ -361,11 +371,6 @@ async function processKeyword(keyword, index, total) {
     saveJsonContent(slug, jsonData);
     
     console.log(`✅ Processed: ${keyword}`);
-    
-    // Add delay to respect rate limits
-    if (index < total - 1) {
-      await new Promise(resolve => setTimeout(resolve, CONFIG.delayBetweenRequests));
-    }
     
   } catch (error) {
     console.log(`⚠️  Skipped: ${keyword} (${error.message})`);
@@ -412,17 +417,33 @@ async function main() {
     const keywordsToProcess = limit ? keywords.slice(0, limit) : keywords;
     
     console.log(`\n🚀 Starting processing of ${keywordsToProcess.length} keywords...\n`);
+    console.log(`⚡ Parallel processing: ${CONFIG.concurrentRequests} at a time\n`);
     
-    // Process each keyword
+    // Process keywords in parallel batches
     let successCount = 0;
     let errorCount = 0;
     
-    for (let i = 0; i < keywordsToProcess.length; i++) {
-      const success = await processKeyword(keywordsToProcess[i], i, keywordsToProcess.length);
-      if (success) {
-        successCount++;
-      } else {
-        errorCount++;
+    const batchSize = CONFIG.concurrentRequests || 5;
+    
+    for (let i = 0; i < keywordsToProcess.length; i += batchSize) {
+      const batch = keywordsToProcess.slice(i, i + batchSize);
+      const batchPromises = batch.map((keyword, batchIndex) => 
+        processKeyword(keyword, i + batchIndex, keywordsToProcess.length)
+      );
+      
+      const results = await Promise.all(batchPromises);
+      
+      results.forEach(success => {
+        if (success) {
+          successCount++;
+        } else {
+          errorCount++;
+        }
+      });
+      
+      // Small delay between batches
+      if (i + batchSize < keywordsToProcess.length) {
+        await new Promise(resolve => setTimeout(resolve, CONFIG.delayBetweenRequests));
       }
     }
     

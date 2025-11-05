@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in blaze pizza",
+  "title": "Calories in Blaze Pizza",
+  "meta_description": "Discover calories in blaze pizza for a standard cheese option, including full nutrition breakdown, macros, and customization tips to fit your diet.",
+  "slug": "calories-in-blaze-pizza",
+  "h1": "Calories in Blaze Pizza",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pizza",
+    "item": "blaze pizza"
+  },
+  "assumptions": "Standard 11-inch personal cheese pizza with classic crust; no extra toppings or modifications.",
+  "disclaimer": "Nutrition varies by size, crust type, toppings, and customizations at Blaze Pizza. Values based on standard menu; check app or restaurant for exacts.",
+  "quick_answer": {
+    "total_kcal": 780,
+    "text": "A standard Blaze cheese pizza has about 780 kcal, with 35 g protein and 90 g carbs."
+  },
+  "basis": {
+    "label": "per 1 personal pizza",
+    "amount": 1,
+    "unit": "pizza",
+    "nutrition": {
+      "calories_kcal": 780,
+      "carbs_g": 90,
+      "fiber_g": 5,
+      "sugars_g": 8,
+      "protein_g": 35,
+      "fat_g": 30,
+      "sat_fat_g": 15,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 60,
+      "sodium_mg": 1400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 780,
+    "carbs_g": 90,
+    "fiber_g": 5,
+    "sugars_g": 8,
+    "protein_g": 35,
+    "fat_g": 30,
+    "sat_fat_g": 15,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 60,
+    "sodium_mg": 1400
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with menu info.",
+  "equivalents": {
+    "megajoules": 3.26
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni topping",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 900
+    },
+    {
+      "label": "Switch to veggie toppings (no meat/cheese reduction)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 730
+    },
+    {
+      "label": "Use keto crust instead of classic",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 680
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Blaze Pizza cheese pizza?",
+      "a": "About 780 kcal for a standard 11-inch personal size."
+    },
+    {
+      "q": "What are the macros for calories in blaze pizza?",
+      "a": "Typically 90 g carbs, 35 g protein, 30 g fat per cheese pizza."
+    },
+    {
+      "q": "Does Blaze Pizza have low-calorie options?",
+      "a": "Yes, like high-rise crust or veggie builds can reduce to under 600 kcal."
+    },
+    {
+      "q": "How much sodium in blaze pizza?",
+      "a": "Around 1400 mg for a standard cheese pizza; varies with toppings."
+    },
+    {
+      "q": "Calories in blaze pizza by size?",
+      "a": "Personal (11\") ~780 kcal; larger family sizes scale up proportionally."
+    }
+  ]
+}

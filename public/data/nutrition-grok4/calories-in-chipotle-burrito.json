@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chipotle burrito",
+  "title": "Calories in Chipotle Burrito",
+  "meta_description": "Discover calories in chipotle burrito, including macros like protein, carbs, and fat, plus tweaks for custom orders and FAQ insights.",
+  "slug": "calories-in-chipotle-burrito",
+  "h1": "Calories in Chipotle Burrito",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burrito",
+    "item": "chipotle burrito"
+  },
+  "assumptions": "Standard chicken burrito with white rice, black beans, cheese, fajita veggies, tomato salsa, sour cream, and lettuce; flour tortilla (~680g total weight).",
+  "disclaimer": "Nutrition varies by location, customizations, portion sizes, and ingredients; Chipotle values may differ—use their app for exacts.",
+  "quick_answer": {
+    "total_kcal": 1080,
+    "text": "A standard Chipotle chicken burrito has about 1080 kcal, with 50g protein and 120g carbs."
+  },
+  "basis": {
+    "label": "per 1 burrito",
+    "amount": 1,
+    "unit": "burrito",
+    "nutrition": {
+      "calories_kcal": 1080,
+      "carbs_g": 120,
+      "fiber_g": 12,
+      "sugars_g": 5,
+      "protein_g": 50,
+      "fat_g": 40,
+      "sat_fat_g": 15,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 120,
+      "sodium_mg": 2200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1080,
+    "carbs_g": 120,
+    "fiber_g": 12,
+    "sugars_g": 5,
+    "protein_g": 50,
+    "fat_g": 40,
+    "sat_fat_g": 15,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 120,
+    "sodium_mg": 2200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.52
+  },
+  "tweaks": [
+    {
+      "label": "Vegetarian (swap chicken for sofritas)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 1030
+    },
+    {
+      "label": "Add guacamole",
+      "delta_kcal_per_unit": 230,
+      "new_total_kcal": 1310
+    },
+    {
+      "label": "Brown rice and no cheese",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 980
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Chipotle burrito with chicken?",
+      "a": "About 1080 kcal for a standard build with rice, beans, and toppings."
+    },
+    {
+      "q": "What are the macros for calories in chipotle burrito?",
+      "a": "Roughly 120g carbs, 50g protein, 40g fat, and 12g fiber."
+    },
+    {
+      "q": "Is a Chipotle burrito high in sodium?",
+      "a": "Yes, around 2200 mg per burrito due to seasonings and cheese."
+    },
+    {
+      "q": "How to lower calories in chipotle burrito?",
+      "a": "Skip cheese, sour cream, and rice; opt for salad base to cut ~300-400 kcal."
+    },
+    {
+      "q": "Calories in Chipotle steak burrito vs chicken?",
+      "a": "Similar at ~1050 kcal, but steak adds more fat; check customizations."
+    }
+  ]
+}

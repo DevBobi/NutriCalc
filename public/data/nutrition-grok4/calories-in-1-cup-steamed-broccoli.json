@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cup steamed broccoli",
+  "title": "Calories in 1 Cup Steamed Broccoli",
+  "meta_description": "Learn calories in 1 cup steamed broccoli—about 55 kcal—with full nutrition facts, macros, fiber details, and easy tweaks for recipes.",
+  "slug": "calories-in-1-cup-steamed-broccoli",
+  "h1": "Calories in 1 Cup Steamed Broccoli",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "steamed broccoli"
+  },
+  "assumptions": "Chopped broccoli florets, steamed without added fat, salt, or seasonings; 1 cup ≈156 g cooked weight.",
+  "disclaimer": "Nutrition varies by broccoli variety, freshness, cooking time, and added ingredients. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 55,
+    "text": "One cup of steamed broccoli provides ~55 kcal, 4 g protein, and 5 g fiber."
+  },
+  "basis": {
+    "label": "per 1 cup steamed broccoli",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 55,
+      "carbs_g": 11,
+      "fiber_g": 5,
+      "sugars_g": 2,
+      "protein_g": 4,
+      "fat_g": 0.6,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 30
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 55,
+    "carbs_g": 11,
+    "fiber_g": 5,
+    "sugars_g": 2,
+    "protein_g": 4,
+    "fat_g": 0.6,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 30
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.23
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 91
+    },
+    {
+      "label": "With 1 tbsp cheese sauce",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 105
+    },
+    {
+      "label": "Raw instead of steamed",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup steamed broccoli?",
+      "a": "Approximately 55 kcal for 1 cup (156 g) plain steamed broccoli."
+    },
+    {
+      "q": "What's the protein in 1 cup steamed broccoli?",
+      "a": "About 4 g of protein per cup."
+    },
+    {
+      "q": "Does steamed broccoli have fiber?",
+      "a": "Yes, around 5 g of dietary fiber per cup, aiding digestion."
+    },
+    {
+      "q": "Are there carbs in steamed broccoli?",
+      "a": "11 g total carbs per cup, mostly from natural sugars and fiber."
+    },
+    {
+      "q": "How does steaming affect broccoli calories?",
+      "a": "Steaming retains nutrients and keeps calories low at ~35 kcal per 100 g, similar to raw."
+    }
+  ]
+}

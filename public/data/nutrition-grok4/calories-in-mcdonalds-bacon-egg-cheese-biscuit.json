@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mcdonalds bacon egg cheese biscuit",
+  "title": "Calories in McDonald's Bacon Egg Cheese Biscuit",
+  "meta_description": "Discover calories in McDonald's bacon egg cheese biscuit, including full nutrition breakdown, macros, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-mcdonalds-bacon-egg-cheese-biscuit",
+  "h1": "Calories in McDonald's Bacon Egg Cheese Biscuit",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "biscuit",
+    "item": "McDonald's bacon egg cheese biscuit"
+  },
+  "assumptions": "Standard McDonald's Bacon, Egg & Cheese Biscuit as served; includes folded egg, American cheese, bacon, and buttermilk biscuit.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations. Values based on McDonald's standard data; check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 430,
+    "text": "One McDonald's Bacon, Egg & Cheese Biscuit contains 430 calories and 17 g protein."
+  },
+  "basis": {
+    "label": "per 1 biscuit",
+    "amount": 1,
+    "unit": "biscuit",
+    "nutrition": {
+      "calories_kcal": 430,
+      "carbs_g": 40,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 17,
+      "fat_g": 25,
+      "sat_fat_g": 11,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 160,
+      "sodium_mg": 1380
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 430,
+    "carbs_g": 40,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 17,
+    "fat_g": 25,
+    "sat_fat_g": 11,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 160,
+    "sodium_mg": 1380
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging or apps.",
+  "equivalents": {
+    "megajoules": 1.8
+  },
+  "tweaks": [
+    {
+      "label": "Hold the cheese",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Substitute egg for egg whites",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 410
+    },
+    {
+      "label": "Add one hash brown patty",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 570
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a McDonald's bacon egg cheese biscuit?",
+      "a": "Approximately 430 calories per sandwich."
+    },
+    {
+      "q": "What's the protein in McDonald's bacon egg cheese biscuit?",
+      "a": "About 17 g of protein per biscuit."
+    },
+    {
+      "q": "How much sodium is in McDonald's bacon egg cheese biscuit?",
+      "a": "Around 1380 mg of sodium, so watch intake if limiting salt."
+    },
+    {
+      "q": "Are there trans fats in McDonald's bacon egg cheese biscuit?",
+      "a": "Contains 0.5 g trans fat per serving."
+    },
+    {
+      "q": "How do customizations affect calories in McDonald's bacon egg cheese biscuit?",
+      "a": "Removing cheese saves ~80 kcal; adding extras like sausage increases by 50-100 kcal."
+    }
+  ]
+}

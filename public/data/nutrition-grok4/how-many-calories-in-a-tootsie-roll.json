@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a tootsie roll",
+  "title": "How Many Calories in a Tootsie Roll?",
+  "meta_description": "Learn how many calories in a tootsie roll, plus detailed nutrition facts like carbs, sugars, fat, protein, and sodium per piece.",
+  "slug": "how-many-calories-in-a-tootsie-roll",
+  "h1": "How Many Calories in a Tootsie Roll?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tootsie roll",
+    "item": "Tootsie Roll"
+  },
+  "assumptions": "Standard small Tootsie Roll candy (approx. 9.5g), chocolate-flavored chewy taffy; no wrappers or additional coatings.",
+  "disclaimer": "Nutrition varies by size, brand batch, and exact formulation. Check packaging for precise values when available.",
+  "quick_answer": {
+    "total_kcal": 35,
+    "text": "A single standard Tootsie Roll contains about 35 calories and 7g of carbs."
+  },
+  "basis": {
+    "label": "per 1 Tootsie Roll",
+    "amount": 1,
+    "unit": "tootsie roll",
+    "nutrition": {
+      "calories_kcal": 35,
+      "carbs_g": 7.4,
+      "fiber_g": 0.2,
+      "sugars_g": 5.1,
+      "protein_g": 0.3,
+      "fat_g": 0.5,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 35,
+    "carbs_g": 7.4,
+    "fiber_g": 0.2,
+    "sugars_g": 5.1,
+    "protein_g": 0.3,
+    "fat_g": 0.5,
+    "sat_fat_g": 0.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.15
+  },
+  "tweaks": [
+    {
+      "label": "King-size Tootsie Roll (approx. double the standard size)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Tootsie Roll with added caramel center",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Sugar-free version (substitute with sugar alcohols)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 25
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Tootsie Roll?",
+      "a": "About 35 calories per standard small piece."
+    },
+    {
+      "q": "What are the carbs in a Tootsie Roll?",
+      "a": "Approximately 7.4g total carbs, including 5.1g sugars and 0.2g fiber."
+    },
+    {
+      "q": "Does a Tootsie Roll have fat or protein?",
+      "a": "It has 0.5g total fat (0.3g saturated) and 0.3g protein."
+    },
+    {
+      "q": "Are Tootsie Rolls low sodium?",
+      "a": "Yes, only about 2mg sodium per piece."
+    },
+    {
+      "q": "How does Tootsie Roll size affect calories?",
+      "a": "Smaller midgees have ~14 kcal each; king-size can double to 70 kcal."
+    }
+  ]
+}

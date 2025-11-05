@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in chicken and salad",
+  "title": "How Many Calories in Chicken and Salad?",
+  "meta_description": "Discover how many calories in chicken and salad for a standard serving, including protein, carbs, fat, and tips for variations without dressing.",
+  "slug": "how-many-calories-in-chicken-and-salad",
+  "h1": "How Many Calories in Chicken and Salad?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "chicken and salad"
+  },
+  "assumptions": "One serving: 100 g grilled skinless chicken breast + 200 g mixed greens salad (lettuce, tomatoes, cucumber); no dressing, oil, or added seasonings.",
+  "disclaimer": "Nutrition varies by chicken cut, salad ingredients, portion sizes, and preparation method. Check labels or use a tracker for precision.",
+  "quick_answer": {
+    "total_kcal": 195,
+    "text": "One serving of grilled chicken and salad provides ~195 kcal and ~32 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 195,
+      "carbs_g": 8,
+      "fiber_g": 3,
+      "sugars_g": 4,
+      "protein_g": 32,
+      "fat_g": 4,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 195,
+    "carbs_g": 8,
+    "fiber_g": 3,
+    "sugars_g": 4,
+    "protein_g": 32,
+    "fat_g": 4,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 85,
+    "sodium_mg": 100
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.82
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp olive oil vinaigrette dressing",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 275
+    },
+    {
+      "label": "Use fried chicken breast instead of grilled",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 295
+    },
+    {
+      "label": "Add 50 g feta cheese to the salad",
+      "delta_kcal_per_unit": 130,
+      "new_total_kcal": 325
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in chicken and salad without dressing?",
+      "a": "About 195 kcal for one serving of 100 g grilled chicken and 200 g mixed greens."
+    },
+    {
+      "q": "What's the protein in chicken and salad?",
+      "a": "Roughly 32 g protein, mostly from the chicken breast."
+    },
+    {
+      "q": "Does salad add many calories to chicken?",
+      "a": "No, 200 g mixed greens add only ~30 kcal, mainly from veggies like tomatoes."
+    },
+    {
+      "q": "How to lower calories in chicken and salad?",
+      "a": "Use baked chicken, skip dressings, and opt for low-cal veggies like lettuce and cucumber."
+    },
+    {
+      "q": "Are carbs high in chicken and salad?",
+      "a": "Low at ~8 g total, with 3 g fiber from the salad vegetables."
+    }
+  ]
+}

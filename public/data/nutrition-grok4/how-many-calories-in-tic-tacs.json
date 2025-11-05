@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in tic tacs",
+  "title": "How Many Calories in Tic Tacs?",
+  "meta_description": "Discover how many calories in tic tacs per mint, including carbs, sugars, full nutrition breakdown, serving tips, and FAQs for quick facts.",
+  "slug": "how-many-calories-in-tic-tacs",
+  "h1": "How Many Calories in Tic Tacs?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "Tic Tac",
+    "item": "Tic Tac"
+  },
+  "assumptions": "Per individual Tic Tac mint (approx. 0.5 g); standard flavor like original orange; values based on typical candy composition.",
+  "disclaimer": "Nutrition varies by flavor, brand batch, and exact size. Tic Tacs are low-calorie but check packaging for precise info.",
+  "quick_answer": {
+    "total_kcal": 2,
+    "text": "One Tic Tac contains about 2 calories, mostly from sugar."
+  },
+  "basis": {
+    "label": "per 1 Tic Tac",
+    "amount": 1,
+    "unit": "Tic Tac",
+    "nutrition": {
+      "calories_kcal": 2,
+      "carbs_g": 0.5,
+      "fiber_g": 0,
+      "sugars_g": 0.5,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 2,
+    "carbs_g": 0.5,
+    "fiber_g": 0,
+    "sugars_g": 0.5,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.01
+  },
+  "tweaks": [
+    {
+      "label": "Sugar-free Tic Tacs (using artificial sweeteners)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "In a fruit-flavored variety (slightly higher sugar)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 2
+    },
+    {
+      "label": "Per Tic Tac with added mint intensity (negligible change)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 2
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Tic Tac?",
+      "a": "About 2 calories per individual Tic Tac."
+    },
+    {
+      "q": "How many calories in a serving of Tic Tacs?",
+      "a": "A typical serving of 3 Tic Tacs has around 6 calories."
+    },
+    {
+      "q": "Are Tic Tacs high in sugar?",
+      "a": "Each Tic Tac has about 0.5 g of sugars, so low but accumulates in larger amounts."
+    },
+    {
+      "q": "Do Tic Tacs have any protein or fat?",
+      "a": "Negligible—0 g protein and 0 g fat per Tic Tac."
+    },
+    {
+      "q": "How many Tic Tacs in a full pack calories?",
+      "a": "A standard pack of 38 Tic Tacs totals about 76 calories."
+    }
+  ]
+}

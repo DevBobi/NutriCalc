@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in grilled chicken wrap wendys",
+  "title": "Calories in Wendy's Grilled Chicken Wrap",
+  "meta_description": "Discover calories in grilled chicken wrap Wendys, including full nutrition breakdown, macros, sodium, and tweaks for custom orders.",
+  "slug": "calories-in-grilled-chicken-wrap-wendys",
+  "h1": "Calories in Wendy's Grilled Chicken Wrap",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "wrap",
+    "item": "grilled chicken wrap Wendys"
+  },
+  "assumptions": "Standard Wendy's Grilled Chicken Wrap: grilled chicken, lettuce, tomato, ranch sauce, flour tortilla; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, portion size, and customizations. Check Wendy's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 270,
+    "text": "Wendy's Grilled Chicken Wrap contains 270 kcal with 18 g protein."
+  },
+  "basis": {
+    "label": "per 1 wrap",
+    "amount": 1,
+    "unit": "wrap",
+    "nutrition": {
+      "calories_kcal": 270,
+      "carbs_g": 32,
+      "fiber_g": 2,
+      "sugars_g": 2,
+      "protein_g": 18,
+      "fat_g": 10,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 700
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 270,
+    "carbs_g": 32,
+    "fiber_g": 2,
+    "sugars_g": 2,
+    "protein_g": 18,
+    "fat_g": 10,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 700
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with fast-food info.",
+  "equivalents": {
+    "megajoules": 1.13
+  },
+  "tweaks": [
+    {
+      "label": "Add shredded cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "No ranch sauce (light version)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Whole wheat tortilla substitute",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 260
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in grilled chicken wrap Wendys?",
+      "a": "One standard wrap has 270 calories."
+    },
+    {
+      "q": "What's the protein in Wendy's grilled chicken wrap?",
+      "a": "About 18 g of protein per wrap."
+    },
+    {
+      "q": "How much sodium is in a Wendy's grilled chicken wrap?",
+      "a": "Approximately 700 mg of sodium."
+    },
+    {
+      "q": "Are carbs high in grilled chicken wrap Wendys?",
+      "a": "32 g total carbs, including 2 g fiber, mostly from the tortilla."
+    },
+    {
+      "q": "Can I make Wendy's grilled chicken wrap lower calorie?",
+      "a": "Yes, skip the ranch sauce to save ~30 kcal or request no cheese."
+    }
+  ]
+}

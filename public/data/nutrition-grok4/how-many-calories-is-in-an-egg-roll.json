@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in an egg roll",
+  "title": "How Many Calories in an Egg Roll?",
+  "meta_description": "Discover how many calories is in an egg roll, including full nutrition breakdown, macros, and tweaks for baked or sauced versions.",
+  "slug": "how-many-calories-is-in-an-egg-roll",
+  "h1": "How Many Calories in an Egg Roll?",
+  "updated": "2024-10-01",
+  "query": {
+    "amount": 1,
+    "unit": "egg roll",
+    "item": "egg roll"
+  },
+  "assumptions": "Standard vegetable egg roll, fried, ~50 g each, typical Chinese restaurant style with cabbage, carrots, no meat.",
+  "disclaimer": "Nutrition varies by brand, filling type, frying method, size, and added sauces. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "One fried vegetable egg roll has about 200 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 egg roll",
+    "amount": 1,
+    "unit": "egg roll",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 22,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 6,
+      "fat_g": 10,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 22,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 6,
+    "fat_g": 10,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Add 1 tbsp sweet and sour sauce",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Pork-filled version",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 250
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in an egg roll?",
+      "a": "Approximately 200 kcal for one standard fried vegetable egg roll."
+    },
+    {
+      "q": "Are egg rolls high in carbs?",
+      "a": "Yes, about 22 g carbs per egg roll, mostly from the wrapper."
+    },
+    {
+      "q": "How much fat in an egg roll?",
+      "a": "Around 10 g total fat, with 1.5 g saturated, due to frying."
+    },
+    {
+      "q": "Can I make egg rolls lower calorie?",
+      "a": "Baking or air-frying reduces calories by 50-100 kcal per roll."
+    },
+    {
+      "q": "What's the sodium in an egg roll?",
+      "a": "About 300 mg per egg roll, varying with seasonings."
+    }
+  ]
+}

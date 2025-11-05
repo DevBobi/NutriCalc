@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a dorito",
+  "title": "Calories in a Dorito",
+  "meta_description": "Learn calories in a dorito with full nutrition facts including carbs, fat, protein, sodium, and serving tips for better tracking.",
+  "slug": "calories-in-a-dorito",
+  "h1": "Calories in a Dorito",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "dorito",
+    "item": "dorito"
+  },
+  "assumptions": "Standard Nacho Cheese flavor, average single chip (~1.5g), fried variety.",
+  "disclaimer": "Nutrition varies by flavor, batch, size, and brand; check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 6,
+    "text": "A single Dorito chip contains about 6 kcal and is high in sodium."
+  },
+  "basis": {
+    "label": "per 1 Dorito chip",
+    "amount": 1,
+    "unit": "dorito",
+    "nutrition": {
+      "calories_kcal": 6,
+      "carbs_g": 0.7,
+      "fiber_g": 0.1,
+      "sugars_g": 0,
+      "protein_g": 0.1,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 8
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 6,
+    "carbs_g": 0.7,
+    "fiber_g": 0.1,
+    "sugars_g": 0,
+    "protein_g": 0.1,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 8
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.03
+  },
+  "tweaks": [
+    {
+      "label": "Switch to baked Doritos (less oil)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 4
+    },
+    {
+      "label": "Cool Ranch flavor variation",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 7
+    },
+    {
+      "label": "Pair with 1 tsp salsa dip",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 11
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a single Dorito?",
+      "a": "Approximately 6 kcal per chip for standard Nacho Cheese."
+    },
+    {
+      "q": "What is the fat content in a Dorito?",
+      "a": "About 0.3 g total fat, including 0.1 g saturated fat per chip."
+    },
+    {
+      "q": "Are Doritos high in sodium?",
+      "a": "Yes, around 8 mg sodium per chip, which adds up in larger servings."
+    },
+    {
+      "q": "How many carbs in one Dorito?",
+      "a": "Roughly 0.7 g carbs, with 0.1 g fiber and 0 g sugars."
+    },
+    {
+      "q": "Does flavor affect calories in a Dorito?",
+      "a": "Slightly; most flavors are similar at 5-7 kcal per chip, but check labels."
+    }
+  ]
+}

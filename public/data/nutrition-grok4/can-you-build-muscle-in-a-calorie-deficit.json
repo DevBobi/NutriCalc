@@ -1,0 +1,92 @@
+{
+  "keyword": "can you build muscle in a calorie deficit",
+  "title": "Can You Build Muscle in a Calorie Deficit?",
+  "meta_description": "Discover if you can build muscle in a calorie deficit, with tips on protein needs, training, and realistic nutrition breakdowns for body recomposition.",
+  "slug": "can-you-build-muscle-in-a-calorie-deficit",
+  "h1": "Can You Build Muscle in a Calorie Deficit?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "day",
+    "item": "calorie deficit for muscle building"
+  },
+  "assumptions": "For a moderately active adult (e.g., 70-80 kg beginner/intermediate); 500 kcal deficit from 2500 kcal maintenance; high-protein diet with resistance training 3-5x/week.",
+  "disclaimer": "Results vary by experience level, genetics, training consistency, sleep, and exact deficit size. Consult a professional for personalized advice.",
+  "quick_answer": {
+    "total_kcal": 2000,
+    "text": "Yes, beginners and those with higher body fat can build muscle in a moderate calorie deficit (e.g., 2000 kcal/day) via body recomposition, prioritizing 1.6-2.2 g protein/kg body weight."
+  },
+  "basis": {
+    "label": "per day in 500 kcal deficit",
+    "amount": 1,
+    "unit": "day",
+    "nutrition": {
+      "calories_kcal": 2000,
+      "carbs_g": 200,
+      "fiber_g": 30,
+      "sugars_g": 50,
+      "protein_g": 150,
+      "fat_g": 67,
+      "sat_fat_g": 20,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 300,
+      "sodium_mg": 2300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 2000,
+    "carbs_g": 200,
+    "fiber_g": 30,
+    "sugars_g": 50,
+    "protein_g": 150,
+    "fat_g": 67,
+    "sat_fat_g": 20,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 300,
+    "sodium_mg": 2300
+  },
+  "label_note": "Daily totals approximate a balanced deficit diet mirroring Nutrition Facts for key macros and micros to support muscle growth.",
+  "equivalents": {
+    "megajoules": 8.37
+  },
+  "tweaks": [
+    {
+      "label": "Increase protein to 2.2 g/kg (add whey shake)",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 2120
+    },
+    {
+      "label": "Reduce carbs for deeper deficit (cut 50 g carbs)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 1800
+    },
+    {
+      "label": "Add healthy fats (e.g., avocado, nuts)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 2100
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "Is it possible to build muscle in a calorie deficit?",
+      "a": "Yes, especially for beginners or overweight individuals through body recomposition with proper training and protein intake."
+    },
+    {
+      "q": "How much protein do I need to build muscle in a deficit?",
+      "a": "Aim for 1.6-2.2 g per kg of body weight daily to preserve and build muscle."
+    },
+    {
+      "q": "What size calorie deficit allows muscle gain?",
+      "a": "A mild 250-500 kcal deficit works best; larger deficits risk muscle loss."
+    },
+    {
+      "q": "Does training type matter for muscle building in a deficit?",
+      "a": "Yes, prioritize resistance training 3-5 times weekly to stimulate muscle growth."
+    },
+    {
+      "q": "Can advanced lifters build muscle in a calorie deficit?",
+      "a": "It's harder but possible with precise nutrition, recovery, and progressive overload; novices see easier gains."
+    }
+  ]
+}

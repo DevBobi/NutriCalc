@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a ribeye",
+  "title": "How Many Calories in a Ribeye Steak?",
+  "meta_description": "Discover how many calories in a ribeye steak (typical 8 oz serving), including protein, fat, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-in-a-ribeye",
+  "h1": "How Many Calories in a Ribeye Steak?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "ribeye steak",
+    "item": "ribeye steak"
+  },
+  "assumptions": "8 oz (227 g) cooked ribeye steak, broiled without added fat, choice grade, trimmed of visible fat.",
+  "disclaimer": "Nutrition varies by cut size, grade, cooking method, added fats, and trimming; check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 661,
+    "text": "A typical 8 oz cooked ribeye steak provides ~661 kcal and ~55 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 291,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24,
+      "fat_g": 22,
+      "sat_fat_g": 9,
+      "trans_fat_g": 1.1,
+      "cholesterol_mg": 82,
+      "sodium_mg": 58
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 661,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 54.5,
+    "fat_g": 50,
+    "sat_fat_g": 20.4,
+    "trans_fat_g": 2.5,
+    "cholesterol_mg": 186,
+    "sodium_mg": 132
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.76
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter during cooking per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 741
+    },
+    {
+      "label": "Leaner select grade (vs. choice) per 100 g",
+      "delta_kcal_per_unit": -45,
+      "new_total_kcal": 551
+    },
+    {
+      "label": "Pan-seared with 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 741
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a ribeye steak per 100 g?",
+      "a": "About 291 kcal per 100 g cooked ribeye steak."
+    },
+    {
+      "q": "What's the protein in a ribeye?",
+      "a": "A typical 8 oz serving has ~55 g protein."
+    },
+    {
+      "q": "Does cooking method affect calories in a ribeye?",
+      "a": "Yes—grilling or broiling keeps it lower; frying with oil adds 40+ kcal per tsp."
+    },
+    {
+      "q": "How much fat is in a ribeye steak?",
+      "a": "Around 50 g total fat for an 8 oz serving, with 20 g saturated."
+    },
+    {
+      "q": "Are ribeye steaks high in cholesterol?",
+      "a": "Yes, ~186 mg in an 8 oz serving, mostly from the meat's natural content."
+    }
+  ]
+}

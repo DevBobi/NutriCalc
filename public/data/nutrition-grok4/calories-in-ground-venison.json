@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ground venison",
+  "title": "Calories in Ground Venison",
+  "meta_description": "Discover calories in ground venison per 100 g, including protein, fat, carbs, and full nutrition breakdown for this lean game meat.",
+  "slug": "calories-in-ground-venison",
+  "h1": "Calories in Ground Venison",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "ground venison"
+  },
+  "assumptions": "Lean ground venison (deer meat), cooked (pan-fried or grilled), no added fat, salt, or seasonings; ~90% lean.",
+  "disclaimer": "Nutrition varies by animal, leanness, cooking method, and added ingredients. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 172,
+    "text": "100 g of cooked ground venison provides ~172 kcal and ~26 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 172,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 26,
+      "fat_g": 7.1,
+      "sat_fat_g": 3.4,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 98,
+      "sodium_mg": 75
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 172,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 26,
+    "fat_g": 7.1,
+    "sat_fat_g": 3.4,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 98,
+    "sodium_mg": 75
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.72
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp oil for cooking per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 212
+    },
+    {
+      "label": "Raw ground venison (uncooked)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 152
+    },
+    {
+      "label": "Mixed with 10% beef fat for burgers",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 222
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g ground venison?",
+      "a": "About 172 kcal for cooked lean ground venison."
+    },
+    {
+      "q": "Is ground venison high in protein?",
+      "a": "Yes, ~26 g protein per 100 g, making it a lean meat option."
+    },
+    {
+      "q": "What's the fat content in ground venison?",
+      "a": "Around 7.1 g total fat per 100 g, mostly unsaturated."
+    },
+    {
+      "q": "Does cooking method affect calories in ground venison?",
+      "a": "Yes; grilling or broiling keeps it leaner than frying with added fat."
+    },
+    {
+      "q": "How does venison compare to ground beef calories?",
+      "a": "Ground venison is leaner—172 kcal vs. ~250 kcal for 80% lean beef per 100 g."
+    }
+  ]
+}

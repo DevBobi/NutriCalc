@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in son of a baconator",
+  "title": "Calories in Son of a Baconator",
+  "meta_description": "Discover calories in son of a baconator from Wendy's, including full nutrition breakdown, macros, and quick tweaks for your meal.",
+  "slug": "calories-in-son-of-a-baconator",
+  "h1": "Calories in Son of a Baconator",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "son of a baconator"
+  },
+  "assumptions": "Wendy's standard Son of a Baconator: two quarter-pound beef patties, American cheese, Applewood smoked bacon, ketchup, mayo, sesame seed bun; no modifications.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations; values based on standard recipe. Check Wendy's app or site for latest info.",
+  "quick_answer": {
+    "total_kcal": 660,
+    "text": "One Son of a Baconator has 660 kcal, 37 g protein, and 37 g fat."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 660,
+      "carbs_g": 51,
+      "fiber_g": 2,
+      "sugars_g": 11,
+      "protein_g": 37,
+      "fat_g": 37,
+      "sat_fat_g": 15,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 105,
+      "sodium_mg": 1580
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 660,
+    "carbs_g": 51,
+    "fiber_g": 2,
+    "sugars_g": 11,
+    "protein_g": 37,
+    "fat_g": 37,
+    "sat_fat_g": 15,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 105,
+    "sodium_mg": 1580
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.76
+  },
+  "tweaks": [
+    {
+      "label": "Remove the bun",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 510
+    },
+    {
+      "label": "Add a slice of cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 710
+    },
+    {
+      "label": "Bacon removed",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 540
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Son of a Baconator?",
+      "a": "Approximately 660 kcal for the standard version."
+    },
+    {
+      "q": "What's the protein in Son of a Baconator?",
+      "a": "About 37 g of protein per sandwich."
+    },
+    {
+      "q": "Is the Son of a Baconator high in sodium?",
+      "a": "Yes, around 1580 mg sodium due to bacon and condiments."
+    },
+    {
+      "q": "How does Son of a Baconator compare to the full Baconator?",
+      "a": "It's smaller with about 660 kcal vs. 970 kcal for the Baconator."
+    },
+    {
+      "q": "Can I make the Son of a Baconator lower calorie?",
+      "a": "Yes, skip the bun or bacon to reduce by 120–150 kcal."
+    }
+  ]
+}

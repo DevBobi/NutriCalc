@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in one pound of ground turkey",
+  "title": "Calories in One Pound of Ground Turkey",
+  "meta_description": "Learn calories in one pound of ground turkey, plus protein, fat, carbs, full nutrition per 100 g basis, and cooking tweaks for accurate tracking.",
+  "slug": "calories-in-one-pound-of-ground-turkey",
+  "h1": "Calories in One Pound of Ground Turkey",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pound",
+    "item": "ground turkey"
+  },
+  "assumptions": "93% lean ground turkey, raw; 1 pound ≈ 454 g; uncooked unless specified.",
+  "disclaimer": "Nutrition varies by lean percentage, brand, fat content, and cooking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 681,
+    "text": "One pound of 93% lean ground turkey provides ~681 kcal and ~85 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 18.7,
+      "fat_g": 8.3,
+      "sat_fat_g": 2.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 83,
+      "sodium_mg": 70
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 681,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 84.9,
+    "fat_g": 37.7,
+    "sat_fat_g": 9.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 377,
+    "sodium_mg": 318
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.85
+  },
+  "tweaks": [
+    {
+      "label": "Use 85% lean ground turkey (higher fat)",
+      "delta_kcal_per_unit": 54,
+      "new_total_kcal": 735
+    },
+    {
+      "label": "Cooked and drained (vs. raw; weight loss but calories similar)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 681
+    },
+    {
+      "label": "Add 1 tbsp oil for cooking per pound",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 801
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pound of ground turkey?",
+      "a": "About 681 kcal for 93% lean, raw ground turkey."
+    },
+    {
+      "q": "What's the protein in one pound of ground turkey?",
+      "a": "Approximately 85 g of protein."
+    },
+    {
+      "q": "Does cooking change calories in ground turkey?",
+      "a": "Calories per gram may increase due to water loss, but total calories remain similar if no fat is drained."
+    },
+    {
+      "q": "How does lean percentage affect calories in ground turkey?",
+      "a": "Lower lean (e.g., 85%) adds ~50-60 kcal per pound due to more fat."
+    },
+    {
+      "q": "Are these values for raw or cooked ground turkey?",
+      "a": "Raw; cooked values depend on method—grilling drains fat, reducing totals slightly."
+    }
+  ]
+}

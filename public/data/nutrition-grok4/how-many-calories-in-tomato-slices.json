@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in tomato slices",
+  "title": "How Many Calories in Tomato Slices?",
+  "meta_description": "Learn how many calories in tomato slices with a full nutrition breakdown, including macros per slice, totals for a serving, and preparation tweaks for better flavor.",
+  "slug": "how-many-calories-in-tomato-slices",
+  "h1": "How Many Calories in Tomato Slices?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "slice",
+    "item": "tomato"
+  },
+  "assumptions": "Raw, medium slices from a beefsteak tomato, approx. 20g per slice, no skin removed or added seasonings.",
+  "disclaimer": "Nutrition varies by tomato variety, ripeness, size, and preparation method. Values are approximate; check fresh produce labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 11,
+    "text": "Three medium raw tomato slices contain about 11 calories, mostly from natural carbs with a bit of fiber."
+  },
+  "basis": {
+    "label": "per 1 medium slice (20g)",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 4,
+      "carbs_g": 0.8,
+      "fiber_g": 0.2,
+      "sugars_g": 0.5,
+      "protein_g": 0.2,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 11,
+    "carbs_g": 2.4,
+    "fiber_g": 0.6,
+    "sugars_g": 1.5,
+    "protein_g": 0.6,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.05
+  },
+  "tweaks": [
+    {
+      "label": "Drizzle with 1 tsp olive oil per slice",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 131
+    },
+    {
+      "label": "Grilled slices (no added fat)",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 14
+    },
+    {
+      "label": "Sun-dried tomato slices (rehydrated, per similar weight)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 56
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one tomato slice?",
+      "a": "About 4 calories for a medium raw slice (20g)."
+    },
+    {
+      "q": "Are tomato slices low in carbs?",
+      "a": "Yes, one slice has ~0.8g carbs, mostly from natural sugars and fiber."
+    },
+    {
+      "q": "Do tomato slices have any protein or fat?",
+      "a": "Minimal—0.2g protein and negligible fat per slice."
+    },
+    {
+      "q": "How does cooking affect calories in tomato slices?",
+      "a": "Grilling or roasting adds minimal calories unless oil is used; water loss can slightly concentrate nutrients."
+    },
+    {
+      "q": "What about sodium in tomato slices?",
+      "a": "Very low naturally (~1mg per slice); adding salt increases it significantly."
+    }
+  ]
+}

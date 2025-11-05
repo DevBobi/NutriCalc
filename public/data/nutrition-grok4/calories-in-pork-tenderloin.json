@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pork tenderloin",
+  "title": "Calories in Pork Tenderloin",
+  "meta_description": "Learn calories in pork tenderloin per 100g, including protein, fat, carbs, and full nutrition facts for easy meal planning.",
+  "slug": "calories-in-pork-tenderloin",
+  "h1": "Calories in Pork Tenderloin",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "pork tenderloin"
+  },
+  "assumptions": "Lean, separable lean only, roasted without added fat or seasonings.",
+  "disclaimer": "Nutrition varies by cut, cooking method, added ingredients, and source; check labels or USDA data for precision.",
+  "quick_answer": {
+    "total_kcal": 143,
+    "text": "100g of roasted pork tenderloin provides ~143 kcal and ~26g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 143,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 26.2,
+      "fat_g": 3.5,
+      "sat_fat_g": 1.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 73,
+      "sodium_mg": 56
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 143,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 26.2,
+    "fat_g": 3.5,
+    "sat_fat_g": 1.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 73,
+    "sodium_mg": 56
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.6
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil for roasting per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 183
+    },
+    {
+      "label": "Include some visible fat (vs. lean only)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 168
+    },
+    {
+      "label": "Breaded and pan-fried (adds ~50g breading per 100g meat)",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 293
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g pork tenderloin?",
+      "a": "About 143 kcal for roasted, lean pork tenderloin."
+    },
+    {
+      "q": "What's the protein in pork tenderloin?",
+      "a": "Approximately 26g protein per 100g serving."
+    },
+    {
+      "q": "Does pork tenderloin have carbs?",
+      "a": "No carbs, fiber, or sugars in plain roasted pork tenderloin."
+    },
+    {
+      "q": "How does cooking affect calories in pork tenderloin?",
+      "a": "Roasting keeps it low-cal; frying or adding fat increases by 40–150 kcal per 100g."
+    },
+    {
+      "q": "Is pork tenderloin low in fat?",
+      "a": "Yes, lean cuts have ~3.5g total fat and 1.2g saturated fat per 100g."
+    }
+  ]
+}

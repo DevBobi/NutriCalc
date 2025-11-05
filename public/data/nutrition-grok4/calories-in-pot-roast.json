@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pot roast",
+  "title": "Calories in Pot Roast",
+  "meta_description": "Discover calories in pot roast per 100 g, including protein, fat, carbs, and full nutrition breakdown for easy meal planning.",
+  "slug": "calories-in-pot-roast",
+  "h1": "Calories in Pot Roast",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "pot roast"
+  },
+  "assumptions": "Beef chuck pot roast with carrots, potatoes, onions; slow-cooked in broth; includes meat and vegetables; no added salt or thickeners.",
+  "disclaimer": "Nutrition varies by recipe, meat cut, vegetable ratios, cooking method, and portion size. Check specific recipes or labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "Pot roast has about 250 kcal per 100 g, providing 22 g protein and moderate fat from the beef."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 4,
+      "fiber_g": 1,
+      "sugars_g": 1,
+      "protein_g": 22,
+      "fat_g": 16,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 70,
+      "sodium_mg": 350
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 4,
+    "fiber_g": 1,
+    "sugars_g": 1,
+    "protein_g": 22,
+    "fat_g": 16,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 70,
+    "sodium_mg": 350
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged or restaurant versions.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Use leaner beef cut (e.g., round instead of chuck)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Add 1 tbsp gravy per 100 g",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Vegetable-heavy version (more carrots/potatoes, less meat)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 230
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in pot roast per serving?",
+      "a": "A typical 250 g serving has about 625 kcal; adjust based on portion size."
+    },
+    {
+      "q": "Is pot roast high in protein?",
+      "a": "Yes, about 22 g protein per 100 g, mainly from the beef."
+    },
+    {
+      "q": "What affects calories in pot roast?",
+      "a": "Meat fat content, added oils, vegetable types, and cooking liquids like broth or wine."
+    },
+    {
+      "q": "How much fat is in pot roast?",
+      "a": "Around 16 g total fat per 100 g, with 6 g saturated."
+    },
+    {
+      "q": "Are there carbs in pot roast?",
+      "a": "Yes, about 4 g per 100 g from included vegetables like potatoes and carrots."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "in n out milkshake calories",
+  "title": "Calories in In-N-Out Milkshake",
+  "meta_description": "Discover in n out milkshake calories, plus full nutrition breakdown including carbs, protein, fat, and quick tweaks for variations.",
+  "slug": "in-n-out-milkshake-calories",
+  "h1": "Calories in In-N-Out Milkshake",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "milkshake",
+    "item": "In-N-Out milkshake"
+  },
+  "assumptions": "Regular size (24 oz), chocolate flavor; values averaged across flavors like vanilla or strawberry; no add-ins.",
+  "disclaimer": "Nutrition varies by flavor, exact preparation, and location. Check In-N-Out menu or app for latest info.",
+  "quick_answer": {
+    "total_kcal": 590,
+    "text": "One regular In-N-Out milkshake has about 590 calories and 10 g protein."
+  },
+  "basis": {
+    "label": "per 1 regular milkshake",
+    "amount": 1,
+    "unit": "milkshake",
+    "nutrition": {
+      "calories_kcal": 590,
+      "carbs_g": 70,
+      "fiber_g": 0,
+      "sugars_g": 65,
+      "protein_g": 10,
+      "fat_g": 30,
+      "sat_fat_g": 20,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 100,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 590,
+    "carbs_g": 70,
+    "fiber_g": 0,
+    "sugars_g": 65,
+    "protein_g": 10,
+    "fat_g": 30,
+    "sat_fat_g": 20,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 100,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.47
+  },
+  "tweaks": [
+    {
+      "label": "Neapolitan mix (chocolate, vanilla, strawberry)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 590
+    },
+    {
+      "label": "Add whipped cream topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 640
+    },
+    {
+      "label": "Strawberry flavor (slightly lower sugar)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 570
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an In-N-Out milkshake?",
+      "a": "About 590 calories for one regular size."
+    },
+    {
+      "q": "What are the carbs in In-N-Out milkshake calories query?",
+      "a": "Around 70 g carbs, mostly from sugars."
+    },
+    {
+      "q": "Is In-N-Out milkshake high in fat?",
+      "a": "Yes, 30 g total fat including 20 g saturated per shake."
+    },
+    {
+      "q": "Do flavors affect In-N-Out milkshake calories?",
+      "a": "Minimal difference; chocolate, vanilla, and strawberry are similar at ~590 kcal."
+    },
+    {
+      "q": "How much protein in In-N-Out milkshake?",
+      "a": "Approximately 10 g protein per regular milkshake."
+    }
+  ]
+}

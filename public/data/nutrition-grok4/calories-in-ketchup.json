@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ketchup",
+  "title": "Calories in Ketchup",
+  "meta_description": "Discover calories in ketchup per tablespoon serving, including carbs, sugars, sodium, full nutrition breakdown, and serving tweaks for better choices.",
+  "slug": "calories-in-ketchup",
+  "h1": "Calories in Ketchup",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "ketchup"
+  },
+  "assumptions": "Standard tomato-based ketchup (e.g., Heinz-style); 1 tbsp = 17 g; no added ingredients.",
+  "disclaimer": "Nutrition varies by brand, recipe, sugar content, and serving size. Check labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 19,
+    "text": "One tablespoon of ketchup contains about 19 calories, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 tablespoon",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 19,
+      "carbs_g": 4.7,
+      "fiber_g": 0.2,
+      "sugars_g": 3.9,
+      "protein_g": 0.3,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 167
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 19,
+    "carbs_g": 4.7,
+    "fiber_g": 0.2,
+    "sugars_g": 3.9,
+    "protein_g": 0.3,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 167
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Switch to low-sugar ketchup",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 4
+    },
+    {
+      "label": "Use no-sugar-added variety",
+      "delta_kcal_per_unit": -18,
+      "new_total_kcal": 1
+    },
+    {
+      "label": "Add 1 tsp mustard mix-in",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 24
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tablespoon of ketchup?",
+      "a": "About 19 calories per tablespoon of standard ketchup."
+    },
+    {
+      "q": "Is ketchup high in sugar?",
+      "a": "Yes, one tbsp has around 3.9 g of sugars, mostly from added sweeteners."
+    },
+    {
+      "q": "What's the sodium in ketchup?",
+      "a": "Approximately 167 mg per tablespoon, which can add up with multiple servings."
+    },
+    {
+      "q": "Calories in ketchup per 100g?",
+      "a": "Roughly 112 kcal per 100 g; scale based on serving size."
+    },
+    {
+      "q": "Does ketchup have any protein or fat?",
+      "a": "Very little—0.3 g protein and 0.1 g fat per tablespoon."
+    }
+  ]
+}

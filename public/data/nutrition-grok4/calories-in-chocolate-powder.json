@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chocolate powder",
+  "title": "Calories in Chocolate Powder",
+  "meta_description": "Discover calories in chocolate powder per 100g, including carbs, protein, fat, fiber, and quick tweaks for sweetened versions or recipes.",
+  "slug": "calories-in-chocolate-powder",
+  "h1": "Calories in Chocolate Powder",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chocolate powder"
+  },
+  "assumptions": "Unsweetened cocoa powder, dry, natural process; standard grocery brand.",
+  "disclaimer": "Nutrition varies by brand, processing (Dutch vs. natural), sweetness level, and additives. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 228,
+    "text": "100g of unsweetened chocolate powder has ~228 kcal, high in fiber and antioxidants."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 228,
+      "carbs_g": 57.9,
+      "fiber_g": 37,
+      "sugars_g": 1.8,
+      "protein_g": 19.6,
+      "fat_g": 13.7,
+      "sat_fat_g": 8.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 21
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 228,
+    "carbs_g": 57.9,
+    "fiber_g": 37,
+    "sugars_g": 1.8,
+    "protein_g": 19.6,
+    "fat_g": 13.7,
+    "sat_fat_g": 8.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 21
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.95
+  },
+  "tweaks": [
+    {
+      "label": "Sweetened hot chocolate mix (vs. unsweetened)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 428
+    },
+    {
+      "label": "Add 1 tbsp sugar per serving (15g powder)",
+      "delta_kcal_per_unit": 49,
+      "new_total_kcal": 277
+    },
+    {
+      "label": "Dutch-processed cocoa (less acidic, similar nutrition)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 238
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tablespoon of chocolate powder?",
+      "a": "About 12 kcal for 1 tbsp (5g) unsweetened cocoa powder."
+    },
+    {
+      "q": "Is chocolate powder high in protein?",
+      "a": "Yes, ~20g protein per 100g, making it a good plant-based option."
+    },
+    {
+      "q": "What's the fiber content in chocolate powder?",
+      "a": "High at ~37g per 100g, mostly insoluble fiber for digestive health."
+    },
+    {
+      "q": "Does sweetened chocolate powder have more calories?",
+      "a": "Yes, often 400+ kcal per 100g due to added sugars."
+    },
+    {
+      "q": "Are there carbs in unsweetened chocolate powder?",
+      "a": "~58g per 100g, but mostly from fiber, so net carbs are low (~21g)."
+    }
+  ]
+}

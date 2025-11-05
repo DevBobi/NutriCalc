@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a costco pizza",
+  "title": "How Many Calories in a Costco Pizza?",
+  "meta_description": "Discover how many calories in a Costco pizza, including full nutrition breakdown per whole pizza, macros, and variations for food court style.",
+  "slug": "how-many-calories-in-a-costco-pizza",
+  "h1": "How Many Calories in a Costco Pizza?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "pizza",
+    "item": "costco pizza"
+  },
+  "assumptions": "Standard Costco food court cheese pizza, 16-inch, 12 slices, including crust, tomato sauce, mozzarella cheese; no extra toppings.",
+  "disclaimer": "Nutrition varies by exact recipe, size, toppings, and preparation at different locations. Check Costco's labels or app when available.",
+  "quick_answer": {
+    "total_kcal": 8400,
+    "text": "A whole Costco cheese pizza contains about 8400 calories and 360 g protein."
+  },
+  "basis": {
+    "label": "per 1 whole Costco pizza",
+    "amount": 1,
+    "unit": "pizza",
+    "nutrition": {
+      "calories_kcal": 8400,
+      "carbs_g": 960,
+      "fiber_g": 60,
+      "sugars_g": 96,
+      "protein_g": 360,
+      "fat_g": 360,
+      "sat_fat_g": 144,
+      "trans_fat_g": 6,
+      "cholesterol_mg": 600,
+      "sodium_mg": 16800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 8400,
+    "carbs_g": 960,
+    "fiber_g": 60,
+    "sugars_g": 96,
+    "protein_g": 360,
+    "fat_g": 360,
+    "sat_fat_g": 144,
+    "trans_fat_g": 6,
+    "cholesterol_mg": 600,
+    "sodium_mg": 16800
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 35.15
+  },
+  "tweaks": [
+    {
+      "label": "Pepperoni topping (adds meat per pizza)",
+      "delta_kcal_per_unit": 600,
+      "new_total_kcal": 9000
+    },
+    {
+      "label": "Thin crust variation (reduces dough per pizza)",
+      "delta_kcal_per_unit": -1200,
+      "new_total_kcal": 7200
+    },
+    {
+      "label": "Extra cheese (double mozzarella per pizza)",
+      "delta_kcal_per_unit": 800,
+      "new_total_kcal": 9200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Costco pizza slice?",
+      "a": "About 700 kcal per slice for a standard 12-slice cheese pizza."
+    },
+    {
+      "q": "What are the macros for a whole Costco pizza?",
+      "a": "≈960 g carbs, 360 g protein, 360 g fat, with 60 g fiber."
+    },
+    {
+      "q": "Does Costco pizza have high sodium?",
+      "a": "Yes, around 16,800 mg sodium for the whole pizza due to cheese and sauce."
+    },
+    {
+      "q": "How does pepperoni change calories in a Costco pizza?",
+      "a": "Adds about 600 kcal total from the meat toppings."
+    },
+    {
+      "q": "Are these values for food court or take-and-bake Costco pizza?",
+      "a": "Based on food court; take-and-bake may vary slightly by home baking method."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in avocado toast",
+  "title": "How Many Calories Are in Avocado Toast?",
+  "meta_description": "Learn how many calories are in avocado toast with a full nutrition breakdown, macros, healthy fat details, and easy variations for your meal.",
+  "slug": "how-many-calories-are-in-avocado-toast",
+  "h1": "How Many Calories Are in Avocado Toast?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "avocado toast"
+  },
+  "assumptions": "One slice of whole grain bread (28g), topped with half a medium avocado (68g) mashed, with a pinch of salt; no additional toppings or oil.",
+  "disclaimer": "Nutrition varies by bread type, avocado size, ripeness, and added ingredients like oil or seasonings. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One serving of avocado toast provides about 250 kcal, rich in healthy monounsaturated fats and fiber."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 25,
+      "fiber_g": 7,
+      "sugars_g": 1,
+      "protein_g": 6,
+      "fat_g": 16,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 25,
+    "fiber_g": 7,
+    "sugars_g": 1,
+    "protein_g": 6,
+    "fat_g": 16,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add one poached egg on top",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Use full avocado instead of half",
+      "delta_kcal_per_unit": 114,
+      "new_total_kcal": 364
+    },
+    {
+      "label": "Add 1 tsp olive oil when mashing",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 290
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in avocado toast?",
+      "a": "About 250 kcal per serving under standard assumptions."
+    },
+    {
+      "q": "Is avocado toast high in healthy fats?",
+      "a": "Yes, with ~16 g total fat, mostly monounsaturated from the avocado."
+    },
+    {
+      "q": "How much protein is in avocado toast?",
+      "a": "Around 6 g protein per serving, mainly from the bread."
+    },
+    {
+      "q": "Does avocado toast have a lot of fiber?",
+      "a": "Yes, approximately 7 g fiber, thanks to the avocado and whole grain bread."
+    },
+    {
+      "q": "How to lower calories in avocado toast?",
+      "a": "Use less avocado, opt for thinner bread slices, or skip added salt/oil."
+    }
+  ]
+}

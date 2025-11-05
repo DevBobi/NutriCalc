@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in mcdouble",
+  "title": "How Many Calories Are in a McDouble?",
+  "meta_description": "Learn how many calories are in McDouble from McDonald's, including full nutrition facts like protein, carbs, fat, sodium, and quick tweaks for variations.",
+  "slug": "how-many-calories-are-in-mcdouble",
+  "h1": "How Many Calories Are in a McDouble?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "McDouble",
+    "item": "McDouble"
+  },
+  "assumptions": "Standard McDonald's McDouble burger: two beef patties, one cheese slice, bun, onions, pickles, ketchup, mustard; as served.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations. Values based on standard U.S. McDonald's data; check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 390,
+    "text": "A McDouble contains 390 calories and 23 g protein."
+  },
+  "basis": {
+    "label": "per 1 McDouble",
+    "amount": 1,
+    "unit": "McDouble",
+    "nutrition": {
+      "calories_kcal": 390,
+      "carbs_g": 34,
+      "fiber_g": 2,
+      "sugars_g": 7,
+      "protein_g": 23,
+      "fat_g": 19,
+      "sat_fat_g": 9,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 60,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 390,
+    "carbs_g": 34,
+    "fiber_g": 2,
+    "sugars_g": 7,
+    "protein_g": 23,
+    "fat_g": 19,
+    "sat_fat_g": 9,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 60,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.63
+  },
+  "tweaks": [
+    {
+      "label": "Add one extra slice of cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "No bun (bunless version)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "With bacon added",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 460
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a McDouble?",
+      "a": "A standard McDouble has 390 calories."
+    },
+    {
+      "q": "What's the protein in a McDouble?",
+      "a": "About 23 g of protein from the beef patties and cheese."
+    },
+    {
+      "q": "How much sodium is in a McDouble?",
+      "a": "Around 800 mg, mostly from condiments and cheese."
+    },
+    {
+      "q": "Are there carbs in a McDouble?",
+      "a": "Yes, 34 g total, mainly from the bun, with 2 g fiber."
+    },
+    {
+      "q": "How does McDouble compare to Big Mac calories?",
+      "a": "McDouble has 390 kcal; Big Mac has about 590 kcal."
+    }
+  ]
+}

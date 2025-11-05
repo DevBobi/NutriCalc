@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in fries at burger king",
+  "title": "Calories in Fries at Burger King",
+  "meta_description": "Discover calories in fries at Burger King for medium size, including full nutrition breakdown, macros, and serving variations to help track your meal.",
+  "slug": "calories-in-fries-at-burger-king",
+  "h1": "Calories in Fries at Burger King",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "medium serving",
+    "item": "fries"
+  },
+  "assumptions": "Medium french fries (about 113 g), fried in vegetable oil, standard Burger King preparation; values from official or averaged data.",
+  "disclaimer": "Nutrition varies by location, portion size, oil type, and preparation; check Burger King app or menu for latest info.",
+  "quick_answer": {
+    "total_kcal": 380,
+    "text": "A medium serving of Burger King fries has about 380 kcal and 52 g carbs."
+  },
+  "basis": {
+    "label": "per medium serving",
+    "amount": 1,
+    "unit": "medium serving",
+    "nutrition": {
+      "calories_kcal": 380,
+      "carbs_g": 52,
+      "fiber_g": 5,
+      "sugars_g": 0,
+      "protein_g": 6,
+      "fat_g": 18,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 390
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 380,
+    "carbs_g": 52,
+    "fiber_g": 5,
+    "sugars_g": 0,
+    "protein_g": 6,
+    "fat_g": 18,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 390
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with fast food menus.",
+  "equivalents": {
+    "megajoules": 1.59
+  },
+  "tweaks": [
+    {
+      "label": "Small fries instead of medium",
+      "delta_kcal_per_unit": -140,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Large fries instead of medium",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 490
+    },
+    {
+      "label": "Add 1 packet ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in medium fries at Burger King?",
+      "a": "About 380 kcal per medium serving."
+    },
+    {
+      "q": "What are the carbs in Burger King fries?",
+      "a": "52 g total carbs, including 5 g fiber, in a medium order."
+    },
+    {
+      "q": "Are Burger King fries high in sodium?",
+      "a": "Yes, around 390 mg sodium per medium serving."
+    },
+    {
+      "q": "Calories in large fries at Burger King?",
+      "a": "Approximately 490 kcal for a large serving."
+    },
+    {
+      "q": "Do Burger King fries have trans fat?",
+      "a": "Typically 0 g trans fat, but total fat is 18 g per medium."
+    }
+  ]
+}

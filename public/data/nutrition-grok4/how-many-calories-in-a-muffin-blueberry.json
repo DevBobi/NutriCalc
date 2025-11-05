@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a muffin blueberry",
+  "title": "How Many Calories in a Blueberry Muffin?",
+  "meta_description": "Discover how many calories in a muffin blueberry, including carbs, protein, fat, and full nutrition breakdown per serving.",
+  "slug": "how-many-calories-in-a-muffin-blueberry",
+  "h1": "How Many Calories in a Blueberry Muffin?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "muffin",
+    "item": "blueberry muffin"
+  },
+  "assumptions": "Standard bakery-style muffin (~100 g), baked with flour, sugar, eggs, oil, fresh blueberries; no added frosting or nuts.",
+  "disclaimer": "Nutrition varies by recipe, size, brand, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A standard blueberry muffin has about 350 kcal, with 45 g carbs and 5 g protein."
+  },
+  "basis": {
+    "label": "per 1 muffin",
+    "amount": 1,
+    "unit": "muffin",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 45,
+      "fiber_g": 2,
+      "sugars_g": 25,
+      "protein_g": 5,
+      "fat_g": 15,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 45,
+    "fiber_g": 2,
+    "sugars_g": 25,
+    "protein_g": 5,
+    "fat_g": 15,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat recipe (use yogurt instead of oil)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Add streusel topping",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 450
+    },
+    {
+      "label": "Whole wheat flour variation",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 330
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a muffin blueberry?",
+      "a": "Approximately 350 kcal for a standard 100 g muffin."
+    },
+    {
+      "q": "What's the carb content in a blueberry muffin?",
+      "a": "About 45 g carbs, including 25 g sugars and 2 g fiber per muffin."
+    },
+    {
+      "q": "Are blueberry muffins high in fat?",
+      "a": "Yes, around 15 g total fat per muffin, mostly from oil or butter in the recipe."
+    },
+    {
+      "q": "How does muffin size affect calories?",
+      "a": "Larger muffins (e.g., 150 g) can add 100+ kcal; smaller ones less."
+    },
+    {
+      "q": "Can I make a healthier blueberry muffin?",
+      "a": "Opt for low-fat versions or add more blueberries to boost fiber while cutting sugar."
+    }
+  ]
+}

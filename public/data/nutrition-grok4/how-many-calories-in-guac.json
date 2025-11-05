@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in guac",
+  "title": "How Many Calories in Guac?",
+  "meta_description": "Discover how many calories in guac per 100g serving, including macros like fat, carbs, protein, and tips for variations in this avocado-based dip.",
+  "slug": "how-many-calories-in-guac",
+  "h1": "How Many Calories in Guac?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "guacamole"
+  },
+  "assumptions": "Homemade guacamole: mashed avocado, lime juice, diced onion, tomato, cilantro, garlic, and salt; no added oil or cream.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, ripeness, and brand; homemade vs. store-bought can differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 160,
+    "text": "100g of guacamole contains about 160 kcal, with healthy fats from avocado."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 160,
+      "carbs_g": 9,
+      "fiber_g": 7,
+      "sugars_g": 1,
+      "protein_g": 2,
+      "fat_g": 15,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 160,
+    "carbs_g": 9,
+    "fiber_g": 7,
+    "sugars_g": 1,
+    "protein_g": 2,
+    "fat_g": 15,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.67
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp sour cream per 100g",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 185
+    },
+    {
+      "label": "Low-sodium version (reduce salt)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "With added jalapeño and extra lime (minimal change)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 165
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a typical serving of guac?",
+      "a": "A standard 2 tbsp (about 30g) serving has ~48 kcal."
+    },
+    {
+      "q": "Is guac high in fat?",
+      "a": "Yes, about 15g fat per 100g, mostly healthy monounsaturated from avocado."
+    },
+    {
+      "q": "How many carbs in guac?",
+      "a": "Around 9g carbs per 100g, with 7g fiber, making net carbs low."
+    },
+    {
+      "q": "Does store-bought guac have more calories?",
+      "a": "Often yes, due to added oils or preservatives; check labels for ~180-200 kcal per 100g."
+    },
+    {
+      "q": "What's the protein in guacamole?",
+      "a": "Low at ~2g per 100g; pair with chips or veggies for a balanced snack."
+    }
+  ]
+}

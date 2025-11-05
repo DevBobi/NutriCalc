@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in fried chicken",
+  "title": "How Many Calories in Fried Chicken?",
+  "meta_description": "Discover how many calories in fried chicken per 100g, including protein, fat, carbs, and nutrition breakdowns with tweaks for healthier options.",
+  "slug": "how-many-calories-in-fried-chicken",
+  "h1": "How Many Calories in Fried Chicken?",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "fried chicken"
+  },
+  "assumptions": "Breaded, deep-fried chicken pieces with skin; averaged across cuts like breast and thigh; no additional sauces.",
+  "disclaimer": "Nutrition varies by cut, breading type, frying oil, brand, and portion size. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 239,
+    "text": "Fried chicken has about 239 kcal per 100g, mainly from fat and breading."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 239,
+      "carbs_g": 13.7,
+      "fiber_g": 0.8,
+      "sugars_g": 0,
+      "protein_g": 14,
+      "fat_g": 15,
+      "sat_fat_g": 3.2,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 60,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 239,
+    "carbs_g": 13.7,
+    "fiber_g": 0.8,
+    "sugars_g": 0,
+    "protein_g": 14,
+    "fat_g": 15,
+    "sat_fat_g": 3.2,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 60,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1
+  },
+  "tweaks": [
+    {
+      "label": "Air-fried instead of deep-fried (less oil absorbed)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 139
+    },
+    {
+      "label": "Skinless fried chicken",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 189
+    },
+    {
+      "label": "Extra-thick breading",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 269
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in fried chicken per 100g?",
+      "a": "Approximately 239 kcal per 100g of breaded, deep-fried chicken."
+    },
+    {
+      "q": "Is fried chicken high in fat?",
+      "a": "Yes, about 15g total fat per 100g, mostly from frying oil and skin."
+    },
+    {
+      "q": "How much protein in fried chicken?",
+      "a": "Around 14g protein per 100g, providing a decent source despite the breading."
+    },
+    {
+      "q": "Does baking fried chicken reduce calories?",
+      "a": "Yes, baked versions can cut calories by 50-100 per 100g compared to deep-fried."
+    },
+    {
+      "q": "What affects calories in fried chicken most?",
+      "a": "Frying method, breading amount, skin inclusion, and portion size impact calories significantly."
+    }
+  ]
+}

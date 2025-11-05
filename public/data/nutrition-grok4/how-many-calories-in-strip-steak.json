@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in strip steak",
+  "title": "How Many Calories in Strip Steak?",
+  "meta_description": "Learn how many calories in strip steak per serving, with detailed nutrition facts including protein, fat, carbs, and tweaks for lean cuts or added seasonings.",
+  "slug": "how-many-calories-in-strip-steak",
+  "h1": "How Many Calories in Strip Steak?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "steak",
+    "item": "strip steak"
+  },
+  "assumptions": "1 strip steak ≈225 g cooked weight, grilled, USDA choice grade, lean and fat included, trimmed to 1/8\" fat, no added sauces or marinades.",
+  "disclaimer": "Nutrition varies by grade, cut thickness, cooking method, trimming, and portion size. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 601,
+    "text": "One strip steak (225 g) provides ~601 kcal and ~59 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 267,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 26,
+      "fat_g": 17,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0.7,
+      "cholesterol_mg": 85,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 601,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 59,
+    "fat_g": 38,
+    "sat_fat_g": 16,
+    "trans_fat_g": 1.6,
+    "cholesterol_mg": 191,
+    "sodium_mg": 135
+  },
+  "label_note": "Totals are scaled from the per-100 g basis and mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.51
+  },
+  "tweaks": [
+    {
+      "label": "Lean cut only (select grade, trimmed to 0\" fat)",
+      "delta_kcal_per_unit": -88,
+      "new_total_kcal": 403
+    },
+    {
+      "label": "Pan-seared with 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 691
+    },
+    {
+      "label": "Add BBQ sauce (1 tbsp per steak)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 701
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one strip steak?",
+      "a": "About 601 kcal for a standard 225 g cooked strip steak."
+    },
+    {
+      "q": "How much protein is in strip steak?",
+      "a": "Approximately 26 g protein per 100 g, or 59 g per 225 g steak."
+    },
+    {
+      "q": "Is strip steak fatty?",
+      "a": "Yes, it contains about 17 g total fat per 100 g, including 7 g saturated fat."
+    },
+    {
+      "q": "Calories in raw vs cooked strip steak?",
+      "a": "Raw is lower (~200 kcal/100 g) due to higher water content; cooking concentrates nutrients."
+    },
+    {
+      "q": "How does cooking method affect calories in strip steak?",
+      "a": "Grilling keeps it lower; frying or adding oil/butter can add 40+ kcal per 100 g."
+    }
+  ]
+}

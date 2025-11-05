@@ -1,0 +1,92 @@
+{
+  "keyword": "calories burned in sauna",
+  "title": "Calories Burned in Sauna",
+  "meta_description": "Learn calories burned in sauna per typical 30-minute session, factors influencing burn rate, and tips for accurate tracking.",
+  "slug": "calories-burned-in-sauna",
+  "h1": "Calories Burned in Sauna",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "session",
+    "item": "sauna"
+  },
+  "assumptions": "30-minute session in traditional dry sauna at 160-200°F; average 155 lb (70 kg) adult at rest; no intense activity.",
+  "disclaimer": "Calories burned vary by body weight, session length, sauna type, temperature, hydration, and individual metabolism. Consult a doctor for personalized advice.",
+  "quick_answer": {
+    "total_kcal": 70,
+    "text": "A typical 30-minute sauna session burns about 70 calories, similar to light sitting."
+  },
+  "basis": {
+    "label": "per 30-minute session",
+    "amount": 1,
+    "unit": "session",
+    "nutrition": {
+      "calories_kcal": 70,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 70,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values represent energy expenditure; macronutrients are not applicable as this is not dietary intake.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Extend to 60-minute session",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "For 200 lb (90 kg) person (vs. 155 lb)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Infrared sauna (lower temp, similar burn)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 60
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories burned in sauna per hour?",
+      "a": "About 140 calories for an average adult in a 60-minute session."
+    },
+    {
+      "q": "Does sauna burn more calories than resting?",
+      "a": "Yes, roughly 1.5 times your resting rate, but it's modest—around 70 kcal for 30 minutes."
+    },
+    {
+      "q": "What affects calories burned in sauna?",
+      "a": "Body weight, session duration, sauna temperature, and humidity; heavier individuals burn more."
+    },
+    {
+      "q": "Is sauna good for weight loss?",
+      "a": "It burns few calories and causes temporary water loss, not fat; combine with diet and exercise."
+    },
+    {
+      "q": "Calories burned in sauna vs. walking?",
+      "a": "Sauna burns less—30 min walking burns 100-150 kcal, while sauna is about 70 kcal."
+    }
+  ]
+}

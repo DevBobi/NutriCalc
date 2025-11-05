@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ono hawaiian bbq",
+  "title": "Calories in Ono Hawaiian BBQ Plate",
+  "meta_description": "Discover calories in ono hawaiian bbq plate lunches, including macros, sodium, and tweaks for popular items like grilled chicken or katsu.",
+  "slug": "calories-in-ono-hawaiian-bbq",
+  "h1": "Calories in Ono Hawaiian BBQ Plate",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "plate",
+    "item": "Ono Hawaiian BBQ"
+  },
+  "assumptions": "Standard plate lunch with grilled chicken (8 oz), 2 scoops white rice, 1 scoop macaroni salad; no sides or drinks.",
+  "disclaimer": "Nutrition varies by location, portion size, preparation, and customizations. Check Ono Hawaiian BBQ menu or app for exact values.",
+  "quick_answer": {
+    "total_kcal": 1100,
+    "text": "A standard Ono Hawaiian BBQ grilled chicken plate has about 1100 kcal, with high sodium from sauces and sides."
+  },
+  "basis": {
+    "label": "per 1 plate",
+    "amount": 1,
+    "unit": "plate",
+    "nutrition": {
+      "calories_kcal": 1100,
+      "carbs_g": 140,
+      "fiber_g": 2,
+      "sugars_g": 10,
+      "protein_g": 45,
+      "fat_g": 40,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 150,
+      "sodium_mg": 2200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1100,
+    "carbs_g": 140,
+    "fiber_g": 2,
+    "sugars_g": 10,
+    "protein_g": 45,
+    "fat_g": 40,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 150,
+    "sodium_mg": 2200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.6
+  },
+  "tweaks": [
+    {
+      "label": "Switch to chicken katsu (breaded and fried)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 1300
+    },
+    {
+      "label": "Add pineapple side",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 1180
+    },
+    {
+      "label": "Brown rice instead of white (per scoop)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 1080
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in ono hawaiian bbq grilled chicken plate?",
+      "a": "Approximately 1100 kcal for a standard plate with rice and mac salad."
+    },
+    {
+      "q": "What is the sodium in ono hawaiian bbq meals?",
+      "a": "Often over 2000 mg per plate due to marinades, sauces, and sides."
+    },
+    {
+      "q": "Calories in ono hawaiian bbq katsu plate?",
+      "a": "Around 1300 kcal, higher due to breading and frying."
+    },
+    {
+      "q": "Are ono hawaiian bbq plates high in carbs?",
+      "a": "Yes, mainly from rice and mac salad—about 140 g carbs per plate."
+    },
+    {
+      "q": "How to lower calories in ono hawaiian bbq order?",
+      "a": "Opt for grilled proteins, skip mac salad, or choose smaller portions."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "recipes high in calories",
+  "title": "Recipes High in Calories for Energy",
+  "meta_description": "Explore recipes high in calories to meet high energy needs, with sample nutrition data, tweaks, and tips for customization in one serving.",
+  "slug": "recipes-high-in-calories",
+  "h1": "Recipes High in Calories for Energy",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "high calorie recipe"
+  },
+  "assumptions": "Sample: creamy macaroni and cheese with added bacon; 1 serving ≈400g, baked preparation.",
+  "disclaimer": "Nutrition varies by ingredients, portion size, brands, and cooking method. Adjust based on specific recipes and check labels.",
+  "quick_answer": {
+    "total_kcal": 850,
+    "text": "One serving of a high-calorie recipe like creamy pasta delivers ~850 kcal, packed with carbs and fats."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 850,
+      "carbs_g": 95,
+      "fiber_g": 4,
+      "sugars_g": 8,
+      "protein_g": 28,
+      "fat_g": 42,
+      "sat_fat_g": 18,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 95,
+      "sodium_mg": 1100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 850,
+    "carbs_g": 95,
+    "fiber_g": 4,
+    "sugars_g": 8,
+    "protein_g": 28,
+    "fat_g": 42,
+    "sat_fat_g": 18,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 95,
+    "sodium_mg": 1100
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 3.56
+  },
+  "tweaks": [
+    {
+      "label": "Add 50g extra cheese per serving",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 1050
+    },
+    {
+      "label": "Swap full-fat cream for low-fat milk",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 730
+    },
+    {
+      "label": "Include nuts and dried fruit topping",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 1000
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "What are examples of recipes high in calories?",
+      "a": "Try cheesy lasagna, loaded nachos, or peanut butter banana smoothies for 700+ kcal per serving."
+    },
+    {
+      "q": "How can I make recipes high in calories?",
+      "a": "Incorporate calorie-dense ingredients like oils, cheeses, nuts, and creams while balancing nutrients."
+    },
+    {
+      "q": "Are recipes high in calories good for weight gain?",
+      "a": "Yes, they help increase calorie intake for muscle building or recovery, but pair with exercise."
+    },
+    {
+      "q": "What nutrients are in recipes high in calories?",
+      "a": "Typically high in carbs, fats, and proteins; a sample serving has ~95g carbs, 42g fat, 28g protein."
+    },
+    {
+      "q": "Can recipes high in calories be healthy?",
+      "a": "Absolutely—use whole foods like avocados, olive oil, and lean meats to add calories without excess junk."
+    }
+  ]
+}

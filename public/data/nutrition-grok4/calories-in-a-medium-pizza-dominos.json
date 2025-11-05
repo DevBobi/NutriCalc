@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a medium pizza dominos",
+  "title": "Calories in a Medium Domino's Pizza",
+  "meta_description": "Discover calories in a medium pizza dominos, including full nutrition breakdown for a standard cheese pizza, macros, and variations like toppings.",
+  "slug": "calories-in-a-medium-pizza-dominos",
+  "h1": "Calories in a Medium Domino's Pizza",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pizza",
+    "item": "medium Domino's pizza"
+  },
+  "assumptions": "Medium (12-inch) Hand-Tossed Cheese Pizza with 8 slices; standard crust, sauce, and mozzarella cheese; no extra toppings.",
+  "disclaimer": "Nutrition varies by crust type, toppings, location, and preparation. Domino's values are approximate; check their app or site for exact info.",
+  "quick_answer": {
+    "total_kcal": 1600,
+    "text": "A medium Domino's cheese pizza has about 1600 kcal total."
+  },
+  "basis": {
+    "label": "per medium pizza",
+    "amount": 1,
+    "unit": "pizza",
+    "nutrition": {
+      "calories_kcal": 1600,
+      "carbs_g": 192,
+      "fiber_g": 12,
+      "sugars_g": 16,
+      "protein_g": 72,
+      "fat_g": 64,
+      "sat_fat_g": 32,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 160,
+      "sodium_mg": 2960
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1600,
+    "carbs_g": 192,
+    "fiber_g": 12,
+    "sugars_g": 16,
+    "protein_g": 72,
+    "fat_g": 64,
+    "sat_fat_g": 32,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 160,
+    "sodium_mg": 2960
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 6.69
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni topping",
+      "delta_kcal_per_unit": 240,
+      "new_total_kcal": 1840
+    },
+    {
+      "label": "Switch to Thin Crust",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 1400
+    },
+    {
+      "label": "Add extra cheese",
+      "delta_kcal_per_unit": 160,
+      "new_total_kcal": 1760
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a medium Domino's cheese pizza?",
+      "a": "Approximately 1600 kcal for the whole medium (12-inch) pizza."
+    },
+    {
+      "q": "What are the macros for a medium pizza dominos?",
+      "a": "About 192 g carbs, 72 g protein, 64 g fat, with 12 g fiber."
+    },
+    {
+      "q": "How many slices in a medium Domino's pizza?",
+      "a": "Typically 8 slices, with ~200 kcal per slice for cheese pizza."
+    },
+    {
+      "q": "Does crust type affect calories in a medium pizza dominos?",
+      "a": "Yes; thin crust reduces by ~200 kcal, deep dish adds ~300 kcal."
+    },
+    {
+      "q": "What's the sodium in a medium Domino's pizza?",
+      "a": "Around 2960 mg total, mostly from cheese and sauce."
+    }
+  ]
+}

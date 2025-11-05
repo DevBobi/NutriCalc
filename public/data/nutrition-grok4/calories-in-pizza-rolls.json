@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pizza rolls",
+  "title": "Calories in Pizza Rolls",
+  "meta_description": "Learn calories in pizza rolls for a standard serving of 10 baked rolls, including full nutrition facts, macros, sodium, and preparation tweaks.",
+  "slug": "calories-in-pizza-rolls",
+  "h1": "Calories in Pizza Rolls",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 10,
+    "unit": "pizza roll",
+    "item": "pizza roll"
+  },
+  "assumptions": "Standard frozen pizza rolls (e.g., Totino's pepperoni), baked per package instructions, no added toppings or sauces.",
+  "disclaimer": "Nutrition varies by brand, flavor, baking method, and exact size. Always check product labels for accurate info.",
+  "quick_answer": {
+    "total_kcal": 240,
+    "text": "10 baked pizza rolls provide about 240 kcal, 30 g carbs, and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 pizza roll",
+    "amount": 1,
+    "unit": "pizza roll",
+    "nutrition": {
+      "calories_kcal": 24,
+      "carbs_g": 3,
+      "fiber_g": 0.2,
+      "sugars_g": 0.1,
+      "protein_g": 0.9,
+      "fat_g": 1,
+      "sat_fat_g": 0.4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 1.5,
+      "sodium_mg": 45
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 240,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 9,
+    "fat_g": 10,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 450
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1
+  },
+  "tweaks": [
+    {
+      "label": "Air-fried instead of oven-baked (reduces oil absorption)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Add 1 oz marinara dipping sauce",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 290
+    },
+    {
+      "label": "Cheese-only variety (no pepperoni)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 230
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pizza roll?",
+      "a": "About 24 kcal per baked pizza roll."
+    },
+    {
+      "q": "What are the carbs in pizza rolls?",
+      "a": "10 pizza rolls have roughly 30 g carbs, including 2 g fiber."
+    },
+    {
+      "q": "Are pizza rolls high in sodium?",
+      "a": "Yes, 10 rolls contain about 450 mg sodium—nearly 20% of daily value."
+    },
+    {
+      "q": "Calories in fried vs baked pizza rolls?",
+      "a": "Fried adds ~50 kcal per 10 rolls due to extra oil; baked is lower."
+    },
+    {
+      "q": "How much protein in a serving of pizza rolls?",
+      "a": "Around 9 g protein for 10 pizza rolls."
+    }
+  ]
+}

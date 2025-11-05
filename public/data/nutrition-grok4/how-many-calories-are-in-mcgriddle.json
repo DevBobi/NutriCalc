@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in mcgriddle",
+  "title": "How Many Calories Are in a McGriddle?",
+  "meta_description": "Discover how many calories are in McGriddle, including full nutrition breakdown for the Sausage, Egg & Cheese version, macros, and variations from McDonald's.",
+  "slug": "how-many-calories-are-in-mcgriddle",
+  "h1": "How Many Calories Are in a McGriddle?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "mcgriddle",
+    "item": "McGriddle"
+  },
+  "assumptions": "Sausage, Egg & Cheese McGriddle from McDonald's; standard U.S. menu item, including pancake buns with maple flavoring.",
+  "disclaimer": "Nutrition varies by location, customizations, and recipe changes; values based on standard McDonald's data. Check app or packaging for latest.",
+  "quick_answer": {
+    "total_kcal": 550,
+    "text": "One Sausage, Egg & Cheese McGriddle has about 550 kcal and 20 g protein."
+  },
+  "basis": {
+    "label": "per 1 McGriddle",
+    "amount": 1,
+    "unit": "mcgriddle",
+    "nutrition": {
+      "calories_kcal": 550,
+      "carbs_g": 45,
+      "fiber_g": 2,
+      "sugars_g": 15,
+      "protein_g": 20,
+      "fat_g": 32,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 235,
+      "sodium_mg": 1130
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 550,
+    "carbs_g": 45,
+    "fiber_g": 2,
+    "sugars_g": 15,
+    "protein_g": 20,
+    "fat_g": 32,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 235,
+    "sodium_mg": 1130
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.3
+  },
+  "tweaks": [
+    {
+      "label": "Bacon, Egg & Cheese version (vs. sausage)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Remove cheese",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Add hash brown",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 690
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a McGriddle?",
+      "a": "About 550 kcal for the Sausage, Egg & Cheese McGriddle."
+    },
+    {
+      "q": "What are the macros in a McGriddle?",
+      "a": "Roughly 45 g carbs, 20 g protein, 32 g fat per sandwich."
+    },
+    {
+      "q": "Does the McGriddle have a lot of sodium?",
+      "a": "Yes, around 1130 mg due to sausage, cheese, and buns."
+    },
+    {
+      "q": "How many calories in a bacon McGriddle?",
+      "a": "Approximately 500 kcal, lower fat than the sausage version."
+    },
+    {
+      "q": "Are McGriddles high in sugar?",
+      "a": "Yes, about 15 g from the maple-flavored pancake buns."
+    }
+  ]
+}

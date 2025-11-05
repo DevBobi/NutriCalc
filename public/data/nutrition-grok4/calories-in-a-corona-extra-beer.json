@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a corona extra beer",
+  "title": "Calories in a Corona Extra Beer",
+  "meta_description": "Discover calories in a Corona Extra beer (12 oz bottle), including carbs, protein, sodium, and quick tweaks for variations like light versions.",
+  "slug": "calories-in-a-corona-extra-beer",
+  "h1": "Calories in a Corona Extra Beer",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "beer",
+    "item": "Corona Extra beer"
+  },
+  "assumptions": "Standard 12 oz (355 ml) bottle of Corona Extra lager, chilled, no added lime or salt.",
+  "disclaimer": "Nutrition varies by batch, serving size, and any additions like lime or salt; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 148,
+    "text": "One 12 oz Corona Extra beer contains about 148 kcal and 13.9 g carbs."
+  },
+  "basis": {
+    "label": "per 1 beer (12 oz / 355 ml)",
+    "amount": 1,
+    "unit": "beer",
+    "nutrition": {
+      "calories_kcal": 148,
+      "carbs_g": 13.9,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 1.2,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 25
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 148,
+    "carbs_g": 13.9,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 1.2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 25
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.62
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Corona Light version",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 98
+    },
+    {
+      "label": "Add a lime wedge (minimal impact)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Pour into a salt-rimmed glass (added salt only)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 148
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Corona Extra beer?",
+      "a": "About 148 kcal per 12 oz bottle."
+    },
+    {
+      "q": "What are the carbs in Corona Extra?",
+      "a": "Approximately 13.9 g carbs per beer, mostly from malt."
+    },
+    {
+      "q": "Does Corona Extra have protein or fat?",
+      "a": "1.2 g protein and 0 g fat per serving."
+    },
+    {
+      "q": "Is Corona Extra low in sodium?",
+      "a": "Yes, around 25 mg sodium per 12 oz beer."
+    },
+    {
+      "q": "How does Corona Extra compare to other beers calorie-wise?",
+      "a": "Similar to many light lagers but higher than ultra-low-cal options like Michelob Ultra (95 kcal)."
+    }
+  ]
+}

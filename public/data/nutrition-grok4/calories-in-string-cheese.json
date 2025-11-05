@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in string cheese",
+  "title": "Calories in String Cheese",
+  "meta_description": "Discover calories in string cheese per stick, including protein, fat, carbs, full nutrition breakdown, and easy tweaks for variations.",
+  "slug": "calories-in-string-cheese",
+  "h1": "Calories in String Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "stick",
+    "item": "string cheese"
+  },
+  "assumptions": "Standard 1 oz (28g) mozzarella string cheese stick, made from pasteurized milk, mild flavor, no added ingredients.",
+  "disclaimer": "Nutrition varies by brand, milk type, portion size, and added flavors; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "One string cheese stick has ~80 kcal and ~7 g protein."
+  },
+  "basis": {
+    "label": "per 1 stick",
+    "amount": 1,
+    "unit": "stick",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 7,
+      "fat_g": 6,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 7,
+    "fat_g": 6,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat version (reduced fat milk)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Add pepper jack flavor (spicy variation)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Whole milk cheddar string cheese",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 95
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one string cheese stick?",
+      "a": "About 80 kcal for a standard 1 oz mozzarella stick."
+    },
+    {
+      "q": "What's the protein in string cheese?",
+      "a": "Roughly 7 g protein per stick, making it a good snack."
+    },
+    {
+      "q": "Does string cheese have carbs?",
+      "a": "Very low—only 1 g carbs per stick, with 0 g fiber and sugars."
+    },
+    {
+      "q": "Is string cheese high in sodium?",
+      "a": "Yes, around 200 mg per stick; watch intake if on a low-sodium diet."
+    },
+    {
+      "q": "How does brand affect calories in string cheese?",
+      "a": "Brands vary by 10-20 kcal per stick due to milk fat content and additives."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a cup sugar",
+  "title": "How Many Calories in a Cup of Sugar?",
+  "meta_description": "Discover how many calories in a cup sugar, including carbs, sugars, and full nutrition breakdown per serving with easy tweaks for recipes.",
+  "slug": "how-many-calories-in-a-cup-sugar",
+  "h1": "How Many Calories in a Cup of Sugar?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "sugar"
+  },
+  "assumptions": "Granulated white sugar; standard US cup measure (≈200 g, loosely scooped).",
+  "disclaimer": "Nutrition varies by sugar type, brand, packing density, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 774,
+    "text": "One cup of granulated sugar contains ~774 kcal, all from carbohydrates."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 387,
+      "carbs_g": 100,
+      "fiber_g": 0,
+      "sugars_g": 100,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 774,
+    "carbs_g": 200,
+    "fiber_g": 0,
+    "sugars_g": 200,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.24
+  },
+  "tweaks": [
+    {
+      "label": "Use brown sugar (instead of white)",
+      "delta_kcal_per_unit": -14,
+      "new_total_kcal": 760
+    },
+    {
+      "label": "Use powdered sugar (sifted)",
+      "delta_kcal_per_unit": -290,
+      "new_total_kcal": 484
+    },
+    {
+      "label": "Packed cup (denser measure)",
+      "delta_kcal_per_unit": 193,
+      "new_total_kcal": 967
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cup of sugar?",
+      "a": "Approximately 774 kcal for one cup (200 g) of granulated white sugar."
+    },
+    {
+      "q": "Is sugar all carbs?",
+      "a": "Yes, 100% carbohydrates—200 g carbs and sugars per cup, with no protein or fat."
+    },
+    {
+      "q": "How much sugar is in a cup?",
+      "a": "About 200 g of granulated sugar fits in one standard cup."
+    },
+    {
+      "q": "Does brown sugar have the same calories as white?",
+      "a": "Similar, but slightly less—around 760 kcal per cup due to minor moisture differences."
+    },
+    {
+      "q": "Why track calories in sugar?",
+      "a": "Sugar adds empty calories; one cup exceeds daily added sugar limits for most diets."
+    }
+  ]
+}

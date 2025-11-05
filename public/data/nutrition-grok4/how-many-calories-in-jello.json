@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in jello",
+  "title": "How Many Calories in Jello?",
+  "meta_description": "Learn how many calories in jello per serving, including carbs, sugars, protein, and full nutrition details for prepared gelatin dessert.",
+  "slug": "how-many-calories-in-jello",
+  "h1": "How Many Calories in Jello?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "jello"
+  },
+  "assumptions": "Prepared Jell-O brand gelatin dessert (e.g., strawberry flavor), one serving (1/2 cup or ~123g), made with water, no fruit or toppings added.",
+  "disclaimer": "Nutrition varies by brand, flavor, preparation method (e.g., with milk), and serving size. Check product labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "One serving of prepared jello contains about 80 calories and 19g of carbs."
+  },
+  "basis": {
+    "label": "per 1 serving (1/2 cup prepared)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 19,
+      "fiber_g": 0,
+      "sugars_g": 19,
+      "protein_g": 2,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 80
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 19,
+    "fiber_g": 0,
+    "sugars_g": 19,
+    "protein_g": 2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 80
+  },
+  "label_note": "Values mirror standard Nutrition Facts panel for easy comparison with product labels.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Made with milk instead of water",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Sugar-free version (with aspartame)",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 10
+    },
+    {
+      "label": "Add 1/4 cup fruit (e.g., strawberries)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 95
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of jello?",
+      "a": "About 80 calories for a standard prepared serving (1/2 cup)."
+    },
+    {
+      "q": "Is jello low in fat?",
+      "a": "Yes, regular prepared jello has 0g total fat per serving."
+    },
+    {
+      "q": "How much sugar is in jello?",
+      "a": "Approximately 19g of sugars per 1/2 cup serving."
+    },
+    {
+      "q": "What's the difference in calories for sugar-free jello?",
+      "a": "Sugar-free versions have only about 10 calories per serving."
+    },
+    {
+      "q": "Does adding fruit change the calories in jello?",
+      "a": "Yes, adding fruit like berries can add 10-20 calories depending on amount and type."
+    }
+  ]
+}

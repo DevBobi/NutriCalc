@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 6 oz of steak",
+  "title": "Calories in 6 oz of Steak",
+  "meta_description": "Learn calories in 6 oz of steak, plus full nutrition breakdown including protein, fat, carbs, and tips for variations under 160 characters.",
+  "slug": "calories-in-6-oz-of-steak",
+  "h1": "Calories in 6 oz of Steak",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 6,
+    "unit": "oz",
+    "item": "steak"
+  },
+  "assumptions": "Sirloin steak, trimmed of visible fat, grilled to medium doneness; 6 oz ≈ 170 g cooked weight.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and seasoning. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 340,
+    "text": "6 oz of grilled sirloin steak provides ~340 kcal and ~46 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 27,
+      "fat_g": 12,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 340,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 45.9,
+    "fat_g": 20.4,
+    "sat_fat_g": 8.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 136,
+    "sodium_mg": 102
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.42
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per steak",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Ribeye cut (higher fat) vs sirloin",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Pan-seared with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 380
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 6 oz sirloin steak?",
+      "a": "Approximately 340 kcal for grilled, trimmed sirloin."
+    },
+    {
+      "q": "What's the protein in 6 oz of steak?",
+      "a": "About 46 g protein, making it a high-protein option."
+    },
+    {
+      "q": "Does steak have carbs?",
+      "a": "No carbs, fiber, or sugars in plain grilled steak."
+    },
+    {
+      "q": "How does cooking method affect calories in steak?",
+      "a": "Grilling or broiling keeps calories lower; frying adds fat and calories."
+    },
+    {
+      "q": "Is 6 oz steak a standard serving size?",
+      "a": "Yes, often recommended as a portion; equals ~170 g cooked."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in canes chicken fingers",
+  "title": "Calories in Cane's Chicken Fingers",
+  "meta_description": "Discover calories in canes chicken fingers, including macros like protein and fat, per tender basis, and serving tweaks for Raising Cane's tenders.",
+  "slug": "calories-in-canes-chicken-fingers",
+  "h1": "Calories in Cane's Chicken Fingers",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "chicken finger",
+    "item": "Cane's chicken finger"
+  },
+  "assumptions": "Fried, breaded chicken tenders from Raising Cane's, standard size (~45g each), no sauce or sides.",
+  "disclaimer": "Nutrition varies by location, batch, frying oil, and portion size. Check Raising Cane's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "One Cane's chicken finger provides ~130 kcal and ~14 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken finger",
+    "amount": 1,
+    "unit": "chicken finger",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 8,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 14,
+      "fat_g": 6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 370
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 8,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 14,
+    "fat_g": 6,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 370
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with restaurant info.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet Cane's sauce",
+      "delta_kcal_per_unit": 190,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "3 fingers (mini combo base, no sauce)",
+      "delta_kcal_per_unit": 260,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Air-fried version (less oil)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Cane's chicken finger?",
+      "a": "About 130 kcal per fried tender."
+    },
+    {
+      "q": "What are the macros for Cane's chicken fingers?",
+      "a": "Per finger: 14 g protein, 6 g fat, 8 g carbs, 370 mg sodium."
+    },
+    {
+      "q": "Calories in a 4-finger Cane's combo without sauce?",
+      "a": "Approximately 520 kcal for 4 tenders."
+    },
+    {
+      "q": "Are Cane's chicken fingers high in sodium?",
+      "a": "Yes, ~370 mg per finger due to breading and seasoning."
+    },
+    {
+      "q": "How does frying affect calories in Cane's tenders?",
+      "a": "Frying adds ~6 g fat per finger; grilling would reduce to ~90 kcal."
+    }
+  ]
+}

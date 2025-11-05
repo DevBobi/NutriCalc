@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in kirkland mixed nuts",
+  "title": "Calories in Kirkland Mixed Nuts",
+  "meta_description": "Learn calories in Kirkland mixed nuts per 1 oz serving, including full nutrition facts for fats, protein, carbs, and healthy tweaks for your snack.",
+  "slug": "calories-in-kirkland-mixed-nuts",
+  "h1": "Calories in Kirkland Mixed Nuts",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "oz",
+    "item": "kirkland mixed nuts"
+  },
+  "assumptions": "Kirkland Signature mixed nuts (almonds, cashews, pecans, Brazil nuts, macadamia nuts), dry roasted, unsalted; standard 1 oz (28 g) serving.",
+  "disclaimer": "Nutrition varies by exact mix, roasting method, salt content, and brand batch. Check packaging for precise values.",
+  "quick_answer": {
+    "total_kcal": 180,
+    "text": "One ounce of Kirkland mixed nuts provides about 180 kcal and 5 g protein."
+  },
+  "basis": {
+    "label": "per 1 oz (28 g)",
+    "amount": 1,
+    "unit": "oz",
+    "nutrition": {
+      "calories_kcal": 180,
+      "carbs_g": 6,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 5,
+      "fat_g": 16,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 180,
+    "carbs_g": 6,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 5,
+    "fat_g": 16,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.75
+  },
+  "tweaks": [
+    {
+      "label": "Salted version (adds sodium but minimal calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Add 1 tsp honey coating per oz",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Almond-only (vs. mixed, lower fat)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 oz of Kirkland mixed nuts?",
+      "a": "Approximately 180 kcal per 1 oz serving."
+    },
+    {
+      "q": "What is the fat content in Kirkland mixed nuts?",
+      "a": "About 16 g total fat per oz, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "Are Kirkland mixed nuts high in protein?",
+      "a": "Yes, around 5 g protein per 1 oz serving from nuts like almonds and cashews."
+    },
+    {
+      "q": "Do Kirkland mixed nuts have added sugar?",
+      "a": "Natural sugars only, about 1 g per oz; no added sugars in the standard mix."
+    },
+    {
+      "q": "How does portion size affect calories in Kirkland mixed nuts?",
+      "a": "Each additional oz adds ~180 kcal; stick to 1 oz for controlled snacking."
+    }
+  ]
+}

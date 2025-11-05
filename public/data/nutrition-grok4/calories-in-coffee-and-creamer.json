@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in coffee and creamer",
+  "title": "Calories in Coffee and Creamer",
+  "meta_description": "Learn calories in coffee and creamer for a standard 8 oz serving with 2 tbsp creamer, plus full nutrition breakdown, macros, and easy tweaks.",
+  "slug": "calories-in-coffee-and-creamer",
+  "h1": "Calories in Coffee and Creamer",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "coffee and creamer"
+  },
+  "assumptions": "8 fl oz (240 ml) brewed black coffee with 2 tbsp (30 ml) liquid non-dairy creamer (e.g., Coffee-mate original); no sugar or additives.",
+  "disclaimer": "Nutrition varies by coffee brew strength, creamer type/brand, serving size, and additions like sugar. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 72,
+    "text": "One 8 oz cup of black coffee with 2 tbsp creamer provides ~72 kcal, primarily from the creamer's fat and sugars."
+  },
+  "basis": {
+    "label": "per 1 serving (8 oz coffee + 2 tbsp creamer)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 72,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sugars_g": 6,
+      "protein_g": 0.2,
+      "fat_g": 4,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 20
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 72,
+    "carbs_g": 6,
+    "fiber_g": 0,
+    "sugars_g": 6,
+    "protein_g": 0.2,
+    "fat_g": 4,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 20
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.3
+  },
+  "tweaks": [
+    {
+      "label": "Use 2% milk instead of creamer (2 tbsp)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 62
+    },
+    {
+      "label": "Add 1 tsp sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 88
+    },
+    {
+      "label": "Black coffee only (no creamer)",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 2
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in coffee and creamer per cup?",
+      "a": "About 72 kcal for 8 oz black coffee with 2 tbsp non-dairy creamer."
+    },
+    {
+      "q": "Does black coffee have calories?",
+      "a": "Black coffee has negligible calories (~2 kcal per 8 oz), so creamer adds most of the energy."
+    },
+    {
+      "q": "What if I use heavy cream instead?",
+      "a": "Heavy cream (2 tbsp) adds ~100 kcal, making the total ~102 kcal versus non-dairy creamer."
+    },
+    {
+      "q": "Are there carbs in coffee with creamer?",
+      "a": "Yes, ~6 g carbs per serving, mostly sugars from the creamer; black coffee has 0 g."
+    },
+    {
+      "q": "How does creamer type affect calories?",
+      "a": "Non-dairy liquid creamer ~35 kcal/tbsp; powdered ~15 kcal/tsp; fat-free versions ~10 kcal/tbsp."
+    }
+  ]
+}

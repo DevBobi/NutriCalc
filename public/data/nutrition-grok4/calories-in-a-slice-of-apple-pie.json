@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a slice of apple pie",
+  "title": "Calories in a Slice of Apple Pie",
+  "meta_description": "Discover calories in a slice of apple pie, including full nutrition breakdown, macros, and tips for variations under 160 characters.",
+  "slug": "calories-in-a-slice-of-apple-pie",
+  "h1": "Calories in a Slice of Apple Pie",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "apple pie"
+  },
+  "assumptions": "Standard 1/8 slice of a 9-inch homemade apple pie with double crust, cinnamon-spiced apple filling, no added toppings.",
+  "disclaimer": "Nutrition varies by recipe, crust type, apple variety, sugar amount, and serving size. Check labels for commercial pies.",
+  "quick_answer": {
+    "total_kcal": 411,
+    "text": "A typical slice of apple pie contains about 411 calories, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 411,
+      "carbs_g": 57,
+      "fiber_g": 2,
+      "sugars_g": 30,
+      "protein_g": 3,
+      "fat_g": 19,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 411,
+    "carbs_g": 57,
+    "fiber_g": 2,
+    "sugars_g": 30,
+    "protein_g": 3,
+    "fat_g": 19,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.72
+  },
+  "tweaks": [
+    {
+      "label": "Add 1/2 cup vanilla ice cream",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 611
+    },
+    {
+      "label": "Use low-sugar recipe (reduce sugar by 50%)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 311
+    },
+    {
+      "label": "Single crust (remove top crust)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 331
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a slice of apple pie?",
+      "a": "Approximately 411 calories for a standard 1/8 slice."
+    },
+    {
+      "q": "What are the carbs in a slice of apple pie?",
+      "a": "About 57 g total carbs, including 2 g fiber and 30 g sugars."
+    },
+    {
+      "q": "Is apple pie high in fat?",
+      "a": "Yes, around 19 g fat per slice, with 5 g saturated fat from the crust."
+    },
+    {
+      "q": "How does homemade vs. store-bought apple pie compare in calories?",
+      "a": "Homemade can vary; store-bought often 400-500 kcal per slice due to added preservatives."
+    },
+    {
+      "q": "Can I make apple pie lower calorie?",
+      "a": "Yes, use less sugar, single crust, or add fruits to reduce to under 300 kcal per slice."
+    }
+  ]
+}

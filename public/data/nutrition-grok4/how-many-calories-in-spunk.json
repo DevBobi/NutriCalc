@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in spunk",
+  "title": "How Many Calories in Spunk?",
+  "meta_description": "Discover how many calories in spunk (semen), including protein, carbs, fat, and other nutrients per typical serving, with quick facts and variations.",
+  "slug": "how-many-calories-in-spunk",
+  "h1": "How Many Calories in Spunk?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "spunk"
+  },
+  "assumptions": "Typical human male ejaculation (approx. 3.5 ml); composition based on average seminal fluid (water, fructose, proteins, minerals); no additives.",
+  "disclaimer": "Nutrition varies by individual health, diet, hydration, and volume; values are approximate. Consult medical sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 15,
+    "text": "One typical serving of spunk contains about 15 kcal, mostly from sugars and proteins."
+  },
+  "basis": {
+    "label": "per 1 serving (3.5 ml)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 15,
+      "carbs_g": 2.2,
+      "fiber_g": 0,
+      "sugars_g": 2.2,
+      "protein_g": 0.5,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 30
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 15,
+    "carbs_g": 2.2,
+    "fiber_g": 0,
+    "sugars_g": 2.2,
+    "protein_g": 0.5,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 30
+  },
+  "label_note": "Values mirror Nutrition Facts style for comparison; scaled to typical serving size.",
+  "equivalents": {
+    "megajoules": 0.06
+  },
+  "tweaks": [
+    {
+      "label": "Larger volume serving (5 ml vs. 3.5 ml)",
+      "delta_kcal_per_unit": 7,
+      "new_total_kcal": 22
+    },
+    {
+      "label": "Diet higher in fructose (increased sugars)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 20
+    },
+    {
+      "label": "Dehydrated individual (lower volume, concentrated)",
+      "delta_kcal_per_unit": -3,
+      "new_total_kcal": 12
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in spunk per serving?",
+      "a": "Approximately 15 kcal in a typical 3.5 ml serving."
+    },
+    {
+      "q": "What nutrients are in spunk besides calories?",
+      "a": "Mainly 2.2 g carbs (sugars like fructose), 0.5 g protein, and trace fat/minerals."
+    },
+    {
+      "q": "Does spunk have protein?",
+      "a": "Yes, about 0.5 g per serving, from enzymes and proteins."
+    },
+    {
+      "q": "How does volume affect calories in spunk?",
+      "a": "Calories scale with volume; average 3-5 ml ranges 10-25 kcal."
+    },
+    {
+      "q": "Is spunk low-carb?",
+      "a": "Yes, but it has natural sugars (fructose) contributing most carbs at ~2.2 g per serving."
+    }
+  ]
+}

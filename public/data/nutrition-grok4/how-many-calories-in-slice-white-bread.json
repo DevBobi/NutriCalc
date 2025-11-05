@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in slice white bread",
+  "title": "How Many Calories in a Slice of White Bread?",
+  "meta_description": "Discover how many calories in slice white bread, including carbs, protein, fat, and full nutrition breakdown per slice for easy tracking.",
+  "slug": "how-many-calories-in-slice-white-bread",
+  "h1": "How Many Calories in a Slice of White Bread?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "white bread"
+  },
+  "assumptions": "Standard commercial white bread slice (~28 g), untoasted, no added ingredients or toppings.",
+  "disclaimer": "Nutrition varies by brand, slice thickness, recipe, and additives like preservatives. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 79,
+    "text": "One slice of white bread contains about 79 kcal and 15 g carbs."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 79,
+      "carbs_g": 14.8,
+      "fiber_g": 0.7,
+      "sugars_g": 1.8,
+      "protein_g": 2.7,
+      "fat_g": 1,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 79,
+    "carbs_g": 14.8,
+    "fiber_g": 0.7,
+    "sugars_g": 1.8,
+    "protein_g": 2.7,
+    "fat_g": 1,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per slice",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 113
+    },
+    {
+      "label": "Use whole wheat bread instead",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 74
+    },
+    {
+      "label": "Toasted slice (no added oil)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 79
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of white bread?",
+      "a": "Approximately 79 kcal per standard slice."
+    },
+    {
+      "q": "What are the carbs in a slice of white bread?",
+      "a": "About 14.8 g carbs, including 0.7 g fiber and 1.8 g sugars."
+    },
+    {
+      "q": "Is white bread high in sodium?",
+      "a": "One slice has around 150 mg sodium, which varies by brand."
+    },
+    {
+      "q": "How does toasting affect calories in white bread?",
+      "a": "Toasting doesn't add calories if no oil or butter is used."
+    },
+    {
+      "q": "What's the protein in a slice of white bread?",
+      "a": "Roughly 2.7 g protein per slice."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a chocolate croissant",
+  "title": "How Many Calories in a Chocolate Croissant?",
+  "meta_description": "Discover how many calories in a chocolate croissant, including full nutrition breakdown like carbs, protein, fat, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-chocolate-croissant",
+  "h1": "How Many Calories in a Chocolate Croissant?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "croissant",
+    "item": "chocolate croissant"
+  },
+  "assumptions": "Standard bakery chocolate croissant (pain au chocolat), ~100 g, buttery pastry with chocolate filling, baked fresh.",
+  "disclaimer": "Nutrition varies by bakery, size, brand, chocolate type, and added fillings. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 400,
+    "text": "A standard chocolate croissant contains about 400 kcal and 8 g protein."
+  },
+  "basis": {
+    "label": "per 1 chocolate croissant",
+    "amount": 1,
+    "unit": "croissant",
+    "nutrition": {
+      "calories_kcal": 400,
+      "carbs_g": 45,
+      "fiber_g": 2,
+      "sugars_g": 10,
+      "protein_g": 8,
+      "fat_g": 22,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 400,
+    "carbs_g": 45,
+    "fiber_g": 2,
+    "sugars_g": 10,
+    "protein_g": 8,
+    "fat_g": 22,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.67
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter on top before baking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "Use dark chocolate filling (less sugar)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Smaller homemade version (~70 g)",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chocolate croissant?",
+      "a": "Approximately 400 kcal for a standard 100 g bakery version."
+    },
+    {
+      "q": "What are the carbs in a chocolate croissant?",
+      "a": "About 45 g total carbs, including 2 g fiber and 10 g sugars."
+    },
+    {
+      "q": "Is a chocolate croissant high in fat?",
+      "a": "Yes, around 22 g fat per croissant, with 12 g saturated fat from butter and chocolate."
+    },
+    {
+      "q": "How much protein in a chocolate croissant?",
+      "a": "Roughly 8 g protein, mainly from the dough and any milk in chocolate."
+    },
+    {
+      "q": "Does size affect calories in chocolate croissants?",
+      "a": "Yes—larger ones can exceed 500 kcal, while mini versions are under 200 kcal."
+    }
+  ]
+}

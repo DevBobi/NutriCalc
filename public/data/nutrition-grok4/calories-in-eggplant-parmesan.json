@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in eggplant parmesan",
+  "title": "Calories in Eggplant Parmesan",
+  "meta_description": "Discover calories in eggplant parmesan per serving, including carbs, protein, fat, and nutrition breakdowns for this classic Italian dish.",
+  "slug": "calories-in-eggplant-parmesan",
+  "h1": "Calories in Eggplant Parmesan",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "eggplant parmesan"
+  },
+  "assumptions": "Standard homemade serving (~250 g): breaded and fried eggplant slices layered with marinara sauce, mozzarella, and parmesan cheese; baked.",
+  "disclaimer": "Nutrition varies by recipe, portion size, frying method, cheese type, and brand of sauce. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "One serving of eggplant parmesan provides about 350 kcal, with high carbs from breading and sauce."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 28,
+      "fiber_g": 5,
+      "sugars_g": 8,
+      "protein_g": 14,
+      "fat_g": 20,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 35,
+      "sodium_mg": 850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 28,
+    "fiber_g": 5,
+    "sugars_g": 8,
+    "protein_g": 14,
+    "fat_g": 20,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 35,
+    "sodium_mg": 850
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Low-fat cheese and sauce (reduce dairy)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 290
+    },
+    {
+      "label": "Add extra eggplant slices (more veggies)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of eggplant parmesan?",
+      "a": "Approximately 350 kcal for a standard 250 g serving."
+    },
+    {
+      "q": "Is eggplant parmesan high in carbs?",
+      "a": "Yes, about 28 g carbs per serving, mostly from breading and tomato sauce."
+    },
+    {
+      "q": "What's the protein content in eggplant parmesan?",
+      "a": "Around 14 g protein per serving, mainly from the cheeses."
+    },
+    {
+      "q": "How to make eggplant parmesan lower in calories?",
+      "a": "Bake the eggplant instead of frying and use low-fat cheese to cut ~100 kcal."
+    },
+    {
+      "q": "Does eggplant parmesan have a lot of sodium?",
+      "a": "Yes, typically 850 mg per serving from sauce and cheese; opt for low-sodium versions."
+    }
+  ]
+}

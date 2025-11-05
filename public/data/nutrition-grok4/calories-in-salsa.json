@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in salsa",
+  "title": "Calories in Salsa",
+  "meta_description": "Discover calories in salsa per 100g, including carbs, sodium, protein, fat, and quick tweaks for variations like chunky or spicy.",
+  "slug": "calories-in-salsa",
+  "h1": "Calories in Salsa",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "salsa"
+  },
+  "assumptions": "Fresh tomato-based salsa, mild, homemade-style with tomatoes, onions, cilantro, lime, and jalapeños; no added oil or salt beyond ingredients.",
+  "disclaimer": "Nutrition varies by recipe, brand, ingredients, freshness, and preparation; store-bought may have added preservatives or sugars. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 33,
+    "text": "Salsa is low in calories at ~33 kcal per 100g, with high sodium and minimal fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 33,
+      "carbs_g": 7.2,
+      "fiber_g": 1.5,
+      "sugars_g": 4.1,
+      "protein_g": 1.5,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 650
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 33,
+    "carbs_g": 7.2,
+    "fiber_g": 1.5,
+    "sugars_g": 4.1,
+    "protein_g": 1.5,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 650
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.14
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp corn kernels per 100 g",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 48
+    },
+    {
+      "label": "Avocado salsa (add 50 g avocado per 100 g base)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 113
+    },
+    {
+      "label": "Low-sodium version (reduce salt by half)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 33
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tablespoon of salsa?",
+      "a": "About 10 kcal for 1 tbsp (~16 g) of typical tomato salsa."
+    },
+    {
+      "q": "Is salsa low carb?",
+      "a": "Yes, ~7 g carbs per 100 g, mostly from vegetables, with 1.5 g fiber."
+    },
+    {
+      "q": "Why is sodium high in salsa?",
+      "a": "From added salt or natural in ingredients; ~650 mg per 100 g, but varies by recipe."
+    },
+    {
+      "q": "Calories in chunky vs smooth salsa?",
+      "a": "Similar, around 30-40 kcal per 100 g; chunky may have slightly more fiber."
+    },
+    {
+      "q": "Does salsa have fat or protein?",
+      "a": "Minimal: 0.2 g fat and 1.5 g protein per 100 g, making it a light condiment."
+    }
+  ]
+}

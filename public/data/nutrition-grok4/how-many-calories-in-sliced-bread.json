@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in sliced bread",
+  "title": "How Many Calories in Sliced Bread?",
+  "meta_description": "Discover how many calories in sliced bread per slice, including carbs, protein, fat, and full nutrition breakdown for easy tracking.",
+  "slug": "how-many-calories-in-sliced-bread",
+  "h1": "How Many Calories in Sliced Bread?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "sliced bread"
+  },
+  "assumptions": "Standard white sliced bread, one medium slice (~28 g), untoasted, no added spreads.",
+  "disclaimer": "Nutrition varies by brand, type (white/whole grain), slice thickness, and ingredients; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "One slice of sliced bread contains about 80 kcal and 15 g of carbs."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 15,
+      "fiber_g": 0.7,
+      "sugars_g": 1.8,
+      "protein_g": 3,
+      "fat_g": 1,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 15,
+    "fiber_g": 0.7,
+    "sugars_g": 1.8,
+    "protein_g": 3,
+    "fat_g": 1,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Switch to whole wheat bread",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 75
+    },
+    {
+      "label": "Add 1 tsp butter per slice",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 115
+    },
+    {
+      "label": "Use thicker artisanal slice (~40 g)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of sliced bread?",
+      "a": "Approximately 80 kcal for a standard medium slice of white bread."
+    },
+    {
+      "q": "What's the carb content in sliced bread?",
+      "a": "About 15 g of carbs per slice, mostly from refined flour in white varieties."
+    },
+    {
+      "q": "Does whole grain sliced bread have fewer calories?",
+      "a": "Similar calories (~75 kcal per slice) but more fiber (around 2 g) than white bread."
+    },
+    {
+      "q": "How does toasting affect calories in sliced bread?",
+      "a": "Toasting doesn't change calories significantly; it mainly affects texture and moisture."
+    },
+    {
+      "q": "What about sodium in sliced bread?",
+      "a": "Around 150 mg per slice; varies by brand and if it's a low-sodium option."
+    }
+  ]
+}

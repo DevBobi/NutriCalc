@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cinnamon and raisin bagel",
+  "title": "Calories in Cinnamon and Raisin Bagel",
+  "meta_description": "Discover calories in cinnamon and raisin bagel, including carbs, protein, fat, full nutrition breakdown per bagel, and tasty tweaks for your breakfast.",
+  "slug": "calories-in-cinnamon-and-raisin-bagel",
+  "h1": "Calories in Cinnamon and Raisin Bagel",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bagel",
+    "item": "cinnamon and raisin bagel"
+  },
+  "assumptions": "Standard size (~100 g), commercially baked with raisins, cinnamon, no toppings; values based on average brand like Thomas' or generic.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "One cinnamon and raisin bagel has ~290 kcal, mostly from carbs with some natural sugars from raisins."
+  },
+  "basis": {
+    "label": "per 1 bagel",
+    "amount": 1,
+    "unit": "bagel",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 58,
+      "fiber_g": 2.5,
+      "sugars_g": 7,
+      "protein_g": 10,
+      "fat_g": 1.5,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 370
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 58,
+    "fiber_g": 2.5,
+    "sugars_g": 7,
+    "protein_g": 10,
+    "fat_g": 1.5,
+    "sat_fat_g": 0.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 370
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Toasted with 1 tsp butter",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 324
+    },
+    {
+      "label": "Topped with 2 tbsp cream cheese",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Homemade with less sugar (reduce raisins)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cinnamon and raisin bagel?",
+      "a": "Approximately 290 kcal for a standard size."
+    },
+    {
+      "q": "What are the carbs in a cinnamon raisin bagel?",
+      "a": "About 58 g total carbs, including 2.5 g fiber and 7 g sugars from raisins."
+    },
+    {
+      "q": "Is a cinnamon raisin bagel high in protein?",
+      "a": "It provides 10 g protein per bagel, moderate for a carb-focused item."
+    },
+    {
+      "q": "How does cinnamon raisin compare to plain bagel calories?",
+      "a": "Similar base (~270 kcal), but raisins add ~20 kcal from natural sugars."
+    },
+    {
+      "q": "What's the sodium in cinnamon and raisin bagels?",
+      "a": "Around 370 mg per bagel, varying by brand and added salt."
+    }
+  ]
+}

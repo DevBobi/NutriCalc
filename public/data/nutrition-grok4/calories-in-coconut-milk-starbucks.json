@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in coconut milk starbucks",
+  "title": "Calories in Starbucks Coconut Milk",
+  "meta_description": "Discover calories in coconut milk Starbucks per 4 oz serving, including fat, carbs, protein, and nutrition facts for this dairy-free option.",
+  "slug": "calories-in-coconut-milk-starbucks",
+  "h1": "Calories in Starbucks Coconut Milk",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 1,
+    "unit": "4 fl oz serving",
+    "item": "Starbucks coconut milk"
+  },
+  "assumptions": "Unsweetened coconut milk beverage from Starbucks, per 4 fl oz (118 ml) serving; no additives.",
+  "disclaimer": "Nutrition varies by batch, supplier, and exact formulation. Check Starbucks app or packaging for latest info.",
+  "quick_answer": {
+    "total_kcal": 45,
+    "text": "A 4 fl oz serving of Starbucks coconut milk contains 45 calories and 4.5 g fat."
+  },
+  "basis": {
+    "label": "per 4 fl oz serving",
+    "amount": 1,
+    "unit": "4 fl oz serving",
+    "nutrition": {
+      "calories_kcal": 45,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 4.5,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 25
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 45,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 4.5,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 25
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.19
+  },
+  "tweaks": [
+    {
+      "label": "Sweetened version (add 1 tsp sugar per serving)",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 61
+    },
+    {
+      "label": "Double serving (8 fl oz for a full drink pour)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Homemade coconut milk (full-fat canned, diluted)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 65
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in coconut milk Starbucks per serving?",
+      "a": "45 calories in a 4 fl oz serving of Starbucks coconut milk."
+    },
+    {
+      "q": "Is Starbucks coconut milk low carb?",
+      "a": "Yes, only 1 g carbs per 4 fl oz serving, with 0 g sugars."
+    },
+    {
+      "q": "What's the fat content in Starbucks coconut milk?",
+      "a": "4.5 g total fat, including 4 g saturated fat, per 4 fl oz serving."
+    },
+    {
+      "q": "Does Starbucks coconut milk have protein?",
+      "a": "No protein (0 g) in a 4 fl oz serving; it's a plant-based milk."
+    },
+    {
+      "q": "How does Starbucks coconut milk compare to dairy milk calories?",
+      "a": "Lower at 45 kcal vs. ~60 kcal for 2% dairy milk per 4 fl oz."
+    }
+  ]
+}

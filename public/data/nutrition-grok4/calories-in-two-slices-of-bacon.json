@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in two slices of bacon",
+  "title": "Calories in Two Slices of Bacon",
+  "meta_description": "Discover calories in two slices of bacon, including full nutrition breakdown like fat, protein, sodium, and easy tweaks for variations.",
+  "slug": "calories-in-two-slices-of-bacon",
+  "h1": "Calories in Two Slices of Bacon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 2,
+    "unit": "slice",
+    "item": "bacon"
+  },
+  "assumptions": "Standard pork bacon, pan-fried until crisp; average slice ~8 g uncooked weight.",
+  "disclaimer": "Nutrition varies by brand, thickness, cooking method, and fat drainage. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 86,
+    "text": "Two slices of pan-fried bacon provide ~86 kcal and ~6 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 43,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 3.3,
+      "sat_fat_g": 1.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 9,
+      "sodium_mg": 192
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 86,
+    "carbs_g": 0.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 6,
+    "fat_g": 6.6,
+    "sat_fat_g": 2.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 18,
+    "sodium_mg": 384
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.36
+  },
+  "tweaks": [
+    {
+      "label": "Use turkey bacon instead",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 46
+    },
+    {
+      "label": "Add 1 tsp maple syrup per slice",
+      "delta_kcal_per_unit": 17,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Oven-baked with less oil drained",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 76
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of bacon?",
+      "a": "About 43 kcal per slice of pan-fried pork bacon."
+    },
+    {
+      "q": "What's the fat content in two slices of bacon?",
+      "a": "Approximately 6.6 g total fat, including 2.2 g saturated."
+    },
+    {
+      "q": "Does cooking method affect calories in bacon?",
+      "a": "Yes—frying retains more fat than baking or microwaving with drainage."
+    },
+    {
+      "q": "How much sodium is in two slices of bacon?",
+      "a": "Around 384 mg, which is notable for low-sodium diets."
+    },
+    {
+      "q": "Are there low-calorie bacon alternatives?",
+      "a": "Turkey or plant-based bacon options can cut calories by 20–50% per slice."
+    }
+  ]
+}

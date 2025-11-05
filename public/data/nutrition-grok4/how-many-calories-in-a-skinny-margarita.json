@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a skinny margarita",
+  "title": "How Many Calories in a Skinny Margarita?",
+  "meta_description": "Discover how many calories in a skinny margarita, including carbs, sugars, and full nutrition breakdown per serving with recipe tweaks.",
+  "slug": "how-many-calories-in-a-skinny-margarita",
+  "h1": "How Many Calories in a Skinny Margarita?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "margarita",
+    "item": "skinny margarita"
+  },
+  "assumptions": "Standard recipe: 1.5 oz tequila, 1 oz fresh lime juice, 0.5 oz agave nectar or low-cal sweetener, shaken with ice, no sugary mixer or salt rim.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, brands, pour sizes, and preparation; alcohol content affects totals. Consult labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "A skinny margarita typically contains about 110 calories, mostly from tequila and a touch of agave."
+  },
+  "basis": {
+    "label": "per 1 skinny margarita",
+    "amount": 1,
+    "unit": "margarita",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 9.5,
+      "fiber_g": 0.2,
+      "sugars_g": 7.8,
+      "protein_g": 0.2,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 9.5,
+    "fiber_g": 0.2,
+    "sugars_g": 7.8,
+    "protein_g": 0.2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Use zero-calorie sweetener instead of agave",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Add a salted rim",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Top with soda water for a lighter version",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a skinny margarita?",
+      "a": "Approximately 110 calories per serving with fresh ingredients and minimal sweetener."
+    },
+    {
+      "q": "What's the difference in calories between skinny and regular margarita?",
+      "a": "A regular margarita has 200-300 calories due to sugary mixers; skinny cuts it by using fresh juice and less sugar."
+    },
+    {
+      "q": "Are there carbs in a skinny margarita?",
+      "a": "Yes, about 9.5 g carbs, mainly from lime juice and agave, with 7.8 g sugars."
+    },
+    {
+      "q": "Does a skinny margarita have fat or protein?",
+      "a": "Negligible fat (0 g) and protein (0.2 g); it's primarily alcohol and carbs."
+    },
+    {
+      "q": "How to make a lower-calorie skinny margarita?",
+      "a": "Swap agave for stevia or use more lime and less tequila to reduce calories further."
+    }
+  ]
+}

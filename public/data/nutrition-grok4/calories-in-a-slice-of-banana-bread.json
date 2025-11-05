@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a slice of banana bread",
+  "title": "Calories in a Slice of Banana Bread",
+  "meta_description": "Discover calories in a slice of banana bread, including carbs, protein, fat, and full nutrition breakdown per slice with easy tweaks.",
+  "slug": "calories-in-a-slice-of-banana-bread",
+  "h1": "Calories in a Slice of Banana Bread",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "banana bread"
+  },
+  "assumptions": "Standard slice (~70 g), typical homemade recipe with mashed bananas, flour, sugar, eggs, butter; baked without nuts or add-ins.",
+  "disclaimer": "Nutrition varies by recipe, portion size, ingredients, and baking method. Check labels for store-bought varieties.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A typical slice of banana bread contains about 250 kcal, with high carbs from bananas and sugar."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 35,
+      "fiber_g": 1.5,
+      "sugars_g": 20,
+      "protein_g": 3.5,
+      "fat_g": 10,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 35,
+    "fiber_g": 1.5,
+    "sugars_g": 20,
+    "protein_g": 3.5,
+    "fat_g": 10,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add 1/4 cup walnuts per loaf (adds ~20 kcal per slice)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Use applesauce instead of butter (reduces ~30 kcal per slice)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Whole wheat flour version (minimal change, adds fiber but similar calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 250
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a slice of banana bread?",
+      "a": "Approximately 250 kcal for a standard 70 g slice."
+    },
+    {
+      "q": "What are the carbs in banana bread per slice?",
+      "a": "About 35 g carbs, including 20 g sugars and 1.5 g fiber."
+    },
+    {
+      "q": "Is banana bread high in fat?",
+      "a": "Yes, around 10 g fat per slice, mostly from butter, with 5 g saturated."
+    },
+    {
+      "q": "How does store-bought banana bread compare?",
+      "a": "Often higher in calories (300+ kcal/slice) due to added sugars and preservatives."
+    },
+    {
+      "q": "Can I make banana bread lower calorie?",
+      "a": "Yes, substitute oil with yogurt or reduce sugar to cut 20-50 kcal per slice."
+    }
+  ]
+}

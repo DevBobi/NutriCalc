@@ -1,92 +1,92 @@
 {
   "keyword": "calorie count in n out",
   "title": "Calorie Count in In-N-Out Hamburger",
-  "meta_description": "Discover the calorie count in n out hamburger, including full nutrition breakdown, macros, and tweaks for custom orders like Animal Style.",
+  "meta_description": "Discover the calorie count in In-N-Out hamburger, including full nutrition breakdown, macros, and variations for their classic menu item.",
   "slug": "calorie-count-in-n-out",
   "h1": "Calorie Count in In-N-Out Hamburger",
-  "updated": "2024-10-04",
+  "updated": "2024-10-05",
   "query": {
     "amount": 1,
-    "unit": "burger",
+    "unit": "hamburger",
     "item": "In-N-Out hamburger"
   },
-  "assumptions": "Standard In-N-Out hamburger: beef patty, bun, lettuce, tomato, onion, spread; no cheese or customizations.",
-  "disclaimer": "Nutrition varies by location, exact preparation, customizations, and portion sizes. Check In-N-Out's official app or site for latest info.",
+  "assumptions": "Standard single patty hamburger with bun, beef patty, lettuce, tomato, onion, and spread; no modifications.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations; values based on official In-N-Out data. Check app or menu for latest.",
   "quick_answer": {
     "total_kcal": 390,
-    "text": "One standard In-N-Out hamburger has about 390 calories and 16 g protein."
+    "text": "One In-N-Out hamburger has 390 kcal, with 16 g protein and 19 g fat."
   },
   "basis": {
     "label": "per 1 hamburger",
     "amount": 1,
-    "unit": "burger",
+    "unit": "hamburger",
     "nutrition": {
       "calories_kcal": 390,
       "carbs_g": 39,
-      "fiber_g": 3,
+      "fiber_g": 2,
       "sugars_g": 5,
       "protein_g": 16,
       "fat_g": 19,
       "sat_fat_g": 7,
       "trans_fat_g": 0.5,
       "cholesterol_mg": 35,
-      "sodium_mg": 730
+      "sodium_mg": 670
     }
   },
   "nutrition_total": {
     "calories_kcal": 390,
     "carbs_g": 39,
-    "fiber_g": 3,
+    "fiber_g": 2,
     "sugars_g": 5,
     "protein_g": 16,
     "fat_g": 19,
     "sat_fat_g": 7,
     "trans_fat_g": 0.5,
     "cholesterol_mg": 35,
-    "sodium_mg": 730
+    "sodium_mg": 670
   },
-  "label_note": "Totals mirror Nutrition Facts fields for easy comparison with fast-food labels.",
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with fast food info.",
   "equivalents": {
     "megajoules": 1.63
   },
   "tweaks": [
     {
-      "label": "Animal Style (add cheese, grilled onions, extra spread)",
-      "delta_kcal_per_unit": 170,
-      "new_total_kcal": 560
+      "label": "Add cheese (Cheeseburger style)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 490
     },
     {
-      "label": "Protein Style (lettuce wrap instead of bun)",
+      "label": "Animal Style (extra spread, mustard, grilled onions)",
+      "delta_kcal_per_unit": 190,
+      "new_total_kcal": 580
+    },
+    {
+      "label": "Protein Style (lettuce wrap, no bun)",
       "delta_kcal_per_unit": -170,
       "new_total_kcal": 220
-    },
-    {
-      "label": "Double patty (vs. single)",
-      "delta_kcal_per_unit": 250,
-      "new_total_kcal": 640
     }
   ],
   "faqs_required_count": 5,
   "faqs": [
     {
-      "q": "What is the calorie count in n out cheeseburger?",
-      "a": "About 480 calories for a standard In-N-Out cheeseburger."
+      "q": "What is the calorie count in In-N-Out hamburger?",
+      "a": "Approximately 390 kcal for the standard hamburger."
     },
     {
-      "q": "How many calories in an In-N-Out Double-Double?",
-      "a": "Around 670 calories for the standard Double-Double with cheese."
+      "q": "How much protein is in an In-N-Out burger?",
+      "a": "About 16 g of protein per standard hamburger."
     },
     {
-      "q": "Are In-N-Out fries high in calories?",
-      "a": "Yes, a regular order of In-N-Out fries has about 395 calories."
+      "q": "Are In-N-Out calories high in sodium?",
+      "a": "Yes, around 670 mg sodium per hamburger due to the spread and bun."
     },
     {
-      "q": "What about calorie count in n out shake?",
-      "a": "A chocolate shake at In-N-Out is approximately 580 calories."
+      "q": "What changes the calorie count in In-N-Out items?",
+      "a": "Customizations like cheese, extra patties, or Animal Style add 100–200 kcal."
     },
     {
-      "q": "How does customizing affect calorie count in n out burgers?",
-      "a": "Add-ons like cheese or extra patties increase calories; swaps like protein style reduce them by removing the bun."
+      "q": "How do In-N-Out fries compare in calories?",
+      "a": "A medium order of fries has about 370 kcal, similar to the hamburger."
     }
   ]
 }

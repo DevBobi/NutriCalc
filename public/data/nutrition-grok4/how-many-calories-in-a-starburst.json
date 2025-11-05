@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a starburst",
+  "title": "How Many Calories in a Starburst?",
+  "meta_description": "Learn how many calories in a starburst – just 20 kcal per piece, plus carbs, sugars, full nutrition breakdown, and tweaks for variations.",
+  "slug": "how-many-calories-in-a-starburst",
+  "h1": "How Many Calories in a Starburst?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "piece",
+    "item": "Starburst"
+  },
+  "assumptions": "Standard fruit-flavored Starburst candy, one piece (approximately 4 g).",
+  "disclaimer": "Nutrition varies by flavor, manufacturer, batch, and exact size. Values are approximate; check packaging for precise info.",
+  "quick_answer": {
+    "total_kcal": 20,
+    "text": "A single Starburst piece has about 20 calories, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 Starburst piece",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 20,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sugars_g": 3.5,
+      "protein_g": 0,
+      "fat_g": 0.5,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 20,
+    "carbs_g": 4,
+    "fiber_g": 0,
+    "sugars_g": 3.5,
+    "protein_g": 0,
+    "fat_g": 0.5,
+    "sat_fat_g": 0.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Sugar-free Starburst version",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 15
+    },
+    {
+      "label": "Sour Starburst (slightly more intense flavor)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 22
+    },
+    {
+      "label": "Wrapped in chocolate (added coating per piece)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Starburst per piece?",
+      "a": "One standard Starburst piece has about 20 calories."
+    },
+    {
+      "q": "How many carbs in a Starburst?",
+      "a": "About 4 g of carbs per piece, nearly all from sugars."
+    },
+    {
+      "q": "Are Starbursts high in sugar?",
+      "a": "Yes, with around 3.5 g of sugars per piece."
+    },
+    {
+      "q": "How many calories in a pack of Starbursts?",
+      "a": "A standard 8-piece pack has about 160 calories."
+    },
+    {
+      "q": "Do different Starburst flavors vary in calories?",
+      "a": "Most flavors are similar at 20 kcal per piece, with minor differences."
+    }
+  ]
+}

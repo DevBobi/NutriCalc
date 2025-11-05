@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 12 of a whole watermelon",
+  "title": "How Many Calories in 12 oz Watermelon?",
+  "meta_description": "Learn how many calories in 12 oz of a whole watermelon, with full nutrition facts, macros, equivalents, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-in-12-of-a-whole-watermelon",
+  "h1": "How Many Calories in 12 oz Watermelon?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 12,
+    "unit": "oz",
+    "item": "watermelon"
+  },
+  "assumptions": "Raw, seedless watermelon flesh from a whole fruit; no rind, seeds, or added ingredients; ~340 g total weight.",
+  "disclaimer": "Nutrition varies by variety, ripeness, growing conditions, and portion (flesh only); check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 102,
+    "text": "12 oz of watermelon provides about 102 calories, mostly from natural sugars, with high water content for hydration."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 30,
+      "carbs_g": 7.6,
+      "fiber_g": 0.4,
+      "sugars_g": 6.2,
+      "protein_g": 0.6,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 102,
+    "carbs_g": 25.8,
+    "fiber_g": 1.4,
+    "sugars_g": 21.1,
+    "protein_g": 2,
+    "fat_g": 0.7,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.43
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar per 100 g",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 156
+    },
+    {
+      "label": "Include 10% rind (less water, slightly denser)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 111
+    },
+    {
+      "label": "Blended with 1 tbsp lime juice per 100 g",
+      "delta_kcal_per_unit": 4,
+      "new_total_kcal": 118
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 12 oz of a whole watermelon?",
+      "a": "Approximately 102 kcal for 12 oz (about 340 g) of raw watermelon flesh."
+    },
+    {
+      "q": "Is watermelon low in calories?",
+      "a": "Yes, only 30 kcal per 100 g, making it a hydrating, low-calorie fruit."
+    },
+    {
+      "q": "How much sugar in 12 oz watermelon?",
+      "a": "About 21 g of natural sugars, mostly fructose."
+    },
+    {
+      "q": "Does watermelon have fiber?",
+      "a": "Yes, around 1.4 g in 12 oz, aiding digestion."
+    },
+    {
+      "q": "How does watermelon compare to other fruits calorie-wise?",
+      "a": "Lower than bananas (89 kcal/100 g) or apples (52 kcal/100 g) due to high water content."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in banza pasta",
+  "title": "Calories in Banza Pasta",
+  "meta_description": "Discover calories in Banza pasta per serving, including protein, carbs, fiber, fat breakdown, and easy tweaks for your meals.",
+  "slug": "calories-in-banza-pasta",
+  "h1": "Calories in Banza Pasta",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Banza pasta"
+  },
+  "assumptions": "Chickpea-based pasta (e.g., penne or rotini), dry weight; standard Banza brand serving of 2 oz (56 g); no added ingredients.",
+  "disclaimer": "Nutrition varies by pasta shape, brand batch, and preparation method. Cooked weight increases due to water absorption but calories remain the same. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "One serving of Banza pasta (56 g dry) provides 190 kcal and 24 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving (56 g dry)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 32,
+      "fiber_g": 8,
+      "sugars_g": 4,
+      "protein_g": 24,
+      "fat_g": 4.5,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 30
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 32,
+    "fiber_g": 8,
+    "sugars_g": 4,
+    "protein_g": 24,
+    "fat_g": 4.5,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 30
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp olive oil for cooking per serving",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 310
+    },
+    {
+      "label": "Use with 1/2 cup marinara sauce per serving",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Double serving size (112 g dry)",
+      "delta_kcal_per_unit": 190,
+      "new_total_kcal": 380
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of Banza pasta?",
+      "a": "About 190 kcal per 56 g dry serving."
+    },
+    {
+      "q": "What's the protein content in Banza pasta?",
+      "a": "24 g protein per serving, higher than traditional wheat pasta."
+    },
+    {
+      "q": "Does Banza pasta have fiber?",
+      "a": "Yes, 8 g dietary fiber per serving from chickpeas."
+    },
+    {
+      "q": "Are calories the same for cooked Banza pasta?",
+      "a": "Calories stay at 190 per dry serving equivalent; cooked weight is higher due to water."
+    },
+    {
+      "q": "How does Banza pasta compare to regular pasta calories?",
+      "a": "Similar calories (190 vs. 200 for wheat), but more protein and fiber in Banza."
+    }
+  ]
+}

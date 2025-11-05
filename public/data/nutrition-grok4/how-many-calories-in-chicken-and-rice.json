@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in chicken and rice",
+  "title": "How Many Calories in Chicken and Rice?",
+  "meta_description": "Discover how many calories in chicken and rice for a standard serving, including full nutrition breakdown, protein, carbs, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-chicken-and-rice",
+  "h1": "How Many Calories in Chicken and Rice?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "chicken and rice"
+  },
+  "assumptions": "One serving: 150g cooked skinless chicken breast + 200g cooked white rice, plain grilled/boiled, no added oil, sauce, or seasonings.",
+  "disclaimer": "Nutrition varies by chicken cut, rice type, portion sizes, cooking method, and added ingredients. Check labels or recipes when available.",
+  "quick_answer": {
+    "total_kcal": 508,
+    "text": "A standard serving of chicken and rice provides ~508 kcal, with 52 g protein and 56 g carbs."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 508,
+      "carbs_g": 56,
+      "fiber_g": 1,
+      "sugars_g": 0,
+      "protein_g": 52,
+      "fat_g": 6,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 128,
+      "sodium_mg": 113
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 508,
+    "carbs_g": 56,
+    "fiber_g": 1,
+    "sugars_g": 0,
+    "protein_g": 52,
+    "fat_g": 6,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 128,
+    "sodium_mg": 113
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.13
+  },
+  "tweaks": [
+    {
+      "label": "Use brown rice instead of white",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 468
+    },
+    {
+      "label": "Add 1 tbsp soy sauce",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 518
+    },
+    {
+      "label": "Include 1 tsp olive oil in cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 548
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of chicken and rice?",
+      "a": "About 508 kcal for 150g chicken + 200g white rice."
+    },
+    {
+      "q": "What's the protein in chicken and rice?",
+      "a": "Roughly 52 g protein, mostly from the chicken breast."
+    },
+    {
+      "q": "Does chicken and rice have a lot of carbs?",
+      "a": "Yes, about 56 g carbs from the rice; choose brown rice for more fiber."
+    },
+    {
+      "q": "How to lower calories in chicken and rice?",
+      "a": "Reduce rice portion, use skinless chicken, or add veggies instead of sauce."
+    },
+    {
+      "q": "Is this for cooked or raw chicken and rice?",
+      "a": "Cooked weights; raw chicken shrinks ~25% when cooked."
+    }
+  ]
+}

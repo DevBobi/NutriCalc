@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in fat free cottage cheese",
+  "title": "Calories in Fat Free Cottage Cheese",
+  "meta_description": "Discover calories in fat free cottage cheese per 100g, including protein, carbs, fat, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-fat-free-cottage-cheese",
+  "h1": "Calories in Fat Free Cottage Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "fat free cottage cheese"
+  },
+  "assumptions": "Fat-free (0% milkfat), small curd, plain variety, no added flavors or fruits.",
+  "disclaimer": "Nutrition varies by brand, curd size, added ingredients, and processing; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 72,
+    "text": "100g of fat-free cottage cheese provides about 72 kcal and 10g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 72,
+      "carbs_g": 6.7,
+      "fiber_g": 0,
+      "sugars_g": 2.7,
+      "protein_g": 10.3,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 4,
+      "sodium_mg": 364
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 72,
+    "carbs_g": 6.7,
+    "fiber_g": 0,
+    "sugars_g": 2.7,
+    "protein_g": 10.3,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 4,
+    "sodium_mg": 364
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.3
+  },
+  "tweaks": [
+    {
+      "label": "Switch to 2% fat cottage cheese",
+      "delta_kcal_per_unit": 17,
+      "new_total_kcal": 89
+    },
+    {
+      "label": "Add 1 tbsp honey per 100g",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 93
+    },
+    {
+      "label": "Mix with 50g chopped pineapple",
+      "delta_kcal_per_unit": 12,
+      "new_total_kcal": 84
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g fat free cottage cheese?",
+      "a": "About 72 kcal per 100g."
+    },
+    {
+      "q": "What's the protein content in fat free cottage cheese?",
+      "a": "Approximately 10.3g protein per 100g."
+    },
+    {
+      "q": "Does fat free cottage cheese have carbs?",
+      "a": "Yes, about 6.7g carbs, including 2.7g sugars, per 100g."
+    },
+    {
+      "q": "How much sodium is in fat free cottage cheese?",
+      "a": "Around 364mg sodium per 100g; opt for low-sodium versions if needed."
+    },
+    {
+      "q": "Calories in 1 cup fat free cottage cheese?",
+      "a": "A 226g cup has about 163 kcal, scaled from per-100g values."
+    }
+  ]
+}

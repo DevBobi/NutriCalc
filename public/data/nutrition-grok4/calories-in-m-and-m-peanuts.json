@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in m and m peanuts",
+  "title": "Calories in M&M Peanuts",
+  "meta_description": "Discover calories in m and m peanuts per 100 g, including full nutrition breakdown with carbs, fats, protein, and serving tips for better tracking.",
+  "slug": "calories-in-m-and-m-peanuts",
+  "h1": "Calories in M&M Peanuts",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "M&M peanuts"
+  },
+  "assumptions": "Standard Peanut M&M's: dry-roasted peanuts coated in milk chocolate; no additional toppings or modifications.",
+  "disclaimer": "Nutrition varies by brand, batch, exact ingredients, and portion size. Always check product labels for precise information.",
+  "quick_answer": {
+    "total_kcal": 497,
+    "text": "100 g of M&M peanuts packs ~497 kcal, mostly from fats and sugars."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 497,
+      "carbs_g": 46.7,
+      "fiber_g": 3.3,
+      "sugars_g": 44.3,
+      "protein_g": 13.3,
+      "fat_g": 29.7,
+      "sat_fat_g": 11.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 18,
+      "sodium_mg": 71
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 497,
+    "carbs_g": 46.7,
+    "fiber_g": 3.3,
+    "sugars_g": 44.3,
+    "protein_g": 13.3,
+    "fat_g": 29.7,
+    "sat_fat_g": 11.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 18,
+    "sodium_mg": 71
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.08
+  },
+  "tweaks": [
+    {
+      "label": "Dark chocolate coating instead of milk",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 467
+    },
+    {
+      "label": "Plain dry-roasted peanuts (no chocolate)",
+      "delta_kcal_per_unit": -297,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Salted version (added salt)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 502
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in m and m peanuts per serving?",
+      "a": "A typical 30 g serving has about 149 kcal."
+    },
+    {
+      "q": "What are the macros for M&M peanuts?",
+      "a": "Per 100 g: 30 g fat, 47 g carbs (44 g sugars), 13 g protein."
+    },
+    {
+      "q": "Are M&M peanuts high in sugar?",
+      "a": "Yes, about 44 g sugars per 100 g, mostly from the chocolate coating."
+    },
+    {
+      "q": "How much protein in M&M peanuts?",
+      "a": "Around 13 g per 100 g, primarily from the peanuts."
+    },
+    {
+      "q": "Do M&M peanuts have trans fats?",
+      "a": "Typically 0 g trans fat per 100 g in standard varieties."
+    }
+  ]
+}

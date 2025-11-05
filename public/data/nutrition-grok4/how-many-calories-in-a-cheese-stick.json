@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a cheese stick",
+  "title": "How Many Calories in a Cheese Stick?",
+  "meta_description": "Discover how many calories in a cheese stick, including protein, fat, carbs, full nutrition breakdown, and simple tweaks for variations.",
+  "slug": "how-many-calories-in-a-cheese-stick",
+  "h1": "How Many Calories in a Cheese Stick?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "stick",
+    "item": "cheese stick"
+  },
+  "assumptions": "Standard mozzarella string cheese stick, 1 oz (28 g), pasteurized, no added flavors or coatings.",
+  "disclaimer": "Nutrition varies by brand, type (e.g., cheddar vs. mozzarella), size, and processing; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "A typical cheese stick contains about 80 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 cheese stick",
+    "amount": 1,
+    "unit": "stick",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 6,
+      "fat_g": 6,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 6,
+    "fat_g": 6,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat version (reduced fat mozzarella)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Add 1 tsp nuts for crunch per stick",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Cheddar cheese stick (vs. mozzarella)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cheese stick?",
+      "a": "About 80 kcal for a standard 1 oz mozzarella cheese stick."
+    },
+    {
+      "q": "Is a cheese stick high in protein?",
+      "a": "Yes, it provides around 6 g protein per stick."
+    },
+    {
+      "q": "What about fat content in a cheese stick?",
+      "a": "Typically 6 g total fat, including 4 g saturated fat."
+    },
+    {
+      "q": "Are cheese sticks low carb?",
+      "a": "Very low—only about 1 g carbs and 0 g fiber per stick."
+    },
+    {
+      "q": "Does brand affect calories in cheese sticks?",
+      "a": "Yes, low-fat brands may have 50-70 kcal, while full-fat can reach 90+ kcal."
+    }
+  ]
+}

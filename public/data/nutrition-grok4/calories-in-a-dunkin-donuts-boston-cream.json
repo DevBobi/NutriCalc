@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a dunkin donuts boston cream",
+  "title": "Calories in a Dunkin Donuts Boston Cream Donut",
+  "meta_description": "Discover calories in a dunkin donuts boston cream donut, including full nutrition breakdown, macros, and simple tweaks for variations.",
+  "slug": "calories-in-a-dunkin-donuts-boston-cream",
+  "h1": "Calories in a Dunkin Donuts Boston Cream Donut",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "donut",
+    "item": "Dunkin Donuts Boston Cream"
+  },
+  "assumptions": "Standard yeast donut filled with vanilla custard, topped with chocolate glaze; based on official Dunkin data, approx. 85g per donut.",
+  "disclaimer": "Nutrition varies by location, recipe changes, and serving size. Check Dunkin app or packaging for latest info.",
+  "quick_answer": {
+    "total_kcal": 300,
+    "text": "One Dunkin Boston Cream donut has about 300 kcal, with 39g carbs and 11g fat."
+  },
+  "basis": {
+    "label": "per 1 donut",
+    "amount": 1,
+    "unit": "donut",
+    "nutrition": {
+      "calories_kcal": 300,
+      "carbs_g": 39,
+      "fiber_g": 1,
+      "sugars_g": 17,
+      "protein_g": 4,
+      "fat_g": 11,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 260
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 300,
+    "carbs_g": 39,
+    "fiber_g": 1,
+    "sugars_g": 17,
+    "protein_g": 4,
+    "fat_g": 11,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 260
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.26
+  },
+  "tweaks": [
+    {
+      "label": "Gluten-free version (if available)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "No chocolate glaze topping",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Filled with low-fat custard",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Dunkin Boston Cream donut?",
+      "a": "Approximately 300 kcal per standard donut."
+    },
+    {
+      "q": "What are the carbs in a Dunkin Donuts Boston Cream?",
+      "a": "About 39g total carbs, including 17g sugars."
+    },
+    {
+      "q": "Is there protein in Dunkin Boston Cream donuts?",
+      "a": "Yes, around 4g protein per donut."
+    },
+    {
+      "q": "How much fat in a Dunkin Donuts Boston Cream?",
+      "a": "11g total fat, with 5g saturated fat."
+    },
+    {
+      "q": "Does Dunkin Boston Cream have cholesterol?",
+      "a": "0mg cholesterol, but sodium is about 260mg."
+    }
+  ]
+}

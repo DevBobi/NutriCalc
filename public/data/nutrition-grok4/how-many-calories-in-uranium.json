@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in uranium",
+  "title": "How Many Calories in Uranium?",
+  "meta_description": "Discover how many calories in uranium—spoiler: zero nutritional value as it's not food. Includes breakdown, assumptions, and why it's irrelevant for diets.",
+  "slug": "how-many-calories-in-uranium",
+  "h1": "How Many Calories in Uranium?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "unit",
+    "item": "uranium"
+  },
+  "assumptions": "Pure elemental uranium; not a food item—hypothetical analysis only; ingestion is dangerous and illegal without authorization.",
+  "disclaimer": "Uranium is radioactive and toxic, not edible. Nutrition data is zero as it provides no dietary energy. Consult experts for any handling; this is for informational purposes only.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "Uranium has 0 calories and no nutritional value—it's a heavy metal, not food."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values are zero as uranium offers no nutritional content and is not consumable.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "U-235 enriched isotope (vs. natural)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Depleted uranium (lower radioactivity)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Mixed with non-food binder (hypothetical)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in uranium?",
+      "a": "Zero—uranium provides no caloric energy as it's not a food source."
+    },
+    {
+      "q": "Is uranium nutritious?",
+      "a": "No, it's a toxic metal with no vitamins, minerals, or macros beneficial for health."
+    },
+    {
+      "q": "Why zero protein or fat in uranium?",
+      "a": "Uranium is an element, not organic; it contains no biological nutrients."
+    },
+    {
+      "q": "Can you eat uranium for energy?",
+      "a": "Absolutely not—it's radioactive and poisonous; seek medical help if exposed."
+    },
+    {
+      "q": "How does uranium compare to food calories?",
+      "a": "Unlike foods, uranium yields 0 kcal per gram; focus on actual edibles for nutrition."
+    }
+  ]
+}

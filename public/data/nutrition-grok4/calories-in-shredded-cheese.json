@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in shredded cheese",
+  "title": "Calories in Shredded Cheese",
+  "meta_description": "Learn calories in shredded cheese per 28g serving (about 1/4 cup), plus protein, fat, carbs, sodium, and easy tweaks for different varieties.",
+  "slug": "calories-in-shredded-cheese",
+  "h1": "Calories in Shredded Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 28,
+    "unit": "g",
+    "item": "shredded cheese"
+  },
+  "assumptions": "Cheddar cheese, shredded; standard mild variety, pasteurized, no added preservatives.",
+  "disclaimer": "Nutrition varies by cheese type, brand, fat content, and shredding method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 113,
+    "text": "28g of shredded cheddar cheese provides ~113 kcal and ~7g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 403,
+      "carbs_g": 1.3,
+      "fiber_g": 0,
+      "sugars_g": 0.3,
+      "protein_g": 25,
+      "fat_g": 33,
+      "sat_fat_g": 21,
+      "trans_fat_g": 1.2,
+      "cholesterol_mg": 99,
+      "sodium_mg": 621
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 113,
+    "carbs_g": 0.4,
+    "fiber_g": 0,
+    "sugars_g": 0.1,
+    "protein_g": 7,
+    "fat_g": 9.2,
+    "sat_fat_g": 5.9,
+    "trans_fat_g": 0.3,
+    "cholesterol_mg": 28,
+    "sodium_mg": 174
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.47
+  },
+  "tweaks": [
+    {
+      "label": "Switch to low-fat mozzarella (per 28g)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 73
+    },
+    {
+      "label": "Add 1 tsp butter when melting (per 28g)",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 149
+    },
+    {
+      "label": "Use pepper jack variety (spicier, per 28g)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 118
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1/4 cup shredded cheese?",
+      "a": "About 113 kcal for 28g of shredded cheddar cheese."
+    },
+    {
+      "q": "What's the protein in shredded cheese?",
+      "a": "Around 7g protein per 28g serving."
+    },
+    {
+      "q": "Does shredded cheese have carbs?",
+      "a": "Minimal—only 0.4g carbs per 28g, mostly from natural milk sugars."
+    },
+    {
+      "q": "How much fat is in shredded cheese?",
+      "a": "9.2g total fat per 28g, with 5.9g saturated."
+    },
+    {
+      "q": "Why is sodium high in shredded cheese?",
+      "a": "Natural from milk plus added salt; 174mg per 28g serving."
+    }
+  ]
+}

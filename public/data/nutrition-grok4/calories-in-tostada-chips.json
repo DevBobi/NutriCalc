@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in tostada chips",
+  "title": "Calories in Tostada Chips",
+  "meta_description": "Learn calories in tostada chips per 100 g, including carbs, fat, protein, sodium details, and preparation tweaks for better tracking.",
+  "slug": "calories-in-tostada-chips",
+  "h1": "Calories in Tostada Chips",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "tostada chips"
+  },
+  "assumptions": "Plain corn-based tostada chips, fried, no added salt, toppings, or dips; similar to standard tortilla chips.",
+  "disclaimer": "Nutrition varies by brand, frying method, corn type, and portion size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 502,
+    "text": "100 g of tostada chips provides ~502 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 502,
+      "carbs_g": 52.8,
+      "fiber_g": 4.9,
+      "sugars_g": 0.6,
+      "protein_g": 7,
+      "fat_g": 25,
+      "sat_fat_g": 3.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 569
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 502,
+    "carbs_g": 52.8,
+    "fiber_g": 4.9,
+    "sugars_g": 0.6,
+    "protein_g": 7,
+    "fat_g": 25,
+    "sat_fat_g": 3.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 569
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.1
+  },
+  "tweaks": [
+    {
+      "label": "Baked tostada chips (vs. fried)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 302
+    },
+    {
+      "label": "Add 1 tbsp guacamole per 100 g",
+      "delta_kcal_per_unit": 23,
+      "new_total_kcal": 525
+    },
+    {
+      "label": "Low-sodium version",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 502
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in tostada chips per serving?",
+      "a": "About 140 kcal in a typical 28 g (1 oz) serving."
+    },
+    {
+      "q": "Are tostada chips high in fat?",
+      "a": "Yes, ~25 g fat per 100 g, mostly from frying oil."
+    },
+    {
+      "q": "What's the carb content in tostada chips?",
+      "a": "Around 52.8 g carbs per 100 g, with 4.9 g fiber."
+    },
+    {
+      "q": "Do tostada chips have protein?",
+      "a": "Modest amount: ~7 g protein per 100 g."
+    },
+    {
+      "q": "How does sodium in tostada chips compare?",
+      "a": "569 mg per 100 g; opt for unsalted to reduce it."
+    }
+  ]
+}

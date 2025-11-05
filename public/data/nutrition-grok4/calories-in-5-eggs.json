@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 5 eggs",
+  "title": "Calories in 5 Eggs",
+  "meta_description": "Discover calories in 5 eggs, including protein, fat, carbs, full nutrition breakdown per egg, and simple tweaks for variations.",
+  "slug": "calories-in-5-eggs",
+  "h1": "Calories in 5 Eggs",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 5,
+    "unit": "egg",
+    "item": "egg"
+  },
+  "assumptions": "Large eggs (~50 g each), hard-boiled, no added salt, oil, or seasonings.",
+  "disclaimer": "Nutrition varies by egg size, brand, freshness, and preparation method. Check packaging or labels when available.",
+  "quick_answer": {
+    "total_kcal": 390,
+    "text": "Five large hard-boiled eggs provide ~390 kcal and ~31.5 g protein."
+  },
+  "basis": {
+    "label": "per 1 large hard-boiled egg",
+    "amount": 1,
+    "unit": "egg",
+    "nutrition": {
+      "calories_kcal": 78,
+      "carbs_g": 0.6,
+      "fiber_g": 0,
+      "sugars_g": 0.6,
+      "protein_g": 6.3,
+      "fat_g": 5.3,
+      "sat_fat_g": 1.6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 186,
+      "sodium_mg": 62
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 390,
+    "carbs_g": 3,
+    "fiber_g": 0,
+    "sugars_g": 3,
+    "protein_g": 31.5,
+    "fat_g": 26.5,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 930,
+    "sodium_mg": 310
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison with labels.",
+  "equivalents": {
+    "megajoules": 1.63
+  },
+  "tweaks": [
+    {
+      "label": "Fried in 1 tsp oil per egg",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 590
+    },
+    {
+      "label": "Egg whites only (discard yolks)",
+      "delta_kcal_per_unit": -61,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Scrambled with 1 tsp butter per egg",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 575
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one egg?",
+      "a": "About 78 kcal for one large hard-boiled egg."
+    },
+    {
+      "q": "What is the protein in 5 eggs?",
+      "a": "Approximately 31.5 g of protein."
+    },
+    {
+      "q": "Do eggs have a lot of cholesterol?",
+      "a": "Yes, five large eggs contain ~930 mg cholesterol, mostly in the yolks."
+    },
+    {
+      "q": "Calories in 5 eggs if fried?",
+      "a": "Around 590 kcal if fried in 1 tsp oil per egg, adding fat."
+    },
+    {
+      "q": "How does egg size affect calories in 5 eggs?",
+      "a": "Smaller eggs lower totals (e.g., ~300 kcal for medium); jumbo raise them (~480 kcal)."
+    }
+  ]
+}

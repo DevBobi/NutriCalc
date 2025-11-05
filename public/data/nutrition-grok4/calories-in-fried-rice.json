@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in fried rice",
+  "title": "Calories in Fried Rice",
+  "meta_description": "Discover calories in fried rice per serving, including carbs, protein, fat, sodium, and tips for variations like adding protein or reducing oil.",
+  "slug": "calories-in-fried-rice",
+  "h1": "Calories in Fried Rice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 200,
+    "unit": "g",
+    "item": "fried rice"
+  },
+  "assumptions": "Vegetable fried rice with eggs, cooked in vegetable oil; includes white rice, mixed veggies (carrots, peas), soy sauce; ~1 cup serving.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, portion size, oil used, and brand; homemade vs. restaurant differs. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 340,
+    "text": "200 g (about 1 cup) of vegetable fried rice contains ~340 kcal, mainly from carbs with moderate fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 170,
+      "carbs_g": 24,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 4,
+      "fat_g": 6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 340,
+    "carbs_g": 48,
+    "fiber_g": 2,
+    "sugars_g": 4,
+    "protein_g": 8,
+    "fat_g": 12,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.42
+  },
+  "tweaks": [
+    {
+      "label": "Add 50 g cooked chicken per 100 g rice",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "Use less oil (halve the 1 tbsp per 100 g)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Brown rice instead of white per 100 g",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 320
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup of fried rice?",
+      "a": "About 340 kcal for 200 g vegetable fried rice."
+    },
+    {
+      "q": "Is fried rice high in carbs?",
+      "a": "Yes, ~48 g carbs in 200 g, mostly from rice."
+    },
+    {
+      "q": "How much sodium is in fried rice?",
+      "a": "Around 800 mg in 200 g due to soy sauce; can vary."
+    },
+    {
+      "q": "Calories in restaurant vs. homemade fried rice?",
+      "a": "Restaurant often higher (400+ kcal per cup) from extra oil and portions."
+    },
+    {
+      "q": "Can I make fried rice lower calorie?",
+      "a": "Yes, use less oil, add more veggies, or choose brown rice to cut ~40-50 kcal per 100 g."
+    }
+  ]
+}

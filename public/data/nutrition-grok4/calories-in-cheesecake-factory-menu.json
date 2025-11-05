@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cheesecake factory menu",
+  "title": "Calories in Cheesecake Factory Menu Items",
+  "meta_description": "Discover calories in cheesecake factory menu items like Original Cheesecake (707 kcal per slice), plus macros, variations, and nutrition for popular dishes.",
+  "slug": "calories-in-cheesecake-factory-menu",
+  "h1": "Calories in Cheesecake Factory Menu Items",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "cheesecake factory original cheesecake"
+  },
+  "assumptions": "Standard 1 slice of Original Cheesecake (~155 g); menu values based on official data where available; other items vary by recipe and portion.",
+  "disclaimer": "Nutrition varies by specific menu item, portion size, customizations, and preparation. Check Cheesecake Factory's official nutrition guide for accuracy.",
+  "quick_answer": {
+    "total_kcal": 707,
+    "text": "A slice of Original Cheesecake from the Cheesecake Factory menu has 707 kcal, with high fat and sugar content."
+  },
+  "basis": {
+    "label": "per 1 slice Original Cheesecake",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 707,
+      "carbs_g": 59,
+      "fiber_g": 0,
+      "sugars_g": 48,
+      "protein_g": 9,
+      "fat_g": 45,
+      "sat_fat_g": 25,
+      "trans_fat_g": 1.5,
+      "cholesterol_mg": 195,
+      "sodium_mg": 510
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 707,
+    "carbs_g": 59,
+    "fiber_g": 0,
+    "sugars_g": 48,
+    "protein_g": 9,
+    "fat_g": 45,
+    "sat_fat_g": 25,
+    "trans_fat_g": 1.5,
+    "cholesterol_mg": 195,
+    "sodium_mg": 510
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison with menu labels.",
+  "equivalents": {
+    "megajoules": 2.96
+  },
+  "tweaks": [
+    {
+      "label": "Low-carb cheesecake variation",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 557
+    },
+    {
+      "label": "Add whipped cream topping",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 807
+    },
+    {
+      "label": "Godiva Chocolate Cheesecake (richer flavor)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 907
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a slice of Cheesecake Factory Original Cheesecake?",
+      "a": "About 707 kcal per slice."
+    },
+    {
+      "q": "What are calories in Cheesecake Factory pasta dishes?",
+      "a": "Varies; e.g., Chicken Madeira is ~1,300 kcal per serving."
+    },
+    {
+      "q": "Calories in Cheesecake Factory salad menu items?",
+      "a": "Factory Chopped Salad is around 1,150 kcal with dressing."
+    },
+    {
+      "q": "How calorie-dense are Cheesecake Factory burgers?",
+      "a": "A burger like the Factory Burger is about 1,260 kcal."
+    },
+    {
+      "q": "Are there low-calorie options on the Cheesecake Factory menu?",
+      "a": "Yes, like SkinnyLicious items (e.g., Tuscan Chicken under 600 kcal)."
+    }
+  ]
+}

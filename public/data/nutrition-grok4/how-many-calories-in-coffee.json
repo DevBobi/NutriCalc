@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in coffee",
+  "title": "How Many Calories Are in Coffee?",
+  "meta_description": "Discover how many calories in coffee (black, brewed), plus full nutrition breakdown, equivalents, and tweaks for additions like milk or sugar.",
+  "slug": "how-many-calories-in-coffee",
+  "h1": "How Many Calories Are in Coffee?",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "coffee"
+  },
+  "assumptions": "Black brewed coffee, 8 oz (240 ml) serving, no sugar, milk, or additives.",
+  "disclaimer": "Nutrition varies by brewing method, bean type, and serving size; additives significantly increase calories. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 2,
+    "text": "One cup of black coffee contains about 2 calories with negligible macros."
+  },
+  "basis": {
+    "label": "per 1 cup (8 oz)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 2,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 2,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.01
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 18
+    },
+    {
+      "label": "Add 2 tbsp whole milk",
+      "delta_kcal_per_unit": 18,
+      "new_total_kcal": 20
+    },
+    {
+      "label": "Add 1 tbsp heavy cream",
+      "delta_kcal_per_unit": 51,
+      "new_total_kcal": 53
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in black coffee?",
+      "a": "About 2 calories per 8 oz cup."
+    },
+    {
+      "q": "Does coffee have carbs or protein?",
+      "a": "Negligible—0 g carbs and 0.1 g protein per cup."
+    },
+    {
+      "q": "How do additives affect calories in coffee?",
+      "a": "Sugar adds ~16 kcal/tsp; milk or cream can add 10–50+ kcal per serving."
+    },
+    {
+      "q": "Is decaf coffee lower in calories?",
+      "a": "Similar to regular—about 2 kcal per cup, as calories come from the brew, not caffeine."
+    },
+    {
+      "q": "What about espresso or instant coffee calories?",
+      "a": "Espresso: ~2 kcal/shot; instant: ~2–5 kcal per cup, depending on preparation."
+    }
+  ]
+}

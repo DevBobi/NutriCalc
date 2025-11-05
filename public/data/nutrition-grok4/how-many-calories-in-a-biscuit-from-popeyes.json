@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a biscuit from popeyes",
+  "title": "How Many Calories in a Popeyes Biscuit?",
+  "meta_description": "Discover how many calories in a biscuit from Popeyes, including full nutrition breakdown, macros, and variations for your meal planning.",
+  "slug": "how-many-calories-in-a-biscuit-from-popeyes",
+  "h1": "How Many Calories in a Popeyes Biscuit?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "biscuit",
+    "item": "biscuit from Popeyes"
+  },
+  "assumptions": "Standard Popeyes buttermilk biscuit, freshly baked, no additional toppings or butter; based on official or average reported values (~58g per biscuit).",
+  "disclaimer": "Nutrition varies by location, batch, and exact recipe changes; fast food items can differ. Check Popeyes app or packaging for latest info.",
+  "quick_answer": {
+    "total_kcal": 230,
+    "text": "A single Popeyes biscuit contains about 230 calories and 4g protein."
+  },
+  "basis": {
+    "label": "per 1 biscuit",
+    "amount": 1,
+    "unit": "biscuit",
+    "nutrition": {
+      "calories_kcal": 230,
+      "carbs_g": 26,
+      "fiber_g": 1,
+      "sugars_g": 3,
+      "protein_g": 4,
+      "fat_g": 12,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 720
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 230,
+    "carbs_g": 26,
+    "fiber_g": 1,
+    "sugars_g": 3,
+    "protein_g": 4,
+    "fat_g": 12,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 720
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.96
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 pat of butter (5g)",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 266
+    },
+    {
+      "label": "Homemade low-fat version (no shortening)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "With honey packet added",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 290
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a biscuit from Popeyes?",
+      "a": "Approximately 230 calories per biscuit."
+    },
+    {
+      "q": "What's the fat content in a Popeyes biscuit?",
+      "a": "About 12g total fat, including 6g saturated fat."
+    },
+    {
+      "q": "Are Popeyes biscuits high in sodium?",
+      "a": "Yes, around 720mg sodium per biscuit due to salt in the recipe."
+    },
+    {
+      "q": "How many carbs in a Popeyes biscuit?",
+      "a": "Roughly 26g carbs, with 1g fiber and 3g sugars."
+    },
+    {
+      "q": "Does Popeyes biscuit have trans fat?",
+      "a": "Typically 0g trans fat, but check current menu as formulations change."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a fireball shooter",
+  "title": "How Many Calories in a Fireball Shooter?",
+  "meta_description": "Discover how many calories in a fireball shooter, including carbs, sugars, and alcohol content, with quick tweaks and FAQs for better understanding.",
+  "slug": "how-many-calories-in-a-fireball-shooter",
+  "h1": "How Many Calories in a Fireball Shooter?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shooter",
+    "item": "fireball"
+  },
+  "assumptions": "Standard 1.5 oz (44 ml) shot of Fireball Cinnamon Whisky (33% ABV), no mixers or garnishes.",
+  "disclaimer": "Nutrition varies by brand, exact pour size, and formulation; alcohol content affects calorie count. Consume responsibly and check labels.",
+  "quick_answer": {
+    "total_kcal": 108,
+    "text": "A standard Fireball shooter contains about 108 calories, mostly from alcohol and sugars."
+  },
+  "basis": {
+    "label": "per 1 shooter (1.5 oz)",
+    "amount": 1,
+    "unit": "shooter",
+    "nutrition": {
+      "calories_kcal": 108,
+      "carbs_g": 11,
+      "fiber_g": 0,
+      "sugars_g": 11,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 108,
+    "carbs_g": 11,
+    "fiber_g": 0,
+    "sugars_g": 11,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.45
+  },
+  "tweaks": [
+    {
+      "label": "Double shot (3 oz total)",
+      "delta_kcal_per_unit": 108,
+      "new_total_kcal": 216
+    },
+    {
+      "label": "Mixed with 4 oz soda (adds ~40 kcal from mixer)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 148
+    },
+    {
+      "label": "Chilled on ice (minimal change, but dilution reduces ~10 kcal)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 98
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one Fireball shooter?",
+      "a": "Approximately 108 calories for a standard 1.5 oz shot."
+    },
+    {
+      "q": "Does a Fireball shooter have carbs or sugars?",
+      "a": "Yes, about 11 g carbs, all from sugars, with no fiber or protein."
+    },
+    {
+      "q": "Are there any fats in Fireball whisky?",
+      "a": "No fats, saturated fats, or cholesterol in a pure Fireball shooter."
+    },
+    {
+      "q": "How does shot size affect calories in a fireball shooter?",
+      "a": "Larger pours increase calories proportionally; a 1 oz shot is ~72 kcal."
+    },
+    {
+      "q": "Is Fireball low-calorie compared to other shooters?",
+      "a": "Similar to many liqueurs at ~108 kcal per shot, but higher sugar than straight spirits."
+    }
+  ]
+}

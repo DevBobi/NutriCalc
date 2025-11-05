@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in hot chocolate",
+  "title": "How Many Calories Are in Hot Chocolate?",
+  "meta_description": "Discover how many calories in hot chocolate for a standard cup, including full nutrition breakdown, macros, and variations like low-fat options.",
+  "slug": "how-many-calories-in-hot-chocolate",
+  "h1": "How Many Calories Are in Hot Chocolate?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "hot chocolate"
+  },
+  "assumptions": "Standard 8 oz (240 ml) serving prepared with whole milk and cocoa mix; no added sugar, whipped cream, or marshmallows.",
+  "disclaimer": "Nutrition varies by milk type, brand of mix, added sweeteners, and serving size. Check product labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "A standard cup of hot chocolate provides about 190 kcal, with 25 g carbs and 8 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup (240 ml)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sugars_g": 23,
+      "protein_g": 8,
+      "fat_g": 8,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 110
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 25,
+    "fiber_g": 2,
+    "sugars_g": 23,
+    "protein_g": 8,
+    "fat_g": 8,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 110
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Made with skim milk instead of whole",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add 1 tbsp whipped cream",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 215
+    },
+    {
+      "label": "Use dark cocoa powder (less sugar)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in hot chocolate with whole milk?",
+      "a": "About 190 kcal per 8 oz cup using standard assumptions."
+    },
+    {
+      "q": "Is hot chocolate high in sugar?",
+      "a": "Yes, typically 23 g sugars per cup from milk and mix."
+    },
+    {
+      "q": "How many calories in low-fat hot chocolate?",
+      "a": "Around 140 kcal if made with skim milk."
+    },
+    {
+      "q": "What's the protein in a cup of hot chocolate?",
+      "a": "Approximately 8 g, mostly from the milk."
+    },
+    {
+      "q": "Does adding marshmallows increase calories in hot chocolate?",
+      "a": "Yes, 3-5 marshmallows add about 30-50 kcal."
+    }
+  ]
+}

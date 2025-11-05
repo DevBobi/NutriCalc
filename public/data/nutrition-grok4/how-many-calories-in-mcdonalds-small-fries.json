@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in mcdonalds small fries",
+  "title": "How Many Calories in McDonald's Small Fries?",
+  "meta_description": "Learn how many calories in McDonald's small fries (about 230 kcal), plus carbs, fat, protein, sodium, and quick tweaks for variations.",
+  "slug": "how-many-calories-in-mcdonalds-small-fries",
+  "h1": "How Many Calories in McDonald's Small Fries?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small serving",
+    "item": "McDonald's fries"
+  },
+  "assumptions": "McDonald's small order french fries (approx. 71g), fried in vegetable oil blend, standard preparation per official nutrition data.",
+  "disclaimer": "Nutrition varies by location, batch, and customizations; values based on U.S. standard. Check McDonald's app or site for latest.",
+  "quick_answer": {
+    "total_kcal": 230,
+    "text": "A small serving of McDonald's fries contains about 230 calories and 29g carbs."
+  },
+  "basis": {
+    "label": "per small serving",
+    "amount": 1,
+    "unit": "small fries",
+    "nutrition": {
+      "calories_kcal": 230,
+      "carbs_g": 29,
+      "fiber_g": 1.4,
+      "sugars_g": 0,
+      "protein_g": 2.7,
+      "fat_g": 11,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 160
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 230,
+    "carbs_g": 29,
+    "fiber_g": 1.4,
+    "sugars_g": 0,
+    "protein_g": 2.7,
+    "fat_g": 11,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 160
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.96
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet ketchup (10g)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Air-fried homemade version (similar size, no oil)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Top with 1 slice American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in McDonald's small fries?",
+      "a": "Approximately 230 calories per small serving."
+    },
+    {
+      "q": "What are the carbs in McDonald's small fries?",
+      "a": "About 29g total carbs, including 1.4g fiber and 0g sugars."
+    },
+    {
+      "q": "How much fat is in a small McDonald's fries?",
+      "a": "11g total fat, with 1.5g saturated fat and 0g trans fat."
+    },
+    {
+      "q": "Are McDonald's small fries high in sodium?",
+      "a": "Yes, around 160mg sodium per small serving."
+    },
+    {
+      "q": "How does small compare to medium McDonald's fries calories?",
+      "a": "Medium has about 340 calories; small is lower at 230."
+    }
+  ]
+}

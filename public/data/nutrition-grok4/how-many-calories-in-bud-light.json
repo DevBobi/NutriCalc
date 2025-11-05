@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in bud light",
+  "title": "How Many Calories in Bud Light?",
+  "meta_description": "Learn how many calories in Bud Light per 12 oz bottle, including carbs, protein, sodium, and full nutrition breakdown for easy tracking.",
+  "slug": "how-many-calories-in-bud-light",
+  "h1": "How Many Calories in Bud Light?",
+  "updated": "2024-10-07",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "Bud Light"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) bottle of Bud Light lager beer, chilled, no additives.",
+  "disclaimer": "Nutrition varies by batch, serving size, and brand specifics; alcohol content affects values. Check labels or official sources when available.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "One 12 oz Bud Light bottle contains 110 calories and 6.6 g of carbs."
+  },
+  "basis": {
+    "label": "per 12 fl oz bottle",
+    "amount": 1,
+    "unit": "bottle",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 6.6,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.9,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 6.6,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.9,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Switch to regular Budweiser (per 12 oz)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 145
+    },
+    {
+      "label": "Add 1 oz fresh lime juice",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 118
+    },
+    {
+      "label": "In a 16 oz serving (scaled up)",
+      "delta_kcal_per_unit": 47,
+      "new_total_kcal": 157
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Bud Light bottle?",
+      "a": "About 110 calories per 12 oz bottle."
+    },
+    {
+      "q": "Are there carbs in Bud Light?",
+      "a": "Yes, approximately 6.6 g of carbohydrates per 12 oz serving."
+    },
+    {
+      "q": "How much protein is in Bud Light?",
+      "a": "Roughly 0.9 g of protein per 12 oz bottle."
+    },
+    {
+      "q": "Does Bud Light have fat or cholesterol?",
+      "a": "No fat or cholesterol; it's 0 g for both per serving."
+    },
+    {
+      "q": "How does Bud Light compare calorie-wise to other beers?",
+      "a": "Bud Light is lower at 110 kcal per 12 oz compared to many regulars around 140-150 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a tuna subway sandwich",
+  "title": "Calories in a Tuna Subway Sandwich",
+  "meta_description": "Discover calories in a tuna subway sandwich, including macros like protein and fat, plus tweaks and FAQs for Subway's 6-inch tuna sub.",
+  "slug": "calories-in-a-tuna-subway-sandwich",
+  "h1": "Calories in a Tuna Subway Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "tuna subway sandwich"
+  },
+  "assumptions": "6-inch Subway Tuna sub on white bread with tuna salad (mayo-based), lettuce, tomatoes, onions, cucumbers, bell peppers; no cheese or extra sauces.",
+  "disclaimer": "Nutrition varies by location, customizations, bread type, portion size, and exact ingredients. Check Subway's app or nutrition guide for latest values.",
+  "quick_answer": {
+    "total_kcal": 480,
+    "text": "A standard 6-inch Tuna Subway sandwich provides ~480 kcal and ~20 g protein."
+  },
+  "basis": {
+    "label": "per 1 6-inch sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 480,
+      "carbs_g": 44,
+      "fiber_g": 5,
+      "sugars_g": 5,
+      "protein_g": 20,
+      "fat_g": 25,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 480,
+    "carbs_g": 44,
+    "fiber_g": 5,
+    "sugars_g": 5,
+    "protein_g": 20,
+    "fat_g": 25,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 850
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.01
+  },
+  "tweaks": [
+    {
+      "label": "Add provolone cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Switch to whole wheat bread",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 470
+    },
+    {
+      "label": "No mayo (light tuna only)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 380
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 6-inch tuna Subway sandwich?",
+      "a": "Approximately 480 kcal for a standard 6-inch tuna sub with veggies."
+    },
+    {
+      "q": "What's the protein in a tuna Subway sandwich?",
+      "a": "About 20 g protein per 6-inch sandwich, mainly from the tuna."
+    },
+    {
+      "q": "Does a tuna Subway sandwich have a lot of sodium?",
+      "a": "Yes, around 850 mg due to the tuna salad and bread—watch if on a low-sodium diet."
+    },
+    {
+      "q": "Calories in a footlong tuna Subway sandwich?",
+      "a": "Roughly double, about 960 kcal for a footlong version."
+    },
+    {
+      "q": "How to lower calories in a tuna Subway sandwich?",
+      "a": "Opt for no mayo, extra veggies, whole wheat bread, or a smaller size to reduce by 50-100 kcal."
+    }
+  ]
+}

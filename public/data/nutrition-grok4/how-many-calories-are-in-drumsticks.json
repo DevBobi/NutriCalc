@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in drumsticks",
+  "title": "How Many Calories Are in Drumsticks?",
+  "meta_description": "Discover how many calories are in drumsticks (2 medium roasted chicken drumsticks), plus full nutrition breakdown, protein, fat, and easy tweaks for your meal.",
+  "slug": "how-many-calories-are-in-drumsticks",
+  "h1": "How Many Calories Are in Drumsticks?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 2,
+    "unit": "drumstick",
+    "item": "chicken drumstick"
+  },
+  "assumptions": "Medium-sized chicken drumsticks with skin, roasted without added oil or sauce; ~75g each with bone (~62g edible).",
+  "disclaimer": "Nutrition varies by size, cooking method, skin removal, and seasonings. Check labels or use a tracker for precision.",
+  "quick_answer": {
+    "total_kcal": 344,
+    "text": "Two medium roasted chicken drumsticks provide ~344 kcal and ~37 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken drumstick",
+    "amount": 1,
+    "unit": "drumstick",
+    "nutrition": {
+      "calories_kcal": 172,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 18.5,
+      "fat_g": 10.2,
+      "sat_fat_g": 2.9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 93,
+      "sodium_mg": 82
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 344,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 37,
+    "fat_g": 20.4,
+    "sat_fat_g": 5.8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 186,
+    "sodium_mg": 164
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.44
+  },
+  "tweaks": [
+    {
+      "label": "Skinless (remove skin before cooking)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 224
+    },
+    {
+      "label": "Fried in oil (vs. roasted)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 504
+    },
+    {
+      "label": "Add 1 tbsp BBQ sauce per drumstick",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 404
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one chicken drumstick?",
+      "a": "About 172 kcal for one medium roasted drumstick with skin."
+    },
+    {
+      "q": "How many calories are in drumsticks without skin?",
+      "a": "Roughly 112 kcal per skinless roasted drumstick, saving ~60 kcal."
+    },
+    {
+      "q": "What is the protein in 2 drumsticks?",
+      "a": "Approximately 37 g protein from two medium roasted chicken drumsticks."
+    },
+    {
+      "q": "Do drumsticks have carbs?",
+      "a": "No significant carbs (0 g) in plain roasted chicken drumsticks."
+    },
+    {
+      "q": "How does cooking method affect calories in drumsticks?",
+      "a": "Roasted: ~172 kcal; fried adds ~80 kcal per drumstick due to oil absorption."
+    }
+  ]
+}

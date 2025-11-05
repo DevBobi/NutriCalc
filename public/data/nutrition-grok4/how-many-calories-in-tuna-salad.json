@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in tuna salad",
+  "title": "How Many Calories in Tuna Salad?",
+  "meta_description": "Discover how many calories in tuna salad per 100g, including protein, fat, carbs, sodium, and tips for lighter versions in this nutrition guide.",
+  "slug": "how-many-calories-in-tuna-salad",
+  "h1": "How Many Calories in Tuna Salad?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "tuna salad"
+  },
+  "assumptions": "Canned tuna in water (drained), mixed with regular mayonnaise, celery, onion, and salt; no added bread or extras.",
+  "disclaimer": "Nutrition varies by recipe, tuna type, mayo brand, portion size, and ingredients; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 192,
+    "text": "100g of tuna salad has about 192 calories, with 16.5g protein and 12.5g fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 192,
+      "carbs_g": 1.5,
+      "fiber_g": 0.3,
+      "sugars_g": 0.8,
+      "protein_g": 16.5,
+      "fat_g": 12.5,
+      "sat_fat_g": 2.1,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 35,
+      "sodium_mg": 450
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 192,
+    "carbs_g": 1.5,
+    "fiber_g": 0.3,
+    "sugars_g": 0.8,
+    "protein_g": 16.5,
+    "fat_g": 12.5,
+    "sat_fat_g": 2.1,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 35,
+    "sodium_mg": 450
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Use light mayonnaise instead of regular",
+      "delta_kcal_per_unit": -35,
+      "new_total_kcal": 157
+    },
+    {
+      "label": "Add 50g chopped celery and reduce mayo",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 172
+    },
+    {
+      "label": "Substitute mayo with Greek yogurt",
+      "delta_kcal_per_unit": -45,
+      "new_total_kcal": 147
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in tuna salad per serving?",
+      "a": "About 192 kcal per 100g serving of basic tuna salad."
+    },
+    {
+      "q": "Is tuna salad high in protein?",
+      "a": "Yes, 100g provides around 16.5g protein from the tuna."
+    },
+    {
+      "q": "How much fat is in tuna salad?",
+      "a": "Typically 12.5g total fat per 100g, mostly from mayonnaise."
+    },
+    {
+      "q": "Can I make tuna salad lower calorie?",
+      "a": "Yes, swap mayo for yogurt or light mayo to cut 30-45 kcal per 100g."
+    },
+    {
+      "q": "What's the sodium in tuna salad?",
+      "a": "Around 450mg per 100g, varying by canned tuna and added salt."
+    }
+  ]
+}

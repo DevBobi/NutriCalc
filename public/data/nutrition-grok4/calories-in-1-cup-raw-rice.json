@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cup raw rice",
+  "title": "Calories in 1 Cup Raw Rice",
+  "meta_description": "Discover calories in 1 cup raw rice, including carbs, protein, fat, full nutrition breakdown per 100 g basis, and preparation tweaks for better meals.",
+  "slug": "calories-in-1-cup-raw-rice",
+  "h1": "Calories in 1 Cup Raw Rice",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "raw rice"
+  },
+  "assumptions": "Long-grain white rice, uncooked, unenriched; 1 cup ≈ 185 g.",
+  "disclaimer": "Nutrition varies by rice type, brand, processing, and measurement; check packaging when available.",
+  "quick_answer": {
+    "total_kcal": 675,
+    "text": "1 cup raw rice provides ~675 kcal, mostly from carbs, with ~13 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 365,
+      "carbs_g": 80,
+      "fiber_g": 1.3,
+      "sugars_g": 0.1,
+      "protein_g": 7.1,
+      "fat_g": 0.7,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 675,
+    "carbs_g": 148,
+    "fiber_g": 2.4,
+    "sugars_g": 0.2,
+    "protein_g": 13.1,
+    "fat_g": 1.3,
+    "sat_fat_g": 0.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 9
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.82
+  },
+  "tweaks": [
+    {
+      "label": "Switch to brown rice",
+      "delta_kcal_per_unit": 9,
+      "new_total_kcal": 684
+    },
+    {
+      "label": "Use basmati rice instead",
+      "delta_kcal_per_unit": -28,
+      "new_total_kcal": 647
+    },
+    {
+      "label": "Add 1 tsp vegetable oil per cup",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 715
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup raw rice?",
+      "a": "About 675 kcal for 1 cup (185 g) long-grain white raw rice."
+    },
+    {
+      "q": "What's the carb content in 1 cup raw rice?",
+      "a": "Approximately 148 g carbs, with 2.4 g fiber and minimal sugars."
+    },
+    {
+      "q": "Does raw rice have protein?",
+      "a": "Yes, ~13 g protein per cup, making it a decent plant-based source."
+    },
+    {
+      "q": "How do calories change when rice is cooked?",
+      "a": "Cooked rice has fewer calories per cup (~200 kcal) due to water absorption; raw expands 3x when cooked."
+    },
+    {
+      "q": "Is brown rice lower in calories than white raw rice?",
+      "a": "Similar—brown is ~684 kcal per cup, but higher in fiber (about 7 g per cup)."
+    }
+  ]
+}

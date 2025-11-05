@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a teaspoon of peanut butter",
+  "title": "Calories in a Teaspoon of Peanut Butter",
+  "meta_description": "Discover calories in a teaspoon of peanut butter, including full nutrition breakdown, protein, fats, carbs, and simple tweaks for variations.",
+  "slug": "calories-in-a-teaspoon-of-peanut-butter",
+  "h1": "Calories in a Teaspoon of Peanut Butter",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "teaspoon",
+    "item": "peanut butter"
+  },
+  "assumptions": "Smooth, natural peanut butter; unsalted, no added sugars or oils; approximately 5 g per teaspoon.",
+  "disclaimer": "Nutrition varies by brand, type (natural vs. processed), ingredients, and measurement accuracy. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 32,
+    "text": "One teaspoon of peanut butter contains about 32 kcal and 1.3 g protein."
+  },
+  "basis": {
+    "label": "per 1 teaspoon",
+    "amount": 1,
+    "unit": "teaspoon",
+    "nutrition": {
+      "calories_kcal": 32,
+      "carbs_g": 1.2,
+      "fiber_g": 0.4,
+      "sugars_g": 0.3,
+      "protein_g": 1.3,
+      "fat_g": 2.9,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 20
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 32,
+    "carbs_g": 1.2,
+    "fiber_g": 0.4,
+    "sugars_g": 0.3,
+    "protein_g": 1.3,
+    "fat_g": 2.9,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 20
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.13
+  },
+  "tweaks": [
+    {
+      "label": "Chunky peanut butter (with peanut pieces)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 34
+    },
+    {
+      "label": "With added sugar (commercial brand)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 37
+    },
+    {
+      "label": "Low-fat version (reduced oil)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 22
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a teaspoon of natural peanut butter?",
+      "a": "About 32 kcal for natural, unsalted peanut butter."
+    },
+    {
+      "q": "What's the protein in one teaspoon of peanut butter?",
+      "a": "Roughly 1.3 g of protein per teaspoon."
+    },
+    {
+      "q": "Does peanut butter have a lot of fat?",
+      "a": "Yes, about 2.9 g total fat per teaspoon, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "How much sodium in peanut butter per teaspoon?",
+      "a": "Around 20 mg for unsalted; salted versions can have 50-100 mg more."
+    },
+    {
+      "q": "Is peanut butter keto-friendly in small amounts?",
+      "a": "Yes, low carbs (1.2 g per teaspoon) make it suitable, but watch portions for calorie control."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in starbucks double smoked bacon",
+  "title": "Calories in Starbucks Double Smoked Bacon Sandwich",
+  "meta_description": "Discover calories in Starbucks double smoked bacon sandwich (Double-Smoked Bacon, Cheddar & Egg), plus full nutrition breakdown, macros, and tweaks for your order.",
+  "slug": "calories-in-starbucks-double-smoked-bacon",
+  "h1": "Calories in Starbucks Double Smoked Bacon Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "double smoked bacon cheddar egg sandwich"
+  },
+  "assumptions": "Standard Starbucks Double-Smoked Bacon, Cheddar & Egg Sandwich: ciabatta roll, egg, double smoked bacon, cheddar cheese; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations. Values based on Starbucks standard; check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 580,
+    "text": "One Starbucks Double-Smoked Bacon, Cheddar & Egg Sandwich provides 580 kcal and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 580,
+      "carbs_g": 41,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 25,
+      "fat_g": 28,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 225,
+      "sodium_mg": 1130
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 580,
+    "carbs_g": 41,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 25,
+    "fat_g": 28,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 225,
+    "sodium_mg": 1130
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with Starbucks menu info.",
+  "equivalents": {
+    "megajoules": 2.43
+  },
+  "tweaks": [
+    {
+      "label": "Remove cheddar cheese",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 480
+    },
+    {
+      "label": "Add egg whites only (remove yolk)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Substitute whole wheat English muffin for ciabatta",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 560
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Starbucks double smoked bacon sandwich?",
+      "a": "580 calories for the standard Double-Smoked Bacon, Cheddar & Egg Sandwich."
+    },
+    {
+      "q": "What is the protein in Starbucks double smoked bacon?",
+      "a": "About 25 g protein per sandwich."
+    },
+    {
+      "q": "How much sodium in Starbucks double smoked bacon sandwich?",
+      "a": "Approximately 1130 mg sodium."
+    },
+    {
+      "q": "Are there carbs in Starbucks double smoked bacon?",
+      "a": "Yes, 41 g total carbs, including 2 g fiber and 3 g sugars."
+    },
+    {
+      "q": "Can I make Starbucks double smoked bacon lower calorie?",
+      "a": "Yes, remove cheese to save ~100 kcal or swap bread for a lighter option."
+    }
+  ]
+}

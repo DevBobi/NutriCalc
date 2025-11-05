@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a whole watermelon",
+  "title": "How Many Calories Are in a Whole Watermelon?",
+  "meta_description": "Discover how many calories in a whole watermelon (about 5 kg edible flesh), plus carbs, sugars, full nutrition breakdown, and variations for different sizes.",
+  "slug": "how-many-calories-in-a-whole-watermelon",
+  "h1": "How Many Calories Are in a Whole Watermelon?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "whole",
+    "item": "watermelon"
+  },
+  "assumptions": "Medium seedless watermelon, approximately 5 kg (11 lbs) total weight with ~80% edible red flesh; ripe, raw, no added sweeteners.",
+  "disclaimer": "Nutrition varies by variety, size, ripeness, and whether seeds or rind are included. Values based on edible portion; check produce labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 1500,
+    "text": "A whole medium watermelon provides about 1500 calories, primarily from natural sugars and water content."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 30,
+      "carbs_g": 7.6,
+      "fiber_g": 0.4,
+      "sugars_g": 6.2,
+      "protein_g": 0.6,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1500,
+    "carbs_g": 380,
+    "fiber_g": 20,
+    "sugars_g": 310,
+    "protein_g": 30,
+    "fat_g": 10,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 50
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 6.28
+  },
+  "tweaks": [
+    {
+      "label": "Smaller personal watermelon (~1 kg edible flesh)",
+      "delta_kcal_per_unit": -1200,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Larger watermelon (~10 kg edible flesh)",
+      "delta_kcal_per_unit": 1500,
+      "new_total_kcal": 3000
+    },
+    {
+      "label": "Seeded variety (adds ~10 g fiber but similar calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 1500
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a whole watermelon?",
+      "a": "About 1500 kcal for a medium 5 kg watermelon, based on edible flesh."
+    },
+    {
+      "q": "Is a whole watermelon low calorie?",
+      "a": "Yes, at ~30 kcal per 100 g, it's low density due to high water content, but totals add up for large fruits."
+    },
+    {
+      "q": "How much sugar in a whole watermelon?",
+      "a": "Around 310 g of natural sugars, mostly fructose, from the fruit's carbs."
+    },
+    {
+      "q": "Calories in watermelon per slice?",
+      "a": "A typical 1/8 slice (~600 g) has about 180 kcal; adjust based on total size."
+    },
+    {
+      "q": "Does watermelon size affect calorie count?",
+      "a": "Yes—smaller ones (1-2 kg) are 300-600 kcal; larger (8-10 kg) can exceed 2500 kcal."
+    }
+  ]
+}

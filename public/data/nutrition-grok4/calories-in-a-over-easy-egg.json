@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a over easy egg",
+  "title": "Calories in One Over Easy Egg",
+  "meta_description": "Discover calories in a over easy egg, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for your meal planning.",
+  "slug": "calories-in-a-over-easy-egg",
+  "h1": "Calories in One Over Easy Egg",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "egg",
+    "item": "over easy egg"
+  },
+  "assumptions": "Large egg (~50 g), fried in non-stick pan with minimal oil or spray; yolk runny, no added salt or toppings.",
+  "disclaimer": "Nutrition varies by egg size, frying method, added fats, and brand; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "One large over easy egg has about 90 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 large over easy egg",
+    "amount": 1,
+    "unit": "egg",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 0.4,
+      "fiber_g": 0,
+      "sugars_g": 0.2,
+      "protein_g": 6.3,
+      "fat_g": 7,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 185,
+      "sodium_mg": 70
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 0.4,
+    "fiber_g": 0,
+    "sugars_g": 0.2,
+    "protein_g": 6.3,
+    "fat_g": 7,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 185,
+    "sodium_mg": 70
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Fried in 1 tsp butter (vs. minimal oil)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 125
+    },
+    {
+      "label": "Egg whites only (discard yolk)",
+      "delta_kcal_per_unit": -65,
+      "new_total_kcal": 25
+    },
+    {
+      "label": "Add 1/4 tsp salt and pepper",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a over easy egg?",
+      "a": "Approximately 90 kcal for one large over easy egg."
+    },
+    {
+      "q": "What's the protein in one over easy egg?",
+      "a": "About 6.3 g of protein per large egg."
+    },
+    {
+      "q": "Does frying an egg over easy add many calories?",
+      "a": "Minimal added fat keeps it around 90 kcal; using butter or oil increases it."
+    },
+    {
+      "q": "How does over easy compare to boiled egg calories?",
+      "a": "Similar base (~78 kcal boiled), but frying adds ~12 kcal from minimal fat."
+    },
+    {
+      "q": "Is cholesterol high in over easy eggs?",
+      "a": "Yes, about 185 mg per large egg, mostly in the yolk."
+    }
+  ]
+}

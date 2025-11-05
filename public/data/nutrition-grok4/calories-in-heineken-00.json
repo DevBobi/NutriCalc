@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in heineken 00",
+  "title": "Calories in Heineken 0.0",
+  "meta_description": "Discover calories in Heineken 0.0 per bottle, including carbs, low alcohol facts, nutrition breakdown, and serving tweaks for your non-alcoholic beer choice.",
+  "slug": "calories-in-heineken-00",
+  "h1": "Calories in Heineken 0.0",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 330,
+    "unit": "ml",
+    "item": "Heineken 0.0"
+  },
+  "assumptions": "Standard 330 ml bottle of Heineken 0.0 non-alcoholic lager beer, chilled, no additives.",
+  "disclaimer": "Nutrition varies by batch, serving size, and regional formulations. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 69,
+    "text": "A 330 ml bottle of Heineken 0.0 contains about 69 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 21,
+      "carbs_g": 4.8,
+      "fiber_g": 0,
+      "sugars_g": 1.5,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 69,
+    "carbs_g": 15.8,
+    "fiber_g": 0,
+    "sugars_g": 5,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 17
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Add 50 ml orange juice per bottle",
+      "delta_kcal_per_unit": 22,
+      "new_total_kcal": 91
+    },
+    {
+      "label": "Switch to regular Heineken (alcoholic version) per bottle",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 119
+    },
+    {
+      "label": "Mix with diet tonic water (100 ml) per bottle",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Heineken 0.0 bottle?",
+      "a": "About 69 kcal in a standard 330 ml bottle."
+    },
+    {
+      "q": "What are the carbs in Heineken 0.0?",
+      "a": "Approximately 15.8 g carbs per 330 ml bottle, with 5 g sugars."
+    },
+    {
+      "q": "Is Heineken 0.0 low calorie compared to regular beer?",
+      "a": "Yes, at 69 kcal per bottle vs. around 140 kcal for regular Heineken."
+    },
+    {
+      "q": "Does Heineken 0.0 have protein or fat?",
+      "a": "Negligible—0 g protein and 0 g fat per serving."
+    },
+    {
+      "q": "How does serving size affect calories in Heineken 0.0?",
+      "a": "Per 100 ml: 21 kcal; scale up for larger pours like 500 ml (about 105 kcal)."
+    }
+  ]
+}

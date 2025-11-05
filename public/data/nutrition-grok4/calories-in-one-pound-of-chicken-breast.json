@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in one pound of chicken breast",
+  "title": "Calories in One Pound of Chicken Breast",
+  "meta_description": "Discover calories in one pound of chicken breast, including protein, fat, carbs breakdown per 100 g basis, totals, and preparation tweaks for accurate tracking.",
+  "slug": "calories-in-one-pound-of-chicken-breast",
+  "h1": "Calories in One Pound of Chicken Breast",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pound",
+    "item": "chicken breast"
+  },
+  "assumptions": "Skinless, boneless chicken breast, cooked (roasted or grilled), no sauce/oil added; 1 pound ≈ 454 g.",
+  "disclaimer": "Nutrition varies by brand, cut, cooking method, seasoning, water content, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 749,
+    "text": "One pound of cooked, skinless chicken breast provides ~749 kcal and ~141 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 31,
+      "fat_g": 3.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 74
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 749,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 141,
+    "fat_g": 16,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 386,
+    "sodium_mg": 336
+  },
+  "label_note": "Totals are scaled from the per-100 g basis and mirror Nutrition Facts fields.",
+  "equivalents": {
+    "megajoules": 3.13
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 931
+    },
+    {
+      "label": "Skin-on, roasted (vs. skinless) per 100 g",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 885
+    },
+    {
+      "label": "Breaded and fried (vs. grilled) per 100 g",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 1349
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pound of cooked chicken breast?",
+      "a": "Approximately 749 kcal for skinless, boneless, cooked without added fats."
+    },
+    {
+      "q": "What's the protein in one pound of chicken breast?",
+      "a": "About 141 g of protein, making it a high-protein option."
+    },
+    {
+      "q": "Are these calories for raw or cooked chicken breast?",
+      "a": "Cooked weight; raw would be higher due to water loss during cooking."
+    },
+    {
+      "q": "How does skin affect calories in chicken breast?",
+      "a": "Skin-on adds ~30 kcal per 100 g, increasing total to ~885 kcal per pound."
+    },
+    {
+      "q": "What are the macros per 100 g of chicken breast?",
+      "a": "165 kcal, 31 g protein, 3.6 g fat, 0 g carbs per 100 g cooked skinless."
+    }
+  ]
+}

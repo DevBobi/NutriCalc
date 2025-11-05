@@ -1,0 +1,92 @@
+{
+  "keyword": "does walking in place burn calories",
+  "title": "Does Walking in Place Burn Calories?",
+  "meta_description": "Does walking in place burn calories? Yes, discover how many calories it burns per session, factors affecting burn rate, and tips to maximize results for your fitness goals.",
+  "slug": "does-walking-in-place-burn-calories",
+  "h1": "Does Walking in Place Burn Calories?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 30,
+    "unit": "minutes",
+    "item": "walking in place"
+  },
+  "assumptions": "Moderate pace for a 70 kg (154 lb) adult; similar to light walking; no additional movements like arm swings.",
+  "disclaimer": "Calorie burn varies by body weight, intensity, duration, fitness level, and metabolism. Use a fitness tracker for personalized estimates.",
+  "quick_answer": {
+    "total_kcal": 105,
+    "text": "Yes, walking in place burns calories—about 105 kcal in 30 minutes for a 70 kg person at moderate pace."
+  },
+  "basis": {
+    "label": "per 30 minutes",
+    "amount": 30,
+    "unit": "minutes",
+    "nutrition": {
+      "calories_kcal": 105,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 105,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values represent estimated calories burned; other fields are not applicable for exercise expenditure.",
+  "equivalents": {
+    "megajoules": 0.44
+  },
+  "tweaks": [
+    {
+      "label": "Increase to brisk pace with arm swings",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "For a 90 kg person (vs. 70 kg)",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 141
+    },
+    {
+      "label": "Add marching in place (higher intensity)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 135
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "Does walking in place burn calories effectively?",
+      "a": "Yes, it burns calories similar to light walking, around 3-4 kcal per minute depending on your weight and pace."
+    },
+    {
+      "q": "How many calories does walking in place burn per hour?",
+      "a": "Approximately 200-250 kcal per hour for a 70 kg person at moderate intensity."
+    },
+    {
+      "q": "Is walking in place as good as outdoor walking for calorie burn?",
+      "a": "It's comparable for low-intensity sessions but may burn slightly less without terrain variation; intensity matters most."
+    },
+    {
+      "q": "What factors affect calories burned walking in place?",
+      "a": "Body weight, pace, duration, and added movements like knee lifts; heavier individuals burn more."
+    },
+    {
+      "q": "Can walking in place help with weight loss?",
+      "a": "Yes, when combined with a calorie deficit diet; aim for 30-60 minutes daily to contribute to overall burn."
+    }
+  ]
+}

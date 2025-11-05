@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a crepe",
+  "title": "How Many Calories Are in a Crepe?",
+  "meta_description": "Discover how many calories in a crepe, including carbs, protein, fat, and full nutrition breakdown per serving with tweaks and FAQs.",
+  "slug": "how-many-calories-in-a-crepe",
+  "h1": "How Many Calories Are in a Crepe?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "crepe",
+    "item": "crepe"
+  },
+  "assumptions": "Plain French-style crepe, ~60 g, 10-inch diameter, made with wheat flour, milk, eggs, and a touch of butter; no fillings or toppings.",
+  "disclaimer": "Nutrition varies by recipe, size, ingredients, and cooking method. Check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "A plain crepe contains about 130 calories, with 18 g carbs and 5 g protein."
+  },
+  "basis": {
+    "label": "per 1 plain crepe",
+    "amount": 1,
+    "unit": "crepe",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 18,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 5,
+      "fat_g": 4,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 18,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 5,
+    "fat_g": 4,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp Nutella filling",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Use whole wheat flour instead of white",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Gluten-free version with rice flour",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 135
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a plain crepe?",
+      "a": "About 130 kcal for one standard plain crepe."
+    },
+    {
+      "q": "What are the carbs in a crepe?",
+      "a": "Around 18 g total carbs, including 1 g fiber and 2 g sugars per crepe."
+    },
+    {
+      "q": "Are crepes high in protein?",
+      "a": "Moderately; one crepe has about 5 g protein from eggs and milk."
+    },
+    {
+      "q": "How does filling affect calories in a crepe?",
+      "a": "Sweet fillings like Nutella add 100+ kcal; savory ones like ham vary by amount."
+    },
+    {
+      "q": "Is a crepe low-fat?",
+      "a": "Yes, plain versions have ~4 g fat, but butter or oil in cooking can increase it."
+    }
+  ]
+}

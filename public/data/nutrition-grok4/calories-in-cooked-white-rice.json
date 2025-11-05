@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cooked white rice",
+  "title": "Calories in Cooked White Rice",
+  "meta_description": "Discover calories in cooked white rice per 100g serving, including carbs, protein, fat, and nutrition breakdowns for easy meal planning.",
+  "slug": "calories-in-cooked-white-rice",
+  "h1": "Calories in Cooked White Rice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "cooked white rice"
+  },
+  "assumptions": "Long-grain white rice, boiled in water without added salt, oil, or seasonings; drained.",
+  "disclaimer": "Nutrition varies by rice type, brand, cooking method, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "100g of cooked white rice provides about 130 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 28.2,
+      "fiber_g": 0.4,
+      "sugars_g": 0.1,
+      "protein_g": 2.7,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 28.2,
+    "fiber_g": 0.4,
+    "sugars_g": 0.1,
+    "protein_g": 2.7,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per 100g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 166
+    },
+    {
+      "label": "Fried in 1 tsp oil per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Use brown rice instead per 100g",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 145
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup of cooked white rice?",
+      "a": "About 205 kcal for 1 cup (158g); scale from 130 kcal per 100g."
+    },
+    {
+      "q": "What are the carbs in cooked white rice?",
+      "a": "Around 28g carbs per 100g, with minimal fiber (0.4g)."
+    },
+    {
+      "q": "Is cooked white rice high in protein?",
+      "a": "No, only about 2.7g protein per 100g; pair with proteins for balance."
+    },
+    {
+      "q": "How does cooking method affect calories in white rice?",
+      "a": "Boiled is lowest; frying or adding oil/butter increases calories significantly."
+    },
+    {
+      "q": "Calories in uncooked vs cooked white rice?",
+      "a": "Uncooked is ~360 kcal per 100g; cooking absorbs water, reducing density to ~130 kcal per 100g cooked."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a quarter pounder with cheese",
+  "title": "Calories in a Quarter Pounder with Cheese",
+  "meta_description": "Discover calories in a quarter pounder with cheese: about 520 kcal, plus full nutrition breakdown including protein, carbs, fat, and quick variations for your meal planning.",
+  "slug": "calories-in-a-quarter-pounder-with-cheese",
+  "h1": "Calories in a Quarter Pounder with Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "quarter pounder",
+    "item": "with cheese"
+  },
+  "assumptions": "Standard McDonald's Quarter Pounder with Cheese: 4 oz beef patty, sesame bun, American cheese slice, onions, pickles, ketchup, mustard; no customizations.",
+  "disclaimer": "Nutrition varies by restaurant chain, preparation, portion size, and ingredients; values based on typical fast-food data. Check official sources for exact info.",
+  "quick_answer": {
+    "total_kcal": 520,
+    "text": "A Quarter Pounder with Cheese contains about 520 kcal, 30 g protein, and 42 g carbs."
+  },
+  "basis": {
+    "label": "per 1 quarter pounder with cheese",
+    "amount": 1,
+    "unit": "quarter pounder",
+    "nutrition": {
+      "calories_kcal": 520,
+      "carbs_g": 42,
+      "fiber_g": 2,
+      "sugars_g": 10,
+      "protein_g": 30,
+      "fat_g": 26,
+      "sat_fat_g": 12,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 90,
+      "sodium_mg": 1100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 520,
+    "carbs_g": 42,
+    "fiber_g": 2,
+    "sugars_g": 10,
+    "protein_g": 30,
+    "fat_g": 26,
+    "sat_fat_g": 12,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 90,
+    "sodium_mg": 1100
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.18
+  },
+  "tweaks": [
+    {
+      "label": "Remove the cheese slice",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 470
+    },
+    {
+      "label": "Add two strips of bacon",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 610
+    },
+    {
+      "label": "Upgrade to whole grain bun",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 510
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Quarter Pounder with Cheese?",
+      "a": "Approximately 520 kcal for the standard version."
+    },
+    {
+      "q": "What's the protein content in a Quarter Pounder with Cheese?",
+      "a": "About 30 g of protein from the beef patty and cheese."
+    },
+    {
+      "q": "Are there trans fats in a Quarter Pounder with Cheese?",
+      "a": "Yes, around 1 g, mainly from the beef and bun."
+    },
+    {
+      "q": "How much sodium is in a Quarter Pounder with Cheese?",
+      "a": "Roughly 1100 mg, due to condiments and cheese."
+    },
+    {
+      "q": "Does a Quarter Pounder with Cheese have fiber?",
+      "a": "About 2 g of dietary fiber from the bun and veggies."
+    }
+  ]
+}

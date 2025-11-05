@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in gold potatoes",
+  "title": "Calories in Gold Potatoes",
+  "meta_description": "Discover calories in gold potatoes per 100 g, including carbs, protein, fiber, and full nutrition breakdown for raw Yukon Gold variety.",
+  "slug": "calories-in-gold-potatoes",
+  "h1": "Calories in Gold Potatoes",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "gold potatoes"
+  },
+  "assumptions": "Raw, unpeeled Yukon Gold potatoes; values similar to generic yellow potatoes.",
+  "disclaimer": "Nutrition varies by variety, size, growing conditions, and preparation method. Check labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 74,
+    "text": "100 g of raw gold potatoes contain about 74 kcal and 16 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 74,
+      "carbs_g": 16.3,
+      "fiber_g": 2.1,
+      "sugars_g": 0.8,
+      "protein_g": 2,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 6
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 74,
+    "carbs_g": 16.3,
+    "fiber_g": 2.1,
+    "sugars_g": 0.8,
+    "protein_g": 2,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 6
+  },
+  "label_note": "Values align with standard Nutrition Facts for easy label comparison.",
+  "equivalents": {
+    "megajoules": 0.31
+  },
+  "tweaks": [
+    {
+      "label": "Boiled without skin (per 100 g)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 64
+    },
+    {
+      "label": "Baked with skin (per 100 g)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 79
+    },
+    {
+      "label": "Mashed with 1 tsp butter (per 100 g)",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 108
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g gold potatoes?",
+      "a": "Approximately 74 kcal for raw gold potatoes."
+    },
+    {
+      "q": "Are gold potatoes high in carbs?",
+      "a": "Yes, about 16.3 g carbs per 100 g, mostly complex starches."
+    },
+    {
+      "q": "What's the protein content in gold potatoes?",
+      "a": "Around 2 g protein per 100 g."
+    },
+    {
+      "q": "Do gold potatoes have fiber?",
+      "a": "Yes, roughly 2.1 g dietary fiber per 100 g, especially with skin."
+    },
+    {
+      "q": "How does cooking affect calories in gold potatoes?",
+      "a": "Boiling may slightly reduce calories; frying or adding fats increases them significantly."
+    }
+  ]
+}

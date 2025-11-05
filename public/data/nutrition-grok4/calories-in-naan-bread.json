@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in naan bread",
+  "title": "Calories in Naan Bread",
+  "meta_description": "Learn calories in naan bread per piece, including carbs, protein, fat, sodium, and easy tweaks for variations like garlic naan.",
+  "slug": "calories-in-naan-bread",
+  "h1": "Calories in Naan Bread",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "naan",
+    "item": "naan bread"
+  },
+  "assumptions": "Plain naan bread, approximately 100 g per piece, traditionally baked with yogurt and flour; no added toppings.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, flour type, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "One piece of naan bread contains about 290 kcal and 50 g carbs."
+  },
+  "basis": {
+    "label": "per 1 naan bread",
+    "amount": 1,
+    "unit": "naan bread",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 50,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 8,
+      "fat_g": 7,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 50,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 8,
+    "fat_g": 7,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Garlic naan (add garlic butter topping)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 340
+    },
+    {
+      "label": "Butter naan (extra ghee or butter brushed)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Whole wheat naan (using whole grain flour)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one piece of naan bread?",
+      "a": "Approximately 290 kcal for a standard 100 g plain naan."
+    },
+    {
+      "q": "What are the carbs in naan bread?",
+      "a": "About 50 g carbs per naan, mostly from refined flour."
+    },
+    {
+      "q": "Is naan bread high in sodium?",
+      "a": "Yes, around 500 mg sodium per piece due to salt in the dough."
+    },
+    {
+      "q": "How does garlic naan compare in calories?",
+      "a": "Adds about 50 kcal from butter and garlic, totaling ~340 kcal."
+    },
+    {
+      "q": "Can naan bread be lower calorie?",
+      "a": "Opt for whole wheat versions or bake at home without extra fat to reduce by 20-50 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in grilled shrimp",
+  "title": "Calories in Grilled Shrimp",
+  "meta_description": "Discover calories in grilled shrimp per 100g serving, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-grilled-shrimp",
+  "h1": "Calories in Grilled Shrimp",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "grilled shrimp"
+  },
+  "assumptions": "Peeled, medium shrimp, grilled without added oil, butter, or seasonings; dry heat cooking.",
+  "disclaimer": "Nutrition varies by shrimp size, source, cooking method, and any added ingredients. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 99,
+    "text": "100g of grilled shrimp provides about 99 kcal and 24g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 99,
+      "carbs_g": 0.2,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 161,
+      "sodium_mg": 111
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 99,
+    "carbs_g": 0.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 24,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 161,
+    "sodium_mg": 111
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil for grilling per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 139
+    },
+    {
+      "label": "Marinated in garlic butter (1 tsp per 100g)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 144
+    },
+    {
+      "label": "Breaded lightly before grilling per 100g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 149
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of grilled shrimp?",
+      "a": "Approximately 99 kcal for plain grilled shrimp."
+    },
+    {
+      "q": "What's the protein content in grilled shrimp?",
+      "a": "About 24g protein per 100g, making it a lean seafood option."
+    },
+    {
+      "q": "Do grilled shrimp have carbs or fat?",
+      "a": "Very low: 0.2g carbs and 0.3g total fat per 100g."
+    },
+    {
+      "q": "How does grilling affect shrimp calories?",
+      "a": "Grilling without oil keeps calories low; added fats increase them significantly."
+    },
+    {
+      "q": "Is cholesterol high in grilled shrimp?",
+      "a": "Yes, about 161mg per 100g, mostly from natural shellfish content."
+    }
+  ]
+}

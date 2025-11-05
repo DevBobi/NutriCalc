@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a fried chicken breast",
+  "title": "How Many Calories in a Fried Chicken Breast?",
+  "meta_description": "Discover how many calories in a fried chicken breast, including full nutrition breakdown, protein, fat, carbs, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-fried-chicken-breast",
+  "h1": "How Many Calories in a Fried Chicken Breast?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "breast",
+    "item": "fried chicken breast"
+  },
+  "assumptions": "Boneless, skinless chicken breast (~140 g raw weight), lightly breaded, deep-fried in vegetable oil; no added sauce or seasonings.",
+  "disclaimer": "Nutrition varies by breading type, oil used, frying time, portion size, and brand; check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A typical fried chicken breast contains about 350 kcal and 28 g protein."
+  },
+  "basis": {
+    "label": "per 1 fried chicken breast",
+    "amount": 1,
+    "unit": "breast",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 14,
+      "fiber_g": 0.8,
+      "sugars_g": 1.2,
+      "protein_g": 28,
+      "fat_g": 20,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 85,
+      "sodium_mg": 650
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 14,
+    "fiber_g": 0.8,
+    "sugars_g": 1.2,
+    "protein_g": 28,
+    "fat_g": 20,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 85,
+    "sodium_mg": 650
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Air-fried (less oil) vs. deep-fried",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add skin before frying",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 410
+    },
+    {
+      "label": "Extra thick breading",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a fried chicken breast?",
+      "a": "Approximately 350 kcal for one standard breaded and fried chicken breast."
+    },
+    {
+      "q": "What's the protein in a fried chicken breast?",
+      "a": "About 28 g of protein per serving."
+    },
+    {
+      "q": "Does frying add a lot of fat to chicken breast?",
+      "a": "Yes, around 20 g total fat, mostly from breading and oil absorption."
+    },
+    {
+      "q": "How do calories compare to grilled chicken breast?",
+      "a": "Fried is higher (~350 kcal) vs. grilled (~165 kcal per similar size) due to breading and oil."
+    },
+    {
+      "q": "Is sodium high in fried chicken breast?",
+      "a": "Yes, about 650 mg, often from breading or seasoning; opt for low-sodium versions."
+    }
+  ]
+}

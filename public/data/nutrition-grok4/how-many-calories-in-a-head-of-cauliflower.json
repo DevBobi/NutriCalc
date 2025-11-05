@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a head of cauliflower",
+  "title": "How Many Calories in a Head of Cauliflower?",
+  "meta_description": "Discover how many calories in a head of cauliflower, including carbs, fiber, protein, fat breakdown per 100 g basis, totals, and preparation tweaks for better nutrition tracking.",
+  "slug": "how-many-calories-in-a-head-of-cauliflower",
+  "h1": "How Many Calories in a Head of Cauliflower?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "head",
+    "item": "cauliflower"
+  },
+  "assumptions": "Average head of cauliflower (~500 g), raw, white variety, no added seasonings or oils.",
+  "disclaimer": "Nutrition varies by size, variety (e.g., colored cauliflower), freshness, and cooking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 125,
+    "text": "One average head of cauliflower provides ~125 kcal and ~10 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 25,
+      "carbs_g": 5,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 2,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 30
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 125,
+    "carbs_g": 25,
+    "fiber_g": 10,
+    "sugars_g": 15,
+    "protein_g": 10,
+    "fat_g": 1.5,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.52
+  },
+  "tweaks": [
+    {
+      "label": "Steamed (minimal water loss)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 125
+    },
+    {
+      "label": "Roasted with 1 tbsp olive oil",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 245
+    },
+    {
+      "label": "Blended into cauliflower rice (same weight)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 125
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a head of cauliflower?",
+      "a": "About 125 kcal for an average 500 g head."
+    },
+    {
+      "q": "Is cauliflower low-carb?",
+      "a": "Yes, ~25 g carbs per head, with 10 g fiber, making net carbs ~15 g."
+    },
+    {
+      "q": "How much fiber in a head of cauliflower?",
+      "a": "Around 10 g of dietary fiber, supporting digestion."
+    },
+    {
+      "q": "Does cooking change calories in cauliflower?",
+      "a": "Minimal change if no added fats; steaming or boiling keeps it low-cal."
+    },
+    {
+      "q": "What size is an average head of cauliflower?",
+      "a": "Typically 500 g; smaller heads ~300 g (75 kcal), larger ~700 g (175 kcal)."
+    }
+  ]
+}

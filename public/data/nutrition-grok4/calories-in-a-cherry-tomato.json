@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a cherry tomato",
+  "title": "Calories in a Cherry Tomato",
+  "meta_description": "Discover calories in a cherry tomato, including carbs, protein, fat, and full nutrition breakdown per serving with quick tweaks and FAQs.",
+  "slug": "calories-in-a-cherry-tomato",
+  "h1": "Calories in a Cherry Tomato",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "cherry tomato",
+    "item": "cherry tomato"
+  },
+  "assumptions": "Average fresh, raw cherry tomato (~17 g), red variety, no added seasonings.",
+  "disclaimer": "Nutrition varies by size, ripeness, variety, and growing conditions. Check labels for packaged products.",
+  "quick_answer": {
+    "total_kcal": 3,
+    "text": "One average cherry tomato has about 3 kcal and is low in calories but provides vitamin C."
+  },
+  "basis": {
+    "label": "per 1 cherry tomato",
+    "amount": 1,
+    "unit": "cherry tomato",
+    "nutrition": {
+      "calories_kcal": 3,
+      "carbs_g": 0.7,
+      "fiber_g": 0.2,
+      "sugars_g": 0.5,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 3,
+    "carbs_g": 0.7,
+    "fiber_g": 0.2,
+    "sugars_g": 0.5,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with fresh produce.",
+  "equivalents": {
+    "megajoules": 0.01
+  },
+  "tweaks": [
+    {
+      "label": "Sun-dried cherry tomato (rehydrated)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 13
+    },
+    {
+      "label": "Drizzled with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 43
+    },
+    {
+      "label": "Larger grape tomato variety (25 g)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 5
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cherry tomato?",
+      "a": "About 3 kcal for one average-sized cherry tomato."
+    },
+    {
+      "q": "Are cherry tomatoes low carb?",
+      "a": "Yes, one cherry tomato has only 0.7 g carbs, mostly from natural sugars."
+    },
+    {
+      "q": "What's the protein in a cherry tomato?",
+      "a": "Very low at 0.1 g per cherry tomato."
+    },
+    {
+      "q": "Do cherry tomatoes have fiber?",
+      "a": "A small amount, about 0.2 g per cherry tomato, aiding digestion."
+    },
+    {
+      "q": "How does size affect calories in cherry tomatoes?",
+      "a": "Smaller ones have fewer calories (2-3 kcal); larger may reach 5 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in one cup of flour",
+  "title": "How Many Calories in One Cup of Flour?",
+  "meta_description": "Learn how many calories in one cup of flour, plus carbs, protein, fat, full nutrition breakdown, and easy tweaks for baking.",
+  "slug": "how-many-calories-in-one-cup-of-flour",
+  "h1": "How Many Calories in One Cup of Flour?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "flour"
+  },
+  "assumptions": "All-purpose white flour, unsifted, standard US cup measure (~125 g).",
+  "disclaimer": "Nutrition varies by flour type, brand, sifting method, and packing density. A cup can range 100-140 g; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 455,
+    "text": "One cup of all-purpose flour provides ~455 kcal, mostly from 95 g carbs."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 455,
+      "carbs_g": 95.4,
+      "fiber_g": 3.4,
+      "sugars_g": 0.3,
+      "protein_g": 12.4,
+      "fat_g": 1.2,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 455,
+    "carbs_g": 95.4,
+    "fiber_g": 3.4,
+    "sugars_g": 0.3,
+    "protein_g": 12.4,
+    "fat_g": 1.2,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.9
+  },
+  "tweaks": [
+    {
+      "label": "Sifted flour (lighter, ~100 g per cup)",
+      "delta_kcal_per_unit": -91,
+      "new_total_kcal": 364
+    },
+    {
+      "label": "Whole wheat flour instead of all-purpose",
+      "delta_kcal_per_unit": -48,
+      "new_total_kcal": 407
+    },
+    {
+      "label": "Add 1 tbsp butter per cup",
+      "delta_kcal_per_unit": 102,
+      "new_total_kcal": 557
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of all-purpose flour?",
+      "a": "About 455 kcal for one unsifted cup (~125 g)."
+    },
+    {
+      "q": "What are the carbs in one cup of flour?",
+      "a": "Approximately 95 g total carbs, with 3.4 g fiber and minimal sugars."
+    },
+    {
+      "q": "Does sifting flour change the calories?",
+      "a": "Yes, sifted is less dense (~100 g), reducing calories to ~364 kcal per cup."
+    },
+    {
+      "q": "How much protein is in one cup of flour?",
+      "a": "Around 12.4 g protein per cup of all-purpose flour."
+    },
+    {
+      "q": "Why do flour calories vary by measurement?",
+      "a": "Packing or sifting affects weight per cup; spoon-and-level is lighter than scoop-and-pack."
+    }
+  ]
+}

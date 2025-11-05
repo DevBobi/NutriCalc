@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 4 ounces of salmon",
+  "title": "Calories in 4 Ounces of Salmon",
+  "meta_description": "Discover calories in 4 ounces of salmon, including protein, fat, carbs, full nutrition breakdown per 100g basis, and preparation tweaks for better tracking.",
+  "slug": "calories-in-4-ounces-of-salmon",
+  "h1": "Calories in 4 Ounces of Salmon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 4,
+    "unit": "ounces",
+    "item": "salmon"
+  },
+  "assumptions": "Atlantic salmon fillet, cooked (baked or grilled), skinless, no added oil, salt, or seasonings; 4 oz ≈ 113 g.",
+  "disclaimer": "Nutrition varies by salmon type (wild vs. farmed), cut, cooking method, and added ingredients. Check labels or sources for precision.",
+  "quick_answer": {
+    "total_kcal": 233,
+    "text": "4 ounces of cooked salmon offers about 233 kcal and 25 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 206,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 22,
+      "fat_g": 13,
+      "sat_fat_g": 2.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 55,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 233,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 15,
+    "sat_fat_g": 2.6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 62,
+    "sodium_mg": 57
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.97
+  },
+  "tweaks": [
+    {
+      "label": "Skin-on, grilled (adds fat from skin)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 258
+    },
+    {
+      "label": "Add 1 tsp olive oil for cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 273
+    },
+    {
+      "label": "Wild salmon (leaner than farmed)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 203
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 4 ounces of cooked salmon?",
+      "a": "Approximately 233 kcal for cooked, skinless Atlantic salmon."
+    },
+    {
+      "q": "What's the protein in 4 oz salmon?",
+      "a": "About 25 g of high-quality protein."
+    },
+    {
+      "q": "Does salmon have carbs?",
+      "a": "No carbs, fiber, or sugars in plain cooked salmon."
+    },
+    {
+      "q": "How does cooking method affect calories in salmon?",
+      "a": "Baking or grilling keeps calories lower; frying with oil adds 40+ kcal per tsp."
+    },
+    {
+      "q": "Wild vs. farmed salmon calories?",
+      "a": "Wild is leaner (~180 kcal/100g) vs. farmed (~206 kcal/100g); adjust based on type."
+    }
+  ]
+}

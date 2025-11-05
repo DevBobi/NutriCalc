@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in sour cream",
+  "title": "How Many Calories in Sour Cream?",
+  "meta_description": "Discover how many calories in sour cream per 100g serving, including full nutrition breakdown, macros, and variations for low-fat options.",
+  "slug": "how-many-calories-in-sour-cream",
+  "h1": "How Many Calories in Sour Cream?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "sour cream"
+  },
+  "assumptions": "Full-fat sour cream, standard cultured dairy; no added flavors or thickeners.",
+  "disclaimer": "Nutrition varies by brand, fat content, and production method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 193,
+    "text": "Sour cream contains about 193 kcal per 100g, mostly from fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 193,
+      "carbs_g": 4.6,
+      "fiber_g": 0,
+      "sugars_g": 3.5,
+      "protein_g": 2.1,
+      "fat_g": 19.4,
+      "sat_fat_g": 11.6,
+      "trans_fat_g": 0.4,
+      "cholesterol_mg": 59,
+      "sodium_mg": 31
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 193,
+    "carbs_g": 4.6,
+    "fiber_g": 0,
+    "sugars_g": 3.5,
+    "protein_g": 2.1,
+    "fat_g": 19.4,
+    "sat_fat_g": 11.6,
+    "trans_fat_g": 0.4,
+    "cholesterol_mg": 59,
+    "sodium_mg": 31
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.81
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat sour cream (vs. full-fat)",
+      "delta_kcal_per_unit": -109,
+      "new_total_kcal": 84
+    },
+    {
+      "label": "Fat-free sour cream (vs. full-fat)",
+      "delta_kcal_per_unit": -158,
+      "new_total_kcal": 35
+    },
+    {
+      "label": "Add 1 tbsp to baked potato",
+      "delta_kcal_per_unit": 29,
+      "new_total_kcal": 222
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tablespoon of sour cream?",
+      "a": "About 29 kcal for 1 tbsp (15g) of full-fat sour cream."
+    },
+    {
+      "q": "What are the macros in sour cream?",
+      "a": "Per 100g: 19.4g fat, 4.6g carbs, 2.1g protein."
+    },
+    {
+      "q": "Is sour cream high in saturated fat?",
+      "a": "Yes, about 11.6g saturated fat per 100g, mostly from dairy."
+    },
+    {
+      "q": "How does low-fat sour cream compare?",
+      "a": "Low-fat has ~84 kcal per 100g, with reduced fat to 3g."
+    },
+    {
+      "q": "Does sour cream have lactose or sugars?",
+      "a": "Contains ~3.5g sugars per 100g, primarily lactose from milk."
+    }
+  ]
+}

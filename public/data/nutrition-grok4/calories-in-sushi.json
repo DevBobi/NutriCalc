@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sushi",
+  "title": "Calories in Sushi",
+  "meta_description": "Discover calories in sushi per 100g, including carbs, protein, fat, and variations for different types like nigiri or rolls.",
+  "slug": "calories-in-sushi",
+  "h1": "Calories in Sushi",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "sushi"
+  },
+  "assumptions": "Average mixed sushi (nigiri and maki rolls) with vinegared rice, raw fish or seafood, nori, and minimal veggies; no dipping sauces or extras.",
+  "disclaimer": "Nutrition varies by type (nigiri, rolls, tempura), ingredients, portion size, and preparation; check restaurant info or labels when available.",
+  "quick_answer": {
+    "total_kcal": 181,
+    "text": "100g of average sushi provides about 181 kcal, with high carbs from rice and moderate protein from fish."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 181,
+      "carbs_g": 24.8,
+      "fiber_g": 0.9,
+      "sugars_g": 0.4,
+      "protein_g": 9.6,
+      "fat_g": 4.3,
+      "sat_fat_g": 0.8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 13,
+      "sodium_mg": 297
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 181,
+    "carbs_g": 24.8,
+    "fiber_g": 0.9,
+    "sugars_g": 0.4,
+    "protein_g": 9.6,
+    "fat_g": 4.3,
+    "sat_fat_g": 0.8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 13,
+    "sodium_mg": 297
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.76
+  },
+  "tweaks": [
+    {
+      "label": "Add avocado (California roll style) per 100 g",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 201
+    },
+    {
+      "label": "Vegetarian version (no fish, extra veggies) per 100 g",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 151
+    },
+    {
+      "label": "Tempura-fried rolls per 100 g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 231
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one piece of sushi?",
+      "a": "About 40-60 kcal per piece, depending on type; nigiri is lower than rolls."
+    },
+    {
+      "q": "What are the macros for calories in sushi?",
+      "a": "Per 100g: ~25g carbs (mostly rice), 10g protein, 4g fat."
+    },
+    {
+      "q": "Are there low-calorie sushi options?",
+      "a": "Yes, sashimi (no rice) has ~100 kcal per 100g; avoid fried or creamy rolls."
+    },
+    {
+      "q": "How does soy sauce affect calories in sushi?",
+      "a": "1 tbsp adds ~10 kcal and 900mg sodium; use sparingly."
+    },
+    {
+      "q": "Calories in sushi rolls vs. nigiri?",
+      "a": "Rolls (6 pieces) ~300-400 kcal; nigiri (1 piece) ~50 kcal—rolls have more rice."
+    }
+  ]
+}

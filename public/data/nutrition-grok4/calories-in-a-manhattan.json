@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a manhattan",
+  "title": "Calories in a Manhattan",
+  "meta_description": "Discover calories in a manhattan cocktail, including carbs, alcohol content, full nutrition breakdown, and recipe tweaks for lower calories.",
+  "slug": "calories-in-a-manhattan",
+  "h1": "Calories in a Manhattan",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "manhattan",
+    "item": "manhattan cocktail"
+  },
+  "assumptions": "Standard recipe: 2 oz rye whiskey, 1 oz sweet vermouth, 2 dashes bitters, 1 maraschino cherry; served over ice, no added sugar.",
+  "disclaimer": "Nutrition varies by brand, pour size, recipe variations, and garnishes. Alcohol content affects calorie absorption; consult labels or apps for precision.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "A standard Manhattan has about 140 calories, mostly from alcohol and vermouth sugars."
+  },
+  "basis": {
+    "label": "per 1 Manhattan",
+    "amount": 1,
+    "unit": "manhattan",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 10.5,
+      "fiber_g": 0,
+      "sugars_g": 8,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 10.5,
+    "fiber_g": 0,
+    "sugars_g": 8,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison with drink labels.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Omit the maraschino cherry",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Use dry vermouth instead of sweet",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Add 1 oz extra whiskey",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Manhattan cocktail?",
+      "a": "Approximately 140 calories for a standard serving."
+    },
+    {
+      "q": "What contributes most to calories in a Manhattan?",
+      "a": "Alcohol from whiskey (about 140 kcal per 2 oz) and sugars from sweet vermouth."
+    },
+    {
+      "q": "Does a Manhattan have carbs or protein?",
+      "a": "About 10.5 g carbs (mostly sugars), 0 g protein, and 0 g fat."
+    },
+    {
+      "q": "How to reduce calories in a Manhattan?",
+      "a": "Use dry vermouth, skip the cherry, or opt for a smaller pour to cut 20-40 kcal."
+    },
+    {
+      "q": "Is Manhattan nutrition the same for bourbon vs. rye?",
+      "a": "Similar calories; bourbon may add slight fat, but difference is negligible (~5 kcal)."
+    }
+  ]
+}

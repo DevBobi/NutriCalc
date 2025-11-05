@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in rice basmati",
+  "title": "Calories in Basmati Rice",
+  "meta_description": "Learn calories in rice basmati per 100g serving, including carbs, protein, fat, and full nutrition details for easy tracking.",
+  "slug": "calories-in-rice-basmati",
+  "h1": "Calories in Basmati Rice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "basmati rice"
+  },
+  "assumptions": "Cooked white basmati rice, plain boiled, no added oil, salt, or seasonings; drained.",
+  "disclaimer": "Nutrition varies by brand, cooking method, water absorption, and whether white or brown; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "100g of cooked basmati rice provides ~130 kcal and 28g of carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 28.2,
+      "fiber_g": 0.4,
+      "sugars_g": 0.1,
+      "protein_g": 2.7,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 28.2,
+    "fiber_g": 0.4,
+    "sugars_g": 0.1,
+    "protein_g": 2.7,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Brown basmati rice (vs. white)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Add 1 tsp oil during cooking per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Uncooked dry basmati rice per 100g",
+      "delta_kcal_per_unit": 220,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g cooked basmati rice?",
+      "a": "About 130 kcal for plain cooked white basmati rice."
+    },
+    {
+      "q": "What are the carbs in basmati rice?",
+      "a": "Around 28g carbs per 100g cooked, mostly starch with 0.4g fiber."
+    },
+    {
+      "q": "Is basmati rice high in protein?",
+      "a": "No, about 2.7g protein per 100g cooked; it's carb-focused."
+    },
+    {
+      "q": "Calories in brown vs white basmati rice?",
+      "a": "Brown has ~120 kcal per 100g cooked, slightly less than white's 130 kcal."
+    },
+    {
+      "q": "Does cooking method affect calories in rice basmati?",
+      "a": "Yes—frying or adding oil increases calories; boiling plain keeps it lowest."
+    }
+  ]
+}

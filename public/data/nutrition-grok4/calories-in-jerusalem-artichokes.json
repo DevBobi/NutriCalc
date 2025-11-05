@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in jerusalem artichokes",
+  "title": "Calories in Jerusalem Artichokes",
+  "meta_description": "Discover calories in jerusalem artichokes per 100g, including carbs, fiber, protein, fat, and nutrition breakdowns for easy meal planning.",
+  "slug": "calories-in-jerusalem-artichokes",
+  "h1": "Calories in Jerusalem Artichokes",
+  "updated": "2024-10-02",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "jerusalem artichokes"
+  },
+  "assumptions": "Raw, unpeeled Jerusalem artichokes (sunchokes); standard variety, fresh.",
+  "disclaimer": "Nutrition varies by variety, soil, freshness, cooking method, and portion size. Check labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 73,
+    "text": "100g of raw Jerusalem artichokes provide ~73 kcal, mostly from carbs like inulin."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 73,
+      "carbs_g": 17.4,
+      "fiber_g": 1.6,
+      "sugars_g": 9.7,
+      "protein_g": 2,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 73,
+    "carbs_g": 17.4,
+    "fiber_g": 1.6,
+    "sugars_g": 9.7,
+    "protein_g": 2,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 4
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.31
+  },
+  "tweaks": [
+    {
+      "label": "Roasted with 1 tsp olive oil per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 113
+    },
+    {
+      "label": "Boiled (minimal water absorption)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 68
+    },
+    {
+      "label": "Peeled (removes ~10% skin fiber)",
+      "delta_kcal_per_unit": -3,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g Jerusalem artichokes?",
+      "a": "About 73 kcal per 100g raw."
+    },
+    {
+      "q": "Are Jerusalem artichokes low-carb?",
+      "a": "No, they have ~17g carbs per 100g, mainly inulin fiber that acts like a prebiotic."
+    },
+    {
+      "q": "What's the protein in Jerusalem artichokes?",
+      "a": "Around 2g protein per 100g, making them a modest source."
+    },
+    {
+      "q": "Do Jerusalem artichokes have fat?",
+      "a": "Very low, only 0.2g total fat per 100g, with no saturated or trans fats."
+    },
+    {
+      "q": "How does cooking affect calories in Jerusalem artichokes?",
+      "a": "Boiling may slightly reduce density; roasting with oil increases calories significantly."
+    }
+  ]
+}

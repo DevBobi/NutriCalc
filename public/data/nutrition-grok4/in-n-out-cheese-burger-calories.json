@@ -1,0 +1,92 @@
+{
+  "keyword": "in n out cheese burger calories",
+  "title": "Calories in In-N-Out Cheeseburger",
+  "meta_description": "Discover calories in In-N-Out cheeseburger (480 kcal), plus full nutrition breakdown including protein, fat, carbs, sodium, and quick tweaks for custom orders.",
+  "slug": "in-n-out-cheese-burger-calories",
+  "h1": "Calories in In-N-Out Cheeseburger",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "In-N-Out cheeseburger"
+  },
+  "assumptions": "Standard In-N-Out cheeseburger: toasted bun, beef patty, American cheese, lettuce, tomato, onion, spread; no modifications.",
+  "disclaimer": "Nutrition varies by location, exact preparation, and customizations. Values based on official In-N-Out data; check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 480,
+    "text": "An In-N-Out cheeseburger contains 480 calories with 22 g protein and 39 g carbs."
+  },
+  "basis": {
+    "label": "per 1 cheeseburger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 480,
+      "carbs_g": 39,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 22,
+      "fat_g": 27,
+      "sat_fat_g": 11,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 70,
+      "sodium_mg": 950
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 480,
+    "carbs_g": 39,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 22,
+    "fat_g": 27,
+    "sat_fat_g": 11,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 70,
+    "sodium_mg": 950
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging or apps.",
+  "equivalents": {
+    "megajoules": 2.01
+  },
+  "tweaks": [
+    {
+      "label": "Protein style (lettuce wrap, no bun)",
+      "delta_kcal_per_unit": -240,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Without spread (thousand island-style sauce)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Add grilled onions (animal style element)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 500
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an In-N-Out cheeseburger?",
+      "a": "480 calories for the standard cheeseburger."
+    },
+    {
+      "q": "What's the protein in In-N-Out cheeseburger?",
+      "a": "About 22 g of protein per burger."
+    },
+    {
+      "q": "Are there trans fats in In-N-Out cheeseburger?",
+      "a": "Yes, 1 g of trans fat from the beef patty."
+    },
+    {
+      "q": "How much sodium in In-N-Out cheeseburger calories query?",
+      "a": "950 mg sodium, mostly from cheese and spread."
+    },
+    {
+      "q": "Does In-N-Out cheeseburger have fiber?",
+      "a": "3 g dietary fiber from veggies like lettuce and tomato."
+    }
+  ]
+}

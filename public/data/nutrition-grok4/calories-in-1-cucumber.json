@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cucumber",
+  "title": "Calories in 1 Cucumber",
+  "meta_description": "Discover calories in 1 cucumber, including carbs, fiber, protein, fat, and full nutrition breakdown for a medium raw cucumber.",
+  "slug": "calories-in-1-cucumber",
+  "h1": "Calories in 1 Cucumber",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cucumber",
+    "item": "cucumber"
+  },
+  "assumptions": "Medium cucumber (~300 g), raw, with skin, unpeeled, no seeds removed.",
+  "disclaimer": "Nutrition varies by size, variety, freshness, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 45,
+    "text": "One medium cucumber provides about 45 kcal, mostly from carbs, with high water content."
+  },
+  "basis": {
+    "label": "per 1 medium cucumber",
+    "amount": 1,
+    "unit": "cucumber",
+    "nutrition": {
+      "calories_kcal": 45,
+      "carbs_g": 11,
+      "fiber_g": 1.5,
+      "sugars_g": 5.3,
+      "protein_g": 1.9,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 45,
+    "carbs_g": 11,
+    "fiber_g": 1.5,
+    "sugars_g": 5.3,
+    "protein_g": 1.9,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.19
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Sliced with 1 tbsp yogurt dip",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Pickled in brine (vs. raw)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cucumber?",
+      "a": "About 45 kcal for one medium raw cucumber."
+    },
+    {
+      "q": "What are the carbs in a cucumber?",
+      "a": "Around 11 g total carbs, including 1.5 g fiber and 5.3 g sugars per medium cucumber."
+    },
+    {
+      "q": "Is cucumber low in calories and fat?",
+      "a": "Yes, only 45 kcal and 0.3 g fat, making it a hydrating, low-energy snack."
+    },
+    {
+      "q": "Does peeling a cucumber change calories?",
+      "a": "Slightly—peeling removes minimal calories (about 5 kcal less) but reduces some fiber."
+    },
+    {
+      "q": "How much protein in 1 cucumber?",
+      "a": "Roughly 1.9 g protein, which is low but pairs well with higher-protein dips."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in small carrots",
+  "title": "How Many Calories in Small Carrots?",
+  "meta_description": "Discover how many calories in small carrots, including carbs, fiber, sugars, protein, and full nutrition breakdown per carrot with quick tweaks and FAQs.",
+  "slug": "how-many-calories-in-small-carrots",
+  "h1": "How Many Calories in Small Carrots?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small carrot",
+    "item": "small carrot"
+  },
+  "assumptions": "Raw, whole small carrots (~50 g each), unpeeled, fresh; standard variety like Nantes or Imperator.",
+  "disclaimer": "Nutrition varies by variety, size, growing conditions, and preparation; check labels for packaged carrots when available.",
+  "quick_answer": {
+    "total_kcal": 20,
+    "text": "One small raw carrot provides ~20 kcal, mostly from carbs with good fiber."
+  },
+  "basis": {
+    "label": "per 1 small carrot",
+    "amount": 1,
+    "unit": "small carrot",
+    "nutrition": {
+      "calories_kcal": 20,
+      "carbs_g": 4.8,
+      "fiber_g": 1.4,
+      "sugars_g": 2.4,
+      "protein_g": 0.5,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 35
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 20,
+    "carbs_g": 4.8,
+    "fiber_g": 1.4,
+    "sugars_g": 2.4,
+    "protein_g": 0.5,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 35
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Boiled (steamed) without salt",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 18
+    },
+    {
+      "label": "Add 1 tbsp ranch dip",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Baby carrot (smaller, ~30 g)",
+      "delta_kcal_per_unit": -8,
+      "new_total_kcal": 12
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one small carrot?",
+      "a": "About 20 kcal for a raw small carrot weighing ~50 g."
+    },
+    {
+      "q": "Are small carrots low carb?",
+      "a": "Yes, ~4.8 g carbs per small carrot, with 1.4 g fiber."
+    },
+    {
+      "q": "What's the fiber content in small carrots?",
+      "a": "Around 1.4 g dietary fiber per small carrot, aiding digestion."
+    },
+    {
+      "q": "Do small carrots have protein or fat?",
+      "a": "Minimal: 0.5 g protein and 0.1 g fat per small carrot."
+    },
+    {
+      "q": "How does cooking affect calories in small carrots?",
+      "a": "Boiling or steaming slightly reduces calories to ~18 kcal due to water loss; frying adds more."
+    }
+  ]
+}

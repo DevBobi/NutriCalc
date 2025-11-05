@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a tortilla",
+  "title": "Calories in a Tortilla",
+  "meta_description": "Discover calories in a tortilla, including carbs, protein, fat, and full nutrition breakdown for a standard flour tortilla, plus variations and FAQs.",
+  "slug": "calories-in-a-tortilla",
+  "h1": "Calories in a Tortilla",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tortilla",
+    "item": "tortilla"
+  },
+  "assumptions": "Medium 8-inch flour tortilla (~45 g), plain, no fillings or added fats; values based on common commercial brands.",
+  "disclaimer": "Nutrition varies by type (flour vs. corn), size, brand, and preparation; homemade or flavored versions differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "A standard medium flour tortilla has about 140 kcal and 24 g carbs."
+  },
+  "basis": {
+    "label": "per 1 medium flour tortilla",
+    "amount": 1,
+    "unit": "tortilla",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 24,
+      "fiber_g": 1,
+      "sugars_g": 1,
+      "protein_g": 4,
+      "fat_g": 3.5,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 24,
+    "fiber_g": 1,
+    "sugars_g": 1,
+    "protein_g": 4,
+    "fat_g": 3.5,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 300
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Switch to corn tortilla (same size)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Whole wheat flour tortilla",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Add 1 tsp butter",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 174
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a flour tortilla?",
+      "a": "About 140 kcal for a medium 8-inch flour tortilla."
+    },
+    {
+      "q": "What's the carb content in a tortilla?",
+      "a": "Roughly 24 g carbs per medium flour tortilla, mostly from refined flour."
+    },
+    {
+      "q": "Calories in a corn tortilla vs. flour?",
+      "a": "Corn tortillas are lower at ~80 kcal; flour is higher due to added fats."
+    },
+    {
+      "q": "Does tortilla size affect calories?",
+      "a": "Yes—small (6-inch) ~100 kcal, large (10-inch) ~200 kcal or more."
+    },
+    {
+      "q": "Are tortillas high in sodium?",
+      "a": "Yes, often 300 mg or more per tortilla from added salt; opt for low-sodium versions."
+    }
+  ]
+}

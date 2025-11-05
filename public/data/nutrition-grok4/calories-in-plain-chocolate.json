@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in plain chocolate",
+  "title": "Calories in Plain Chocolate",
+  "meta_description": "Discover calories in plain chocolate per 100 g, including carbs, fat, protein, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "calories-in-plain-chocolate",
+  "h1": "Calories in Plain Chocolate",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "plain chocolate"
+  },
+  "assumptions": "Plain milk chocolate (no nuts, fillings, or coatings); standard commercial bar.",
+  "disclaimer": "Nutrition varies by brand, cocoa content, milk type, and processing. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 535,
+    "text": "100 g of plain chocolate provides ~535 kcal, mostly from fat and sugars."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 535,
+      "carbs_g": 59,
+      "fiber_g": 3.1,
+      "sugars_g": 52,
+      "protein_g": 7.5,
+      "fat_g": 30,
+      "sat_fat_g": 18,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 23,
+      "sodium_mg": 79
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 535,
+    "carbs_g": 59,
+    "fiber_g": 3.1,
+    "sugars_g": 52,
+    "protein_g": 7.5,
+    "fat_g": 30,
+    "sat_fat_g": 18,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 23,
+    "sodium_mg": 79
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.24
+  },
+  "tweaks": [
+    {
+      "label": "Switch to dark chocolate (70% cocoa) per 100 g",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 435
+    },
+    {
+      "label": "Add 20 g chopped nuts per 100 g chocolate",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 655
+    },
+    {
+      "label": "Use white chocolate instead per 100 g",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 550
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g plain chocolate?",
+      "a": "Approximately 535 kcal for plain milk chocolate."
+    },
+    {
+      "q": "What are the macros in plain chocolate?",
+      "a": "Per 100 g: 59 g carbs (52 g sugars), 30 g fat (18 g saturated), 7.5 g protein."
+    },
+    {
+      "q": "Is plain chocolate high in sugar?",
+      "a": "Yes, about 52 g sugars per 100 g, mainly from milk and added sugar."
+    },
+    {
+      "q": "How does dark chocolate compare in calories?",
+      "a": "Dark chocolate has fewer calories (~435 kcal per 100 g) due to less sugar and more cocoa."
+    },
+    {
+      "q": "Does brand affect calories in plain chocolate?",
+      "a": "Yes, variations in cocoa, milk, and sweeteners can change values by 50-100 kcal per 100 g."
+    }
+  ]
+}

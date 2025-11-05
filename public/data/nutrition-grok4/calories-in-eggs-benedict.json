@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in eggs benedict",
+  "title": "Calories in Eggs Benedict",
+  "meta_description": "Discover calories in eggs benedict for a standard serving, including macros like protein and fat, plus tweaks and FAQs for variations.",
+  "slug": "calories-in-eggs-benedict",
+  "h1": "Calories in Eggs Benedict",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "eggs benedict"
+  },
+  "assumptions": "Standard serving: 1 English muffin, 2 poached eggs, 2 slices Canadian bacon, 3 tbsp hollandaise sauce; no extras like potatoes.",
+  "disclaimer": "Nutrition varies by recipe, portion size, brand, and preparation method. Check restaurant info or labels when available.",
+  "quick_answer": {
+    "total_kcal": 825,
+    "text": "One serving of eggs benedict has about 825 kcal, with high fat from the hollandaise."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 825,
+      "carbs_g": 42,
+      "fiber_g": 2,
+      "sugars_g": 2,
+      "protein_g": 32,
+      "fat_g": 55,
+      "sat_fat_g": 22,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 520,
+      "sodium_mg": 1450
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 825,
+    "carbs_g": 42,
+    "fiber_g": 2,
+    "sugars_g": 2,
+    "protein_g": 32,
+    "fat_g": 55,
+    "sat_fat_g": 22,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 520,
+    "sodium_mg": 1450
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged or restaurant data.",
+  "equivalents": {
+    "megajoules": 3.45
+  },
+  "tweaks": [
+    {
+      "label": "Use light hollandaise sauce (reduce butter)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 675
+    },
+    {
+      "label": "Add smoked salmon instead of bacon",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 805
+    },
+    {
+      "label": "Whole grain muffin and egg whites only",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 725
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of eggs benedict?",
+      "a": "Approximately 825 kcal for a standard serving with hollandaise."
+    },
+    {
+      "q": "What makes eggs benedict high in calories?",
+      "a": "The hollandaise sauce contributes the most fat and calories, around 300-400 kcal."
+    },
+    {
+      "q": "How much protein is in eggs benedict?",
+      "a": "About 32 g protein per serving, mainly from eggs and bacon."
+    },
+    {
+      "q": "Can I make eggs benedict lower calorie?",
+      "a": "Yes, use less hollandaise, turkey bacon, or a lighter sauce to cut 100-200 kcal."
+    },
+    {
+      "q": "What's the sodium in eggs benedict?",
+      "a": "Around 1450 mg per serving, from bacon and sauce; watch if on a low-sodium diet."
+    }
+  ]
+}

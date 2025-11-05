@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cotton candy grapes",
+  "title": "Calories in Cotton Candy Grapes",
+  "meta_description": "Discover calories in cotton candy grapes per 100g, including carbs, sugars, fiber, protein, fat, and quick nutrition facts for this sweet hybrid variety.",
+  "slug": "calories-in-cotton-candy-grapes",
+  "h1": "Calories in Cotton Candy Grapes",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "cotton candy grapes"
+  },
+  "assumptions": "Fresh, seedless cotton candy grapes (green hybrid variety); values similar to standard green grapes with higher natural sweetness.",
+  "disclaimer": "Nutrition varies by ripeness, growing conditions, brand, and storage; check labels or databases for exact values when available.",
+  "quick_answer": {
+    "total_kcal": 69,
+    "text": "100g of cotton candy grapes provides ~69 kcal, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 69,
+      "carbs_g": 18,
+      "fiber_g": 0.9,
+      "sugars_g": 15.5,
+      "protein_g": 0.7,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 69,
+    "carbs_g": 18,
+    "fiber_g": 0.9,
+    "sugars_g": 15.5,
+    "protein_g": 0.7,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Frozen cotton candy grapes (no added sugar)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 69
+    },
+    {
+      "label": "With 1 tsp sugar sprinkled per 100g",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Compared to red grapes (slightly lower sugar)",
+      "delta_kcal_per_unit": -4,
+      "new_total_kcal": 65
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g cotton candy grapes?",
+      "a": "About 69 kcal per 100g."
+    },
+    {
+      "q": "Are cotton candy grapes high in sugar?",
+      "a": "Yes, ~15.5g sugars per 100g due to their candy-like flavor."
+    },
+    {
+      "q": "What's the protein in cotton candy grapes?",
+      "a": "Low at 0.7g per 100g; they're mostly carbs from natural sugars."
+    },
+    {
+      "q": "Do cotton candy grapes have fiber?",
+      "a": "Yes, about 0.9g fiber per 100g, aiding digestion."
+    },
+    {
+      "q": "How do cotton candy grapes compare to regular grapes calorically?",
+      "a": "Similar at ~69 kcal per 100g; the flavor comes from breeding, not added sugar."
+    }
+  ]
+}

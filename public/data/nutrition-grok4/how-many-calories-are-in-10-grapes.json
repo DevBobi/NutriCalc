@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in 10 grapes",
+  "title": "How Many Calories Are in 10 Grapes?",
+  "meta_description": "Learn how many calories are in 10 grapes – about 30 kcal total – with a full nutrient breakdown per grape, totals, and variations for better tracking.",
+  "slug": "how-many-calories-are-in-10-grapes",
+  "h1": "How Many Calories Are in 10 Grapes?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 10,
+    "unit": "grape",
+    "item": "grape"
+  },
+  "assumptions": "Average seedless red grapes (~5 g each), raw with edible skin, fresh.",
+  "disclaimer": "Nutrition varies by grape variety, size, ripeness, and growing conditions. Weigh for accuracy; values are approximate.",
+  "quick_answer": {
+    "total_kcal": 30,
+    "text": "10 average grapes provide about 30 kcal, mainly from natural sugars with minimal fat or protein."
+  },
+  "basis": {
+    "label": "per 1 grape",
+    "amount": 1,
+    "unit": "grape",
+    "nutrition": {
+      "calories_kcal": 3,
+      "carbs_g": 0.9,
+      "fiber_g": 0.05,
+      "sugars_g": 0.8,
+      "protein_g": 0.04,
+      "fat_g": 0.01,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 30,
+    "carbs_g": 9,
+    "fiber_g": 0.5,
+    "sugars_g": 8,
+    "protein_g": 0.4,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.13
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate-dipped (add 10 kcal coating per grape)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Green grapes (slightly lower sugar content per grape)",
+      "delta_kcal_per_unit": -0.5,
+      "new_total_kcal": 25
+    },
+    {
+      "label": "Add 1 tsp yogurt coating per grape",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 80
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one grape?",
+      "a": "About 3 kcal for an average-sized grape."
+    },
+    {
+      "q": "What are the carbs in 10 grapes?",
+      "a": "Approximately 9 g carbs, including 0.5 g fiber and 8 g natural sugars."
+    },
+    {
+      "q": "Are grapes high in sugar?",
+      "a": "They contain natural sugars (8 g in 10 grapes), but are low-calorie overall."
+    },
+    {
+      "q": "How do red and green grapes compare in calories?",
+      "a": "Similar; red grapes average 3 kcal each, green slightly less at ~2.5 kcal."
+    },
+    {
+      "q": "How many grapes equal 100 g?",
+      "a": "About 20 average grapes weigh 100 g."
+    }
+  ]
+}

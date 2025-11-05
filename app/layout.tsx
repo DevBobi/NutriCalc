@@ -1,8 +1,19 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Inter, Playfair_Display } from 'next/font/google'
 import './globals.css'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ 
+  subsets: ['latin'],
+  variable: '--font-inter',
+  display: 'swap',
+})
+
+const playfair = Playfair_Display({ 
+  subsets: ['latin'],
+  weight: ['600', '700'],
+  variable: '--font-playfair',
+  display: 'swap',
+})
 
 export const metadata: Metadata = {
   title: {
@@ -73,7 +84,7 @@ export default function RootLayout({
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/manifest.json" />
       </head>
-      <body className={`${inter.className} antialiased`}>
+      <body className={`${inter.variable} ${playfair.variable} font-sans antialiased`}>
         {children}
       </body>
     </html>

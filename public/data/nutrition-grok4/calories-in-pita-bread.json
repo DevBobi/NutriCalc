@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pita bread",
+  "title": "Calories in Pita Bread",
+  "meta_description": "Discover calories in pita bread per serving, including carbs, protein, fat, and full nutrition breakdown for easy meal planning.",
+  "slug": "calories-in-pita-bread",
+  "h1": "Calories in Pita Bread",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pita bread",
+    "item": "pita bread"
+  },
+  "assumptions": "One medium 6-inch (60g) white pita bread, plain, baked, no added oil or fillings.",
+  "disclaimer": "Nutrition varies by brand, size, flour type, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 165,
+    "text": "One medium pita bread has about 165 kcal and 5.5 g protein."
+  },
+  "basis": {
+    "label": "per 1 medium pita bread",
+    "amount": 1,
+    "unit": "pita bread",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 33,
+      "fiber_g": 1.3,
+      "sugars_g": 1,
+      "protein_g": 5.5,
+      "fat_g": 1.2,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 320
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 165,
+    "carbs_g": 33,
+    "fiber_g": 1.3,
+    "sugars_g": 1,
+    "protein_g": 5.5,
+    "fat_g": 1.2,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 320
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.69
+  },
+  "tweaks": [
+    {
+      "label": "Whole wheat pita bread (vs. white)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 175
+    },
+    {
+      "label": "Add 1 tsp olive oil for brushing",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 205
+    },
+    {
+      "label": "Smaller 4-inch pita (40g)",
+      "delta_kcal_per_unit": -55,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pita bread?",
+      "a": "About 165 kcal for one medium white pita bread."
+    },
+    {
+      "q": "What are the carbs in pita bread?",
+      "a": "Around 33 g carbs per medium pita, with 1.3 g fiber."
+    },
+    {
+      "q": "Is pita bread high in protein?",
+      "a": "It provides 5.5 g protein per serving, moderate for bread."
+    },
+    {
+      "q": "Calories in whole wheat vs. white pita bread?",
+      "a": "Whole wheat is similar, about 175 kcal per medium, but higher fiber."
+    },
+    {
+      "q": "Does pita bread have cholesterol?",
+      "a": "Typically 0 mg cholesterol, as it's plant-based."
+    }
+  ]
+}

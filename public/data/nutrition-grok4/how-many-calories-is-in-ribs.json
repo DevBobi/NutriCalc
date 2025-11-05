@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in ribs",
+  "title": "How Many Calories Are in Ribs?",
+  "meta_description": "Discover how many calories is in ribs per 100 g serving, including full nutrition breakdown, protein, fat, carbs, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-is-in-ribs",
+  "h1": "How Many Calories Are in Ribs?",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "ribs"
+  },
+  "assumptions": "Cooked pork spare ribs with barbecue sauce; bone-in, trimmed; standard restaurant-style preparation.",
+  "disclaimer": "Nutrition varies by cut (spare vs. baby back), sauce type, cooking method, and portion size. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 292,
+    "text": "100 g of cooked pork ribs with sauce contains about 292 kcal and 19 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 292,
+      "carbs_g": 5.5,
+      "fiber_g": 0.1,
+      "sugars_g": 4.5,
+      "protein_g": 18.9,
+      "fat_g": 22.3,
+      "sat_fat_g": 7.8,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 72,
+      "sodium_mg": 460
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 292,
+    "carbs_g": 5.5,
+    "fiber_g": 0.1,
+    "sugars_g": 4.5,
+    "protein_g": 18.9,
+    "fat_g": 22.3,
+    "sat_fat_g": 7.8,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 72,
+    "sodium_mg": 460
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.22
+  },
+  "tweaks": [
+    {
+      "label": "Without barbecue sauce",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 242
+    },
+    {
+      "label": "Baby back ribs instead of spare ribs",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 252
+    },
+    {
+      "label": "Grilled with minimal oil (no sauce)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 212
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in ribs per 100 g?",
+      "a": "Approximately 292 kcal for cooked pork ribs with sauce."
+    },
+    {
+      "q": "Are ribs high in protein?",
+      "a": "Yes, about 19 g protein per 100 g, making them a good source despite the fat."
+    },
+    {
+      "q": "What affects calories in ribs?",
+      "a": "Sauce, fat trim, cooking method (smoked vs. grilled), and rib type (spare vs. back) can vary totals by 50-100 kcal per 100 g."
+    },
+    {
+      "q": "How many calories in a full rack of ribs?",
+      "a": "A typical rack (about 1 kg meat) has 2,000-3,000 kcal; adjust based on size and prep."
+    },
+    {
+      "q": "Are beef ribs different from pork ribs calories?",
+      "a": "Beef ribs are similar, around 280-350 kcal per 100 g, but often higher in fat."
+    }
+  ]
+}

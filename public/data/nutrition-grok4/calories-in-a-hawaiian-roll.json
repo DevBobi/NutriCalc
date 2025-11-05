@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a hawaiian roll",
+  "title": "Calories in a Hawaiian Roll",
+  "meta_description": "Discover calories in a hawaiian roll, including carbs, protein, fat, and full nutrition breakdown per roll with easy tweaks and FAQs.",
+  "slug": "calories-in-a-hawaiian-roll",
+  "h1": "Calories in a Hawaiian Roll",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "roll",
+    "item": "hawaiian roll"
+  },
+  "assumptions": "Standard soft Hawaiian dinner roll (e.g., King's brand), about 43 g, baked with pineapple juice and sugar, no toppings.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "One Hawaiian roll has about 90 kcal, mostly from carbs with some sugar."
+  },
+  "basis": {
+    "label": "per 1 Hawaiian roll",
+    "amount": 1,
+    "unit": "roll",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 18,
+      "fiber_g": 0.5,
+      "sugars_g": 6,
+      "protein_g": 2,
+      "fat_g": 2,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 80
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 18,
+    "fiber_g": 0.5,
+    "sugars_g": 6,
+    "protein_g": 2,
+    "fat_g": 2,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 80
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per roll",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 125
+    },
+    {
+      "label": "Use whole wheat Hawaiian roll variant",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Toast with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 130
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Hawaiian roll?",
+      "a": "Approximately 90 kcal per standard roll."
+    },
+    {
+      "q": "What are the carbs in a Hawaiian roll?",
+      "a": "About 18 g carbs, including 6 g sugars and 0.5 g fiber."
+    },
+    {
+      "q": "Is a Hawaiian roll high in sugar?",
+      "a": "Yes, due to added pineapple juice; 6 g sugars per roll."
+    },
+    {
+      "q": "How much protein in one Hawaiian roll?",
+      "a": "Roughly 2 g protein per roll."
+    },
+    {
+      "q": "Do Hawaiian rolls have trans fat?",
+      "a": "Typically 0 g trans fat in standard baked rolls."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a glass of pinot grigio",
+  "title": "How Many Calories in a Glass of Pinot Grigio?",
+  "meta_description": "Discover how many calories in a glass of pinot grigio, including carbs, alcohol content, and nutrition breakdowns per serving with quick tweaks for variations.",
+  "slug": "how-many-calories-in-a-glass-of-pinot-grigio",
+  "h1": "How Many Calories in a Glass of Pinot Grigio?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "glass",
+    "item": "pinot grigio"
+  },
+  "assumptions": "Standard 5 oz (148 ml) pour of dry Pinot Grigio wine, 12% ABV, no added sweeteners or mixers.",
+  "disclaimer": "Nutrition varies by brand, alcohol content, residual sugar, serving size, and vintage. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "A standard 5 oz glass of dry Pinot Grigio contains about 120 calories, mostly from alcohol."
+  },
+  "basis": {
+    "label": "per 1 glass (5 oz / 148 ml)",
+    "amount": 1,
+    "unit": "glass",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 3.8,
+      "fiber_g": 0,
+      "sugars_g": 0.8,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 3.8,
+    "fiber_g": 0,
+    "sugars_g": 0.8,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 7
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Larger 8 oz pour",
+      "delta_kcal_per_unit": 96,
+      "new_total_kcal": 216
+    },
+    {
+      "label": "Semi-sweet version (higher residual sugar)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Mixed with soda water (skinny spritzer, half wine)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 60
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a glass of pinot grigio?",
+      "a": "About 120 calories for a standard 5 oz serving of dry Pinot Grigio."
+    },
+    {
+      "q": "Does Pinot Grigio have carbs?",
+      "a": "Yes, around 3.8 g per glass, primarily from alcohol and trace sugars."
+    },
+    {
+      "q": "How does serving size affect calories in Pinot Grigio?",
+      "a": "A 5 oz glass is 120 kcal; an 8 oz pour jumps to about 190-200 kcal."
+    },
+    {
+      "q": "Is Pinot Grigio low in sugar?",
+      "a": "Dry varieties have low sugars (~0.8 g per glass), but sweeter styles add more."
+    },
+    {
+      "q": "What about alcohol content in Pinot Grigio calories?",
+      "a": "Most calories come from 12-14% ABV; higher ABV increases calories per glass."
+    }
+  ]
+}

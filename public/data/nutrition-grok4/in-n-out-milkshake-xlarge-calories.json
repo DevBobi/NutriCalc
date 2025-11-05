@@ -1,0 +1,92 @@
+{
+  "keyword": "in n out milkshake xlarge calories",
+  "title": "Calories in In-N-Out Xlarge Milkshake",
+  "meta_description": "Discover in n out milkshake xlarge calories: about 590 kcal per serving, plus full nutrition breakdown including carbs, fat, protein, and FAQs on variations.",
+  "slug": "in-n-out-milkshake-xlarge-calories",
+  "h1": "Calories in In-N-Out Xlarge Milkshake",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "xlarge milkshake",
+    "item": "In-N-Out milkshake"
+  },
+  "assumptions": "Chocolate flavor, extra large size (approx. 24 oz), made with vanilla ice cream, milk, chocolate syrup; includes whipped cream topping.",
+  "disclaimer": "Nutrition varies by flavor, exact size, customizations, and location; values based on standard In-N-Out data. Check app or receipt for specifics.",
+  "quick_answer": {
+    "total_kcal": 590,
+    "text": "One extra large In-N-Out milkshake contains about 590 kcal, with high sugar and fat content."
+  },
+  "basis": {
+    "label": "per 1 xlarge milkshake",
+    "amount": 1,
+    "unit": "xlarge milkshake",
+    "nutrition": {
+      "calories_kcal": 590,
+      "carbs_g": 78,
+      "fiber_g": 0,
+      "sugars_g": 66,
+      "protein_g": 10,
+      "fat_g": 28,
+      "sat_fat_g": 18,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 110,
+      "sodium_mg": 320
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 590,
+    "carbs_g": 78,
+    "fiber_g": 0,
+    "sugars_g": 66,
+    "protein_g": 10,
+    "fat_g": 28,
+    "sat_fat_g": 18,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 110,
+    "sodium_mg": 320
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.47
+  },
+  "tweaks": [
+    {
+      "label": "Strawberry flavor instead of chocolate",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 590
+    },
+    {
+      "label": "No whipped cream topping",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 540
+    },
+    {
+      "label": "Add chocolate syrup extra shot",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 640
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an In-N-Out xlarge milkshake?",
+      "a": "Approximately 590 kcal for a chocolate extra large milkshake."
+    },
+    {
+      "q": "What's the sugar content in In-N-Out xlarge milkshake?",
+      "a": "About 66 g of sugars per serving, mostly from syrup and ice cream."
+    },
+    {
+      "q": "Are In-N-Out xlarge milkshakes high in fat?",
+      "a": "Yes, around 28 g total fat, including 18 g saturated fat."
+    },
+    {
+      "q": "Calories in vanilla vs chocolate In-N-Out xlarge milkshake?",
+      "a": "Similar at ~590 kcal; flavors vary slightly but not significantly."
+    },
+    {
+      "q": "Does size affect In-N-Out milkshake calories?",
+      "a": "Yes, xlarge (24 oz) is higher than regular (16 oz, ~400 kcal); confirm with staff."
+    }
+  ]
+}

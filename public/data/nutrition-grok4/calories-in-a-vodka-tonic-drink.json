@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a vodka tonic drink",
+  "title": "Calories in a Vodka Tonic Drink",
+  "meta_description": "Discover calories in a vodka tonic drink, including carbs from tonic, alcohol content, and variations like diet tonic for lower calories.",
+  "slug": "calories-in-a-vodka-tonic-drink",
+  "h1": "Calories in a Vodka Tonic Drink",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "drink",
+    "item": "vodka tonic"
+  },
+  "assumptions": "Standard recipe: 1.5 oz (44 ml) vodka, 4 oz (120 ml) tonic water, lime wedge; no added sugar or syrup.",
+  "disclaimer": "Nutrition varies by vodka brand, tonic type, pour size, and mix ratio. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 180,
+    "text": "A standard vodka tonic has ~180 kcal, mostly from alcohol and tonic sugars."
+  },
+  "basis": {
+    "label": "per 1 vodka tonic drink",
+    "amount": 1,
+    "unit": "drink",
+    "nutrition": {
+      "calories_kcal": 180,
+      "carbs_g": 20,
+      "fiber_g": 0,
+      "sugars_g": 20,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 15
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 180,
+    "carbs_g": 20,
+    "fiber_g": 0,
+    "sugars_g": 20,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 15
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.75
+  },
+  "tweaks": [
+    {
+      "label": "Use diet tonic instead of regular",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Double vodka (3 oz total)",
+      "delta_kcal_per_unit": 96,
+      "new_total_kcal": 276
+    },
+    {
+      "label": "Add 1 oz simple syrup",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 260
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a vodka tonic drink?",
+      "a": "About 180 kcal for a standard 1.5 oz vodka and 4 oz tonic mix."
+    },
+    {
+      "q": "Are there carbs in a vodka tonic?",
+      "a": "Yes, ~20 g carbs from the tonic water's sugars; vodka adds none."
+    },
+    {
+      "q": "What's a low-calorie vodka tonic?",
+      "a": "Switch to diet tonic to drop to ~100 kcal, with 0 g sugars."
+    },
+    {
+      "q": "Does vodka tonic have protein or fat?",
+      "a": "No protein or fat; calories come from alcohol (vodka) and carbs (tonic)."
+    },
+    {
+      "q": "How does tonic type affect calories in vodka tonic drink?",
+      "a": "Regular tonic adds ~80-100 kcal from sugars; diet or soda water keeps it under 100 kcal."
+    }
+  ]
+}

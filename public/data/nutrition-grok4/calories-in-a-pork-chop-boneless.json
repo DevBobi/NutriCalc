@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a pork chop boneless",
+  "title": "Calories in a Boneless Pork Chop",
+  "meta_description": "Discover calories in a pork chop boneless, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-a-pork-chop-boneless",
+  "h1": "Calories in a Boneless Pork Chop",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pork chop",
+    "item": "boneless pork chop"
+  },
+  "assumptions": "Lean, boneless pork loin chop, grilled without added fat; approx. 3 oz (85 g) cooked weight.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and portion size. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 145,
+    "text": "A boneless pork chop provides ~145 kcal and ~25 g protein."
+  },
+  "basis": {
+    "label": "per 1 boneless pork chop (85 g cooked)",
+    "amount": 1,
+    "unit": "pork chop",
+    "nutrition": {
+      "calories_kcal": 145,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 4.5,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 75,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 145,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 4.5,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 75,
+    "sodium_mg": 60
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.61
+  },
+  "tweaks": [
+    {
+      "label": "Pan-fried with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 185
+    },
+    {
+      "label": "Breaded and baked",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 225
+    },
+    {
+      "label": "Thicker cut (6 oz instead of 3 oz)",
+      "delta_kcal_per_unit": 145,
+      "new_total_kcal": 290
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a boneless pork chop?",
+      "a": "About 145 kcal for a 3 oz (85 g) grilled lean chop."
+    },
+    {
+      "q": "What's the protein in a pork chop boneless?",
+      "a": "Roughly 25 g protein per 3 oz serving."
+    },
+    {
+      "q": "Are boneless pork chops low carb?",
+      "a": "Yes, 0 g carbs per chop under standard preparation."
+    },
+    {
+      "q": "How does cooking affect calories in a pork chop boneless?",
+      "a": "Grilling keeps it lean; frying or breading can add 40–100 kcal."
+    },
+    {
+      "q": "Is fat content high in boneless pork chops?",
+      "a": "Lean cuts have ~4.5 g total fat; choose loin for lower fat."
+    }
+  ]
+}

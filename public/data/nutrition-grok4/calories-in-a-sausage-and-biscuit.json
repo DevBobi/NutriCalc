@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a sausage and biscuit",
+  "title": "Calories in a Sausage and Biscuit",
+  "meta_description": "Discover calories in a sausage and biscuit, including protein, carbs, fat, full nutrition breakdown, and easy tweaks for variations.",
+  "slug": "calories-in-a-sausage-and-biscuit",
+  "h1": "Calories in a Sausage and Biscuit",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sausage and biscuit",
+    "item": "sausage and biscuit"
+  },
+  "assumptions": "Pork sausage patty (about 50g) with a plain buttermilk biscuit (about 50g), baked or fried; no added cheese, egg, or condiments.",
+  "disclaimer": "Nutrition varies by brand, recipe, size, and preparation method. Fast-food versions may differ; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 320,
+    "text": "A typical sausage and biscuit provides ~320 kcal, with 12 g protein and 30 g carbs."
+  },
+  "basis": {
+    "label": "per 1 sausage and biscuit",
+    "amount": 1,
+    "unit": "sausage and biscuit",
+    "nutrition": {
+      "calories_kcal": 320,
+      "carbs_g": 30,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 12,
+      "fat_g": 18,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 25,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 320,
+    "carbs_g": 30,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 12,
+    "fat_g": 18,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 25,
+    "sodium_mg": 800
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.34
+  },
+  "tweaks": [
+    {
+      "label": "Add one slice of American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Use turkey sausage instead of pork",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Homemade with reduced-fat biscuit",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 260
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a sausage and biscuit from fast food?",
+      "a": "Typically 300-400 kcal; varies by chain like McDonald's or Wendy's."
+    },
+    {
+      "q": "What's the protein in a sausage and biscuit?",
+      "a": "About 12 g from the sausage patty."
+    },
+    {
+      "q": "Are sausage biscuits high in sodium?",
+      "a": "Yes, around 800 mg due to sausage and biscuit ingredients."
+    },
+    {
+      "q": "How do carbs break down in a sausage and biscuit?",
+      "a": "Mostly from the biscuit: ~30 g total carbs, 1 g fiber, 2 g sugars."
+    },
+    {
+      "q": "Can I make a lower-calorie sausage and biscuit?",
+      "a": "Yes, opt for turkey sausage and whole-grain biscuit to cut ~40-60 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in jalapeno poppers",
+  "title": "Calories in Jalapeno Poppers",
+  "meta_description": "Discover calories in jalapeno poppers for a typical serving of 6, plus full nutrition breakdown including fat, carbs, protein, and preparation tweaks.",
+  "slug": "calories-in-jalapeno-poppers",
+  "h1": "Calories in Jalapeno Poppers",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 6,
+    "unit": "popper",
+    "item": "jalapeno popper"
+  },
+  "assumptions": "Breaded and deep-fried, stuffed with cream cheese; average size ~30g each; no additional dipping sauce.",
+  "disclaimer": "Nutrition varies by brand, size, filling, breading, and cooking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 540,
+    "text": "A serving of 6 jalapeno poppers contains about 540 kcal, mostly from fat in the cheese and frying."
+  },
+  "basis": {
+    "label": "per 1 jalapeno popper",
+    "amount": 1,
+    "unit": "popper",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 5,
+      "fiber_g": 0.5,
+      "sugars_g": 0.5,
+      "protein_g": 3,
+      "fat_g": 7,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 15,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 540,
+    "carbs_g": 30,
+    "fiber_g": 3,
+    "sugars_g": 3,
+    "protein_g": 18,
+    "fat_g": 42,
+    "sat_fat_g": 18,
+    "trans_fat_g": 1.2,
+    "cholesterol_mg": 90,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.26
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Bacon-wrapped version",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 660
+    },
+    {
+      "label": "Use low-fat cream cheese",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 450
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one jalapeno popper?",
+      "a": "About 90 kcal per breaded, fried jalapeno popper."
+    },
+    {
+      "q": "Are jalapeno poppers high in fat?",
+      "a": "Yes, 7 g fat per popper, mostly from cheese and frying oil."
+    },
+    {
+      "q": "What about carbs in jalapeno poppers?",
+      "a": "Around 5 g carbs per popper, from the breading and pepper."
+    },
+    {
+      "q": "Do jalapeno poppers have a lot of sodium?",
+      "a": "Yes, about 200 mg per popper due to cheese and seasoning."
+    },
+    {
+      "q": "How to reduce calories in jalapeno poppers?",
+      "a": "Bake instead of fry, use low-fat cheese, or skip breading to cut 30-50 kcal per popper."
+    }
+  ]
+}

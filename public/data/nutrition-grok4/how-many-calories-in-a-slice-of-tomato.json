@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a slice of tomato",
+  "title": "How Many Calories in a Slice of Tomato?",
+  "meta_description": "Discover how many calories in a slice of tomato, plus carbs, fiber, protein, fat details on a per-slice basis and quick variations for your diet.",
+  "slug": "how-many-calories-in-a-slice-of-tomato",
+  "h1": "How Many Calories in a Slice of Tomato?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "tomato"
+  },
+  "assumptions": "Medium slice (~20 g) from a fresh, ripe beefsteak tomato; raw, no added seasonings or dressings.",
+  "disclaimer": "Nutrition varies by tomato variety, ripeness, size of slice, and growing conditions. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 4,
+    "text": "A medium slice of tomato contains about 4 calories and provides a bit of fiber and vitamins."
+  },
+  "basis": {
+    "label": "per 1 medium slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 4,
+      "carbs_g": 0.8,
+      "fiber_g": 0.2,
+      "sugars_g": 0.5,
+      "protein_g": 0.2,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 4,
+    "carbs_g": 0.8,
+    "fiber_g": 0.2,
+    "sugars_g": 0.5,
+    "protein_g": 0.2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.02
+  },
+  "tweaks": [
+    {
+      "label": "Thicker slice (~30 g)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 6
+    },
+    {
+      "label": "Drizzle with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 44
+    },
+    {
+      "label": "From a cherry tomato (half, ~10 g)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 2
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of tomato?",
+      "a": "Approximately 4 calories for a medium 20 g slice."
+    },
+    {
+      "q": "Does a tomato slice have carbs or fiber?",
+      "a": "Yes, about 0.8 g carbs and 0.2 g fiber per slice."
+    },
+    {
+      "q": "Are tomatoes low in fat and protein?",
+      "a": "Very low—0 g fat and 0.2 g protein per medium slice."
+    },
+    {
+      "q": "How does slice size affect calories in a tomato?",
+      "a": "Larger slices have more calories; a 30 g slice is about 6 kcal."
+    },
+    {
+      "q": "What nutrients besides calories are in a tomato slice?",
+      "a": "Includes vitamins A and C, potassium, and minimal sodium (1 mg)."
+    }
+  ]
+}

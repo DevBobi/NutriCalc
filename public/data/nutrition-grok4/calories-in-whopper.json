@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in whopper",
+  "title": "Calories in a Whopper Burger",
+  "meta_description": "Discover calories in whopper, including full nutrition breakdown like protein, carbs, fat, sodium, and easy tweaks for variations.",
+  "slug": "calories-in-whopper",
+  "h1": "Calories in a Whopper Burger",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "whopper",
+    "item": "Whopper burger"
+  },
+  "assumptions": "Standard Burger King Whopper: flame-grilled beef patty, sesame bun, lettuce, tomatoes, pickles, onions, ketchup, mayo; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, customizations, and exact ingredients. Check Burger King app or packaging for latest values.",
+  "quick_answer": {
+    "total_kcal": 657,
+    "text": "A standard Whopper burger contains about 657 kcal and 28 g protein."
+  },
+  "basis": {
+    "label": "per 1 Whopper burger",
+    "amount": 1,
+    "unit": "whopper",
+    "nutrition": {
+      "calories_kcal": 657,
+      "carbs_g": 49,
+      "fiber_g": 2,
+      "sugars_g": 11,
+      "protein_g": 28,
+      "fat_g": 40,
+      "sat_fat_g": 12,
+      "trans_fat_g": 1.5,
+      "cholesterol_mg": 90,
+      "sodium_mg": 980
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 657,
+    "carbs_g": 49,
+    "fiber_g": 2,
+    "sugars_g": 11,
+    "protein_g": 28,
+    "fat_g": 40,
+    "sat_fat_g": 12,
+    "trans_fat_g": 1.5,
+    "cholesterol_mg": 90,
+    "sodium_mg": 980
+  },
+  "label_note": "Values mirror standard Nutrition Facts labels for easy comparison with fast food info.",
+  "equivalents": {
+    "megajoules": 2.75
+  },
+  "tweaks": [
+    {
+      "label": "Add American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 707
+    },
+    {
+      "label": "No mayonnaise (remove ~2 tbsp)",
+      "delta_kcal_per_unit": -190,
+      "new_total_kcal": 467
+    },
+    {
+      "label": "Whopper Jr. (smaller patty and bun)",
+      "delta_kcal_per_unit": -250,
+      "new_total_kcal": 407
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Whopper from Burger King?",
+      "a": "A standard Whopper has approximately 657 calories."
+    },
+    {
+      "q": "What's the protein in a Whopper?",
+      "a": "About 28 g of protein per Whopper burger."
+    },
+    {
+      "q": "Are there carbs in a Whopper?",
+      "a": "Yes, around 49 g total carbs, including 2 g fiber and 11 g sugars."
+    },
+    {
+      "q": "How much sodium is in a Whopper?",
+      "a": "Roughly 980 mg of sodium per burger."
+    },
+    {
+      "q": "Does a Whopper have trans fats?",
+      "a": "It contains about 1.5 g of trans fats due to the beef patty and bun."
+    }
+  ]
+}

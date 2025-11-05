@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in hot and sour soup",
+  "title": "Calories in Hot and Sour Soup",
+  "meta_description": "Discover calories in hot and sour soup per cup, including carbs, protein, fat, sodium details, and easy tweaks for your bowl.",
+  "slug": "calories-in-hot-and-sour-soup",
+  "h1": "Calories in Hot and Sour Soup",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "hot and sour soup"
+  },
+  "assumptions": "Restaurant-style with tofu, mushrooms, bamboo shoots, egg, vinegar, and cornstarch thickener; about 240 ml per cup.",
+  "disclaimer": "Nutrition varies by recipe, restaurant, portion size, and ingredients; homemade versions may differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "One cup of hot and sour soup provides ~130 kcal, with moderate protein and high sodium."
+  },
+  "basis": {
+    "label": "per 1 cup (240 ml)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 12,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 6,
+      "fat_g": 7,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 900
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 12,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 6,
+    "fat_g": 7,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 900
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Add extra firm tofu (1 oz per cup)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Homemade with reduced oil and cornstarch",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Vegetarian version without egg",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in hot and sour soup per cup?",
+      "a": "About 130 kcal for a standard 1-cup serving."
+    },
+    {
+      "q": "Is hot and sour soup low in calories?",
+      "a": "Yes, typically 100-150 kcal per cup, making it a lighter soup option."
+    },
+    {
+      "q": "What's the sodium in hot and sour soup?",
+      "a": "Around 900 mg per cup, so watch intake if on a low-sodium diet."
+    },
+    {
+      "q": "How much protein in hot and sour soup?",
+      "a": "Approximately 6 g per cup, mainly from tofu and egg."
+    },
+    {
+      "q": "Does hot and sour soup have carbs?",
+      "a": "Yes, about 12 g per cup from cornstarch and vegetables."
+    }
+  ]
+}

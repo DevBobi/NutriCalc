@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in brownies",
+  "title": "How Many Calories Are in Brownies?",
+  "meta_description": "Learn how many calories are in brownies with a full nutrition breakdown per serving, including carbs, protein, fat, and tips for variations.",
+  "slug": "how-many-calories-are-in-brownies",
+  "h1": "How Many Calories Are in Brownies?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "brownie",
+    "item": "brownie"
+  },
+  "assumptions": "Standard chocolate brownie, approximately 50 g each, baked with flour, sugar, butter, eggs, and cocoa; no nuts or frosting.",
+  "disclaimer": "Nutrition varies by recipe, brand, size, ingredients, and baking method. Check labels for packaged brownies.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "A typical brownie contains about 220 calories and 30 g of carbs."
+  },
+  "basis": {
+    "label": "per 1 brownie",
+    "amount": 1,
+    "unit": "brownie",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 30,
+      "fiber_g": 1,
+      "sugars_g": 20,
+      "protein_g": 2,
+      "fat_g": 11,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 30,
+    "fiber_g": 1,
+    "sugars_g": 20,
+    "protein_g": 2,
+    "fat_g": 11,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 100
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Add 1/4 cup chopped walnuts per batch (adds ~20 kcal per brownie)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Use low-fat butter substitute (reduces ~30 kcal per brownie)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Frost with chocolate icing (adds ~50 kcal per brownie)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one brownie?",
+      "a": "About 220 kcal for a standard 50 g chocolate brownie."
+    },
+    {
+      "q": "Are brownies high in sugar?",
+      "a": "Yes, typically 20 g of sugars per brownie from added sugar and chocolate."
+    },
+    {
+      "q": "How much fat is in brownies?",
+      "a": "Around 11 g total fat per brownie, with 3 g saturated."
+    },
+    {
+      "q": "Do brownies have protein?",
+      "a": "A small amount, about 2 g per brownie from eggs and flour."
+    },
+    {
+      "q": "How do calories in brownies vary?",
+      "a": "Depends on size and ingredients—homemade can differ from store-bought; nuts or frosting add more calories."
+    }
+  ]
+}

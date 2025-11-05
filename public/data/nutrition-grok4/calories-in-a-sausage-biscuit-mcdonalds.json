@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a sausage biscuit mcdonalds",
+  "title": "Calories in a McDonald's Sausage Biscuit",
+  "meta_description": "Discover calories in a sausage biscuit McDonalds, including full nutrition breakdown like fat, carbs, protein, and quick tweaks for variations.",
+  "slug": "calories-in-a-sausage-biscuit-mcdonalds",
+  "h1": "Calories in a McDonald's Sausage Biscuit",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "sausage biscuit",
+    "item": "McDonald's sausage biscuit"
+  },
+  "assumptions": "Standard McDonald's Sausage Biscuit: pork sausage patty on a buttermilk biscuit, no additions like egg or cheese.",
+  "disclaimer": "Nutrition varies by location, preparation, and menu changes; values based on standard U.S. McDonald's data. Check app or site for latest.",
+  "quick_answer": {
+    "total_kcal": 430,
+    "text": "A McDonald's Sausage Biscuit contains 430 calories with 12 g protein and 36 g carbs."
+  },
+  "basis": {
+    "label": "per 1 sausage biscuit",
+    "amount": 1,
+    "unit": "sausage biscuit",
+    "nutrition": {
+      "calories_kcal": 430,
+      "carbs_g": 36,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 12,
+      "fat_g": 26,
+      "sat_fat_g": 11,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 840
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 430,
+    "carbs_g": 36,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 12,
+    "fat_g": 26,
+    "sat_fat_g": 11,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 840
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.8
+  },
+  "tweaks": [
+    {
+      "label": "Add one slice of American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 480
+    },
+    {
+      "label": "Upgrade to Sausage Biscuit with Egg",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 550
+    },
+    {
+      "label": "Biscuit only (remove sausage patty)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 230
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a sausage biscuit McDonalds?",
+      "a": "430 calories for the standard Sausage Biscuit."
+    },
+    {
+      "q": "What's the fat content in McDonald's sausage biscuit?",
+      "a": "26 g total fat, including 11 g saturated fat."
+    },
+    {
+      "q": "How much sodium is in a McDonald's sausage biscuit?",
+      "a": "840 mg of sodium per sausage biscuit."
+    },
+    {
+      "q": "Does McDonald's sausage biscuit have fiber?",
+      "a": "About 1 g of dietary fiber from the biscuit."
+    },
+    {
+      "q": "How does the Sausage Biscuit compare to other McDonald's breakfast items?",
+      "a": "It's higher in fat than an Egg McMuffin (300 kcal) but similar in calories to a Bacon Biscuit (355 kcal)."
+    }
+  ]
+}

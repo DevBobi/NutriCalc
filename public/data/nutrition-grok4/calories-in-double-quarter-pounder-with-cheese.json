@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in double quarter pounder with cheese",
+  "title": "Calories in Double Quarter Pounder with Cheese",
+  "meta_description": "Discover calories in double quarter pounder with cheese: 740 kcal per burger, plus full macros, sodium, and tweaks for variations like no cheese.",
+  "slug": "calories-in-double-quarter-pounder-with-cheese",
+  "h1": "Calories in Double Quarter Pounder with Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "double quarter pounder with cheese"
+  },
+  "assumptions": "Standard McDonald's Double Quarter Pounder with Cheese: two 1/4 lb beef patties, American cheese, bun, onions, ketchup, mustard; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations. Values based on standard U.S. McDonald's data; check app or labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 740,
+    "text": "One Double Quarter Pounder with Cheese contains 740 kcal and 48 g protein."
+  },
+  "basis": {
+    "label": "per 1 burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 740,
+      "carbs_g": 42,
+      "fiber_g": 2,
+      "sugars_g": 10,
+      "protein_g": 48,
+      "fat_g": 42,
+      "sat_fat_g": 20,
+      "trans_fat_g": 2.5,
+      "cholesterol_mg": 150,
+      "sodium_mg": 1260
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 740,
+    "carbs_g": 42,
+    "fiber_g": 2,
+    "sugars_g": 10,
+    "protein_g": 48,
+    "fat_g": 42,
+    "sat_fat_g": 20,
+    "trans_fat_g": 2.5,
+    "cholesterol_mg": 150,
+    "sodium_mg": 1260
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.1
+  },
+  "tweaks": [
+    {
+      "label": "Remove cheese slices",
+      "delta_kcal_per_unit": -110,
+      "new_total_kcal": 630
+    },
+    {
+      "label": "Add bacon (2 strips)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 810
+    },
+    {
+      "label": "No bun (lettuce wrap)",
+      "delta_kcal_per_unit": -190,
+      "new_total_kcal": 550
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Double Quarter Pounder with Cheese?",
+      "a": "Approximately 740 kcal for the standard burger."
+    },
+    {
+      "q": "What's the protein in double quarter pounder with cheese?",
+      "a": "About 48 g of protein per burger."
+    },
+    {
+      "q": "How much sodium is in a Double Quarter Pounder with Cheese?",
+      "a": "Around 1260 mg, so watch intake if sodium-sensitive."
+    },
+    {
+      "q": "Are there trans fats in double quarter pounder with cheese?",
+      "a": "Yes, about 2.5 g per burger from the beef patties."
+    },
+    {
+      "q": "How do customizations affect calories in Double Quarter Pounder with Cheese?",
+      "a": "Removing cheese saves ~110 kcal; adding extras like bacon adds ~70 kcal."
+    }
+  ]
+}

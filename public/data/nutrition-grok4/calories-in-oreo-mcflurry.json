@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in oreo mcflurry",
+  "title": "Calories in Oreo McFlurry",
+  "meta_description": "Learn calories in Oreo McFlurry with full nutrition facts, macros like carbs and fat, plus tweaks and FAQs for McDonald's treat.",
+  "slug": "calories-in-oreo-mcflurry",
+  "h1": "Calories in Oreo McFlurry",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "McFlurry",
+    "item": "Oreo McFlurry"
+  },
+  "assumptions": "Standard McDonald's regular size Oreo McFlurry (about 340g), vanilla soft serve with Oreo cookie pieces, no customizations.",
+  "disclaimer": "Nutrition varies by location, portion size, and recipe changes; check McDonald's app or labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 510,
+    "text": "A regular Oreo McFlurry packs ~510 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 regular Oreo McFlurry",
+    "amount": 1,
+    "unit": "McFlurry",
+    "nutrition": {
+      "calories_kcal": 510,
+      "carbs_g": 73,
+      "fiber_g": 1,
+      "sugars_g": 55,
+      "protein_g": 8,
+      "fat_g": 20,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 40,
+      "sodium_mg": 260
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 510,
+    "carbs_g": 73,
+    "fiber_g": 1,
+    "sugars_g": 55,
+    "protein_g": 8,
+    "fat_g": 20,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 40,
+    "sodium_mg": 260
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.13
+  },
+  "tweaks": [
+    {
+      "label": "Choose small size instead of regular",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Add extra Oreo cookie topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 560
+    },
+    {
+      "label": "M&M's variation instead of Oreo",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 530
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a regular Oreo McFlurry?",
+      "a": "Approximately 510 kcal for one regular serving."
+    },
+    {
+      "q": "What are the carbs in Oreo McFlurry?",
+      "a": "About 73g total carbs, including 55g sugars and 1g fiber."
+    },
+    {
+      "q": "Is Oreo McFlurry high in fat?",
+      "a": "Yes, 20g total fat with 12g saturated per serving."
+    },
+    {
+      "q": "Calories in small vs. large Oreo McFlurry?",
+      "a": "Small: ~360 kcal; large: ~680 kcal; varies by location."
+    },
+    {
+      "q": "Does Oreo McFlurry have protein?",
+      "a": "Around 8g protein from the soft serve base."
+    }
+  ]
+}

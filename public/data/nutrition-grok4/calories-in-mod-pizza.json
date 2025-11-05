@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mod pizza",
+  "title": "Calories in MOD Pizza",
+  "meta_description": "Discover calories in mod pizza for a standard 11-inch Mod size, including macros, sodium, and tweaks for custom builds—perfect for tracking your pizza intake.",
+  "slug": "calories-in-mod-pizza",
+  "h1": "Calories in MOD Pizza",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "pizza",
+    "item": "mod pizza"
+  },
+  "assumptions": "11-inch Mod size pizza with thin crust, red sauce, mozzarella cheese, and standard toppings (e.g., pepperoni); no extra customizations.",
+  "disclaimer": "Nutrition varies by exact toppings, crust type, size, and preparation at MOD Pizza locations. Check their app or menu for precise values.",
+  "quick_answer": {
+    "total_kcal": 820,
+    "text": "A standard MOD Mod pizza contains about 820 kcal with balanced macros for a satisfying meal."
+  },
+  "basis": {
+    "label": "per 1 mod pizza",
+    "amount": 1,
+    "unit": "pizza",
+    "nutrition": {
+      "calories_kcal": 820,
+      "carbs_g": 92,
+      "fiber_g": 5,
+      "sugars_g": 9,
+      "protein_g": 36,
+      "fat_g": 36,
+      "sat_fat_g": 16,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 85,
+      "sodium_mg": 1850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 820,
+    "carbs_g": 92,
+    "fiber_g": 5,
+    "sugars_g": 9,
+    "protein_g": 36,
+    "fat_g": 36,
+    "sat_fat_g": 16,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 85,
+    "sodium_mg": 1850
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.43
+  },
+  "tweaks": [
+    {
+      "label": "Add extra cheese (1 oz more)",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 930
+    },
+    {
+      "label": "Vegetarian version (no pepperoni, add veggies)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 770
+    },
+    {
+      "label": "Cauliflower crust swap",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 720
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a mod pizza from MOD?",
+      "a": "Approximately 820 kcal for a standard 11-inch Mod pizza with typical toppings."
+    },
+    {
+      "q": "What are the macros for calories in mod pizza?",
+      "a": "About 92 g carbs, 36 g protein, 36 g fat, including 16 g saturated fat."
+    },
+    {
+      "q": "Is mod pizza high in sodium?",
+      "a": "Yes, around 1850 mg sodium per pizza due to cheese, sauce, and toppings."
+    },
+    {
+      "q": "How do custom toppings affect calories in mod pizza?",
+      "a": "Meats and cheeses add 50-150 kcal; veggies and lighter options reduce by 50-100 kcal."
+    },
+    {
+      "q": "Calories in mod pizza vs. mini size?",
+      "a": "Mod (11-inch) is ~820 kcal; mini (6-inch) is roughly half at 400-500 kcal."
+    }
+  ]
+}

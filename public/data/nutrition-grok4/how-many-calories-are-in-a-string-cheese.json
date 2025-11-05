@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a string cheese",
+  "title": "How Many Calories Are in a String Cheese?",
+  "meta_description": "Discover how many calories are in a string cheese stick, including protein, fat, carbs, and full nutrition breakdown for easy tracking.",
+  "slug": "how-many-calories-are-in-a-string-cheese",
+  "h1": "How Many Calories Are in a String Cheese?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "stick",
+    "item": "string cheese"
+  },
+  "assumptions": "Standard 1 oz (28g) low-moisture, part-skim mozzarella string cheese stick; no added flavors or wrappers.",
+  "disclaimer": "Nutrition varies by brand, fat content, size, and processing; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "One string cheese stick provides ~80 kcal and ~7 g protein."
+  },
+  "basis": {
+    "label": "per 1 string cheese stick",
+    "amount": 1,
+    "unit": "stick",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 7,
+      "fat_g": 6,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 7,
+    "fat_g": 6,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat version (reduced fat mozzarella)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Add 1 tsp marinara dipping sauce",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Whole milk mozzarella (higher fat)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 95
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a string cheese?",
+      "a": "About 80 kcal for one standard 28g stick."
+    },
+    {
+      "q": "Is string cheese high in protein?",
+      "a": "Yes, one stick has ~7 g protein, making it a good snack option."
+    },
+    {
+      "q": "What are the carbs in string cheese?",
+      "a": "Very low—only 1 g carbs per stick, with 0 g fiber and sugars."
+    },
+    {
+      "q": "Does string cheese have a lot of sodium?",
+      "a": "It contains ~200 mg sodium per stick, so watch intake if on a low-sodium diet."
+    },
+    {
+      "q": "How does brand affect calories in string cheese?",
+      "a": "Brands vary; low-fat options are lower (50-70 kcal), full-fat higher (90+ kcal)."
+    }
+  ]
+}

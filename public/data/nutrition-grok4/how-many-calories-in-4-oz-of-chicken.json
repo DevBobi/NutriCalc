@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 4 oz of chicken",
+  "title": "How Many Calories in 4 oz of Chicken?",
+  "meta_description": "Learn how many calories in 4 oz of chicken, plus detailed nutrition like protein, fat, carbs, and tweaks for variations in preparation.",
+  "slug": "how-many-calories-in-4-oz-of-chicken",
+  "h1": "How Many Calories in 4 oz of Chicken?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 4,
+    "unit": "oz",
+    "item": "chicken"
+  },
+  "assumptions": "Boneless, skinless chicken breast, cooked (roasted or grilled), no added oil, seasonings, or sauces; 4 oz ≈ 113 g.",
+  "disclaimer": "Nutrition varies by cut, cooking method, added ingredients, and exact weight. Check labels or use a food scale for precision.",
+  "quick_answer": {
+    "total_kcal": 187,
+    "text": "4 oz of cooked, skinless chicken breast provides about 187 kcal and 35 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 31,
+      "fat_g": 3.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 74
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 187,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 35,
+    "fat_g": 4.1,
+    "sat_fat_g": 1.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 96,
+    "sodium_mg": 84
+  },
+  "label_note": "Totals are scaled from the per-100 g basis and mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.78
+  },
+  "tweaks": [
+    {
+      "label": "Skin-on, roasted (vs. skinless)",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 221
+    },
+    {
+      "label": "Add 1 tsp oil for cooking per 4 oz",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 227
+    },
+    {
+      "label": "Breaded and fried (vs. plain grilled)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 287
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in 4 oz of cooked chicken breast?",
+      "a": "Approximately 187 kcal for boneless, skinless, cooked chicken breast."
+    },
+    {
+      "q": "What is the protein content in 4 oz of chicken?",
+      "a": "About 35 g of protein, making it a high-protein, low-carb option."
+    },
+    {
+      "q": "Does the type of chicken affect calories in 4 oz?",
+      "a": "Yes—thighs or skin-on have more fat and calories than breast; assumptions here are for breast."
+    },
+    {
+      "q": "Are these calories for raw or cooked chicken?",
+      "a": "Cooked weight; raw 4 oz would be higher in water content, yielding less after cooking."
+    },
+    {
+      "q": "How does cooking method change calories in 4 oz chicken?",
+      "a": "Grilling or roasting keeps it low; frying or adding oil/breading can add 40–100+ kcal."
+    }
+  ]
+}

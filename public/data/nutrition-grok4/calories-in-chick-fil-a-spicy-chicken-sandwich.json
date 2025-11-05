@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chick fil a spicy chicken sandwich",
+  "title": "Calories in Chick-fil-A Spicy Chicken Sandwich",
+  "meta_description": "Discover calories in chick fil a spicy chicken sandwich: 440 kcal total, plus full nutrition breakdown including protein, carbs, fat, and FAQs for easy tracking.",
+  "slug": "calories-in-chick-fil-a-spicy-chicken-sandwich",
+  "h1": "Calories in Chick-fil-A Spicy Chicken Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Chick-fil-A spicy chicken sandwich"
+  },
+  "assumptions": "Official Chick-fil-A values: breaded spicy chicken filet, toasted buttery bun, pickle chips; no customizations or sides.",
+  "disclaimer": "Nutrition varies by location, preparation, and custom orders. Check Chick-fil-A app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 440,
+    "text": "One Chick-fil-A Spicy Chicken Sandwich contains 440 calories and 28 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 440,
+      "carbs_g": 41,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 28,
+      "fat_g": 19,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 75,
+      "sodium_mg": 1900
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 440,
+    "carbs_g": 41,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 28,
+    "fat_g": 19,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 75,
+    "sodium_mg": 1900
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.84
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 slice American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 490
+    },
+    {
+      "label": "No bun (chicken filet and pickles only)",
+      "delta_kcal_per_unit": -250,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Grilled instead of breaded spicy chicken",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 340
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Chick-fil-A spicy chicken sandwich?",
+      "a": "440 calories per sandwich based on standard recipe."
+    },
+    {
+      "q": "What's the protein in a Chick-fil-A spicy chicken sandwich?",
+      "a": "28 g of protein from the breaded chicken filet."
+    },
+    {
+      "q": "How much sodium is in Chick-fil-A spicy chicken sandwich?",
+      "a": "1900 mg, mostly from breading and pickles."
+    },
+    {
+      "q": "Are there trans fats in Chick-fil-A spicy chicken sandwich?",
+      "a": "0 g trans fat per sandwich."
+    },
+    {
+      "q": "How do calories compare to regular Chick-fil-A chicken sandwich?",
+      "a": "Spicy version has 440 kcal vs. 440 kcal for regular; similar but spicy has more seasoning."
+    }
+  ]
+}

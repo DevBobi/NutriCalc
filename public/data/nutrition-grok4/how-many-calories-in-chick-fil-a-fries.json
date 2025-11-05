@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in chick fil a fries",
+  "title": "How Many Calories in Chick-fil-A Fries?",
+  "meta_description": "Discover how many calories in Chick-fil-A fries for a medium serving, including carbs, fat, protein, sodium, and quick tweaks for sizes.",
+  "slug": "how-many-calories-in-chick-fil-a-fries",
+  "h1": "How Many Calories in Chick-fil-A Fries?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "medium serving",
+    "item": "Chick-fil-A waffle fries"
+  },
+  "assumptions": "Standard medium Waffle Potato Fries as served at Chick-fil-A; no added sauces or toppings.",
+  "disclaimer": "Nutrition varies by location, portion size, frying method, and customizations. Check Chick-fil-A app or menu for latest info.",
+  "quick_answer": {
+    "total_kcal": 420,
+    "text": "A medium serving of Chick-fil-A waffle fries has 420 kcal and 24 g fat."
+  },
+  "basis": {
+    "label": "per medium serving",
+    "amount": 1,
+    "unit": "medium serving",
+    "nutrition": {
+      "calories_kcal": 420,
+      "carbs_g": 45,
+      "fiber_g": 5,
+      "sugars_g": 0,
+      "protein_g": 5,
+      "fat_g": 24,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 240
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 420,
+    "carbs_g": 45,
+    "fiber_g": 5,
+    "sugars_g": 0,
+    "protein_g": 5,
+    "fat_g": 24,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 240
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.76
+  },
+  "tweaks": [
+    {
+      "label": "Small serving instead of medium",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Large serving instead of medium",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 520
+    },
+    {
+      "label": "Add 1 packet ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 440
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a medium Chick-fil-A fries?",
+      "a": "420 kcal for a standard medium serving."
+    },
+    {
+      "q": "What are the carbs in Chick-fil-A fries?",
+      "a": "45 g carbs, including 5 g fiber, per medium serving."
+    },
+    {
+      "q": "Are Chick-fil-A fries high in sodium?",
+      "a": "Yes, 240 mg sodium per medium serving."
+    },
+    {
+      "q": "How does small vs. large Chick-fil-A fries compare in calories?",
+      "a": "Small: ~320 kcal; large: ~520 kcal; medium: 420 kcal."
+    },
+    {
+      "q": "Do Chick-fil-A fries have protein?",
+      "a": "About 5 g protein per medium serving from potatoes."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a piece of cake",
+  "title": "How Many Calories in a Piece of Cake?",
+  "meta_description": "Discover how many calories in a piece of cake, including carbs, protein, fat, and full nutrition breakdown with tweaks and FAQs for better choices.",
+  "slug": "how-many-calories-in-a-piece-of-cake",
+  "h1": "How Many Calories in a Piece of Cake?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "piece",
+    "item": "cake"
+  },
+  "assumptions": "Standard slice of chocolate cake with frosting, approximately 85g, baked from typical recipe.",
+  "disclaimer": "Nutrition varies by type, size, recipe, frosting, and brand. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A standard piece of chocolate cake has about 350 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 piece",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 50,
+      "fiber_g": 1,
+      "sugars_g": 35,
+      "protein_g": 4,
+      "fat_g": 15,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 50,
+    "fiber_g": 1,
+    "sugars_g": 35,
+    "protein_g": 4,
+    "fat_g": 15,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Without frosting",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add 1 scoop vanilla ice cream",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 550
+    },
+    {
+      "label": "Carrot cake variation (with nuts, lower sugar)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a piece of cake?",
+      "a": "About 350 kcal for a standard chocolate slice with frosting."
+    },
+    {
+      "q": "What's the carb count in a piece of cake?",
+      "a": "Roughly 50 g carbs, including 35 g sugars, per slice."
+    },
+    {
+      "q": "Does cake have much protein?",
+      "a": "Only about 4 g protein per piece; it's not a high-protein food."
+    },
+    {
+      "q": "How does cake type affect calories?",
+      "a": "Cheesecake or fruit cake may be lower (200-300 kcal), while layered or frosted is higher."
+    },
+    {
+      "q": "Is cake high in saturated fat?",
+      "a": "Yes, around 6 g saturated fat per piece from butter or cream in the recipe."
+    }
+  ]
+}

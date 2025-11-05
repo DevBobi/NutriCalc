@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken pasta alfredo",
+  "title": "Calories in Chicken Pasta Alfredo",
+  "meta_description": "Discover calories in chicken pasta alfredo for a standard serving, including macros like protein and fat, plus tweaks and FAQs for better meal planning.",
+  "slug": "calories-in-chicken-pasta-alfredo",
+  "h1": "Calories in Chicken Pasta Alfredo",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "chicken pasta alfredo"
+  },
+  "assumptions": "Standard homemade recipe: 100g cooked fettuccine, 100g grilled chicken breast, alfredo sauce (butter, heavy cream, parmesan); ~300g total serving.",
+  "disclaimer": "Nutrition varies by recipe, portion size, ingredients, and preparation; restaurant versions may differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 650,
+    "text": "One serving of chicken pasta alfredo provides ~650 kcal with 35 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 650,
+      "carbs_g": 50,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 35,
+      "fat_g": 35,
+      "sat_fat_g": 18,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 150,
+      "sodium_mg": 900
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 650,
+    "carbs_g": 50,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 35,
+    "fat_g": 35,
+    "sat_fat_g": 18,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 150,
+    "sodium_mg": 900
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.72
+  },
+  "tweaks": [
+    {
+      "label": "Use light cream in alfredo sauce",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Add extra 50g chicken breast",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 730
+    },
+    {
+      "label": "Substitute whole wheat pasta",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 630
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in chicken pasta alfredo per serving?",
+      "a": "About 650 kcal for a standard 300g homemade serving."
+    },
+    {
+      "q": "What's the protein in chicken pasta alfredo?",
+      "a": "Roughly 35 g protein from the chicken and cheese."
+    },
+    {
+      "q": "Is chicken pasta alfredo high in fat?",
+      "a": "Yes, ~35 g total fat, mostly from cream and butter in the sauce."
+    },
+    {
+      "q": "How to reduce calories in chicken pasta alfredo?",
+      "a": "Use light cream, less butter, or more veggies; can cut ~150 kcal."
+    },
+    {
+      "q": "Sodium content in chicken pasta alfredo?",
+      "a": "Around 900 mg per serving, mainly from cheese and seasonings."
+    }
+  ]
+}

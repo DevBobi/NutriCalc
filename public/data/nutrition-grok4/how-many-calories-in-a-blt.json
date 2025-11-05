@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a blt",
+  "title": "How Many Calories in a BLT?",
+  "meta_description": "Discover how many calories in a BLT sandwich, including full nutrition breakdown like protein, fat, carbs, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-blt",
+  "h1": "How Many Calories in a BLT?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "BLT",
+    "item": "BLT sandwich"
+  },
+  "assumptions": "Standard BLT: 2 slices white bread, 3 strips cooked bacon, 1-2 lettuce leaves, 1 tomato slice, 1 tbsp mayonnaise; toasted bread, no extras.",
+  "disclaimer": "Nutrition varies by brand, portion sizes, bread type, bacon thickness, and added ingredients like cheese or dressing. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 420,
+    "text": "A standard BLT sandwich contains about 420 calories and 15 g protein."
+  },
+  "basis": {
+    "label": "per 1 BLT sandwich",
+    "amount": 1,
+    "unit": "BLT sandwich",
+    "nutrition": {
+      "calories_kcal": 420,
+      "carbs_g": 35,
+      "fiber_g": 2,
+      "sugars_g": 4,
+      "protein_g": 15,
+      "fat_g": 25,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 40,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 420,
+    "carbs_g": 35,
+    "fiber_g": 2,
+    "sugars_g": 4,
+    "protein_g": 15,
+    "fat_g": 25,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 40,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.76
+  },
+  "tweaks": [
+    {
+      "label": "Use turkey bacon instead of pork bacon",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Add 1 slice cheddar cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Switch to whole wheat bread and light mayo",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 370
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a BLT sandwich?",
+      "a": "Approximately 420 calories for a standard BLT."
+    },
+    {
+      "q": "What's the protein in a BLT?",
+      "a": "About 15 g protein, mostly from the bacon and bread."
+    },
+    {
+      "q": "Are BLTs high in sodium?",
+      "a": "Yes, around 800 mg due to bacon and bread; opt for low-sodium versions to reduce."
+    },
+    {
+      "q": "How to make a lower-calorie BLT?",
+      "a": "Use turkey bacon, light mayo, and whole grain bread to cut about 50-60 kcal."
+    },
+    {
+      "q": "Does adding avocado change BLT calories?",
+      "a": "Yes, 1/4 avocado adds ~80 kcal and healthy fats, making total around 500 kcal."
+    }
+  ]
+}

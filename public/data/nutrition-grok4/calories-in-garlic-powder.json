@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in garlic powder",
+  "title": "Calories in Garlic Powder",
+  "meta_description": "Discover calories in garlic powder per teaspoon, including carbs, protein, sodium, and full nutrition breakdown for easy meal planning.",
+  "slug": "calories-in-garlic-powder",
+  "h1": "Calories in Garlic Powder",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tsp",
+    "item": "garlic powder"
+  },
+  "assumptions": "Standard garlic powder, finely ground; 1 tsp ≈ 3 g; no added salt or fillers.",
+  "disclaimer": "Nutrition varies by brand, processing, and additives like anti-caking agents. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 10,
+    "text": "One teaspoon of garlic powder has about 10 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 tsp",
+    "amount": 1,
+    "unit": "tsp",
+    "nutrition": {
+      "calories_kcal": 10,
+      "carbs_g": 2.3,
+      "fiber_g": 0.3,
+      "sugars_g": 0.1,
+      "protein_g": 0.5,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 10,
+    "carbs_g": 2.3,
+    "fiber_g": 0.3,
+    "sugars_g": 0.1,
+    "protein_g": 0.5,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.04
+  },
+  "tweaks": [
+    {
+      "label": "Use 1 tbsp (3 tsp) instead of 1 tsp",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 30
+    },
+    {
+      "label": "Garlic powder with added salt per tsp",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 10
+    },
+    {
+      "label": "Organic vs. standard (minimal difference)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 10
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tsp garlic powder?",
+      "a": "About 10 kcal per teaspoon."
+    },
+    {
+      "q": "Does garlic powder have carbs?",
+      "a": "Yes, around 2.3 g carbs per tsp, with 0.3 g fiber."
+    },
+    {
+      "q": "Is garlic powder low in sodium?",
+      "a": "Very low—only 1 mg per tsp in plain varieties."
+    },
+    {
+      "q": "Calories in garlic powder per 100 g?",
+      "a": "Approximately 331 kcal per 100 g."
+    },
+    {
+      "q": "Can garlic powder replace fresh garlic?",
+      "a": "Yes, but 1 tsp powder equals about 1 clove; calories are lower in powder due to dehydration."
+    }
+  ]
+}

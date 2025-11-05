@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in an old fashioned",
+  "title": "How Many Calories in an Old Fashioned?",
+  "meta_description": "Discover how many calories in an old fashioned cocktail, including carbs, sugars, alcohol content, and recipe tweaks for lower calories.",
+  "slug": "how-many-calories-in-an-old-fashioned",
+  "h1": "How Many Calories in an Old Fashioned?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "old fashioned",
+    "item": "old fashioned cocktail"
+  },
+  "assumptions": "Standard recipe: 2 oz bourbon whiskey, 1 sugar cube (4 g), 2 dashes Angostura bitters, orange twist; stirred with ice, no added soda.",
+  "disclaimer": "Nutrition varies by whiskey brand, pour size, sugar amount, and garnishes; homemade vs. bar versions differ. Consult sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 155,
+    "text": "An Old Fashioned has about 155 calories, primarily from the bourbon and sugar."
+  },
+  "basis": {
+    "label": "per 1 Old Fashioned cocktail",
+    "amount": 1,
+    "unit": "old fashioned",
+    "nutrition": {
+      "calories_kcal": 155,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sugars_g": 6,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 155,
+    "carbs_g": 6,
+    "fiber_g": 0,
+    "sugars_g": 6,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.65
+  },
+  "tweaks": [
+    {
+      "label": "Use a sugar substitute (e.g., stevia) instead of sugar cube",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add 1 oz soda water (splash for Old Fashioned variation)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 155
+    },
+    {
+      "label": "Double sugar (2 cubes) for sweeter version",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an old fashioned without sugar?",
+      "a": "About 140 kcal, mostly from the 2 oz bourbon."
+    },
+    {
+      "q": "What contributes most to calories in an old fashioned?",
+      "a": "The whiskey (around 140 kcal) and sugar (15 kcal); bitters add negligible amounts."
+    },
+    {
+      "q": "Are there carbs in an old fashioned?",
+      "a": "Yes, about 6 g from the sugar; no fiber."
+    },
+    {
+      "q": "How does bar vs. home Old Fashioned calorie count differ?",
+      "a": "Bar versions may use larger pours or extra sugar, increasing to 200+ kcal; home control keeps it around 155."
+    },
+    {
+      "q": "Can I make a low-calorie old fashioned?",
+      "a": "Yes, swap sugar for a zero-calorie sweetener and use a lighter whiskey pour to drop under 150 kcal."
+    }
+  ]
+}

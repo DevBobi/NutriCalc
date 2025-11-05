@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a vietnamese sandwich",
+  "title": "Calories in a Vietnamese Sandwich",
+  "meta_description": "Discover calories in a Vietnamese sandwich (banh mi), including full nutrition breakdown, protein, carbs, fat, and easy tweaks for variations.",
+  "slug": "calories-in-a-vietnamese-sandwich",
+  "h1": "Calories in a Vietnamese Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Vietnamese sandwich"
+  },
+  "assumptions": "Standard pork banh mi: 6-inch baguette, pate, grilled pork, pickled carrots/daikon, cucumber, cilantro, chili; no extra mayo.",
+  "disclaimer": "Nutrition varies by recipe, portion size, ingredients, and vendor; values are averages. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 600,
+    "text": "A typical Vietnamese sandwich (banh mi) has about 600 kcal, with ~25 g protein and ~70 g carbs from the baguette."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 600,
+      "carbs_g": 70,
+      "fiber_g": 4,
+      "sugars_g": 5,
+      "protein_g": 25,
+      "fat_g": 25,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 1500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 600,
+    "carbs_g": 70,
+    "fiber_g": 4,
+    "sugars_g": 5,
+    "protein_g": 25,
+    "fat_g": 25,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 1500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.51
+  },
+  "tweaks": [
+    {
+      "label": "Vegetarian tofu version (replace pork with tofu)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Add 1 tbsp extra mayo",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 690
+    },
+    {
+      "label": "Grilled chicken instead of pork",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 550
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Vietnamese sandwich?",
+      "a": "Around 600 kcal for a standard pork banh mi."
+    },
+    {
+      "q": "What's the protein in a banh mi?",
+      "a": "About 25 g, mainly from the pork or protein filling."
+    },
+    {
+      "q": "Are Vietnamese sandwiches high in sodium?",
+      "a": "Yes, typically ~1500 mg due to pate, soy sauce, and pickled veggies."
+    },
+    {
+      "q": "How do carbs break down in a Vietnamese sandwich?",
+      "a": "Mostly from the baguette: ~70 g total carbs, 4 g fiber."
+    },
+    {
+      "q": "Can I make a lower-calorie Vietnamese sandwich?",
+      "a": "Yes, opt for whole-grain bread or leaner proteins like chicken to reduce by 50-100 kcal."
+    }
+  ]
+}

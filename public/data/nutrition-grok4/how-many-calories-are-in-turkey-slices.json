@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in turkey slices",
+  "title": "How Many Calories Are in Turkey Slices?",
+  "meta_description": "Discover how many calories are in turkey slices per 100 g serving, including protein, fat, carbs, sodium details, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-are-in-turkey-slices",
+  "h1": "How Many Calories Are in Turkey Slices?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "turkey slices"
+  },
+  "assumptions": "Deli-style sliced turkey breast, oven-roasted, low-fat, no added sugars or fillers; typical thickness for 3-4 slices per 100 g.",
+  "disclaimer": "Nutrition varies by brand, processing, sodium content, and slice thickness. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "100 g of turkey slices provides about 110 kcal and 21 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 21,
+      "fat_g": 2.5,
+      "sat_fat_g": 0.8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 2,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 21,
+    "fat_g": 2.5,
+    "sat_fat_g": 0.8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 800
+  },
+  "label_note": "Values align with standard Nutrition Facts panels for easy label comparison.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp mustard per 100 g (low-cal spread)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 115
+    },
+    {
+      "label": "Smoked variety (higher sodium, slightly more fat)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 125
+    },
+    {
+      "label": "Honey-glazed turkey slices",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 130
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in turkey slices per serving?",
+      "a": "About 110 kcal in 100 g (roughly 3-4 slices), depending on the brand."
+    },
+    {
+      "q": "Are turkey slices high in protein?",
+      "a": "Yes, 100 g provides around 21 g of protein, great for low-carb diets."
+    },
+    {
+      "q": "What's the sodium content in turkey slices?",
+      "a": "Typically 800 mg per 100 g; opt for low-sodium versions to reduce intake."
+    },
+    {
+      "q": "Do turkey slices have carbs?",
+      "a": "Minimal, about 2 g per 100 g, mostly from any added starches or sugars."
+    },
+    {
+      "q": "How do calories in turkey slices compare to ham?",
+      "a": "Turkey slices are often lower at 110 kcal per 100 g vs. 120-150 kcal for ham."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sake wine",
+  "title": "Calories in Sake Wine",
+  "meta_description": "Discover calories in sake wine per 100 ml serving, including carbs, alcohol content, full nutrition breakdown, and serving tweaks for better tracking.",
+  "slug": "calories-in-sake-wine",
+  "h1": "Calories in Sake Wine",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "ml",
+    "item": "sake wine"
+  },
+  "assumptions": "Dry sake wine, 15% ABV, room temperature, no added sugars or mixers; values approximate standard Japanese rice wine.",
+  "disclaimer": "Nutrition varies by brand, ABV, sweetness level, and serving size; alcohol content affects calories. Consult labels for precision.",
+  "quick_answer": {
+    "total_kcal": 105,
+    "text": "Sake wine contains about 105 kcal per 100 ml, mostly from alcohol and residual carbs."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 105,
+      "carbs_g": 4.5,
+      "fiber_g": 0,
+      "sugars_g": 0.5,
+      "protein_g": 0.8,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 105,
+    "carbs_g": 4.5,
+    "fiber_g": 0,
+    "sugars_g": 0.5,
+    "protein_g": 0.8,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.44
+  },
+  "tweaks": [
+    {
+      "label": "Sweet sake (honjozo style, higher sugars)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 125
+    },
+    {
+      "label": "Mixed with 50 ml soda water (diluted serving)",
+      "delta_kcal_per_unit": -52,
+      "new_total_kcal": 53
+    },
+    {
+      "label": "Hot sake (steamed, no calorie change but volume may vary)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 105
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a standard glass of sake wine?",
+      "a": "A typical 150 ml pour has about 158 kcal; adjust for serving size."
+    },
+    {
+      "q": "Does sake wine have carbs?",
+      "a": "Yes, around 4.5 g carbs per 100 ml, mainly from rice fermentation."
+    },
+    {
+      "q": "What's the alcohol content in sake and how does it affect calories?",
+      "a": "Usually 15-20% ABV; alcohol contributes ~7 kcal per gram, making up most calories."
+    },
+    {
+      "q": "Is sake wine low in fat or sodium?",
+      "a": "Yes, 0 g fat and very low sodium (~5 mg per 100 ml) in plain sake."
+    },
+    {
+      "q": "How do calories in sake compare to other wines?",
+      "a": "Similar to dry white wine at ~100-120 kcal per 100 ml, but sake has more carbs from rice."
+    }
+  ]
+}

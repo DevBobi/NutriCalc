@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 6 oz salmon",
+  "title": "Calories in 6 oz Salmon",
+  "meta_description": "Discover calories in 6 oz salmon, including protein, fat, carbs, full nutrition breakdown per 100 g basis, and preparation tweaks for better tracking.",
+  "slug": "calories-in-6-oz-salmon",
+  "h1": "Calories in 6 oz Salmon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 6,
+    "unit": "oz",
+    "item": "salmon"
+  },
+  "assumptions": "Farmed Atlantic salmon, cooked (baked or grilled), skinless, no added oil, salt, or seasonings; 6 oz ≈ 170 g.",
+  "disclaimer": "Nutrition varies by type (wild vs. farmed), cut, cooking method, and portion size. Check labels or sources for exact values.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "6 oz cooked salmon offers ~350 kcal and ~37 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 206,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 22,
+      "fat_g": 12,
+      "sat_fat_g": 2.3,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 63,
+      "sodium_mg": 61
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 37,
+    "fat_g": 20,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 107,
+    "sodium_mg": 104
+  },
+  "label_note": "Totals are scaled from the per-100 g basis and mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil during cooking per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 418
+    },
+    {
+      "label": "Wild salmon (vs. farmed) per 100 g, lower fat",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 265
+    },
+    {
+      "label": "Pan-fried with skin on per 100 g",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 452
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 6 oz cooked salmon?",
+      "a": "Approximately 350 kcal for 6 oz (170 g) cooked farmed salmon."
+    },
+    {
+      "q": "What's the protein in 6 oz salmon?",
+      "a": "About 37 g of protein, making it a great lean source."
+    },
+    {
+      "q": "Does salmon have carbs or fiber?",
+      "a": "Zero carbs and zero fiber per serving under these assumptions."
+    },
+    {
+      "q": "How does wild vs. farmed salmon differ in calories?",
+      "a": "Wild salmon typically has fewer calories (~150-180 kcal/100 g) due to lower fat content."
+    },
+    {
+      "q": "Is 6 oz salmon a standard serving size?",
+      "a": "Yes, it's a common portion; raw weight may yield slightly less after cooking."
+    }
+  ]
+}

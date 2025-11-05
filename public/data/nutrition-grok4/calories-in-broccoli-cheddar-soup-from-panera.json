@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in broccoli cheddar soup from panera",
+  "title": "Calories in Panera Broccoli Cheddar Soup",
+  "meta_description": "Learn calories in broccoli cheddar soup from Panera (1 bowl): ~360 kcal, with full macros, sodium details, and serving tweaks for your meal planning.",
+  "slug": "calories-in-broccoli-cheddar-soup-from-panera",
+  "h1": "Calories in Panera Broccoli Cheddar Soup",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "broccoli cheddar soup from Panera"
+  },
+  "assumptions": "Standard full bowl serving (~12 oz or 340 g), as per Panera Bread's official nutrition; includes broccoli, cheddar cheese, cream base.",
+  "disclaimer": "Nutrition varies by location, recipe updates, portion size, and customizations; check Panera's app or menu for latest values.",
+  "quick_answer": {
+    "total_kcal": 360,
+    "text": "One bowl of Panera's broccoli cheddar soup contains ~360 kcal and ~14 g protein."
+  },
+  "basis": {
+    "label": "per 1 bowl",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 360,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sugars_g": 8,
+      "protein_g": 14,
+      "fat_g": 24,
+      "sat_fat_g": 14,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 65,
+      "sodium_mg": 1330
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 360,
+    "carbs_g": 38,
+    "fiber_g": 3,
+    "sugars_g": 8,
+    "protein_g": 14,
+    "fat_g": 24,
+    "sat_fat_g": 14,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 65,
+    "sodium_mg": 1330
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.51
+  },
+  "tweaks": [
+    {
+      "label": "Cup serving (half bowl, ~6 oz)",
+      "delta_kcal_per_unit": -180,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Add a bread bowl (replaces bowl)",
+      "delta_kcal_per_unit": 190,
+      "new_total_kcal": 550
+    },
+    {
+      "label": "Vegetarian swap: use low-sodium broth",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bowl of broccoli cheddar soup from Panera?",
+      "a": "Approximately 360 kcal per full bowl serving."
+    },
+    {
+      "q": "What's the protein in Panera broccoli cheddar soup?",
+      "a": "About 14 g protein per bowl."
+    },
+    {
+      "q": "Is Panera broccoli cheddar soup high in sodium?",
+      "a": "Yes, ~1330 mg sodium per bowl—nearly a full day's worth."
+    },
+    {
+      "q": "How many carbs in broccoli cheddar soup from Panera?",
+      "a": "Around 38 g carbs, including 3 g fiber, per bowl."
+    },
+    {
+      "q": "Can I get a lower calorie version at Panera?",
+      "a": "Opt for a cup (180 kcal) or pair with a side salad instead of bread."
+    }
+  ]
+}

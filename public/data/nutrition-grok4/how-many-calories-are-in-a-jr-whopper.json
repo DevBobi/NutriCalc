@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a jr whopper",
+  "title": "How Many Calories Are in a Jr Whopper?",
+  "meta_description": "Discover how many calories are in a Jr Whopper, including full nutrition breakdown with protein, carbs, fat, and quick tweaks for variations.",
+  "slug": "how-many-calories-are-in-a-jr-whopper",
+  "h1": "How Many Calories Are in a Jr Whopper?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "Jr Whopper"
+  },
+  "assumptions": "Standard Burger King Jr Whopper: flame-grilled beef patty, sesame seed bun, lettuce, tomatoes, pickles, onions, ketchup, mayo; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations. Values based on standard US recipe; check Burger King app or packaging for exacts.",
+  "quick_answer": {
+    "total_kcal": 310,
+    "text": "A Jr Whopper contains about 310 calories and 15 g of protein."
+  },
+  "basis": {
+    "label": "per 1 Jr Whopper",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 310,
+      "carbs_g": 28,
+      "fiber_g": 1,
+      "sugars_g": 7,
+      "protein_g": 15,
+      "fat_g": 16,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 30,
+      "sodium_mg": 580
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 310,
+    "carbs_g": 28,
+    "fiber_g": 1,
+    "sugars_g": 7,
+    "protein_g": 15,
+    "fat_g": 16,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30,
+    "sodium_mg": 580
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.3
+  },
+  "tweaks": [
+    {
+      "label": "Remove mayonnaise",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Add one slice of American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "No bun (lettuce wrap)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 160
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a Jr Whopper?",
+      "a": "Approximately 310 calories for a standard Jr Whopper."
+    },
+    {
+      "q": "What's the protein in a Jr Whopper?",
+      "a": "About 15 g of protein from the beef patty and bun."
+    },
+    {
+      "q": "Are there carbs in a Jr Whopper?",
+      "a": "Yes, around 28 g total carbs, mostly from the bun."
+    },
+    {
+      "q": "How much sodium is in a Jr Whopper?",
+      "a": "Roughly 580 mg, mainly from condiments and patty seasoning."
+    },
+    {
+      "q": "Does a Jr Whopper have trans fat?",
+      "a": "About 0.5 g, from the beef and any processed ingredients."
+    }
+  ]
+}

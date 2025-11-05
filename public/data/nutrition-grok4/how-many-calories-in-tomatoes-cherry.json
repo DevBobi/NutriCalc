@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in tomatoes cherry",
+  "title": "How Many Calories in Cherry Tomatoes?",
+  "meta_description": "Discover how many calories in tomatoes cherry (per 100g), including carbs, protein, fat, and nutrition facts for easy meal planning.",
+  "slug": "how-many-calories-in-tomatoes-cherry",
+  "h1": "How Many Calories in Cherry Tomatoes?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "cherry tomatoes"
+  },
+  "assumptions": "Fresh, raw cherry tomatoes; average size (~17g each), no added salt or seasonings.",
+  "disclaimer": "Nutrition varies by variety, ripeness, growing conditions, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 18,
+    "text": "100g of cherry tomatoes provide about 18 kcal and are rich in vitamins with minimal fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 18,
+      "carbs_g": 3.9,
+      "fiber_g": 1.2,
+      "sugars_g": 2.6,
+      "protein_g": 0.9,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 18,
+    "carbs_g": 3.9,
+    "fiber_g": 1.2,
+    "sugars_g": 2.6,
+    "protein_g": 0.9,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil dressing per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 58
+    },
+    {
+      "label": "Sun-dried cherry tomatoes (vs. fresh) per 100 g",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 168
+    },
+    {
+      "label": "Roasted with herbs (minimal oil) per 100 g",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 23
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g cherry tomatoes?",
+      "a": "About 18 kcal per 100g of fresh cherry tomatoes."
+    },
+    {
+      "q": "Are cherry tomatoes low carb?",
+      "a": "Yes, around 3.9g carbs per 100g, with 1.2g fiber."
+    },
+    {
+      "q": "How much protein in cherry tomatoes?",
+      "a": "Only 0.9g protein per 100g; they're mostly water and vitamins."
+    },
+    {
+      "q": "Do cherry tomatoes have fat?",
+      "a": "Very low at 0.2g total fat per 100g, with 0g saturated fat."
+    },
+    {
+      "q": "Calories in a cup of cherry tomatoes?",
+      "a": "About 27 kcal for 1 cup (~149g); scale from 18 kcal per 100g."
+    }
+  ]
+}

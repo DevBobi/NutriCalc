@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in california chicken cafe",
+  "title": "Calories in California Chicken Cafe",
+  "meta_description": "Discover calories in california chicken cafe dishes like their grilled chicken salad, plus full nutrition breakdown, protein, carbs, fat, and easy tweaks for your meal.",
+  "slug": "calories-in-california-chicken-cafe",
+  "h1": "Calories in California Chicken Cafe",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "california chicken cafe"
+  },
+  "assumptions": "Standard grilled chicken salad serving (~350 g) from California Chicken Cafe menu: romaine lettuce, grilled chicken breast, tomatoes, cheese, light dressing; no extras.",
+  "disclaimer": "Nutrition varies by exact menu item, portion size, ingredients, and preparation at California Chicken Cafe. Check their official menu or app for precise values.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "A standard California Chicken Cafe grilled chicken salad serving has ~450 kcal and ~35 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 25,
+      "fiber_g": 5,
+      "sugars_g": 6,
+      "protein_g": 35,
+      "fat_g": 22,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 90,
+      "sodium_mg": 850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 25,
+    "fiber_g": 5,
+    "sugars_g": 6,
+    "protein_g": 35,
+    "fat_g": 22,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 90,
+    "sodium_mg": 850
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with restaurant nutrition info.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "No dressing (remove ~2 tbsp vinaigrette)",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Add avocado slices",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Chicken wrap instead of salad (with tortilla)",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 600
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a California Chicken Cafe salad?",
+      "a": "About 450 kcal for a standard grilled chicken salad serving."
+    },
+    {
+      "q": "What is the protein in California Chicken Cafe chicken dish?",
+      "a": "Typically ~35 g protein per serving from the grilled chicken."
+    },
+    {
+      "q": "Are California Chicken Cafe meals low-carb?",
+      "a": "Yes, salads are ~25 g carbs; wraps add more from tortillas."
+    },
+    {
+      "q": "How much sodium in California Chicken Cafe food?",
+      "a": "Around 850 mg per serving, mainly from dressing and cheese."
+    },
+    {
+      "q": "Can I customize calories at California Chicken Cafe?",
+      "a": "Yes—skip dressing to cut ~120 kcal or add extras like avocado for more."
+    }
+  ]
+}

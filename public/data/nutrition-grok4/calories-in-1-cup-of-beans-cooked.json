@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cup of beans cooked",
+  "title": "Calories in 1 Cup of Cooked Beans",
+  "meta_description": "Discover calories in 1 cup of beans cooked, including protein, carbs, fiber, fat, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "calories-in-1-cup-of-beans-cooked",
+  "h1": "Calories in 1 Cup of Cooked Beans",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "beans cooked"
+  },
+  "assumptions": "Cooked kidney beans, drained and rinsed, no added salt, fat, or seasonings; ~177 g per cup.",
+  "disclaimer": "Nutrition varies by bean type, brand, cooking method, and added ingredients. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 225,
+    "text": "1 cup of cooked kidney beans provides ~225 kcal and ~15 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup cooked kidney beans",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 225,
+      "carbs_g": 40.4,
+      "fiber_g": 12.7,
+      "sugars_g": 0.6,
+      "protein_g": 15.3,
+      "fat_g": 0.9,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 225,
+    "carbs_g": 40.4,
+    "fiber_g": 12.7,
+    "sugars_g": 0.6,
+    "protein_g": 15.3,
+    "fat_g": 0.9,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.94
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 265
+    },
+    {
+      "label": "Use canned beans with added salt",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Switch to black beans (similar prep)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 215
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup of cooked beans?",
+      "a": "About 225 kcal for 1 cup cooked kidney beans."
+    },
+    {
+      "q": "What is the protein content in 1 cup of beans cooked?",
+      "a": "Roughly 15.3 g protein per cup."
+    },
+    {
+      "q": "Are cooked beans high in fiber?",
+      "a": "Yes, ~12.7 g dietary fiber per cup, aiding digestion."
+    },
+    {
+      "q": "Do cooked beans have fat or cholesterol?",
+      "a": "Low fat (~0.9 g) and 0 mg cholesterol per cup."
+    },
+    {
+      "q": "How does bean type affect calories in 1 cup cooked?",
+      "a": "Kidney ~225 kcal, black ~215 kcal, chickpeas ~269 kcal; varies slightly."
+    }
+  ]
+}

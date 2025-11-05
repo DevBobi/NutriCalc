@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in an espresso martini",
+  "title": "How Many Calories in an Espresso Martini?",
+  "meta_description": "Discover how many calories in an espresso martini, including carbs, sugars, and full nutrition breakdown for one standard serving, plus recipe tweaks.",
+  "slug": "how-many-calories-in-an-espresso-martini",
+  "h1": "How Many Calories in an Espresso Martini?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "espresso martini"
+  },
+  "assumptions": "Standard recipe: 2 oz vodka, 1 oz coffee liqueur (e.g., Kahlúa), 1 oz fresh espresso, 0.5 oz simple syrup; shaken with ice, ~4-5 oz total volume.",
+  "disclaimer": "Nutrition varies by recipe, brands, pour sizes, and sweeteners; alcohol content affects absorption. Consult labels or apps for precision.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One standard espresso martini contains about 250 kcal, mostly from alcohol and syrup."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 20,
+      "fiber_g": 0,
+      "sugars_g": 15,
+      "protein_g": 1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 20,
+    "fiber_g": 0,
+    "sugars_g": 15,
+    "protein_g": 1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Omit simple syrup (sugar-free version)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Use low-calorie coffee liqueur",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Add 1 oz heavy cream float",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an espresso martini?",
+      "a": "Approximately 250 kcal for a standard serving."
+    },
+    {
+      "q": "Are espresso martinis high in sugar?",
+      "a": "Yes, about 15 g sugars per serving from liqueur and syrup."
+    },
+    {
+      "q": "What's the carb count in an espresso martini?",
+      "a": "Around 20 g carbs, primarily from added sugars."
+    },
+    {
+      "q": "Does the type of vodka affect calories in espresso martini?",
+      "a": "Minimal impact; flavored vodkas may add 10-20 kcal."
+    },
+    {
+      "q": "How to make a lower-calorie espresso martini?",
+      "a": "Skip syrup, use diet liqueur, or opt for half portions to cut ~50-100 kcal."
+    }
+  ]
+}

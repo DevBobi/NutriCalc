@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in reeses mini cups",
+  "title": "How Many Calories in Reese's Mini Cups?",
+  "meta_description": "Discover how many calories in Reese's mini cups per piece, including full nutrition breakdown, macros, and serving tips for this chocolate peanut butter treat.",
+  "slug": "how-many-calories-in-reeses-mini-cups",
+  "h1": "How Many Calories in Reese's Mini Cups?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "mini cup",
+    "item": "Reese's mini cup"
+  },
+  "assumptions": "Standard Hershey's Reese's Peanut Butter Mini Cups (milk chocolate, ~8.8 g each), no modifications.",
+  "disclaimer": "Nutrition varies by brand, batch, size, and storage; check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 44,
+    "text": "One Reese's mini cup contains about 44 calories, with 4.5 g carbs and 2.8 g fat."
+  },
+  "basis": {
+    "label": "per 1 mini cup",
+    "amount": 1,
+    "unit": "mini cup",
+    "nutrition": {
+      "calories_kcal": 44,
+      "carbs_g": 4.5,
+      "fiber_g": 0.3,
+      "sugars_g": 4,
+      "protein_g": 0.8,
+      "fat_g": 2.8,
+      "sat_fat_g": 1.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 1,
+      "sodium_mg": 28
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 44,
+    "carbs_g": 4.5,
+    "fiber_g": 0.3,
+    "sugars_g": 4,
+    "protein_g": 0.8,
+    "fat_g": 2.8,
+    "sat_fat_g": 1.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 1,
+    "sodium_mg": 28
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.18
+  },
+  "tweaks": [
+    {
+      "label": "Dark chocolate version (less milk, more cocoa per mini cup)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 47
+    },
+    {
+      "label": "Homemade with natural peanut butter (less sugar per mini cup)",
+      "delta_kcal_per_unit": -8,
+      "new_total_kcal": 36
+    },
+    {
+      "label": "Sugar-free variety (using sugar alcohols per mini cup)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 34
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Reese's mini cup?",
+      "a": "Approximately 44 kcal per mini cup."
+    },
+    {
+      "q": "What are the macros for Reese's mini cups?",
+      "a": "Per mini cup: 0.8 g protein, 2.8 g fat, 4.5 g carbs (4 g sugars)."
+    },
+    {
+      "q": "How many Reese's mini cups in a standard serving?",
+      "a": "Typically 9-10 mini cups per serving (about 400 kcal total)."
+    },
+    {
+      "q": "Are Reese's mini cups high in sugar?",
+      "a": "Yes, about 4 g sugars per mini cup, mostly from chocolate and filling."
+    },
+    {
+      "q": "Do Reese's mini cups have trans fats?",
+      "a": "Usually 0 g trans fat per mini cup, but check labels for updates."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a meatball",
+  "title": "How Many Calories in a Meatball?",
+  "meta_description": "Discover how many calories in a meatball, including protein, fat, carbs, full nutrition breakdown per serving, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-meatball",
+  "h1": "How Many Calories in a Meatball?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "meatball",
+    "item": "meatball"
+  },
+  "assumptions": "Standard beef meatball (~28 g), baked with breadcrumbs and seasonings, no sauce or added oil.",
+  "disclaimer": "Nutrition varies by meat type, size, recipe, cooking method, and brand. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 70,
+    "text": "One standard beef meatball has about 70 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 meatball",
+    "amount": 1,
+    "unit": "meatball",
+    "nutrition": {
+      "calories_kcal": 70,
+      "carbs_g": 2.5,
+      "fiber_g": 0.2,
+      "sugars_g": 0.3,
+      "protein_g": 6,
+      "fat_g": 4.5,
+      "sat_fat_g": 1.8,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 22,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 70,
+    "carbs_g": 2.5,
+    "fiber_g": 0.2,
+    "sugars_g": 0.3,
+    "protein_g": 6,
+    "fat_g": 4.5,
+    "sat_fat_g": 1.8,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 22,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Use ground turkey instead of beef",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 55
+    },
+    {
+      "label": "Fried in oil (vs. baked)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 95
+    },
+    {
+      "label": "Add 1 tbsp tomato sauce",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 80
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a meatball?",
+      "a": "About 70 kcal for one standard baked beef meatball."
+    },
+    {
+      "q": "What is the protein in a meatball?",
+      "a": "Roughly 6 g protein per meatball."
+    },
+    {
+      "q": "Are meatballs high in fat?",
+      "a": "Moderate; ~4.5 g total fat, with 1.8 g saturated per meatball."
+    },
+    {
+      "q": "How does cooking method affect calories in a meatball?",
+      "a": "Baked is lower; frying adds ~25 kcal due to absorbed oil."
+    },
+    {
+      "q": "What about carbs in meatballs?",
+      "a": "~2.5 g carbs per meatball, mainly from breadcrumbs."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in an onion ring",
+  "title": "Calories in One Onion Ring",
+  "meta_description": "Discover calories in an onion ring, including carbs, fat, protein, sodium, and tweaks for baked or sauced versions—quick nutrition facts inside.",
+  "slug": "calories-in-an-onion-ring",
+  "h1": "Calories in One Onion Ring",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "onion ring",
+    "item": "onion ring"
+  },
+  "assumptions": "Battered and deep-fried in vegetable oil; average medium size (~10 g raw onion equivalent).",
+  "disclaimer": "Nutrition varies by brand, size, batter recipe, oil type, and frying method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 45,
+    "text": "One fried onion ring contains about 45 kcal, mostly from fat and carbs."
+  },
+  "basis": {
+    "label": "per 1 onion ring",
+    "amount": 1,
+    "unit": "onion ring",
+    "nutrition": {
+      "calories_kcal": 45,
+      "carbs_g": 5.2,
+      "fiber_g": 0.3,
+      "sugars_g": 0.5,
+      "protein_g": 0.8,
+      "fat_g": 2.5,
+      "sat_fat_g": 0.4,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 1,
+      "sodium_mg": 110
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 45,
+    "carbs_g": 5.2,
+    "fiber_g": 0.3,
+    "sugars_g": 0.5,
+    "protein_g": 0.8,
+    "fat_g": 2.5,
+    "sat_fat_g": 0.4,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 1,
+    "sodium_mg": 110
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged or restaurant items.",
+  "equivalents": {
+    "megajoules": 0.19
+  },
+  "tweaks": [
+    {
+      "label": "Oven-baked instead of deep-fried",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 20
+    },
+    {
+      "label": "Add 1 tbsp ranch dipping sauce",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 115
+    },
+    {
+      "label": "Larger size (extra-thick ring)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 65
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an onion ring?",
+      "a": "Approximately 45 kcal for one average fried onion ring."
+    },
+    {
+      "q": "Are onion rings high in fat?",
+      "a": "Yes, about 2.5 g total fat per ring, mainly from frying oil."
+    },
+    {
+      "q": "What about carbs in onion rings?",
+      "a": "Around 5.2 g carbs per ring, mostly from the batter."
+    },
+    {
+      "q": "Do onion rings have much sodium?",
+      "a": "Yes, roughly 110 mg per ring due to seasoning and batter."
+    },
+    {
+      "q": "How to reduce calories in onion rings?",
+      "a": "Opt for baked or air-fried versions to cut about 25 kcal per ring."
+    }
+  ]
+}

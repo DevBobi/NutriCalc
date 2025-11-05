@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a burger patty",
+  "title": "How Many Calories in a Burger Patty?",
+  "meta_description": "Discover how many calories are in a burger patty, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better choices.",
+  "slug": "how-many-calories-are-in-a-burger-patty",
+  "h1": "How Many Calories in a Burger Patty?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "patty",
+    "item": "burger patty"
+  },
+  "assumptions": "Standard 4-oz (113 g raw) 80/20 ground beef patty, grilled or pan-fried, cooked weight ~85 g, no bun, toppings, or seasonings added.",
+  "disclaimer": "Nutrition varies by meat type, fat content, cooking method, size, and brand. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "A standard cooked burger patty has about 290 kcal and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 burger patty",
+    "amount": 1,
+    "unit": "patty",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 21,
+      "sat_fat_g": 8,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 85,
+      "sodium_mg": 75
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 21,
+    "sat_fat_g": 8,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 85,
+    "sodium_mg": 75
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Use 90/10 lean ground beef (vs. 80/20)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Add 1 slice American cheese",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Switch to turkey patty (same size)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 240
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a burger patty?",
+      "a": "About 290 kcal for a standard 80/20 beef patty, cooked."
+    },
+    {
+      "q": "What's the protein in one burger patty?",
+      "a": "Roughly 25 g of protein per patty."
+    },
+    {
+      "q": "Does cooking method affect calories in a burger patty?",
+      "a": "Yes—grilling drains fat more than frying, potentially lowering calories by 20-50."
+    },
+    {
+      "q": "How many calories in a lean burger patty?",
+      "a": "A 90/10 lean beef patty has about 210 kcal."
+    },
+    {
+      "q": "Are burger patties high in fat?",
+      "a": "Yes, an 80/20 patty has 21 g total fat, including 8 g saturated."
+    }
+  ]
+}

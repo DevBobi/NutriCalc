@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in bread baguette",
+  "title": "Calories in a Bread Baguette",
+  "meta_description": "Discover calories in bread baguette, including full nutrition breakdown per 100g and for a standard 250g loaf, plus carbs, protein, and variations.",
+  "slug": "calories-in-bread-baguette",
+  "h1": "Calories in a Bread Baguette",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "baguette",
+    "item": "bread baguette"
+  },
+  "assumptions": "Standard white French baguette, baked with refined flour, approximately 250g total weight, no added toppings or fillings.",
+  "disclaimer": "Nutrition varies by recipe, flour type, baking method, and size; homemade or store-bought may differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 722,
+    "text": "A standard 250g bread baguette contains ~722 kcal, primarily from carbohydrates."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 289,
+      "carbs_g": 56,
+      "fiber_g": 2.5,
+      "sugars_g": 1.4,
+      "protein_g": 11,
+      "fat_g": 1.5,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 722,
+    "carbs_g": 140,
+    "fiber_g": 6.25,
+    "sugars_g": 3.5,
+    "protein_g": 27.5,
+    "fat_g": 3.75,
+    "sat_fat_g": 0.75,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1500
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.02
+  },
+  "tweaks": [
+    {
+      "label": "Whole wheat flour version (per 100 g)",
+      "delta_kcal_per_unit": -29,
+      "new_total_kcal": 650
+    },
+    {
+      "label": "Add 1 tbsp butter spread per baguette",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 822
+    },
+    {
+      "label": "Sourdough style (slightly denser, per 100 g)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 695
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one bread baguette?",
+      "a": "About 722 kcal for a standard 250g white baguette."
+    },
+    {
+      "q": "What are the carbs in a bread baguette?",
+      "a": "Approximately 140 g total carbs for a 250g baguette, with 6.25 g fiber."
+    },
+    {
+      "q": "Is a baguette high in protein?",
+      "a": "Moderate at 27.5 g protein per 250g baguette, mostly from flour."
+    },
+    {
+      "q": "How does baguette size affect calories?",
+      "a": "Larger baguettes (300g+) have more calories; scale from per 100g values (289 kcal)."
+    },
+    {
+      "q": "Are there low-calorie baguette options?",
+      "a": "Yes, whole grain or smaller portions reduce calories; avoid added fats or fillings."
+    }
+  ]
+}

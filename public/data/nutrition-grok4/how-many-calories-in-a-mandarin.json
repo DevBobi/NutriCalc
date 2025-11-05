@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a mandarin",
+  "title": "How Many Calories in a Mandarin?",
+  "meta_description": "Discover how many calories in a mandarin, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown per fruit.",
+  "slug": "how-many-calories-in-a-mandarin",
+  "h1": "How Many Calories in a Mandarin?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "mandarin",
+    "item": "mandarin"
+  },
+  "assumptions": "Medium-sized fresh mandarin orange (~75 g edible portion), peeled, no added sugar or preservatives.",
+  "disclaimer": "Nutrition varies by size, variety, ripeness, and growing conditions. Check labels for packaged versions.",
+  "quick_answer": {
+    "total_kcal": 47,
+    "text": "One medium mandarin has about 47 kcal and 1.8 g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium mandarin",
+    "amount": 1,
+    "unit": "mandarin",
+    "nutrition": {
+      "calories_kcal": 47,
+      "carbs_g": 12,
+      "fiber_g": 1.8,
+      "sugars_g": 10,
+      "protein_g": 0.7,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 47,
+    "carbs_g": 12,
+    "fiber_g": 1.8,
+    "sugars_g": 10,
+    "protein_g": 0.7,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.2
+  },
+  "tweaks": [
+    {
+      "label": "Large mandarin (~100 g)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 67
+    },
+    {
+      "label": "Canned in light syrup (drained)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 62
+    },
+    {
+      "label": "With peel eaten (adds ~5 g fiber)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 52
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a medium mandarin?",
+      "a": "About 47 kcal for one medium mandarin orange."
+    },
+    {
+      "q": "What are the carbs in a mandarin?",
+      "a": "Roughly 12 g total carbs, including 1.8 g fiber and 10 g sugars."
+    },
+    {
+      "q": "Are mandarins low in fat?",
+      "a": "Yes, only 0.3 g fat per mandarin, with no saturated or trans fats."
+    },
+    {
+      "q": "How much vitamin C in a mandarin?",
+      "a": "One mandarin provides about 26 mg vitamin C, or ~30% daily value."
+    },
+    {
+      "q": "Do mandarins have protein?",
+      "a": "Minimal, around 0.7 g protein per fruit; they're mostly carbs from natural sugars."
+    }
+  ]
+}

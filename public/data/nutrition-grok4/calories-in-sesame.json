@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sesame",
+  "title": "Calories in Sesame Seeds",
+  "meta_description": "Discover calories in sesame seeds per tablespoon, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-sesame",
+  "h1": "Calories in Sesame Seeds",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "sesame seeds"
+  },
+  "assumptions": "Whole, unsalted sesame seeds, raw or lightly toasted; 1 tbsp ≈9g; no added oils or seasonings.",
+  "disclaimer": "Nutrition varies by type (white/black/hulled), processing, brand, and storage; values are averages. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 52,
+    "text": "One tablespoon of sesame seeds contains about 52 calories and 1.6 g protein."
+  },
+  "basis": {
+    "label": "per 1 tablespoon (9 g)",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 52,
+      "carbs_g": 2.1,
+      "fiber_g": 1.1,
+      "sugars_g": 0,
+      "protein_g": 1.6,
+      "fat_g": 4.5,
+      "sat_fat_g": 0.6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 52,
+    "carbs_g": 2.1,
+    "fiber_g": 1.1,
+    "sugars_g": 0,
+    "protein_g": 1.6,
+    "fat_g": 4.5,
+    "sat_fat_g": 0.6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 0.22
+  },
+  "tweaks": [
+    {
+      "label": "Hulled sesame seeds (removed outer shell)",
+      "delta_kcal_per_unit": -8,
+      "new_total_kcal": 44
+    },
+    {
+      "label": "Toasted with 1 tsp oil per tbsp",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 92
+    },
+    {
+      "label": "Black sesame seeds (similar but slightly nuttier)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 54
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 tbsp of sesame seeds?",
+      "a": "Approximately 52 calories per tablespoon."
+    },
+    {
+      "q": "What is the protein content in sesame seeds?",
+      "a": "About 1.6 g protein per tablespoon, or 18 g per 100 g."
+    },
+    {
+      "q": "Are sesame seeds high in fat?",
+      "a": "Yes, 4.5 g total fat per tbsp, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "Do sesame seeds have fiber?",
+      "a": "Yes, around 1.1 g dietary fiber per tablespoon."
+    },
+    {
+      "q": "How do calories in sesame change with preparation?",
+      "a": "Toasting adds minimal calories; adding oil or using in pastes like tahini increases them significantly."
+    }
+  ]
+}

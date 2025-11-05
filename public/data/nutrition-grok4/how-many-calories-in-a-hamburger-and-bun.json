@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a hamburger and bun",
+  "title": "How Many Calories in a Hamburger and Bun?",
+  "meta_description": "Discover how many calories in a hamburger and bun, including full nutrition breakdown, macros, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-hamburger-and-bun",
+  "h1": "How Many Calories in a Hamburger and Bun?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "hamburger",
+    "item": "hamburger and bun"
+  },
+  "assumptions": "Standard 4-oz beef patty, grilled; white bun; basic toppings (lettuce, tomato, onion, ketchup, mustard); no cheese or mayo.",
+  "disclaimer": "Nutrition varies by brand, patty size, bun type, toppings, and cooking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A standard hamburger with bun has about 250 kcal and 15 g protein."
+  },
+  "basis": {
+    "label": "per 1 hamburger with bun",
+    "amount": 1,
+    "unit": "hamburger",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 15,
+      "fat_g": 10,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 30,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 15,
+    "fat_g": 10,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add one slice of cheese",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Use whole wheat bun instead",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Remove bun (patty only)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 100
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a basic hamburger and bun?",
+      "a": "Approximately 250 kcal for a standard version with basic toppings."
+    },
+    {
+      "q": "What's the protein in a hamburger and bun?",
+      "a": "About 15 g protein from the beef patty."
+    },
+    {
+      "q": "Does the bun add many carbs to a hamburger?",
+      "a": "Yes, the bun contributes around 30 g carbs total."
+    },
+    {
+      "q": "How does adding mayo change calories in a hamburger and bun?",
+      "a": "One tbsp mayo adds ~90 kcal, making it ~340 kcal total."
+    },
+    {
+      "q": "Are there low-calorie options for a hamburger and bun?",
+      "a": "Opt for a smaller patty, veggie toppings, or no bun to reduce to under 200 kcal."
+    }
+  ]
+}

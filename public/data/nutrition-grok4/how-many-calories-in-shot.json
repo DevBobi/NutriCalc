@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in shot",
+  "title": "How Many Calories in a Shot?",
+  "meta_description": "Discover how many calories in shot of liquor, including total energy, macros, and variations for different spirits or proofs.",
+  "slug": "how-many-calories-in-shot",
+  "h1": "How Many Calories in a Shot?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "liquor"
+  },
+  "assumptions": "Standard 1.5 oz (44 ml) shot of 80-proof (40% ABV) distilled spirits like vodka, gin, or whiskey; no mixers or additives.",
+  "disclaimer": "Calories vary by spirit type, proof, brand, and serving size. Pure alcohol contributes all calories; check labels for specifics.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "A standard shot of 80-proof liquor contains about 97 calories, primarily from alcohol."
+  },
+  "basis": {
+    "label": "per 1 shot",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values reflect Nutrition Facts style; alcohol calories are not counted in carbs, protein, or fat.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Use 100-proof (50% ABV) spirits",
+      "delta_kcal_per_unit": 24,
+      "new_total_kcal": 121
+    },
+    {
+      "label": "Shot of flavored liqueur (e.g., with added sugars)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 117
+    },
+    {
+      "label": "Add 1 oz diet mixer (zero-calorie soda)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 97
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a shot of vodka?",
+      "a": "About 97 kcal for a 1.5 oz shot of 80-proof vodka."
+    },
+    {
+      "q": "Do shots have carbs or protein?",
+      "a": "No—pure liquor shots have 0 g carbs, protein, or fat; calories come solely from alcohol."
+    },
+    {
+      "q": "How does proof affect calories in a shot?",
+      "a": "Higher proof means more alcohol and calories; 100-proof adds ~24 kcal over 80-proof."
+    },
+    {
+      "q": "What about calories in a shot of whiskey?",
+      "a": "Similar to vodka—around 97 kcal for 80-proof, 1.5 oz serving."
+    },
+    {
+      "q": "Are there low-calorie shot options?",
+      "a": "Stick to straight high-proof spirits or zero-calorie mixers to keep it under 100 kcal."
+    }
+  ]
+}

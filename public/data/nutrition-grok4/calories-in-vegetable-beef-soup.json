@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in vegetable beef soup",
+  "title": "Calories in Vegetable Beef Soup",
+  "meta_description": "Discover calories in vegetable beef soup per cup, including protein, carbs, fat, sodium details, and easy tweaks for your bowl.",
+  "slug": "calories-in-vegetable-beef-soup",
+  "h1": "Calories in Vegetable Beef Soup",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "vegetable beef soup"
+  },
+  "assumptions": "Canned, ready-to-eat vegetable beef soup with beef chunks, carrots, potatoes, peas, and broth; about 245 g per serving.",
+  "disclaimer": "Nutrition varies by brand, recipe, ingredients, and preparation method. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 85,
+    "text": "One cup of vegetable beef soup typically contains about 85 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup (245 g)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 85,
+      "carbs_g": 10,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 6,
+      "fat_g": 2,
+      "sat_fat_g": 0.8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 85,
+    "carbs_g": 10,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 6,
+    "fat_g": 2,
+    "sat_fat_g": 0.8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.36
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp croutons per cup",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 135
+    },
+    {
+      "label": "Homemade with lean beef (less fat)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 65
+    },
+    {
+      "label": "Extra vegetables (no added beef)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of vegetable beef soup?",
+      "a": "About 85 kcal per 1 cup serving."
+    },
+    {
+      "q": "Is vegetable beef soup high in sodium?",
+      "a": "Yes, typically around 800 mg sodium per cup due to broth and canning."
+    },
+    {
+      "q": "What's the protein content in vegetable beef soup?",
+      "a": "Roughly 6 g protein per cup from the beef."
+    },
+    {
+      "q": "Are there many carbs in vegetable beef soup?",
+      "a": "About 10 g carbs per cup, mostly from vegetables like potatoes and carrots."
+    },
+    {
+      "q": "How does homemade vegetable beef soup compare calorie-wise?",
+      "a": "Homemade versions can be lower (60-80 kcal per cup) if using lean beef and less salt."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in hot chocolate drink",
+  "title": "Calories in Hot Chocolate Drink",
+  "meta_description": "Discover calories in hot chocolate drink for a standard 8 oz serving, including full nutrition breakdown, macros, and preparation tweaks to fit your diet.",
+  "slug": "calories-in-hot-chocolate-drink",
+  "h1": "Calories in Hot Chocolate Drink",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "hot chocolate drink"
+  },
+  "assumptions": "Standard 8 oz (240 ml) serving made with whole milk, cocoa powder, and sugar; no whipped cream or extras.",
+  "disclaimer": "Nutrition varies by milk type, brand of mix, added sugar, and serving size. Check labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "One 8 oz cup of hot chocolate drink has about 190 kcal, with 25 g carbs and 8 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup (8 oz)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sugars_g": 23,
+      "protein_g": 8,
+      "fat_g": 8,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 110
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 25,
+    "fiber_g": 2,
+    "sugars_g": 23,
+    "protein_g": 8,
+    "fat_g": 8,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 110
+  },
+  "label_note": "Values align with standard Nutrition Facts labels for comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Use skim milk instead of whole milk",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add 1 tbsp whipped cream",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Made with water and powder mix (no milk)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cup of hot chocolate drink?",
+      "a": "About 190 kcal for an 8 oz serving with whole milk."
+    },
+    {
+      "q": "Is hot chocolate high in sugar?",
+      "a": "Yes, typically 23 g sugars per cup due to added sweeteners."
+    },
+    {
+      "q": "What's the protein in hot chocolate drink?",
+      "a": "Around 8 g per cup, mostly from the milk."
+    },
+    {
+      "q": "How to make low-calorie hot chocolate?",
+      "a": "Use skim milk or a sugar-free mix to reduce calories to 100-140 kcal."
+    },
+    {
+      "q": "Does the type of milk affect calories in hot chocolate?",
+      "a": "Yes—whole milk adds more fat and calories than almond or skim milk."
+    }
+  ]
+}

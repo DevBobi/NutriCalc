@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a macaron",
+  "title": "How Many Calories in a Macaron?",
+  "meta_description": "Discover how many calories in a macaron, including carbs, sugars, fat, protein, and full nutrition breakdown per cookie with quick tweaks and FAQs.",
+  "slug": "how-many-calories-in-a-macaron",
+  "h1": "How Many Calories in a Macaron?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "macaron",
+    "item": "macaron"
+  },
+  "assumptions": "Standard French macaron (~15 g), almond-based shell with buttercream or ganache filling (e.g., vanilla or chocolate flavor), no added toppings.",
+  "disclaimer": "Nutrition varies by brand, size, flavor, filling type, and recipe. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 70,
+    "text": "A typical macaron has about 70 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 macaron",
+    "amount": 1,
+    "unit": "macaron",
+    "nutrition": {
+      "calories_kcal": 70,
+      "carbs_g": 10,
+      "fiber_g": 0.5,
+      "sugars_g": 9,
+      "protein_g": 1,
+      "fat_g": 3,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 20
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 70,
+    "carbs_g": 10,
+    "fiber_g": 0.5,
+    "sugars_g": 9,
+    "protein_g": 1,
+    "fat_g": 3,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 20
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate ganache filling (vs. vanilla buttercream)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Larger macaron (~20 g)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 95
+    },
+    {
+      "label": "Sugar-free version (using alternative sweeteners)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 55
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a macaron?",
+      "a": "About 70 kcal for a standard 15 g macaron."
+    },
+    {
+      "q": "Are macarons high in sugar?",
+      "a": "Yes, typically 9 g sugars per macaron from the shells and filling."
+    },
+    {
+      "q": "What's the fat content in a macaron?",
+      "a": "Around 3 g total fat, with 1 g saturated, mainly from the filling."
+    },
+    {
+      "q": "Do macarons have protein?",
+      "a": "Minimal, about 1 g per macaron from almond flour."
+    },
+    {
+      "q": "How do calories vary by macaron flavor?",
+      "a": "Flavors like chocolate add 5-15 kcal; fruit fillings may be slightly lower."
+    }
+  ]
+}

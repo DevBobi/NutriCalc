@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in hash browns from dunkin donuts",
+  "title": "Calories in Dunkin Donuts Hash Browns",
+  "meta_description": "Discover calories in hash browns from Dunkin Donuts: 150 kcal per serving, plus full nutrition breakdown, macros, and quick tweaks for your meal.",
+  "slug": "calories-in-hash-browns-from-dunkin-donuts",
+  "h1": "Calories in Dunkin Donuts Hash Browns",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Dunkin Donuts hash browns"
+  },
+  "assumptions": "Standard single serving (56 g) of Dunkin' Donuts hash brown patty, fried as prepared.",
+  "disclaimer": "Nutrition varies by location, preparation, and serving size. Check Dunkin' app or packaging for latest values.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "One serving of Dunkin' hash browns provides 150 kcal, 16 g carbs, and 9 g fat."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 16,
+      "fiber_g": 2,
+      "sugars_g": 0,
+      "protein_g": 2,
+      "fat_g": 9,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 310
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 16,
+    "fiber_g": 2,
+    "sugars_g": 0,
+    "protein_g": 2,
+    "fat_g": 9,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 310
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 packet ketchup (9 g)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Oven-baked instead of fried (homemade variation)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Double serving size",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Dunkin Donuts hash brown?",
+      "a": "150 kcal per standard serving."
+    },
+    {
+      "q": "What are the carbs in hash browns from Dunkin Donuts?",
+      "a": "16 g total carbs, including 2 g fiber and 0 g sugars per serving."
+    },
+    {
+      "q": "Are Dunkin hash browns high in sodium?",
+      "a": "Yes, about 310 mg sodium per serving—13% of daily value."
+    },
+    {
+      "q": "How much fat in Dunkin Donuts hash browns?",
+      "a": "9 g total fat, with 4.5 g saturated fat per serving."
+    },
+    {
+      "q": "Can I get lower calorie hash browns at Dunkin?",
+      "a": "No direct option, but skip extras like ketchup to keep at 150 kcal; consider alternatives like fruit."
+    }
+  ]
+}

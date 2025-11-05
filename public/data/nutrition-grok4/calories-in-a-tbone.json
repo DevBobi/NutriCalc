@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a tbone",
+  "title": "Calories in a T-Bone Steak",
+  "meta_description": "Discover calories in a tbone, with full nutrition breakdown for a typical 12 oz cooked portion including protein, fat, and cooking tweaks.",
+  "slug": "calories-in-a-tbone",
+  "h1": "Calories in a T-Bone Steak",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "T-bone steak",
+    "item": "T-bone steak"
+  },
+  "assumptions": "Broiled or grilled, choice grade beef, bone-in with lean and fat, edible portion ~340 g (12 oz cooked weight); no added marinades or oils.",
+  "disclaimer": "Nutrition varies by steak size, fat trim, grade, cooking method, and doneness. Values based on USDA averages; check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 1010,
+    "text": "A typical 12 oz cooked T-bone steak provides ~1010 kcal and ~85 g protein."
+  },
+  "basis": {
+    "label": "per 1 T-bone steak (~340 g cooked)",
+    "amount": 1,
+    "unit": "T-bone steak",
+    "nutrition": {
+      "calories_kcal": 1010,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 85,
+      "fat_g": 75,
+      "sat_fat_g": 31,
+      "trans_fat_g": 3,
+      "cholesterol_mg": 299,
+      "sodium_mg": 184
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1010,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 85,
+    "fat_g": 75,
+    "sat_fat_g": 31,
+    "trans_fat_g": 3,
+    "cholesterol_mg": 299,
+    "sodium_mg": 184
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison with labels.",
+  "equivalents": {
+    "megajoules": 4.23
+  },
+  "tweaks": [
+    {
+      "label": "Trim excess fat before cooking",
+      "delta_kcal_per_unit": -250,
+      "new_total_kcal": 760
+    },
+    {
+      "label": "Add 1 tbsp butter for basting",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 1110
+    },
+    {
+      "label": "Use lean-only cut (sirloin end, trimmed)",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 710
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a T-bone steak?",
+      "a": "About 1010 kcal for a typical 12 oz cooked T-bone steak with lean and fat."
+    },
+    {
+      "q": "What's the protein content in a T-bone?",
+      "a": "Roughly 85 g of protein per 12 oz cooked steak."
+    },
+    {
+      "q": "Is a T-bone steak high in fat?",
+      "a": "Yes, around 75 g total fat, including 31 g saturated, due to the fat cap and marbling."
+    },
+    {
+      "q": "How does cooking method affect calories in a tbone?",
+      "a": "Broiling or grilling keeps calories similar; frying or adding oil can increase by 100+ kcal."
+    },
+    {
+      "q": "What's the cholesterol in a T-bone steak?",
+      "a": "Approximately 299 mg per 12 oz cooked portion."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sirloin",
+  "title": "Calories in Sirloin Steak",
+  "meta_description": "Learn calories in sirloin per 100g serving, with detailed nutrition facts on protein, fat, carbs, and tips for variations to fit your diet.",
+  "slug": "calories-in-sirloin",
+  "h1": "Calories in Sirloin Steak",
+  "updated": "2024-10-07",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "beef sirloin"
+  },
+  "assumptions": "Lean beef sirloin steak, trimmed of visible fat, cooked by grilling or broiling, no added oils or seasonings.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and source; values are approximate. Check labels or use a tracker for precision.",
+  "quick_answer": {
+    "total_kcal": 206,
+    "text": "100g of grilled lean beef sirloin provides ~206 kcal and ~31g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 206,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 30.8,
+      "fat_g": 8.5,
+      "sat_fat_g": 3.3,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 89,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 206,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 30.8,
+    "fat_g": 8.5,
+    "sat_fat_g": 3.3,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 89,
+    "sodium_mg": 60
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.86
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter during cooking",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 242
+    },
+    {
+      "label": "Untrimmed with visible fat (vs. lean)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 256
+    },
+    {
+      "label": "Pan-fried with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 246
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in sirloin per 100g?",
+      "a": "About 206 kcal for lean grilled beef sirloin."
+    },
+    {
+      "q": "What's the protein in sirloin steak?",
+      "a": "Approximately 31g protein per 100g serving."
+    },
+    {
+      "q": "Does sirloin have carbs?",
+      "a": "No carbs, fiber, or sugars in plain beef sirloin."
+    },
+    {
+      "q": "How does cooking affect calories in sirloin?",
+      "a": "Grilling keeps it lean; frying or adding fat increases calories by 30-50 per 100g."
+    },
+    {
+      "q": "Is sirloin high in fat?",
+      "a": "Lean cuts have ~8.5g total fat per 100g, with 3.3g saturated."
+    }
+  ]
+}

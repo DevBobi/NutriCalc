@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in just salad",
+  "title": "Calories in Just Salad",
+  "meta_description": "Discover calories in just salad for a basic serving, including macros, fiber, and low-cal tweaks without dressing or extras.",
+  "slug": "calories-in-just-salad",
+  "h1": "Calories in Just Salad",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "salad",
+    "item": "just salad"
+  },
+  "assumptions": "Basic mixed green salad with lettuce, tomatoes, cucumbers, and carrots; no dressing, cheese, nuts, or added fats. Serving size ≈ 200 g.",
+  "disclaimer": "Nutrition varies by ingredients, portion size, freshness, and preparation; check labels or apps for custom salads.",
+  "quick_answer": {
+    "total_kcal": 34,
+    "text": "A basic just salad serving provides ~34 kcal, with high water content and ~3 g fiber."
+  },
+  "basis": {
+    "label": "per 1 serving (200 g)",
+    "amount": 1,
+    "unit": "salad",
+    "nutrition": {
+      "calories_kcal": 34,
+      "carbs_g": 6.6,
+      "fiber_g": 2.6,
+      "sugars_g": 3.6,
+      "protein_g": 2.8,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 40
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 34,
+    "carbs_g": 6.6,
+    "fiber_g": 2.6,
+    "sugars_g": 3.6,
+    "protein_g": 2.8,
+    "fat_g": 0.4,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 40
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.14
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp vinaigrette dressing",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 114
+    },
+    {
+      "label": "Include 100 g grilled chicken",
+      "delta_kcal_per_unit": 165,
+      "new_total_kcal": 199
+    },
+    {
+      "label": "Add 1 oz feta cheese",
+      "delta_kcal_per_unit": 75,
+      "new_total_kcal": 109
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in just salad without dressing?",
+      "a": "About 34 kcal for a 200 g basic serving of greens and veggies."
+    },
+    {
+      "q": "What are the macros in a plain just salad?",
+      "a": "≈2.8 g protein, 0.4 g fat, 6.6 g carbs (including 2.6 g fiber)."
+    },
+    {
+      "q": "Is just salad low in sodium?",
+      "a": "Yes, around 40 mg per serving, but additions like olives can increase it."
+    },
+    {
+      "q": "How does salad size affect calories?",
+      "a": "Larger portions (e.g., 300 g) add ~17 kcal per 100 g; focus on volume for low-cal."
+    },
+    {
+      "q": "Can I eat just salad for weight loss?",
+      "a": "Yes, it's very low-calorie and filling due to fiber, but pair with protein for balance."
+    }
+  ]
+}

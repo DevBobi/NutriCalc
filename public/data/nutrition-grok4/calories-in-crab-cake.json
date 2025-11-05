@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in crab cake",
+  "title": "Calories in a Crab Cake",
+  "meta_description": "Discover calories in crab cake, including full nutrition breakdown per serving, macros, and variations for baked or fried prep.",
+  "slug": "calories-in-crab-cake",
+  "h1": "Calories in a Crab Cake",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "crab cake",
+    "item": "crab cake"
+  },
+  "assumptions": "Standard fried crab cake (~100 g), made with lump crab meat, breadcrumbs, mayonnaise, egg, and seasonings; pan-fried in minimal oil.",
+  "disclaimer": "Nutrition varies by recipe, crab type, binders, frying method, and portion size. Check restaurant or package labels when available.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "One standard crab cake has about 220 kcal, with 12 g protein and 14 g fat."
+  },
+  "basis": {
+    "label": "per 1 crab cake",
+    "amount": 1,
+    "unit": "crab cake",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 12,
+      "fiber_g": 1,
+      "sugars_g": 1,
+      "protein_g": 12,
+      "fat_g": 14,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 60,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 12,
+    "fiber_g": 1,
+    "sugars_g": 1,
+    "protein_g": 12,
+    "fat_g": 14,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 60,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Add 1 tbsp tartar sauce",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Gluten-free breadcrumbs",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one crab cake?",
+      "a": "Approximately 220 kcal for a standard 100 g fried crab cake."
+    },
+    {
+      "q": "What are the macros in a crab cake?",
+      "a": "About 12 g protein, 14 g fat, 12 g carbs, including 1 g fiber."
+    },
+    {
+      "q": "Are crab cakes high in sodium?",
+      "a": "Yes, typically around 500 mg sodium per crab cake due to seasonings."
+    },
+    {
+      "q": "How does baking affect calories in crab cake?",
+      "a": "Baking reduces calories by about 50 kcal by avoiding frying oil."
+    },
+    {
+      "q": "Is there cholesterol in crab cakes?",
+      "a": "Around 60 mg per serving, mainly from the crab and egg binder."
+    }
+  ]
+}

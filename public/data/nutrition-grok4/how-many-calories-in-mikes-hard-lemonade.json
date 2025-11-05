@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in mikes hard lemonade",
+  "title": "How Many Calories in Mike's Hard Lemonade?",
+  "meta_description": "Learn how many calories in Mike's Hard Lemonade per 12 oz bottle, including carbs, sugars, alcohol content, and full nutrition breakdown.",
+  "slug": "how-many-calories-in-mikes-hard-lemonade",
+  "h1": "How Many Calories in Mike's Hard Lemonade?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "Mike's Hard Lemonade"
+  },
+  "assumptions": "Standard original flavor, 12 fl oz (355 ml) bottle, 5% ABV, no added mixers.",
+  "disclaimer": "Nutrition varies by flavor, batch, serving size, and brand specifics. Always check the label for exact values.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "One 12 oz bottle of Mike's Hard Lemonade contains about 220 calories, mostly from carbs and alcohol."
+  },
+  "basis": {
+    "label": "per 12 oz bottle",
+    "amount": 1,
+    "unit": "bottle",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 33,
+      "fiber_g": 0,
+      "sugars_g": 30,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 33,
+    "fiber_g": 0,
+    "sugars_g": 30,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Light/variety pack version (lower sugar)",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Mike's Harder Lemonade (8% ABV, stronger)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Mixed with diet soda (replace half bottle)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 160
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one bottle of Mike's Hard Lemonade?",
+      "a": "Approximately 220 calories per 12 oz bottle."
+    },
+    {
+      "q": "What are the carbs in Mike's Hard Lemonade?",
+      "a": "About 33 g carbs, including 30 g sugars, per 12 oz bottle."
+    },
+    {
+      "q": "Does Mike's Hard Lemonade have protein or fat?",
+      "a": "No protein or fat; calories come from carbs and alcohol."
+    },
+    {
+      "q": "How many calories in a can vs. bottle of Mike's Hard Lemonade?",
+      "a": "Similar at ~220 kcal for a standard 12 oz serving; check label for exact size."
+    },
+    {
+      "q": "Is there a low-calorie version of Mike's Hard Lemonade?",
+      "a": "Yes, light varieties have around 100-130 kcal per 12 oz bottle."
+    }
+  ]
+}

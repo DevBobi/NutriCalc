@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in salt water taffy",
+  "title": "Calories in Salt Water Taffy",
+  "meta_description": "Discover calories in salt water taffy per piece, including carbs, sugars, sodium, and nutrition breakdowns for this classic candy treat.",
+  "slug": "calories-in-salt-water-taffy",
+  "h1": "Calories in Salt Water Taffy",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "piece",
+    "item": "salt water taffy"
+  },
+  "assumptions": "Standard piece (~7 g), vanilla or fruit-flavored, pulled saltwater taffy without nuts or coatings.",
+  "disclaimer": "Nutrition varies by brand, flavor, piece size, and ingredients; check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 25,
+    "text": "One piece of salt water taffy contains about 25 calories, primarily from carbohydrates and sugars."
+  },
+  "basis": {
+    "label": "per 1 piece",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 25,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sugars_g": 5,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 15
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 25,
+    "carbs_g": 6,
+    "fiber_g": 0,
+    "sugars_g": 5,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 15
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate-coated version per piece",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Sugar-free alternative per piece",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 15
+    },
+    {
+      "label": "With added nuts (peanut taffy) per piece",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 45
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one piece of salt water taffy?",
+      "a": "Approximately 25 calories per standard 7 g piece."
+    },
+    {
+      "q": "What are the carbs in salt water taffy?",
+      "a": "About 6 g carbs per piece, mostly sugars with no fiber."
+    },
+    {
+      "q": "Does salt water taffy have fat or protein?",
+      "a": "Negligible fat (0 g) and protein (0 g) per piece; it's mostly sugar-based."
+    },
+    {
+      "q": "How much sodium is in salt water taffy?",
+      "a": "Around 15 mg sodium per piece due to the saltwater component."
+    },
+    {
+      "q": "Calories in a handful of salt water taffy?",
+      "a": "A typical handful (5-6 pieces) is about 125-150 calories; portion control is key for candy."
+    }
+  ]
+}

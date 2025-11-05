@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a boston cream doughnut",
+  "title": "Calories in a Boston Cream Doughnut",
+  "meta_description": "Discover calories in a boston cream doughnut, including full nutrition breakdown, macros, and variations for better choices.",
+  "slug": "calories-in-a-boston-cream-doughnut",
+  "h1": "Calories in a Boston Cream Doughnut",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "doughnut",
+    "item": "boston cream doughnut"
+  },
+  "assumptions": "Standard yeast doughnut, ~85 g, filled with vanilla custard, topped with chocolate glaze; fried preparation.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and frying method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 360,
+    "text": "A typical Boston cream doughnut contains about 360 kcal and 5 g protein."
+  },
+  "basis": {
+    "label": "per 1 doughnut",
+    "amount": 1,
+    "unit": "doughnut",
+    "nutrition": {
+      "calories_kcal": 360,
+      "carbs_g": 42,
+      "fiber_g": 1,
+      "sugars_g": 22,
+      "protein_g": 5,
+      "fat_g": 19,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 55,
+      "sodium_mg": 280
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 360,
+    "carbs_g": 42,
+    "fiber_g": 1,
+    "sugars_g": 22,
+    "protein_g": 5,
+    "fat_g": 19,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 55,
+    "sodium_mg": 280
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.51
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Sugar-free custard and glaze",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 310
+    },
+    {
+      "label": "Add extra chocolate topping",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 390
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a boston cream doughnut?",
+      "a": "Approximately 360 kcal for one standard doughnut."
+    },
+    {
+      "q": "What are the carbs in a Boston cream doughnut?",
+      "a": "About 42 g carbs, including 22 g sugars and 1 g fiber."
+    },
+    {
+      "q": "Is a Boston cream doughnut high in fat?",
+      "a": "Yes, around 19 g total fat, with 6 g saturated fat."
+    },
+    {
+      "q": "How much protein in one Boston cream doughnut?",
+      "a": "Roughly 5 g protein per doughnut."
+    },
+    {
+      "q": "Does brand affect calories in Boston cream doughnuts?",
+      "a": "Yes, variations can range 300-400 kcal; check specific labels."
+    }
+  ]
+}

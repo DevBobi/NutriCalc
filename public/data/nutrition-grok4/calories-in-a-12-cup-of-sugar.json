@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a 12 cup of sugar",
+  "title": "Calories in a 1/2 Cup of Sugar",
+  "meta_description": "Discover calories in a 1/2 cup of sugar, including full nutrition breakdown per 100g basis, carbs, sugars, and simple tweaks for variations.",
+  "slug": "calories-in-a-12-cup-of-sugar",
+  "h1": "Calories in a 1/2 Cup of Sugar",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 0.5,
+    "unit": "cup",
+    "item": "sugar"
+  },
+  "assumptions": "Granulated white sugar, unpacked; 1/2 cup ≈ 100 g.",
+  "disclaimer": "Nutrition varies by sugar type (e.g., white vs. brown), packing density, and brand. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 387,
+    "text": "A 1/2 cup of granulated sugar provides ~387 kcal, entirely from carbohydrates."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 387,
+      "carbs_g": 100,
+      "fiber_g": 0,
+      "sugars_g": 100,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 387,
+    "carbs_g": 100,
+    "fiber_g": 0,
+    "sugars_g": 100,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.62
+  },
+  "tweaks": [
+    {
+      "label": "Use brown sugar instead (per 1/2 cup)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 392
+    },
+    {
+      "label": "Packed sugar (adds ~25 g more per 1/2 cup)",
+      "delta_kcal_per_unit": 97,
+      "new_total_kcal": 484
+    },
+    {
+      "label": "Substitute with powdered sugar (per 1/2 cup)",
+      "delta_kcal_per_unit": -18,
+      "new_total_kcal": 369
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 1/2 cup of sugar?",
+      "a": "Approximately 387 kcal for granulated white sugar."
+    },
+    {
+      "q": "Is sugar all carbs?",
+      "a": "Yes, 100% carbohydrates, with 100 g sugars per 100 g."
+    },
+    {
+      "q": "Calories in 1 cup of sugar?",
+      "a": "About 774 kcal for a full unpacked cup (≈200 g)."
+    },
+    {
+      "q": "Does brown sugar have more calories than white?",
+      "a": "Slightly; ~392 kcal per 1/2 cup due to molasses."
+    },
+    {
+      "q": "Any protein or fat in sugar?",
+      "a": "No, pure sugar has 0 g protein and 0 g fat."
+    }
+  ]
+}

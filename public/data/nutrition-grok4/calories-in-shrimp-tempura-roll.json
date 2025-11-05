@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in shrimp tempura roll",
+  "title": "Calories in a Shrimp Tempura Roll",
+  "meta_description": "Learn calories in shrimp tempura roll, with full nutrition breakdown including carbs, protein, fat, and easy tweaks for variations.",
+  "slug": "calories-in-shrimp-tempura-roll",
+  "h1": "Calories in a Shrimp Tempura Roll",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "roll",
+    "item": "shrimp tempura roll"
+  },
+  "assumptions": "Standard 8-piece sushi roll with tempura-fried shrimp, sushi rice, nori, cucumber, and avocado; no extra sauces.",
+  "disclaimer": "Nutrition varies by restaurant, portion size, frying oil, rice amount, and added ingredients. Check menus or labels when available.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "One shrimp tempura roll has about 450 kcal, with high carbs from rice and moderate fat from tempura."
+  },
+  "basis": {
+    "label": "per 1 roll (8 pieces)",
+    "amount": 1,
+    "unit": "roll",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 62,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 14,
+      "fat_g": 18,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 85,
+      "sodium_mg": 850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 62,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 14,
+    "fat_g": 18,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 85,
+    "sodium_mg": 850
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Add spicy mayo drizzle",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Use steamed shrimp instead of tempura",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Brown rice substitution",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 430
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in shrimp tempura roll?",
+      "a": "Approximately 450 kcal for a standard 8-piece roll."
+    },
+    {
+      "q": "What are the carbs in a shrimp tempura roll?",
+      "a": "About 62 g carbs, mostly from sushi rice."
+    },
+    {
+      "q": "Is shrimp tempura roll high in sodium?",
+      "a": "Yes, around 850 mg due to soy sauce and seasoning in rice."
+    },
+    {
+      "q": "How much protein in one shrimp tempura roll?",
+      "a": "Roughly 14 g protein from the shrimp and rice."
+    },
+    {
+      "q": "Can I make shrimp tempura roll lower calorie?",
+      "a": "Yes, skip the tempura batter and frying to reduce by about 100 kcal."
+    }
+  ]
+}

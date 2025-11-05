@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in conchas",
+  "title": "Calories in Conchas",
+  "meta_description": "Learn calories in conchas, a Mexican sweet bread, with full nutrition facts including carbs, protein, fat, and serving tips under 160 chars.",
+  "slug": "calories-in-conchas",
+  "h1": "Calories in Conchas",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "concha",
+    "item": "concha"
+  },
+  "assumptions": "Standard Mexican concha (sweet bread roll with crumbly topping), approx. 60 g each, baked, no added fillings or butter.",
+  "disclaimer": "Nutrition varies by bakery, size, recipe, and toppings. Check labels or sources for exact values.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One concha typically contains about 250 kcal, mostly from carbs and some fat in the topping."
+  },
+  "basis": {
+    "label": "per 1 concha",
+    "amount": 1,
+    "unit": "concha",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 40,
+      "fiber_g": 1,
+      "sugars_g": 15,
+      "protein_g": 5,
+      "fat_g": 8,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 40,
+    "fiber_g": 1,
+    "sugars_g": 15,
+    "protein_g": 5,
+    "fat_g": 8,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 200
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged goods.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 pat of butter on top",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 285
+    },
+    {
+      "label": "Smaller concha (40 g vs. 60 g)",
+      "delta_kcal_per_unit": -83,
+      "new_total_kcal": 167
+    },
+    {
+      "label": "Whole wheat flour version",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 230
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one concha?",
+      "a": "Approximately 250 kcal per standard concha."
+    },
+    {
+      "q": "What are the carbs in conchas?",
+      "a": "About 40 g carbs per concha, including 15 g sugars from the topping."
+    },
+    {
+      "q": "Are conchas high in fat?",
+      "a": "Moderate fat at 8 g per concha, with 3 g saturated from the crumbly topping."
+    },
+    {
+      "q": "How much protein in a concha?",
+      "a": "Around 5 g protein per concha, mainly from the dough."
+    },
+    {
+      "q": "Do conchas have fiber?",
+      "a": "Low fiber at 1 g per concha; opt for whole grain versions for more."
+    }
+  ]
+}

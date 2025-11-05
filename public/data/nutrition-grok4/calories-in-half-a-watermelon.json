@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in half a watermelon",
+  "title": "Calories in Half a Watermelon",
+  "meta_description": "Discover calories in half a watermelon—about 750 kcal for a medium size—plus carbs, sugars, full nutrition facts, and preparation tweaks for better meals.",
+  "slug": "calories-in-half-a-watermelon",
+  "h1": "Calories in Half a Watermelon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "half watermelon",
+    "item": "watermelon"
+  },
+  "assumptions": "Medium seedless watermelon; half yields ~2.5 kg (5.5 lbs) edible flesh; raw, fresh, no rind or seeds included in nutrition.",
+  "disclaimer": "Nutrition varies by size, variety, ripeness, and exact portion (edible flesh weight). Larger or smaller watermelons change totals; consult fresh produce info.",
+  "quick_answer": {
+    "total_kcal": 750,
+    "text": "Half a medium watermelon provides about 750 kcal, mainly from hydrating carbs and natural sugars."
+  },
+  "basis": {
+    "label": "per 1 half watermelon (~2.5 kg)",
+    "amount": 1,
+    "unit": "half watermelon",
+    "nutrition": {
+      "calories_kcal": 750,
+      "carbs_g": 189,
+      "fiber_g": 10,
+      "sugars_g": 155,
+      "protein_g": 15,
+      "fat_g": 3.8,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 25
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 750,
+    "carbs_g": 189,
+    "fiber_g": 10,
+    "sugars_g": 155,
+    "protein_g": 15,
+    "fat_g": 3.8,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 25
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.14
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 oz feta cheese crumbles",
+      "delta_kcal_per_unit": 75,
+      "new_total_kcal": 825
+    },
+    {
+      "label": "Drizzle with 1 tbsp honey",
+      "delta_kcal_per_unit": 64,
+      "new_total_kcal": 814
+    },
+    {
+      "label": "Mix with 1/2 cup cucumber slices",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 758
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in half a watermelon?",
+      "a": "Around 750 kcal for a medium half (~2.5 kg edible flesh)."
+    },
+    {
+      "q": "Is half a watermelon high in sugar?",
+      "a": "Yes, about 155 g of natural sugars, but it's low-calorie due to high water content."
+    },
+    {
+      "q": "What are the macros for half a watermelon?",
+      "a": "189 g carbs (10 g fiber), 15 g protein, 3.8 g fat, totaling 750 kcal."
+    },
+    {
+      "q": "Does watermelon have any fat or cholesterol?",
+      "a": "Minimal fat (3.8 g total, mostly unsaturated) and 0 mg cholesterol in half."
+    },
+    {
+      "q": "How does watermelon size affect calories in half?",
+      "a": "Larger watermelons increase calories proportionally; small half may be ~400 kcal."
+    }
+  ]
+}

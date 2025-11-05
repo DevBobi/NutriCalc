@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in the baconator",
+  "title": "Calories in the Baconator",
+  "meta_description": "Discover calories in the baconator from Wendy's, including full nutrition breakdown, macros, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-the-baconator",
+  "h1": "Calories in the Baconator",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "Baconator",
+    "item": "Wendy's Baconator burger"
+  },
+  "assumptions": "Wendy's classic Baconator: two beef patties, American cheese, six bacon strips, mayo, ketchup, on a bun; standard serving.",
+  "disclaimer": "Nutrition varies by location, customizations, and preparation; values based on Wendy's standard data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 960,
+    "text": "One Wendy's Baconator has 960 kcal, with 57 g protein and high sodium."
+  },
+  "basis": {
+    "label": "per 1 Baconator",
+    "amount": 1,
+    "unit": "Baconator",
+    "nutrition": {
+      "calories_kcal": 960,
+      "carbs_g": 51,
+      "fiber_g": 2,
+      "sugars_g": 10,
+      "protein_g": 57,
+      "fat_g": 66,
+      "sat_fat_g": 27,
+      "trans_fat_g": 1.5,
+      "cholesterol_mg": 250,
+      "sodium_mg": 2210
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 960,
+    "carbs_g": 51,
+    "fiber_g": 2,
+    "sugars_g": 10,
+    "protein_g": 57,
+    "fat_g": 66,
+    "sat_fat_g": 27,
+    "trans_fat_g": 1.5,
+    "cholesterol_mg": 250,
+    "sodium_mg": 2210
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with restaurant info.",
+  "equivalents": {
+    "megajoules": 4.02
+  },
+  "tweaks": [
+    {
+      "label": "Remove the bun for low-carb option",
+      "delta_kcal_per_unit": -220,
+      "new_total_kcal": 740
+    },
+    {
+      "label": "Add a side of small fries",
+      "delta_kcal_per_unit": 260,
+      "new_total_kcal": 1220
+    },
+    {
+      "label": "Substitute for grilled chicken patties",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 760
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in the baconator?",
+      "a": "The Wendy's Baconator contains 960 calories."
+    },
+    {
+      "q": "What's the protein in a baconator?",
+      "a": "About 57 g of protein per Baconator."
+    },
+    {
+      "q": "Is the baconator high in sodium?",
+      "a": "Yes, it has 2210 mg of sodium, over 90% of daily recommended intake."
+    },
+    {
+      "q": "Calories in baconator without bun?",
+      "a": "Removing the bun cuts it to about 740 kcal."
+    },
+    {
+      "q": "Fat content in the baconator?",
+      "a": "66 g total fat, including 27 g saturated fat."
+    }
+  ]
+}

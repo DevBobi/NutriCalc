@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in boneless skinless chicken thigh",
+  "title": "Calories in Boneless Skinless Chicken Thigh",
+  "meta_description": "Discover calories in boneless skinless chicken thigh per 100 g, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-boneless-skinless-chicken-thigh",
+  "h1": "Calories in Boneless Skinless Chicken Thigh",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "boneless skinless chicken thigh"
+  },
+  "assumptions": "Cooked (grilled or baked), no added oil, salt, or seasonings; boneless and skinless.",
+  "disclaimer": "Nutrition varies by cooking method, portion size, brand, and added ingredients. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 177,
+    "text": "100 g of cooked boneless skinless chicken thigh contains about 177 kcal and 24 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 177,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24,
+      "fat_g": 8.7,
+      "sat_fat_g": 2.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 114,
+      "sodium_mg": 82
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 177,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 24,
+    "fat_g": 8.7,
+    "sat_fat_g": 2.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 114,
+    "sodium_mg": 82
+  },
+  "label_note": "Values align with standard Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.74
+  },
+  "tweaks": [
+    {
+      "label": "Pan-fried with 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 217
+    },
+    {
+      "label": "Baked with 1 tbsp BBQ sauce per 100 g",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 202
+    },
+    {
+      "label": "Raw (uncooked) per 100 g",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 157
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g boneless skinless chicken thigh?",
+      "a": "Approximately 177 kcal when cooked without added fats."
+    },
+    {
+      "q": "What's the protein content in boneless skinless chicken thigh?",
+      "a": "About 24 g protein per 100 g cooked."
+    },
+    {
+      "q": "Does cooking method affect calories in chicken thigh?",
+      "a": "Yes—grilling or baking keeps it lower; frying adds 40+ kcal from oil."
+    },
+    {
+      "q": "Are boneless skinless chicken thighs low-carb?",
+      "a": "Yes, 0 g carbs per 100 g, making them keto-friendly."
+    },
+    {
+      "q": "How does chicken thigh compare to breast in calories?",
+      "a": "Thigh has more fat, so ~177 kcal vs. ~165 kcal per 100 g for breast; both high-protein."
+    }
+  ]
+}

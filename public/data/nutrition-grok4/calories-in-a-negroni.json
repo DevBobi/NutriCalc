@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a negroni",
+  "title": "Calories in a Negroni",
+  "meta_description": "Discover calories in a negroni, including carbs, sugars, and full nutrition breakdown for this classic cocktail, plus tweaks and FAQs.",
+  "slug": "calories-in-a-negroni",
+  "h1": "Calories in a Negroni",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "negroni",
+    "item": "negroni"
+  },
+  "assumptions": "Standard recipe: 30 ml gin, 30 ml Campari, 30 ml sweet vermouth; stirred over ice, strained; no added sugar or garnish calories.",
+  "disclaimer": "Nutrition varies by brand, exact measurements, and preparation; alcohol content affects totals. Consult labels for specific ingredients.",
+  "quick_answer": {
+    "total_kcal": 260,
+    "text": "A standard negroni contains about 260 kcal, primarily from alcohol and sugars in the vermouth and Campari."
+  },
+  "basis": {
+    "label": "per 1 negroni serving",
+    "amount": 1,
+    "unit": "negroni",
+    "nutrition": {
+      "calories_kcal": 260,
+      "carbs_g": 20,
+      "fiber_g": 0,
+      "sugars_g": 18,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 260,
+    "carbs_g": 20,
+    "fiber_g": 0,
+    "sugars_g": 18,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.09
+  },
+  "tweaks": [
+    {
+      "label": "Use low-sugar vermouth substitute",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Add 1 oz soda water for fizz (diluted version)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Double the Campari for bitter twist",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 340
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a negroni cocktail?",
+      "a": "Approximately 260 kcal for a standard 90 ml serving."
+    },
+    {
+      "q": "What are the carbs in a negroni?",
+      "a": "About 20 g carbs, mostly sugars from the vermouth and Campari."
+    },
+    {
+      "q": "Does a negroni have any protein or fat?",
+      "a": "No significant protein or fat; calories come from alcohol and carbs."
+    },
+    {
+      "q": "How does preparation affect calories in a negroni?",
+      "a": "Shaken vs. stirred has minimal impact; added syrups or garnishes increase calories."
+    },
+    {
+      "q": "Are there lower-calorie negroni variations?",
+      "a": "Yes, using diet vermouth or less Campari can reduce totals by 50+ kcal."
+    }
+  ]
+}

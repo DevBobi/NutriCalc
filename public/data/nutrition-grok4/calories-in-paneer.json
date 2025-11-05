@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in paneer",
+  "title": "Calories in Paneer",
+  "meta_description": "Discover calories in paneer per 100g, including protein, fat, carbs, and full nutrition breakdown for this Indian cheese.",
+  "slug": "calories-in-paneer",
+  "h1": "Calories in Paneer",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "paneer"
+  },
+  "assumptions": "Standard full-fat paneer (Indian cottage cheese), homemade from whole milk, unsalted, firm texture.",
+  "disclaimer": "Nutrition varies by milk type, fat content, brand, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 265,
+    "text": "100g of paneer provides ~265 kcal and ~18g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 265,
+      "carbs_g": 1.2,
+      "fiber_g": 0,
+      "sugars_g": 1.2,
+      "protein_g": 18.3,
+      "fat_g": 20.8,
+      "sat_fat_g": 13.4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 20
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 265,
+    "carbs_g": 1.2,
+    "fiber_g": 0,
+    "sugars_g": 1.2,
+    "protein_g": 18.3,
+    "fat_g": 20.8,
+    "sat_fat_g": 13.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 70,
+    "sodium_mg": 20
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.11
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat paneer (made from skim milk)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 165
+    },
+    {
+      "label": "Add 1 tsp oil for frying per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 305
+    },
+    {
+      "label": "Tofu substitute (firm, per 100g)",
+      "delta_kcal_per_unit": -130,
+      "new_total_kcal": 135
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g paneer?",
+      "a": "About 265 kcal for standard full-fat paneer."
+    },
+    {
+      "q": "Is paneer high in protein?",
+      "a": "Yes, ~18.3g protein per 100g, making it great for vegetarians."
+    },
+    {
+      "q": "What's the fat content in paneer?",
+      "a": "Around 20.8g total fat per 100g, mostly saturated."
+    },
+    {
+      "q": "Does paneer have carbs?",
+      "a": "Very low, only ~1.2g carbs and 0g fiber per 100g."
+    },
+    {
+      "q": "How does low-fat paneer compare?",
+      "a": "Lower calories (~165 kcal per 100g) but less creamy texture."
+    }
+  ]
+}

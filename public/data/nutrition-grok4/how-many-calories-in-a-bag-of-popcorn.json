@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a bag of popcorn",
+  "title": "How Many Calories in a Bag of Popcorn?",
+  "meta_description": "Discover how many calories in a bag of popcorn, including full nutrition breakdown, macros, and variations for microwave or theater styles.",
+  "slug": "how-many-calories-in-a-bag-of-popcorn",
+  "h1": "How Many Calories in a Bag of Popcorn?",
+  "updated": "2024-10-07",
+  "query": {
+    "amount": 1,
+    "unit": "bag",
+    "item": "popcorn"
+  },
+  "assumptions": "Standard microwave popcorn bag (butter flavor, ~100g popped, 3 servings), prepared as directed with included oil/butter.",
+  "disclaimer": "Nutrition varies by brand, flavor, serving size, and preparation method. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 420,
+    "text": "A typical bag of microwave popcorn contains about 420 calories and 60g of carbs."
+  },
+  "basis": {
+    "label": "per 1 bag",
+    "amount": 1,
+    "unit": "bag",
+    "nutrition": {
+      "calories_kcal": 420,
+      "carbs_g": 60,
+      "fiber_g": 12,
+      "sugars_g": 0,
+      "protein_g": 9,
+      "fat_g": 24,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 990
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 420,
+    "carbs_g": 60,
+    "fiber_g": 12,
+    "sugars_g": 0,
+    "protein_g": 9,
+    "fat_g": 24,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 990
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.76
+  },
+  "tweaks": [
+    {
+      "label": "Air-popped plain (no oil/butter)",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Extra butter topping (1 tbsp added)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 520
+    },
+    {
+      "label": "Movie theater style (larger bag, ~150g)",
+      "delta_kcal_per_unit": 300,
+      "new_total_kcal": 720
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bag of microwave popcorn?",
+      "a": "About 420 calories for a standard butter-flavored bag."
+    },
+    {
+      "q": "Is popcorn low calorie if air-popped?",
+      "a": "Yes, a bag of air-popped popcorn has around 120 calories, mostly from carbs."
+    },
+    {
+      "q": "What makes popcorn high in sodium?",
+      "a": "Added salt and butter flavors; a bag can have up to 990mg sodium."
+    },
+    {
+      "q": "How much fat in a bag of popcorn?",
+      "a": "Typically 24g total fat for buttered microwave popcorn, including 12g saturated."
+    },
+    {
+      "q": "Does caramel popcorn have more calories?",
+      "a": "Yes, a bag of caramel popcorn can exceed 600 calories due to added sugars."
+    }
+  ]
+}

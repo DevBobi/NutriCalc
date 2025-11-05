@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a matcha latte",
+  "title": "Calories in a Matcha Latte",
+  "meta_description": "Discover calories in a matcha latte, including full nutrition breakdown with protein, carbs, fat, and easy tweaks for different milks.",
+  "slug": "calories-in-a-matcha-latte",
+  "h1": "Calories in a Matcha Latte",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "matcha latte",
+    "item": "matcha latte"
+  },
+  "assumptions": "Standard 8 oz (240 ml) whole milk, 1 tsp (2 g) matcha powder, steamed/frothed, no added sweeteners.",
+  "disclaimer": "Nutrition varies by milk type, matcha quality, serving size, and additions like syrups. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 160,
+    "text": "A standard matcha latte provides about 160 kcal with 9 g protein from the milk."
+  },
+  "basis": {
+    "label": "per 1 matcha latte",
+    "amount": 1,
+    "unit": "matcha latte",
+    "nutrition": {
+      "calories_kcal": 160,
+      "carbs_g": 13,
+      "fiber_g": 0,
+      "sugars_g": 12,
+      "protein_g": 9,
+      "fat_g": 8,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 120
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 160,
+    "carbs_g": 13,
+    "fiber_g": 0,
+    "sugars_g": 12,
+    "protein_g": 9,
+    "fat_g": 8,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 120
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.67
+  },
+  "tweaks": [
+    {
+      "label": "Use skim milk instead of whole",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Add 1 tsp honey or sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 176
+    },
+    {
+      "label": "Use unsweetened almond milk",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a matcha latte with whole milk?",
+      "a": "About 160 kcal for an 8 oz serving with 1 tsp matcha."
+    },
+    {
+      "q": "Is a matcha latte low carb?",
+      "a": "It has around 13 g carbs, mostly from milk; opt for low-carb milk to reduce."
+    },
+    {
+      "q": "What about protein in a matcha latte?",
+      "a": "Typically 9 g from whole milk; plant-based milks vary."
+    },
+    {
+      "q": "Does matcha latte have caffeine?",
+      "a": "Yes, about 70 mg from 1 tsp matcha, similar to green tea."
+    },
+    {
+      "q": "How to make a lower calorie matcha latte?",
+      "a": "Use non-dairy milk like almond or oat, and skip sweeteners for under 100 kcal."
+    }
+  ]
+}

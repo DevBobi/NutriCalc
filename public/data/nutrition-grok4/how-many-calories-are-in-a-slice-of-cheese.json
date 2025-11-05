@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a slice of cheese",
+  "title": "How Many Calories Are in a Slice of Cheese?",
+  "meta_description": "Discover how many calories are in a slice of cheese, including full nutrition breakdown like protein, fat, carbs, and easy variations for your diet.",
+  "slug": "how-many-calories-are-in-a-slice-of-cheese",
+  "h1": "How Many Calories Are in a Slice of Cheese?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "cheese"
+  },
+  "assumptions": "1 oz (28 g) slice of cheddar cheese, pasteurized and processed; common sandwich slice size.",
+  "disclaimer": "Nutrition varies by cheese type, brand, processing, and slice thickness. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 113,
+    "text": "A typical 1 oz slice of cheddar cheese contains about 113 calories and 7 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice (1 oz or 28 g)",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 113,
+      "carbs_g": 0.4,
+      "fiber_g": 0,
+      "sugars_g": 0.1,
+      "protein_g": 7,
+      "fat_g": 9.3,
+      "sat_fat_g": 5.3,
+      "trans_fat_g": 0.3,
+      "cholesterol_mg": 30,
+      "sodium_mg": 180
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 113,
+    "carbs_g": 0.4,
+    "fiber_g": 0,
+    "sugars_g": 0.1,
+    "protein_g": 7,
+    "fat_g": 9.3,
+    "sat_fat_g": 5.3,
+    "trans_fat_g": 0.3,
+    "cholesterol_mg": 30,
+    "sodium_mg": 180
+  },
+  "label_note": "Values mirror standard Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.47
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat cheddar slice",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 73
+    },
+    {
+      "label": "Switch to Swiss cheese slice",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 103
+    },
+    {
+      "label": "Mozzarella slice instead",
+      "delta_kcal_per_unit": -13,
+      "new_total_kcal": 100
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a slice of cheese?",
+      "a": "About 113 kcal for a standard 1 oz cheddar slice."
+    },
+    {
+      "q": "Is cheese high in fat?",
+      "a": "Yes, a slice has ~9.3 g total fat, with 5.3 g saturated."
+    },
+    {
+      "q": "How much protein in one slice of cheese?",
+      "a": "Around 7 g per 1 oz slice."
+    },
+    {
+      "q": "Does cheese have carbs?",
+      "a": "Very low—only 0.4 g carbs and 0 g fiber per slice."
+    },
+    {
+      "q": "Why is sodium high in cheese slices?",
+      "a": "Processing adds salt; expect ~180 mg per slice, varying by type."
+    }
+  ]
+}

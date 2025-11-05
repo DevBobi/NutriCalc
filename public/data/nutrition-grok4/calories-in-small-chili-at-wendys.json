@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in small chili at wendys",
+  "title": "Calories in Small Chili at Wendy's",
+  "meta_description": "Discover calories in small chili at Wendy's, including full nutrition breakdown like protein, carbs, fat, sodium, and quick tweaks for customizations.",
+  "slug": "calories-in-small-chili-at-wendys",
+  "h1": "Calories in Small Chili at Wendy's",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small chili",
+    "item": "Wendy's small chili"
+  },
+  "assumptions": "Wendy's small chili serving (about 241 g), made with beef, beans, tomatoes, and spices; no added toppings or crackers.",
+  "disclaimer": "Nutrition varies by location, recipe changes, and portion size. Check Wendy's app or website for the latest official values.",
+  "quick_answer": {
+    "total_kcal": 170,
+    "text": "A small chili at Wendy's has 170 kcal, 15 g protein, and is relatively low in fat."
+  },
+  "basis": {
+    "label": "per 1 small chili",
+    "amount": 1,
+    "unit": "small chili",
+    "nutrition": {
+      "calories_kcal": 170,
+      "carbs_g": 23,
+      "fiber_g": 6,
+      "sugars_g": 6,
+      "protein_g": 15,
+      "fat_g": 6,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 170,
+    "carbs_g": 23,
+    "fiber_g": 6,
+    "sugars_g": 6,
+    "protein_g": 15,
+    "fat_g": 6,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with restaurant info.",
+  "equivalents": {
+    "megajoules": 0.71
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp shredded cheddar cheese",
+      "delta_kcal_per_unit": 55,
+      "new_total_kcal": 225
+    },
+    {
+      "label": "Add 1 tbsp sour cream",
+      "delta_kcal_per_unit": 26,
+      "new_total_kcal": 196
+    },
+    {
+      "label": "Include 1 packet oyster crackers",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in small chili at Wendy's?",
+      "a": "170 kcal per small serving."
+    },
+    {
+      "q": "What's the protein in Wendy's small chili?",
+      "a": "About 15 g of protein per small chili."
+    },
+    {
+      "q": "Is Wendy's small chili low carb?",
+      "a": "It has 23 g carbs, including 6 g fiber, making net carbs around 17 g."
+    },
+    {
+      "q": "How much sodium in small chili at Wendy's?",
+      "a": "Approximately 800 mg, so watch intake if on a low-sodium diet."
+    },
+    {
+      "q": "Calories in large vs small chili at Wendy's?",
+      "a": "Large is about 340 kcal; double the small portion size."
+    }
+  ]
+}

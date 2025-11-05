@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a ribeye steak",
+  "title": "Calories in a Ribeye Steak",
+  "meta_description": "Learn calories in a ribeye steak (typical 250g serving), plus protein, fat, carbs, and full nutrition details for easy tracking.",
+  "slug": "calories-in-a-ribeye-steak",
+  "h1": "Calories in a Ribeye Steak",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "steak",
+    "item": "ribeye steak"
+  },
+  "assumptions": "Boneless ribeye steak, broiled or grilled, moderate marbling; typical serving 250 g cooked weight, no added sauces or oils.",
+  "disclaimer": "Nutrition varies by cut size, fat content, cooking method, and trimming; check labels or use a scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 678,
+    "text": "A typical 250 g ribeye steak provides ~678 kcal and ~60 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 271,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24,
+      "fat_g": 19,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 54
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 678,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 60,
+    "fat_g": 47.5,
+    "sat_fat_g": 20,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 200,
+    "sodium_mg": 135
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.84
+  },
+  "tweaks": [
+    {
+      "label": "Grilled with 1 tbsp olive oil",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 798
+    },
+    {
+      "label": "Leaner trim (remove excess fat)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 628
+    },
+    {
+      "label": "Bone-in (effective meat weight reduced to 200 g)",
+      "delta_kcal_per_unit": -136,
+      "new_total_kcal": 542
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a ribeye steak?",
+      "a": "About 678 kcal for a typical 250 g cooked boneless ribeye steak."
+    },
+    {
+      "q": "What's the protein in a ribeye steak?",
+      "a": "Roughly 60 g protein in a 250 g serving."
+    },
+    {
+      "q": "Does ribeye steak have carbs?",
+      "a": "No carbs, fiber, or sugars—it's primarily protein and fat."
+    },
+    {
+      "q": "How does cooking affect calories in ribeye steak?",
+      "a": "Broiling or grilling keeps it similar; frying or adding butter increases calories significantly."
+    },
+    {
+      "q": "Is ribeye high in saturated fat?",
+      "a": "Yes, about 20 g saturated fat in a 250 g steak due to marbling."
+    }
+  ]
+}

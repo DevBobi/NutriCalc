@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in one tablespoon of peanut butter",
+  "title": "Calories in One Tablespoon of Peanut Butter",
+  "meta_description": "Discover calories in one tablespoon of peanut butter, including full nutrition breakdown, macros, and easy tweaks for variations.",
+  "slug": "calories-in-one-tablespoon-of-peanut-butter",
+  "h1": "Calories in One Tablespoon of Peanut Butter",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tablespoon",
+    "item": "peanut butter"
+  },
+  "assumptions": "Smooth, natural peanut butter; no added sugar, salt, or oils; standard serving ~16 g.",
+  "disclaimer": "Nutrition varies by brand, ingredients (e.g., added sugar/oil), texture, and measurement. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 94,
+    "text": "One tablespoon of peanut butter provides ~94 kcal and ~4 g protein."
+  },
+  "basis": {
+    "label": "per 1 tablespoon",
+    "amount": 1,
+    "unit": "tablespoon",
+    "nutrition": {
+      "calories_kcal": 94,
+      "carbs_g": 3.1,
+      "fiber_g": 1.1,
+      "sugars_g": 1.2,
+      "protein_g": 4,
+      "fat_g": 8.2,
+      "sat_fat_g": 1.6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 73
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 94,
+    "carbs_g": 3.1,
+    "fiber_g": 1.1,
+    "sugars_g": 1.2,
+    "protein_g": 4,
+    "fat_g": 8.2,
+    "sat_fat_g": 1.6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 73
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.39
+  },
+  "tweaks": [
+    {
+      "label": "Chunky peanut butter (with peanut pieces)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 96
+    },
+    {
+      "label": "With added sugar (commercial brand)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 109
+    },
+    {
+      "label": "Low-fat version (reduced oil)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 74
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one tablespoon of peanut butter?",
+      "a": "About 94 kcal for natural smooth peanut butter."
+    },
+    {
+      "q": "What's the protein in a tablespoon of peanut butter?",
+      "a": "Approximately 4 g protein per tablespoon."
+    },
+    {
+      "q": "Does peanut butter have a lot of fat?",
+      "a": "Yes, ~8.2 g total fat per tablespoon, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "How much sodium is in peanut butter?",
+      "a": "Around 73 mg per tablespoon for natural varieties; higher in salted brands."
+    },
+    {
+      "q": "Is peanut butter keto-friendly per tablespoon?",
+      "a": "Yes, low carbs (~3.1 g) and high fat make it suitable in moderation."
+    }
+  ]
+}

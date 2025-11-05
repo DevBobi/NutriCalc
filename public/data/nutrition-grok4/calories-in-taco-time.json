@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in taco time",
+  "title": "Calories in Taco Time Taco",
+  "meta_description": "Explore calories in taco time items like the classic beef soft taco (about 220 kcal), with full macros, variations, and FAQs for fast-food nutrition tracking.",
+  "slug": "calories-in-taco-time",
+  "h1": "Calories in Taco Time Taco",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "taco",
+    "item": "Taco Time soft taco"
+  },
+  "assumptions": "Standard beef soft taco from Taco Time: flour tortilla, seasoned ground beef, cheddar cheese, lettuce, mild sauce; no extras.",
+  "disclaimer": "Nutrition varies by location, exact recipe, portion size, and customizations. Check Taco Time's official menu or app for precise values.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "One Taco Time beef soft taco provides ~220 kcal, 11 g protein, and 24 g carbs."
+  },
+  "basis": {
+    "label": "per 1 soft taco",
+    "amount": 1,
+    "unit": "taco",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 24,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 11,
+      "fat_g": 9,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 25,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 24,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 11,
+    "fat_g": 9,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 25,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with fast-food menus.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Add sour cream and guacamole",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Chicken instead of beef",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "No cheese or sauce",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 160
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Taco Time soft taco?",
+      "a": "About 220 kcal for one beef soft taco."
+    },
+    {
+      "q": "What are the macros for calories in taco time tacos?",
+      "a": "Per soft taco: 24 g carbs, 11 g protein, 9 g fat."
+    },
+    {
+      "q": "Are Taco Time tacos high in sodium?",
+      "a": "Yes, around 500 mg sodium per soft taco due to seasoning and cheese."
+    },
+    {
+      "q": "Calories in taco time crisp vs soft taco?",
+      "a": "Crisp tacos are similar at ~200-250 kcal; soft are slightly higher from the flour tortilla."
+    },
+    {
+      "q": "How to lower calories in taco time orders?",
+      "a": "Opt for chicken, skip cheese/sauce, or choose fresco-style for ~100-150 kcal savings."
+    }
+  ]
+}

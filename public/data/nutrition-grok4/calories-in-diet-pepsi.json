@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in diet pepsi",
+  "title": "Calories in Diet Pepsi",
+  "meta_description": "Learn the calories in diet pepsi: zero per standard serving, with full nutrition facts, sodium details, and variations like regular Pepsi.",
+  "slug": "calories-in-diet-pepsi",
+  "h1": "Calories in Diet Pepsi",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 355,
+    "unit": "ml",
+    "item": "diet pepsi"
+  },
+  "assumptions": "Standard 12 oz (355 ml) can of Diet Pepsi, artificially sweetened, carbonated soft drink.",
+  "disclaimer": "Nutrition varies by brand, region, formulation, and serving size. Always check the product label for the most accurate information.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "A standard 12 oz can of Diet Pepsi has 0 calories and is sugar-free."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 35
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Switch to regular Pepsi",
+      "delta_kcal_per_unit": 42,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "For a 500 ml bottle serving",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Caffeine-free Diet Pepsi variant",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in diet pepsi per can?",
+      "a": "Zero calories in a standard 12 oz can of Diet Pepsi."
+    },
+    {
+      "q": "Does Diet Pepsi have sugar or carbs?",
+      "a": "No sugar and 0 g carbs per serving; sweetened with aspartame."
+    },
+    {
+      "q": "What's the sodium in Diet Pepsi?",
+      "a": "About 35 mg sodium per 12 oz can."
+    },
+    {
+      "q": "Is Diet Pepsi really zero calories?",
+      "a": "Yes, due to artificial sweeteners replacing sugar; confirmed 0 kcal."
+    },
+    {
+      "q": "How does Diet Pepsi compare to regular in calories?",
+      "a": "Diet has 0 kcal vs. about 150 kcal in regular Pepsi per 12 oz."
+    }
+  ]
+}

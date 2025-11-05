@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in one teaspoon of sugar",
+  "title": "How Many Calories in One Teaspoon of Sugar?",
+  "meta_description": "Discover how many calories in one teaspoon of sugar, including carbs, sugars, and zero-fat profile, plus tweaks and FAQs for better choices.",
+  "slug": "how-many-calories-in-one-teaspoon-of-sugar",
+  "h1": "How Many Calories in One Teaspoon of Sugar?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "teaspoon",
+    "item": "sugar"
+  },
+  "assumptions": "Granulated white sugar, level teaspoon (≈4 g), no additives.",
+  "disclaimer": "Nutrition varies by sugar type, packing density, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 16,
+    "text": "One teaspoon of granulated sugar provides about 16 calories, all from carbohydrates."
+  },
+  "basis": {
+    "label": "per 1 teaspoon",
+    "amount": 1,
+    "unit": "teaspoon",
+    "nutrition": {
+      "calories_kcal": 16,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sugars_g": 4,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 16,
+    "carbs_g": 4,
+    "fiber_g": 0,
+    "sugars_g": 4,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.07
+  },
+  "tweaks": [
+    {
+      "label": "Heaping teaspoon (≈5 g vs. level)",
+      "delta_kcal_per_unit": 4,
+      "new_total_kcal": 20
+    },
+    {
+      "label": "Substitute with brown sugar",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 16
+    },
+    {
+      "label": "Use honey instead (1 tsp)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 21
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one teaspoon of sugar?",
+      "a": "Approximately 16 calories per level teaspoon."
+    },
+    {
+      "q": "Is sugar all carbs?",
+      "a": "Yes, 100% carbohydrates—4 g total carbs and 4 g sugars per teaspoon."
+    },
+    {
+      "q": "How does brown sugar compare?",
+      "a": "Similar calories (≈16 kcal per tsp), but with trace fiber and minerals."
+    },
+    {
+      "q": "What's the carb impact of one teaspoon?",
+      "a": "Adds 4 g of carbs, which can affect blood sugar; portion mindfully."
+    },
+    {
+      "q": "Are there zero-calorie sugar alternatives?",
+      "a": "Yes, like stevia or erythritol (0 kcal per tsp), ideal for low-carb diets."
+    }
+  ]
+}

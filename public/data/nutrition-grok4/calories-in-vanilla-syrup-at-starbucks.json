@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in vanilla syrup at starbucks",
+  "title": "Calories in Starbucks Vanilla Syrup",
+  "meta_description": "Discover calories in vanilla syrup at Starbucks per pump, including carbs, sugars, and nutrition details for your drinks.",
+  "slug": "calories-in-vanilla-syrup-at-starbucks",
+  "h1": "Calories in Starbucks Vanilla Syrup",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "pump",
+    "item": "vanilla syrup"
+  },
+  "assumptions": "Standard Starbucks vanilla syrup; 1 pump ≈ 0.25 fl oz (7.4 ml); no additives.",
+  "disclaimer": "Nutrition varies by exact formulation, batch, and serving size. Check Starbucks app or labels for current values.",
+  "quick_answer": {
+    "total_kcal": 20,
+    "text": "One pump of Starbucks vanilla syrup contains 20 calories, all from sugars."
+  },
+  "basis": {
+    "label": "per 1 pump",
+    "amount": 1,
+    "unit": "pump",
+    "nutrition": {
+      "calories_kcal": 20,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sugars_g": 5,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 20,
+    "carbs_g": 5,
+    "fiber_g": 0,
+    "sugars_g": 5,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with syrup packaging.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Use sugar-free vanilla syrup",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Two pumps per serving",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Homemade version with less sugar",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 10
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pump of Starbucks vanilla syrup?",
+      "a": "20 calories per pump."
+    },
+    {
+      "q": "What are the carbs in Starbucks vanilla syrup?",
+      "a": "5 g carbs per pump, all from 5 g sugars."
+    },
+    {
+      "q": "Does Starbucks vanilla syrup have fat or protein?",
+      "a": "0 g fat and 0 g protein per pump."
+    },
+    {
+      "q": "How many pumps in a typical Starbucks drink?",
+      "a": "Varies by size: 2–4 pumps for lattes or frappuccinos."
+    },
+    {
+      "q": "Is there a low-calorie alternative to vanilla syrup at Starbucks?",
+      "a": "Yes, sugar-free vanilla syrup has 0 calories per pump."
+    }
+  ]
+}

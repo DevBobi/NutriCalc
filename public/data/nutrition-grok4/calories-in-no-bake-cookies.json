@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in no bake cookies",
+  "title": "Calories in No Bake Cookies",
+  "meta_description": "Discover calories in no bake cookies per serving, including carbs, fat, protein, and recipe tweaks for healthier options.",
+  "slug": "calories-in-no-bake-cookies",
+  "h1": "Calories in No Bake Cookies",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cookie",
+    "item": "no bake cookie"
+  },
+  "assumptions": "Standard peanut butter oatmeal no-bake cookies (~25g each), made with sugar, cocoa, peanut butter, rolled oats, milk, and butter; no nuts added.",
+  "disclaimer": "Nutrition varies by recipe, ingredient brands, portion size, and add-ins. Homemade values differ from store-bought; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "One standard no-bake cookie has about 120 calories and 2 g protein."
+  },
+  "basis": {
+    "label": "per 1 no-bake cookie",
+    "amount": 1,
+    "unit": "cookie",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 14,
+      "fiber_g": 1,
+      "sugars_g": 9,
+      "protein_g": 2,
+      "fat_g": 6,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 14,
+    "fiber_g": 1,
+    "sugars_g": 9,
+    "protein_g": 2,
+    "fat_g": 6,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 50
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp chocolate chips per cookie",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Use low-sugar peanut butter and reduce sugar by 25%",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Vegan version with coconut oil instead of butter",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 130
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one no bake cookie?",
+      "a": "About 120 calories for a standard peanut butter oatmeal no-bake cookie."
+    },
+    {
+      "q": "Are no bake cookies high in sugar?",
+      "a": "Yes, typically 9 g sugars per cookie from added sugar and ingredients."
+    },
+    {
+      "q": "What's the protein in no bake cookies?",
+      "a": "Around 2 g protein per cookie, mainly from peanut butter and oats."
+    },
+    {
+      "q": "Can no bake cookies be healthy?",
+      "a": "Tweaks like using less sugar or nut butters can reduce calories and boost nutrition."
+    },
+    {
+      "q": "How do calories vary in no bake cookies?",
+      "a": "Depends on recipe—add-ins like nuts or chocolate increase calories; smaller portions lower them."
+    }
+  ]
+}

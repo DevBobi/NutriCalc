@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken shawarma",
+  "title": "Calories in Chicken Shawarma",
+  "meta_description": "Discover calories in chicken shawarma per serving, including protein, carbs, fat, full nutrition breakdown, and easy tweaks for your wrap.",
+  "slug": "calories-in-chicken-shawarma",
+  "h1": "Calories in Chicken Shawarma",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "chicken shawarma"
+  },
+  "assumptions": "Standard wrap with grilled spiced chicken, pita bread, lettuce, tomato, onion, tahini sauce; ~250 g total serving weight.",
+  "disclaimer": "Nutrition varies by recipe, portion size, ingredients, and preparation method. Check restaurant or packaging labels when available.",
+  "quick_answer": {
+    "total_kcal": 420,
+    "text": "One chicken shawarma serving provides ~420 kcal and ~28 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 420,
+      "carbs_g": 48,
+      "fiber_g": 4,
+      "sugars_g": 4,
+      "protein_g": 28,
+      "fat_g": 16,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 420,
+    "carbs_g": 48,
+    "fiber_g": 4,
+    "sugars_g": 4,
+    "protein_g": 28,
+    "fat_g": 16,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 70,
+    "sodium_mg": 850
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.76
+  },
+  "tweaks": [
+    {
+      "label": "Skip the tahini sauce",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Add extra grilled chicken (50 g)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Use whole wheat pita instead of white",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 400
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one chicken shawarma wrap?",
+      "a": "About 420 kcal for a standard serving with pita, veggies, and tahini."
+    },
+    {
+      "q": "What's the protein content in chicken shawarma?",
+      "a": "Roughly 28 g protein per serving from the grilled chicken."
+    },
+    {
+      "q": "Are carbs high in chicken shawarma?",
+      "a": "Yes, around 48 g carbs mainly from the pita bread; fiber is ~4 g."
+    },
+    {
+      "q": "How does preparation affect calories in chicken shawarma?",
+      "a": "Grilling keeps it lower; frying or extra oil/sauce can add 100+ kcal."
+    },
+    {
+      "q": "Is chicken shawarma high in sodium?",
+      "a": "Yes, ~850 mg per serving due to spices, sauce, and bread—watch if on a low-sodium diet."
+    }
+  ]
+}

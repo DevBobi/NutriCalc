@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 3 chicken fingers",
+  "title": "Calories in 3 Chicken Fingers",
+  "meta_description": "Discover calories in 3 chicken fingers, including protein, fat, carbs, full nutrition breakdown, and easy tweaks for healthier options.",
+  "slug": "calories-in-3-chicken-fingers",
+  "h1": "Calories in 3 Chicken Fingers",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "chicken finger",
+    "item": "chicken finger"
+  },
+  "assumptions": "Breaded, fried chicken tenders, approx 70g each, standard fast-food style with light breading, no added sauces.",
+  "disclaimer": "Nutrition varies by brand, size, breading thickness, cooking method, and portion; check labels or restaurant info when available.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "3 chicken fingers provide ~450 kcal and ~42 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken finger",
+    "amount": 1,
+    "unit": "chicken finger",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 9,
+      "fiber_g": 0,
+      "sugars_g": 0.5,
+      "protein_g": 14,
+      "fat_g": 8,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 45,
+      "sodium_mg": 450
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 27,
+    "fiber_g": 0,
+    "sugars_g": 1.5,
+    "protein_g": 42,
+    "fat_g": 24,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 135,
+    "sodium_mg": 1350
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Add 1 tbsp dipping sauce per finger",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 600
+    },
+    {
+      "label": "Air-fried with minimal oil",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 360
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one chicken finger?",
+      "a": "About 150 kcal per breaded, fried chicken finger."
+    },
+    {
+      "q": "What is the protein in 3 chicken fingers?",
+      "a": "Approximately 42 g of protein."
+    },
+    {
+      "q": "Are chicken fingers high in sodium?",
+      "a": "Yes, ~1350 mg total for 3, due to breading and seasoning."
+    },
+    {
+      "q": "How do baked chicken fingers compare in calories?",
+      "a": "Baked versions are ~110 kcal each, reducing total to 330 kcal for 3."
+    },
+    {
+      "q": "Do chicken fingers have much fiber?",
+      "a": "Very little, 0 g total for 3 under standard preparation."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a ribeye steak",
+  "title": "How Many Calories Are in a Ribeye Steak?",
+  "meta_description": "Learn how many calories are in a ribeye steak with a full nutrition breakdown for a typical 8 oz serving, including protein, fat, carbs, and quick tweaks for variations.",
+  "slug": "how-many-calories-are-in-a-ribeye-steak",
+  "h1": "How Many Calories Are in a Ribeye Steak?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "steak",
+    "item": "ribeye steak"
+  },
+  "assumptions": "8 oz (227 g) boneless ribeye steak, grilled, trimmed to 1/8 inch fat, all grades, cooked without added oil or seasonings.",
+  "disclaimer": "Nutrition varies by cut, fat content, grade, cooking method, and portion size. Check labels or USDA data for specifics.",
+  "quick_answer": {
+    "total_kcal": 661,
+    "text": "A typical 8 oz grilled ribeye steak has 661 calories and 55 g protein."
+  },
+  "basis": {
+    "label": "per 1 ribeye steak (227 g)",
+    "amount": 1,
+    "unit": "steak",
+    "nutrition": {
+      "calories_kcal": 661,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 55,
+      "fat_g": 48,
+      "sat_fat_g": 20,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 184,
+      "sodium_mg": 132
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 661,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 55,
+    "fat_g": 48,
+    "sat_fat_g": 20,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 184,
+    "sodium_mg": 132
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.76
+  },
+  "tweaks": [
+    {
+      "label": "Fully trim visible fat (vs 1/8 inch)",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 541
+    },
+    {
+      "label": "Pan-sear with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 701
+    },
+    {
+      "label": "Marinate in low-cal sauce (e.g., soy-based, 2 tbsp)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 691
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a ribeye steak?",
+      "a": "About 661 calories for a typical 8 oz grilled ribeye steak."
+    },
+    {
+      "q": "How much protein is in a ribeye steak?",
+      "a": "Around 55 g protein per 8 oz serving."
+    },
+    {
+      "q": "Is ribeye steak high in fat?",
+      "a": "Yes, it has about 48 g total fat, including 20 g saturated fat, due to marbling."
+    },
+    {
+      "q": "What's the cholesterol in a ribeye steak?",
+      "a": "Approximately 184 mg per 8 oz steak."
+    },
+    {
+      "q": "Does cooking method affect calories in ribeye steak?",
+      "a": "Yes—grilling keeps it lower; frying or adding butter can add 40–100+ calories."
+    }
+  ]
+}

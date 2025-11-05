@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in rice crispy cereal",
+  "title": "Calories in Rice Crispy Cereal",
+  "meta_description": "Learn calories in rice crispy cereal per standard serving, including carbs, protein, fat, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-rice-crispy-cereal",
+  "h1": "Calories in Rice Crispy Cereal",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 30,
+    "unit": "g",
+    "item": "rice crispy cereal"
+  },
+  "assumptions": "Standard serving of unsweetened puffed rice cereal (e.g., Kellogg's Rice Krispies), dry, no milk or toppings added.",
+  "disclaimer": "Nutrition varies by brand, fortification, and serving size; check product labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "A 30 g serving of rice crispy cereal contains about 120 kcal and 28 g carbs."
+  },
+  "basis": {
+    "label": "per 30 g (1 cup)",
+    "amount": 30,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 28,
+      "fiber_g": 0,
+      "sugars_g": 3,
+      "protein_g": 2,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 190
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 28,
+    "fiber_g": 0,
+    "sugars_g": 3,
+    "protein_g": 2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 190
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 cup skim milk",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Add 1 tbsp sugar",
+      "delta_kcal_per_unit": 48,
+      "new_total_kcal": 168
+    },
+    {
+      "label": "Toasted with 1 tsp butter",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 154
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of rice crispy cereal?",
+      "a": "About 120 kcal per 30 g (1 cup) serving."
+    },
+    {
+      "q": "What are the carbs in rice crispy cereal?",
+      "a": "Approximately 28 g total carbs per 30 g serving, with 0 g fiber."
+    },
+    {
+      "q": "Is rice crispy cereal high in protein?",
+      "a": "No, only about 2 g protein per 30 g serving."
+    },
+    {
+      "q": "Does rice crispy cereal have fat?",
+      "a": "Typically 0 g fat per serving, making it low-fat."
+    },
+    {
+      "q": "How much sodium in rice crispy cereal?",
+      "a": "Around 190 mg per 30 g serving, due to fortification."
+    }
+  ]
+}

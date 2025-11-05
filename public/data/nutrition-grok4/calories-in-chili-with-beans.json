@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chili with beans",
+  "title": "Calories in Chili with Beans",
+  "meta_description": "Discover calories in chili with beans per cup serving, including macros like protein, carbs, fat, and nutrition tweaks for your meal.",
+  "slug": "calories-in-chili-with-beans",
+  "h1": "Calories in Chili with Beans",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "chili with beans"
+  },
+  "assumptions": "Canned beef chili with beans, standard variety; includes ground beef, kidney beans, tomatoes, onions, spices; no added toppings.",
+  "disclaimer": "Nutrition varies by brand, recipe, meat type, bean variety, and preparation; homemade or fresh versions may differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 286,
+    "text": "One cup of chili with beans has about 286 kcal, 15 g protein, and 30 g carbs."
+  },
+  "basis": {
+    "label": "per 1 cup (245 g)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 286,
+      "carbs_g": 30,
+      "fiber_g": 11,
+      "sugars_g": 6,
+      "protein_g": 15,
+      "fat_g": 10,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 25,
+      "sodium_mg": 1020
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 286,
+    "carbs_g": 30,
+    "fiber_g": 11,
+    "sugars_g": 6,
+    "protein_g": 15,
+    "fat_g": 10,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 25,
+    "sodium_mg": 1020
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 1.2
+  },
+  "tweaks": [
+    {
+      "label": "Vegetarian version (no beef, extra beans)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 236
+    },
+    {
+      "label": "Add 1 oz shredded cheddar cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 396
+    },
+    {
+      "label": "Low-sodium canned variety",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 286
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of chili with beans?",
+      "a": "Approximately 286 kcal for a standard beef chili with beans."
+    },
+    {
+      "q": "Is chili with beans high in protein?",
+      "a": "Yes, about 15 g protein per cup, mainly from beef and beans."
+    },
+    {
+      "q": "What's the sodium content in chili with beans?",
+      "a": "Around 1020 mg per cup; opt for low-sodium versions if watching intake."
+    },
+    {
+      "q": "Does homemade chili with beans have fewer calories?",
+      "a": "It can, depending on ingredients—lean meat and less oil reduce calories vs. canned."
+    },
+    {
+      "q": "How much fiber in chili with beans?",
+      "a": "About 11 g per cup, thanks to the beans and vegetables."
+    }
+  ]
+}

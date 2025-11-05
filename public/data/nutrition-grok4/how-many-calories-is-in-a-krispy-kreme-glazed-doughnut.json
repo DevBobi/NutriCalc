@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in a krispy kreme glazed doughnut",
+  "title": "How Many Calories in a Krispy Kreme Glazed Doughnut?",
+  "meta_description": "Discover how many calories is in a Krispy Kreme glazed doughnut—about 190 kcal—plus full nutrition breakdown, macros, and variations for your diet tracking.",
+  "slug": "how-many-calories-is-in-a-krispy-kreme-glazed-doughnut",
+  "h1": "How Many Calories in a Krispy Kreme Glazed Doughnut?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "doughnut",
+    "item": "Krispy Kreme glazed doughnut"
+  },
+  "assumptions": "Original Glazed doughnut from Krispy Kreme, standard single serving, fresh from the store.",
+  "disclaimer": "Nutrition varies by batch, size, and exact recipe; check Krispy Kreme's official labels or app for the most current info.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "A single Krispy Kreme Original Glazed doughnut contains about 190 calories and 11 grams of fat."
+  },
+  "basis": {
+    "label": "per 1 Krispy Kreme glazed doughnut",
+    "amount": 1,
+    "unit": "doughnut",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 22,
+      "fiber_g": 0.5,
+      "sugars_g": 10,
+      "protein_g": 2,
+      "fat_g": 11,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 80
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 22,
+    "fiber_g": 0.5,
+    "sugars_g": 10,
+    "protein_g": 2,
+    "fat_g": 11,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 80
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate-iced version (vs. original glazed)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Filled with raspberry filling",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Glazed with sprinkles added",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in a Krispy Kreme glazed doughnut?",
+      "a": "Approximately 190 calories per Original Glazed doughnut."
+    },
+    {
+      "q": "What are the carbs in a Krispy Kreme glazed doughnut?",
+      "a": "About 22 grams of carbohydrates, including 10 grams of sugars."
+    },
+    {
+      "q": "Is there protein in Krispy Kreme doughnuts?",
+      "a": "Yes, roughly 2 grams of protein per glazed doughnut."
+    },
+    {
+      "q": "How much fat is in a Krispy Kreme Original Glazed?",
+      "a": "Around 11 grams total fat, with 5 grams saturated."
+    },
+    {
+      "q": "Do Krispy Kreme glazed doughnuts have cholesterol?",
+      "a": "Typically 0 mg cholesterol in the Original Glazed variety."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in deli ham",
+  "title": "Calories in Deli Ham",
+  "meta_description": "Discover calories in deli ham per 100 g, including protein, fat, carbs, sodium details, and easy tweaks for your meals.",
+  "slug": "calories-in-deli-ham",
+  "h1": "Calories in Deli Ham",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "deli ham"
+  },
+  "assumptions": "Sliced deli ham (e.g., honey or smoked), cured and ready-to-eat; averages from common brands, no added condiments.",
+  "disclaimer": "Nutrition varies by brand, curing method, slice thickness, and flavorings. Check labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 145,
+    "text": "100 g of deli ham provides about 145 kcal and 18 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 145,
+      "carbs_g": 1.5,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 18,
+      "fat_g": 8,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 145,
+    "carbs_g": 1.5,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 18,
+    "fat_g": 8,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.61
+  },
+  "tweaks": [
+    {
+      "label": "Low-sodium deli ham (reduced salt version)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 135
+    },
+    {
+      "label": "Add 1 tsp mustard per 100 g",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Thick-sliced (equivalent to 120 g thin slices)",
+      "delta_kcal_per_unit": 29,
+      "new_total_kcal": 174
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g of deli ham?",
+      "a": "Approximately 145 kcal per 100 g."
+    },
+    {
+      "q": "Is deli ham high in sodium?",
+      "a": "Yes, about 1200 mg sodium per 100 g—watch intake if on a low-sodium diet."
+    },
+    {
+      "q": "How much protein in deli ham?",
+      "a": "Around 18 g protein per 100 g, making it a good lean meat option."
+    },
+    {
+      "q": "Does deli ham have carbs?",
+      "a": "Very low, only 1.5 g carbs per 100 g, mostly from any added sugars."
+    },
+    {
+      "q": "How do calories vary by deli ham type?",
+      "a": "Smoked or honey varieties may add 10-20 kcal per 100 g; low-fat options reduce by 10-30 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in salami slice",
+  "title": "Calories in a Salami Slice",
+  "meta_description": "Learn calories in salami slice, plus detailed nutrition facts like fat, protein, sodium, and variations for your diet tracking.",
+  "slug": "calories-in-salami-slice",
+  "h1": "Calories in a Salami Slice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "salami"
+  },
+  "assumptions": "Typical dry Italian salami slice (~10 g), cured pork/beef, no added cheese or bread.",
+  "disclaimer": "Nutrition varies by brand, type (e.g., Genoa vs. hard salami), slice thickness, and curing process. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 38,
+    "text": "One typical salami slice has ~38 kcal, high in fat and sodium."
+  },
+  "basis": {
+    "label": "per 1 slice (~10 g)",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 38,
+      "carbs_g": 0.2,
+      "fiber_g": 0,
+      "sugars_g": 0.1,
+      "protein_g": 2.2,
+      "fat_g": 3.1,
+      "sat_fat_g": 1.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 8,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 38,
+    "carbs_g": 0.2,
+    "fiber_g": 0,
+    "sugars_g": 0.1,
+    "protein_g": 2.2,
+    "fat_g": 3.1,
+    "sat_fat_g": 1.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 8,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.16
+  },
+  "tweaks": [
+    {
+      "label": "Thicker slice (~15 g)",
+      "delta_kcal_per_unit": 19,
+      "new_total_kcal": 57
+    },
+    {
+      "label": "Low-fat turkey salami slice",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 23
+    },
+    {
+      "label": "Add to sandwich with bread",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 118
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one salami slice?",
+      "a": "About 38 kcal for a standard 10 g slice."
+    },
+    {
+      "q": "Is salami high in sodium?",
+      "a": "Yes, one slice has ~150 mg sodium due to curing."
+    },
+    {
+      "q": "What's the fat content in a salami slice?",
+      "a": "Around 3.1 g total fat, including 1.1 g saturated."
+    },
+    {
+      "q": "Does salami have carbs?",
+      "a": "Very low—only 0.2 g carbs and 0 g fiber per slice."
+    },
+    {
+      "q": "How does slice size affect calories in salami?",
+      "a": "Thicker slices (e.g., 15 g) add ~19 kcal; always weigh for accuracy."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a garlic naan bread",
+  "title": "Calories in a Garlic Naan Bread",
+  "meta_description": "Discover calories in a garlic naan bread, including carbs, protein, fat, and full nutrition breakdown per serving with easy tweaks.",
+  "slug": "calories-in-a-garlic-naan-bread",
+  "h1": "Calories in a Garlic Naan Bread",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "naan bread",
+    "item": "garlic naan bread"
+  },
+  "assumptions": "Standard restaurant-style garlic naan, ~100g, made with wheat flour, garlic butter topping, baked or tandoor-cooked.",
+  "disclaimer": "Nutrition varies by brand, recipe, size, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A garlic naan bread typically contains ~350 kcal and ~8 g protein."
+  },
+  "basis": {
+    "label": "per 1 garlic naan bread",
+    "amount": 1,
+    "unit": "naan bread",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 50,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 8,
+      "fat_g": 12,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 50,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 8,
+    "fat_g": 12,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Plain naan without garlic butter",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add 1 tbsp extra butter topping",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 450
+    },
+    {
+      "label": "Whole wheat flour version",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 330
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a garlic naan bread?",
+      "a": "About 350 kcal for one standard serving."
+    },
+    {
+      "q": "What are the carbs in garlic naan?",
+      "a": "Roughly 50 g carbs, including 2 g fiber and 3 g sugars per naan."
+    },
+    {
+      "q": "Is garlic naan high in fat?",
+      "a": "Yes, ~12 g total fat (4 g saturated) mainly from the butter topping."
+    },
+    {
+      "q": "How much sodium in a garlic naan bread?",
+      "a": "Approximately 600 mg, varying by recipe and added salt."
+    },
+    {
+      "q": "Can I make garlic naan lower calorie?",
+      "a": "Opt for less butter or whole wheat flour to reduce calories by 20-100 kcal."
+    }
+  ]
+}

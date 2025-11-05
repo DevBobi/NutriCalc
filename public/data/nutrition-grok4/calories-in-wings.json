@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in wings",
+  "title": "Calories in Chicken Wings",
+  "meta_description": "Discover calories in wings, including full nutrition breakdown for a serving of 6 roasted chicken wings with skin, plus macros, tweaks, and FAQs.",
+  "slug": "calories-in-wings",
+  "h1": "Calories in Chicken Wings",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 6,
+    "unit": "wing",
+    "item": "chicken wing"
+  },
+  "assumptions": "Bone-in chicken wings with skin, roasted; each wing ~45g (meat and skin); no added sauce or breading.",
+  "disclaimer": "Nutrition varies by size, cooking method, brand, and additions like sauce; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 594,
+    "text": "Six roasted chicken wings with skin provide ~594 kcal and ~49 g protein."
+  },
+  "basis": {
+    "label": "per 1 wing",
+    "amount": 1,
+    "unit": "wing",
+    "nutrition": {
+      "calories_kcal": 99,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 8.1,
+      "fat_g": 7,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 41,
+      "sodium_mg": 33
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 594,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 48.6,
+    "fat_g": 42,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 246,
+    "sodium_mg": 198
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.49
+  },
+  "tweaks": [
+    {
+      "label": "Buffalo style (add hot sauce and butter per wing)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 894
+    },
+    {
+      "label": "Skinless roasted (remove skin per wing)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 354
+    },
+    {
+      "label": "Deep-fried instead of roasted (per wing)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 744
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one chicken wing?",
+      "a": "About 99 kcal for one roasted wing with skin."
+    },
+    {
+      "q": "Are chicken wings high in protein?",
+      "a": "Yes, 6 wings provide ~49 g protein, great for muscle building."
+    },
+    {
+      "q": "Do wings have carbs?",
+      "a": "Plain roasted wings have 0 g carbs; breaded or sauced versions add some."
+    },
+    {
+      "q": "How does frying affect calories in wings?",
+      "a": "Frying adds ~30 kcal per wing due to absorbed oil."
+    },
+    {
+      "q": "What about sodium in chicken wings?",
+      "a": "Low in plain wings (~33 mg per wing), but sauces can increase it significantly."
+    }
+  ]
+}

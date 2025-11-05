@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sugar tablespoon",
+  "title": "Calories in a Tablespoon of Sugar",
+  "meta_description": "Discover calories in sugar tablespoon, including carbs, sugars, and full nutrition breakdown per serving with quick tweaks and FAQs.",
+  "slug": "calories-in-sugar-tablespoon",
+  "h1": "Calories in a Tablespoon of Sugar",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tablespoon",
+    "item": "sugar"
+  },
+  "assumptions": "Granulated white sugar; 1 level tablespoon ≈12.5 g; no additives.",
+  "disclaimer": "Nutrition varies by sugar type, packing density, and brand; refined sugars are similar but check labels for specifics.",
+  "quick_answer": {
+    "total_kcal": 49,
+    "text": "One tablespoon of granulated sugar contains about 49 kcal, all from carbs."
+  },
+  "basis": {
+    "label": "per 1 tablespoon",
+    "amount": 1,
+    "unit": "tablespoon",
+    "nutrition": {
+      "calories_kcal": 49,
+      "carbs_g": 12.5,
+      "fiber_g": 0,
+      "sugars_g": 12.5,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 49,
+    "carbs_g": 12.5,
+    "fiber_g": 0,
+    "sugars_g": 12.5,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values mirror Nutrition Facts labels for simple sugars; totals are for the queried amount.",
+  "equivalents": {
+    "megajoules": 0.2
+  },
+  "tweaks": [
+    {
+      "label": "Use brown sugar instead (per tablespoon)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 51
+    },
+    {
+      "label": "Packed tablespoon (denser, ≈15 g)",
+      "delta_kcal_per_unit": 12,
+      "new_total_kcal": 61
+    },
+    {
+      "label": "Replace with honey (per tablespoon equivalent)",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a tablespoon of sugar?",
+      "a": "Approximately 49 kcal for one level tablespoon of granulated white sugar."
+    },
+    {
+      "q": "Is sugar all carbs?",
+      "a": "Yes, 100% carbohydrates (12.5 g per tablespoon), all as simple sugars with no protein or fat."
+    },
+    {
+      "q": "Calories in brown sugar tablespoon?",
+      "a": "Slightly higher at about 52 kcal due to molasses content."
+    },
+    {
+      "q": "How much sugar is in a tablespoon?",
+      "a": "About 12.5 g of sugar, equivalent to roughly 3 teaspoons."
+    },
+    {
+      "q": "Does sugar type affect calories much?",
+      "a": "Minimal difference; white, brown, or cane sugar are all around 49–52 kcal per tablespoon."
+    }
+  ]
+}

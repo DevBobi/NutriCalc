@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in one tortilla",
+  "title": "Calories in One Tortilla",
+  "meta_description": "Discover calories in one tortilla, including carbs, protein, fat, full nutrition breakdown per serving, and easy tweaks for variations.",
+  "slug": "calories-in-one-tortilla",
+  "h1": "Calories in One Tortilla",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tortilla",
+    "item": "tortilla"
+  },
+  "assumptions": "Standard 6-inch (45 g) flour tortilla, plain, no fillings or added fats; values based on average commercial product.",
+  "disclaimer": "Nutrition varies by type (flour vs. corn), size, brand, and preparation; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "One standard flour tortilla has about 140 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 tortilla",
+    "amount": 1,
+    "unit": "tortilla",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 24,
+      "fiber_g": 1,
+      "sugars_g": 1,
+      "protein_g": 4,
+      "fat_g": 3.5,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 24,
+    "fiber_g": 1,
+    "sugars_g": 1,
+    "protein_g": 4,
+    "fat_g": 3.5,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 250
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Switch to corn tortilla (same size)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Add 1 tsp butter or oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Whole wheat flour version",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 150
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one flour tortilla?",
+      "a": "About 140 kcal for a standard 6-inch flour tortilla."
+    },
+    {
+      "q": "What's the carb content in one tortilla?",
+      "a": "Roughly 24 g carbs, with 1 g fiber and 1 g sugars."
+    },
+    {
+      "q": "Are corn tortillas lower in calories than flour?",
+      "a": "Yes, a similar-sized corn tortilla has about 80 kcal."
+    },
+    {
+      "q": "Does tortilla size affect calorie count?",
+      "a": "Yes—larger 8-inch tortillas can have 200+ kcal; smaller ones less."
+    },
+    {
+      "q": "How much sodium is in one tortilla?",
+      "a": "Around 250 mg, varying by brand and if salted."
+    }
+  ]
+}

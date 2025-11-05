@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in dum dum pops",
+  "title": "How Many Calories in Dum Dum Pops?",
+  "meta_description": "Discover how many calories in Dum Dum pops per lollipop, including carbs, sugars, and nutrition facts for this classic treat.",
+  "slug": "how-many-calories-in-dum-dum-pops",
+  "h1": "How Many Calories in Dum Dum Pops?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pop",
+    "item": "dum dum pop"
+  },
+  "assumptions": "Standard Dum Dum lollipop (cherry or assorted flavors), ~7 g each, no stick included in weight.",
+  "disclaimer": "Nutrition varies by flavor and manufacturing; values are approximate. Check packaging for exact details.",
+  "quick_answer": {
+    "total_kcal": 25,
+    "text": "One Dum Dum pop contains about 25 calories, mostly from sugars."
+  },
+  "basis": {
+    "label": "per 1 pop",
+    "amount": 1,
+    "unit": "pop",
+    "nutrition": {
+      "calories_kcal": 25,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sugars_g": 6,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 25,
+    "carbs_g": 6,
+    "fiber_g": 0,
+    "sugars_g": 6,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Mystery flavor variation (slightly different sugar content)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 25
+    },
+    {
+      "label": "Sugar-free version (if available, using artificial sweeteners)",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Double dip (two pops together)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Dum Dum pop?",
+      "a": "Approximately 25 calories per lollipop."
+    },
+    {
+      "q": "Are Dum Dum pops high in sugar?",
+      "a": "Yes, one pop has about 6 g of sugars with no fiber."
+    },
+    {
+      "q": "Do Dum Dum pops have any protein or fat?",
+      "a": "Negligible—0 g protein and 0 g fat per pop."
+    },
+    {
+      "q": "How many calories in a pack of Dum Dums?",
+      "a": "A typical bag has 40 pops, so around 1,000 calories total."
+    },
+    {
+      "q": "Can Dum Dum pops fit in a low-calorie diet?",
+      "a": "At 25 kcal each, they're a low-calorie candy option in moderation."
+    }
+  ]
+}

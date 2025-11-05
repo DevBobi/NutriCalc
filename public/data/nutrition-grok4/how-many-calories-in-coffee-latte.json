@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in coffee latte",
+  "title": "How Many Calories in a Coffee Latte?",
+  "meta_description": "Learn how many calories in coffee latte for a standard serving, plus full nutrition breakdown, macros, and tweaks for different milks.",
+  "slug": "how-many-calories-in-coffee-latte",
+  "h1": "How Many Calories in a Coffee Latte?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "latte",
+    "item": "coffee latte"
+  },
+  "assumptions": "Standard 12 oz cafe latte with whole milk and double espresso shot; no added syrup, sugar, or toppings.",
+  "disclaimer": "Nutrition varies by size, milk type, coffee shop, and additions like flavors or foam. Check menus or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "A standard 12 oz coffee latte with whole milk contains about 190 kcal and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 latte (12 oz)",
+    "amount": 1,
+    "unit": "latte",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 15,
+      "fiber_g": 0,
+      "sugars_g": 12,
+      "protein_g": 9,
+      "fat_g": 10,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 35,
+      "sodium_mg": 115
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 15,
+    "fiber_g": 0,
+    "sugars_g": 12,
+    "protein_g": 9,
+    "fat_g": 10,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 35,
+    "sodium_mg": 115
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged or menu info.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Use skim milk instead of whole",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Add 1 oz flavored syrup",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Oat milk alternative (unsweetened)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small coffee latte?",
+      "a": "A 8 oz version with whole milk has about 120-140 kcal, depending on the shop."
+    },
+    {
+      "q": "What's the protein in a coffee latte?",
+      "a": "Around 9 g from the milk in a standard 12 oz latte."
+    },
+    {
+      "q": "Are lattes low carb?",
+      "a": "About 15 g carbs per standard latte, mostly from milk sugars; use non-dairy for lower."
+    },
+    {
+      "q": "How does milk type affect calories in coffee latte?",
+      "a": "Whole milk: ~190 kcal; skim: ~100 kcal; almond: ~80-100 kcal for 12 oz."
+    },
+    {
+      "q": "Does espresso add calories to latte?",
+      "a": "Negligible—espresso shots contribute fewer than 10 kcal total."
+    }
+  ]
+}

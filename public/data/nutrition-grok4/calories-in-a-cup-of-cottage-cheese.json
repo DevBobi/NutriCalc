@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a cup of cottage cheese",
+  "title": "Calories in a Cup of Cottage Cheese",
+  "meta_description": "Learn calories in a cup of cottage cheese, plus detailed nutrition facts including protein, carbs, fat, and serving variations for better meal planning.",
+  "slug": "calories-in-a-cup-of-cottage-cheese",
+  "h1": "Calories in a Cup of Cottage Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "cottage cheese"
+  },
+  "assumptions": "Low-fat (2%) cottage cheese, 1 cup serving (about 225 g), plain and unflavored.",
+  "disclaimer": "Nutrition varies by fat content, brand, curd size, and added ingredients; check labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 206,
+    "text": "One cup of low-fat cottage cheese provides about 206 kcal and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 206,
+      "carbs_g": 8.2,
+      "fiber_g": 0,
+      "sugars_g": 6.7,
+      "protein_g": 25,
+      "fat_g": 4.3,
+      "sat_fat_g": 1.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 918
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 206,
+    "carbs_g": 8.2,
+    "fiber_g": 0,
+    "sugars_g": 6.7,
+    "protein_g": 25,
+    "fat_g": 4.3,
+    "sat_fat_g": 1.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 918
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.86
+  },
+  "tweaks": [
+    {
+      "label": "Switch to full-fat (4%) cottage cheese",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 306
+    },
+    {
+      "label": "Use non-fat (0%) cottage cheese",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 156
+    },
+    {
+      "label": "Add 1/2 cup pineapple chunks",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 266
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cup of low-fat cottage cheese?",
+      "a": "Approximately 206 kcal for 1 cup of 2% low-fat cottage cheese."
+    },
+    {
+      "q": "What's the protein content in a cup of cottage cheese?",
+      "a": "About 25 g of protein per cup of low-fat cottage cheese."
+    },
+    {
+      "q": "Does cottage cheese have a lot of sodium?",
+      "a": "Yes, around 918 mg per cup due to the curding process; opt for low-sodium versions if needed."
+    },
+    {
+      "q": "How do calories change with fat-free cottage cheese?",
+      "a": "Fat-free versions have about 156 kcal per cup, lower in fat but similar protein."
+    },
+    {
+      "q": "Is a cup of cottage cheese keto-friendly?",
+      "a": "Yes, low-carb at 8.2 g carbs per cup, but watch sodium and portion if strict keto."
+    }
+  ]
+}

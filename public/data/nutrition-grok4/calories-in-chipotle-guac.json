@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chipotle guac",
+  "title": "Calories in Chipotle Guac",
+  "meta_description": "Discover calories in Chipotle guac per serving, including fat, carbs, protein, sodium, and tweaks for your burrito bowl or taco.",
+  "slug": "calories-in-chipotle-guac",
+  "h1": "Calories in Chipotle Guac",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Chipotle guacamole"
+  },
+  "assumptions": "Standard Chipotle guacamole serving (4 oz / 113 g), made with Hass avocados, lime juice, cilantro, red onion, jalapeño, salt; no modifications.",
+  "disclaimer": "Nutrition varies by location, portion size, and ingredients; Chipotle values may change. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 230,
+    "text": "One serving of Chipotle guac provides 230 kcal, mostly from healthy fats."
+  },
+  "basis": {
+    "label": "per 1 serving (4 oz / 113 g)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 230,
+      "carbs_g": 9,
+      "fiber_g": 7,
+      "sugars_g": 2,
+      "protein_g": 3,
+      "fat_g": 21,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 370
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 230,
+    "carbs_g": 9,
+    "fiber_g": 7,
+    "sugars_g": 2,
+    "protein_g": 3,
+    "fat_g": 21,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 370
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.96
+  },
+  "tweaks": [
+    {
+      "label": "Add extra avocado (double portion)",
+      "delta_kcal_per_unit": 230,
+      "new_total_kcal": 460
+    },
+    {
+      "label": "No-salt version (reduce sodium ingredients)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Mix with tomatoes for pico de gallo style",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 235
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Chipotle guac?",
+      "a": "About 230 kcal per standard 4 oz serving."
+    },
+    {
+      "q": "Is Chipotle guac low carb?",
+      "a": "Yes, 9 g carbs with 7 g fiber, netting ~2 g."
+    },
+    {
+      "q": "What's the fat content in Chipotle guac?",
+      "a": "21 g total fat per serving, mostly from avocados (healthy monounsaturated)."
+    },
+    {
+      "q": "How much sodium in Chipotle guac?",
+      "a": "Around 370 mg per serving due to added salt."
+    },
+    {
+      "q": "Can I get less calories in Chipotle guac?",
+      "a": "Opt for a half portion (~115 kcal) or no-salt prep to reduce slightly."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pretzels",
+  "title": "Calories in Pretzels",
+  "meta_description": "Discover calories in pretzels per standard serving, including carbs, protein, fat, sodium details, and easy tweaks for variations.",
+  "slug": "calories-in-pretzels",
+  "h1": "Calories in Pretzels",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "pretzels"
+  },
+  "assumptions": "Hard, salted pretzels; standard 28 g (1 oz) serving from commercial brands, no dips or toppings.",
+  "disclaimer": "Nutrition varies by brand, type (hard/soft), flavor, size, and preparation. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "A 28 g serving of hard pretzels provides about 110 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 28 g (1 oz) serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 23,
+      "fiber_g": 1,
+      "sugars_g": 0.6,
+      "protein_g": 3,
+      "fat_g": 1,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 340
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 23,
+    "fiber_g": 1,
+    "sugars_g": 0.6,
+    "protein_g": 3,
+    "fat_g": 1,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 340
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp mustard dip per serving",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 125
+    },
+    {
+      "label": "Whole wheat pretzels (same serving)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Soft pretzel equivalent serving (baked, no butter)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 130
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in pretzels per serving?",
+      "a": "About 110 kcal in a 28 g serving of hard pretzels."
+    },
+    {
+      "q": "Are pretzels high in carbs?",
+      "a": "Yes, a serving has 23 g carbs, mainly from refined flour."
+    },
+    {
+      "q": "What about sodium in pretzels?",
+      "a": "One serving contains around 340 mg sodium due to salting."
+    },
+    {
+      "q": "Calories in soft pretzels vs hard?",
+      "a": "Soft pretzels average 130-150 kcal per similar-sized serving, depending on toppings."
+    },
+    {
+      "q": "Do pretzels have any protein or fat?",
+      "a": "Modest amounts: 3 g protein and 1 g fat per 28 g serving."
+    }
+  ]
+}

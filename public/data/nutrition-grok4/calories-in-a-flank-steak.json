@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a flank steak",
+  "title": "Calories in a Flank Steak",
+  "meta_description": "Discover calories in a flank steak (typical 6 oz serving), including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-a-flank-steak",
+  "h1": "Calories in a Flank Steak",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "steak",
+    "item": "flank steak"
+  },
+  "assumptions": "Lean, broiled flank steak, trimmed of visible fat; typical serving size 6 oz (170 g cooked weight).",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and portion size. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 330,
+    "text": "A 6 oz cooked flank steak provides ~330 kcal and ~47 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 194,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 27.7,
+      "fat_g": 8.2,
+      "sat_fat_g": 3.6,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 89,
+      "sodium_mg": 59
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 330,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 47.1,
+    "fat_g": 13.9,
+    "sat_fat_g": 6.1,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 151,
+    "sodium_mg": 100
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.38
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil for grilling per steak",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Include some fat trim (less lean) per steak",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Marinated with low-cal sauce (e.g., soy-based) per steak",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a flank steak per 100 g?",
+      "a": "About 194 kcal per 100 g of cooked, lean flank steak."
+    },
+    {
+      "q": "What's the protein in a flank steak?",
+      "a": "A 6 oz serving has ~47 g protein, making it a high-protein option."
+    },
+    {
+      "q": "Does flank steak have carbs?",
+      "a": "No carbs—0 g in cooked flank steak, ideal for low-carb diets."
+    },
+    {
+      "q": "How does cooking method affect calories in flank steak?",
+      "a": "Broiling or grilling keeps it lean; frying or adding oil increases calories by 40+ kcal per serving."
+    },
+    {
+      "q": "Is flank steak high in fat?",
+      "a": "Lean cuts have ~8 g fat per 100 g; choose grass-fed for healthier fats."
+    }
+  ]
+}

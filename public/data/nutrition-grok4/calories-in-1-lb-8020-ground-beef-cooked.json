@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 lb 8020 ground beef cooked",
+  "title": "Calories in 1 lb 80/20 Ground Beef Cooked",
+  "meta_description": "Discover calories in 1 lb 8020 ground beef cooked, including protein, fat, carbs, full nutrition breakdown per 100 g basis, and preparation tweaks.",
+  "slug": "calories-in-1-lb-8020-ground-beef-cooked",
+  "h1": "Calories in 1 lb 80/20 Ground Beef Cooked",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "lb",
+    "item": "8020 ground beef cooked"
+  },
+  "assumptions": "80/20 ground beef (80% lean, 20% fat), pan-browned and drained of excess fat; no added salt, seasonings, or binders; 1 lb raw yields ~12 oz cooked after fat loss.",
+  "disclaimer": "Nutrition varies by brand, exact fat content, cooking method (e.g., drained vs. not), and portion yield; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 1226,
+    "text": "1 lb of cooked 80/20 ground beef provides ~1226 kcal and ~113 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 270,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 18,
+      "sat_fat_g": 7,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 85,
+      "sodium_mg": 70
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1226,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 113,
+    "fat_g": 82,
+    "sat_fat_g": 32,
+    "trans_fat_g": 5,
+    "cholesterol_mg": 386,
+    "sodium_mg": 318
+  },
+  "label_note": "Totals are scaled from the per-100 g basis and mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 5.13
+  },
+  "tweaks": [
+    {
+      "label": "Do not drain fat after cooking",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 1376
+    },
+    {
+      "label": "Use 90/10 leaner ground beef instead",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 1026
+    },
+    {
+      "label": "Add 1 tbsp oil for cooking per lb",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 1346
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 lb cooked 80/20 ground beef?",
+      "a": "Approximately 1226 kcal, based on drained pan-browned preparation."
+    },
+    {
+      "q": "What's the protein in 1 lb 80/20 ground beef cooked?",
+      "a": "About 113 g of protein, making it a high-protein option."
+    },
+    {
+      "q": "Does cooking method affect calories in 80/20 ground beef?",
+      "a": "Yes—draining fat reduces calories; not draining or adding oil increases them."
+    },
+    {
+      "q": "How much fat is in 1 lb cooked 8020 ground beef?",
+      "a": "Roughly 82 g total fat, including 32 g saturated fat."
+    },
+    {
+      "q": "Are carbs present in cooked ground beef?",
+      "a": "Negligible carbs (0 g); it's primarily protein and fat."
+    }
+  ]
+}

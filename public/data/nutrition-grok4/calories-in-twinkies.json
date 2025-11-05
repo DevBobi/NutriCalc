@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in twinkies",
+  "title": "Calories in Twinkies",
+  "meta_description": "Discover calories in Twinkies per cake, including carbs, sugars, fat, protein, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "calories-in-twinkies",
+  "h1": "Calories in Twinkies",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "Twinkie",
+    "item": "Twinkie"
+  },
+  "assumptions": "Standard Hostess Twinkie, one cream-filled sponge cake (38 g), no modifications.",
+  "disclaimer": "Nutrition varies by brand, size, and recipe changes; Twinkies are processed snacks. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "One Twinkie contains about 150 kcal, mostly from carbs and sugars."
+  },
+  "basis": {
+    "label": "per 1 Twinkie",
+    "amount": 1,
+    "unit": "Twinkie",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 26,
+      "fiber_g": 0,
+      "sugars_g": 18,
+      "protein_g": 1,
+      "fat_g": 5,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 26,
+    "fiber_g": 0,
+    "sugars_g": 18,
+    "protein_g": 1,
+    "fat_g": 5,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp peanut butter spread",
+      "delta_kcal_per_unit": 95,
+      "new_total_kcal": 245
+    },
+    {
+      "label": "Frozen Twinkie (no calorie change, but texture varies)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Half Twinkie (eat only portion)",
+      "delta_kcal_per_unit": -75,
+      "new_total_kcal": 75
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Twinkie?",
+      "a": "About 150 kcal per standard Hostess Twinkie."
+    },
+    {
+      "q": "Are Twinkies high in sugar?",
+      "a": "Yes, one Twinkie has 18 g of sugars, mostly added."
+    },
+    {
+      "q": "What is the protein in Twinkies?",
+      "a": "Only 1 g protein per Twinkie; it's not a protein source."
+    },
+    {
+      "q": "Do Twinkies have trans fats?",
+      "a": "Modern Twinkies have 0 g trans fat per serving."
+    },
+    {
+      "q": "Calories in a pack of Twinkies?",
+      "a": "A twin pack (2 Twinkies) is about 300 kcal; check packaging for exact."
+    }
+  ]
+}

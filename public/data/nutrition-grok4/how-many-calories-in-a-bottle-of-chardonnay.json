@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a bottle of chardonnay",
+  "title": "How Many Calories in a Bottle of Chardonnay?",
+  "meta_description": "Discover how many calories in a bottle of chardonnay (standard 750 ml), including carbs, alcohol content, and nutrition breakdown per serving.",
+  "slug": "how-many-calories-in-a-bottle-of-chardonnay",
+  "h1": "How Many Calories in a Bottle of Chardonnay?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "chardonnay"
+  },
+  "assumptions": "Standard 750 ml bottle; dry chardonnay wine, ~13% ABV; no added sugars beyond typical fermentation residuals.",
+  "disclaimer": "Nutrition varies by brand, alcohol content, sweetness level, and serving size. Check labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 615,
+    "text": "A standard 750 ml bottle of dry chardonnay has about 615 calories, mostly from alcohol."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 82,
+      "carbs_g": 0.9,
+      "fiber_g": 0,
+      "sugars_g": 0.9,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 18
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 615,
+    "carbs_g": 6.8,
+    "fiber_g": 0,
+    "sugars_g": 6.8,
+    "protein_g": 0.8,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 135
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.57
+  },
+  "tweaks": [
+    {
+      "label": "Off-dry chardonnay (higher residual sugar)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 715
+    },
+    {
+      "label": "Lower ABV (11%) version",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 525
+    },
+    {
+      "label": "Oaked chardonnay (minimal added calories from barrel aging)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 635
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bottle of chardonnay?",
+      "a": "Approximately 615 calories for a standard 750 ml dry bottle."
+    },
+    {
+      "q": "What's the carb count in chardonnay?",
+      "a": "About 6.8 g carbs per 750 ml bottle, mostly from residual sugars."
+    },
+    {
+      "q": "Does chardonnay have protein or fat?",
+      "a": "Negligible—less than 1 g protein and 0 g fat per bottle."
+    },
+    {
+      "q": "How does sweetness affect calories in chardonnay?",
+      "a": "Sweeter styles add 50–150 calories from higher sugars."
+    },
+    {
+      "q": "Calories per glass of chardonnay?",
+      "a": "About 123 calories for a 150 ml serving (1/5 of a bottle)."
+    }
+  ]
+}

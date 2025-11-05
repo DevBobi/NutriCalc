@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a bowl of pho",
+  "title": "Calories in a Bowl of Pho",
+  "meta_description": "Discover calories in a bowl of pho, including carbs from noodles, protein from beef, sodium from broth, and easy tweaks for variations.",
+  "slug": "calories-in-a-bowl-of-pho",
+  "h1": "Calories in a Bowl of Pho",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "pho"
+  },
+  "assumptions": "Standard beef pho: rice noodles, beef broth, thin beef slices, herbs, bean sprouts, lime; ~500 ml broth + 100 g noodles.",
+  "disclaimer": "Nutrition varies by recipe, portion size, meat type, added oils, and restaurant preparation. Check menus or labels when available.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "A typical bowl of beef pho has ~450 kcal, with 25 g protein and high sodium from the broth."
+  },
+  "basis": {
+    "label": "per 1 bowl",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 60,
+      "fiber_g": 2,
+      "sugars_g": 2,
+      "protein_g": 25,
+      "fat_g": 10,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 2000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 60,
+    "fiber_g": 2,
+    "sugars_g": 2,
+    "protein_g": 25,
+    "fat_g": 10,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 2000
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Chicken pho instead of beef (lower fat)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Add extra rice noodles (50 g more)",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 540
+    },
+    {
+      "label": "Vegetarian pho (tofu instead of beef)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 420
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bowl of pho?",
+      "a": "About 450 kcal for a standard beef pho bowl."
+    },
+    {
+      "q": "Is pho high in sodium?",
+      "a": "Yes, typically ~2000 mg per bowl due to the broth; opt for low-sodium versions if needed."
+    },
+    {
+      "q": "What's the protein in a bowl of pho?",
+      "a": "Around 25 g, mainly from the beef or protein add-ins."
+    },
+    {
+      "q": "Are carbs high in pho?",
+      "a": "Yes, ~60 g from rice noodles; choose smaller portions for lower carbs."
+    },
+    {
+      "q": "How does chicken pho compare in calories?",
+      "a": "Slightly lower at ~400 kcal, with reduced fat compared to beef pho."
+    }
+  ]
+}

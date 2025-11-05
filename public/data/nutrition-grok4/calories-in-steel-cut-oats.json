@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in steel cut oats",
+  "title": "Calories in Steel Cut Oats",
+  "meta_description": "Discover calories in steel cut oats per 100 g dry, including carbs, protein, fiber, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "calories-in-steel-cut-oats",
+  "h1": "Calories in Steel Cut Oats",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "steel cut oats"
+  },
+  "assumptions": "Dry, uncooked steel cut oats; plain, no added sugar, salt, or flavorings.",
+  "disclaimer": "Nutrition varies by brand, processing, and preparation method (dry vs. cooked). Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 379,
+    "text": "100 g of dry steel cut oats provides ~379 kcal, 13 g protein, and 10.6 g fiber."
+  },
+  "basis": {
+    "label": "per 100 g dry",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 379,
+      "carbs_g": 67,
+      "fiber_g": 10.6,
+      "sugars_g": 1,
+      "protein_g": 12.5,
+      "fat_g": 6.9,
+      "sat_fat_g": 1.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 379,
+    "carbs_g": 67,
+    "fiber_g": 10.6,
+    "sugars_g": 1,
+    "protein_g": 12.5,
+    "fat_g": 6.9,
+    "sat_fat_g": 1.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.59
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp brown sugar per 100 g",
+      "delta_kcal_per_unit": 52,
+      "new_total_kcal": 431
+    },
+    {
+      "label": "Cook with 1 tsp butter per 100 g dry",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 415
+    },
+    {
+      "label": "Add 1/4 cup milk (instead of water) per 100 g dry",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 409
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g steel cut oats?",
+      "a": "About 379 kcal for 100 g dry steel cut oats."
+    },
+    {
+      "q": "Are steel cut oats high in fiber?",
+      "a": "Yes, ~10.6 g dietary fiber per 100 g dry, aiding digestion."
+    },
+    {
+      "q": "Calories in cooked steel cut oats?",
+      "a": "Per 100 g cooked (from ~28 g dry), ~71 kcal; water dilutes calories."
+    },
+    {
+      "q": "How much protein in steel cut oats?",
+      "a": "Approximately 12.5 g protein per 100 g dry."
+    },
+    {
+      "q": "Difference between steel cut and rolled oats calories?",
+      "a": "Similar; both ~380 kcal per 100 g dry, but steel cut takes longer to cook."
+    }
+  ]
+}

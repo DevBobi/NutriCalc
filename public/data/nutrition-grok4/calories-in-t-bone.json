@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in t bone",
+  "title": "Calories in a T-Bone Steak",
+  "meta_description": "Discover calories in t bone steak for a typical 200g serving, including protein, fat, full nutrition breakdown, and preparation tweaks.",
+  "slug": "calories-in-t-bone",
+  "h1": "Calories in a T-Bone Steak",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "T-bone steak",
+    "item": "T-bone steak"
+  },
+  "assumptions": "Typical 200g cooked (grilled) T-bone steak, separable lean and fat, trimmed to 1/8\" fat, choice grade, no added sauces or marinades.",
+  "disclaimer": "Nutrition varies by cut size, fat trim, cooking method, grade, and brand. Check labels or use a nutrition app for precision.",
+  "quick_answer": {
+    "total_kcal": 542,
+    "text": "A 200g grilled T-bone steak provides ~542 kcal and ~51 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 271,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25.4,
+      "fat_g": 18.4,
+      "sat_fat_g": 7.6,
+      "trans_fat_g": 0.6,
+      "cholesterol_mg": 85,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 542,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 50.8,
+    "fat_g": 36.8,
+    "sat_fat_g": 15.2,
+    "trans_fat_g": 1.2,
+    "cholesterol_mg": 170,
+    "sodium_mg": 120
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.27
+  },
+  "tweaks": [
+    {
+      "label": "Trim all visible fat before cooking",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 442
+    },
+    {
+      "label": "Add 1 tbsp butter during cooking",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 642
+    },
+    {
+      "label": "Lean-only cut (remove fat and bone)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 402
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one T-bone steak?",
+      "a": "About 542 kcal for a 200g grilled T-bone steak with lean and fat."
+    },
+    {
+      "q": "What's the protein in a T-bone steak?",
+      "a": "Roughly 51 g protein in a 200g serving."
+    },
+    {
+      "q": "Does cooking method affect calories in T-bone?",
+      "a": "Yes—grilling or broiling keeps it lower; frying adds oil and calories."
+    },
+    {
+      "q": "How much fat is in T-bone steak?",
+      "a": "About 37 g total fat in 200g, with 15 g saturated."
+    },
+    {
+      "q": "Are T-bone steaks high in cholesterol?",
+      "a": "Yes, around 170 mg in 200g—mostly from the meat itself."
+    }
+  ]
+}

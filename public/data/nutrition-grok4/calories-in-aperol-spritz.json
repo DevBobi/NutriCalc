@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in aperol spritz",
+  "title": "Calories in Aperol Spritz",
+  "meta_description": "Learn calories in Aperol spritz with a full nutrition breakdown, including carbs, sugars, and tweaks for variations in this popular cocktail.",
+  "slug": "calories-in-aperol-spritz",
+  "h1": "Calories in Aperol Spritz",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cocktail",
+    "item": "Aperol Spritz"
+  },
+  "assumptions": "Standard recipe: 75ml Aperol, 90ml prosecco, 30ml soda water, orange slice; served chilled, no added garnishes or sugar.",
+  "disclaimer": "Nutrition varies by brand, pour sizes, recipe tweaks, and glassware; alcohol content affects totals. Consult labels or apps for precision.",
+  "quick_answer": {
+    "total_kcal": 175,
+    "text": "One standard Aperol Spritz contains about 175 calories, primarily from sugars in the Aperol and prosecco."
+  },
+  "basis": {
+    "label": "per 1 Aperol Spritz",
+    "amount": 1,
+    "unit": "cocktail",
+    "nutrition": {
+      "calories_kcal": 175,
+      "carbs_g": 15,
+      "fiber_g": 0,
+      "sugars_g": 14,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 175,
+    "carbs_g": 15,
+    "fiber_g": 0,
+    "sugars_g": 14,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.73
+  },
+  "tweaks": [
+    {
+      "label": "Reduce Aperol to 50ml (less sweet)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 135
+    },
+    {
+      "label": "Add 1 tsp simple syrup for extra sweetness",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 191
+    },
+    {
+      "label": "Use brut prosecco (drier, lower sugar)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 155
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Aperol Spritz?",
+      "a": "Approximately 175 calories for a standard serving."
+    },
+    {
+      "q": "What are the carbs in Aperol Spritz?",
+      "a": "About 15g total carbs, mostly sugars at 14g per cocktail."
+    },
+    {
+      "q": "Is Aperol Spritz low in fat or protein?",
+      "a": "Yes, 0g fat and 0g protein; it's primarily carbs from the liqueurs."
+    },
+    {
+      "q": "How does pour size affect calories in Aperol Spritz?",
+      "a": "Larger pours of Aperol or prosecco can add 50+ calories; stick to standard ratios."
+    },
+    {
+      "q": "Are there low-calorie tweaks for Aperol Spritz?",
+      "a": "Yes, use less Aperol or drier prosecco to drop it to 135-155 calories."
+    }
+  ]
+}

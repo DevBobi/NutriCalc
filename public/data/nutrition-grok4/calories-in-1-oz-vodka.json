@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 oz vodka",
+  "title": "Calories in 1 Oz Vodka",
+  "meta_description": "Discover calories in 1 oz vodka, including alcohol content, zero carbs or fats, and quick variations for mixers or proof levels.",
+  "slug": "calories-in-1-oz-vodka",
+  "h1": "Calories in 1 Oz Vodka",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "oz",
+    "item": "vodka"
+  },
+  "assumptions": "Standard 80-proof (40% ABV) unflavored vodka; 1 oz = ~30 ml serving.",
+  "disclaimer": "Nutrition varies by brand, proof, and flavorings. Alcoholic beverages should be consumed responsibly; values exclude mixers.",
+  "quick_answer": {
+    "total_kcal": 64,
+    "text": "1 oz of 80-proof vodka provides ~64 kcal, all from alcohol with no carbs, protein, or fat."
+  },
+  "basis": {
+    "label": "per 1 oz",
+    "amount": 1,
+    "unit": "oz",
+    "nutrition": {
+      "calories_kcal": 64,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 64,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.27
+  },
+  "tweaks": [
+    {
+      "label": "Flavored vodka (e.g., with added sugars)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 74
+    },
+    {
+      "label": "100-proof vodka (higher alcohol)",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Mixed with 4 oz soda water (no added calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 64
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 oz of vodka?",
+      "a": "About 64 kcal for standard 80-proof vodka."
+    },
+    {
+      "q": "Does vodka have carbs or sugar?",
+      "a": "Unflavored vodka has 0 g carbs and 0 g sugars; all calories from alcohol."
+    },
+    {
+      "q": "What about calories in a shot of vodka?",
+      "a": "A standard 1.5 oz shot has ~96 kcal; 1 oz is ~64 kcal."
+    },
+    {
+      "q": "How does proof affect calories in vodka?",
+      "a": "Higher proof means more calories per oz; 80-proof is ~64 kcal, 100-proof ~80 kcal."
+    },
+    {
+      "q": "Are there nutrients besides calories in vodka?",
+      "a": "No protein, fat, or significant micronutrients; it's essentially pure alcohol calories."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in poke bowl",
+  "title": "How Many Calories in a Poke Bowl?",
+  "meta_description": "Discover how many calories in poke bowl, including a standard serving's full nutrition breakdown with protein, carbs, fat, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-poke-bowl",
+  "h1": "How Many Calories in a Poke Bowl?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "poke bowl"
+  },
+  "assumptions": "Standard poke bowl (~450g total): 1 cup cooked white rice, 4 oz raw ahi tuna, cucumber, edamame, avocado (1/4), seaweed, green onions, and soy-sesame dressing; no added oils.",
+  "disclaimer": "Nutrition varies by ingredients, portion sizes, fish type, rice variety, and dressing; restaurant versions may differ. Check labels or recipes when available.",
+  "quick_answer": {
+    "total_kcal": 550,
+    "text": "A standard poke bowl contains about 550 calories, with 30g protein from tuna and 60g carbs mainly from rice."
+  },
+  "basis": {
+    "label": "per 1 poke bowl",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 550,
+      "carbs_g": 60,
+      "fiber_g": 5,
+      "sugars_g": 5,
+      "protein_g": 30,
+      "fat_g": 20,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 550,
+    "carbs_g": 60,
+    "fiber_g": 5,
+    "sugars_g": 5,
+    "protein_g": 30,
+    "fat_g": 20,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged or restaurant info.",
+  "equivalents": {
+    "megajoules": 2.3
+  },
+  "tweaks": [
+    {
+      "label": "Add extra 1/4 avocado",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 630
+    },
+    {
+      "label": "Use brown rice instead of white",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 560
+    },
+    {
+      "label": "Skip the rice (low-carb version)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a poke bowl with tuna?",
+      "a": "About 550 kcal for a standard tuna poke bowl as described."
+    },
+    {
+      "q": "What's the protein in a poke bowl?",
+      "a": "Typically 30g from the fish, making it a solid protein source."
+    },
+    {
+      "q": "Are poke bowls high in sodium?",
+      "a": "Yes, around 800mg due to soy sauce; opt for low-sodium dressing to reduce."
+    },
+    {
+      "q": "How many carbs in a poke bowl?",
+      "a": "About 60g, mostly from rice; choose cauliflower rice for fewer carbs."
+    },
+    {
+      "q": "Calories in salmon poke bowl vs tuna?",
+      "a": "Similar at ~550-600 kcal, but salmon adds more healthy fats (omega-3s)."
+    }
+  ]
+}

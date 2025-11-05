@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in jalapenos",
+  "title": "How Many Calories Are in Jalapenos?",
+  "meta_description": "Discover how many calories are in jalapenos per 100 g, including carbs, fiber, protein, fat, and quick tweaks for recipes.",
+  "slug": "how-many-calories-are-in-jalapenos",
+  "h1": "How Many Calories Are in Jalapenos?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "jalapenos"
+  },
+  "assumptions": "Fresh, raw green jalapeno peppers; medium-sized, no seeds removed unless noted.",
+  "disclaimer": "Nutrition varies by ripeness, variety, growing conditions, and preparation. Check labels for processed versions.",
+  "quick_answer": {
+    "total_kcal": 29,
+    "text": "100 g of raw jalapenos contain about 29 kcal and 2.8 g fiber."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 29,
+      "carbs_g": 6.5,
+      "fiber_g": 2.8,
+      "sugars_g": 4.1,
+      "protein_g": 0.9,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 29,
+    "carbs_g": 6.5,
+    "fiber_g": 2.8,
+    "sugars_g": 4.1,
+    "protein_g": 0.9,
+    "fat_g": 0.4,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.12
+  },
+  "tweaks": [
+    {
+      "label": "Pickled jalapenos (in brine)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 34
+    },
+    {
+      "label": "Roasted with 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 69
+    },
+    {
+      "label": "Seeds removed (reduces heat but minor cal change)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 27
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one jalapeno pepper?",
+      "a": "About 4 kcal per medium pepper (around 14 g)."
+    },
+    {
+      "q": "Are jalapenos low in carbs?",
+      "a": "Yes, 6.5 g carbs per 100 g, with 2.8 g fiber netting ~3.7 g."
+    },
+    {
+      "q": "Do jalapenos have any protein or fat?",
+      "a": "Minimal: 0.9 g protein and 0.4 g fat per 100 g."
+    },
+    {
+      "q": "How does cooking affect calories in jalapenos?",
+      "a": "Raw and cooked are similar, but added oils or fillings increase calories significantly."
+    },
+    {
+      "q": "Are jalapenos high in sodium?",
+      "a": "No, fresh ones have just 3 mg per 100 g; pickled versions are higher."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cinnamon toast crunch",
+  "title": "Calories in Cinnamon Toast Crunch",
+  "meta_description": "Learn calories in Cinnamon Toast Crunch per serving, including carbs, sugars, fat, protein, and sodium for quick nutrition tracking.",
+  "slug": "calories-in-cinnamon-toast-crunch",
+  "h1": "Calories in Cinnamon Toast Crunch",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "cinnamon toast crunch"
+  },
+  "assumptions": "Dry cereal; standard serving of 1 cup (31 g); no milk or toppings added.",
+  "disclaimer": "Nutrition varies by brand, batch, serving size, and preparation; check box labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "One cup of Cinnamon Toast Crunch provides 130 calories and 25 g of carbs."
+  },
+  "basis": {
+    "label": "per 1 cup (31 g)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sugars_g": 12,
+      "protein_g": 1,
+      "fat_g": 3,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 230
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 25,
+    "fiber_g": 2,
+    "sugars_g": 12,
+    "protein_g": 1,
+    "fat_g": 3,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 230
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Add 1/2 cup skim milk",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Add 1/2 cup whole milk",
+      "delta_kcal_per_unit": 75,
+      "new_total_kcal": 205
+    },
+    {
+      "label": "Sprinkle 1 tbsp chopped nuts",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 180
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of Cinnamon Toast Crunch?",
+      "a": "About 130 calories per 1 cup (31 g) serving."
+    },
+    {
+      "q": "What's the sugar content in Cinnamon Toast Crunch?",
+      "a": "12 g of sugars per 1 cup serving, mostly added sugars."
+    },
+    {
+      "q": "Does Cinnamon Toast Crunch have protein?",
+      "a": "Only 1 g of protein per cup; pair with milk or yogurt for more."
+    },
+    {
+      "q": "How much sodium is in Cinnamon Toast Crunch?",
+      "a": "230 mg per 1 cup serving from the cereal's seasoning."
+    },
+    {
+      "q": "Calories in Cinnamon Toast Crunch with milk?",
+      "a": "Adds 40–75 kcal depending on milk type; total around 170–205 for 1/2 cup skim or whole."
+    }
+  ]
+}

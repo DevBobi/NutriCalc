@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a jalapeno",
+  "title": "How Many Calories in a Jalapeño?",
+  "meta_description": "Discover how many calories in a jalapeno, plus carbs, protein, fat, and other nutrients on a per-pepper basis with quick tweaks and FAQs.",
+  "slug": "how-many-calories-in-a-jalapeno",
+  "h1": "How Many Calories in a Jalapeño?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "jalapeno",
+    "item": "jalapeno"
+  },
+  "assumptions": "Fresh, raw jalapeño pepper, average size (~14 g), green and unripe.",
+  "disclaimer": "Nutrition varies by size, ripeness, variety, and preparation method. Values are approximate; check labels for processed versions.",
+  "quick_answer": {
+    "total_kcal": 4,
+    "text": "A single jalapeño pepper contains about 4 calories and is low in carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 jalapeño pepper",
+    "amount": 1,
+    "unit": "jalapeno",
+    "nutrition": {
+      "calories_kcal": 4,
+      "carbs_g": 0.9,
+      "fiber_g": 0.4,
+      "sugars_g": 0.5,
+      "protein_g": 0.2,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 4,
+    "carbs_g": 0.9,
+    "fiber_g": 0.4,
+    "sugars_g": 0.5,
+    "protein_g": 0.2,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.02
+  },
+  "tweaks": [
+    {
+      "label": "Pickled in brine (adds sodium and slight calories)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 6
+    },
+    {
+      "label": "Stuffed with 1 tbsp cream cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 54
+    },
+    {
+      "label": "Roasted (minimal oil added)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 9
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a jalapeno pepper?",
+      "a": "About 4 kcal for one average-sized raw jalapeño."
+    },
+    {
+      "q": "Are jalapeños low carb?",
+      "a": "Yes, one jalapeño has ~0.9 g carbs, including 0.4 g fiber."
+    },
+    {
+      "q": "Does cooking change calories in a jalapeno?",
+      "a": "Minimal change if no oil is added; roasting might add 5 kcal with light oil."
+    },
+    {
+      "q": "How much protein in a jalapeno?",
+      "a": "Very little, about 0.2 g per pepper."
+    },
+    {
+      "q": "What about sodium in jalapeños?",
+      "a": "Fresh ones have ~1 mg; pickled versions can have 200+ mg."
+    }
+  ]
+}

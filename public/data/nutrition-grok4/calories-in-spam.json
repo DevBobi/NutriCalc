@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in spam",
+  "title": "Calories in Spam",
+  "meta_description": "Discover calories in spam for a standard serving, including full nutrition facts like fat, protein, sodium, and quick preparation tweaks to adjust intake.",
+  "slug": "calories-in-spam",
+  "h1": "Calories in Spam",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 56,
+    "unit": "g",
+    "item": "spam"
+  },
+  "assumptions": "Standard Hormel Spam classic, canned pork with ham; 2 oz (56 g) serving, heated or straight from can, no added ingredients.",
+  "disclaimer": "Nutrition varies by brand, product type (e.g., lite, turkey), serving size, and preparation. Check product labels for accurate details.",
+  "quick_answer": {
+    "total_kcal": 180,
+    "text": "A 56 g serving of Spam provides 180 kcal, 7 g protein, and is high in sodium at 790 mg."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 321,
+      "carbs_g": 1.8,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 12.5,
+      "fat_g": 28.6,
+      "sat_fat_g": 10.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 62,
+      "sodium_mg": 1411
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 180,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 7,
+    "fat_g": 16,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 35,
+    "sodium_mg": 790
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.75
+  },
+  "tweaks": [
+    {
+      "label": "Pan-fried with 1 tsp vegetable oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 202
+    },
+    {
+      "label": "Use Spam Lite (reduced fat) instead",
+      "delta_kcal_per_unit": -71,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Topped with 1 tbsp ketchup per 100 g",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in spam per serving?",
+      "a": "About 180 kcal in a standard 56 g serving of classic Spam."
+    },
+    {
+      "q": "Is spam high in fat?",
+      "a": "Yes, 16 g total fat per 56 g serving, including 6 g saturated fat."
+    },
+    {
+      "q": "How much sodium is in spam?",
+      "a": "790 mg per 56 g serving, which is significant—opt for low-sodium versions if needed."
+    },
+    {
+      "q": "Does spam have a lot of protein?",
+      "a": "7 g protein per 56 g serving, making it a decent source for its size."
+    },
+    {
+      "q": "Are there carbs in spam?",
+      "a": "Very few—only 1 g total carbs per 56 g serving, with 0 g fiber and sugars."
+    }
+  ]
+}

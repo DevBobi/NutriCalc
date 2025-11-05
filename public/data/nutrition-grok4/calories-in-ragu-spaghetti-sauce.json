@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ragu spaghetti sauce",
+  "title": "Calories in Ragu Spaghetti Sauce",
+  "meta_description": "Learn calories in ragu spaghetti sauce per 1/2 cup serving, plus full nutrition breakdown including carbs, sodium, fat, and quick recipe tweaks.",
+  "slug": "calories-in-ragu-spaghetti-sauce",
+  "h1": "Calories in Ragu Spaghetti Sauce",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "1/2 cup",
+    "item": "ragu spaghetti sauce"
+  },
+  "assumptions": "Ragu Traditional Spaghetti Sauce; standard 1/2 cup (125g) serving; jarred, ready-to-use.",
+  "disclaimer": "Nutrition varies by Ragu variety, batch, and storage; check product label for exact values.",
+  "quick_answer": {
+    "total_kcal": 70,
+    "text": "One 1/2 cup serving of Ragu spaghetti sauce contains 70 kcal and 480 mg sodium."
+  },
+  "basis": {
+    "label": "per 1/2 cup (125 g)",
+    "amount": 1,
+    "unit": "1/2 cup",
+    "nutrition": {
+      "calories_kcal": 70,
+      "carbs_g": 11,
+      "fiber_g": 2,
+      "sugars_g": 7,
+      "protein_g": 2,
+      "fat_g": 2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 480
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 70,
+    "carbs_g": 11,
+    "fiber_g": 2,
+    "sugars_g": 7,
+    "protein_g": 2,
+    "fat_g": 2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 480
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp olive oil per serving",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Use Ragu Meat Sauce variety",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Low-sodium Ragu version",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 65
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of Ragu spaghetti sauce?",
+      "a": "About 70 kcal per 1/2 cup serving of Ragu Traditional."
+    },
+    {
+      "q": "What is the sodium content in Ragu spaghetti sauce?",
+      "a": "Approximately 480 mg sodium per 1/2 cup serving."
+    },
+    {
+      "q": "Does Ragu spaghetti sauce have sugar?",
+      "a": "Yes, about 7 g total sugars per 1/2 cup serving."
+    },
+    {
+      "q": "Are there carbs in Ragu spaghetti sauce?",
+      "a": "11 g total carbs, including 2 g fiber, per 1/2 cup."
+    },
+    {
+      "q": "How does Ragu sauce nutrition compare to homemade?",
+      "a": "Ragu is lower in fat but higher in sodium; homemade allows control over ingredients."
+    }
+  ]
+}

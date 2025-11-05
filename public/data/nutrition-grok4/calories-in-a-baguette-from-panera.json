@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a baguette from panera",
+  "title": "Calories in a Panera Baguette",
+  "meta_description": "Learn calories in a baguette from Panera, including full nutrition facts like carbs, protein, fat, and sodium for the whole French baguette.",
+  "slug": "calories-in-a-baguette-from-panera",
+  "h1": "Calories in a Panera Baguette",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "baguette",
+    "item": "baguette from Panera"
+  },
+  "assumptions": "Whole French Baguette from Panera Bread; standard bakery-fresh, no toppings or additions; approximately 150 g.",
+  "disclaimer": "Nutrition varies by location, batch, and exact size; values based on average Panera data. Check Panera's official nutrition info for precision.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "A Panera baguette contains about 290 calories and 10 g protein."
+  },
+  "basis": {
+    "label": "per 1 baguette",
+    "amount": 1,
+    "unit": "baguette",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 58,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 10,
+      "fat_g": 1.5,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 560
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 58,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 10,
+    "fat_g": 1.5,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 560
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter for spreading",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Toasted without additions",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 290
+    },
+    {
+      "label": "Half baguette portion",
+      "delta_kcal_per_unit": -145,
+      "new_total_kcal": 145
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a full Panera baguette?",
+      "a": "Approximately 290 calories for the whole French Baguette."
+    },
+    {
+      "q": "What are the carbs in a baguette from Panera?",
+      "a": "About 58 g of carbohydrates, including 2 g fiber."
+    },
+    {
+      "q": "Is a Panera baguette low in fat?",
+      "a": "Yes, only 1.5 g total fat per baguette."
+    },
+    {
+      "q": "How much sodium is in a Panera baguette?",
+      "a": "Around 560 mg, mainly from the dough ingredients."
+    },
+    {
+      "q": "Does Panera's baguette have protein?",
+      "a": "It provides 10 g of protein per whole baguette."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in vodka and cranberry drink",
+  "title": "Calories in Vodka and Cranberry Drink",
+  "meta_description": "Discover calories in vodka and cranberry drink, including carbs, sugars, and full nutrition breakdown for a standard serving, plus tweaks and FAQs.",
+  "slug": "calories-in-vodka-and-cranberry-drink",
+  "h1": "Calories in Vodka and Cranberry Drink",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "drink",
+    "item": "vodka and cranberry"
+  },
+  "assumptions": "Standard recipe: 1.5 oz (44 ml) vodka mixed with 4 oz (118 ml) cranberry juice cocktail; no added sweeteners, lime, or ice.",
+  "disclaimer": "Nutrition varies by vodka brand, juice type (sweetened vs. unsweetened), pour sizes, and mixers. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 165,
+    "text": "A standard vodka and cranberry drink has about 165 calories, mostly from the juice sugars."
+  },
+  "basis": {
+    "label": "per 1 drink",
+    "amount": 1,
+    "unit": "drink",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 16,
+      "fiber_g": 0,
+      "sugars_g": 14,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 165,
+    "carbs_g": 16,
+    "fiber_g": 0,
+    "sugars_g": 14,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.69
+  },
+  "tweaks": [
+    {
+      "label": "Use diet cranberry juice instead",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 105
+    },
+    {
+      "label": "Add 1 oz more vodka",
+      "delta_kcal_per_unit": 64,
+      "new_total_kcal": 229
+    },
+    {
+      "label": "Splash of soda water (negligible calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 165
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a vodka and cranberry drink?",
+      "a": "About 165 calories for a standard 1.5 oz vodka with 4 oz cranberry juice."
+    },
+    {
+      "q": "Are vodka cranberries low carb?",
+      "a": "No, around 16 g carbs per drink, mostly from the sweetened juice."
+    },
+    {
+      "q": "What's the sugar content in vodka cranberry?",
+      "a": "Approximately 14 g sugars from the cranberry juice cocktail."
+    },
+    {
+      "q": "Does using unsweetened cranberry juice lower calories?",
+      "a": "Yes, it can reduce calories to about 100 per drink by cutting sugars."
+    },
+    {
+      "q": "How does vodka contribute to calories in the drink?",
+      "a": "Vodka alone adds ~97 calories from alcohol, with no carbs, fats, or proteins."
+    }
+  ]
+}

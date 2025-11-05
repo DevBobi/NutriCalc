@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in olives black",
+  "title": "Calories in Black Olives",
+  "meta_description": "Learn calories in olives black per 100g, including fat, sodium, carbs, protein, and full nutrition facts for easy tracking.",
+  "slug": "calories-in-olives-black",
+  "h1": "Calories in Black Olives",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "black olives"
+  },
+  "assumptions": "Canned black olives, pitted and drained; standard California-style, no added ingredients.",
+  "disclaimer": "Nutrition varies by brand, curing process, brine content, and serving size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 116,
+    "text": "100g of black olives provides ~116 kcal, mostly from healthy monounsaturated fats."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 116,
+      "carbs_g": 6.3,
+      "fiber_g": 1.6,
+      "sugars_g": 0,
+      "protein_g": 0.8,
+      "fat_g": 10.7,
+      "sat_fat_g": 1.4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 735
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 116,
+    "carbs_g": 6.3,
+    "fiber_g": 1.6,
+    "sugars_g": 0,
+    "protein_g": 0.8,
+    "fat_g": 10.7,
+    "sat_fat_g": 1.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 735
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.49
+  },
+  "tweaks": [
+    {
+      "label": "Kalamata black olives (drier, oil-cured style)",
+      "delta_kcal_per_unit": 114,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Reduced-sodium canned (rinsed)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 111
+    },
+    {
+      "label": "With 1 tsp olive oil coating per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 156
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one black olive?",
+      "a": "About 5-7 kcal per medium olive (assuming ~5g each)."
+    },
+    {
+      "q": "Are black olives high in fat?",
+      "a": "Yes, ~11g fat per 100g, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "What is the sodium content in black olives?",
+      "a": "Around 735mg per 100g due to brining; rinse to reduce."
+    },
+    {
+      "q": "Do black olives have carbs or fiber?",
+      "a": "6.3g carbs and 1.6g fiber per 100g, low glycemic impact."
+    },
+    {
+      "q": "Calories in black vs green olives?",
+      "a": "Similar; black olives ~116 kcal/100g, green ~145 kcal/100g."
+    }
+  ]
+}

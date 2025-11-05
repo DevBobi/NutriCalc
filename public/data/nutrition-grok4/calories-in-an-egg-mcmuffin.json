@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in an egg mcmuffin",
+  "title": "Calories in an Egg McMuffin",
+  "meta_description": "Discover calories in an egg mcmuffin, including full nutrition breakdown like protein, carbs, fat, and quick tweaks for variations.",
+  "slug": "calories-in-an-egg-mcmuffin",
+  "h1": "Calories in an Egg McMuffin",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "egg mcmuffin",
+    "item": "egg mcmuffin"
+  },
+  "assumptions": "McDonald's standard Egg McMuffin: toasted English muffin, folded egg, Canadian bacon, American cheese; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, and custom orders. Values based on standard U.S. McDonald's data; check app or labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 310,
+    "text": "An Egg McMuffin provides ~310 kcal, 17 g protein, and 30 g carbs."
+  },
+  "basis": {
+    "label": "per 1 Egg McMuffin",
+    "amount": 1,
+    "unit": "egg mcmuffin",
+    "nutrition": {
+      "calories_kcal": 310,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 17,
+      "fat_g": 13,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 235,
+      "sodium_mg": 770
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 310,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 17,
+    "fat_g": 13,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 235,
+    "sodium_mg": 770
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.3
+  },
+  "tweaks": [
+    {
+      "label": "Remove the cheese",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Swap Canadian bacon for sausage patty",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Add a slice of tomato",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 315
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an egg mcmuffin from McDonald's?",
+      "a": "Approximately 310 kcal for the standard version."
+    },
+    {
+      "q": "What's the protein in an egg mcmuffin?",
+      "a": "About 17 g of protein per Egg McMuffin."
+    },
+    {
+      "q": "Are there carbs in an egg mcmuffin?",
+      "a": "Yes, around 30 g carbs, including 2 g fiber from the English muffin."
+    },
+    {
+      "q": "How much sodium is in an egg mcmuffin?",
+      "a": "Roughly 770 mg, mostly from the cheese and bacon."
+    },
+    {
+      "q": "Can I make a lower-calorie egg mcmuffin at home?",
+      "a": "Yes, skip cheese and use turkey bacon to cut ~100 kcal."
+    }
+  ]
+}

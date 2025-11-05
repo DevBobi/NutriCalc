@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in brie cheese",
+  "title": "Calories in Brie Cheese",
+  "meta_description": "Discover calories in brie cheese per 100g, including fat, protein, carbs, sodium, and quick tweaks for your diet.",
+  "slug": "calories-in-brie-cheese",
+  "h1": "Calories in Brie Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "brie cheese"
+  },
+  "assumptions": "Full-fat, soft-ripened cow's milk brie, average commercial variety, rind included but not eaten.",
+  "disclaimer": "Nutrition varies by brand, fat content, aging, and portion size. Check labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 334,
+    "text": "100g of brie cheese provides ~334 kcal, mostly from fat, with 21g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 334,
+      "carbs_g": 0.5,
+      "fiber_g": 0,
+      "sugars_g": 0.1,
+      "protein_g": 21,
+      "fat_g": 28,
+      "sat_fat_g": 17,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 106,
+      "sodium_mg": 629
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 334,
+    "carbs_g": 0.5,
+    "fiber_g": 0,
+    "sugars_g": 0.1,
+    "protein_g": 21,
+    "fat_g": 28,
+    "sat_fat_g": 17,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 106,
+    "sodium_mg": 629
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.4
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat brie (vs. full-fat)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 234
+    },
+    {
+      "label": "Add 1 oz crackers per 100g brie",
+      "delta_kcal_per_unit": 130,
+      "new_total_kcal": 464
+    },
+    {
+      "label": "Rind removed (minimal impact, but slight fat reduction)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 324
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 oz of brie cheese?",
+      "a": "About 95 kcal for 28g (1 oz) of brie cheese."
+    },
+    {
+      "q": "Is brie cheese high in fat?",
+      "a": "Yes, ~28g total fat per 100g, with 17g saturated."
+    },
+    {
+      "q": "How much protein in brie cheese?",
+      "a": "Approximately 21g protein per 100g."
+    },
+    {
+      "q": "Does brie have carbs?",
+      "a": "Very low, only 0.5g carbs per 100g, no fiber."
+    },
+    {
+      "q": "Why is sodium high in brie?",
+      "a": "Due to salt in the cheesemaking process; ~629mg per 100g."
+    }
+  ]
+}

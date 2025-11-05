@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in brioche roll",
+  "title": "Calories in a Brioche Roll",
+  "meta_description": "Discover calories in brioche roll, including carbs, protein, fat, and full nutrition breakdown per roll with easy tweaks and FAQs.",
+  "slug": "calories-in-brioche-roll",
+  "h1": "Calories in a Brioche Roll",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "roll",
+    "item": "brioche roll"
+  },
+  "assumptions": "Standard medium brioche roll (~50 g), plain, baked without fillings or toppings; enriched with butter and eggs.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 170,
+    "text": "One brioche roll has about 170 kcal, with 25 g carbs and 5 g protein."
+  },
+  "basis": {
+    "label": "per 1 brioche roll",
+    "amount": 1,
+    "unit": "roll",
+    "nutrition": {
+      "calories_kcal": 170,
+      "carbs_g": 25,
+      "fiber_g": 1,
+      "sugars_g": 4,
+      "protein_g": 5,
+      "fat_g": 6,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 170,
+    "carbs_g": 25,
+    "fiber_g": 1,
+    "sugars_g": 4,
+    "protein_g": 5,
+    "fat_g": 6,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.71
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per roll",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 204
+    },
+    {
+      "label": "Use whole grain flour version",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Mini roll (half size)",
+      "delta_kcal_per_unit": -85,
+      "new_total_kcal": 85
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one brioche roll?",
+      "a": "Approximately 170 kcal for a standard 50 g roll."
+    },
+    {
+      "q": "What are the carbs in a brioche roll?",
+      "a": "About 25 g total carbs, including 1 g fiber and 4 g sugars."
+    },
+    {
+      "q": "Is brioche roll high in fat?",
+      "a": "It has 6 g fat per roll, mostly from butter, with 2.5 g saturated."
+    },
+    {
+      "q": "How does brioche compare to regular dinner roll?",
+      "a": "Brioche is richer (170 kcal vs. ~100 kcal) due to added butter and eggs."
+    },
+    {
+      "q": "Can I reduce calories in brioche roll?",
+      "a": "Opt for smaller size or whole grain; avoid butter toppings to cut ~30-50 kcal."
+    }
+  ]
+}

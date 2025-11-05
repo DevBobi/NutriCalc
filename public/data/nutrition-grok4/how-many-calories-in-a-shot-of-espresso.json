@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a shot of espresso",
+  "title": "How Many Calories in a Shot of Espresso?",
+  "meta_description": "Learn how many calories in a shot of espresso, plus carbs, protein, sodium, and quick tweaks for variations like adding sugar.",
+  "slug": "how-many-calories-in-a-shot-of-espresso",
+  "h1": "How Many Calories in a Shot of Espresso?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "espresso"
+  },
+  "assumptions": "Standard single shot (30 ml), black, brewed from arabica beans, no additives like sugar, milk, or syrup.",
+  "disclaimer": "Nutrition varies by bean type, roast, brewing method, and machine; values are approximate. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 2,
+    "text": "A single shot of espresso has just ~2 kcal, mostly from trace carbs."
+  },
+  "basis": {
+    "label": "per 1 shot",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 2,
+      "carbs_g": 0.2,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 2,
+    "carbs_g": 0.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.01
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 18
+    },
+    {
+      "label": "Add 1 oz steamed milk",
+      "delta_kcal_per_unit": 18,
+      "new_total_kcal": 20
+    },
+    {
+      "label": "Double shot (vs. single)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 4
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a shot of espresso?",
+      "a": "Approximately 2 kcal for a standard 30 ml black shot."
+    },
+    {
+      "q": "Does espresso have carbs or sugar?",
+      "a": "Trace carbs (~0.2 g per shot) from natural coffee compounds; 0 g added sugars."
+    },
+    {
+      "q": "Is espresso low in fat and protein?",
+      "a": "Yes, 0 g fat and ~0.1 g protein per shot."
+    },
+    {
+      "q": "How does adding milk affect calories in espresso?",
+      "a": "One ounce of steamed milk adds ~18 kcal, turning it into a basic latte."
+    },
+    {
+      "q": "Why is sodium in espresso?",
+      "a": "Minimal (~5 mg) from natural minerals in water and beans; varies by source."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a saltine cracker",
+  "title": "Calories in a Saltine Cracker",
+  "meta_description": "Discover calories in a saltine cracker, including carbs, sodium, fat, protein, and quick variations for better snacking choices.",
+  "slug": "calories-in-a-saltine-cracker",
+  "h1": "Calories in a Saltine Cracker",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cracker",
+    "item": "saltine cracker"
+  },
+  "assumptions": "Standard plain saltine cracker (~2 g each), no toppings or added flavors.",
+  "disclaimer": "Nutrition varies by brand, size, and ingredients; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 13,
+    "text": "A single saltine cracker contains about 13 kcal and is low in fat but high in sodium."
+  },
+  "basis": {
+    "label": "per 1 saltine cracker",
+    "amount": 1,
+    "unit": "cracker",
+    "nutrition": {
+      "calories_kcal": 13,
+      "carbs_g": 2,
+      "fiber_g": 0.1,
+      "sugars_g": 0,
+      "protein_g": 0.3,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 135
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 13,
+    "carbs_g": 2,
+    "fiber_g": 0.1,
+    "sugars_g": 0,
+    "protein_g": 0.3,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 135
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.05
+  },
+  "tweaks": [
+    {
+      "label": "Top with 1 tsp butter",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 47
+    },
+    {
+      "label": "Use whole wheat saltine instead",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 14
+    },
+    {
+      "label": "Low-sodium version",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 13
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a saltine cracker?",
+      "a": "Approximately 13 kcal per standard saltine cracker."
+    },
+    {
+      "q": "What's the sodium in one saltine cracker?",
+      "a": "About 135 mg of sodium per cracker."
+    },
+    {
+      "q": "Are saltine crackers low carb?",
+      "a": "They have 2 g carbs per cracker, making them relatively low carb."
+    },
+    {
+      "q": "How does brand affect calories in saltines?",
+      "a": "Brands vary slightly; some may have 12-15 kcal per cracker due to recipe differences."
+    },
+    {
+      "q": "Can I eat saltines on a low-fat diet?",
+      "a": "Yes, with only 0.3 g fat per cracker, they fit well in low-fat plans."
+    }
+  ]
+}

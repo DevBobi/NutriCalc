@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in lobster tail",
+  "title": "Calories in Lobster Tail",
+  "meta_description": "Discover calories in lobster tail, including protein, fat, carbs, full nutrition breakdown per 100g, and serving tips for this low-cal seafood.",
+  "slug": "calories-in-lobster-tail",
+  "h1": "Calories in Lobster Tail",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 1,
+    "unit": "tail",
+    "item": "lobster tail"
+  },
+  "assumptions": "Medium lobster tail with ~100g edible meat, cooked (boiled or steamed), shell removed, no added butter, oil, or seasonings.",
+  "disclaimer": "Nutrition varies by lobster species, size, cooking method, freshness, and added ingredients. Check sources or labels when available.",
+  "quick_answer": {
+    "total_kcal": 77,
+    "text": "One medium cooked lobster tail (~100g meat) provides ~77 kcal and ~16.5 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 77,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 16.5,
+      "fat_g": 0.6,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 95,
+      "sodium_mg": 486
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 77,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 16.5,
+    "fat_g": 0.6,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 95,
+    "sodium_mg": 486
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.32
+  },
+  "tweaks": [
+    {
+      "label": "Dipped in 1 tbsp melted butter per tail",
+      "delta_kcal_per_unit": 102,
+      "new_total_kcal": 179
+    },
+    {
+      "label": "Grilled with 1 tsp olive oil per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 117
+    },
+    {
+      "label": "Larger tail (~150g meat) vs. medium",
+      "delta_kcal_per_unit": 77,
+      "new_total_kcal": 154
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one lobster tail?",
+      "a": "About 77 kcal for a medium cooked lobster tail with 100g edible meat."
+    },
+    {
+      "q": "Is lobster tail high in protein?",
+      "a": "Yes, ~16.5 g protein per 100g, making it a lean seafood option."
+    },
+    {
+      "q": "Does lobster tail have carbs?",
+      "a": "No carbs, fiber, or sugars—it's nearly all protein with minimal fat."
+    },
+    {
+      "q": "Why is sodium high in lobster tail?",
+      "a": "Natural sodium content is ~486 mg per 100g; added salt increases it further."
+    },
+    {
+      "q": "How does cooking method affect calories in lobster tail?",
+      "a": "Boiling/steaming keeps it low-cal; frying or butter adds 100+ kcal per serving."
+    }
+  ]
+}

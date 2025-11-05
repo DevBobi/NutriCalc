@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a hershey bar",
+  "title": "How Many Calories in a Hershey Bar?",
+  "meta_description": "Discover how many calories in a Hershey bar, including full nutrition breakdown like carbs, fat, protein, and quick tweaks for variations.",
+  "slug": "how-many-calories-in-a-hershey-bar",
+  "h1": "How Many Calories in a Hershey Bar?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bar",
+    "item": "Hershey bar"
+  },
+  "assumptions": "Standard Hershey's milk chocolate bar (43 g), plain, no nuts or fillings.",
+  "disclaimer": "Nutrition varies by exact size, flavor, and brand batch; check packaging for precise values.",
+  "quick_answer": {
+    "total_kcal": 210,
+    "text": "A standard Hershey's milk chocolate bar contains 210 calories and 24 g of sugar."
+  },
+  "basis": {
+    "label": "per 1 Hershey's bar (43 g)",
+    "amount": 1,
+    "unit": "bar",
+    "nutrition": {
+      "calories_kcal": 210,
+      "carbs_g": 25,
+      "fiber_g": 1,
+      "sugars_g": 24,
+      "protein_g": 3,
+      "fat_g": 13,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 35
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 210,
+    "carbs_g": 25,
+    "fiber_g": 1,
+    "sugars_g": 24,
+    "protein_g": 3,
+    "fat_g": 13,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 35
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.88
+  },
+  "tweaks": [
+    {
+      "label": "Hershey's with almonds (adds nuts)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Dark chocolate version (higher cocoa)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Mini bar (half size, ~21 g)",
+      "delta_kcal_per_unit": -105,
+      "new_total_kcal": 105
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a standard Hershey bar?",
+      "a": "About 210 calories for one 43 g milk chocolate bar."
+    },
+    {
+      "q": "What are the carbs and sugar in a Hershey bar?",
+      "a": "25 g total carbs, including 24 g sugars and 1 g fiber."
+    },
+    {
+      "q": "Is fat high in Hershey bars?",
+      "a": "Yes, 13 g total fat per bar, with 8 g saturated fat."
+    },
+    {
+      "q": "How does Hershey bar nutrition compare to other chocolates?",
+      "a": "Similar to many milk chocolates; darker versions may have less sugar but more fiber."
+    },
+    {
+      "q": "Does bar size affect calories in Hershey products?",
+      "a": "Yes—larger bars like king size have more; minis are around 105 kcal each."
+    }
+  ]
+}

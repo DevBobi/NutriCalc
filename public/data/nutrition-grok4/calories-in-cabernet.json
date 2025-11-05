@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cabernet",
+  "title": "Calories in Cabernet Sauvignon",
+  "meta_description": "Discover calories in cabernet sauvignon per glass, including carbs, alcohol content, and nutrition breakdown for this dry red wine.",
+  "slug": "calories-in-cabernet",
+  "h1": "Calories in Cabernet Sauvignon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "glass",
+    "item": "cabernet sauvignon"
+  },
+  "assumptions": "Dry Cabernet Sauvignon red wine, standard 5 oz (148 ml) serving at 13-14% ABV, no added sweeteners or mixers.",
+  "disclaimer": "Nutrition varies by brand, vintage, alcohol content, and serving size. Check labels or apps for specific bottles.",
+  "quick_answer": {
+    "total_kcal": 125,
+    "text": "A standard 5 oz glass of dry Cabernet Sauvignon contains about 125 calories, mostly from alcohol."
+  },
+  "basis": {
+    "label": "per 1 standard glass (148 ml)",
+    "amount": 1,
+    "unit": "glass",
+    "nutrition": {
+      "calories_kcal": 125,
+      "carbs_g": 3.8,
+      "fiber_g": 0,
+      "sugars_g": 0.9,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 6
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 125,
+    "carbs_g": 3.8,
+    "fiber_g": 0,
+    "sugars_g": 0.9,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 6
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.52
+  },
+  "tweaks": [
+    {
+      "label": "Off-dry style with higher residual sugar",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 145
+    },
+    {
+      "label": "Larger 8 oz pour",
+      "delta_kcal_per_unit": 67,
+      "new_total_kcal": 192
+    },
+    {
+      "label": "Mixed as spritzer with soda water (no added sugar)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 125
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a glass of cabernet?",
+      "a": "About 125 calories in a standard 5 oz glass of dry Cabernet Sauvignon."
+    },
+    {
+      "q": "Does cabernet have carbs?",
+      "a": "Yes, around 3.8 g carbs per glass, mostly from trace sugars and glycerol."
+    },
+    {
+      "q": "Calories in cabernet vs. other red wines?",
+      "a": "Similar to most dry reds (120-130 kcal per glass); sweeter styles add 10-30 kcal."
+    },
+    {
+      "q": "Is cabernet low in sodium?",
+      "a": "Yes, only about 6 mg sodium per glass, making it heart-friendly in moderation."
+    },
+    {
+      "q": "How does serving size affect calories in cabernet?",
+      "a": "Calories scale with volume; a 6 oz pour is ~150 kcal, while 4 oz is ~100 kcal."
+    }
+  ]
+}

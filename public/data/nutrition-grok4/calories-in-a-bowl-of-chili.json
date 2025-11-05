@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a bowl of chili",
+  "title": "Calories in a Bowl of Chili",
+  "meta_description": "Discover calories in a bowl of chili, including macros like protein and carbs, plus variations and nutrition facts for a standard 250g serving.",
+  "slug": "calories-in-a-bowl-of-chili",
+  "h1": "Calories in a Bowl of Chili",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "chili"
+  },
+  "assumptions": "Homemade beef chili with kidney beans, tomatoes, onions, ground beef, and spices; ~250g serving size, no toppings.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, portion size, and brand; homemade or restaurant versions differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 320,
+    "text": "A standard bowl of beef chili (~250g) contains about 320 kcal and 22g protein."
+  },
+  "basis": {
+    "label": "per 1 bowl (~250g)",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 320,
+      "carbs_g": 28,
+      "fiber_g": 7,
+      "sugars_g": 6,
+      "protein_g": 22,
+      "fat_g": 14,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 55,
+      "sodium_mg": 850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 320,
+    "carbs_g": 28,
+    "fiber_g": 7,
+    "sugars_g": 6,
+    "protein_g": 22,
+    "fat_g": 14,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 55,
+    "sodium_mg": 850
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.34
+  },
+  "tweaks": [
+    {
+      "label": "Vegetarian version (no beef, extra beans)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Add 1 oz shredded cheddar cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Turkey instead of beef",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 290
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bowl of chili?",
+      "a": "About 320 kcal for a 250g beef chili bowl."
+    },
+    {
+      "q": "Is chili high in protein?",
+      "a": "Yes, a bowl provides ~22g protein from beef and beans."
+    },
+    {
+      "q": "What's the carb content in chili?",
+      "a": "Around 28g carbs per bowl, mostly from beans and tomatoes, with 7g fiber."
+    },
+    {
+      "q": "How does restaurant chili compare?",
+      "a": "Often higher in sodium and calories (400+ kcal) due to added fats and larger portions."
+    },
+    {
+      "q": "Can I make low-calorie chili?",
+      "a": "Yes, use lean meat or vegetarian options to drop to ~250 kcal per bowl."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in popeyes chicken wrap",
+  "title": "Calories in Popeyes Chicken Wrap",
+  "meta_description": "Learn calories in Popeyes chicken wrap, including full nutrition facts like protein, carbs, fat, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-popeyes-chicken-wrap",
+  "h1": "Calories in Popeyes Chicken Wrap",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "wrap",
+    "item": "Popeyes chicken wrap"
+  },
+  "assumptions": "Based on Popeyes' spicy crispy chicken wrap with one fried tender, lettuce, tomato, pickles, and flour tortilla; no extra sauce.",
+  "disclaimer": "Nutrition varies by location, exact menu item, portion size, and customizations. Check Popeyes app or packaging for latest values.",
+  "quick_answer": {
+    "total_kcal": 650,
+    "text": "One Popeyes chicken wrap contains about 650 kcal and 30 g protein."
+  },
+  "basis": {
+    "label": "per 1 wrap",
+    "amount": 1,
+    "unit": "wrap",
+    "nutrition": {
+      "calories_kcal": 650,
+      "carbs_g": 52,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 30,
+      "fat_g": 35,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 60,
+      "sodium_mg": 1520
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 650,
+    "carbs_g": 52,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 30,
+    "fat_g": 35,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 60,
+    "sodium_mg": 1520
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with menu info.",
+  "equivalents": {
+    "megajoules": 2.72
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp ranch sauce",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 730
+    },
+    {
+      "label": "Use grilled chicken tender instead of fried",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 450
+    },
+    {
+      "label": "Extra lettuce and tomato (no calorie change, but adds volume)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 650
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Popeyes chicken wrap?",
+      "a": "Approximately 650 kcal for one standard spicy chicken wrap."
+    },
+    {
+      "q": "What's the protein in Popeyes chicken wrap?",
+      "a": "About 30 g protein per wrap from the chicken tender."
+    },
+    {
+      "q": "Are Popeyes chicken wraps high in sodium?",
+      "a": "Yes, around 1520 mg sodium per wrap due to seasoning and breading."
+    },
+    {
+      "q": "Carbs in Popeyes chicken wrap?",
+      "a": "Roughly 52 g carbs, mostly from the tortilla and any veggies."
+    },
+    {
+      "q": "Can I make a lower-calorie Popeyes chicken wrap?",
+      "a": "Opt for grilled chicken and skip sauce to reduce by ~200 kcal."
+    }
+  ]
+}

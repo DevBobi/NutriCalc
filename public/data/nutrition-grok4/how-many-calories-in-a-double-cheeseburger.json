@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a double cheeseburger",
+  "title": "How Many Calories in a Double Cheeseburger?",
+  "meta_description": "Discover how many calories in a double cheeseburger, including full nutrition breakdown, macros, and easy tweaks for your meal.",
+  "slug": "how-many-calories-in-a-double-cheeseburger",
+  "h1": "How Many Calories in a Double Cheeseburger?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "double cheeseburger",
+    "item": "double cheeseburger"
+  },
+  "assumptions": "Standard fast-food style: two 1/8 lb beef patties, two slices American cheese, sesame bun, ketchup, mustard, pickles, onions; cooked and assembled.",
+  "disclaimer": "Nutrition varies by brand, restaurant, patty size, cheese type, condiments, and preparation. Check labels or apps for exact values.",
+  "quick_answer": {
+    "total_kcal": 550,
+    "text": "A standard double cheeseburger contains about 550 calories with 30g protein and 40g carbs."
+  },
+  "basis": {
+    "label": "per 1 double cheeseburger",
+    "amount": 1,
+    "unit": "double cheeseburger",
+    "nutrition": {
+      "calories_kcal": 550,
+      "carbs_g": 40,
+      "fiber_g": 2,
+      "sugars_g": 8,
+      "protein_g": 30,
+      "fat_g": 30,
+      "sat_fat_g": 14,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 100,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 550,
+    "carbs_g": 40,
+    "fiber_g": 2,
+    "sugars_g": 8,
+    "protein_g": 30,
+    "fat_g": 30,
+    "sat_fat_g": 14,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 100,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.3
+  },
+  "tweaks": [
+    {
+      "label": "Add two strips of bacon",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 650
+    },
+    {
+      "label": "Remove cheese slices",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Use whole wheat bun instead",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 530
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a double cheeseburger from McDonald's?",
+      "a": "Around 450-550 kcal depending on size; check the app for exact."
+    },
+    {
+      "q": "What's the protein in a double cheeseburger?",
+      "a": "Typically 30g from the beef patties and cheese."
+    },
+    {
+      "q": "Are double cheeseburgers high in sodium?",
+      "a": "Yes, about 1200mg per burger from seasoning, cheese, and bun."
+    },
+    {
+      "q": "How does a double compare to a single cheeseburger?",
+      "a": "A double has roughly double the calories and protein of a single."
+    },
+    {
+      "q": "Can I make a lower-calorie double cheeseburger?",
+      "a": "Opt for lean beef, skip cheese, or use a lettuce wrap to cut 100-200 kcal."
+    }
+  ]
+}

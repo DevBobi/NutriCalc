@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chick fil a grilled chicken sandwich",
+  "title": "Calories in Chick-fil-A Grilled Chicken Sandwich",
+  "meta_description": "Discover calories in Chick-fil-A grilled chicken sandwich: 320 kcal total, plus full nutrition breakdown including protein, carbs, fat, and FAQs on variations.",
+  "slug": "calories-in-chick-fil-a-grilled-chicken-sandwich",
+  "h1": "Calories in Chick-fil-A Grilled Chicken Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Chick-fil-A grilled chicken sandwich"
+  },
+  "assumptions": "Standard Chick-fil-A Grilled Chicken Sandwich: grilled chicken breast, multigrain bun, lettuce, tomato; no customizations or sides.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations; values based on official Chick-fil-A data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 320,
+    "text": "One Chick-fil-A grilled chicken sandwich provides 320 kcal and 28 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 320,
+      "carbs_g": 41,
+      "fiber_g": 3,
+      "sugars_g": 6,
+      "protein_g": 28,
+      "fat_g": 6,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 75,
+      "sodium_mg": 770
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 320,
+    "carbs_g": 41,
+    "fiber_g": 3,
+    "sugars_g": 6,
+    "protein_g": 28,
+    "fat_g": 6,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 75,
+    "sodium_mg": 770
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.34
+  },
+  "tweaks": [
+    {
+      "label": "Add American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "No bun (lettuce wrap)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Add honey roasted BBQ sauce",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 380
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Chick-fil-A grilled chicken sandwich?",
+      "a": "320 kcal for the standard sandwich."
+    },
+    {
+      "q": "What's the protein in Chick-fil-A grilled chicken sandwich?",
+      "a": "28 g protein per sandwich."
+    },
+    {
+      "q": "Are carbs high in Chick-fil-A grilled chicken sandwich?",
+      "a": "41 g total carbs, including 3 g fiber from the multigrain bun."
+    },
+    {
+      "q": "How much sodium in Chick-fil-A grilled chicken sandwich?",
+      "a": "770 mg sodium, mostly from seasoning and bun."
+    },
+    {
+      "q": "Does the grilled version have less fat than fried?",
+      "a": "Yes, 6 g fat vs. about 25 g in the fried chicken sandwich."
+    }
+  ]
+}

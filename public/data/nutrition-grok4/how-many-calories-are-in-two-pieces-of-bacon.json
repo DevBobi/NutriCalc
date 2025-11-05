@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in two pieces of bacon",
+  "title": "How Many Calories Are in Two Pieces of Bacon?",
+  "meta_description": "Discover how many calories are in two pieces of bacon, including full nutrition breakdown, protein, fat, sodium, and easy tweaks for variations.",
+  "slug": "how-many-calories-are-in-two-pieces-of-bacon",
+  "h1": "How Many Calories Are in Two Pieces of Bacon?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 2,
+    "unit": "piece",
+    "item": "bacon"
+  },
+  "assumptions": "Standard pork bacon strips, pan-fried until crisp; ~8 g per cooked piece; no added oils or seasonings.",
+  "disclaimer": "Nutrition varies by brand, cut thickness, cooking method, and fat drainage. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 86,
+    "text": "Two pieces of cooked bacon provide ~86 kcal and ~6 g protein."
+  },
+  "basis": {
+    "label": "per 1 piece",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 43,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 3.3,
+      "sat_fat_g": 1.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 9,
+      "sodium_mg": 192
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 86,
+    "carbs_g": 0.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 6,
+    "fat_g": 6.6,
+    "sat_fat_g": 2.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 18,
+    "sodium_mg": 384
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.36
+  },
+  "tweaks": [
+    {
+      "label": "Use turkey bacon instead",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 46
+    },
+    {
+      "label": "Thick-cut bacon (vs. regular)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 136
+    },
+    {
+      "label": "Oven-baked with less fat drained",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 106
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one piece of bacon?",
+      "a": "About 43 kcal per cooked strip."
+    },
+    {
+      "q": "Is bacon high in sodium?",
+      "a": "Yes, two pieces have ~384 mg sodium; watch intake if on a low-sodium diet."
+    },
+    {
+      "q": "How much fat in two pieces of bacon?",
+      "a": "Approximately 6.6 g total fat, including 2.2 g saturated."
+    },
+    {
+      "q": "Does cooking method affect calories in bacon?",
+      "a": "Yes—frying retains more fat (~43 kcal/piece); baking or microwaving can lower it slightly."
+    },
+    {
+      "q": "Are there low-calorie bacon alternatives?",
+      "a": "Turkey or plant-based bacon options often have 20-30 fewer kcal per piece."
+    }
+  ]
+}

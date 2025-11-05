@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in coca cola zero",
+  "title": "How Many Calories Are in Coca Cola Zero?",
+  "meta_description": "Discover how many calories are in Coca Cola Zero per can, including full nutrition breakdown, zero-sugar facts, and serving comparisons for diet soda fans.",
+  "slug": "how-many-calories-are-in-coca-cola-zero",
+  "h1": "How Many Calories Are in Coca Cola Zero?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "coca cola zero"
+  },
+  "assumptions": "Standard 12 oz (355 ml) can; artificially sweetened with aspartame and acesulfame potassium; no added caffeine beyond base formula.",
+  "disclaimer": "Nutrition varies by region, bottle size, and formulation; check labels for exact values as sweeteners or additives may differ.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "A 12 oz can of Coca Cola Zero contains 0 calories and 0 g sugar."
+  },
+  "basis": {
+    "label": "per 1 can (12 oz / 355 ml)",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 40
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 40
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with diet beverages.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Switch to regular Coca Cola (per can)",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "In a 20 oz bottle (vs. 12 oz can)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Add a splash of lemon juice (1 tsp per can)",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 1
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a can of Coca Cola Zero?",
+      "a": "Zero calories per 12 oz can."
+    },
+    {
+      "q": "Does Coca Cola Zero have sugar or carbs?",
+      "a": "No sugar and 0 g carbs, sweetened with artificial sweeteners."
+    },
+    {
+      "q": "What's the sodium in Coca Cola Zero?",
+      "a": "About 40 mg per 12 oz can."
+    },
+    {
+      "q": "Is Coca Cola Zero truly calorie-free?",
+      "a": "Yes, it's formulated to have 0 calories, unlike regular Coke's 140 kcal per can."
+    },
+    {
+      "q": "How does calorie count change with bottle size?",
+      "a": "Still 0 calories, but larger servings like 20 oz have the same zero value."
+    }
+  ]
+}

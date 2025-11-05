@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in tortilla chips",
+  "title": "Calories in Tortilla Chips",
+  "meta_description": "Learn calories in tortilla chips per 100g, including carbs, fat, protein, sodium, and tips for healthier tweaks to fit your diet.",
+  "slug": "calories-in-tortilla-chips",
+  "h1": "Calories in Tortilla Chips",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "tortilla chips"
+  },
+  "assumptions": "Plain corn tortilla chips, fried in vegetable oil, no added seasonings or dips; standard store-bought variety.",
+  "disclaimer": "Nutrition varies by brand, frying method, corn type, and portion size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 499,
+    "text": "100g of tortilla chips provides ~499 kcal, with high carbs and fat content."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 499,
+      "carbs_g": 65,
+      "fiber_g": 4.5,
+      "sugars_g": 0.5,
+      "protein_g": 7,
+      "fat_g": 25,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 650
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 499,
+    "carbs_g": 65,
+    "fiber_g": 4.5,
+    "sugars_g": 0.5,
+    "protein_g": 7,
+    "fat_g": 25,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 650
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.09
+  },
+  "tweaks": [
+    {
+      "label": "Switch to baked tortilla chips (lower oil content)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 349
+    },
+    {
+      "label": "Add 1 tbsp salsa per 100g (minimal calorie impact)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 509
+    },
+    {
+      "label": "Choose low-sodium variety",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 499
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of tortilla chips?",
+      "a": "A standard 28g serving (about 10 chips) has ~140 kcal."
+    },
+    {
+      "q": "Are tortilla chips high in carbs?",
+      "a": "Yes, ~65g carbs per 100g, mostly from corn."
+    },
+    {
+      "q": "What's the fat content in tortilla chips?",
+      "a": "About 25g total fat per 100g, with 3.5g saturated."
+    },
+    {
+      "q": "Do tortilla chips have protein?",
+      "a": "Modest amount: ~7g protein per 100g."
+    },
+    {
+      "q": "How does baking affect calories in tortilla chips?",
+      "a": "Baked versions cut calories by 100-150 per 100g due to less oil."
+    }
+  ]
+}

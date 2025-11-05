@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a red apple",
+  "title": "How Many Calories in a Red Apple?",
+  "meta_description": "Discover how many calories in a red apple, including carbs, fiber, sugars, protein, fat, and quick tweaks for variations.",
+  "slug": "how-many-calories-in-a-red-apple",
+  "h1": "How Many Calories in a Red Apple?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "apple",
+    "item": "red apple"
+  },
+  "assumptions": "Medium-sized (182 g) raw red apple with skin, no core or seeds included in edible portion.",
+  "disclaimer": "Nutrition varies by apple size, variety, ripeness, and growing conditions. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 95,
+    "text": "One medium red apple provides about 95 kcal and 4.4 g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium red apple",
+    "amount": 1,
+    "unit": "apple",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 25.1,
+      "fiber_g": 4.4,
+      "sugars_g": 18.9,
+      "protein_g": 0.5,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 95,
+    "carbs_g": 25.1,
+    "fiber_g": 4.4,
+    "sugars_g": 18.9,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Sliced with 1 tbsp peanut butter",
+      "delta_kcal_per_unit": 94,
+      "new_total_kcal": 189
+    },
+    {
+      "label": "Small apple (vs. medium)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 65
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one red apple?",
+      "a": "About 95 kcal for a medium-sized red apple with skin."
+    },
+    {
+      "q": "Does a red apple have fiber?",
+      "a": "Yes, around 4.4 g of dietary fiber per medium apple, mostly in the skin."
+    },
+    {
+      "q": "Are red apples low in sugar?",
+      "a": "They contain about 18.9 g of natural sugars per medium apple, but also fiber to balance."
+    },
+    {
+      "q": "How does apple size affect calories?",
+      "a": "Small apples have ~65 kcal, large ~116 kcal; medium is the standard ~95 kcal."
+    },
+    {
+      "q": "What are the carbs in a red apple?",
+      "a": "Approximately 25.1 g total carbs, with 4.4 g fiber and 18.9 g sugars."
+    }
+  ]
+}

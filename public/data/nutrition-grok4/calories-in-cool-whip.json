@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cool whip",
+  "title": "Calories in Cool Whip",
+  "meta_description": "Discover calories in Cool Whip per serving, plus full nutrition breakdown including fat, carbs, sugars, and quick tweaks for variations.",
+  "slug": "calories-in-cool-whip",
+  "h1": "Calories in Cool Whip",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Cool Whip"
+  },
+  "assumptions": "Original Cool Whip whipped topping; standard serving size of 2 tbsp (9 g); non-dairy, unprepared from tub.",
+  "disclaimer": "Nutrition varies by brand, product type (e.g., original vs. lite), serving size, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 25,
+    "text": "One serving (2 tbsp) of Cool Whip provides 25 kcal with 3 g carbs."
+  },
+  "basis": {
+    "label": "per 2 tbsp (9 g) serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 25,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sugars_g": 2,
+      "protein_g": 0,
+      "fat_g": 1.5,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 25,
+    "carbs_g": 3,
+    "fiber_g": 0,
+    "sugars_g": 2,
+    "protein_g": 0,
+    "fat_g": 1.5,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Use Lite Cool Whip instead",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 15
+    },
+    {
+      "label": "Add fresh strawberries (1/4 cup per serving)",
+      "delta_kcal_per_unit": 13,
+      "new_total_kcal": 38
+    },
+    {
+      "label": "Extra Creamy version",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 35
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of Cool Whip?",
+      "a": "About 25 kcal per 2 tbsp serving of original Cool Whip."
+    },
+    {
+      "q": "Is Cool Whip low in fat?",
+      "a": "Yes, 1.5 g total fat (all saturated) per serving, making it a lighter dessert topping."
+    },
+    {
+      "q": "Does Cool Whip have sugar?",
+      "a": "2 g of sugars per 2 tbsp serving, primarily from added sweeteners."
+    },
+    {
+      "q": "What's the difference in calories between original and lite Cool Whip?",
+      "a": "Lite has about 15 kcal per serving, 10 kcal less than original."
+    },
+    {
+      "q": "Are there carbs in Cool Whip?",
+      "a": "3 g carbs per serving, with no fiber and mostly from sugars."
+    }
+  ]
+}

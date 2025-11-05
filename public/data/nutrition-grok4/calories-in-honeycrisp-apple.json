@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in honeycrisp apple",
+  "title": "Calories in a Honeycrisp Apple",
+  "meta_description": "Discover calories in honeycrisp apple, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown for one medium fruit.",
+  "slug": "calories-in-honeycrisp-apple",
+  "h1": "Calories in a Honeycrisp Apple",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "apple",
+    "item": "honeycrisp apple"
+  },
+  "assumptions": "Medium Honeycrisp apple (~182 g with skin and core removed for edible portion), raw, unpeeled.",
+  "disclaimer": "Nutrition varies by apple size, ripeness, growing conditions, and variety specifics. Check produce labels or apps for exact values.",
+  "quick_answer": {
+    "total_kcal": 95,
+    "text": "One medium Honeycrisp apple provides ~95 kcal, mostly from natural sugars and fiber."
+  },
+  "basis": {
+    "label": "per 1 medium Honeycrisp apple",
+    "amount": 1,
+    "unit": "apple",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 25,
+      "fiber_g": 4.4,
+      "sugars_g": 19,
+      "protein_g": 0.5,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 95,
+    "carbs_g": 25,
+    "fiber_g": 4.4,
+    "sugars_g": 19,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Sliced with 1 tbsp peanut butter",
+      "delta_kcal_per_unit": 95,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Baked without added sugar",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 93
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Honeycrisp apple?",
+      "a": "About 95 kcal for a medium-sized one."
+    },
+    {
+      "q": "What are the carbs in a Honeycrisp apple?",
+      "a": "Roughly 25 g total carbs, including 4.4 g fiber and 19 g sugars."
+    },
+    {
+      "q": "Is a Honeycrisp apple low in fat?",
+      "a": "Yes, only 0.3 g fat per medium apple, with minimal saturated fat."
+    },
+    {
+      "q": "How much fiber in Honeycrisp apple calories query?",
+      "a": "One medium apple has 4.4 g dietary fiber, aiding digestion."
+    },
+    {
+      "q": "Does apple size affect calories in Honeycrisp?",
+      "a": "Yes—small apples ~70 kcal, large ~115 kcal; medium is standard at 95 kcal."
+    }
+  ]
+}

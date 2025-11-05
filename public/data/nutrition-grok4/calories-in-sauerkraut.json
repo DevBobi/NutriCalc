@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sauerkraut",
+  "title": "Calories in Sauerkraut",
+  "meta_description": "Discover calories in sauerkraut per 100 g, including carbs, fiber, protein, fat, sodium details, and preparation tweaks for better nutrition tracking.",
+  "slug": "calories-in-sauerkraut",
+  "h1": "Calories in Sauerkraut",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "sauerkraut"
+  },
+  "assumptions": "Drained, canned or jarred sauerkraut; fermented cabbage with salt; no added sugars or vinegar.",
+  "disclaimer": "Nutrition varies by brand, fermentation process, added ingredients, and draining method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 19,
+    "text": "100 g of sauerkraut contains about 19 kcal and is low in calories but high in sodium."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 19,
+      "carbs_g": 4.3,
+      "fiber_g": 2.9,
+      "sugars_g": 1.8,
+      "protein_g": 0.9,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 661
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 19,
+    "carbs_g": 4.3,
+    "fiber_g": 2.9,
+    "sugars_g": 1.8,
+    "protein_g": 0.9,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 661
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Rinsed to reduce sodium (per 100 g)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 19
+    },
+    {
+      "label": "With 1 tsp olive oil added (per 100 g)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 59
+    },
+    {
+      "label": "Homemade with less salt (per 100 g)",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 17
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in sauerkraut per serving?",
+      "a": "About 19 kcal per 100 g serving."
+    },
+    {
+      "q": "Is sauerkraut low carb?",
+      "a": "Yes, 4.3 g carbs per 100 g, with 2.9 g fiber."
+    },
+    {
+      "q": "Why is sodium high in sauerkraut?",
+      "a": "Fermentation process uses salt; 661 mg per 100 g. Rinse to lower it."
+    },
+    {
+      "q": "Does cooking sauerkraut change calories?",
+      "a": "Minimal change if heated briefly; prolonged cooking may reduce some nutrients but not calories significantly."
+    },
+    {
+      "q": "What are the benefits beyond calories in sauerkraut?",
+      "a": "Probiotics for gut health, vitamin C, and fiber; low fat and protein at 0.9 g per 100 g."
+    }
+  ]
+}

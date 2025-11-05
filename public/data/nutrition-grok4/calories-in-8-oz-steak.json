@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 8 oz steak",
+  "title": "Calories in 8 oz Steak",
+  "meta_description": "Discover calories in 8 oz steak, including protein, fat, carbs, full nutrition breakdown per 100 g basis, and preparation tweaks for better tracking.",
+  "slug": "calories-in-8-oz-steak",
+  "h1": "Calories in 8 oz Steak",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 8,
+    "unit": "oz",
+    "item": "steak"
+  },
+  "assumptions": "Sirloin steak, grilled, trimmed of visible fat, cooked to medium doneness; no added sauces or marinades.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and portion accuracy. Check labels or use a food scale for precision.",
+  "quick_answer": {
+    "total_kcal": 454,
+    "text": "An 8 oz grilled sirloin steak provides ~454 kcal and ~61 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 27,
+      "fat_g": 11,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 85,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 454,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 61.3,
+    "fat_g": 25,
+    "sat_fat_g": 10.2,
+    "trans_fat_g": 1.1,
+    "cholesterol_mg": 193,
+    "sodium_mg": 136
+  },
+  "label_note": "Totals are scaled from the per-100 g basis and mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.9
+  },
+  "tweaks": [
+    {
+      "label": "Ribeye cut (higher fat) vs. sirloin per 8 oz",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 574
+    },
+    {
+      "label": "Add 1 tsp butter during cooking",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 490
+    },
+    {
+      "label": "Well-done (drier, less fat retained) vs. medium",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 424
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 8 oz sirloin steak?",
+      "a": "Approximately 454 kcal for grilled, trimmed sirloin."
+    },
+    {
+      "q": "What's the protein in 8 oz steak?",
+      "a": "About 61 g of high-quality protein."
+    },
+    {
+      "q": "Does cooking method affect calories in steak?",
+      "a": "Yes—grilling or broiling retains less fat than frying, lowering calories slightly."
+    },
+    {
+      "q": "Are there carbs in an 8 oz steak?",
+      "a": "Negligible carbs (0 g); steak is primarily protein and fat."
+    },
+    {
+      "q": "How does steak cut impact nutrition?",
+      "a": "Leaner cuts like sirloin have fewer calories (~200 kcal/100 g) than marbled ribeye (~250+ kcal/100 g)."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a burger bun",
+  "title": "How Many Calories in a Burger Bun?",
+  "meta_description": "Discover how many calories in a burger bun, including carbs, protein, fat, and full nutrition breakdown per bun with quick tweaks and FAQs.",
+  "slug": "how-many-calories-in-a-burger-bun",
+  "h1": "How Many Calories in a Burger Bun?",
+  "updated": "2023-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "bun",
+    "item": "burger bun"
+  },
+  "assumptions": "Standard white hamburger bun, plain, about 50 g, no seeds, butter, or toppings.",
+  "disclaimer": "Nutrition varies by brand, size, ingredients, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "A standard burger bun contains about 120 kcal and 22 g carbs."
+  },
+  "basis": {
+    "label": "per 1 burger bun",
+    "amount": 1,
+    "unit": "bun",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 22,
+      "fiber_g": 1,
+      "sugars_g": 3,
+      "protein_g": 4,
+      "fat_g": 2,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 22,
+    "fiber_g": 1,
+    "sugars_g": 3,
+    "protein_g": 4,
+    "fat_g": 2,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Whole wheat bun variation",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Add sesame seeds topping",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 125
+    },
+    {
+      "label": "Toasted with 1 tsp butter",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 160
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a burger bun?",
+      "a": "About 120 kcal for a standard plain white burger bun."
+    },
+    {
+      "q": "What are the carbs in a burger bun?",
+      "a": "Typically 22 g carbs, including 1 g fiber and 3 g sugars per bun."
+    },
+    {
+      "q": "Does a burger bun have protein or fat?",
+      "a": "Around 4 g protein and 2 g fat per standard bun."
+    },
+    {
+      "q": "How does whole wheat change calories in a burger bun?",
+      "a": "Whole wheat buns often have 10-20 fewer calories and more fiber."
+    },
+    {
+      "q": "Why is sodium high in burger buns?",
+      "a": "Due to added salt in dough; about 200 mg per bun, varying by brand."
+    }
+  ]
+}

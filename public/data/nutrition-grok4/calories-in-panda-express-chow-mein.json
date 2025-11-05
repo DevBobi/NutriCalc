@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in panda express chow mein",
+  "title": "Calories in Panda Express Chow Mein",
+  "meta_description": "Learn calories in Panda Express Chow Mein per serving, including carbs, protein, fat, sodium, and nutrition tweaks for your meal.",
+  "slug": "calories-in-panda-express-chow-mein",
+  "h1": "Calories in Panda Express Chow Mein",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "panda express chow mein"
+  },
+  "assumptions": "Standard side serving (approx. 266 g) as prepared by Panda Express, including noodles, cabbage, celery, and light sauce.",
+  "disclaimer": "Nutrition varies by location, portion size, and preparation; values based on official data. Check Panda Express app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 510,
+    "text": "One serving of Panda Express Chow Mein contains about 510 calories and 13 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 510,
+      "carbs_g": 70,
+      "fiber_g": 5,
+      "sugars_g": 9,
+      "protein_g": 13,
+      "fat_g": 20,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1020
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 510,
+    "carbs_g": 70,
+    "fiber_g": 5,
+    "sugars_g": 9,
+    "protein_g": 13,
+    "fat_g": 20,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1020
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with restaurant menus.",
+  "equivalents": {
+    "megajoules": 2.13
+  },
+  "tweaks": [
+    {
+      "label": "Half serving portion",
+      "delta_kcal_per_unit": -255,
+      "new_total_kcal": 255
+    },
+    {
+      "label": "Add grilled teriyaki chicken (4 oz)",
+      "delta_kcal_per_unit": 300,
+      "new_total_kcal": 810
+    },
+    {
+      "label": "Vegetarian with extra veggies (no oil reduction)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 560
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Panda Express Chow Mein serving?",
+      "a": "Approximately 510 calories per standard side serving."
+    },
+    {
+      "q": "What are the carbs in Panda Express Chow Mein?",
+      "a": "About 70 g total carbs, including 5 g fiber and 9 g sugars per serving."
+    },
+    {
+      "q": "Is Panda Express Chow Mein high in sodium?",
+      "a": "Yes, around 1020 mg sodium per serving due to the sauce and seasonings."
+    },
+    {
+      "q": "How much protein in Panda Express Chow Mein?",
+      "a": "Roughly 13 g protein per serving from the noodles and vegetables."
+    },
+    {
+      "q": "Can I make it lower calorie at Panda Express?",
+      "a": "Request half portion or pair with steamed veggies to reduce calories."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a everything bagel with cream cheese",
+  "title": "Calories in an Everything Bagel with Cream Cheese",
+  "meta_description": "Discover calories in a everything bagel with cream cheese, including carbs, protein, fat, and full nutrition breakdown for easy tracking.",
+  "slug": "calories-in-a-everything-bagel-with-cream-cheese",
+  "h1": "Calories in an Everything Bagel with Cream Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bagel",
+    "item": "everything bagel with cream cheese"
+  },
+  "assumptions": "Standard medium everything bagel (~100 g, baked); 2 tbsp (28 g) full-fat cream cheese spread; no additional toppings.",
+  "disclaimer": "Nutrition varies by brand, size, cream cheese type, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 389,
+    "text": "An everything bagel with 2 tbsp cream cheese provides ~389 kcal and ~13 g protein."
+  },
+  "basis": {
+    "label": "per 1 bagel with 2 tbsp cream cheese",
+    "amount": 1,
+    "unit": "bagel with cream cheese",
+    "nutrition": {
+      "calories_kcal": 389,
+      "carbs_g": 58,
+      "fiber_g": 1.8,
+      "sugars_g": 7.5,
+      "protein_g": 13,
+      "fat_g": 11.5,
+      "sat_fat_g": 6.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 620
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 389,
+    "carbs_g": 58,
+    "fiber_g": 1.8,
+    "sugars_g": 7.5,
+    "protein_g": 13,
+    "fat_g": 11.5,
+    "sat_fat_g": 6.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 620
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.63
+  },
+  "tweaks": [
+    {
+      "label": "Use 1 tbsp cream cheese instead of 2 tbsp",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 339
+    },
+    {
+      "label": "Add 1 oz smoked salmon on top",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 439
+    },
+    {
+      "label": "Low-fat cream cheese (vs. full-fat)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 349
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an everything bagel without cream cheese?",
+      "a": "About 289 kcal for a standard medium everything bagel alone."
+    },
+    {
+      "q": "What are the carbs in a everything bagel with cream cheese?",
+      "a": "Approximately 58 g carbs, including 1.8 g fiber."
+    },
+    {
+      "q": "Is cream cheese high in fat for bagels?",
+      "a": "Yes, 2 tbsp adds ~10 g fat, mostly saturated (6.5 g total)."
+    },
+    {
+      "q": "How much protein in an everything bagel with cream cheese?",
+      "a": "Around 13 g, from the bagel and cream cheese combined."
+    },
+    {
+      "q": "Does the type of bagel affect calories much?",
+      "a": "Everything bagel is similar to plain (~289 kcal); toppings like seeds add minimal calories."
+    }
+  ]
+}

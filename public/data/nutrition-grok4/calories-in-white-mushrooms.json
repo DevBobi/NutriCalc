@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in white mushrooms",
+  "title": "Calories in White Mushrooms",
+  "meta_description": "Discover calories in white mushrooms per 100g, including carbs, protein, fat, fiber, and nutrition tweaks for cooked variations.",
+  "slug": "calories-in-white-mushrooms",
+  "h1": "Calories in White Mushrooms",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "white mushrooms"
+  },
+  "assumptions": "Raw white button mushrooms, fresh, no added seasonings or oils.",
+  "disclaimer": "Nutrition varies by mushroom size, freshness, variety, and preparation method. Check labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 22,
+    "text": "100g of raw white mushrooms provides about 22 kcal and 3.1g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 22,
+      "carbs_g": 3.3,
+      "fiber_g": 1,
+      "sugars_g": 1.7,
+      "protein_g": 3.1,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 22,
+    "carbs_g": 3.3,
+    "fiber_g": 1,
+    "sugars_g": 1.7,
+    "protein_g": 3.1,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 0.09
+  },
+  "tweaks": [
+    {
+      "label": "Sautéed in 1 tsp olive oil per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 62
+    },
+    {
+      "label": "Cooked (boiled or steamed, no added fat) per 100g",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 20
+    },
+    {
+      "label": "Stuffed with cheese (1 oz per 100g)",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 132
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g white mushrooms?",
+      "a": "About 22 kcal for raw white mushrooms."
+    },
+    {
+      "q": "Are white mushrooms low carb?",
+      "a": "Yes, only 3.3g carbs per 100g, with 1g fiber."
+    },
+    {
+      "q": "Do white mushrooms have protein?",
+      "a": "They provide 3.1g protein per 100g."
+    },
+    {
+      "q": "Calories in cooked white mushrooms?",
+      "a": "Similar to raw at ~20-22 kcal per 100g if no fat added; sautéing increases it."
+    },
+    {
+      "q": "Are white mushrooms high in sodium?",
+      "a": "No, just 5mg sodium per 100g raw."
+    }
+  ]
+}

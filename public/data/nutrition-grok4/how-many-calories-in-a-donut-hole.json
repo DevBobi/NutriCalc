@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a donut hole",
+  "title": "How Many Calories in a Donut Hole?",
+  "meta_description": "Discover how many calories in a donut hole, including carbs, fat, protein, and full nutrition breakdown per serving with quick tweaks and FAQs.",
+  "slug": "how-many-calories-in-a-donut-hole",
+  "h1": "How Many Calories in a Donut Hole?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "donut hole",
+    "item": "donut hole"
+  },
+  "assumptions": "Standard glazed yeast donut hole, ~18g, store-bought style like Dunkin', fried dough with sugar glaze, no filling.",
+  "disclaimer": "Nutrition varies by brand, recipe, size, frying method, and toppings. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 52,
+    "text": "One glazed donut hole provides ~52 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 donut hole",
+    "amount": 1,
+    "unit": "donut hole",
+    "nutrition": {
+      "calories_kcal": 52,
+      "carbs_g": 7.1,
+      "fiber_g": 0.2,
+      "sugars_g": 3.2,
+      "protein_g": 0.7,
+      "fat_g": 2.5,
+      "sat_fat_g": 1.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 2,
+      "sodium_mg": 40
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 52,
+    "carbs_g": 7.1,
+    "fiber_g": 0.2,
+    "sugars_g": 3.2,
+    "protein_g": 0.7,
+    "fat_g": 2.5,
+    "sat_fat_g": 1.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 2,
+    "sodium_mg": 40
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.22
+  },
+  "tweaks": [
+    {
+      "label": "Plain (no sugar glaze)",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 37
+    },
+    {
+      "label": "Chocolate iced version",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 72
+    },
+    {
+      "label": "Jelly-filled",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 77
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a donut hole from Dunkin'?",
+      "a": "About 52 kcal for a standard glazed one; varies slightly by flavor."
+    },
+    {
+      "q": "Are donut holes high in sugar?",
+      "a": "Yes, ~3.2 g sugars per donut hole, mainly from the glaze."
+    },
+    {
+      "q": "What's the fat content in a donut hole?",
+      "a": "Around 2.5 g total fat, with 1.2 g saturated, due to frying."
+    },
+    {
+      "q": "How many carbs in one donut hole?",
+      "a": "Approximately 7.1 g carbs, including 0.2 g fiber."
+    },
+    {
+      "q": "Do homemade donut holes have fewer calories?",
+      "a": "Possibly, if baked instead of fried—could be 30-40 kcal each, depending on recipe."
+    }
+  ]
+}

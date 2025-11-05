@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a ferrero rocher",
+  "title": "How Many Calories in a Ferrero Rocher?",
+  "meta_description": "Discover how many calories in a Ferrero Rocher, including full nutrition breakdown like fat, carbs, protein, and quick tweaks for variations.",
+  "slug": "how-many-calories-in-a-ferrero-rocher",
+  "h1": "How Many Calories in a Ferrero Rocher?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "piece",
+    "item": "Ferrero Rocher"
+  },
+  "assumptions": "Standard Ferrero Rocher chocolate ball (~15 g), hazelnut-filled with wafer and milk chocolate coating.",
+  "disclaimer": "Nutrition varies by brand batch, size, and storage; check packaging for exact values when available.",
+  "quick_answer": {
+    "total_kcal": 73,
+    "text": "One Ferrero Rocher has about 73 kcal, with 5.5 g fat and 1 g protein."
+  },
+  "basis": {
+    "label": "per 1 Ferrero Rocher",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 73,
+      "carbs_g": 6.8,
+      "fiber_g": 0.3,
+      "sugars_g": 5.8,
+      "protein_g": 1,
+      "fat_g": 5.5,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 2,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 73,
+    "carbs_g": 6.8,
+    "fiber_g": 0.3,
+    "sugars_g": 5.8,
+    "protein_g": 1,
+    "fat_g": 5.5,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 2,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.31
+  },
+  "tweaks": [
+    {
+      "label": "Raffaello version (coconut-almond instead of hazelnut)",
+      "delta_kcal_per_unit": -3,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Add 1 tsp whipped cream topping",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 88
+    },
+    {
+      "label": "Dark chocolate coating (less sugar)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 68
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Ferrero Rocher?",
+      "a": "Approximately 73 kcal per piece."
+    },
+    {
+      "q": "What are the macros in a Ferrero Rocher?",
+      "a": "About 6.8 g carbs, 5.5 g fat, 1 g protein, with 5.8 g sugars."
+    },
+    {
+      "q": "Does Ferrero Rocher have trans fats?",
+      "a": "No trans fats; saturated fat is around 2.5 g per piece."
+    },
+    {
+      "q": "How much sodium in a Ferrero Rocher?",
+      "a": "Roughly 10 mg per piece."
+    },
+    {
+      "q": "Are Ferrero Rocher calories high in sugar?",
+      "a": "Yes, most carbs are sugars (5.8 g out of 6.8 g total carbs)."
+    }
+  ]
+}

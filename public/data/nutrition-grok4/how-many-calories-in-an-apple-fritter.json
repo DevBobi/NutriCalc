@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in an apple fritter",
+  "title": "How Many Calories in an Apple Fritter?",
+  "meta_description": "Discover how many calories in an apple fritter, including carbs, fat, protein, and other nutrients based on a standard bakery version, plus tweaks and FAQs.",
+  "slug": "how-many-calories-in-an-apple-fritter",
+  "h1": "How Many Calories in an Apple Fritter?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "fritter",
+    "item": "apple fritter"
+  },
+  "assumptions": "Standard bakery apple fritter (~100 g), fried yeast dough with apple-cinnamon filling, powdered sugar glaze, no nuts or extra toppings.",
+  "disclaimer": "Nutrition varies by bakery, recipe, size, frying oil, and glaze amount. Check labels or apps for specific brands.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "One standard apple fritter contains about 350 calories, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 apple fritter",
+    "amount": 1,
+    "unit": "fritter",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 50,
+      "fiber_g": 2,
+      "sugars_g": 25,
+      "protein_g": 4,
+      "fat_g": 15,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 20,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 50,
+    "fiber_g": 2,
+    "sugars_g": 25,
+    "protein_g": 4,
+    "fat_g": 15,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 20,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Unglazed version (no powdered sugar)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Homemade with reduced sugar filling",
+      "delta_kcal_per_unit": -75,
+      "new_total_kcal": 275
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an apple fritter from a bakery?",
+      "a": "Typically 350 kcal for a standard 100 g fritter."
+    },
+    {
+      "q": "What are the carbs in an apple fritter?",
+      "a": "About 50 g total carbs, including 25 g sugars and 2 g fiber."
+    },
+    {
+      "q": "Is an apple fritter high in fat?",
+      "a": "Yes, around 15 g fat per fritter, with 3 g saturated and 0.5 g trans fat from frying."
+    },
+    {
+      "q": "How does apple fritter nutrition compare to a plain doughnut?",
+      "a": "Similar calories (300-400 kcal), but fritter has more sugars and fiber from apples."
+    },
+    {
+      "q": "Can I make a lower-calorie apple fritter?",
+      "a": "Yes, baking reduces fat; opt for unglazed or air-fried versions to cut 50-100 kcal."
+    }
+  ]
+}

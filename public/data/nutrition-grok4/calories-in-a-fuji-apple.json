@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a fuji apple",
+  "title": "Calories in a Fuji Apple",
+  "meta_description": "Discover calories in a fuji apple, including carbs, fiber, sugars, protein, and full nutrition breakdown per medium fruit with quick tweaks and FAQs.",
+  "slug": "calories-in-a-fuji-apple",
+  "h1": "Calories in a Fuji Apple",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "apple",
+    "item": "fuji apple"
+  },
+  "assumptions": "Medium Fuji apple (~182 g with skin, raw, unpeeled); values based on USDA data for typical size and variety.",
+  "disclaimer": "Nutrition varies by apple size, ripeness, growing conditions, and storage; organic vs. conventional may differ slightly. Weigh for precision.",
+  "quick_answer": {
+    "total_kcal": 95,
+    "text": "A medium Fuji apple provides ~95 kcal, 25 g carbs, and 4.4 g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium Fuji apple",
+    "amount": 1,
+    "unit": "apple",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 25,
+      "fiber_g": 4.4,
+      "sugars_g": 19,
+      "protein_g": 0.5,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 95,
+    "carbs_g": 25,
+    "fiber_g": 4.4,
+    "sugars_g": 19,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Small Fuji apple (~130 g vs. medium)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 65
+    },
+    {
+      "label": "Add 1 tbsp peanut butter",
+      "delta_kcal_per_unit": 94,
+      "new_total_kcal": 189
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a medium Fuji apple?",
+      "a": "About 95 kcal for one medium Fuji apple with skin."
+    },
+    {
+      "q": "What are the carbs and fiber in a Fuji apple?",
+      "a": "≈25 g total carbs and 4.4 g fiber per medium apple."
+    },
+    {
+      "q": "Are Fuji apples high in sugar?",
+      "a": "Yes, about 19 g natural sugars per medium apple, mostly fructose."
+    },
+    {
+      "q": "Does peeling a Fuji apple change calories?",
+      "a": "Slightly—peeling removes ~10 kcal and some fiber."
+    },
+    {
+      "q": "How does Fuji apple nutrition compare to other varieties?",
+      "a": "Similar to Gala or Honeycrisp; Fuji may be slightly sweeter with comparable calories around 95 kcal per medium."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a salt",
+  "title": "How Many Calories in a Salt?",
+  "meta_description": "Discover how many calories in a salt (zero, as expected), plus sodium details, nutrition breakdown per gram, and common FAQs for dietary tracking.",
+  "slug": "how-many-calories-in-a-salt",
+  "h1": "How Many Calories in a Salt?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "g",
+    "item": "salt"
+  },
+  "assumptions": "Table salt (sodium chloride), fine grain; 1 g as a standard small serving (about 1/5 tsp).",
+  "disclaimer": "Nutrition varies by type (table, sea, kosher) and grain size; salt is calorie-free but high in sodium. Consult labels for specifics.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "A gram of salt contains 0 calories but about 390 mg sodium."
+  },
+  "basis": {
+    "label": "per 1 g",
+    "amount": 1,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 390
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 390
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Use sea salt instead of table salt",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Kosher salt (flakier, less dense per volume)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Iodized table salt (with added iodine)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a salt serving?",
+      "a": "Zero calories in 1 g of salt or any amount—salt provides no energy."
+    },
+    {
+      "q": "What's the sodium in a salt?",
+      "a": "About 390 mg sodium per 1 g of table salt."
+    },
+    {
+      "q": "Does salt have any macros like carbs or protein?",
+      "a": "No—salt has 0 g carbs, protein, fat, or fiber."
+    },
+    {
+      "q": "How much salt is too much daily?",
+      "a": "Aim for under 2,300 mg sodium (about 6 g salt) per day; consult health guidelines."
+    },
+    {
+      "q": "Are there calories in different types of salt?",
+      "a": "No, all pure salts (table, sea, Himalayan) have 0 calories."
+    }
+  ]
+}

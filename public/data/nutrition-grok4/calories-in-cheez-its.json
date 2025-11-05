@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cheez its",
+  "title": "Calories in Cheez-Its",
+  "meta_description": "Learn calories in Cheez-Its per serving, plus carbs, fat, protein, sodium, and nutrition tweaks for this cheesy snack.",
+  "slug": "calories-in-cheez-its",
+  "h1": "Calories in Cheez-Its",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Cheez-Its"
+  },
+  "assumptions": "Original Cheez-Its crackers; standard serving of 27 crackers (30 g); no toppings or dips.",
+  "disclaimer": "Nutrition varies by flavor, batch, and serving size; check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "One serving of Cheez-Its (27 crackers) provides 150 kcal and 3 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving (27 crackers, 30 g)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 18,
+      "fiber_g": 1,
+      "sugars_g": 1,
+      "protein_g": 3,
+      "fat_g": 7,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 230
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 18,
+    "fiber_g": 1,
+    "sugars_g": 1,
+    "protein_g": 3,
+    "fat_g": 7,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 230
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Reduced fat Cheez-Its (vs. original)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Add 1 tbsp cheddar dip per serving",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "White Cheddar flavor (vs. original)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 160
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of Cheez-Its?",
+      "a": "About 150 kcal for 27 original Cheez-Its crackers."
+    },
+    {
+      "q": "What are the carbs in Cheez-Its?",
+      "a": "One serving has 18 g carbs, including 1 g fiber and 1 g sugars."
+    },
+    {
+      "q": "Are Cheez-Its high in sodium?",
+      "a": "Yes, 230 mg sodium per serving (about 10% DV)."
+    },
+    {
+      "q": "How much fat is in Cheez-Its?",
+      "a": "7 g total fat per serving, with 2 g saturated fat."
+    },
+    {
+      "q": "Do Cheez-Its have protein?",
+      "a": "3 g protein per serving from the cheese and wheat base."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a spicy mcchicken",
+  "title": "How Many Calories in a Spicy McChicken?",
+  "meta_description": "Discover how many calories in a spicy McChicken, including full nutrition breakdown like protein, carbs, fat, and sodium for this McDonald's sandwich.",
+  "slug": "how-many-calories-in-a-spicy-mcchicken",
+  "h1": "How Many Calories in a Spicy McChicken?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "spicy McChicken"
+  },
+  "assumptions": "Standard McDonald's Spicy McChicken sandwich: crispy chicken patty with spicy sauce, lettuce, on a sesame seed bun; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations like extra sauce or no bun. Check McDonald's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 410,
+    "text": "A Spicy McChicken sandwich contains about 410 calories and 15 g protein."
+  },
+  "basis": {
+    "label": "per 1 Spicy McChicken sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 410,
+      "carbs_g": 40,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 15,
+      "fat_g": 22,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 40,
+      "sodium_mg": 910
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 410,
+    "carbs_g": 40,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 15,
+    "fat_g": 22,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 40,
+    "sodium_mg": 910
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.72
+  },
+  "tweaks": [
+    {
+      "label": "Remove spicy sauce (less heat, milder flavor)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Add one slice of cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 460
+    },
+    {
+      "label": "No bun (lettuce wrap version)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 260
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a spicy McChicken?",
+      "a": "Approximately 410 calories per sandwich."
+    },
+    {
+      "q": "What's the protein in a spicy McChicken?",
+      "a": "About 15 g of protein from the chicken patty."
+    },
+    {
+      "q": "Does the spicy McChicken have a lot of sodium?",
+      "a": "Yes, around 910 mg, mostly from the seasoning and bun."
+    },
+    {
+      "q": "How do carbs break down in a spicy McChicken?",
+      "a": "Roughly 40 g total carbs, including 2 g fiber and 5 g sugars."
+    },
+    {
+      "q": "Is the spicy McChicken higher in calories than regular?",
+      "a": "Similar to the regular McChicken at ~400 kcal; spice adds minimal calories."
+    }
+  ]
+}

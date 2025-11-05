@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in monster drink",
+  "title": "How Many Calories in a Monster Drink?",
+  "meta_description": "Learn how many calories in monster drink with a full breakdown of carbs, sugars, sodium, and nutrition facts for a standard 16 oz can.",
+  "slug": "how-many-calories-in-monster-drink",
+  "h1": "How Many Calories in a Monster Drink?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "Monster energy drink"
+  },
+  "assumptions": "Standard 16 fl oz (473 ml) can of original green Monster Energy drink; carbonated, no added alcohol or mixers.",
+  "disclaimer": "Nutrition varies by flavor, size, brand formulation, and serving; check labels for exact values as recipes can change.",
+  "quick_answer": {
+    "total_kcal": 210,
+    "text": "A standard 16 oz can of Monster Energy drink contains 210 calories, primarily from 54 g of sugars."
+  },
+  "basis": {
+    "label": "per 1 can (16 fl oz)",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 210,
+      "carbs_g": 54,
+      "fiber_g": 0,
+      "sugars_g": 54,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 370
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 210,
+    "carbs_g": 54,
+    "fiber_g": 0,
+    "sugars_g": 54,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 370
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.88
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Monster Zero Ultra (sugar-free version)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 10
+    },
+    {
+      "label": "Opt for a smaller 8.4 oz can",
+      "delta_kcal_per_unit": -105,
+      "new_total_kcal": 105
+    },
+    {
+      "label": "Choose a fruit-flavored variety like Pipeline Punch",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Monster energy drink can?",
+      "a": "A standard 16 oz can has 210 calories."
+    },
+    {
+      "q": "Does Monster drink have sugar?",
+      "a": "Yes, the original has 54 g of sugars per can, contributing most of the calories."
+    },
+    {
+      "q": "How much caffeine in Monster drink calories context?",
+      "a": "While calories are 210, it also has about 160 mg caffeine per 16 oz can."
+    },
+    {
+      "q": "Are there low-calorie Monster drink options?",
+      "a": "Yes, Monster Zero Ultra has only 10 calories per can."
+    },
+    {
+      "q": "How many carbs in how many calories in monster drink?",
+      "a": "54 g total carbs per 16 oz can, all from sugars with no fiber."
+    }
+  ]
+}

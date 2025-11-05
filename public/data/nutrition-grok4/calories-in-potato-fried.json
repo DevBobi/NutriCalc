@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in potato fried",
+  "title": "Calories in Fried Potato",
+  "meta_description": "Discover calories in potato fried per 100g, including carbs, fat, protein, and nutrition breakdowns with tweaks for healthier options.",
+  "slug": "calories-in-potato-fried",
+  "h1": "Calories in Fried Potato",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "fried potato"
+  },
+  "assumptions": "Pan-fried or deep-fried in vegetable oil; medium russet potato; lightly salted; no sauces or toppings.",
+  "disclaimer": "Nutrition varies by potato type, oil used, frying method, portion size, and added seasonings. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 312,
+    "text": "100g of fried potato has about 312 kcal, with high carbs from the potato and fat from frying oil."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 312,
+      "carbs_g": 41,
+      "fiber_g": 3.4,
+      "sugars_g": 0.3,
+      "protein_g": 3.4,
+      "fat_g": 14.8,
+      "sat_fat_g": 1.9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 312,
+    "carbs_g": 41,
+    "fiber_g": 3.4,
+    "sugars_g": 0.3,
+    "protein_g": 3.4,
+    "fat_g": 14.8,
+    "sat_fat_g": 1.9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 250
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.31
+  },
+  "tweaks": [
+    {
+      "label": "Air-fried with minimal oil",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 162
+    },
+    {
+      "label": "Baked potato (no frying)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 112
+    },
+    {
+      "label": "Add 1 tbsp ketchup per 100g",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 332
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g fried potato?",
+      "a": "Approximately 312 kcal for 100g of fried potato."
+    },
+    {
+      "q": "What are the macros in fried potatoes?",
+      "a": "Per 100g: 41g carbs, 3.4g protein, 14.8g fat, 3.4g fiber."
+    },
+    {
+      "q": "Are fried potatoes high in fat?",
+      "a": "Yes, mainly from frying oil—about 14.8g fat per 100g."
+    },
+    {
+      "q": "How does frying affect potato calories?",
+      "a": "Frying adds oil, increasing calories from ~77 kcal (baked) to 312 kcal per 100g."
+    },
+    {
+      "q": "Can I make fried potatoes healthier?",
+      "a": "Yes, use air-frying or oven-baking to cut ~150-200 kcal per 100g."
+    }
+  ]
+}

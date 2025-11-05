@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a cup of uncooked rice",
+  "title": "Calories in a Cup of Uncooked Rice",
+  "meta_description": "Discover calories in a cup of uncooked rice, plus carbs, protein, fat, per-100g basis, and preparation tweaks for better nutrition tracking.",
+  "slug": "calories-in-a-cup-of-uncooked-rice",
+  "h1": "Calories in a Cup of Uncooked Rice",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "uncooked rice"
+  },
+  "assumptions": "Long-grain white rice, uncooked; 1 cup ≈ 185 g dry weight.",
+  "disclaimer": "Nutrition varies by rice type, brand, grain length, and measurement; cooked rice yields more volume but similar calories. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 675,
+    "text": "One cup of uncooked white rice provides ~675 kcal and ~148 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 365,
+      "carbs_g": 80,
+      "fiber_g": 1.3,
+      "sugars_g": 0.1,
+      "protein_g": 7.1,
+      "fat_g": 0.7,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 675,
+    "carbs_g": 148,
+    "fiber_g": 2.4,
+    "sugars_g": 0.2,
+    "protein_g": 13.1,
+    "fat_g": 1.3,
+    "sat_fat_g": 0.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.82
+  },
+  "tweaks": [
+    {
+      "label": "Switch to brown rice (per cup)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 655
+    },
+    {
+      "label": "Add 1 tsp vegetable oil per cup",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 715
+    },
+    {
+      "label": "Use basmati rice instead (per cup)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 665
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cup of uncooked rice?",
+      "a": "About 675 kcal for one cup of uncooked long-grain white rice."
+    },
+    {
+      "q": "What are the carbs in a cup of uncooked rice?",
+      "a": "Approximately 148 g carbs, with 2.4 g fiber."
+    },
+    {
+      "q": "Is uncooked rice higher in calories than cooked?",
+      "a": "Calories are similar per dry weight, but cooked rice expands (1 cup uncooked ≈ 3 cups cooked)."
+    },
+    {
+      "q": "How much protein in a cup of uncooked rice?",
+      "a": "Roughly 13 g protein per cup."
+    },
+    {
+      "q": "Does rice type affect calories per cup?",
+      "a": "Yes—brown rice is slightly lower (~655 kcal), jasmine or basmati vary by 10-20 kcal."
+    }
+  ]
+}

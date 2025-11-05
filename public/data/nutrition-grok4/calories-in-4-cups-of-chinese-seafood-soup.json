@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 4 cups of chinese seafood soup",
+  "title": "Calories in 4 Cups of Chinese Seafood Soup",
+  "meta_description": "Discover calories in 4 cups of Chinese seafood soup, including protein, carbs, fat, sodium details, and simple tweaks for variations.",
+  "slug": "calories-in-4-cups-of-chinese-seafood-soup",
+  "h1": "Calories in 4 Cups of Chinese Seafood Soup",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 4,
+    "unit": "cup",
+    "item": "chinese seafood soup"
+  },
+  "assumptions": "Typical clear broth with shrimp, scallops, fish, mixed vegetables (bok choy, mushrooms); no noodles, oil, or thickeners; ~240 ml per cup.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, portion size, and preparation; restaurant versions may be saltier or oilier. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 480,
+    "text": "4 cups of Chinese seafood soup provide ~480 kcal and ~48 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 8,
+      "fiber_g": 1.5,
+      "sugars_g": 2,
+      "protein_g": 12,
+      "fat_g": 2.5,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 60,
+      "sodium_mg": 750
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 480,
+    "carbs_g": 32,
+    "fiber_g": 6,
+    "sugars_g": 8,
+    "protein_g": 48,
+    "fat_g": 10,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 240,
+    "sodium_mg": 3000
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.01
+  },
+  "tweaks": [
+    {
+      "label": "Add rice noodles (1/4 cup per serving)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 680
+    },
+    {
+      "label": "Include tofu instead of half the seafood",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Restaurant-style with added oil",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 600
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup of Chinese seafood soup?",
+      "a": "About 120 kcal per cup under standard assumptions."
+    },
+    {
+      "q": "What is the protein content in 4 cups of Chinese seafood soup?",
+      "a": "Approximately 48 g of protein from the seafood."
+    },
+    {
+      "q": "Is Chinese seafood soup low-carb?",
+      "a": "Yes, ~8 g carbs per cup, mostly from vegetables."
+    },
+    {
+      "q": "Why is sodium high in seafood soup?",
+      "a": "Broth and seasonings contribute; ~750 mg per cup, so watch intake."
+    },
+    {
+      "q": "How does preparation affect calories in Chinese seafood soup?",
+      "a": "Clear broth is lower; added oil, noodles, or creamy bases increase calories significantly."
+    }
+  ]
+}

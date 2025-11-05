@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a grilled cheese sandwich",
+  "title": "Calories in a Grilled Cheese Sandwich",
+  "meta_description": "Discover calories in a grilled cheese sandwich, including macros like protein and fat, plus tweaks and FAQs for variations.",
+  "slug": "calories-in-a-grilled-cheese-sandwich",
+  "h1": "Calories in a Grilled Cheese Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "grilled cheese sandwich"
+  },
+  "assumptions": "2 slices white bread, 2 slices American cheese, 1 tbsp butter for grilling; no add-ons like tomato or bacon.",
+  "disclaimer": "Nutrition varies by bread type, cheese brand, butter amount, and cooking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A standard grilled cheese sandwich provides ~350 kcal, with ~15 g protein and ~20 g fat."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugars_g": 4,
+      "protein_g": 15,
+      "fat_g": 20,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 45,
+      "sodium_mg": 750
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 4,
+    "protein_g": 15,
+    "fat_g": 20,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 45,
+    "sodium_mg": 750
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Use whole wheat bread instead of white",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Add 1 slice of tomato",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 355
+    },
+    {
+      "label": "Switch to low-fat cheese",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a grilled cheese sandwich?",
+      "a": "About 350 kcal for a basic version with white bread and American cheese."
+    },
+    {
+      "q": "What's the protein in a grilled cheese sandwich?",
+      "a": "Roughly 15 g, mostly from the cheese."
+    },
+    {
+      "q": "Does bread type affect calories in a grilled cheese?",
+      "a": "Yes—whole wheat may lower carbs and calories slightly compared to white bread."
+    },
+    {
+      "q": "How much fat is in a grilled cheese sandwich?",
+      "a": "Around 20 g total fat, with 10 g saturated from cheese and butter."
+    },
+    {
+      "q": "Can I make a lower-calorie grilled cheese?",
+      "a": "Yes—use low-fat cheese, less butter, or whole grain bread to reduce by 50+ kcal."
+    }
+  ]
+}

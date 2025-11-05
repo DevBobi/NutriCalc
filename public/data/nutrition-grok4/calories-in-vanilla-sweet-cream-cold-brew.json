@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in vanilla sweet cream cold brew",
+  "title": "Calories in Vanilla Sweet Cream Cold Brew",
+  "meta_description": "Discover calories in vanilla sweet cream cold brew, including macros like carbs, fat, protein, and tweaks for customization in a standard 16 oz serving.",
+  "slug": "calories-in-vanilla-sweet-cream-cold-brew",
+  "h1": "Calories in Vanilla Sweet Cream Cold Brew",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "vanilla sweet cream cold brew"
+  },
+  "assumptions": "Standard 16 fl oz (grande) serving from Starbucks; includes cold brew coffee, vanilla syrup, sweet cream (milk and cream), no modifications.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and customizations like extra syrup or alternative milks. Check labels or apps for exact values.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "A standard 16 oz vanilla sweet cream cold brew contains about 190 kcal, mostly from cream and syrup."
+  },
+  "basis": {
+    "label": "per 1 serving (16 fl oz)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 24,
+      "fiber_g": 0,
+      "sugars_g": 22,
+      "protein_g": 2,
+      "fat_g": 10,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 35,
+      "sodium_mg": 25
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 24,
+    "fiber_g": 0,
+    "sugars_g": 22,
+    "protein_g": 2,
+    "fat_g": 10,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 35,
+    "sodium_mg": 25
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged or restaurant data.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Use nonfat milk instead of sweet cream",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Add extra vanilla syrup pump",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Sugar-free vanilla syrup substitute",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a grande vanilla sweet cream cold brew?",
+      "a": "Approximately 190 kcal for a 16 oz serving."
+    },
+    {
+      "q": "What are the carbs in vanilla sweet cream cold brew?",
+      "a": "About 24 g carbs, primarily from added sugars (22 g)."
+    },
+    {
+      "q": "Is vanilla sweet cream cold brew high in fat?",
+      "a": "Yes, around 10 g total fat, including 6 g saturated from the cream."
+    },
+    {
+      "q": "How much protein in vanilla sweet cream cold brew?",
+      "a": "Only 2 g protein per serving, mainly from the milk."
+    },
+    {
+      "q": "Can I reduce calories in vanilla sweet cream cold brew?",
+      "a": "Opt for lighter milk, less syrup, or sugar-free options to cut 80–100 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in spaghetti with meat sauce",
+  "title": "Calories in Spaghetti with Meat Sauce",
+  "meta_description": "Learn calories in spaghetti with meat sauce per 1-cup serving, including carbs, protein, fat, and full nutrition facts for easy tracking.",
+  "slug": "calories-in-spaghetti-with-meat-sauce",
+  "h1": "Calories in Spaghetti with Meat Sauce",
+  "updated": "2024-10-02",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "spaghetti with meat sauce"
+  },
+  "assumptions": "1 cup (250g) cooked spaghetti with tomato-based meat sauce (ground beef, tomatoes, onions, garlic, herbs); no added cheese or oil.",
+  "disclaimer": "Nutrition varies by recipe, portion size, meat type, sauce brand, and cooking method. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "One cup of spaghetti with meat sauce provides ~350 kcal, 18 g protein, and 40 g carbs."
+  },
+  "basis": {
+    "label": "per 1 cup (250 g)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 40,
+      "fiber_g": 4,
+      "sugars_g": 6,
+      "protein_g": 18,
+      "fat_g": 12,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 35,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 40,
+    "fiber_g": 4,
+    "sugars_g": 6,
+    "protein_g": 18,
+    "fat_g": 12,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 oz grated parmesan cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Use ground turkey instead of beef",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Whole wheat spaghetti (same sauce)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 360
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of spaghetti with meat sauce?",
+      "a": "About 350 kcal per 1-cup (250g) serving."
+    },
+    {
+      "q": "What's the protein in spaghetti with meat sauce?",
+      "a": "Roughly 18 g protein per 1-cup serving, mainly from the meat."
+    },
+    {
+      "q": "Is spaghetti with meat sauce high in carbs?",
+      "a": "Yes, around 40 g carbs per cup, mostly from the pasta."
+    },
+    {
+      "q": "How much sodium is in spaghetti with meat sauce?",
+      "a": "Approximately 600 mg per 1-cup serving; varies with sauce ingredients."
+    },
+    {
+      "q": "Can I reduce calories in spaghetti with meat sauce?",
+      "a": "Yes, use leaner meat, more veggies, or smaller portions to cut ~50-100 kcal."
+    }
+  ]
+}

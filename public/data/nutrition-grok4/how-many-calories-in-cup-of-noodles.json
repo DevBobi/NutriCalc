@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in cup of noodles",
+  "title": "How Many Calories in a Cup of Noodles?",
+  "meta_description": "Discover how many calories in cup of noodles, including carbs, fat, protein, sodium details, and easy tweaks for your instant ramen.",
+  "slug": "how-many-calories-in-cup-of-noodles",
+  "h1": "How Many Calories in a Cup of Noodles?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "noodles"
+  },
+  "assumptions": "Standard instant cup noodles (85 g dry weight), prepared with boiling water, including seasoning packet; no added toppings.",
+  "disclaimer": "Nutrition varies by brand, flavor, portion size, and added ingredients. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 380,
+    "text": "One cup of prepared instant noodles contains about 380 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 cup prepared",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 380,
+      "carbs_g": 52,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 8,
+      "fat_g": 16,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 380,
+    "carbs_g": 52,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 8,
+    "fat_g": 16,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1600
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.59
+  },
+  "tweaks": [
+    {
+      "label": "Add one boiled egg",
+      "delta_kcal_per_unit": 78,
+      "new_total_kcal": 458
+    },
+    {
+      "label": "Use low-sodium seasoning packet",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Drain excess oil after preparation",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 330
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in cup of noodles without seasoning?",
+      "a": "About 300 kcal, as the packet adds ~80 kcal from fats and flavors."
+    },
+    {
+      "q": "Are cup of noodles high in sodium?",
+      "a": "Yes, typically ~1600 mg per cup, which is over half the daily limit."
+    },
+    {
+      "q": "How much protein in a cup of noodles?",
+      "a": "Around 8 g, but adding veggies or egg can boost it."
+    },
+    {
+      "q": "Do cup of noodles have fiber?",
+      "a": "A modest 3 g per cup from the noodles and veggies in some brands."
+    },
+    {
+      "q": "Calories in dry vs. prepared cup of noodles?",
+      "a": "Dry is ~350 kcal; preparation adds minimal water but the full serving is 380 kcal prepared."
+    }
+  ]
+}

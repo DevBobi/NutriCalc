@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in hash browns",
+  "title": "Calories in Hash Browns",
+  "meta_description": "Learn calories in hash browns per 100g serving, including carbs, fat, protein, sodium, and preparation tweaks for better nutrition.",
+  "slug": "calories-in-hash-browns",
+  "h1": "Calories in Hash Browns",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "hash browns"
+  },
+  "assumptions": "Frozen shredded hash browns, pan-fried in vegetable oil, lightly salted; standard fast-food or home preparation.",
+  "disclaimer": "Nutrition varies by brand, oil amount, frying method, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 252,
+    "text": "100 g of pan-fried hash browns provides ~252 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 252,
+      "carbs_g": 31.4,
+      "fiber_g": 2.8,
+      "sugars_g": 0.3,
+      "protein_g": 2.9,
+      "fat_g": 13.6,
+      "sat_fat_g": 1.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 350
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 252,
+    "carbs_g": 31.4,
+    "fiber_g": 2.8,
+    "sugars_g": 0.3,
+    "protein_g": 2.9,
+    "fat_g": 13.6,
+    "sat_fat_g": 1.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 350
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Oven-baked (no added oil)",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 132
+    },
+    {
+      "label": "Add 1 tbsp butter per 100 g",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 352
+    },
+    {
+      "label": "Air-fried with minimal oil",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 192
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of hash browns?",
+      "a": "Approximately 252 kcal for pan-fried hash browns."
+    },
+    {
+      "q": "Are hash browns high in carbs?",
+      "a": "Yes, about 31 g carbs per 100 g, mainly from potatoes."
+    },
+    {
+      "q": "What's the fat content in hash browns?",
+      "a": "Around 13.6 g total fat per 100 g, from frying oil."
+    },
+    {
+      "q": "Do hash browns have protein?",
+      "a": "Low amount, about 2.9 g per 100 g."
+    },
+    {
+      "q": "How to reduce calories in hash browns?",
+      "a": "Bake or air-fry instead of pan-frying to cut oil and lower calories by 50-100 kcal per serving."
+    }
+  ]
+}

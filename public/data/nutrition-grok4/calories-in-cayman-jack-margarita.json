@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cayman jack margarita",
+  "title": "Calories in Cayman Jack Margarita",
+  "meta_description": "Discover calories in Cayman Jack Margarita per serving, including carbs, sugars, alcohol content, and nutrition breakdowns for this ready-to-drink cocktail.",
+  "slug": "calories-in-cayman-jack-margarita",
+  "h1": "Calories in Cayman Jack Margarita",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Cayman Jack Margarita"
+  },
+  "assumptions": "Per 355 ml (12 oz) can, ready-to-drink; values based on standard formulation with tequila, lime, and triple sec flavors; no added ice or garnishes.",
+  "disclaimer": "Nutrition varies by batch, serving size, and brand specifics; alcohol content affects calorie count. Check product labels for exact details.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "One 355 ml serving of Cayman Jack Margarita contains about 190 kcal, mostly from alcohol and carbs."
+  },
+  "basis": {
+    "label": "per 1 serving (355 ml)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 15,
+      "fiber_g": 0,
+      "sugars_g": 10,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 15,
+    "fiber_g": 0,
+    "sugars_g": 10,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Add fresh lime wedge and salt rim",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 195
+    },
+    {
+      "label": "Mix with 4 oz soda water for lighter version",
+      "delta_kcal_per_unit": -95,
+      "new_total_kcal": 95
+    },
+    {
+      "label": "Double serving (two cans)",
+      "delta_kcal_per_unit": 190,
+      "new_total_kcal": 380
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Cayman Jack Margarita?",
+      "a": "Approximately 190 kcal per 355 ml serving."
+    },
+    {
+      "q": "What are the carbs in Cayman Jack Margarita?",
+      "a": "About 15 g carbs and 10 g sugars per serving, mainly from mixers."
+    },
+    {
+      "q": "Does Cayman Jack Margarita have protein or fat?",
+      "a": "No significant protein or fat; it's primarily alcohol and carbs."
+    },
+    {
+      "q": "How does alcohol affect calories in Cayman Jack Margarita?",
+      "a": "Alcohol contributes ~7 kcal per gram; this serving has about 5% ABV."
+    },
+    {
+      "q": "Can I find lower calorie alternatives to Cayman Jack Margarita?",
+      "a": "Yes, opt for light versions or dilute with zero-calorie mixers to reduce calories."
+    }
+  ]
+}

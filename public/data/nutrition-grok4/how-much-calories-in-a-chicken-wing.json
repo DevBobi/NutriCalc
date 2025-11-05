@@ -1,0 +1,92 @@
+{
+  "keyword": "how much calories in a chicken wing",
+  "title": "How Many Calories in a Chicken Wing?",
+  "meta_description": "Discover how much calories in a chicken wing, with a full nutrition breakdown, protein, fat details, and preparation tweaks for better choices.",
+  "slug": "how-much-calories-in-a-chicken-wing",
+  "h1": "How Many Calories in a Chicken Wing?",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "wing",
+    "item": "chicken wing"
+  },
+  "assumptions": "Medium-sized, bone-in chicken wing with skin, baked (no added oil), about 90 g total weight including bone.",
+  "disclaimer": "Nutrition varies by size, cooking method, skin removal, and added sauces; check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 99,
+    "text": "A single baked chicken wing with skin provides about 99 kcal and 8 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken wing",
+    "amount": 1,
+    "unit": "wing",
+    "nutrition": {
+      "calories_kcal": 99,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 8,
+      "fat_g": 7,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 99,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 8,
+    "fat_g": 7,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 50
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Fried in oil (vs. baked)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 149
+    },
+    {
+      "label": "Skin removed",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 59
+    },
+    {
+      "label": "Add 1 tbsp buffalo sauce",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 129
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a baked chicken wing?",
+      "a": "About 99 kcal for one medium baked wing with skin."
+    },
+    {
+      "q": "What's the protein in one chicken wing?",
+      "a": "Roughly 8 g protein per wing."
+    },
+    {
+      "q": "Do chicken wings have carbs?",
+      "a": "Typically 0 g carbs if plain; sauces can add some."
+    },
+    {
+      "q": "How does frying affect calories in chicken wings?",
+      "a": "Frying adds about 50 kcal per wing due to absorbed oil."
+    },
+    {
+      "q": "Are chicken wings high in fat?",
+      "a": "Yes, around 7 g total fat per wing, mostly from skin."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a strip steak",
+  "title": "How Many Calories Are in a Strip Steak?",
+  "meta_description": "Discover how many calories are in a strip steak (typical 8 oz serving), including protein, fat, carbs, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "how-many-calories-are-in-a-strip-steak",
+  "h1": "How Many Calories Are in a Strip Steak?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "steak",
+    "item": "strip steak"
+  },
+  "assumptions": "Grilled New York strip steak, lean only, trimmed of visible fat, 8 oz (227 g) cooked serving.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and portion size. Check labels or sources for exact values.",
+  "quick_answer": {
+    "total_kcal": 479,
+    "text": "A typical 8 oz grilled strip steak provides ~479 kcal and ~68 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 211,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 30,
+      "fat_g": 10,
+      "sat_fat_g": 4.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 59
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 479,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 68,
+    "fat_g": 22.7,
+    "sat_fat_g": 9.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 193,
+    "sodium_mg": 134
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2
+  },
+  "tweaks": [
+    {
+      "label": "Pan-seared with 1 tsp oil per steak",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 519
+    },
+    {
+      "label": "Include some fat trim (vs. lean only)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 579
+    },
+    {
+      "label": "Smaller 6 oz portion",
+      "delta_kcal_per_unit": -160,
+      "new_total_kcal": 319
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a strip steak?",
+      "a": "About 479 kcal for an 8 oz grilled, lean strip steak."
+    },
+    {
+      "q": "How much protein in a strip steak?",
+      "a": "Roughly 68 g protein in an 8 oz serving."
+    },
+    {
+      "q": "Is strip steak high in fat?",
+      "a": "Lean cuts have ~23 g total fat per 8 oz; choose trimmed for lower fat."
+    },
+    {
+      "q": "Calories in raw vs. cooked strip steak?",
+      "a": "Raw is lower (~140 kcal/100 g); cooking concentrates nutrients as water evaporates."
+    },
+    {
+      "q": "Does cooking method affect calories in strip steak?",
+      "a": "Yes—grilling keeps it lower; frying or butter-basting adds 40–100 kcal per steak."
+    }
+  ]
+}

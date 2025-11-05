@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in potato salad",
+  "title": "How Many Calories in Potato Salad?",
+  "meta_description": "Discover how many calories in potato salad per serving, including carbs, fat, protein, and nutrition breakdowns for easy meal planning.",
+  "slug": "how-many-calories-in-potato-salad",
+  "h1": "How Many Calories in Potato Salad?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "potato salad"
+  },
+  "assumptions": "Homemade potato salad with boiled potatoes, mayonnaise dressing, celery, onion, and mustard; about 150 g per cup serving; no added eggs or bacon.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, portion size, and preparation method. Check labels for store-bought versions.",
+  "quick_answer": {
+    "total_kcal": 225,
+    "text": "One cup of potato salad contains about 225 calories, with high carbs from potatoes and fat from mayo."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 14,
+      "fiber_g": 1.5,
+      "sugars_g": 2,
+      "protein_g": 2,
+      "fat_g": 10,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 7,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 225,
+    "carbs_g": 21,
+    "fiber_g": 2.3,
+    "sugars_g": 3,
+    "protein_g": 3,
+    "fat_g": 15,
+    "sat_fat_g": 2.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 450
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.94
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat mayonnaise",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 195
+    },
+    {
+      "label": "Add chopped celery and reduce mayo by half",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 185
+    },
+    {
+      "label": "Include hard-boiled eggs (1 per cup)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 295
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of potato salad?",
+      "a": "Approximately 225 calories for a standard homemade serving."
+    },
+    {
+      "q": "Is potato salad high in carbs?",
+      "a": "Yes, about 21 g carbs per cup, mostly from potatoes."
+    },
+    {
+      "q": "How much fat is in potato salad?",
+      "a": "Around 15 g total fat per cup, primarily from mayonnaise."
+    },
+    {
+      "q": "What's the sodium content in potato salad?",
+      "a": "About 450 mg per cup, varying with added salt or dressing."
+    },
+    {
+      "q": "Can I make potato salad lower in calories?",
+      "a": "Yes, substitute Greek yogurt for mayo or add more veggies to cut calories by 20-30%."
+    }
+  ]
+}

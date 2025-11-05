@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a fried plantain",
+  "title": "Calories in a Fried Plantain",
+  "meta_description": "Discover calories in a fried plantain, including carbs, fat, protein, and full nutrition breakdown per slice with easy tweaks and FAQs.",
+  "slug": "calories-in-a-fried-plantain",
+  "h1": "Calories in a Fried Plantain",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "fried plantain",
+    "item": "fried plantain"
+  },
+  "assumptions": "Medium ripe plantain slice (~50 g), deep-fried in vegetable oil, no added salt or seasonings.",
+  "disclaimer": "Nutrition varies by plantain ripeness, slice size, oil type/absorption, and frying method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "One medium fried plantain slice has ~120 kcal, mostly from carbs and absorbed oil."
+  },
+  "basis": {
+    "label": "per 1 medium fried plantain slice",
+    "amount": 1,
+    "unit": "fried plantain",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 18,
+      "fiber_g": 1.5,
+      "sugars_g": 8,
+      "protein_g": 0.5,
+      "fat_g": 6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 18,
+    "fiber_g": 1.5,
+    "sugars_g": 8,
+    "protein_g": 0.5,
+    "fat_g": 6,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of fried (less oil)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Green (unripe) plantain, fried",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Add 1 tsp butter during frying",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 155
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a fried plantain slice?",
+      "a": "About 120 kcal for one medium slice."
+    },
+    {
+      "q": "Are fried plantains high in carbs?",
+      "a": "Yes, ~18 g carbs per slice, mainly from the starchy plantain."
+    },
+    {
+      "q": "What's the fat content in a fried plantain?",
+      "a": "Around 6 g total fat, mostly from frying oil."
+    },
+    {
+      "q": "Do fried plantains have protein?",
+      "a": "Very little, only ~0.5 g per slice."
+    },
+    {
+      "q": "How does ripeness affect calories in fried plantains?",
+      "a": "Riper plantains are sweeter with similar calories; greener ones are starchier but fry similarly."
+    }
+  ]
+}

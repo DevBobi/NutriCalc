@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a peanut butter sandwich",
+  "title": "How Many Calories in a Peanut Butter Sandwich?",
+  "meta_description": "Discover how many calories in a peanut butter sandwich, including full nutrition breakdown, protein, carbs, fat, and simple tweaks for variations.",
+  "slug": "how-many-calories-in-a-peanut-butter-sandwich",
+  "h1": "How Many Calories in a Peanut Butter Sandwich?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "peanut butter sandwich"
+  },
+  "assumptions": "2 slices white bread (about 28 g each), 2 tbsp creamy peanut butter (32 g), no jelly, butter, or extras; standard commercial brands.",
+  "disclaimer": "Nutrition varies by bread type, peanut butter brand, portion size, and additions like jelly. Check labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A typical peanut butter sandwich contains about 350 calories and 13 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 35,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 13,
+      "fat_g": 18,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 35,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 13,
+    "fat_g": 18,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 400
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp grape jelly",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Use whole wheat bread instead of white",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Switch to natural, low-fat peanut butter",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 290
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a peanut butter sandwich with jelly?",
+      "a": "About 400 kcal if adding 1 tbsp jelly to the standard base."
+    },
+    {
+      "q": "What's the protein in a peanut butter sandwich?",
+      "a": "Around 13 g, mostly from the peanut butter."
+    },
+    {
+      "q": "Are peanut butter sandwiches high in fat?",
+      "a": "Yes, about 18 g total fat per sandwich, mainly healthy unsaturated fats from peanuts."
+    },
+    {
+      "q": "How does bread type affect calories in a PB sandwich?",
+      "a": "White bread adds ~150 kcal for 2 slices; whole wheat is similar but may add more fiber."
+    },
+    {
+      "q": "Is sodium high in a peanut butter sandwich?",
+      "a": "Approximately 400 mg, from salted peanut butter and bread—opt for unsalted versions to reduce."
+    }
+  ]
+}

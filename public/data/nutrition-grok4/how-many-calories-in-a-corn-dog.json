@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a corn dog",
+  "title": "How Many Calories Are in a Corn Dog?",
+  "meta_description": "Discover how many calories in a corn dog, including full nutrition breakdown with carbs, protein, fat, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-corn-dog",
+  "h1": "How Many Calories Are in a Corn Dog?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "corn dog",
+    "item": "corn dog"
+  },
+  "assumptions": "Standard frozen corn dog, battered with cornmeal, deep-fried, average size (~113 g), including beef or pork sausage.",
+  "disclaimer": "Nutrition varies by brand, size, frying method, and ingredients; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 260,
+    "text": "A standard corn dog provides about 260 kcal, with 10 g protein and 30 g carbs."
+  },
+  "basis": {
+    "label": "per 1 corn dog",
+    "amount": 1,
+    "unit": "corn dog",
+    "nutrition": {
+      "calories_kcal": 260,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugars_g": 7,
+      "protein_g": 10,
+      "fat_g": 13,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 25,
+      "sodium_mg": 650
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 260,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 7,
+    "protein_g": 10,
+    "fat_g": 13,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 25,
+    "sodium_mg": 650
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.09
+  },
+  "tweaks": [
+    {
+      "label": "Use turkey sausage instead of beef/pork",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Air-fried instead of deep-fried",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Add 1 tbsp ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a corn dog?",
+      "a": "About 260 kcal for a standard one."
+    },
+    {
+      "q": "What are the carbs in a corn dog?",
+      "a": "Around 30 g carbs, including 2 g fiber and 7 g sugars."
+    },
+    {
+      "q": "Is a corn dog high in sodium?",
+      "a": "Yes, typically 650 mg sodium per corn dog."
+    },
+    {
+      "q": "How does frying method affect calories in a corn dog?",
+      "a": "Deep-frying adds more fat/calories than baking or air-frying."
+    },
+    {
+      "q": "What's the protein content of a corn dog?",
+      "a": "About 10 g protein from the sausage and batter."
+    }
+  ]
+}

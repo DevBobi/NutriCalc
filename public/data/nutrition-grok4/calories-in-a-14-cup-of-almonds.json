@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a 14 cup of almonds",
+  "title": "Calories in a 1/4 Cup of Almonds",
+  "meta_description": "Discover calories in a 1/4 cup of almonds, including protein, fat, carbs, fiber, and full nutrition breakdown per serving.",
+  "slug": "calories-in-a-14-cup-of-almonds",
+  "h1": "Calories in a 1/4 Cup of Almonds",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "1/4 cup",
+    "item": "almonds"
+  },
+  "assumptions": "Whole, raw, unsalted almonds; approximately 36 g per 1/4 cup serving.",
+  "disclaimer": "Nutrition varies by variety, roast level, brand, and exact measurement. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 208,
+    "text": "A 1/4 cup of almonds provides about 208 kcal and 7.6 g protein."
+  },
+  "basis": {
+    "label": "per 1/4 cup",
+    "amount": 1,
+    "unit": "1/4 cup",
+    "nutrition": {
+      "calories_kcal": 208,
+      "carbs_g": 7.8,
+      "fiber_g": 4.5,
+      "sugars_g": 1.6,
+      "protein_g": 7.6,
+      "fat_g": 18,
+      "sat_fat_g": 1.4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0.4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 208,
+    "carbs_g": 7.8,
+    "fiber_g": 4.5,
+    "sugars_g": 1.6,
+    "protein_g": 7.6,
+    "fat_g": 18,
+    "sat_fat_g": 1.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0.4
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.87
+  },
+  "tweaks": [
+    {
+      "label": "Dry-roasted (no oil added)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 213
+    },
+    {
+      "label": "Oil-roasted (1 tsp oil per serving)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 248
+    },
+    {
+      "label": "Salted (adds minimal calories but increases sodium)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 208
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a 1/4 cup of almonds?",
+      "a": "Approximately 208 kcal for raw, unsalted almonds."
+    },
+    {
+      "q": "What's the protein in 1/4 cup almonds?",
+      "a": "About 7.6 g of protein per 1/4 cup serving."
+    },
+    {
+      "q": "Do almonds have a lot of fat?",
+      "a": "Yes, around 18 g total fat per 1/4 cup, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "How much fiber in a 1/4 cup of almonds?",
+      "a": "Roughly 4.5 g of dietary fiber, aiding digestion."
+    },
+    {
+      "q": "Are roasted almonds higher in calories than raw?",
+      "a": "Slightly if dry-roasted; oil-roasted can add 40+ kcal per serving."
+    }
+  ]
+}

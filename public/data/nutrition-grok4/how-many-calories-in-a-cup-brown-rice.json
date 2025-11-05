@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a cup brown rice",
+  "title": "How Many Calories in a Cup of Brown Rice?",
+  "meta_description": "Discover how many calories in a cup brown rice (cooked), including carbs, protein, fiber, and full nutrition breakdown for easy meal planning.",
+  "slug": "how-many-calories-in-a-cup-brown-rice",
+  "h1": "How Many Calories in a Cup of Brown Rice?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "brown rice"
+  },
+  "assumptions": "Cooked long-grain brown rice, 1 US cup (195g serving), boiled in water without added salt, oil, or seasonings.",
+  "disclaimer": "Nutrition varies by rice variety, cooking method, water absorption, and additions like oil or salt. Check packaging for specific brands.",
+  "quick_answer": {
+    "total_kcal": 218,
+    "text": "One cup of cooked brown rice provides about 218 kcal, 45.8 g carbs, and 3.5 g fiber."
+  },
+  "basis": {
+    "label": "per 1 cup cooked brown rice",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 218,
+      "carbs_g": 45.8,
+      "fiber_g": 3.5,
+      "sugars_g": 0.5,
+      "protein_g": 4.5,
+      "fat_g": 1.6,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 218,
+    "carbs_g": 45.8,
+    "fiber_g": 3.5,
+    "sugars_g": 0.5,
+    "protein_g": 4.5,
+    "fat_g": 1.6,
+    "sat_fat_g": 0.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 0.91
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 258
+    },
+    {
+      "label": "Uncooked (dry) brown rice per cup measure",
+      "delta_kcal_per_unit": 462,
+      "new_total_kcal": 680
+    },
+    {
+      "label": "Mix in 1/4 cup cooked vegetables (e.g., peas)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 243
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cup of cooked brown rice?",
+      "a": "Approximately 218 kcal for 1 cup (195g) cooked brown rice."
+    },
+    {
+      "q": "What's the protein in a cup brown rice?",
+      "a": "About 4.5 g protein per cup of cooked brown rice."
+    },
+    {
+      "q": "Does brown rice have more fiber than white?",
+      "a": "Yes, 3.5 g fiber per cup versus about 0.6 g in white rice."
+    },
+    {
+      "q": "How many carbs in a cup brown rice?",
+      "a": "Roughly 45.8 g total carbs, including 3.5 g fiber."
+    },
+    {
+      "q": "Are these values for cooked or dry brown rice?",
+      "a": "Cooked; dry brown rice per cup is about 680 kcal due to water loss in cooking."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a protein shake",
+  "title": "How Many Calories in a Protein Shake?",
+  "meta_description": "Discover how many calories in a protein shake, including protein, carbs, fat, and full nutrition breakdown for a standard serving with skim milk.",
+  "slug": "how-many-calories-in-a-protein-shake",
+  "h1": "How Many Calories in a Protein Shake?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shake",
+    "item": "protein shake"
+  },
+  "assumptions": "Standard whey protein shake: 1 scoop (30g) unflavored powder mixed with 240ml skim milk, no added sweeteners or fruits.",
+  "disclaimer": "Nutrition varies by brand, protein type, milk choice, additives, and serving size. Check product labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "A typical protein shake provides ~220 kcal and ~30 g protein."
+  },
+  "basis": {
+    "label": "per 1 protein shake",
+    "amount": 1,
+    "unit": "shake",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 12,
+      "fiber_g": 0,
+      "sugars_g": 12,
+      "protein_g": 30,
+      "fat_g": 2,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 12,
+    "fiber_g": 0,
+    "sugars_g": 12,
+    "protein_g": 30,
+    "fat_g": 2,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Mix with water instead of skim milk",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Use whole milk instead of skim",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Add one medium banana",
+      "delta_kcal_per_unit": 105,
+      "new_total_kcal": 325
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a protein shake with water?",
+      "a": "About 120-140 kcal for 1 scoop powder mixed with water, depending on the brand."
+    },
+    {
+      "q": "What's the protein content in a protein shake?",
+      "a": "Typically 20-30 g per serving; our basis assumes 30 g."
+    },
+    {
+      "q": "Do protein shakes have a lot of sugar?",
+      "a": "Varies—whey isolate with water has ~1 g; with milk, ~12 g from lactose."
+    },
+    {
+      "q": "How many calories in a vegan protein shake?",
+      "a": "Around 120-150 kcal per serving with plant-based powder and water; higher with nut milk."
+    },
+    {
+      "q": "Does the brand affect calories in protein shakes?",
+      "a": "Yes—flavored or mass-gainer types can add 50-200 extra kcal from carbs and sugars."
+    }
+  ]
+}

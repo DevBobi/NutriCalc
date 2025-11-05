@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in peanut butter and jam sandwich",
+  "title": "How Many Calories in a Peanut Butter and Jam Sandwich?",
+  "meta_description": "Discover how many calories in peanut butter and jam sandwich, including full nutrition breakdown, macros, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-peanut-butter-and-jam-sandwich",
+  "h1": "How Many Calories in a Peanut Butter and Jam Sandwich?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "peanut butter and jam sandwich"
+  },
+  "assumptions": "2 slices white bread (about 28g each), 2 tbsp creamy peanut butter (32g), 1 tbsp grape jam (20g), assembled without added butter or extras.",
+  "disclaimer": "Nutrition varies by bread type, peanut butter brand, jam sweetness, portion sizes, and preparation. Check labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 400,
+    "text": "A standard peanut butter and jam sandwich contains about 400 calories with 12g protein and 50g carbs."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 400,
+      "carbs_g": 50,
+      "fiber_g": 3,
+      "sugars_g": 15,
+      "protein_g": 12,
+      "fat_g": 18,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 400,
+    "carbs_g": 50,
+    "fiber_g": 3,
+    "sugars_g": 15,
+    "protein_g": 12,
+    "fat_g": 18,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 400
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.67
+  },
+  "tweaks": [
+    {
+      "label": "Use whole wheat bread instead of white",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Opt for natural peanut butter (no added sugar/oil)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Add 1/2 banana slices",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 450
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a peanut butter and jam sandwich?",
+      "a": "Approximately 400 calories for a standard version with 2 slices white bread, 2 tbsp PB, and 1 tbsp jam."
+    },
+    {
+      "q": "What's the protein in a PB&J sandwich?",
+      "a": "About 12g protein, mainly from the peanut butter."
+    },
+    {
+      "q": "Does jam add a lot of sugar to the sandwich?",
+      "a": "Yes, 1 tbsp jam adds around 10-15g sugars; choose low-sugar options to reduce."
+    },
+    {
+      "q": "How to make a lower-calorie PB&J?",
+      "a": "Use thin-sliced bread, 1 tbsp PB, and sugar-free jam to drop it under 300 calories."
+    },
+    {
+      "q": "Is a peanut butter and jelly sandwich healthy?",
+      "a": "It provides protein and fats but is high in carbs and sugars; opt for whole grains and natural ingredients for better nutrition."
+    }
+  ]
+}

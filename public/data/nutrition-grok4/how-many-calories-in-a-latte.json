@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a latte",
+  "title": "How Many Calories in a Latte?",
+  "meta_description": "Discover how many calories in a latte, including full nutrition breakdown, macros, and variations for different milk types.",
+  "slug": "how-many-calories-in-a-latte",
+  "h1": "How Many Calories in a Latte?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "latte",
+    "item": "latte"
+  },
+  "assumptions": "Standard 8 oz (240 ml) caffe latte with whole milk, single espresso shot, no added sugar, syrups, or toppings.",
+  "disclaimer": "Nutrition varies by milk type, size, coffee shop, added sweeteners, and preparation; check labels or apps when available.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "A standard 8 oz latte with whole milk contains about 150 kcal."
+  },
+  "basis": {
+    "label": "per 1 latte",
+    "amount": 1,
+    "unit": "latte",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 12,
+      "fiber_g": 0,
+      "sugars_g": 12,
+      "protein_g": 8,
+      "fat_g": 8,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 12,
+    "fiber_g": 0,
+    "sugars_g": 12,
+    "protein_g": 8,
+    "fat_g": 8,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 100
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Use skim milk instead of whole",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "Add 1 pump vanilla syrup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Oat milk instead of dairy",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 160
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a latte with whole milk?",
+      "a": "About 150 kcal for a standard 8 oz serving."
+    },
+    {
+      "q": "What's the protein in a latte?",
+      "a": "Around 8 g from the milk in a standard latte."
+    },
+    {
+      "q": "Do lattes have a lot of sugar?",
+      "a": "Plain lattes have natural milk sugars (~12 g); added syrups increase it."
+    },
+    {
+      "q": "How does milk type affect calories in a latte?",
+      "a": "Whole milk: ~150 kcal; skim: ~90 kcal; almond: ~60-100 kcal depending on brand."
+    },
+    {
+      "q": "Are lattes low-carb?",
+      "a": "A plain latte has ~12 g carbs from milk lactose; non-dairy options may vary."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in prosecco",
+  "title": "How Many Calories in Prosecco?",
+  "meta_description": "Learn how many calories in prosecco per standard glass, including carbs, sugars, and nutrition breakdown for brut and sweeter varieties.",
+  "slug": "how-many-calories-in-prosecco",
+  "h1": "How Many Calories in Prosecco?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "glass",
+    "item": "prosecco"
+  },
+  "assumptions": "Brut prosecco (11% ABV, low residual sugar), standard 150 ml serving, no mixers added.",
+  "disclaimer": "Nutrition varies by brand, sweetness level (brut, extra dry, etc.), ABV, and serving size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 105,
+    "text": "A 150 ml glass of brut prosecco contains about 105 kcal, primarily from alcohol with minimal carbs."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 70,
+      "carbs_g": 1.8,
+      "fiber_g": 0,
+      "sugars_g": 1.5,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 105,
+    "carbs_g": 2.7,
+    "fiber_g": 0,
+    "sugars_g": 2.3,
+    "protein_g": 0.2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 6
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with beverage nutrition.",
+  "equivalents": {
+    "megajoules": 0.44
+  },
+  "tweaks": [
+    {
+      "label": "Extra dry prosecco (higher residual sugar)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Smaller 125 ml serving",
+      "delta_kcal_per_unit": -18,
+      "new_total_kcal": 87
+    },
+    {
+      "label": "Mixed with soda water (spritzer, half prosecco)",
+      "delta_kcal_per_unit": -52,
+      "new_total_kcal": 53
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a glass of prosecco?",
+      "a": "About 105 kcal for a 150 ml glass of brut prosecco."
+    },
+    {
+      "q": "Does prosecco have carbs?",
+      "a": "Yes, around 2.7 g carbs per 150 ml glass, mostly sugars."
+    },
+    {
+      "q": "How do calories in prosecco compare to other wines?",
+      "a": "Similar to dry white wines at ~70-80 kcal per 100 ml; sweeter varieties add 20-30 kcal."
+    },
+    {
+      "q": "Is prosecco lower calorie than champagne?",
+      "a": "Brut prosecco is comparable or slightly lower than brut champagne, both ~70 kcal/100 ml."
+    },
+    {
+      "q": "What affects calories in prosecco?",
+      "a": "ABV, residual sugar (brut vs. demi-sec), and serving size; opt for brut for fewer calories."
+    }
+  ]
+}

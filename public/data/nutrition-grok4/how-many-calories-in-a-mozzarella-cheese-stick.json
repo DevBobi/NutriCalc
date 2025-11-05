@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a mozzarella cheese stick",
+  "title": "How Many Calories in a Mozzarella Cheese Stick?",
+  "meta_description": "Discover how many calories in a mozzarella cheese stick, including protein, fat, carbs, and full nutrition breakdown per serving.",
+  "slug": "how-many-calories-in-a-mozzarella-cheese-stick",
+  "h1": "How Many Calories in a Mozzarella Cheese Stick?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "stick",
+    "item": "mozzarella cheese stick"
+  },
+  "assumptions": "Standard string cheese stick (~28 g), made from whole milk mozzarella, no added flavors or coatings.",
+  "disclaimer": "Nutrition varies by brand, milk type, size, and processing; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "A mozzarella cheese stick provides about 80 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 stick",
+    "amount": 1,
+    "unit": "stick",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 6,
+      "fat_g": 6,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 6,
+    "fat_g": 6,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 200
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat or part-skim mozzarella version",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Add 1 slice pepperoni wrap",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Reduced-sodium variety",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 80
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one mozzarella cheese stick?",
+      "a": "Approximately 80 kcal for a standard 28 g stick."
+    },
+    {
+      "q": "What's the protein content in a mozzarella cheese stick?",
+      "a": "About 6 g of protein per stick."
+    },
+    {
+      "q": "Are mozzarella cheese sticks high in fat?",
+      "a": "Yes, around 6 g total fat, including 4 g saturated fat per stick."
+    },
+    {
+      "q": "Do mozzarella cheese sticks have carbs?",
+      "a": "Very low—only about 1 g carbs and 0 g fiber per stick."
+    },
+    {
+      "q": "How does brand affect calories in mozzarella cheese sticks?",
+      "a": "Brands vary; low-moisture or flavored sticks may add 10-20 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in boiled shrimp",
+  "title": "Calories in Boiled Shrimp",
+  "meta_description": "Discover calories in boiled shrimp per 100 g, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-boiled-shrimp",
+  "h1": "Calories in Boiled Shrimp",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "boiled shrimp"
+  },
+  "assumptions": "Medium-sized shrimp, peeled and deveined, boiled plain without added salt, butter, or seasonings.",
+  "disclaimer": "Nutrition varies by shrimp size, freshness, cooking time, and any added ingredients. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 99,
+    "text": "100 g of boiled shrimp provides ~99 kcal and ~24 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 99,
+      "carbs_g": 0.2,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24,
+      "fat_g": 0.3,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 161,
+      "sodium_mg": 119
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 99,
+    "carbs_g": 0.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 24,
+    "fat_g": 0.3,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 161,
+    "sodium_mg": 119
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per 100 g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 135
+    },
+    {
+      "label": "Boiled with 1/2 tsp salt per 100 g",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 99
+    },
+    {
+      "label": "Steamed instead of boiled (minimal water loss)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 104
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g boiled shrimp?",
+      "a": "Approximately 99 kcal per 100 g."
+    },
+    {
+      "q": "Is boiled shrimp high in protein?",
+      "a": "Yes, about 24 g protein per 100 g, making it a lean seafood option."
+    },
+    {
+      "q": "What about fat and carbs in boiled shrimp?",
+      "a": "Very low: 0.3 g fat and 0.2 g carbs per 100 g."
+    },
+    {
+      "q": "Does boiling shrimp add sodium?",
+      "a": "Plain boiling adds none, but salted water can increase sodium beyond the natural 119 mg per 100 g."
+    },
+    {
+      "q": "How do calories change with shrimp size?",
+      "a": "Larger shrimp may have slightly more calories per gram due to density, but values are similar across sizes when weighed."
+    }
+  ]
+}

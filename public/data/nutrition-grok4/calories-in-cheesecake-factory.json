@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cheesecake factory",
+  "title": "Calories in Cheesecake Factory Cheesecake",
+  "meta_description": "Discover calories in cheesecake factory original slice, including full nutrition breakdown, macros, and variations for better choices.",
+  "slug": "calories-in-cheesecake-factory",
+  "h1": "Calories in Cheesecake Factory Cheesecake",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "cheesecake factory original cheesecake"
+  },
+  "assumptions": "One standard slice of Original Cheesecake from The Cheesecake Factory menu; includes graham cracker crust and cream cheese filling.",
+  "disclaimer": "Nutrition varies by exact recipe, portion size, location, and customizations; check the restaurant's menu or app for latest info.",
+  "quick_answer": {
+    "total_kcal": 1290,
+    "text": "A slice of Original Cheesecake from The Cheesecake Factory packs ~1,290 kcal with high fat and sugar content."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 1290,
+      "carbs_g": 120,
+      "fiber_g": 1,
+      "sugars_g": 99,
+      "protein_g": 19,
+      "fat_g": 84,
+      "sat_fat_g": 47,
+      "trans_fat_g": 2.5,
+      "cholesterol_mg": 340,
+      "sodium_mg": 710
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1290,
+    "carbs_g": 120,
+    "fiber_g": 1,
+    "sugars_g": 99,
+    "protein_g": 19,
+    "fat_g": 84,
+    "sat_fat_g": 47,
+    "trans_fat_g": 2.5,
+    "cholesterol_mg": 340,
+    "sodium_mg": 710
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with menu info.",
+  "equivalents": {
+    "megajoules": 5.4
+  },
+  "tweaks": [
+    {
+      "label": "Add fresh strawberry topping",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 1320
+    },
+    {
+      "label": "Junior portion (half slice)",
+      "delta_kcal_per_unit": -645,
+      "new_total_kcal": 645
+    },
+    {
+      "label": "Low-carb cheesecake alternative",
+      "delta_kcal_per_unit": -400,
+      "new_total_kcal": 890
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in cheesecake factory original slice?",
+      "a": "About 1,290 kcal per standard slice."
+    },
+    {
+      "q": "What are the macros for calories in cheesecake factory cheesecake?",
+      "a": "≈84 g fat, 120 g carbs (99 g sugars), 19 g protein."
+    },
+    {
+      "q": "Is cheesecake factory cheesecake high in sugar?",
+      "a": "Yes, one slice has ~99 g sugars from cream cheese and crust."
+    },
+    {
+      "q": "How does portion size affect calories in cheesecake factory?",
+      "a": "Full slice is 1,290 kcal; half or junior sizes cut it to ~645 kcal."
+    },
+    {
+      "q": "Are there lower calorie options at cheesecake factory?",
+      "a": "Yes, lighter cheesecakes or smaller portions range from 800–1,000 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ground pork",
+  "title": "Calories in Ground Pork",
+  "meta_description": "Discover calories in ground pork per 100 g, including protein, fat, carbs, and full nutrition breakdown for easy meal planning.",
+  "slug": "calories-in-ground-pork",
+  "h1": "Calories in Ground Pork",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "ground pork"
+  },
+  "assumptions": "Regular ground pork (about 20% fat), cooked (pan-broiled), no added seasonings or oils.",
+  "disclaimer": "Nutrition varies by fat content, cooking method, brand, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 297,
+    "text": "100 g of cooked ground pork provides ~297 kcal and ~28 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 297,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 27.9,
+      "fat_g": 16.9,
+      "sat_fat_g": 6.2,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 100,
+      "sodium_mg": 72
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 297,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 27.9,
+    "fat_g": 16.9,
+    "sat_fat_g": 6.2,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 100,
+    "sodium_mg": 72
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.24
+  },
+  "tweaks": [
+    {
+      "label": "Lean ground pork (90% lean, 10% fat)",
+      "delta_kcal_per_unit": -109,
+      "new_total_kcal": 188
+    },
+    {
+      "label": "Add 1 tsp oil during cooking per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 337
+    },
+    {
+      "label": "Raw vs. cooked (shrinkage considered)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 297
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g ground pork?",
+      "a": "About 297 kcal for cooked regular ground pork."
+    },
+    {
+      "q": "What's the protein in ground pork?",
+      "a": "Approximately 28 g protein per 100 g cooked."
+    },
+    {
+      "q": "Does ground pork have carbs?",
+      "a": "No carbs, fiber, or sugars in plain ground pork."
+    },
+    {
+      "q": "How does fat content affect calories in ground pork?",
+      "a": "Higher fat (e.g., 30%) increases calories to ~350 kcal per 100 g; leaner reduces them."
+    },
+    {
+      "q": "Are these values for raw or cooked ground pork?",
+      "a": "Cooked (broiled); raw is lower density but similar per gram after cooking loss."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a pork chop with bone",
+  "title": "Calories in a Pork Chop with Bone",
+  "meta_description": "Learn calories in a pork chop with bone, plus protein, fat, carbs, full nutrition facts, and preparation tweaks for better tracking.",
+  "slug": "calories-in-a-pork-chop-with-bone",
+  "h1": "Calories in a Pork Chop with Bone",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pork chop",
+    "item": "pork chop with bone"
+  },
+  "assumptions": "Bone-in pork loin chop, broiled, separable lean and fat, approx. 113 g edible portion; no added seasonings or sauces.",
+  "disclaimer": "Nutrition varies by cut, size, fat content, cooking method, and brand; bone weight not included in totals. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A bone-in pork chop provides ~250 kcal and ~30 g protein."
+  },
+  "basis": {
+    "label": "per 1 pork chop",
+    "amount": 1,
+    "unit": "pork chop",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 30,
+      "fat_g": 14,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 90,
+      "sodium_mg": 70
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 30,
+    "fat_g": 14,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 90,
+    "sodium_mg": 70
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Trim visible fat before cooking",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Pan-fried with 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 290
+    },
+    {
+      "label": "Breaded and fried",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a pork chop with bone?",
+      "a": "About 250 kcal for one broiled bone-in pork loin chop (113 g edible)."
+    },
+    {
+      "q": "What's the protein in a pork chop with bone?",
+      "a": "Roughly 30 g protein per chop."
+    },
+    {
+      "q": "Does the bone affect calorie count?",
+      "a": "No—calories are based on edible meat portion only; bone adds no nutrition."
+    },
+    {
+      "q": "Are pork chops high in fat?",
+      "a": "Depends on cut; this includes lean and fat at ~14 g total fat per chop."
+    },
+    {
+      "q": "How does cooking method change calories in a pork chop with bone?",
+      "a": "Grilling or broiling keeps it lower; frying or adding oil increases by 40+ kcal."
+    }
+  ]
+}

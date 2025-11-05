@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sweet corn boiled",
+  "title": "Calories in Boiled Sweet Corn",
+  "meta_description": "Discover calories in sweet corn boiled per 100 g, including carbs, protein, fiber, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "calories-in-sweet-corn-boiled",
+  "h1": "Calories in Boiled Sweet Corn",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "boiled sweet corn"
+  },
+  "assumptions": "Fresh yellow sweet corn kernels, boiled without salt or added fat; drained.",
+  "disclaimer": "Nutrition varies by corn variety, freshness, cooking time, and added seasonings. Check labels for canned or frozen versions.",
+  "quick_answer": {
+    "total_kcal": 96,
+    "text": "100 g of boiled sweet corn provides ~96 kcal and ~3.4 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 96,
+      "carbs_g": 21,
+      "fiber_g": 2.7,
+      "sugars_g": 4.5,
+      "protein_g": 3.4,
+      "fat_g": 1.2,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 15
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 96,
+    "carbs_g": 21,
+    "fiber_g": 2.7,
+    "sugars_g": 4.5,
+    "protein_g": 3.4,
+    "fat_g": 1.2,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 15
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp butter per 100 g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 132
+    },
+    {
+      "label": "Canned sweet corn (drained, with added salt)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 101
+    },
+    {
+      "label": "Boiled with 1/2 tsp salt per 100 g",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 96
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g boiled sweet corn?",
+      "a": "Approximately 96 kcal per 100 g of boiled sweet corn kernels."
+    },
+    {
+      "q": "What are the carbs in boiled sweet corn?",
+      "a": "About 21 g carbs, including 2.7 g fiber and 4.5 g sugars per 100 g."
+    },
+    {
+      "q": "Is boiled sweet corn high in protein?",
+      "a": "It provides 3.4 g protein per 100 g, a modest amount for a vegetable."
+    },
+    {
+      "q": "Does boiling affect calories in sweet corn?",
+      "a": "Boiling has minimal impact; calories remain similar to raw, around 96 kcal per 100 g."
+    },
+    {
+      "q": "How does canned compare to fresh boiled sweet corn?",
+      "a": "Canned may add 5–10 kcal per 100 g due to processing, plus higher sodium."
+    }
+  ]
+}

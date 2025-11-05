@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cup heavy cream",
+  "title": "Calories in 1 Cup Heavy Cream",
+  "meta_description": "Learn calories in 1 cup heavy cream, with full nutrition facts including fat, protein, carbs, and variations for your recipes.",
+  "slug": "calories-in-1-cup-heavy-cream",
+  "h1": "Calories in 1 Cup Heavy Cream",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "heavy cream"
+  },
+  "assumptions": "Heavy whipping cream (36-40% fat), liquid, pasteurized, no added sugars or thickeners; 1 cup ≈ 240 ml or 238 g.",
+  "disclaimer": "Nutrition varies by brand, fat percentage, and processing; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 821,
+    "text": "One cup of heavy cream delivers about 821 kcal, primarily from high fat content."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 821,
+      "carbs_g": 6.6,
+      "fiber_g": 0,
+      "sugars_g": 6.6,
+      "protein_g": 5,
+      "fat_g": 88,
+      "sat_fat_g": 55,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 326,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 821,
+    "carbs_g": 6.6,
+    "fiber_g": 0,
+    "sugars_g": 6.6,
+    "protein_g": 5,
+    "fat_g": 88,
+    "sat_fat_g": 55,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 326,
+    "sodium_mg": 100
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.44
+  },
+  "tweaks": [
+    {
+      "label": "Substitute with half-and-half per cup",
+      "delta_kcal_per_unit": -439,
+      "new_total_kcal": 382
+    },
+    {
+      "label": "Add 1 tbsp sugar per cup",
+      "delta_kcal_per_unit": 49,
+      "new_total_kcal": 870
+    },
+    {
+      "label": "Use light cream (lower fat) per cup",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 521
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup heavy cream?",
+      "a": "Approximately 821 kcal for 1 cup of heavy whipping cream."
+    },
+    {
+      "q": "What's the fat content in 1 cup heavy cream?",
+      "a": "About 88 g total fat, including 55 g saturated fat."
+    },
+    {
+      "q": "Does heavy cream have carbs or protein?",
+      "a": "Roughly 6.6 g carbs (all sugars) and 5 g protein per cup."
+    },
+    {
+      "q": "How does heavy cream compare to whipping cream?",
+      "a": "Heavy cream has higher fat (36-40%) and calories than light whipping cream (30-36%)."
+    },
+    {
+      "q": "Is heavy cream keto-friendly for 1 cup?",
+      "a": "Yes, low carbs (6.6 g) but high calories (821 kcal) from fat; portion control advised."
+    }
+  ]
+}

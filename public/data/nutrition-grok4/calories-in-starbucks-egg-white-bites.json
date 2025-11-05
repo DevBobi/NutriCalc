@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in starbucks egg white bites",
+  "title": "Calories in Starbucks Egg White Bites",
+  "meta_description": "Learn calories in Starbucks egg white bites per serving (2 bites), including protein, carbs, fat, sodium, and quick nutrition tweaks for your order.",
+  "slug": "calories-in-starbucks-egg-white-bites",
+  "h1": "Calories in Starbucks Egg White Bites",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 2,
+    "unit": "bites",
+    "item": "starbucks egg white bites"
+  },
+  "assumptions": "Sous vide egg white bites with roasted red pepper, spinach, and feta cheese; standard Starbucks serving of 2 bites (130 g).",
+  "disclaimer": "Nutrition varies by location, exact recipe, and customizations; check Starbucks app or packaging for latest values.",
+  "quick_answer": {
+    "total_kcal": 170,
+    "text": "One serving of 2 Starbucks egg white bites provides ~170 kcal and 12 g protein."
+  },
+  "basis": {
+    "label": "per 2 bites (1 serving)",
+    "amount": 2,
+    "unit": "bites",
+    "nutrition": {
+      "calories_kcal": 170,
+      "carbs_g": 9,
+      "fiber_g": 0,
+      "sugars_g": 3,
+      "protein_g": 12,
+      "fat_g": 11,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 380
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 170,
+    "carbs_g": 9,
+    "fiber_g": 0,
+    "sugars_g": 3,
+    "protein_g": 12,
+    "fat_g": 11,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 380
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.71
+  },
+  "tweaks": [
+    {
+      "label": "Bacon & Gruyere flavor instead of egg white",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Homemade version without feta cheese",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add 1 slice turkey bacon per serving",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 205
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Starbucks egg white bite?",
+      "a": "About 85 kcal per single bite, based on the 170 kcal serving of 2."
+    },
+    {
+      "q": "What is the protein in Starbucks egg white bites?",
+      "a": "12 g protein per serving of 2 bites, mostly from egg whites."
+    },
+    {
+      "q": "Are Starbucks egg white bites low carb?",
+      "a": "Yes, 9 g carbs per 2 bites, with 0 g fiber and 3 g sugars."
+    },
+    {
+      "q": "How much sodium in Starbucks egg white bites?",
+      "a": "380 mg sodium per serving of 2 bites, mainly from feta and seasonings."
+    },
+    {
+      "q": "Can I customize Starbucks egg white bites for fewer calories?",
+      "a": "Request no cheese or modifications; this can reduce calories by 20-50 kcal per serving."
+    }
+  ]
+}

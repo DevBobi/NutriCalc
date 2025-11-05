@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in egg beaters",
+  "title": "Calories in Egg Beaters",
+  "meta_description": "Discover calories in egg beaters per serving, including protein, carbs, fat, sodium, and nutrition tweaks for recipes.",
+  "slug": "calories-in-egg-beaters",
+  "h1": "Calories in Egg Beaters",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "egg beaters"
+  },
+  "assumptions": "Egg Beaters Original liquid egg substitute, per 3 tbsp serving (46g), equivalent to 2 large eggs; no added ingredients.",
+  "disclaimer": "Nutrition varies by product variety, brand, and preparation method. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 25,
+    "text": "One 3 tbsp serving of Egg Beaters provides 25 kcal and 5 g protein."
+  },
+  "basis": {
+    "label": "per 3 tbsp serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 25,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 5,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 170
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 25,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 5,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 170
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp oil for cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 65
+    },
+    {
+      "label": "Switch to Egg Beaters with Yolk",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 45
+    },
+    {
+      "label": "Mix with 1/4 cup spinach",
+      "delta_kcal_per_unit": 7,
+      "new_total_kcal": 32
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of egg beaters?",
+      "a": "About 25 kcal per 3 tbsp serving of Egg Beaters Original."
+    },
+    {
+      "q": "Are egg beaters low in fat?",
+      "a": "Yes, 0 g total fat per serving, making them a cholesterol-free alternative to whole eggs."
+    },
+    {
+      "q": "How much protein in egg beaters?",
+      "a": "5 g protein per 3 tbsp serving, similar to 2 egg whites."
+    },
+    {
+      "q": "Do egg beaters have cholesterol?",
+      "a": "No cholesterol (0 mg) in the original variety."
+    },
+    {
+      "q": "What's the sodium in egg beaters?",
+      "a": "170 mg sodium per 3 tbsp serving; opt for low-sodium versions if needed."
+    }
+  ]
+}

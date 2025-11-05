@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in baked chicken thigh",
+  "title": "Calories in Baked Chicken Thigh",
+  "meta_description": "Discover calories in baked chicken thigh, including protein, fat, carbs, full nutrition breakdown per thigh, and preparation tweaks for better tracking.",
+  "slug": "calories-in-baked-chicken-thigh",
+  "h1": "Calories in Baked Chicken Thigh",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "thigh",
+    "item": "baked chicken thigh"
+  },
+  "assumptions": "Bone-in, skin-on chicken thigh, baked without added oil or seasonings; ~100g edible portion.",
+  "disclaimer": "Nutrition varies by size, skin inclusion, cooking method, and added ingredients. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 229,
+    "text": "One baked chicken thigh with skin provides ~229 kcal and ~23 g protein."
+  },
+  "basis": {
+    "label": "per 1 baked chicken thigh (100g, skin-on)",
+    "amount": 1,
+    "unit": "thigh",
+    "nutrition": {
+      "calories_kcal": 229,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 23,
+      "fat_g": 14,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 102,
+      "sodium_mg": 91
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 229,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 23,
+    "fat_g": 14,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 102,
+    "sodium_mg": 91
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.96
+  },
+  "tweaks": [
+    {
+      "label": "Skinless (remove skin before baking)",
+      "delta_kcal_per_unit": -109,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Add 1 tsp olive oil for baking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 269
+    },
+    {
+      "label": "Boneless thigh (vs. bone-in)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 209
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one baked chicken thigh?",
+      "a": "About 229 kcal for a skin-on, bone-in thigh (~100g)."
+    },
+    {
+      "q": "What's the protein in baked chicken thigh?",
+      "a": "Roughly 23 g protein per skin-on thigh."
+    },
+    {
+      "q": "Does skin affect calories in baked chicken thigh?",
+      "a": "Yes, removing skin cuts ~109 kcal, dropping to ~120 kcal."
+    },
+    {
+      "q": "Are baked chicken thighs low-carb?",
+      "a": "Yes, 0 g carbs per thigh under standard preparation."
+    },
+    {
+      "q": "How does baking vs. frying change calories?",
+      "a": "Baking is lower in fat/calories than frying, which adds ~50-100 kcal from oil."
+    }
+  ]
+}

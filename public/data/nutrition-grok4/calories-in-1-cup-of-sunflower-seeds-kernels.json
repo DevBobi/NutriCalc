@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cup of sunflower seeds kernels",
+  "title": "Calories in 1 Cup Sunflower Seeds Kernels",
+  "meta_description": "Discover calories in 1 cup of sunflower seeds kernels, including protein, fat, carbs, full nutrition breakdown per 100g basis, and preparation tweaks for better tracking.",
+  "slug": "calories-in-1-cup-of-sunflower-seeds-kernels",
+  "h1": "Calories in 1 Cup Sunflower Seeds Kernels",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "sunflower seeds kernels"
+  },
+  "assumptions": "Dry-roasted, unsalted kernels; 1 cup ≈140 g shelled seeds, no added oils or seasonings.",
+  "disclaimer": "Nutrition varies by brand, roast method, moisture, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 817,
+    "text": "1 cup of dry-roasted sunflower seed kernels provides ~817 kcal and ~29 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 584,
+      "carbs_g": 20,
+      "fiber_g": 8.6,
+      "sugars_g": 2.6,
+      "protein_g": 20.8,
+      "fat_g": 51.5,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 9
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 817,
+    "carbs_g": 28,
+    "fiber_g": 12,
+    "sugars_g": 3.6,
+    "protein_g": 29.1,
+    "fat_g": 72.1,
+    "sat_fat_g": 6.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 12.6
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.42
+  },
+  "tweaks": [
+    {
+      "label": "Oil-roasted (vs dry-roasted)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 887
+    },
+    {
+      "label": "Salted version (added sodium, no kcal change)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 817
+    },
+    {
+      "label": "Add 1 tsp olive oil per cup",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 857
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup of sunflower seeds kernels?",
+      "a": "Approximately 817 kcal for 1 cup (140 g) dry-roasted, unsalted kernels."
+    },
+    {
+      "q": "What is the protein content in 1 cup sunflower seeds?",
+      "a": "About 29 g protein per cup."
+    },
+    {
+      "q": "Are sunflower seeds kernels high in fat?",
+      "a": "Yes, ~72 g total fat per cup, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "How much fiber in 1 cup of sunflower seeds kernels?",
+      "a": "Around 12 g dietary fiber, supporting digestion."
+    },
+    {
+      "q": "Do sunflower seeds have cholesterol?",
+      "a": "No cholesterol (0 mg) as they are plant-based."
+    }
+  ]
+}

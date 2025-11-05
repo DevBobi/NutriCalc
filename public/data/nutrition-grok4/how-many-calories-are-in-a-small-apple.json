@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a small apple",
+  "title": "How Many Calories Are in a Small Apple?",
+  "meta_description": "Discover how many calories are in a small apple, including carbs, fiber, sugars, protein, fat, and quick tweaks for variations.",
+  "slug": "how-many-calories-are-in-a-small-apple",
+  "h1": "How Many Calories Are in a Small Apple?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "apple",
+    "item": "small apple"
+  },
+  "assumptions": "Small apple (~125 g with skin), raw, no added toppings or processing.",
+  "disclaimer": "Nutrition varies by apple variety, size, ripeness, and growing conditions. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 52,
+    "text": "A small apple provides ~52 kcal and ~2.4 g fiber."
+  },
+  "basis": {
+    "label": "per 1 small apple",
+    "amount": 1,
+    "unit": "apple",
+    "nutrition": {
+      "calories_kcal": 52,
+      "carbs_g": 13.8,
+      "fiber_g": 2.4,
+      "sugars_g": 10.4,
+      "protein_g": 0.3,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 52,
+    "carbs_g": 13.8,
+    "fiber_g": 2.4,
+    "sugars_g": 10.4,
+    "protein_g": 0.3,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.22
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -3,
+      "new_total_kcal": 49
+    },
+    {
+      "label": "With 1 tbsp peanut butter",
+      "delta_kcal_per_unit": 94,
+      "new_total_kcal": 146
+    },
+    {
+      "label": "Baked without added sugar",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a small apple?",
+      "a": "About 52 kcal for a small apple (~125 g)."
+    },
+    {
+      "q": "What are the carbs in a small apple?",
+      "a": "Approximately 13.8 g carbs, including 2.4 g fiber and 10.4 g sugars."
+    },
+    {
+      "q": "Does a small apple have protein or fat?",
+      "a": "Very little: 0.3 g protein and 0.2 g fat."
+    },
+    {
+      "q": "How does apple size affect calories?",
+      "a": "Small apples (~125 g) have fewer calories than medium (~182 g, ~95 kcal) or large."
+    },
+    {
+      "q": "Are apples low in sodium and cholesterol?",
+      "a": "Yes, typically 1 mg sodium and 0 mg cholesterol per small apple."
+    }
+  ]
+}

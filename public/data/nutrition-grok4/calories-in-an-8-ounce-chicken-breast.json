@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in an 8 ounce chicken breast",
+  "title": "Calories in an 8 Ounce Chicken Breast",
+  "meta_description": "Learn calories in an 8 ounce chicken breast, plus protein, fat, carbs, full nutrition facts, and preparation tweaks for accurate tracking.",
+  "slug": "calories-in-an-8-ounce-chicken-breast",
+  "h1": "Calories in an 8 Ounce Chicken Breast",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 8,
+    "unit": "ounce",
+    "item": "chicken breast"
+  },
+  "assumptions": "Skinless, boneless, cooked (grilled or roasted), no added oil or seasonings; 8 oz ≈ 227 g.",
+  "disclaimer": "Nutrition varies by cut, cooking method, added ingredients, and exact weight; check labels or use a scale for precision.",
+  "quick_answer": {
+    "total_kcal": 375,
+    "text": "An 8-ounce cooked skinless chicken breast provides about 375 kcal and 70 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 31,
+      "fat_g": 3.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 74
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 375,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 70,
+    "fat_g": 8.2,
+    "sat_fat_g": 2.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 193,
+    "sodium_mg": 168
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged foods.",
+  "equivalents": {
+    "megajoules": 1.57
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil per 100 g during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 466
+    },
+    {
+      "label": "Skin-on preparation (vs. skinless) per 100 g",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 477
+    },
+    {
+      "label": "Breaded and fried (vs. grilled) per 100 g",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 600
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in an 8 ounce chicken breast?",
+      "a": "Approximately 375 kcal for cooked, skinless boneless chicken breast."
+    },
+    {
+      "q": "How much protein in an 8 ounce chicken breast?",
+      "a": "About 70 g of protein, making it a high-protein lean meat option."
+    },
+    {
+      "q": "Are these calories for raw or cooked chicken breast?",
+      "a": "Cooked weight; raw 8 oz would be higher due to water loss during cooking."
+    },
+    {
+      "q": "Does adding marinade change calories in chicken breast?",
+      "a": "Yes, sugary or oil-based marinades can add 20–50 kcal per 100 g."
+    },
+    {
+      "q": "What if the chicken breast has skin?",
+      "a": "Skin adds about 45 kcal per 100 g, increasing total to around 477 kcal for 8 oz."
+    }
+  ]
+}

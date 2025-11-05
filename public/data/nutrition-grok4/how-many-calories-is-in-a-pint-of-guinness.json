@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in a pint of guinness",
+  "title": "How Many Calories in a Pint of Guinness?",
+  "meta_description": "Discover how many calories is in a pint of Guinness, including carbs, alcohol content, full nutrition breakdown, and serving tweaks for better choices.",
+  "slug": "how-many-calories-is-in-a-pint-of-guinness",
+  "h1": "How Many Calories in a Pint of Guinness?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pint",
+    "item": "Guinness"
+  },
+  "assumptions": "Standard Guinness Draught, 4.2% ABV, UK imperial pint (568 ml), poured from can or tap, no added flavors.",
+  "disclaimer": "Nutrition varies by brand variant, ABV, serving size, and pouring method. Check labels or brewery info when available.",
+  "quick_answer": {
+    "total_kcal": 210,
+    "text": "A pint of Guinness contains about 210 calories, mostly from carbs and alcohol."
+  },
+  "basis": {
+    "label": "per 1 pint (568 ml)",
+    "amount": 1,
+    "unit": "pint",
+    "nutrition": {
+      "calories_kcal": 210,
+      "carbs_g": 9.9,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.3,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 20
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 210,
+    "carbs_g": 9.9,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.3,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 20
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.88
+  },
+  "tweaks": [
+    {
+      "label": "Guinness Extra Stout (higher ABV variant)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "American pint size (473 ml vs. 568 ml)",
+      "delta_kcal_per_unit": -35,
+      "new_total_kcal": 175
+    },
+    {
+      "label": "Low-alcohol or non-alcoholic version",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in a pint of Guinness?",
+      "a": "Approximately 210 calories for a standard UK pint."
+    },
+    {
+      "q": "What are the carbs in a pint of Guinness?",
+      "a": "About 9.9 g of carbohydrates, primarily from malt."
+    },
+    {
+      "q": "Does Guinness have protein or fat?",
+      "a": "Minimal: 0.3 g protein and 0 g fat per pint."
+    },
+    {
+      "q": "How does Guinness compare to other beers calorie-wise?",
+      "a": "Lower than many lagers (e.g., ~150-200 kcal/pint) due to its creamy texture but similar ABV."
+    },
+    {
+      "q": "Is Guinness lower calorie than regular beer?",
+      "a": "Often yes, around 210 kcal vs. 200-250 for standard beers, but varies by type."
+    }
+  ]
+}

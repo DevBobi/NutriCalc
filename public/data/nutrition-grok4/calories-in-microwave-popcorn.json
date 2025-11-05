@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in microwave popcorn",
+  "title": "Calories in Microwave Popcorn",
+  "meta_description": "Get calories in microwave popcorn per 100g, plus carbs, fat, protein, sodium, and tweaks for plain vs. butter varieties to fit your diet.",
+  "slug": "calories-in-microwave-popcorn",
+  "h1": "Calories in Microwave Popcorn",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "microwave popcorn"
+  },
+  "assumptions": "Butter-flavored, popped, made with palm oil; standard commercial brand like Orville Redenbacher's.",
+  "disclaimer": "Nutrition varies by brand, flavor, oil type, popping completeness, and serving size. Check package labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 535,
+    "text": "100g of butter microwave popcorn has ~535 kcal, mostly from fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 535,
+      "carbs_g": 46.5,
+      "fiber_g": 9.2,
+      "sugars_g": 0.5,
+      "protein_g": 7.3,
+      "fat_g": 34.8,
+      "sat_fat_g": 15.3,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 0,
+      "sodium_mg": 805
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 535,
+    "carbs_g": 46.5,
+    "fiber_g": 9.2,
+    "sugars_g": 0.5,
+    "protein_g": 7.3,
+    "fat_g": 34.8,
+    "sat_fat_g": 15.3,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 0,
+    "sodium_mg": 805
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.24
+  },
+  "tweaks": [
+    {
+      "label": "Switch to plain (light) microwave popcorn",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 335
+    },
+    {
+      "label": "Movie theater butter style (extra oil)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 635
+    },
+    {
+      "label": "Kettle corn flavor (added sugar)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 585
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bag of microwave popcorn?",
+      "a": "A typical 100g bag (popped) has about 535 kcal for butter flavor; plain is lower at ~300-400 kcal."
+    },
+    {
+      "q": "Is microwave popcorn high in fat?",
+      "a": "Yes, butter varieties have ~35g fat per 100g, mostly saturated from palm oil."
+    },
+    {
+      "q": "What's the protein in microwave popcorn?",
+      "a": "About 7g protein per 100g, making it a low-protein snack."
+    },
+    {
+      "q": "Does microwave popcorn have fiber?",
+      "a": "Yes, around 9g dietary fiber per 100g from the corn kernels."
+    },
+    {
+      "q": "How does sodium in microwave popcorn compare?",
+      "a": "High at ~800mg per 100g; opt for low-sodium versions to reduce intake."
+    }
+  ]
+}

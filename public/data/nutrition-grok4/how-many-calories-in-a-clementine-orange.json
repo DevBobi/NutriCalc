@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a clementine orange",
+  "title": "How Many Calories in a Clementine Orange?",
+  "meta_description": "Discover how many calories in a clementine orange, including carbs, fiber, sugars, protein, fat, and quick nutrition tweaks for easy tracking.",
+  "slug": "how-many-calories-in-a-clementine-orange",
+  "h1": "How Many Calories in a Clementine Orange?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "orange",
+    "item": "clementine orange"
+  },
+  "assumptions": "Average medium clementine (~74 g edible portion), fresh, peeled, no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by size, ripeness, variety, and growing conditions. Check labels or apps for specifics when available.",
+  "quick_answer": {
+    "total_kcal": 35,
+    "text": "A single clementine orange provides about 35 kcal and 1.7 g of fiber."
+  },
+  "basis": {
+    "label": "per 1 clementine orange",
+    "amount": 1,
+    "unit": "orange",
+    "nutrition": {
+      "calories_kcal": 35,
+      "carbs_g": 8.9,
+      "fiber_g": 1.7,
+      "sugars_g": 7.3,
+      "protein_g": 0.6,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 35,
+    "carbs_g": 8.9,
+    "fiber_g": 1.7,
+    "sugars_g": 7.3,
+    "protein_g": 0.6,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.15
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp honey drizzle",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 56
+    },
+    {
+      "label": "In a smoothie with 100 ml yogurt",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 95
+    },
+    {
+      "label": "Paired with 10 almonds",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 105
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one clementine orange?",
+      "a": "Approximately 35 kcal for a medium clementine."
+    },
+    {
+      "q": "What are the carbs in a clementine orange?",
+      "a": "About 8.9 g total carbs, including 1.7 g fiber and 7.3 g sugars."
+    },
+    {
+      "q": "Is a clementine orange low in fat?",
+      "a": "Yes, only 0.2 g fat per clementine, with no saturated or trans fats."
+    },
+    {
+      "q": "How does clementine compare to other oranges?",
+      "a": "Clementines are smaller and sweeter; a navel orange (130 g) has ~62 kcal."
+    },
+    {
+      "q": "Are clementines good for fiber intake?",
+      "a": "Yes, one provides 1.7 g fiber, aiding digestion and satiety."
+    }
+  ]
+}

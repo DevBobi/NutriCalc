@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in refried beans",
+  "title": "How Many Calories in Refried Beans?",
+  "meta_description": "Learn how many calories in refried beans per 100 g serving, including carbs, protein, fat, sodium details, and preparation tweaks for your diet.",
+  "slug": "how-many-calories-in-refried-beans",
+  "h1": "How Many Calories in Refried Beans?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "refried beans"
+  },
+  "assumptions": "Canned refried pinto beans, traditional preparation with lard; no added toppings or seasonings.",
+  "disclaimer": "Nutrition varies by brand, type (pinto vs. black), fat content (lard vs. oil), and cooking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 144,
+    "text": "100 g of refried beans provides ~144 kcal, 7 g protein, and 20 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 144,
+      "carbs_g": 19.9,
+      "fiber_g": 6.4,
+      "sugars_g": 0.3,
+      "protein_g": 6.8,
+      "fat_g": 2.1,
+      "sat_fat_g": 0.8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 647
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 144,
+    "carbs_g": 19.9,
+    "fiber_g": 6.4,
+    "sugars_g": 0.3,
+    "protein_g": 6.8,
+    "fat_g": 2.1,
+    "sat_fat_g": 0.8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 647
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.6
+  },
+  "tweaks": [
+    {
+      "label": "Vegetarian version (oil instead of lard) per 100 g",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 124
+    },
+    {
+      "label": "Add 1 tbsp shredded cheese per 100 g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 194
+    },
+    {
+      "label": "Homemade with less oil per 100 g",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 114
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of refried beans?",
+      "a": "About 144 kcal per 100 g; a typical 1/2 cup serving (~130 g) is around 187 kcal."
+    },
+    {
+      "q": "Are refried beans high in sodium?",
+      "a": "Yes, canned versions have ~647 mg sodium per 100 g—opt for low-sodium if watching intake."
+    },
+    {
+      "q": "How much protein in refried beans?",
+      "a": "Roughly 6.8 g protein per 100 g, making them a decent plant-based source."
+    },
+    {
+      "q": "Do refried beans have fiber?",
+      "a": "Yes, about 6.4 g dietary fiber per 100 g, aiding digestion."
+    },
+    {
+      "q": "What's the difference in calories for black vs. pinto refried beans?",
+      "a": "Similar; black beans may have slightly more fiber but comparable calories (~140-150 kcal per 100 g)."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in croissant costco",
+  "title": "Calories in Costco Croissant",
+  "meta_description": "Learn calories in croissant costco: a plain butter croissant packs ~360 kcal, with carbs, fat, protein, and full nutrition details inside.",
+  "slug": "calories-in-croissant-costco",
+  "h1": "Calories in Costco Croissant",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "croissant",
+    "item": "Costco croissant"
+  },
+  "assumptions": "Plain butter croissant from Costco bakery, ~70 g, fresh-baked with standard ingredients; no fillings or toppings.",
+  "disclaimer": "Nutrition varies by batch, size, and exact recipe; Costco values may differ slightly. Check packaging or app for latest info.",
+  "quick_answer": {
+    "total_kcal": 360,
+    "text": "One Costco plain croissant provides ~360 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 croissant",
+    "amount": 1,
+    "unit": "croissant",
+    "nutrition": {
+      "calories_kcal": 360,
+      "carbs_g": 42,
+      "fiber_g": 1,
+      "sugars_g": 6,
+      "protein_g": 6,
+      "fat_g": 20,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 320
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 360,
+    "carbs_g": 42,
+    "fiber_g": 1,
+    "sugars_g": 6,
+    "protein_g": 6,
+    "fat_g": 20,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 320
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.51
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 pat of butter (~5 g)",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 396
+    },
+    {
+      "label": "Choose almond-filled croissant",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Opt for chocolate croissant",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 420
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Costco croissant?",
+      "a": "About 360 kcal for one plain butter croissant."
+    },
+    {
+      "q": "What are the carbs in Costco croissant?",
+      "a": "Roughly 42 g total carbs, with 1 g fiber and 6 g sugars."
+    },
+    {
+      "q": "Is a Costco croissant high in fat?",
+      "a": "Yes, ~20 g total fat, including 10 g saturated fat per croissant."
+    },
+    {
+      "q": "How much protein in calories in croissant costco?",
+      "a": "Around 6 g protein per plain Costco croissant."
+    },
+    {
+      "q": "Do Costco croissants vary in calories by type?",
+      "a": "Yes—plain is ~360 kcal; filled varieties like almond or chocolate add 60–140 kcal."
+    }
+  ]
+}

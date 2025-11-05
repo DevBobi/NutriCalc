@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in diet cola",
+  "title": "How Many Calories in Diet Cola?",
+  "meta_description": "Discover how many calories in diet cola per can, including full nutrition breakdown, zero-sugar facts, and common variations for your diet tracking.",
+  "slug": "how-many-calories-in-diet-cola",
+  "h1": "How Many Calories in Diet Cola?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "diet cola"
+  },
+  "assumptions": "Standard 12 oz (355 ml) can of diet cola, artificially sweetened, zero-calorie formula; no added flavors or mix-ins.",
+  "disclaimer": "Nutrition varies by brand, formulation, and serving size; always check labels for exact values as sweeteners and sodium can differ.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "A standard 12 oz can of diet cola contains 0 calories and 0 g sugar."
+  },
+  "basis": {
+    "label": "per 12 oz can",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 40
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 40
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Switch to regular cola (full sugar version)",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add a splash of fruit juice (1 oz per can)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 15
+    },
+    {
+      "label": "Zero-sodium diet cola variant",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a can of diet cola?",
+      "a": "Typically 0 calories in a 12 oz can of diet cola."
+    },
+    {
+      "q": "Does diet cola have any carbs or sugar?",
+      "a": "No carbs or sugars; it's sweetened with artificial zero-calorie sweeteners."
+    },
+    {
+      "q": "What's the sodium content in diet cola?",
+      "a": "About 40 mg per 12 oz can, varying by brand."
+    },
+    {
+      "q": "Is diet cola truly zero calories?",
+      "a": "Yes, most brands are 0 kcal, but trace amounts under 5 kcal may not be listed."
+    },
+    {
+      "q": "How does diet cola compare to regular cola calories?",
+      "a": "Diet has 0 kcal vs. about 140 kcal in regular 12 oz cola due to sugar."
+    }
+  ]
+}

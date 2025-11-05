@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in wraps at subway",
+  "title": "Calories in Wraps at Subway",
+  "meta_description": "Discover calories in wraps at subway, including macros, sodium, and variations for popular options like turkey or chicken wraps.",
+  "slug": "calories-in-wraps-at-subway",
+  "h1": "Calories in Wraps at Subway",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "wrap",
+    "item": "Subway wrap"
+  },
+  "assumptions": "Standard 11-inch wrap with turkey breast, lettuce, tomatoes, cucumbers, onions, green peppers, and 1 tbsp light mayo; no cheese or extra sauces.",
+  "disclaimer": "Nutrition varies by location, customizations, portion sizes, and exact ingredients. Check Subway's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 430,
+    "text": "A standard Subway turkey wrap has about 430 calories and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 wrap",
+    "amount": 1,
+    "unit": "wrap",
+    "nutrition": {
+      "calories_kcal": 430,
+      "carbs_g": 50,
+      "fiber_g": 5,
+      "sugars_g": 5,
+      "protein_g": 25,
+      "fat_g": 10,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 430,
+    "carbs_g": 50,
+    "fiber_g": 5,
+    "sugars_g": 5,
+    "protein_g": 25,
+    "fat_g": 10,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.8
+  },
+  "tweaks": [
+    {
+      "label": "Add provolone cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 480
+    },
+    {
+      "label": "Veggie Delite version (no meat)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Chicken teriyaki instead of turkey",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 450
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a turkey wrap at Subway?",
+      "a": "About 430 calories for a standard turkey breast wrap with veggies and light mayo."
+    },
+    {
+      "q": "What are the carbs in wraps at Subway?",
+      "a": "Typically 50 g carbs per wrap, mostly from the flatbread."
+    },
+    {
+      "q": "Are Subway wraps high in sodium?",
+      "a": "Yes, around 1200 mg per wrap due to bread and meats—watch if on a low-sodium diet."
+    },
+    {
+      "q": "Calories in a veggie wrap at Subway?",
+      "a": "A Veggie Delite wrap is about 230-280 calories, lower without protein."
+    },
+    {
+      "q": "How does customization affect calories in wraps at Subway?",
+      "a": "Extras like cheese (+50 kcal), double meat (+100-200 kcal), or sauces can add 50-300 calories."
+    }
+  ]
+}

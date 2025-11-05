@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a tuna fish sandwich",
+  "title": "How Many Calories in a Tuna Fish Sandwich?",
+  "meta_description": "Discover how many calories in a tuna fish sandwich, including full nutrition breakdown, protein, fat, carbs, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-tuna-fish-sandwich",
+  "h1": "How Many Calories in a Tuna Fish Sandwich?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "tuna fish sandwich"
+  },
+  "assumptions": "Standard recipe: 100 g canned tuna in water (drained), 1 tbsp mayonnaise, diced celery/onion, on 2 slices white bread; no added cheese or veggies.",
+  "disclaimer": "Nutrition varies by brand, recipe, bread type, mayo amount, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 380,
+    "text": "A typical tuna fish sandwich contains about 380 kcal and 20 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 380,
+      "carbs_g": 35,
+      "fiber_g": 2,
+      "sugars_g": 4,
+      "protein_g": 20,
+      "fat_g": 15,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 40,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 380,
+    "carbs_g": 35,
+    "fiber_g": 2,
+    "sugars_g": 4,
+    "protein_g": 20,
+    "fat_g": 15,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 40,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.59
+  },
+  "tweaks": [
+    {
+      "label": "Use light mayonnaise (1 tbsp)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Switch to whole wheat bread (2 slices)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Add 1 slice cheddar cheese",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 480
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a tuna fish sandwich with mayo?",
+      "a": "About 380 kcal for a standard version with 1 tbsp mayo."
+    },
+    {
+      "q": "What's the protein in a tuna fish sandwich?",
+      "a": "Roughly 20 g protein from the tuna and bread."
+    },
+    {
+      "q": "Are tuna sandwiches high in sodium?",
+      "a": "Yes, around 800 mg due to canned tuna and bread; opt for low-sodium tuna to reduce."
+    },
+    {
+      "q": "How to lower calories in a tuna fish sandwich?",
+      "a": "Use light mayo, Greek yogurt instead, or more veggies and less tuna for under 300 kcal."
+    },
+    {
+      "q": "Does bread type affect calories in tuna sandwiches?",
+      "a": "White bread adds ~150 kcal for 2 slices; whole grain is similar but offers more fiber."
+    }
+  ]
+}

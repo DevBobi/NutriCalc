@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a scrambled egg",
+  "title": "How Many Calories in a Scrambled Egg?",
+  "meta_description": "Discover how many calories in a scrambled egg, including protein, fat, carbs, and full nutrition breakdown with tweaks and FAQs for better meal planning.",
+  "slug": "how-many-calories-in-a-scrambled-egg",
+  "h1": "How Many Calories in a Scrambled Egg?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "egg",
+    "item": "scrambled egg"
+  },
+  "assumptions": "One large egg (~50 g) scrambled with 1 tsp butter and 1 tbsp low-fat milk; no added salt or other ingredients.",
+  "disclaimer": "Nutrition varies by egg size, added fats, milk type, and cooking method. Check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 91,
+    "text": "A single scrambled egg provides about 91 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 scrambled egg",
+    "amount": 1,
+    "unit": "egg",
+    "nutrition": {
+      "calories_kcal": 91,
+      "carbs_g": 0.4,
+      "fiber_g": 0,
+      "sugars_g": 0.4,
+      "protein_g": 6,
+      "fat_g": 6.7,
+      "sat_fat_g": 2.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 186,
+      "sodium_mg": 71
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 91,
+    "carbs_g": 0.4,
+    "fiber_g": 0,
+    "sugars_g": 0.4,
+    "protein_g": 6,
+    "fat_g": 6.7,
+    "sat_fat_g": 2.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 186,
+    "sodium_mg": 71
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Scrambled without butter (non-stick pan only)",
+      "delta_kcal_per_unit": -35,
+      "new_total_kcal": 56
+    },
+    {
+      "label": "Add 1 tbsp shredded cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 141
+    },
+    {
+      "label": "Use whole milk instead of low-fat",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 96
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one scrambled egg?",
+      "a": "Approximately 91 kcal for a large egg scrambled with minimal butter and milk."
+    },
+    {
+      "q": "What's the protein in a scrambled egg?",
+      "a": "About 6 g of protein per scrambled egg."
+    },
+    {
+      "q": "Do scrambled eggs have a lot of fat?",
+      "a": "Around 6.7 g total fat, including 2.1 g saturated fat, depending on added butter."
+    },
+    {
+      "q": "How does scrambling affect egg calories vs. boiled?",
+      "a": "Scrambled adds calories from fats or milk; a boiled egg is about 78 kcal without extras."
+    },
+    {
+      "q": "Can I make low-calorie scrambled eggs?",
+      "a": "Yes, skip butter and use non-stick spray for under 80 kcal per egg."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in coors light",
+  "title": "How Many Calories in Coors Light?",
+  "meta_description": "Learn how many calories in Coors Light for a standard 12 oz serving, including carbs, protein, sodium, and full nutrition breakdown with tweaks.",
+  "slug": "how-many-calories-in-coors-light",
+  "h1": "How Many Calories in Coors Light?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "Coors Light"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) bottle or can of Coors Light lager beer, chilled, no additives.",
+  "disclaimer": "Nutrition varies by serving size, regional formulation, and brewing batch. Check the label for exact values.",
+  "quick_answer": {
+    "total_kcal": 102,
+    "text": "One 12 oz Coors Light contains 102 kcal and 5 g carbs."
+  },
+  "basis": {
+    "label": "per 1 bottle (12 fl oz)",
+    "amount": 1,
+    "unit": "bottle",
+    "nutrition": {
+      "calories_kcal": 102,
+      "carbs_g": 5,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 102,
+    "carbs_g": 5,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.43
+  },
+  "tweaks": [
+    {
+      "label": "16 oz serving (pint) instead of 12 oz",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 136
+    },
+    {
+      "label": "Coors Light with lime wedge (adds negligible calories)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 104
+    },
+    {
+      "label": "Compared to regular Coors (higher carb version)",
+      "delta_kcal_per_unit": 48,
+      "new_total_kcal": 150
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Coors Light bottle?",
+      "a": "A standard 12 oz Coors Light has 102 calories."
+    },
+    {
+      "q": "What are the carbs in Coors Light?",
+      "a": "About 5 g of carbohydrates per 12 oz serving, with 0 g fiber and sugars."
+    },
+    {
+      "q": "Does Coors Light have protein or fat?",
+      "a": "It has 1 g protein and 0 g total fat per bottle."
+    },
+    {
+      "q": "How much sodium is in Coors Light?",
+      "a": "Approximately 10 mg of sodium per 12 oz serving."
+    },
+    {
+      "q": "Are there calories in Coors Light compared to other light beers?",
+      "a": "Coors Light is low at 102 kcal per 12 oz; similar to many light beers but varies by brand."
+    }
+  ]
+}

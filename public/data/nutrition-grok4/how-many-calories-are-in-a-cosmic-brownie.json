@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a cosmic brownie",
+  "title": "How Many Calories Are in a Cosmic Brownie?",
+  "meta_description": "Discover how many calories are in a cosmic brownie, including full nutrition breakdown like carbs, fat, protein, and easy tweaks for variations.",
+  "slug": "how-many-calories-are-in-a-cosmic-brownie",
+  "h1": "How Many Calories Are in a Cosmic Brownie?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "brownie",
+    "item": "cosmic brownie"
+  },
+  "assumptions": "Standard Little Debbie Cosmic Brownie; one individually wrapped serving (50 g) with chocolate icing and candy sprinkles.",
+  "disclaimer": "Nutrition varies by brand, recipe, size, and ingredients; check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 360,
+    "text": "A cosmic brownie has about 360 calories, with high sugar and fat content."
+  },
+  "basis": {
+    "label": "per 1 cosmic brownie",
+    "amount": 1,
+    "unit": "brownie",
+    "nutrition": {
+      "calories_kcal": 360,
+      "carbs_g": 48,
+      "fiber_g": 1,
+      "sugars_g": 32,
+      "protein_g": 2,
+      "fat_g": 18,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 180
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 360,
+    "carbs_g": 48,
+    "fiber_g": 1,
+    "sugars_g": 32,
+    "protein_g": 2,
+    "fat_g": 18,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 180
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.51
+  },
+  "tweaks": [
+    {
+      "label": "Remove the icing topping",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Add a scoop of vanilla ice cream",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Homemade with whole wheat flour and less sugar",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a cosmic brownie?",
+      "a": "Approximately 360 calories per standard cosmic brownie."
+    },
+    {
+      "q": "What are the carbs in a cosmic brownie?",
+      "a": "About 48 g of carbs, including 32 g of sugars."
+    },
+    {
+      "q": "Is a cosmic brownie high in fat?",
+      "a": "Yes, it contains 18 g of total fat, with 8 g saturated."
+    },
+    {
+      "q": "How much protein is in a cosmic brownie?",
+      "a": "Only about 2 g of protein per brownie."
+    },
+    {
+      "q": "Do cosmic brownies have trans fats?",
+      "a": "Typically 0 g trans fat in standard brands like Little Debbie."
+    }
+  ]
+}

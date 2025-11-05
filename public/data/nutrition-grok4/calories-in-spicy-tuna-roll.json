@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in spicy tuna roll",
+  "title": "Calories in a Spicy Tuna Roll",
+  "meta_description": "Discover calories in spicy tuna roll, including full nutrition breakdown per roll, macros, and variations for your sushi tracking.",
+  "slug": "calories-in-spicy-tuna-roll",
+  "h1": "Calories in a Spicy Tuna Roll",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "roll",
+    "item": "spicy tuna roll"
+  },
+  "assumptions": "Standard 6-8 piece roll with raw tuna, spicy mayo, sushi rice, nori, and minimal veggies; no sides or dipping sauce.",
+  "disclaimer": "Nutrition varies by restaurant, portion size, rice type, and mayo amount. Check menus or apps for exact values.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "A typical spicy tuna roll has about 290 kcal, with 13 g protein and 11 g fat."
+  },
+  "basis": {
+    "label": "per 1 roll (6-8 pieces)",
+    "amount": 1,
+    "unit": "roll",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 38,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 13,
+      "fat_g": 11,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 38,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 13,
+    "fat_g": 11,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Skip the spicy mayo",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Add avocado slices",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Use brown rice instead of white",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a spicy tuna roll?",
+      "a": "Approximately 290 kcal for a standard 6-8 piece roll."
+    },
+    {
+      "q": "What's the protein in spicy tuna roll?",
+      "a": "About 13 g protein, mainly from the tuna."
+    },
+    {
+      "q": "Are spicy tuna rolls high in sodium?",
+      "a": "Yes, around 600 mg per roll due to rice seasoning and soy elements."
+    },
+    {
+      "q": "How does spicy mayo affect calories in spicy tuna roll?",
+      "a": "It adds about 50 kcal; skipping it reduces totals to ~240 kcal."
+    },
+    {
+      "q": "Is spicy tuna roll keto-friendly?",
+      "a": "No, with 38 g carbs from rice; opt for modifications like no rice."
+    }
+  ]
+}

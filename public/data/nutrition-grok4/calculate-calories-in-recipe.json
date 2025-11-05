@@ -1,0 +1,92 @@
+{
+  "keyword": "calculate calories in recipe",
+  "title": "How to Calculate Calories in a Recipe",
+  "meta_description": "Learn how to calculate calories in recipe using ingredient breakdowns, tools, and a sample nutrition profile for accurate tracking.",
+  "slug": "calculate-calories-in-recipe",
+  "h1": "How to Calculate Calories in a Recipe",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "sample recipe"
+  },
+  "assumptions": "Sample balanced meal recipe (e.g., grilled chicken with veggies and rice) for 1 serving; standard portions, no added oils beyond minimal.",
+  "disclaimer": "Nutrition varies by exact ingredients, portions, brands, and preparation. Use nutrition databases or apps for precise calculations; consult labels.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "A typical single-serving recipe has about 450 kcal, adjustable based on ingredients."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 50,
+      "fiber_g": 5,
+      "sugars_g": 8,
+      "protein_g": 35,
+      "fat_g": 15,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 90,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 50,
+    "fiber_g": 5,
+    "sugars_g": 8,
+    "protein_g": 35,
+    "fat_g": 15,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 90,
+    "sodium_mg": 600
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with your recipe totals.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp olive oil for cooking",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 570
+    },
+    {
+      "label": "Swap rice for quinoa (per serving)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Increase vegetable portion by 50g",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 435
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How do I calculate calories in recipe ingredients?",
+      "a": "List all ingredients with quantities, look up each per gram or unit in a database like USDA, then sum the calories."
+    },
+    {
+      "q": "What tools help calculate calories in recipe?",
+      "a": "Use apps like MyFitnessPal, Cronometer, or online calculators; input ingredients for automatic totals."
+    },
+    {
+      "q": "Does cooking method affect calories in recipe?",
+      "a": "Yes—frying adds oil calories, while baking or steaming keeps them lower; account for added fats."
+    },
+    {
+      "q": "How to scale calories in recipe for servings?",
+      "a": "Divide total recipe calories by number of servings; adjust for portion sizes accurately."
+    },
+    {
+      "q": "Why track macros when calculating calories in recipe?",
+      "a": "Calories alone miss protein, carbs, fats balance; full nutrition aids diet goals like weight loss or muscle gain."
+    }
+  ]
+}

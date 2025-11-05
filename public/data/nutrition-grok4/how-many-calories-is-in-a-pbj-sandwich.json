@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in a pbj sandwich",
+  "title": "How Many Calories in a PBJ Sandwich?",
+  "meta_description": "Discover how many calories is in a pbj sandwich, including full nutrition breakdown, macros, and easy tweaks for variations.",
+  "slug": "how-many-calories-is-in-a-pbj-sandwich",
+  "h1": "How Many Calories in a PBJ Sandwich?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "pbj sandwich"
+  },
+  "assumptions": "Standard PBJ: 2 slices white bread, 2 tbsp creamy peanut butter, 1 tbsp grape jelly; no added butter or crust removal.",
+  "disclaimer": "Nutrition varies by bread type, peanut butter brand, jelly sweetness, portion sizes, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 380,
+    "text": "A standard PBJ sandwich has about 380 kcal, with high carbs from bread and jelly plus protein and fat from peanut butter."
+  },
+  "basis": {
+    "label": "per 1 PBJ sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 380,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sugars_g": 18,
+      "protein_g": 13,
+      "fat_g": 18,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 450
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 380,
+    "carbs_g": 48,
+    "fiber_g": 3,
+    "sugars_g": 18,
+    "protein_g": 13,
+    "fat_g": 18,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 450
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.59
+  },
+  "tweaks": [
+    {
+      "label": "Use whole wheat bread instead of white",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Reduce to 1 tbsp peanut butter",
+      "delta_kcal_per_unit": -94,
+      "new_total_kcal": 286
+    },
+    {
+      "label": "Add 1 tsp butter for grilling",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 414
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in a pbj sandwich?",
+      "a": "Approximately 380 kcal for a standard version with 2 slices white bread, 2 tbsp PB, and 1 tbsp jelly."
+    },
+    {
+      "q": "What's the protein in a PBJ sandwich?",
+      "a": "About 13 g, mostly from the peanut butter."
+    },
+    {
+      "q": "Are PBJ sandwiches high in sugar?",
+      "a": "Yes, around 18 g total sugars, mainly from jelly and bread."
+    },
+    {
+      "q": "How to lower calories in a PBJ sandwich?",
+      "a": "Use less peanut butter, opt for low-sugar jelly, or choose whole grain bread to cut ~20-100 kcal."
+    },
+    {
+      "q": "Does bread type affect PBJ calories?",
+      "a": "White bread adds more carbs; whole wheat is similar in calories but higher in fiber."
+    }
+  ]
+}

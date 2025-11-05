@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a pack of popcorn",
+  "title": "Calories in a Pack of Popcorn",
+  "meta_description": "Discover calories in a pack of popcorn, including full nutrition breakdown, macros, and variations for buttered microwave style.",
+  "slug": "calories-in-a-pack-of-popcorn",
+  "h1": "Calories in a Pack of Popcorn",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pack",
+    "item": "popcorn"
+  },
+  "assumptions": "Standard microwave butter popcorn, 1 pack ≈100g popped weight, prepared as directed.",
+  "disclaimer": "Nutrition varies by brand, flavor, popping method, and serving size. Check package labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "A standard pack of buttered microwave popcorn has about 450 kcal and 10g fiber."
+  },
+  "basis": {
+    "label": "per 1 pack (100g popped)",
+    "amount": 1,
+    "unit": "pack",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 50,
+      "fiber_g": 10,
+      "sugars_g": 0,
+      "protein_g": 7,
+      "fat_g": 25,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 700
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 50,
+    "fiber_g": 10,
+    "sugars_g": 0,
+    "protein_g": 7,
+    "fat_g": 25,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 700
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Air-popped plain (no butter or oil)",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Low-fat microwave version",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Extra butter topping (1 tbsp added)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 550
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a pack of buttered popcorn?",
+      "a": "About 450 kcal for a standard 100g microwave pack."
+    },
+    {
+      "q": "Is popcorn low calorie?",
+      "a": "Plain air-popped is low (~150 kcal per pack), but buttered versions add fat and calories."
+    },
+    {
+      "q": "What's the sodium in a pack of popcorn?",
+      "a": "Around 700 mg, mainly from added salt in flavored varieties."
+    },
+    {
+      "q": "How much fiber in popcorn?",
+      "a": "Typically 10g per 100g pack, making it a good source of dietary fiber."
+    },
+    {
+      "q": "Does microwave popcorn have trans fats?",
+      "a": "Modern brands have 0g trans fat, but check labels for older formulations."
+    }
+  ]
+}

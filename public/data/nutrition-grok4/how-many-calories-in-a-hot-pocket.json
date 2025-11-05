@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a hot pocket",
+  "title": "How Many Calories in a Hot Pocket?",
+  "meta_description": "Discover how many calories in a hot pocket, including full nutrition breakdown, macros, and variations for popular flavors like pepperoni.",
+  "slug": "how-many-calories-in-a-hot-pocket",
+  "h1": "How Many Calories in a Hot Pocket?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "hot pocket",
+    "item": "hot pocket"
+  },
+  "assumptions": "Pepperoni pizza flavor, standard size (127 g), microwaved as per package instructions, no additional toppings.",
+  "disclaimer": "Nutrition varies by flavor, brand, size, and cooking method. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 280,
+    "text": "One pepperoni Hot Pocket has about 280 kcal and 11 g protein."
+  },
+  "basis": {
+    "label": "per 1 hot pocket",
+    "amount": 1,
+    "unit": "hot pocket",
+    "nutrition": {
+      "calories_kcal": 280,
+      "carbs_g": 35,
+      "fiber_g": 2,
+      "sugars_g": 4,
+      "protein_g": 11,
+      "fat_g": 10,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 620
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 280,
+    "carbs_g": 35,
+    "fiber_g": 2,
+    "sugars_g": 4,
+    "protein_g": 11,
+    "fat_g": 10,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 620
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.17
+  },
+  "tweaks": [
+    {
+      "label": "Switch to ham and cheese flavor",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Add 1 tbsp marinara dipping sauce",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Oven-baked instead of microwaved (less moisture loss)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 290
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a pepperoni Hot Pocket?",
+      "a": "Approximately 280 kcal per serving."
+    },
+    {
+      "q": "What are the macros in a Hot Pocket?",
+      "a": "About 35 g carbs, 10 g fat, 11 g protein, and 2 g fiber."
+    },
+    {
+      "q": "Does cooking method affect Hot Pocket calories?",
+      "a": "Slightly; microwaving is standard, but oven-baking may concentrate calories due to less water retention."
+    },
+    {
+      "q": "How much sodium is in a Hot Pocket?",
+      "a": "Around 620 mg per pepperoni Hot Pocket."
+    },
+    {
+      "q": "Are there lower-calorie Hot Pocket options?",
+      "a": "Yes, like the Lean Pockets line, which can be 200-250 kcal depending on flavor."
+    }
+  ]
+}

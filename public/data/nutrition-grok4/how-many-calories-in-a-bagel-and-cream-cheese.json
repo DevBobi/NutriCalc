@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a bagel and cream cheese",
+  "title": "How Many Calories in a Bagel and Cream Cheese?",
+  "meta_description": "Discover how many calories in a bagel and cream cheese, including full nutrition breakdown, macros, and easy tweaks for your serving.",
+  "slug": "how-many-calories-in-a-bagel-and-cream-cheese",
+  "h1": "How Many Calories in a Bagel and Cream Cheese?",
+  "updated": "2024-10-07",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "bagel and cream cheese"
+  },
+  "assumptions": "Plain medium bagel (~105g), topped with 1 oz (2 tbsp) full-fat cream cheese; no additional toppings.",
+  "disclaimer": "Nutrition varies by bagel size, brand, cream cheese type, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 388,
+    "text": "A medium bagel with 1 oz cream cheese provides ~388 kcal, with high carbs from the bagel and fat from the cheese."
+  },
+  "basis": {
+    "label": "per 1 serving (bagel + 1 oz cream cheese)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 388,
+      "carbs_g": 57.4,
+      "fiber_g": 2.3,
+      "sugars_g": 7.2,
+      "protein_g": 11.7,
+      "fat_g": 11.2,
+      "sat_fat_g": 5.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 31,
+      "sodium_mg": 556
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 388,
+    "carbs_g": 57.4,
+    "fiber_g": 2.3,
+    "sugars_g": 7.2,
+    "protein_g": 11.7,
+    "fat_g": 11.2,
+    "sat_fat_g": 5.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 31,
+    "sodium_mg": 556
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.62
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat cream cheese (1 oz instead of full-fat)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 348
+    },
+    {
+      "label": "Add 1 oz smoked salmon on top",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 438
+    },
+    {
+      "label": "Whole wheat bagel (vs. plain refined)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 368
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bagel alone?",
+      "a": "A plain medium bagel has about 289 kcal, without cream cheese."
+    },
+    {
+      "q": "What if I use less cream cheese?",
+      "a": "1 tbsp (0.5 oz) cream cheese reduces total to ~339 kcal."
+    },
+    {
+      "q": "Are bagels high in sodium with cream cheese?",
+      "a": "Yes, ~556 mg total, mostly from the bagel; opt for low-sodium versions."
+    },
+    {
+      "q": "How much protein in a bagel and cream cheese?",
+      "a": "About 11.7 g per serving, mainly from the bagel."
+    },
+    {
+      "q": "Does toasting the bagel change calories?",
+      "a": "No significant change; toasting doesn't add calories but may alter texture."
+    }
+  ]
+}

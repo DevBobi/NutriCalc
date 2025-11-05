@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in pulled pork",
+  "title": "How Many Calories in Pulled Pork?",
+  "meta_description": "Discover how many calories in pulled pork per 100g, including protein, fat, carbs, full nutrition breakdown, and serving tweaks for BBQ or lean versions.",
+  "slug": "how-many-calories-in-pulled-pork",
+  "h1": "How Many Calories in Pulled Pork?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "pulled pork"
+  },
+  "assumptions": "Slow-cooked pork shoulder, shredded, lean with some fat, no added sauce, salt, or seasonings.",
+  "disclaimer": "Nutrition varies by cut, cooking method, fat content, added sauces, and brand; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 240,
+    "text": "100g of pulled pork provides ~240 kcal and ~25g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 240,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 15,
+      "sat_fat_g": 5.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 240,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 15,
+    "sat_fat_g": 5.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 80,
+    "sodium_mg": 60
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1
+  },
+  "tweaks": [
+    {
+      "label": "Add 2 tbsp BBQ sauce per 100g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 290
+    },
+    {
+      "label": "Lean version (fat trimmed)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Slow-cooked with added broth (moister)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 250
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g pulled pork?",
+      "a": "About 240 kcal for plain cooked pulled pork."
+    },
+    {
+      "q": "Is pulled pork high in protein?",
+      "a": "Yes, ~25g protein per 100g, making it a good lean meat option."
+    },
+    {
+      "q": "How does BBQ sauce affect calories in pulled pork?",
+      "a": "Adds ~50 kcal per 2 tbsp due to sugars and carbs."
+    },
+    {
+      "q": "What's the fat content in pulled pork?",
+      "a": "~15g total fat per 100g, including 5.5g saturated."
+    },
+    {
+      "q": "Does cooking method change pulled pork calories?",
+      "a": "Yes—smoked or braised may vary by 20-50 kcal; fat trimming lowers them."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in risotto",
+  "title": "Calories in Risotto",
+  "meta_description": "Learn calories in risotto per 200g serving, plus carbs, protein, fat, full nutrition facts, and recipe tweaks for variations.",
+  "slug": "calories-in-risotto",
+  "h1": "Calories in Risotto",
+  "updated": "2024-10-02",
+  "query": {
+    "amount": 200,
+    "unit": "g",
+    "item": "risotto"
+  },
+  "assumptions": "Cooked risotto with arborio rice, vegetable broth, onion, butter, and parmesan; basic recipe without meat or extra vegetables; approx. 1 cup serving.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, portion size, and cooking method. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 300,
+    "text": "A 200g serving of risotto provides ~300 kcal, mainly from carbs with moderate fat and protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 25,
+      "fiber_g": 1,
+      "sugars_g": 0.5,
+      "protein_g": 4,
+      "fat_g": 4,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 300,
+    "carbs_g": 50,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 8,
+    "fat_g": 8,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.26
+  },
+  "tweaks": [
+    {
+      "label": "Add mushrooms and extra veggies per 100 g",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Vegan version (use oil instead of butter) per 100 g",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Add cooked chicken per serving",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 350
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of risotto?",
+      "a": "About 300 kcal in a 200g serving of basic risotto."
+    },
+    {
+      "q": "What are the carbs in risotto?",
+      "a": "Around 50g carbs in 200g, mostly from rice."
+    },
+    {
+      "q": "Is risotto high in protein?",
+      "a": "Moderate at 8g protein per 200g serving; add meat or cheese to boost."
+    },
+    {
+      "q": "How does risotto compare to plain rice calories?",
+      "a": "Higher due to added fat and cheese; plain cooked rice is ~130 kcal per 100g."
+    },
+    {
+      "q": "Can risotto be low-calorie?",
+      "a": "Yes, use less butter/oil and more veggies to reduce to under 250 kcal per serving."
+    }
+  ]
+}

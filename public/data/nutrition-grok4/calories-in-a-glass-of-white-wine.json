@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a glass of white wine",
+  "title": "Calories in a Glass of White Wine",
+  "meta_description": "Learn calories in a glass of white wine—about 125 kcal per 150 ml serving—plus carbs, alcohol details, and tweaks for different styles.",
+  "slug": "calories-in-a-glass-of-white-wine",
+  "h1": "Calories in a Glass of White Wine",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "glass",
+    "item": "white wine"
+  },
+  "assumptions": "Standard 150 ml serving of dry white wine, ~12% ABV, no added mixers or garnishes.",
+  "disclaimer": "Nutrition varies by wine type, brand, ABV, sweetness, and serving size. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 125,
+    "text": "A standard glass of white wine contains about 125 calories, primarily from alcohol."
+  },
+  "basis": {
+    "label": "per 1 glass (150 ml)",
+    "amount": 1,
+    "unit": "glass",
+    "nutrition": {
+      "calories_kcal": 125,
+      "carbs_g": 3.8,
+      "fiber_g": 0,
+      "sugars_g": 1.4,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 125,
+    "carbs_g": 3.8,
+    "fiber_g": 0,
+    "sugars_g": 1.4,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 7
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.52
+  },
+  "tweaks": [
+    {
+      "label": "Semi-sweet white wine (higher residual sugars)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Low-alcohol white wine (~9% ABV)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 95
+    },
+    {
+      "label": "Chardonnay (oaked, slightly creamier style)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 135
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a glass of white wine?",
+      "a": "Approximately 125 kcal for a standard 150 ml dry white wine."
+    },
+    {
+      "q": "Does white wine have carbs?",
+      "a": "Yes, about 3.8 g carbs per glass, mostly from residual sugars."
+    },
+    {
+      "q": "Is white wine lower in calories than red?",
+      "a": "Similar—red wine is around 125-130 kcal per glass; varies by type."
+    },
+    {
+      "q": "What affects calories in white wine?",
+      "a": "ABV, sweetness level, and serving size; sweeter or higher-alcohol wines have more."
+    },
+    {
+      "q": "Are there calories from alcohol in white wine?",
+      "a": "Yes, alcohol contributes ~7 kcal per gram; a 12% ABV glass has ~14 g alcohol."
+    }
+  ]
+}

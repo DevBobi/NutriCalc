@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in tilapia fillet",
+  "title": "Calories in Tilapia Fillet",
+  "meta_description": "Discover calories in tilapia fillet, including protein, fat, carbs, full nutrition breakdown per serving, and preparation tweaks for better tracking.",
+  "slug": "calories-in-tilapia-fillet",
+  "h1": "Calories in Tilapia Fillet",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "fillet",
+    "item": "tilapia fillet"
+  },
+  "assumptions": "Cooked (baked or grilled) tilapia fillet, skinless, approximately 100g, no added oil, butter, or seasonings.",
+  "disclaimer": "Nutrition varies by fish size, source (wild vs. farmed), cooking method, and additions like marinades or oils. Check product labels or reliable databases for accuracy.",
+  "quick_answer": {
+    "total_kcal": 128,
+    "text": "One 100g cooked tilapia fillet provides about 128 kcal and 26g protein."
+  },
+  "basis": {
+    "label": "per 1 tilapia fillet (100g)",
+    "amount": 1,
+    "unit": "fillet",
+    "nutrition": {
+      "calories_kcal": 128,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 26,
+      "fat_g": 2.7,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 57,
+      "sodium_mg": 52
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 128,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 26,
+    "fat_g": 2.7,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 57,
+    "sodium_mg": 52
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Pan-fried with 1 tsp oil per fillet",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 168
+    },
+    {
+      "label": "Baked with lemon and herbs (no added fat)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 128
+    },
+    {
+      "label": "Breaded and baked (adds 20g breadcrumbs)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 198
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one tilapia fillet?",
+      "a": "Approximately 128 kcal for a 100g cooked fillet."
+    },
+    {
+      "q": "Is tilapia fillet high in protein?",
+      "a": "Yes, one 100g fillet has about 26g of protein."
+    },
+    {
+      "q": "Does tilapia have carbs or fat?",
+      "a": "Negligible carbs (0g) and low fat (2.7g) per 100g cooked fillet."
+    },
+    {
+      "q": "How does cooking method affect calories in tilapia fillet?",
+      "a": "Baking or grilling keeps it low; frying adds 40+ kcal from oil."
+    },
+    {
+      "q": "What about sodium in tilapia fillet?",
+      "a": "Naturally low at 52mg per 100g; increases with added salt or sauces."
+    }
+  ]
+}

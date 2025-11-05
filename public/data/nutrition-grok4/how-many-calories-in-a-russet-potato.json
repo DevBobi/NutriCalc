@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a russet potato",
+  "title": "How Many Calories in a Russet Potato?",
+  "meta_description": "Discover how many calories in a russet potato, including full nutrition breakdown, macros, and variations for baked or boiled prep.",
+  "slug": "how-many-calories-in-a-russet-potato",
+  "h1": "How Many Calories in a Russet Potato?",
+  "updated": "2023-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "potato",
+    "item": "russet potato"
+  },
+  "assumptions": "Medium russet potato (~173 g), baked with skin, no added butter, oil, or toppings.",
+  "disclaimer": "Nutrition varies by potato size, variety, cooking method, and additions like salt or oil. Check sources for exact values.",
+  "quick_answer": {
+    "total_kcal": 168,
+    "text": "One medium russet potato provides about 168 kcal and 4.7 g protein."
+  },
+  "basis": {
+    "label": "per 1 medium russet potato",
+    "amount": 1,
+    "unit": "potato",
+    "nutrition": {
+      "calories_kcal": 168,
+      "carbs_g": 37.8,
+      "fiber_g": 3.4,
+      "sugars_g": 1.2,
+      "protein_g": 4.7,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 17
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 168,
+    "carbs_g": 37.8,
+    "fiber_g": 3.4,
+    "sugars_g": 1.2,
+    "protein_g": 4.7,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 17
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.7
+  },
+  "tweaks": [
+    {
+      "label": "Baked without skin (peeled)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 148
+    },
+    {
+      "label": "Add 1 tsp butter",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 202
+    },
+    {
+      "label": "Boiled (instead of baked)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 158
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a medium russet potato?",
+      "a": "About 168 kcal for one medium russet potato baked with skin."
+    },
+    {
+      "q": "What are the carbs in a russet potato?",
+      "a": "One medium russet potato has ~37.8 g carbs, including 3.4 g fiber."
+    },
+    {
+      "q": "Does baking a russet potato add calories?",
+      "a": "Baking plain adds none, but toppings like butter or sour cream increase calories significantly."
+    },
+    {
+      "q": "How much protein in a russet potato?",
+      "a": "Approximately 4.7 g protein per medium russet potato."
+    },
+    {
+      "q": "Are russet potatoes low in fat?",
+      "a": "Yes, only 0.2 g total fat per medium potato, with 0 g saturated fat."
+    }
+  ]
+}

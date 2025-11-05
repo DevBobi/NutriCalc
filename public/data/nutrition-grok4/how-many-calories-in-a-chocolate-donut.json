@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a chocolate donut",
+  "title": "How Many Calories in a Chocolate Donut?",
+  "meta_description": "Discover how many calories in a chocolate donut, including full nutrition breakdown, macros, and simple tweaks for variations.",
+  "slug": "how-many-calories-in-a-chocolate-donut",
+  "h1": "How Many Calories in a Chocolate Donut?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "donut",
+    "item": "chocolate donut"
+  },
+  "assumptions": "Standard yeast-raised chocolate glazed donut, ~60 g, from a typical bakery; includes chocolate icing but no fillings.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and preparation; fried vs. baked affects values. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A standard chocolate donut contains about 250 calories and 14 g of fat."
+  },
+  "basis": {
+    "label": "per 1 chocolate donut",
+    "amount": 1,
+    "unit": "donut",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 30,
+      "fiber_g": 1,
+      "sugars_g": 15,
+      "protein_g": 3,
+      "fat_g": 14,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 30,
+    "fiber_g": 1,
+    "sugars_g": 15,
+    "protein_g": 3,
+    "fat_g": 14,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add chocolate cream filling",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Baked low-fat version (no frying)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Add sprinkles and extra icing",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chocolate donut from Dunkin'?",
+      "a": "Around 250-300 kcal depending on size; check their app for exact values."
+    },
+    {
+      "q": "What are the carbs in a chocolate donut?",
+      "a": "Typically 30 g carbs, including 15 g sugars and 1 g fiber per donut."
+    },
+    {
+      "q": "Is a chocolate donut high in fat?",
+      "a": "Yes, about 14 g total fat with 6 g saturated per standard donut."
+    },
+    {
+      "q": "How does baking change calories in a chocolate donut?",
+      "a": "Baked versions can reduce calories by 50-100 vs. fried, lowering fat content."
+    },
+    {
+      "q": "What's the protein in a chocolate donut?",
+      "a": "Low at about 3 g per donut; not a significant protein source."
+    }
+  ]
+}

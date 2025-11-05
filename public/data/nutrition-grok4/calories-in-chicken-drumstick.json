@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken drumstick",
+  "title": "Calories in a Chicken Drumstick",
+  "meta_description": "Discover calories in chicken drumstick, including protein, fat, carbs, full nutrition breakdown per drumstick, and easy tweaks for variations.",
+  "slug": "calories-in-chicken-drumstick",
+  "h1": "Calories in a Chicken Drumstick",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "drumstick",
+    "item": "chicken drumstick"
+  },
+  "assumptions": "Skin-on, bone-in chicken drumstick, roasted without added oil or seasonings; ~91 g edible portion.",
+  "disclaimer": "Nutrition varies by size, cooking method, skin removal, and added ingredients. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 172,
+    "text": "One roasted chicken drumstick with skin has ~172 kcal and ~19 g protein."
+  },
+  "basis": {
+    "label": "per 1 drumstick",
+    "amount": 1,
+    "unit": "drumstick",
+    "nutrition": {
+      "calories_kcal": 172,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 18.6,
+      "fat_g": 9.5,
+      "sat_fat_g": 2.6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 93,
+      "sodium_mg": 77
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 172,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 18.6,
+    "fat_g": 9.5,
+    "sat_fat_g": 2.6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 93,
+    "sodium_mg": 77
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.72
+  },
+  "tweaks": [
+    {
+      "label": "Skinless (remove skin before cooking)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 112
+    },
+    {
+      "label": "Fried in oil (vs. roasted)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 252
+    },
+    {
+      "label": "Add 1 tbsp BBQ sauce",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 217
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one chicken drumstick?",
+      "a": "About 172 kcal for a roasted, skin-on drumstick."
+    },
+    {
+      "q": "Is protein high in chicken drumstick?",
+      "a": "Yes, ~18.6 g protein per drumstick, great for muscle support."
+    },
+    {
+      "q": "Calories in skinless chicken drumstick?",
+      "a": "Around 112 kcal, lower fat than skin-on."
+    },
+    {
+      "q": "Does cooking method affect calories in chicken drumstick?",
+      "a": "Yes—roasted is lower; fried adds ~80 kcal from oil absorption."
+    },
+    {
+      "q": "What about sodium in chicken drumstick?",
+      "a": "~77 mg naturally; marinated or sauced versions increase it."
+    }
+  ]
+}

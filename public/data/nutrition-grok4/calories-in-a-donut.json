@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a donut",
+  "title": "Calories in a Donut",
+  "meta_description": "Discover calories in a donut, including full nutrition breakdown like carbs, fat, protein, and easy tweaks for variations under 160 characters.",
+  "slug": "calories-in-a-donut",
+  "h1": "Calories in a Donut",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "donut",
+    "item": "donut"
+  },
+  "assumptions": "Standard glazed yeast donut, approximately 60g, no fillings or toppings.",
+  "disclaimer": "Nutrition varies by type, brand, size, glaze, and frying method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A standard glazed donut contains about 250 calories and 28g of carbs."
+  },
+  "basis": {
+    "label": "per 1 donut",
+    "amount": 1,
+    "unit": "donut",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 28,
+      "fiber_g": 1,
+      "sugars_g": 14,
+      "protein_g": 3,
+      "fat_g": 14,
+      "sat_fat_g": 7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 28,
+    "fiber_g": 1,
+    "sugars_g": 14,
+    "protein_g": 3,
+    "fat_g": 14,
+    "sat_fat_g": 7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add chocolate icing",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Jelly-filled version",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Baked vs. fried",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a glazed donut?",
+      "a": "About 250 kcal for a standard 60g glazed yeast donut."
+    },
+    {
+      "q": "What are the carbs in a donut?",
+      "a": "Typically 28g of carbs, including 14g sugars and 1g fiber."
+    },
+    {
+      "q": "Is a donut high in fat?",
+      "a": "Yes, around 14g total fat with 7g saturated fat per donut."
+    },
+    {
+      "q": "Calories in a powdered donut?",
+      "a": "Similar to glazed, about 240-260 kcal; powder adds minimal calories."
+    },
+    {
+      "q": "How does donut size affect calories?",
+      "a": "Larger donuts (80g+) can reach 350+ kcal; mini versions under 100 kcal."
+    }
+  ]
+}

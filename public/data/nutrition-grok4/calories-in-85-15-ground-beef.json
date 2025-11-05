@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 85 15 ground beef",
+  "title": "Calories in 85/15 Ground Beef",
+  "meta_description": "Learn calories in 85 15 ground beef per 100g, including fat, protein, carbs, and full nutrition facts for raw portions.",
+  "slug": "calories-in-85-15-ground-beef",
+  "h1": "Calories in 85/15 Ground Beef",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "85/15 ground beef"
+  },
+  "assumptions": "Raw ground beef, 85% lean / 15% fat, no added seasonings or fillers.",
+  "disclaimer": "Nutrition varies by brand, exact lean-to-fat ratio, processing, and cooking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 215,
+    "text": "100 g of raw 85/15 ground beef provides ~215 kcal, 18.6 g protein, and 15 g fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 215,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 18.6,
+      "fat_g": 15,
+      "sat_fat_g": 5.9,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 65,
+      "sodium_mg": 66
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 215,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 18.6,
+    "fat_g": 15,
+    "sat_fat_g": 5.9,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 65,
+    "sodium_mg": 66
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.9
+  },
+  "tweaks": [
+    {
+      "label": "Switch to 90/10 lean ground beef",
+      "delta_kcal_per_unit": -39,
+      "new_total_kcal": 176
+    },
+    {
+      "label": "Pan-broil and drain fat (per 100 g raw becomes ~85 g cooked)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add 1 tsp vegetable oil for cooking per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 255
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 85 15 ground beef per 100 g?",
+      "a": "Approximately 215 kcal for raw 85/15 ground beef."
+    },
+    {
+      "q": "What is the protein content in 85/15 ground beef?",
+      "a": "About 18.6 g protein per 100 g raw."
+    },
+    {
+      "q": "How much fat is in 85 15 ground beef?",
+      "a": "15 g total fat per 100 g, including 5.9 g saturated fat."
+    },
+    {
+      "q": "Are these calories for raw or cooked ground beef?",
+      "a": "Raw; cooking methods like broiling can increase calories per gram due to moisture loss."
+    },
+    {
+      "q": "Does cooking change the calories in 85/15 ground beef?",
+      "a": "Yes, drained cooked versions often have 230-250 kcal per 100 g due to fat and water loss."
+    }
+  ]
+}

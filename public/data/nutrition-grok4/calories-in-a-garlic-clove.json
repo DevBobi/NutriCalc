@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a garlic clove",
+  "title": "Calories in a Garlic Clove",
+  "meta_description": "Discover calories in a garlic clove, including carbs, protein, fiber, and full nutrition breakdown per clove or 100g basis.",
+  "slug": "calories-in-a-garlic-clove",
+  "h1": "Calories in a Garlic Clove",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "clove",
+    "item": "garlic clove"
+  },
+  "assumptions": "Average raw garlic clove (~3g), peeled, no added oil or seasonings.",
+  "disclaimer": "Nutrition varies by clove size, freshness, and preparation; values are approximate. Check sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 4,
+    "text": "One average garlic clove has about 4 kcal and negligible fat or protein."
+  },
+  "basis": {
+    "label": "per 1 clove (~3g)",
+    "amount": 1,
+    "unit": "clove",
+    "nutrition": {
+      "calories_kcal": 4,
+      "carbs_g": 1,
+      "fiber_g": 0.1,
+      "sugars_g": 0,
+      "protein_g": 0.2,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 4,
+    "carbs_g": 1,
+    "fiber_g": 0.1,
+    "sugars_g": 0,
+    "protein_g": 0.2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.02
+  },
+  "tweaks": [
+    {
+      "label": "Roasted garlic clove (softened, no oil)",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 5
+    },
+    {
+      "label": "Minced and sautéed in 1 tsp oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 44
+    },
+    {
+      "label": "Larger clove (~5g)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 6
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one garlic clove?",
+      "a": "About 4 kcal for an average raw clove."
+    },
+    {
+      "q": "Does garlic have carbs or fiber?",
+      "a": "Yes, ~1g carbs and 0.1g fiber per clove, mostly from complex carbs."
+    },
+    {
+      "q": "Is garlic low in sodium?",
+      "a": "Very low, around 2mg per clove."
+    },
+    {
+      "q": "Calories in roasted vs raw garlic?",
+      "a": "Roasted adds minimal calories (~5 kcal), but oil can increase it significantly."
+    },
+    {
+      "q": "How much protein in a garlic clove?",
+      "a": "Only about 0.2g, making it not a protein source."
+    }
+  ]
+}

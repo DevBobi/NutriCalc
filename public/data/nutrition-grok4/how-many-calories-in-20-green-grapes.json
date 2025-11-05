@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 20 green grapes",
+  "title": "How Many Calories in 20 Green Grapes?",
+  "meta_description": "Learn how many calories in 20 green grapes, plus carbs, fiber, sugars, protein, fat, and full nutrition breakdown per serving.",
+  "slug": "how-many-calories-in-20-green-grapes",
+  "h1": "How Many Calories in 20 Green Grapes?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 20,
+    "unit": "grape",
+    "item": "green grape"
+  },
+  "assumptions": "Fresh, seedless green grapes; average size (5 g each); 20 grapes ≈100 g.",
+  "disclaimer": "Nutrition varies by variety, size, ripeness, and growing conditions. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 69,
+    "text": "20 green grapes (≈100 g) provide ~69 kcal, mainly from natural carbs."
+  },
+  "basis": {
+    "label": "per 100 g (≈20 grapes)",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 69,
+      "carbs_g": 18,
+      "fiber_g": 0.9,
+      "sugars_g": 16,
+      "protein_g": 0.7,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 69,
+    "carbs_g": 18,
+    "fiber_g": 0.9,
+    "sugars_g": 16,
+    "protein_g": 0.7,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp plain yogurt dip",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 84
+    },
+    {
+      "label": "Use red grapes instead (similar size)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 69
+    },
+    {
+      "label": "Larger grapes (≈7 g each, 20 grapes =140 g)",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 103
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one green grape?",
+      "a": "About 3-4 kcal per average-sized green grape."
+    },
+    {
+      "q": "How many carbs in 20 green grapes?",
+      "a": "Approximately 18 g of carbs, mostly natural sugars."
+    },
+    {
+      "q": "Do green grapes have fiber?",
+      "a": "Yes, about 0.9 g of dietary fiber per 100 g serving."
+    },
+    {
+      "q": "Are green grapes healthier than red grapes?",
+      "a": "Similar nutrition; both offer antioxidants, with comparable calories around 69 per 100 g."
+    },
+    {
+      "q": "How does grape size affect calories in 20 grapes?",
+      "a": "Larger grapes increase total calories (e.g., 100+ kcal for bigger ones); average is ~69 kcal."
+    }
+  ]
+}

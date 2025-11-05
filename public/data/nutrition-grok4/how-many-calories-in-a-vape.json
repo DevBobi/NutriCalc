@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a vape",
+  "title": "How Many Calories in a Vape?",
+  "meta_description": "Discover how many calories in a vape, including negligible nutritional impact from e-liquid, plus breakdowns and variations for vapers tracking intake.",
+  "slug": "how-many-calories-in-a-vape",
+  "h1": "How Many Calories in a Vape?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "vape",
+    "item": "vape"
+  },
+  "assumptions": "Standard disposable vape with 2ml e-liquid (propylene glycol, vegetable glycerin, nicotine, flavors); calories estimated from vaporized components, assuming minimal absorption.",
+  "disclaimer": "Nutrition varies by e-liquid composition, brand, flavors, and usage; vapes are not food—calories are negligible and not a primary concern. Consult health experts for vaping impacts.",
+  "quick_answer": {
+    "total_kcal": 5,
+    "text": "A typical vape contains about 5 kcal from e-liquid ingredients, mostly from glycerin and any sweeteners."
+  },
+  "basis": {
+    "label": "per 1 vape",
+    "amount": 1,
+    "unit": "vape",
+    "nutrition": {
+      "calories_kcal": 5,
+      "carbs_g": 1.2,
+      "fiber_g": 0,
+      "sugars_g": 0.5,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 5,
+    "carbs_g": 1.2,
+    "fiber_g": 0,
+    "sugars_g": 0.5,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Values mirror Nutrition Facts style but adapted for non-food item; totals are for one unit.",
+  "equivalents": {
+    "megajoules": 0.02
+  },
+  "tweaks": [
+    {
+      "label": "Flavored with added sweeteners",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 8
+    },
+    {
+      "label": "Unflavored, zero-nicotine version",
+      "delta_kcal_per_unit": -2,
+      "new_total_kcal": 3
+    },
+    {
+      "label": "Higher VG content (per ml e-liquid)",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 6
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a vape?",
+      "a": "Approximately 5 kcal for a standard 2ml disposable vape, mainly from base ingredients."
+    },
+    {
+      "q": "Do vapes have carbs or sugars?",
+      "a": "Minimal—about 1.2 g carbs and 0.5 g sugars per vape from flavors and glycerin."
+    },
+    {
+      "q": "Are there any proteins or fats in vape liquid?",
+      "a": "No significant amounts; 0 g protein and 0 g fat per vape."
+    },
+    {
+      "q": "Does nicotine add calories to a vape?",
+      "a": "No, nicotine itself has 0 calories; calories come from carriers like PG/VG."
+    },
+    {
+      "q": "How does e-liquid volume affect calories in a vape?",
+      "a": "Larger capacity (e.g., 5ml) could double calories to ~10 kcal, depending on composition."
+    }
+  ]
+}

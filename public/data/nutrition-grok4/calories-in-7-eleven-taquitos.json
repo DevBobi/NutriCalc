@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 7 eleven taquitos",
+  "title": "Calories in 7-Eleven Taquitos",
+  "meta_description": "Discover calories in 7-Eleven taquitos, including macros like carbs, protein, and fat per taquito, plus tweaks and FAQs for quick nutrition insights.",
+  "slug": "calories-in-7-eleven-taquitos",
+  "h1": "Calories in 7-Eleven Taquitos",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "taquito",
+    "item": "7-Eleven taquito"
+  },
+  "assumptions": "Standard single 7-Eleven chicken taquito, fried in corn tortilla with typical fillings; no added dips or sides.",
+  "disclaimer": "Nutrition varies by flavor (chicken, beef, etc.), preparation, brand batch, and size. Check 7-Eleven packaging or app for exact values.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "One 7-Eleven taquito has about 220 kcal, with 25 g carbs and 8 g protein."
+  },
+  "basis": {
+    "label": "per 1 taquito",
+    "amount": 1,
+    "unit": "taquito",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 8,
+      "fat_g": 10,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 450
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 25,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 8,
+    "fat_g": 10,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 450
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Beef taquito instead of chicken",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add 1 tbsp sour cream dip",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Baked version (less oil)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one 7-Eleven taquito?",
+      "a": "Approximately 220 kcal for a standard chicken taquito."
+    },
+    {
+      "q": "What are the carbs in 7-Eleven taquitos?",
+      "a": "About 25 g carbs per taquito, mostly from the tortilla."
+    },
+    {
+      "q": "Are 7-Eleven taquitos high in sodium?",
+      "a": "Yes, around 450 mg sodium per taquito due to seasoning and frying."
+    },
+    {
+      "q": "Calories in 7-Eleven beef taquitos vs chicken?",
+      "a": "Beef versions have ~250 kcal, slightly higher fat than chicken's 220 kcal."
+    },
+    {
+      "q": "Can I make 7-Eleven taquitos healthier?",
+      "a": "Opt for baked options or pair with veggies; avoid extra dips to cut calories."
+    }
+  ]
+}

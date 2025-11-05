@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a mini cucumber",
+  "title": "Calories in a Mini Cucumber",
+  "meta_description": "Learn calories in a mini cucumber, plus full nutrition facts like carbs, protein, fiber, and easy tweaks for your snacks.",
+  "slug": "calories-in-a-mini-cucumber",
+  "h1": "Calories in a Mini Cucumber",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cucumber",
+    "item": "mini cucumber"
+  },
+  "assumptions": "Average mini cucumber (~60 g), raw, unpeeled, fresh; no added seasonings.",
+  "disclaimer": "Nutrition varies by size, variety, freshness, and growing conditions. Check produce labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 9,
+    "text": "A mini cucumber contains about 9 calories and provides hydration with minimal carbs."
+  },
+  "basis": {
+    "label": "per 1 mini cucumber",
+    "amount": 1,
+    "unit": "mini cucumber",
+    "nutrition": {
+      "calories_kcal": 9,
+      "carbs_g": 2.2,
+      "fiber_g": 0.6,
+      "sugars_g": 1,
+      "protein_g": 0.4,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 9,
+    "carbs_g": 2.2,
+    "fiber_g": 0.6,
+    "sugars_g": 1,
+    "protein_g": 0.4,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.04
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -1,
+      "new_total_kcal": 8
+    },
+    {
+      "label": "With 1 tbsp hummus dip",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 34
+    },
+    {
+      "label": "Pickled mini cucumber",
+      "delta_kcal_per_unit": 4,
+      "new_total_kcal": 13
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a mini cucumber?",
+      "a": "Approximately 9 kcal for one average mini cucumber (~60 g)."
+    },
+    {
+      "q": "Are mini cucumbers low in carbs?",
+      "a": "Yes, about 2.2 g carbs per mini cucumber, mostly from natural sugars."
+    },
+    {
+      "q": "What is the protein in a mini cucumber?",
+      "a": "Roughly 0.4 g protein, making it a low-protein veggie."
+    },
+    {
+      "q": "Does peeling a mini cucumber change calories?",
+      "a": "Slightly; peeling reduces calories by ~1 kcal and removes some fiber."
+    },
+    {
+      "q": "How does a mini cucumber compare to a regular one?",
+      "a": "A mini (~60 g) has fewer calories (~9 kcal) than a medium (~150 g, ~23 kcal)."
+    }
+  ]
+}

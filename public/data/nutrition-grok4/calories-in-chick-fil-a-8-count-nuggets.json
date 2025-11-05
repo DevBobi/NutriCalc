@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chick fil a 8 count nuggets",
+  "title": "Calories in Chick-fil-A 8 Count Nuggets",
+  "meta_description": "Discover calories in chick fil a 8 count nuggets—250 kcal total—plus full nutrition breakdown, protein, fat, carbs, and preparation tweaks for your meal planning.",
+  "slug": "calories-in-chick-fil-a-8-count-nuggets",
+  "h1": "Calories in Chick-fil-A 8 Count Nuggets",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 8,
+    "unit": "nugget",
+    "item": "Chick-fil-A nugget"
+  },
+  "assumptions": "Breaded, pressure-cooked chicken nuggets from Chick-fil-A; standard boneless, bite-sized pieces; no dipping sauce included.",
+  "disclaimer": "Nutrition varies by location, batch, and customizations; values based on official Chick-fil-A data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "Chick-fil-A 8 count nuggets provide 250 kcal and 27 g protein."
+  },
+  "basis": {
+    "label": "per 1 nugget",
+    "amount": 1,
+    "unit": "nugget",
+    "nutrition": {
+      "calories_kcal": 31,
+      "carbs_g": 1.6,
+      "fiber_g": 0.1,
+      "sugars_g": 0,
+      "protein_g": 3.4,
+      "fat_g": 1.5,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 9,
+      "sodium_mg": 70
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 13,
+    "fiber_g": 1,
+    "sugars_g": 0,
+    "protein_g": 27,
+    "fat_g": 12,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 75,
+    "sodium_mg": 560
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Switch to grilled nuggets",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Add 1 packet Chick-fil-A sauce per serving",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 390
+    },
+    {
+      "label": "Remove breading (unbreaded chicken pieces)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 150
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Chick-fil-A 8 count nuggets?",
+      "a": "Approximately 250 kcal for the standard breaded version."
+    },
+    {
+      "q": "What's the protein in Chick-fil-A 8 count nuggets?",
+      "a": "About 27 g of protein per 8-count serving."
+    },
+    {
+      "q": "Are Chick-fil-A nuggets low carb?",
+      "a": "They have 13 g carbs total, mostly from breading; grilled version has fewer."
+    },
+    {
+      "q": "How much sodium in 8 Chick-fil-A nuggets?",
+      "a": "Around 560 mg, which is notable—pair with veggies to balance."
+    },
+    {
+      "q": "Calories in grilled vs. fried Chick-fil-A 8 count nuggets?",
+      "a": "Grilled: 130 kcal; fried: 250 kcal—grilled saves about 120 kcal."
+    }
+  ]
+}

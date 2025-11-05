@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chick fil a large fries",
+  "title": "Calories in Chick-fil-A Large Fries",
+  "meta_description": "Discover calories in Chick-fil-A large fries: 520 kcal per serving, plus full nutrition facts on carbs, fat, protein, sodium, and quick tweaks for variations.",
+  "slug": "calories-in-chick-fil-a-large-fries",
+  "h1": "Calories in Chick-fil-A Large Fries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "large serving",
+    "item": "Chick-fil-A waffle fries"
+  },
+  "assumptions": "Based on official Chick-fil-A nutrition for waffle potato fries, large size (approx. 125g), fried in canola oil, no added seasonings.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and preparation; check Chick-fil-A app or website for latest values.",
+  "quick_answer": {
+    "total_kcal": 520,
+    "text": "A large serving of Chick-fil-A waffle fries has 520 calories, 60g carbs, and 27g fat."
+  },
+  "basis": {
+    "label": "per 1 large serving",
+    "amount": 1,
+    "unit": "large fries",
+    "nutrition": {
+      "calories_kcal": 520,
+      "carbs_g": 60,
+      "fiber_g": 6,
+      "sugars_g": 0,
+      "protein_g": 7,
+      "fat_g": 27,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 240
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 520,
+    "carbs_g": 60,
+    "fiber_g": 6,
+    "sugars_g": 0,
+    "protein_g": 7,
+    "fat_g": 27,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 240
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with restaurant or packaged info.",
+  "equivalents": {
+    "megajoules": 2.18
+  },
+  "tweaks": [
+    {
+      "label": "Choose medium size instead of large",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 420
+    },
+    {
+      "label": "Add one packet of Chick-fil-A ketchup",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 540
+    },
+    {
+      "label": "Request no salt (reduces sodium but calories similar)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 520
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Chick-fil-A large fries?",
+      "a": "520 calories per large serving of waffle potato fries."
+    },
+    {
+      "q": "What are the carbs in Chick-fil-A large fries?",
+      "a": "About 60g total carbs, including 6g fiber and 0g sugars."
+    },
+    {
+      "q": "How much fat is in a large Chick-fil-A fries?",
+      "a": "27g total fat, with 4.5g saturated fat and 0g trans fat."
+    },
+    {
+      "q": "Are Chick-fil-A large fries high in sodium?",
+      "a": "Yes, 240mg sodium per serving; opt for no salt to reduce."
+    },
+    {
+      "q": "How does medium vs. large Chick-fil-A fries compare in calories?",
+      "a": "Medium has about 420 kcal, while large is 520 kcal—100 kcal difference."
+    }
+  ]
+}

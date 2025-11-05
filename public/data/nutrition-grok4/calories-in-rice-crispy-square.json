@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in rice crispy square",
+  "title": "Calories in One Rice Crispy Square",
+  "meta_description": "Discover calories in rice crispy square, including carbs, sugars, fat, protein, and full nutrition breakdown per treat with easy tweaks.",
+  "slug": "calories-in-rice-crispy-square",
+  "h1": "Calories in One Rice Crispy Square",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "square",
+    "item": "rice crispy square"
+  },
+  "assumptions": "Standard homemade Rice Krispies treat square (~22 g each), made with puffed rice cereal, marshmallows, and butter; no added toppings.",
+  "disclaimer": "Nutrition varies by recipe, brand of ingredients, size, and preparation method. Check labels for commercial versions.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "One rice crispy square has about 90 kcal, mostly from carbs and a bit of fat."
+  },
+  "basis": {
+    "label": "per 1 square",
+    "amount": 1,
+    "unit": "square",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 17,
+      "fiber_g": 0.1,
+      "sugars_g": 8,
+      "protein_g": 0.7,
+      "fat_g": 2.3,
+      "sat_fat_g": 1.4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 6,
+      "sodium_mg": 105
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 17,
+    "fiber_g": 0.1,
+    "sugars_g": 8,
+    "protein_g": 0.7,
+    "fat_g": 2.3,
+    "sat_fat_g": 1.4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 6,
+    "sodium_mg": 105
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp chocolate topping per square",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Use margarine instead of butter per square",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Larger square (double size)",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 180
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one rice crispy square?",
+      "a": "Approximately 90 kcal for a standard 22 g square."
+    },
+    {
+      "q": "What are the carbs in a rice crispy square?",
+      "a": "About 17 g total carbs, including 8 g sugars and minimal fiber."
+    },
+    {
+      "q": "Is a rice crispy square high in sugar?",
+      "a": "Yes, around 8 g sugars per square from marshmallows."
+    },
+    {
+      "q": "How much fat in rice crispy treats?",
+      "a": "Roughly 2.3 g fat per square, with 1.4 g saturated."
+    },
+    {
+      "q": "Do rice crispy squares have protein?",
+      "a": "Very little, about 0.7 g per square from the rice cereal."
+    }
+  ]
+}

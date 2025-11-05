@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a bottle of wine",
+  "title": "How Many Calories in a Bottle of Wine?",
+  "meta_description": "Discover how many calories in a bottle of wine, including carbs, alcohol impact, and variations for red, white, or sweet types in this quick nutrition guide.",
+  "slug": "how-many-calories-in-a-bottle-of-wine",
+  "h1": "How Many Calories in a Bottle of Wine?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "bottle",
+    "item": "wine"
+  },
+  "assumptions": "Standard 750 ml bottle of dry wine (red or white), ~12% ABV, minimal residual sugar, no added ingredients.",
+  "disclaimer": "Nutrition varies by wine type, brand, alcohol content, sweetness, and serving size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 625,
+    "text": "A standard 750 ml bottle of dry wine has about 625 calories, mostly from alcohol."
+  },
+  "basis": {
+    "label": "per 1 bottle (750 ml)",
+    "amount": 1,
+    "unit": "bottle",
+    "nutrition": {
+      "calories_kcal": 625,
+      "carbs_g": 7,
+      "fiber_g": 0,
+      "sugars_g": 3,
+      "protein_g": 1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 20
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 625,
+    "carbs_g": 7,
+    "fiber_g": 0,
+    "sugars_g": 3,
+    "protein_g": 1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 20
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.61
+  },
+  "tweaks": [
+    {
+      "label": "Sweet wine (higher residual sugar)",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 775
+    },
+    {
+      "label": "Low-alcohol wine (~9% ABV)",
+      "delta_kcal_per_unit": -125,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Red wine vs. white (slightly higher tannins/antioxidants, minor cal difference)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 650
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bottle of red wine?",
+      "a": "About 625 kcal for a standard 750 ml dry red wine."
+    },
+    {
+      "q": "Does white wine have fewer calories than red?",
+      "a": "Similar—both around 625 kcal per bottle for dry varieties; differences are minimal."
+    },
+    {
+      "q": "Are calories in wine from alcohol or sugar?",
+      "a": "Mostly from alcohol (~80%), with small amounts from carbs and residual sugars in dry wines."
+    },
+    {
+      "q": "How many calories per glass of wine?",
+      "a": "A standard 5 oz (150 ml) glass has ~125 kcal, so a 750 ml bottle equals about 5 glasses."
+    },
+    {
+      "q": "Does wine have carbs or protein?",
+      "a": "Dry wine has ~7 g carbs per bottle (low sugars) and negligible protein (~1 g)."
+    }
+  ]
+}

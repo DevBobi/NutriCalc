@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in strawberry banana smoothie mcdonalds",
+  "title": "Calories in McDonald's Strawberry Banana Smoothie",
+  "meta_description": "Discover calories in strawberry banana smoothie mcdonalds, including full nutrition breakdown, macros, and serving size details for easy tracking.",
+  "slug": "calories-in-strawberry-banana-smoothie-mcdonalds",
+  "h1": "Calories in McDonald's Strawberry Banana Smoothie",
+  "updated": "2023-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "smoothie",
+    "item": "McDonald's strawberry banana smoothie"
+  },
+  "assumptions": "Small size (16 fl oz) serving, made with strawberry and banana puree, low-fat yogurt, and natural flavors; no customizations.",
+  "disclaimer": "Nutrition varies by size, location, customizations, and preparation; check McDonald's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A small McDonald's strawberry banana smoothie has ~250 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 small smoothie (16 fl oz)",
+    "amount": 1,
+    "unit": "smoothie",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 58,
+      "fiber_g": 3,
+      "sugars_g": 49,
+      "protein_g": 3,
+      "fat_g": 1,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 80
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 58,
+    "fiber_g": 3,
+    "sugars_g": 49,
+    "protein_g": 3,
+    "fat_g": 1,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 80
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Upgrade to medium size (21 fl oz)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Add whipped cream topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Request no yogurt (fruit base only)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 220
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small strawberry banana smoothie mcdonalds?",
+      "a": "About 250 kcal for the small (16 fl oz) size."
+    },
+    {
+      "q": "What are the carbs in McDonald's strawberry banana smoothie?",
+      "a": "Approximately 58 g carbs, including 49 g sugars, per small serving."
+    },
+    {
+      "q": "Is there protein in strawberry banana smoothie mcdonalds?",
+      "a": "Yes, about 3 g protein from the yogurt base in a small smoothie."
+    },
+    {
+      "q": "How does the large size compare in calories?",
+      "a": "A large (32 fl oz) has around 450 kcal, nearly double the small."
+    },
+    {
+      "q": "Are McDonald's smoothies low-fat?",
+      "a": "Yes, only 1 g total fat per small strawberry banana smoothie."
+    }
+  ]
+}

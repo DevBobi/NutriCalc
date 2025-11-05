@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 tbsp butter",
+  "title": "Calories in 1 Tbsp Butter",
+  "meta_description": "Discover calories in 1 tbsp butter, including fat breakdown, sodium, and nutrition facts per serving with easy tweaks for recipes.",
+  "slug": "calories-in-1-tbsp-butter",
+  "h1": "Calories in 1 Tbsp Butter",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "butter"
+  },
+  "assumptions": "Standard salted butter; 1 tbsp ≈14 g; no additives.",
+  "disclaimer": "Nutrition varies by brand, salted vs. unsalted, and fat content. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 102,
+    "text": "One tablespoon of butter provides about 102 calories, primarily from saturated fat."
+  },
+  "basis": {
+    "label": "per 1 tbsp",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 102,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.1,
+      "fat_g": 11.5,
+      "sat_fat_g": 7.3,
+      "trans_fat_g": 0.3,
+      "cholesterol_mg": 31,
+      "sodium_mg": 91
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 102,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.1,
+    "fat_g": 11.5,
+    "sat_fat_g": 7.3,
+    "trans_fat_g": 0.3,
+    "cholesterol_mg": 31,
+    "sodium_mg": 91
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.43
+  },
+  "tweaks": [
+    {
+      "label": "Use unsalted butter",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 102
+    },
+    {
+      "label": "Switch to light butter (reduced fat)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 52
+    },
+    {
+      "label": "Make garlic butter (add 1/2 clove minced garlic)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 105
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in 1 tbsp of butter?",
+      "a": "Approximately 102 calories per tablespoon."
+    },
+    {
+      "q": "What is the fat content in 1 tbsp butter?",
+      "a": "About 11.5 g total fat, including 7.3 g saturated fat."
+    },
+    {
+      "q": "Does butter have carbs or protein?",
+      "a": "Negligible carbs (0 g) and protein (0.1 g) per tbsp."
+    },
+    {
+      "q": "How much sodium in salted butter per tbsp?",
+      "a": "Around 91 mg; unsalted has 0 mg."
+    },
+    {
+      "q": "Is butter keto-friendly for 1 tbsp?",
+      "a": "Yes, with 0 g carbs and high fat, but watch saturated fat intake."
+    }
+  ]
+}

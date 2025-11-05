@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a sushi",
+  "title": "How Many Calories Are in a Sushi?",
+  "meta_description": "Learn how many calories are in a sushi piece, plus full nutrition breakdown, macros, and preparation tweaks for accurate tracking.",
+  "slug": "how-many-calories-are-in-a-sushi",
+  "h1": "How Many Calories Are in a Sushi?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sushi",
+    "item": "sushi"
+  },
+  "assumptions": "One piece of nigiri sushi (vinegared rice topped with raw fish like tuna or salmon, ~25-30g total); no dipping sauce or extras.",
+  "disclaimer": "Nutrition varies by fish type, rice portion, rice vinegar, and preparation; sushi rolls or maki differ significantly. Check restaurant info when available.",
+  "quick_answer": {
+    "total_kcal": 50,
+    "text": "One piece of nigiri sushi provides about 50 kcal, mostly from rice carbs."
+  },
+  "basis": {
+    "label": "per 1 piece nigiri sushi",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 50,
+      "carbs_g": 7.5,
+      "fiber_g": 0.1,
+      "sugars_g": 0.5,
+      "protein_g": 3,
+      "fat_g": 1.2,
+      "sat_fat_g": 0.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 120
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 50,
+    "carbs_g": 7.5,
+    "fiber_g": 0.1,
+    "sugars_g": 0.5,
+    "protein_g": 3,
+    "fat_g": 1.2,
+    "sat_fat_g": 0.3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 120
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged or restaurant data.",
+  "equivalents": {
+    "megajoules": 0.21
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp soy sauce dip",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Avocado-topped (vs. fish) nigiri",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 65
+    },
+    {
+      "label": "Tempura-fried piece (vs. raw)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a sushi piece?",
+      "a": "About 50 kcal for one standard nigiri sushi piece."
+    },
+    {
+      "q": "What's the protein in a sushi?",
+      "a": "Roughly 3 g protein per piece, mainly from the fish topping."
+    },
+    {
+      "q": "Do sushi pieces have a lot of carbs?",
+      "a": "Yes, around 7.5 g carbs per piece, primarily from the rice."
+    },
+    {
+      "q": "How does a sushi roll compare to nigiri?",
+      "a": "A full 6-piece roll has 200-300 kcal total; each piece ~40-50 kcal, but varies by filling."
+    },
+    {
+      "q": "Why does sodium vary in sushi?",
+      "a": "From seasoned rice and soy; can reach 120 mg per piece or more with extras."
+    }
+  ]
+}

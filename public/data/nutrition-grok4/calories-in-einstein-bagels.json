@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in einstein bagels",
+  "title": "Calories in Einstein Bagels",
+  "meta_description": "Discover calories in einstein bagels, including nutrition facts per bagel, macros, and variations for popular flavors from Einstein Bros.",
+  "slug": "calories-in-einstein-bagels",
+  "h1": "Calories in Einstein Bagels",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bagel",
+    "item": "Einstein bagel"
+  },
+  "assumptions": "Plain bagel from Einstein Bros. Bagels, standard size (~113 g), baked without added toppings.",
+  "disclaimer": "Nutrition varies by flavor, size, preparation, and location; values based on standard Einstein Bros. data. Check menu or app for exacts.",
+  "quick_answer": {
+    "total_kcal": 280,
+    "text": "One plain Einstein bagel has about 280 kcal, with 56 g carbs and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 plain bagel",
+    "amount": 1,
+    "unit": "bagel",
+    "nutrition": {
+      "calories_kcal": 280,
+      "carbs_g": 56,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 9,
+      "fat_g": 1.5,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 480
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 280,
+    "carbs_g": 56,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 9,
+    "fat_g": 1.5,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 480
+  },
+  "label_note": "Values mirror standard Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.17
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 oz plain cream cheese",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Asiago cheese bagel (vs. plain)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Everything bagel with seeds (vs. plain)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 290
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Einstein plain bagel?",
+      "a": "Approximately 280 kcal per plain bagel."
+    },
+    {
+      "q": "What are the carbs in Einstein bagels?",
+      "a": "About 56 g carbs per plain bagel, mostly from refined flour."
+    },
+    {
+      "q": "Calories in Einstein bagels with cream cheese?",
+      "a": "Adds ~80 kcal for 1 oz plain cream cheese, totaling ~360 kcal."
+    },
+    {
+      "q": "Do Einstein bagels have fiber?",
+      "a": "Yes, around 2 g dietary fiber per plain bagel."
+    },
+    {
+      "q": "How does sodium in Einstein bagels compare?",
+      "a": "Plain bagel has ~480 mg sodium; flavored ones may be higher."
+    }
+  ]
+}

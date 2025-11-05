@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pulled pork",
+  "title": "Calories in Pulled Pork",
+  "meta_description": "Discover calories in pulled pork per 100 g serving, including protein, fat, carbs, sodium details, and easy tweaks for your BBQ recipe.",
+  "slug": "calories-in-pulled-pork",
+  "h1": "Calories in Pulled Pork",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "pulled pork"
+  },
+  "assumptions": "Cooked pork shoulder, shredded, with moderate BBQ sauce; no buns or additional toppings.",
+  "disclaimer": "Nutrition varies by cut, sauce brand, cooking method, and portion size. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 240,
+    "text": "100 g of pulled pork with BBQ sauce provides ~240 kcal and ~22 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 240,
+      "carbs_g": 6,
+      "fiber_g": 0.5,
+      "sugars_g": 5,
+      "protein_g": 22,
+      "fat_g": 12,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 240,
+    "carbs_g": 6,
+    "fiber_g": 0.5,
+    "sugars_g": 5,
+    "protein_g": 22,
+    "fat_g": 12,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 70,
+    "sodium_mg": 400
+  },
+  "label_note": "Values align with standard Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 1
+  },
+  "tweaks": [
+    {
+      "label": "Without BBQ sauce (plain pulled pork)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Lean pork tenderloin instead of shoulder",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Add 1 tbsp extra BBQ sauce per 100 g",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in pulled pork per 100 g?",
+      "a": "About 240 kcal for pulled pork with BBQ sauce."
+    },
+    {
+      "q": "Is pulled pork high in protein?",
+      "a": "Yes, ~22 g protein per 100 g, making it a good lean meat option."
+    },
+    {
+      "q": "What's the sodium in pulled pork?",
+      "a": "Around 400 mg per 100 g, mainly from the sauce—watch if on a low-sodium diet."
+    },
+    {
+      "q": "Calories in pulled pork without sauce?",
+      "a": "Roughly 190 kcal per 100 g for plain cooked and shredded pork shoulder."
+    },
+    {
+      "q": "How does cooking method affect pulled pork calories?",
+      "a": "Slow-cooking retains juices; added fats like oil can increase calories by 20-50 kcal per 100 g."
+    }
+  ]
+}

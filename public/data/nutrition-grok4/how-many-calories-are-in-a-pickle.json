@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a pickle",
+  "title": "How Many Calories Are in a Pickle?",
+  "meta_description": "Discover how many calories are in a pickle—typically just 5 kcal per medium dill pickle—plus full nutrition breakdown, sodium details, and variations for your diet.",
+  "slug": "how-many-calories-are-in-a-pickle",
+  "h1": "How Many Calories Are in a Pickle?",
+  "updated": "2023-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "pickle",
+    "item": "pickle"
+  },
+  "assumptions": "Medium dill pickle (~65 g), fermented in brine, no added sugar or spices beyond basic dill.",
+  "disclaimer": "Nutrition varies by brand, size, type (dill vs. sweet), and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 5,
+    "text": "A medium dill pickle has about 5 calories and is very low in fat and protein."
+  },
+  "basis": {
+    "label": "per 1 medium pickle",
+    "amount": 1,
+    "unit": "pickle",
+    "nutrition": {
+      "calories_kcal": 5,
+      "carbs_g": 1.1,
+      "fiber_g": 0.5,
+      "sugars_g": 0.4,
+      "protein_g": 0.3,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 615
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 5,
+    "carbs_g": 1.1,
+    "fiber_g": 0.5,
+    "sugars_g": 0.4,
+    "protein_g": 0.3,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 615
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.02
+  },
+  "tweaks": [
+    {
+      "label": "Sweet pickle (bread and butter style)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 20
+    },
+    {
+      "label": "Large pickle (~100 g)",
+      "delta_kcal_per_unit": 3,
+      "new_total_kcal": 8
+    },
+    {
+      "label": "Low-sodium version (rinsed)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 5
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a dill pickle?",
+      "a": "About 5 kcal for a medium-sized one."
+    },
+    {
+      "q": "Are pickles high in sodium?",
+      "a": "Yes, typically 600+ mg per pickle due to the brine."
+    },
+    {
+      "q": "Do pickles have any protein or fat?",
+      "a": "Very little—around 0.3 g protein and 0.1 g fat per pickle."
+    },
+    {
+      "q": "What's the carb count in a pickle?",
+      "a": "About 1.1 g carbs, including 0.5 g fiber, per medium pickle."
+    },
+    {
+      "q": "How do sweet pickles compare calorie-wise?",
+      "a": "Higher at ~20 kcal due to added sugar."
+    }
+  ]
+}

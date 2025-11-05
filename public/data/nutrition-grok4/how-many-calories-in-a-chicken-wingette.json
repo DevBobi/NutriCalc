@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a chicken wingette",
+  "title": "How Many Calories in a Chicken Wingette?",
+  "meta_description": "Discover how many calories in a chicken wingette, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better choices.",
+  "slug": "how-many-calories-in-a-chicken-wingette",
+  "h1": "How Many Calories in a Chicken Wingette?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "wingette",
+    "item": "chicken wingette"
+  },
+  "assumptions": "Roasted chicken wingette with skin (drumette or flat section, ~30g edible portion), no added sauces or breading.",
+  "disclaimer": "Nutrition varies by size, cooking method, skin removal, and added ingredients. Check labels or use a tracker for precision.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "A roasted chicken wingette provides about 90 kcal and 9 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken wingette",
+    "amount": 1,
+    "unit": "wingette",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 9,
+      "fat_g": 6,
+      "sat_fat_g": 1.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 25
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 9,
+    "fat_g": 6,
+    "sat_fat_g": 1.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 25
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Fried in oil (vs. roasted)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Skin removed before cooking",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Add 1 tbsp buffalo sauce",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chicken wingette?",
+      "a": "Approximately 90 kcal for one roasted wingette with skin."
+    },
+    {
+      "q": "What's the protein in a chicken wingette?",
+      "a": "About 9 g protein per roasted wingette."
+    },
+    {
+      "q": "Are chicken wingettes high in fat?",
+      "a": "They have around 6 g total fat, mostly from the skin; removing it lowers fat significantly."
+    },
+    {
+      "q": "Does cooking method affect calories in chicken wingettes?",
+      "a": "Yes—roasted is lower (~90 kcal); fried can add 50+ kcal from oil absorption."
+    },
+    {
+      "q": "How does a wingette compare to a full chicken wing?",
+      "a": "A wingette is about half a full wing, so roughly 90 kcal vs. 180 kcal for a whole roasted wing with skin."
+    }
+  ]
+}

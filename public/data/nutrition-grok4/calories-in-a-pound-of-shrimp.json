@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a pound of shrimp",
+  "title": "Calories in a Pound of Shrimp",
+  "meta_description": "Learn calories in a pound of shrimp—about 449 kcal total—with protein, fat, carbs, and full nutrition facts based on cooked, peeled shrimp.",
+  "slug": "calories-in-a-pound-of-shrimp",
+  "h1": "Calories in a Pound of Shrimp",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "pound",
+    "item": "shrimp"
+  },
+  "assumptions": "Cooked (boiled or steamed), peeled, deveined shrimp; no added salt, oil, or seasonings; 1 pound ≈ 454 grams.",
+  "disclaimer": "Nutrition varies by shrimp type, size, cooking method, and whether fresh or frozen; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 449,
+    "text": "A pound of cooked shrimp offers ~449 kcal and ~109 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 99,
+      "carbs_g": 0.2,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 23.98,
+      "fat_g": 1.73,
+      "sat_fat_g": 0.28,
+      "trans_fat_g": 0.01,
+      "cholesterol_mg": 195,
+      "sodium_mg": 307
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 449,
+    "carbs_g": 0.9,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 108.9,
+    "fat_g": 7.85,
+    "sat_fat_g": 1.27,
+    "trans_fat_g": 0.05,
+    "cholesterol_mg": 885,
+    "sodium_mg": 1393
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Grilled with 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 629
+    },
+    {
+      "label": "Deep-fried (battered) per 100 g",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 1357
+    },
+    {
+      "label": "Raw (uncooked) per 100 g",
+      "delta_kcal_per_unit": -28,
+      "new_total_kcal": 277
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a pound of shrimp?",
+      "a": "Approximately 449 kcal for 1 pound of cooked, peeled shrimp."
+    },
+    {
+      "q": "How much protein is in a pound of shrimp?",
+      "a": "About 109 g of protein, making it a high-protein, low-fat option."
+    },
+    {
+      "q": "Are shrimp low in carbs?",
+      "a": "Yes, only 0.9 g carbs total in a pound, with 0 g fiber and sugars."
+    },
+    {
+      "q": "What's the cholesterol in a pound of shrimp?",
+      "a": "Around 885 mg, mostly from the natural composition; consult a doctor if monitoring intake."
+    },
+    {
+      "q": "Does cooking method affect calories in shrimp?",
+      "a": "Yes—boiled/steamed is lowest; frying or adding oil/butter increases calories significantly."
+    }
+  ]
+}

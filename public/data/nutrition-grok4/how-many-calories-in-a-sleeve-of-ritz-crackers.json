@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a sleeve of ritz crackers",
+  "title": "How Many Calories in a Sleeve of Ritz Crackers?",
+  "meta_description": "Learn how many calories in a sleeve of Ritz crackers, with full nutrition facts, macros per serving, and easy tweaks for different flavors.",
+  "slug": "how-many-calories-in-a-sleeve-of-ritz-crackers",
+  "h1": "How Many Calories in a Sleeve of Ritz Crackers?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sleeve",
+    "item": "ritz crackers"
+  },
+  "assumptions": "Original flavor Ritz crackers; one standard sleeve (approx. 35 crackers, 120g total weight).",
+  "disclaimer": "Nutrition varies by flavor, exact sleeve size, and manufacturer. Values are averages; check packaging for specifics.",
+  "quick_answer": {
+    "total_kcal": 500,
+    "text": "A sleeve of Ritz crackers provides about 500 calories, primarily from refined carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 sleeve",
+    "amount": 1,
+    "unit": "sleeve",
+    "nutrition": {
+      "calories_kcal": 500,
+      "carbs_g": 65,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 7,
+      "fat_g": 25,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 500,
+    "carbs_g": 65,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 7,
+    "fat_g": 25,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1000
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 2.09
+  },
+  "tweaks": [
+    {
+      "label": "Reduced-fat Ritz version",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Add 1 oz cheddar cheese slices",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 610
+    },
+    {
+      "label": "Whole wheat Ritz variety",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 480
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one sleeve of Ritz crackers?",
+      "a": "Approximately 500 calories for a standard original sleeve."
+    },
+    {
+      "q": "How many crackers are in a sleeve of Ritz?",
+      "a": "Typically 34-35 crackers per sleeve."
+    },
+    {
+      "q": "What are the carbs in a sleeve of Ritz crackers?",
+      "a": "About 65g total carbs, with 2g fiber and 5g sugars."
+    },
+    {
+      "q": "Are Ritz crackers high in sodium?",
+      "a": "Yes, a sleeve has around 1000mg sodium—watch intake if limiting salt."
+    },
+    {
+      "q": "How does the calorie count change with flavored Ritz?",
+      "a": "Flavored varieties like cheese may add 50-100 calories per sleeve due to extra fat."
+    }
+  ]
+}

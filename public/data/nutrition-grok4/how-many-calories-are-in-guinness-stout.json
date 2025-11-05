@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in guinness stout",
+  "title": "How Many Calories Are in Guinness Stout?",
+  "meta_description": "Discover how many calories are in Guinness stout per standard 12 oz serving, including carbs, protein, sodium, and quick tweaks for variations.",
+  "slug": "how-many-calories-are-in-guinness-stout",
+  "h1": "How Many Calories Are in Guinness Stout?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Guinness stout"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) serving of Guinness Draught stout; values based on typical nutritional data for the unpasteurized canned or bottled version.",
+  "disclaimer": "Nutrition varies by specific variety (e.g., Draught vs. Foreign Extra), serving size, and brewing batch. Check labels or official sources for exact values.",
+  "quick_answer": {
+    "total_kcal": 125,
+    "text": "One 12 oz serving of Guinness stout contains about 125 calories and 10 g of carbs."
+  },
+  "basis": {
+    "label": "per 12 fl oz serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 125,
+      "carbs_g": 9.6,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 40
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 125,
+    "carbs_g": 9.6,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 40
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.52
+  },
+  "tweaks": [
+    {
+      "label": "16 oz pint serving (vs. 12 oz)",
+      "delta_kcal_per_unit": 42,
+      "new_total_kcal": 167
+    },
+    {
+      "label": "Guinness Foreign Extra Stout (higher ABV)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Guinness 0.0 non-alcoholic version",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a 12 oz Guinness stout?",
+      "a": "Approximately 125 calories per 12 fl oz serving."
+    },
+    {
+      "q": "Does Guinness stout have carbs or sugar?",
+      "a": "About 9.6 g carbs per serving, with 0 g sugars; carbs come from malted barley."
+    },
+    {
+      "q": "Is Guinness stout low in fat or protein?",
+      "a": "Yes, 0 g fat and 1 g protein per 12 oz serving."
+    },
+    {
+      "q": "How does serving size affect calories in Guinness?",
+      "a": "Calories scale with volume; a 16 oz pint has about 167 kcal."
+    },
+    {
+      "q": "What's the sodium in Guinness stout?",
+      "a": "Around 40 mg per 12 oz serving, relatively low for beer."
+    }
+  ]
+}

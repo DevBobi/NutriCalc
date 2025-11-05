@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken and dumplings",
+  "title": "Calories in Chicken and Dumplings",
+  "meta_description": "Discover calories in chicken and dumplings per serving, including macros like protein and carbs, plus basis details and variations for better meal planning.",
+  "slug": "calories-in-chicken-and-dumplings",
+  "h1": "Calories in Chicken and Dumplings",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "chicken and dumplings"
+  },
+  "assumptions": "Homemade version with skinless chicken breast, flour-based dumplings, chicken broth, carrots, celery; 1 cup (about 250 g) serving.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, portion size, and preparation method. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 280,
+    "text": "One cup serving of chicken and dumplings provides ~280 kcal with balanced protein from chicken and carbs from dumplings."
+  },
+  "basis": {
+    "label": "per 1 cup serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 280,
+      "carbs_g": 32,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 18,
+      "fat_g": 8,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 45,
+      "sodium_mg": 850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 280,
+    "carbs_g": 32,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 18,
+    "fat_g": 8,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 45,
+    "sodium_mg": 850
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.17
+  },
+  "tweaks": [
+    {
+      "label": "Use chicken thighs instead of breast per serving",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Add 1 tbsp cream for creamy version per serving",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Low-sodium broth and no added salt per serving",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of chicken and dumplings?",
+      "a": "About 280 kcal for a standard 1-cup homemade serving."
+    },
+    {
+      "q": "What's the protein content in chicken and dumplings?",
+      "a": "Approximately 18 g protein per cup serving from the chicken."
+    },
+    {
+      "q": "Are chicken and dumplings high in sodium?",
+      "a": "Yes, around 850 mg per serving due to broth; opt for low-sodium versions."
+    },
+    {
+      "q": "How do calories change with different recipes?",
+      "a": "Creamy or fried dumplings can add 50+ kcal; leaner chicken reduces fat."
+    },
+    {
+      "q": "What are the carbs in chicken and dumplings?",
+      "a": "Roughly 32 g carbs per serving, mostly from dumplings and veggies."
+    }
+  ]
+}

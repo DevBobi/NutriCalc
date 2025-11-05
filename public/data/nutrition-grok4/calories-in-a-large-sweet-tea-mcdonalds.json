@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a large sweet tea mcdonalds",
+  "title": "Calories in a Large McDonald's Sweet Tea",
+  "meta_description": "Discover calories in a large sweet tea McDonalds, including full nutrition breakdown like carbs, sugars, and sodium for this 32 oz serving.",
+  "slug": "calories-in-a-large-sweet-tea-mcdonalds",
+  "h1": "Calories in a Large McDonald's Sweet Tea",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "large",
+    "item": "sweet tea McDonalds"
+  },
+  "assumptions": "McDonald's standard large sweet iced tea (32 fl oz), brewed black tea with sugar, no additional flavors or add-ins.",
+  "disclaimer": "Nutrition varies by location, recipe changes, and serving size; values based on McDonald's official data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 160,
+    "text": "A large McDonald's sweet tea contains 160 calories, primarily from 41 g of sugars."
+  },
+  "basis": {
+    "label": "per large (32 fl oz) serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 160,
+      "carbs_g": 41,
+      "fiber_g": 0,
+      "sugars_g": 41,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 70
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 160,
+    "carbs_g": 41,
+    "fiber_g": 0,
+    "sugars_g": 41,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 70
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.67
+  },
+  "tweaks": [
+    {
+      "label": "Switch to unsweetened version",
+      "delta_kcal_per_unit": -160,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Add a lemon wedge (negligible calories)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 165
+    },
+    {
+      "label": "Half sweet, half unsweetened mix",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 80
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a large sweet tea McDonalds?",
+      "a": "Approximately 160 calories for the 32 fl oz serving."
+    },
+    {
+      "q": "What's the sugar content in McDonald's large sweet tea?",
+      "a": "About 41 g of sugars, all from added cane sugar."
+    },
+    {
+      "q": "Does McDonald's large sweet tea have caffeine?",
+      "a": "Yes, around 63 mg of caffeine from black tea."
+    },
+    {
+      "q": "Are there carbs in a large McDonald's sweet tea?",
+      "a": "41 g of carbs, with 0 g fiber and all as sugars."
+    },
+    {
+      "q": "How does medium sweet tea compare to large at McDonald's?",
+      "a": "Medium (22 fl oz) has about 110 calories, scaled down from large."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in rotisserie chicken breast",
+  "title": "Calories in Rotisserie Chicken Breast",
+  "meta_description": "Learn calories in rotisserie chicken breast per 100g, with protein, fat, carbs, sodium details, and preparation tweaks for better tracking.",
+  "slug": "calories-in-rotisserie-chicken-breast",
+  "h1": "Calories in Rotisserie Chicken Breast",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "rotisserie chicken breast"
+  },
+  "assumptions": "With skin, roasted rotisserie-style with light seasoning; boneless breast meat; no added sauces.",
+  "disclaimer": "Nutrition varies by brand, seasoning level, skin inclusion, and cooking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "100g of rotisserie chicken breast provides ~190 kcal and ~25g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 9,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 9,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 85,
+    "sodium_mg": 500
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Skinless (remove skin before eating)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add 1 tbsp BBQ sauce per 100g",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 235
+    },
+    {
+      "label": "Extra seasoning or brine (higher sodium, slight calorie bump)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g rotisserie chicken breast?",
+      "a": "Approximately 190 kcal per 100g with skin and light seasoning."
+    },
+    {
+      "q": "What's the protein in rotisserie chicken breast?",
+      "a": "About 25g protein per 100g serving."
+    },
+    {
+      "q": "Does rotisserie chicken have more calories than plain roasted?",
+      "a": "Slightly higher due to skin and seasonings; skinless is similar to plain at ~165 kcal per 100g."
+    },
+    {
+      "q": "How much sodium is in rotisserie chicken breast?",
+      "a": "Around 500mg per 100g from seasonings; varies by brand."
+    },
+    {
+      "q": "Are carbs present in rotisserie chicken breast?",
+      "a": "Negligible carbs (0g per 100g); it's primarily protein and fat."
+    }
+  ]
+}

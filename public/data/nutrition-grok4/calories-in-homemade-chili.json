@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in homemade chili",
+  "title": "Calories in Homemade Chili",
+  "meta_description": "Discover calories in homemade chili per serving, including macros like protein, carbs, fat, plus recipe tweaks and nutrition basis for easy tracking.",
+  "slug": "calories-in-homemade-chili",
+  "h1": "Calories in Homemade Chili",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "homemade chili"
+  },
+  "assumptions": "Standard beef and bean chili with ground beef (lean), kidney beans, tomatoes, onions, garlic, chili powder; 1 cup serving (~240 g), no toppings.",
+  "disclaimer": "Nutrition varies by recipe, meat fat content, bean type, added oils, and portion size. Check ingredients for accuracy.",
+  "quick_answer": {
+    "total_kcal": 286,
+    "text": "One cup of homemade chili provides ~286 kcal and ~20 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup (240 g)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 286,
+      "carbs_g": 25,
+      "fiber_g": 7,
+      "sugars_g": 5,
+      "protein_g": 20,
+      "fat_g": 12,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 50,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 286,
+    "carbs_g": 25,
+    "fiber_g": 7,
+    "sugars_g": 5,
+    "protein_g": 20,
+    "fat_g": 12,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 50,
+    "sodium_mg": 800
+  },
+  "label_note": "Values align with standard Nutrition Facts labels for comparison.",
+  "equivalents": {
+    "megajoules": 1.2
+  },
+  "tweaks": [
+    {
+      "label": "Vegetarian version (replace beef with more beans)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 206
+    },
+    {
+      "label": "Add 1 oz shredded cheddar cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 396
+    },
+    {
+      "label": "Use ground turkey instead of beef",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 256
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of homemade chili?",
+      "a": "Approximately 286 kcal for a standard beef and bean recipe."
+    },
+    {
+      "q": "What's the protein in homemade chili?",
+      "a": "About 20 g protein per cup, mainly from beef and beans."
+    },
+    {
+      "q": "Does homemade chili have a lot of sodium?",
+      "a": "Yes, around 800 mg per cup due to canned tomatoes and spices; use low-sodium versions to reduce."
+    },
+    {
+      "q": "How do carbs break down in homemade chili?",
+      "a": "25 g total carbs per cup, with 7 g fiber and 5 g sugars from beans and tomatoes."
+    },
+    {
+      "q": "Can I make homemade chili lower in fat?",
+      "a": "Yes, use leaner meat or turkey, drain fat after browning, and skip added oils to cut ~4 g fat per cup."
+    }
+  ]
+}

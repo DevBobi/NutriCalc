@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in a cup of noodles",
+  "title": "How Many Calories in a Cup of Noodles?",
+  "meta_description": "Discover how many calories is in a cup of noodles—about 290 kcal for instant varieties—plus full nutrition breakdown, macros, and preparation tweaks.",
+  "slug": "how-many-calories-is-in-a-cup-of-noodles",
+  "h1": "How Many Calories in a Cup of Noodles?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "noodles"
+  },
+  "assumptions": "Standard instant cup noodles (e.g., chicken flavor, 64g dry serving prepared with water, including broth).",
+  "disclaimer": "Nutrition varies by brand, flavor, preparation method, and portion size. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 290,
+    "text": "A standard cup of instant noodles contains about 290 kcal, with high sodium and moderate carbs."
+  },
+  "basis": {
+    "label": "per 1 cup instant noodles",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 290,
+      "carbs_g": 40,
+      "fiber_g": 2,
+      "sugars_g": 2,
+      "protein_g": 7,
+      "fat_g": 11,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 1300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 290,
+    "carbs_g": 40,
+    "fiber_g": 2,
+    "sugars_g": 2,
+    "protein_g": 7,
+    "fat_g": 11,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 1300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.21
+  },
+  "tweaks": [
+    {
+      "label": "Drain the broth before eating",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Add one boiled egg",
+      "delta_kcal_per_unit": 78,
+      "new_total_kcal": 368
+    },
+    {
+      "label": "Use low-sodium version",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 280
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in a cup of instant noodles?",
+      "a": "Approximately 290 kcal for a standard 64g serving."
+    },
+    {
+      "q": "What are the carbs in a cup of noodles?",
+      "a": "About 40g total carbs, including 2g fiber and 2g sugars."
+    },
+    {
+      "q": "Is a cup of noodles high in sodium?",
+      "a": "Yes, typically around 1300mg per cup—over half the daily recommended limit."
+    },
+    {
+      "q": "How does preparation affect calories in a cup of noodles?",
+      "a": "Boiling in water adds no calories, but added oils or toppings can increase them."
+    },
+    {
+      "q": "Are there healthier tweaks for a cup of noodles?",
+      "a": "Drain broth to cut calories and sodium, or add veggies for fiber without many extra kcal."
+    }
+  ]
+}

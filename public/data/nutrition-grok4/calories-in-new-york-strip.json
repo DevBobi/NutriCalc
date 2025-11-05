@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in new york strip",
+  "title": "Calories in New York Strip Steak",
+  "meta_description": "Learn calories in New York strip steak for a standard 6 oz serving, including protein, fat, carbs, sodium, and quick preparation tweaks to adjust nutrition.",
+  "slug": "calories-in-new-york-strip",
+  "h1": "Calories in New York Strip Steak",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "steak",
+    "item": "New York strip"
+  },
+  "assumptions": "6 oz (170 g) cooked serving, broiled, choice grade beef, separable lean and fat trimmed to 1/8 inch, no added oil, marinade, or seasonings.",
+  "disclaimer": "Nutrition varies by cut, grade, cooking method, fat trimming, and portion size. Check labels or use a food scale for accuracy.",
+  "quick_answer": {
+    "total_kcal": 461,
+    "text": "A 6 oz New York strip steak provides ~461 kcal and ~43 g protein."
+  },
+  "basis": {
+    "label": "per 1 New York strip steak (170 g)",
+    "amount": 1,
+    "unit": "steak",
+    "nutrition": {
+      "calories_kcal": 461,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 43,
+      "fat_g": 31,
+      "sat_fat_g": 13,
+      "trans_fat_g": 0.3,
+      "cholesterol_mg": 148,
+      "sodium_mg": 99
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 461,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 43,
+    "fat_g": 31,
+    "sat_fat_g": 13,
+    "trans_fat_g": 0.3,
+    "cholesterol_mg": 148,
+    "sodium_mg": 99
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.93
+  },
+  "tweaks": [
+    {
+      "label": "Fully trim visible fat (lean only)",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 341
+    },
+    {
+      "label": "Add 1 tbsp butter for basting",
+      "delta_kcal_per_unit": 102,
+      "new_total_kcal": 563
+    },
+    {
+      "label": "Marinate in oil-based sauce (1 tbsp oil)",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 581
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a New York strip steak?",
+      "a": "About 461 kcal for a standard 6 oz cooked serving."
+    },
+    {
+      "q": "What's the protein in New York strip?",
+      "a": "Approximately 43 g protein per 6 oz steak."
+    },
+    {
+      "q": "Does New York strip have carbs?",
+      "a": "No carbs, fiber, or sugars—it's a zero-carb protein source."
+    },
+    {
+      "q": "How does cooking method affect calories in New York strip?",
+      "a": "Broiling or grilling keeps calories lower; pan-frying with oil adds 50-100 kcal per tbsp."
+    },
+    {
+      "q": "Is New York strip high in fat?",
+      "a": "Yes, ~31 g total fat per 6 oz, with 13 g saturated; choose lean cuts to reduce."
+    }
+  ]
+}

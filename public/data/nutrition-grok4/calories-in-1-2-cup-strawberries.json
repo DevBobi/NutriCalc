@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 2 cup strawberries",
+  "title": "Calories in 1/2 Cup Strawberries",
+  "meta_description": "Discover calories in 1/2 cup strawberries, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown per serving.",
+  "slug": "calories-in-1-2-cup-strawberries",
+  "h1": "Calories in 1/2 Cup Strawberries",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 0.5,
+    "unit": "cup",
+    "item": "strawberries"
+  },
+  "assumptions": "Fresh, sliced strawberries; no added sugar or toppings; standard serving size.",
+  "disclaimer": "Nutrition varies by ripeness, variety, and preparation; values approximate. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 27,
+    "text": "1/2 cup sliced strawberries provides ~27 kcal and ~1.7 g fiber."
+  },
+  "basis": {
+    "label": "per 1 cup sliced",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 53,
+      "carbs_g": 12.7,
+      "fiber_g": 3.3,
+      "sugars_g": 8.1,
+      "protein_g": 1.1,
+      "fat_g": 0.5,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 27,
+    "carbs_g": 6.4,
+    "fiber_g": 1.7,
+    "sugars_g": 4.1,
+    "protein_g": 0.6,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.11
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar per cup",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 35
+    },
+    {
+      "label": "Frozen strawberries (thawed, per cup)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 27
+    },
+    {
+      "label": "With 1 tbsp whipped cream per 1/2 cup",
+      "delta_kcal_per_unit": 26,
+      "new_total_kcal": 50
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1/2 cup strawberries?",
+      "a": "About 27 kcal for 1/2 cup sliced fresh strawberries."
+    },
+    {
+      "q": "What is the fiber content in 1/2 cup strawberries?",
+      "a": "Approximately 1.7 g of dietary fiber."
+    },
+    {
+      "q": "Are strawberries low carb?",
+      "a": "Yes, 1/2 cup has ~6.4 g carbs, mostly from natural sugars."
+    },
+    {
+      "q": "How much sugar in 1/2 cup strawberries?",
+      "a": "Around 4.1 g of natural sugars."
+    },
+    {
+      "q": "Do strawberries have fat or cholesterol?",
+      "a": "Negligible fat (0.3 g) and 0 mg cholesterol per 1/2 cup."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 4oz steak",
+  "title": "Calories in 4oz Steak",
+  "meta_description": "Discover calories in 4oz steak, including protein, fat, carbs, full nutrition breakdown per 100g basis, and preparation tweaks for accurate tracking.",
+  "slug": "calories-in-4oz-steak",
+  "h1": "Calories in 4oz Steak",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 4,
+    "unit": "oz",
+    "item": "steak"
+  },
+  "assumptions": "Grilled sirloin steak, lean (trimmed of visible fat), cooked to medium; no added oils, sauces, or seasonings.",
+  "disclaimer": "Nutrition varies by cut (e.g., ribeye vs. sirloin), fat content, cooking method, and portion accuracy. Check labels or use a food scale for precision.",
+  "quick_answer": {
+    "total_kcal": 226,
+    "text": "A 4oz grilled lean sirloin steak provides ~226 kcal and ~31 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 27,
+      "fat_g": 10,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.4,
+      "cholesterol_mg": 75,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 226,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 31,
+    "fat_g": 11,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 85,
+    "sodium_mg": 68
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged products.",
+  "equivalents": {
+    "megajoules": 0.95
+  },
+  "tweaks": [
+    {
+      "label": "Ribeye cut (fattier) instead of sirloin per 100 g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 321
+    },
+    {
+      "label": "Add 1 tsp butter for cooking per 4oz",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 266
+    },
+    {
+      "label": "Pan-seared with 1 tsp oil per 4oz",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 271
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 4oz grilled steak?",
+      "a": "About 226 kcal for a lean sirloin, grilled without added fat."
+    },
+    {
+      "q": "What's the protein in 4oz steak?",
+      "a": "Approximately 31 g protein, making it a high-protein option."
+    },
+    {
+      "q": "Does steak have carbs or fiber?",
+      "a": "Zero carbs and zero fiber in plain grilled steak."
+    },
+    {
+      "q": "How does cooking method affect calories in steak?",
+      "a": "Grilling or broiling keeps it lower; frying or adding butter/oil increases by 40-100 kcal per serving."
+    },
+    {
+      "q": "What about fat content in 4oz steak?",
+      "a": "Around 11 g total fat, with 5 g saturated; choose lean cuts to reduce."
+    }
+  ]
+}

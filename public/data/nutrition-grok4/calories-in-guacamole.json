@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in guacamole",
+  "title": "Calories in Guacamole",
+  "meta_description": "Discover calories in guacamole per 100g serving, including carbs, fat, protein, fiber, and tips for variations in this avocado-based dip.",
+  "slug": "calories-in-guacamole",
+  "h1": "Calories in Guacamole",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "guacamole"
+  },
+  "assumptions": "Homemade guacamole with avocados, lime juice, onion, tomato, cilantro, garlic, and salt; no added oils or creams.",
+  "disclaimer": "Nutrition varies by recipe, ingredient freshness, portion size, and brand for store-bought; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 160,
+    "text": "100g of guacamole contains about 160 kcal, mostly from healthy avocado fats."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 160,
+      "carbs_g": 9,
+      "fiber_g": 7,
+      "sugars_g": 1,
+      "protein_g": 2,
+      "fat_g": 15,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 160,
+    "carbs_g": 9,
+    "fiber_g": 7,
+    "sugars_g": 1,
+    "protein_g": 2,
+    "fat_g": 15,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 250
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.67
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp sour cream per 100g",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 185
+    },
+    {
+      "label": "Use more tomatoes and less avocado (lower fat version)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Store-bought with added oils",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 180
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of guacamole?",
+      "a": "Approximately 160 kcal per 100g."
+    },
+    {
+      "q": "Is guacamole high in fat?",
+      "a": "Yes, about 15g fat per 100g, primarily healthy monounsaturated fats from avocados."
+    },
+    {
+      "q": "What are the carbs and fiber in guacamole?",
+      "a": "Around 9g carbs and 7g fiber per 100g, making it low net carb."
+    },
+    {
+      "q": "Does guacamole have protein?",
+      "a": "Minimal, about 2g per 100g; it's not a significant protein source."
+    },
+    {
+      "q": "How does homemade guacamole compare to store-bought calories?",
+      "a": "Homemade is often lower (160 kcal/100g) than store-bought, which may add 20-50 kcal from oils or preservatives."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in black grapes",
+  "title": "Calories in Black Grapes",
+  "meta_description": "Discover calories in black grapes per 100g, including carbs, fiber, sugars, protein, fat, and quick tweaks for variations.",
+  "slug": "calories-in-black-grapes",
+  "h1": "Calories in Black Grapes",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "black grapes"
+  },
+  "assumptions": "Fresh, seedless black grapes, eaten with skin, no added sugar or preservatives.",
+  "disclaimer": "Nutrition varies by variety, ripeness, growing conditions, and storage; check labels for packaged grapes when available.",
+  "quick_answer": {
+    "total_kcal": 69,
+    "text": "100g of black grapes provide ~69 kcal, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 69,
+      "carbs_g": 18,
+      "fiber_g": 0.9,
+      "sugars_g": 16,
+      "protein_g": 0.7,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 69,
+    "carbs_g": 18,
+    "fiber_g": 0.9,
+    "sugars_g": 16,
+    "protein_g": 0.7,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Peeled black grapes (skin removed)",
+      "delta_kcal_per_unit": -4,
+      "new_total_kcal": 65
+    },
+    {
+      "label": "Dried into raisins per 100 g dry weight",
+      "delta_kcal_per_unit": 230,
+      "new_total_kcal": 299
+    },
+    {
+      "label": "With 1 oz cheese added per 100 g",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 179
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g black grapes?",
+      "a": "About 69 kcal per 100g fresh black grapes."
+    },
+    {
+      "q": "Are black grapes high in sugar?",
+      "a": "Yes, ~16g natural sugars per 100g, contributing to the carbs."
+    },
+    {
+      "q": "What's the protein in black grapes?",
+      "a": "Low at ~0.7g per 100g; they're not a protein source."
+    },
+    {
+      "q": "Do black grapes have fiber?",
+      "a": "Yes, about 0.9g dietary fiber per 100g, mostly in the skin."
+    },
+    {
+      "q": "How do calories compare to green grapes?",
+      "a": "Similar; black grapes have ~69 kcal per 100g, green around 67-70 kcal."
+    }
+  ]
+}

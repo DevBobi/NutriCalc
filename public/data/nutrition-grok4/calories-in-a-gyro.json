@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a gyro",
+  "title": "Calories in a Gyro",
+  "meta_description": "Discover calories in a gyro, including full nutrition breakdown like protein, carbs, fat, and tips for variations to fit your diet.",
+  "slug": "calories-in-a-gyro",
+  "h1": "Calories in a Gyro",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "gyro",
+    "item": "gyro"
+  },
+  "assumptions": "Standard beef/lamb gyro sandwich in pita bread with tzatziki, tomatoes, onions, no extra sauces; ~250 g total weight.",
+  "disclaimer": "Nutrition varies by meat type, portion size, restaurant recipe, and toppings. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 600,
+    "text": "A typical gyro has about 600 kcal, with 35 g protein and 45 g carbs from the pita."
+  },
+  "basis": {
+    "label": "per 1 gyro",
+    "amount": 1,
+    "unit": "gyro",
+    "nutrition": {
+      "calories_kcal": 600,
+      "carbs_g": 45,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 35,
+      "fat_g": 30,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 80,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 600,
+    "carbs_g": 45,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 35,
+    "fat_g": 30,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 80,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.51
+  },
+  "tweaks": [
+    {
+      "label": "Chicken gyro instead of beef/lamb",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "No pita bread (wrap in lettuce)",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Add extra tzatziki sauce (2 tbsp)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 700
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a gyro sandwich?",
+      "a": "Around 600 kcal for a standard beef/lamb gyro in pita with veggies."
+    },
+    {
+      "q": "What's the protein in a gyro?",
+      "a": "Typically 35 g from the meat and tzatziki."
+    },
+    {
+      "q": "Are gyros high in sodium?",
+      "a": "Yes, about 1200 mg per gyro due to seasonings and pita."
+    },
+    {
+      "q": "Calories in a vegetarian gyro?",
+      "a": "Lower at ~400-500 kcal if using falafel or veggies instead of meat."
+    },
+    {
+      "q": "How does gyro preparation affect calories?",
+      "a": "Grilled meat is lower fat than fried; skipping pita reduces carbs significantly."
+    }
+  ]
+}

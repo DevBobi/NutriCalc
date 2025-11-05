@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in steak",
+  "title": "How Many Calories in Steak?",
+  "meta_description": "Discover how many calories in steak per 100g, including protein, fat, carbs, and full nutrition facts for lean cuts.",
+  "slug": "how-many-calories-in-steak",
+  "h1": "How Many Calories in Steak?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "steak"
+  },
+  "assumptions": "Lean sirloin steak, trimmed of visible fat, cooked by broiling without added oil or seasonings.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and portion size. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 206,
+    "text": "100 g of lean cooked steak provides ~206 kcal and ~30 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 206,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 29.8,
+      "fat_g": 9.2,
+      "sat_fat_g": 3.7,
+      "trans_fat_g": 0.4,
+      "cholesterol_mg": 88,
+      "sodium_mg": 58
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 206,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 29.8,
+    "fat_g": 9.2,
+    "sat_fat_g": 3.7,
+    "trans_fat_g": 0.4,
+    "cholesterol_mg": 88,
+    "sodium_mg": 58
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.86
+  },
+  "tweaks": [
+    {
+      "label": "Fattier ribeye cut (vs. lean sirloin)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 286
+    },
+    {
+      "label": "Add 1 tsp butter during cooking",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Grilled with marinade (1 tbsp soy-based)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 226
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of steak?",
+      "a": "Approximately 206 kcal for lean sirloin, cooked."
+    },
+    {
+      "q": "Is steak high in protein?",
+      "a": "Yes, 100g provides about 30g of protein."
+    },
+    {
+      "q": "How does cooking method affect calories in steak?",
+      "a": "Broiling or grilling keeps calories lower; frying adds fat and calories."
+    },
+    {
+      "q": "What about fat content in steak?",
+      "a": "Lean cuts have ~9g total fat per 100g, with 3.7g saturated."
+    },
+    {
+      "q": "Are carbs in steak?",
+      "a": "No, steak has 0g carbs, fiber, or sugars per 100g."
+    }
+  ]
+}

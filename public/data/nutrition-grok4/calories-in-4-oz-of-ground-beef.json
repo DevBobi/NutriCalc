@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 4 oz of ground beef",
+  "title": "Calories in 4 oz of Ground Beef",
+  "meta_description": "Learn the calories in 4 oz of ground beef, with a full nutrition profile including protein, fat, carbs, and variations for different leanness levels.",
+  "slug": "calories-in-4-oz-of-ground-beef",
+  "h1": "Calories in 4 oz of Ground Beef",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 4,
+    "unit": "oz",
+    "item": "ground beef"
+  },
+  "assumptions": "80% lean ground beef, pan-broiled (cooked), drained of excess fat; no added salt, seasonings, or binders; 4 oz = 113 g cooked weight.",
+  "disclaimer": "Nutrition varies by leanness (e.g., 70/30 vs. 90/10), cooking method, draining, and brand; raw weight is higher due to moisture loss. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 278,
+    "text": "4 oz of cooked 80% lean ground beef provides ~278 kcal and ~27 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 246,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24.1,
+      "fat_g": 16.4,
+      "sat_fat_g": 6.3,
+      "trans_fat_g": 0.6,
+      "cholesterol_mg": 82,
+      "sodium_mg": 66
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 278,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 27.2,
+    "fat_g": 18.5,
+    "sat_fat_g": 7.1,
+    "trans_fat_g": 0.7,
+    "cholesterol_mg": 93,
+    "sodium_mg": 75
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.16
+  },
+  "tweaks": [
+    {
+      "label": "Use 90% lean ground beef (lower fat)",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 199
+    },
+    {
+      "label": "Add 1 tsp vegetable oil per 100 g during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 338
+    },
+    {
+      "label": "70% lean (fattier) instead of 80%",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 366
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 4 oz cooked ground beef?",
+      "a": "About 278 kcal for 80% lean, pan-broiled and drained."
+    },
+    {
+      "q": "What's the protein in 4 oz ground beef?",
+      "a": "Approximately 27 g of protein."
+    },
+    {
+      "q": "Does ground beef have carbs?",
+      "a": "No carbs, fiber, or sugars in plain cooked ground beef."
+    },
+    {
+      "q": "How does leanness affect calories in ground beef?",
+      "a": "Leaner (90%) has fewer calories (~176 kcal/100 g) vs. 80% lean (246 kcal/100 g); fattier increases them."
+    },
+    {
+      "q": "Are these values for raw or cooked ground beef?",
+      "a": "Cooked; raw 4 oz would be ~200-250 kcal but shrinks to ~3 oz when cooked due to fat and water loss."
+    }
+  ]
+}

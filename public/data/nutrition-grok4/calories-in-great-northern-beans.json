@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in great northern beans",
+  "title": "Calories in Great Northern Beans",
+  "meta_description": "Discover calories in great northern beans per cup, including protein, carbs, fiber, and full nutrition breakdown for easy meal planning.",
+  "slug": "calories-in-great-northern-beans",
+  "h1": "Calories in Great Northern Beans",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "great northern beans"
+  },
+  "assumptions": "Cooked from dry, drained, no added salt, fat, or seasonings; 1 cup ≈177 g.",
+  "disclaimer": "Nutrition varies by preparation, brand (canned vs. home-cooked), and serving size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 209,
+    "text": "One cup of cooked great northern beans provides ~209 kcal and ~15 g protein."
+  },
+  "basis": {
+    "label": "per 100 g cooked",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 118,
+      "carbs_g": 21.1,
+      "fiber_g": 7.4,
+      "sugars_g": 0.3,
+      "protein_g": 8.3,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 209,
+    "carbs_g": 37.3,
+    "fiber_g": 13.1,
+    "sugars_g": 0.5,
+    "protein_g": 14.7,
+    "fat_g": 0.7,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 4
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.87
+  },
+  "tweaks": [
+    {
+      "label": "Canned variety (with added salt, drained)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 214
+    },
+    {
+      "label": "Sautéed with 1 tsp olive oil per cup",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 249
+    },
+    {
+      "label": "In a bean salad with vinaigrette (1 tbsp per cup)",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 329
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of great northern beans?",
+      "a": "About 209 kcal for 1 cup (177 g) cooked, plain."
+    },
+    {
+      "q": "What is the protein content in great northern beans?",
+      "a": "One cup provides ~15 g protein, making them a great plant-based source."
+    },
+    {
+      "q": "Are great northern beans high in fiber?",
+      "a": "Yes, 1 cup has ~13 g fiber, supporting digestion and satiety."
+    },
+    {
+      "q": "Do great northern beans have fat or cholesterol?",
+      "a": "Very low fat (~0.7 g per cup) and 0 mg cholesterol."
+    },
+    {
+      "q": "How do canned great northern beans compare nutritionally?",
+      "a": "Similar calories but higher sodium (~400-500 mg per cup); rinse to reduce."
+    }
+  ]
+}

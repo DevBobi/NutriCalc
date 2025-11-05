@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 3 slice of pizza",
+  "title": "Calories in 3 Slices of Pizza",
+  "meta_description": "Discover calories in 3 slice of pizza, including full nutrition breakdown per slice, totals for three, and easy tweaks for different toppings.",
+  "slug": "calories-in-3-slice-of-pizza",
+  "h1": "Calories in 3 Slices of Pizza",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 3,
+    "unit": "slice",
+    "item": "pizza"
+  },
+  "assumptions": "Standard 14-inch cheese pizza, one slice is 1/8 of whole (~100 g), baked with mozzarella and tomato sauce; no extra toppings.",
+  "disclaimer": "Nutrition varies by pizza size, crust type, toppings, brand, and baking method. Check labels or apps for specific varieties.",
+  "quick_answer": {
+    "total_kcal": 855,
+    "text": "Three slices of cheese pizza provide ~855 kcal and ~36 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 285,
+      "carbs_g": 36,
+      "fiber_g": 2,
+      "sugars_g": 4,
+      "protein_g": 12,
+      "fat_g": 10,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 640
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 855,
+    "carbs_g": 108,
+    "fiber_g": 6,
+    "sugars_g": 12,
+    "protein_g": 36,
+    "fat_g": 30,
+    "sat_fat_g": 15,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 60,
+    "sodium_mg": 1920
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.58
+  },
+  "tweaks": [
+    {
+      "label": "Add pepperoni to each slice",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 1005
+    },
+    {
+      "label": "Use thin crust instead of regular",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 735
+    },
+    {
+      "label": "Vegetable toppings (e.g., peppers, onions) per slice",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 825
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of pizza?",
+      "a": "About 285 kcal for a standard cheese slice."
+    },
+    {
+      "q": "What are the macros for 3 slices of pizza?",
+      "a": "≈36 g protein, 30 g fat, 108 g carbs, with 6 g fiber."
+    },
+    {
+      "q": "Does pizza have high sodium?",
+      "a": "Yes, three slices have ~1920 mg sodium, mostly from cheese and sauce."
+    },
+    {
+      "q": "How do toppings affect calories in 3 slice of pizza?",
+      "a": "Meat toppings add 40-60 kcal per slice; veggies subtract 5-15 kcal."
+    },
+    {
+      "q": "Is this for frozen or homemade pizza?",
+      "a": "Based on average homemade or pizzeria cheese pizza; frozen may vary by brand."
+    }
+  ]
+}

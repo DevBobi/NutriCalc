@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a pear",
+  "title": "How Many Calories Are in a Pear?",
+  "meta_description": "Discover how many calories in a pear, including carbs, fiber, sugars, protein, fat, and more in label-style nutrition facts with quick tweaks and FAQs.",
+  "slug": "how-many-calories-in-a-pear",
+  "h1": "How Many Calories Are in a Pear?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pear",
+    "item": "pear"
+  },
+  "assumptions": "Medium-sized pear (~178 g), raw, with skin, ripe but not overripe; no added toppings.",
+  "disclaimer": "Nutrition varies by pear variety, size, ripeness, and growing conditions. Check labels or apps for specifics when available.",
+  "quick_answer": {
+    "total_kcal": 101,
+    "text": "One medium pear provides about 101 kcal and 5.5 g of dietary fiber."
+  },
+  "basis": {
+    "label": "per 1 medium pear",
+    "amount": 1,
+    "unit": "pear",
+    "nutrition": {
+      "calories_kcal": 101,
+      "carbs_g": 27.1,
+      "fiber_g": 5.5,
+      "sugars_g": 17,
+      "protein_g": 0.6,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 101,
+    "carbs_g": 27.1,
+    "fiber_g": 5.5,
+    "sugars_g": 17,
+    "protein_g": 0.6,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.42
+  },
+  "tweaks": [
+    {
+      "label": "Peeled (remove skin)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 96
+    },
+    {
+      "label": "With 1 tsp honey drizzle",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 122
+    },
+    {
+      "label": "Baked without added sugar",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 91
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a medium pear?",
+      "a": "Approximately 101 kcal for one medium pear (~178 g)."
+    },
+    {
+      "q": "Does a pear have a lot of fiber?",
+      "a": "Yes, about 5.5 g of dietary fiber per medium pear, aiding digestion."
+    },
+    {
+      "q": "Are pears low in fat?",
+      "a": "Very low—only 0.2 g total fat per medium pear, with no saturated or trans fats."
+    },
+    {
+      "q": "How much sugar is in a pear?",
+      "a": "Around 17 g of natural sugars per medium pear, mostly from fructose."
+    },
+    {
+      "q": "Do calories vary by pear size?",
+      "a": "Yes—small pears (~148 g) have ~84 kcal, large (~230 g) ~130 kcal."
+    }
+  ]
+}

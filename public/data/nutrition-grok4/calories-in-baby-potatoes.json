@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in baby potatoes",
+  "title": "Calories in Baby Potatoes",
+  "meta_description": "Discover calories in baby potatoes per 100 g serving, including carbs, protein, fat, and full nutrition breakdown for easy tracking.",
+  "slug": "calories-in-baby-potatoes",
+  "h1": "Calories in Baby Potatoes",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "baby potatoes"
+  },
+  "assumptions": "Boiled baby potatoes, skin on, no added salt, butter, or oil; similar to new potatoes.",
+  "disclaimer": "Nutrition varies by size, variety, cooking method, and additions like seasonings. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 87,
+    "text": "100 g of boiled baby potatoes provide ~87 kcal and ~20 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 87,
+      "carbs_g": 20,
+      "fiber_g": 1.8,
+      "sugars_g": 0.9,
+      "protein_g": 1.9,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 87,
+    "carbs_g": 20,
+    "fiber_g": 1.8,
+    "sugars_g": 0.9,
+    "protein_g": 1.9,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 4
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.36
+  },
+  "tweaks": [
+    {
+      "label": "Roasted with 1 tsp olive oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 127
+    },
+    {
+      "label": "Mashed with 1 tbsp butter per 100 g",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 187
+    },
+    {
+      "label": "Skin removed before boiling",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 77
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g baby potatoes?",
+      "a": "About 87 kcal for boiled baby potatoes."
+    },
+    {
+      "q": "Are baby potatoes high in carbs?",
+      "a": "Yes, ~20 g carbs per 100 g, mostly starch with 1.8 g fiber."
+    },
+    {
+      "q": "What's the protein in baby potatoes?",
+      "a": "Roughly 1.9 g protein per 100 g."
+    },
+    {
+      "q": "Do baby potatoes have fat?",
+      "a": "Very low, only 0.1 g total fat per 100 g when boiled plain."
+    },
+    {
+      "q": "How does cooking affect calories in baby potatoes?",
+      "a": "Boiling keeps calories low; roasting or frying with oil increases them significantly."
+    }
+  ]
+}

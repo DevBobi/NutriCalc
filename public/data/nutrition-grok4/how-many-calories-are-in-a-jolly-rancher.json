@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a jolly rancher",
+  "title": "How Many Calories Are in a Jolly Rancher?",
+  "meta_description": "Discover how many calories are in a jolly rancher—about 14 kcal per piece—plus full nutrition breakdown including carbs, sugars, and quick tweaks for variations.",
+  "slug": "how-many-calories-are-in-a-jolly-rancher",
+  "h1": "How Many Calories Are in a Jolly Rancher?",
+  "updated": "2024-10-18",
+  "query": {
+    "amount": 1,
+    "unit": "piece",
+    "item": "Jolly Rancher"
+  },
+  "assumptions": "Standard hard candy Jolly Rancher, original or fruit flavor, approximately 3.8 g per piece; nutrition similar across flavors.",
+  "disclaimer": "Nutrition varies by flavor, manufacturer, batch, and exact size. Values are approximate; always check packaging labels when available.",
+  "quick_answer": {
+    "total_kcal": 14,
+    "text": "A single Jolly Rancher has about 14 calories, all from sugars with no fat or protein."
+  },
+  "basis": {
+    "label": "per 1 Jolly Rancher",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 14,
+      "carbs_g": 3.4,
+      "fiber_g": 0,
+      "sugars_g": 2.6,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 14,
+    "carbs_g": 3.4,
+    "fiber_g": 0,
+    "sugars_g": 2.6,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.06
+  },
+  "tweaks": [
+    {
+      "label": "Jolly Rancher Twist (multi-flavor, similar size)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 14
+    },
+    {
+      "label": "Coated with 5 g milk chocolate",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 39
+    },
+    {
+      "label": "Sugar-free version (using alternatives)",
+      "delta_kcal_per_unit": -9,
+      "new_total_kcal": 5
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a jolly rancher?",
+      "a": "About 14 calories per piece."
+    },
+    {
+      "q": "How much sugar is in one Jolly Rancher?",
+      "a": "Approximately 2.6 g of sugars per piece."
+    },
+    {
+      "q": "Do Jolly Ranchers have any fat or protein?",
+      "a": "No, 0 g fat and 0 g protein per piece."
+    },
+    {
+      "q": "Are Jolly Ranchers low in sodium?",
+      "a": "Yes, 0 mg sodium per piece."
+    },
+    {
+      "q": "How many calories in a serving of Jolly Ranchers?",
+      "a": "A typical serving of 3 pieces is about 42 calories."
+    }
+  ]
+}

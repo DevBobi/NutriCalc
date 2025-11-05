@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a halo orange",
+  "title": "Calories in a Halo Orange",
+  "meta_description": "Discover calories in a halo orange, including carbs, fiber, sugars, protein, fat, and full nutrition breakdown per fruit.",
+  "slug": "calories-in-a-halo-orange",
+  "h1": "Calories in a Halo Orange",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "orange",
+    "item": "halo orange"
+  },
+  "assumptions": "Average Halo orange (mandarin/clementine variety, ~74 g edible portion), fresh, peeled, no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by size, ripeness, variety, and growing conditions. Check labels for packaged products when available.",
+  "quick_answer": {
+    "total_kcal": 47,
+    "text": "One Halo orange provides ~47 kcal, mostly from natural sugars and carbs."
+  },
+  "basis": {
+    "label": "per 1 Halo orange",
+    "amount": 1,
+    "unit": "orange",
+    "nutrition": {
+      "calories_kcal": 47,
+      "carbs_g": 11.7,
+      "fiber_g": 1.8,
+      "sugars_g": 9.4,
+      "protein_g": 0.8,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 47,
+    "carbs_g": 11.7,
+    "fiber_g": 1.8,
+    "sugars_g": 9.4,
+    "protein_g": 0.8,
+    "fat_g": 0.3,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.2
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp honey drizzle",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 68
+    },
+    {
+      "label": "Canned in light syrup (drained)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 62
+    },
+    {
+      "label": "Larger size (~100 g)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 72
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a halo orange?",
+      "a": "About 47 kcal for one average fresh Halo orange."
+    },
+    {
+      "q": "What are the carbs in a halo orange?",
+      "a": "Approximately 11.7 g total carbs, including 1.8 g fiber and 9.4 g sugars."
+    },
+    {
+      "q": "Is a halo orange low in fat and protein?",
+      "a": "Yes, only 0.3 g fat and 0.8 g protein per orange."
+    },
+    {
+      "q": "How does halo orange nutrition compare to regular orange?",
+      "a": "Similar to a small mandarin; lower calories than a full navel orange (~62 kcal for 131 g)."
+    },
+    {
+      "q": "Are halo oranges good for fiber intake?",
+      "a": "Yes, one provides 1.8 g fiber, aiding digestion and satiety."
+    }
+  ]
+}

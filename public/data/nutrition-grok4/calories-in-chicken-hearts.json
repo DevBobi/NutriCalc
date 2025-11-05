@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken hearts",
+  "title": "Calories in Chicken Hearts",
+  "meta_description": "Discover calories in chicken hearts per 100 g, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-chicken-hearts",
+  "h1": "Calories in Chicken Hearts",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chicken hearts"
+  },
+  "assumptions": "Cooked (boiled or simmered), raw hearts trimmed of fat; no added salt, oil, or seasonings.",
+  "disclaimer": "Nutrition varies by source, cooking method, portion size, and added ingredients. Consult labels or databases for precision.",
+  "quick_answer": {
+    "total_kcal": 185,
+    "text": "100 g of cooked chicken hearts provides about 185 kcal and 26 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 185,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 26.4,
+      "fat_g": 8.5,
+      "sat_fat_g": 2.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 136,
+      "sodium_mg": 72
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 185,
+    "carbs_g": 0.1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 26.4,
+    "fat_g": 8.5,
+    "sat_fat_g": 2.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 136,
+    "sodium_mg": 72
+  },
+  "label_note": "Values align with standard Nutrition Facts format for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.77
+  },
+  "tweaks": [
+    {
+      "label": "Grilled with 1 tsp oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 225
+    },
+    {
+      "label": "Raw vs. cooked (per 100 g raw)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 165
+    },
+    {
+      "label": "Add salt and spices (minimal calorie impact)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g chicken hearts?",
+      "a": "Approximately 185 kcal for cooked chicken hearts."
+    },
+    {
+      "q": "Are chicken hearts high in protein?",
+      "a": "Yes, about 26 g protein per 100 g, making them a lean source."
+    },
+    {
+      "q": "What's the fat content in chicken hearts?",
+      "a": "Around 8.5 g total fat per 100 g, with 2.5 g saturated."
+    },
+    {
+      "q": "Do chicken hearts have carbs?",
+      "a": "Negligible, only 0.1 g carbs and 0 g fiber per 100 g."
+    },
+    {
+      "q": "How does cooking affect calories in chicken hearts?",
+      "a": "Cooking concentrates nutrients; raw is slightly lower at ~165 kcal per 100 g."
+    }
+  ]
+}

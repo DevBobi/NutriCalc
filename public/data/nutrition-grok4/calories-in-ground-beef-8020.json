@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ground beef 8020",
+  "title": "Calories in Ground Beef 80/20",
+  "meta_description": "Learn calories in ground beef 8020 per 100g, including protein, fat breakdown, sodium, and cooking tweaks for better meal planning.",
+  "slug": "calories-in-ground-beef-8020",
+  "h1": "Calories in Ground Beef 80/20",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "ground beef 80/20"
+  },
+  "assumptions": "80% lean / 20% fat ground beef, cooked (pan-broiled crumbles), drained; no added salt, oil, or seasonings.",
+  "disclaimer": "Nutrition varies by brand, exact fat content, cooking method, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 246,
+    "text": "100 g cooked 80/20 ground beef provides ~246 kcal and ~25 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 246,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24.6,
+      "fat_g": 16.3,
+      "sat_fat_g": 6.2,
+      "trans_fat_g": 0.7,
+      "cholesterol_mg": 82,
+      "sodium_mg": 66
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 246,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 24.6,
+    "fat_g": 16.3,
+    "sat_fat_g": 6.2,
+    "trans_fat_g": 0.7,
+    "cholesterol_mg": 82,
+    "sodium_mg": 66
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.03
+  },
+  "tweaks": [
+    {
+      "label": "Switch to 85/15 lean ground beef",
+      "delta_kcal_per_unit": -53,
+      "new_total_kcal": 193
+    },
+    {
+      "label": "Add 1 tsp olive oil for cooking per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 286
+    },
+    {
+      "label": "Raw (uncooked) instead of cooked per 100 g",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 254
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g ground beef 80/20?",
+      "a": "About 246 kcal for cooked, drained 80/20 ground beef."
+    },
+    {
+      "q": "What's the protein in ground beef 8020?",
+      "a": "Roughly 25 g protein per 100 g cooked."
+    },
+    {
+      "q": "Does cooking method affect calories in ground beef 80/20?",
+      "a": "Yes—broiling or draining reduces fat/calories vs. frying without draining."
+    },
+    {
+      "q": "How much fat is in 80/20 ground beef?",
+      "a": "About 16 g total fat per 100 g cooked, with 6 g saturated."
+    },
+    {
+      "q": "Is 80/20 ground beef keto-friendly?",
+      "a": "Yes, 0 g carbs and high protein/fat make it suitable, but watch portions for calories."
+    }
+  ]
+}

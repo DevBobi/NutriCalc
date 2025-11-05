@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sesame oil",
+  "title": "Calories in Sesame Oil",
+  "meta_description": "Discover calories in sesame oil per tablespoon, including full nutrition breakdown, fat content, and quick serving tweaks for your recipes.",
+  "slug": "calories-in-sesame-oil",
+  "h1": "Calories in Sesame Oil",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "sesame oil"
+  },
+  "assumptions": "Pure sesame oil, 1 tablespoon serving (about 14 g), untoasted or toasted variety; no additives.",
+  "disclaimer": "Nutrition varies by brand, refinement (toasted vs. light), and exact volume; always check product labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "One tablespoon of sesame oil provides 120 calories, primarily from healthy unsaturated fats."
+  },
+  "basis": {
+    "label": "per 1 tablespoon",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 14,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 14,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with product packaging.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Use 1 teaspoon instead of tablespoon",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 40
+    },
+    {
+      "label": "Toasted sesame oil (slightly more flavorful, same fat profile)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Light/refined sesame oil (lower aroma, similar calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one tablespoon of sesame oil?",
+      "a": "About 120 calories, all from fat."
+    },
+    {
+      "q": "Is sesame oil high in fat?",
+      "a": "Yes, 14 g total fat per tablespoon, with 2 g saturated and mostly unsaturated fats."
+    },
+    {
+      "q": "Does sesame oil have carbs or protein?",
+      "a": "No carbs, fiber, sugars, or protein—it's pure fat."
+    },
+    {
+      "q": "What's the difference in calories between toasted and untoasted sesame oil?",
+      "a": "Negligible difference; both are around 120 kcal per tablespoon."
+    },
+    {
+      "q": "How many calories in 100 g of sesame oil?",
+      "a": "Approximately 884 kcal per 100 g, since it's nearly 100% fat."
+    }
+  ]
+}

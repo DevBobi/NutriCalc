@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a philly cheese steak",
+  "title": "How Many Calories in a Philly Cheesesteak?",
+  "meta_description": "Learn how many calories in a philly cheese steak, with a full nutrition breakdown including protein, fat, carbs, sodium, and easy tweaks for lighter versions.",
+  "slug": "how-many-calories-in-a-philly-cheese-steak",
+  "h1": "How Many Calories in a Philly Cheesesteak?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "philly cheese steak"
+  },
+  "assumptions": "Standard Philly cheesesteak: 4-6 oz thinly sliced ribeye beef, provolone cheese, sautéed onions, on an 8-inch hoagie roll; no extra toppings like peppers or sauce.",
+  "disclaimer": "Nutrition varies by restaurant, portion size, meat quality, cheese type, and added ingredients. Check menus or labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 710,
+    "text": "A typical Philly cheesesteak sandwich contains about 710 calories, packed with protein from beef and carbs from the roll."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 710,
+      "carbs_g": 72,
+      "fiber_g": 3,
+      "sugars_g": 6,
+      "protein_g": 42,
+      "fat_g": 34,
+      "sat_fat_g": 15,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 105,
+      "sodium_mg": 1520
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 710,
+    "carbs_g": 72,
+    "fiber_g": 3,
+    "sugars_g": 6,
+    "protein_g": 42,
+    "fat_g": 34,
+    "sat_fat_g": 15,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 105,
+    "sodium_mg": 1520
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.97
+  },
+  "tweaks": [
+    {
+      "label": "Omit the cheese",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 510
+    },
+    {
+      "label": "Add mushrooms and peppers",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 740
+    },
+    {
+      "label": "Use leaner beef and whole wheat roll",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 630
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a philly cheese steak without cheese?",
+      "a": "About 510 calories, reducing fat and calories significantly."
+    },
+    {
+      "q": "What's the protein content in a philly cheese steak?",
+      "a": "Roughly 42 g of protein, mainly from the beef."
+    },
+    {
+      "q": "Why is sodium high in a philly cheese steak?",
+      "a": "Due to cheese, beef seasoning, and roll; around 1520 mg per sandwich."
+    },
+    {
+      "q": "How do restaurant versions compare?",
+      "a": "Chains like Geno's or Pat's may vary from 600-900 kcal based on size and extras."
+    },
+    {
+      "q": "Can I make a lower-calorie philly cheese steak?",
+      "a": "Yes, use turkey instead of beef and skip cheese to drop to under 500 kcal."
+    }
+  ]
+}

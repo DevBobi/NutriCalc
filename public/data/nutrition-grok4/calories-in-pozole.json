@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pozole",
+  "title": "Calories in Pozole",
+  "meta_description": "Learn calories in pozole per cup serving, including carbs from hominy, protein from pork, fat breakdown, and sodium info for this hearty Mexican soup.",
+  "slug": "calories-in-pozole",
+  "h1": "Calories in Pozole",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "pozole"
+  },
+  "assumptions": "Homemade pork pozole with hominy, pork shoulder, onions, garlic, chili, and broth; no toppings like radishes or lime.",
+  "disclaimer": "Nutrition varies by recipe, meat type, portion size, and added ingredients; check labels for canned or restaurant versions.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One cup of pork pozole has about 250 kcal, with 15 g protein and 20 g carbs mainly from hominy."
+  },
+  "basis": {
+    "label": "per 1 cup (245 g)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 20,
+      "fiber_g": 3,
+      "sugars_g": 2,
+      "protein_g": 15,
+      "fat_g": 12,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 20,
+    "fiber_g": 3,
+    "sugars_g": 2,
+    "protein_g": 15,
+    "fat_g": 12,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 800
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged soups.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Use chicken instead of pork",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Add 1/4 avocado topping",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 310
+    },
+    {
+      "label": "Vegetarian version with beans",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 230
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of pozole?",
+      "a": "About 250 kcal per cup of traditional pork pozole."
+    },
+    {
+      "q": "Is pozole high in sodium?",
+      "a": "Yes, around 800 mg per cup due to broth and seasonings."
+    },
+    {
+      "q": "What's the protein content in pozole?",
+      "a": "Roughly 15 g per cup, mostly from the meat."
+    },
+    {
+      "q": "Does pozole have a lot of carbs?",
+      "a": "About 20 g per cup, primarily from hominy corn."
+    },
+    {
+      "q": "How does chicken pozole compare calorie-wise?",
+      "a": "Lower fat version has ~220 kcal per cup versus pork."
+    }
+  ]
+}

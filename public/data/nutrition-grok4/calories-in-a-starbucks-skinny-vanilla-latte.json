@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a starbucks skinny vanilla latte",
+  "title": "Calories in a Starbucks Skinny Vanilla Latte",
+  "meta_description": "Discover calories in a Starbucks skinny vanilla latte (grande size), including full nutrition breakdown, macros, and tweaks for customizations.",
+  "slug": "calories-in-a-starbucks-skinny-vanilla-latte",
+  "h1": "Calories in a Starbucks Skinny Vanilla Latte",
+  "updated": "2024-10-18",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Starbucks skinny vanilla latte"
+  },
+  "assumptions": "Grande (16 oz) size, nonfat milk, sugar-free vanilla syrup, espresso; standard Starbucks recipe.",
+  "disclaimer": "Nutrition varies by size, customizations, location, and recipe changes. Check Starbucks app or labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "A grande Starbucks Skinny Vanilla Latte has 130 calories, 13 g protein, and 0 g fat."
+  },
+  "basis": {
+    "label": "per 1 grande serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 130,
+      "carbs_g": 19,
+      "fiber_g": 0,
+      "sugars_g": 17,
+      "protein_g": 13,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 115
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 19,
+    "fiber_g": 0,
+    "sugars_g": 17,
+    "protein_g": 13,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 115
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Use regular vanilla syrup (not sugar-free)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Switch to whole milk",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 210
+    },
+    {
+      "label": "Venti size (20 oz) instead of grande",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a grande Starbucks skinny vanilla latte?",
+      "a": "130 calories for a standard grande serving."
+    },
+    {
+      "q": "What's the protein content in a Starbucks skinny vanilla latte?",
+      "a": "13 g protein per grande serving from nonfat milk."
+    },
+    {
+      "q": "Is a Starbucks skinny vanilla latte low-fat?",
+      "a": "Yes, it has 0 g total fat using nonfat milk."
+    },
+    {
+      "q": "What's the difference in calories between skinny and regular vanilla latte?",
+      "a": "Skinny is ~130 kcal (grande); regular adds ~80-100 kcal from whole milk and sugary syrup."
+    },
+    {
+      "q": "How many calories in a tall Starbucks skinny vanilla latte?",
+      "a": "About 100 kcal for the 12 oz tall size."
+    }
+  ]
+}

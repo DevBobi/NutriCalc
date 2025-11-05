@@ -1,0 +1,92 @@
+{
+  "keyword": "calorie in wonton soup",
+  "title": "Calories in Wonton Soup",
+  "meta_description": "Discover the calorie in wonton soup per cup serving, including full nutrition breakdown, protein, sodium, and easy tweaks for variations.",
+  "slug": "calorie-in-wonton-soup",
+  "h1": "Calories in Wonton Soup",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "wonton soup"
+  },
+  "assumptions": "Chinese restaurant style; includes pork-filled wontons, vegetables, and chicken broth; approximately 240 ml per cup.",
+  "disclaimer": "Nutrition varies by restaurant, recipe, wonton filling, and portion size. Check labels or recipes when available.",
+  "quick_answer": {
+    "total_kcal": 71,
+    "text": "One cup of wonton soup contains about 71 kcal and 3.5 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 71,
+      "carbs_g": 6.7,
+      "fiber_g": 0.5,
+      "sugars_g": 0.5,
+      "protein_g": 3.5,
+      "fat_g": 3.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 815
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 71,
+    "carbs_g": 6.7,
+    "fiber_g": 0.5,
+    "sugars_g": 0.5,
+    "protein_g": 3.5,
+    "fat_g": 3.6,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 815
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.3
+  },
+  "tweaks": [
+    {
+      "label": "Add one extra wonton",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 91
+    },
+    {
+      "label": "Use vegetable-filled wontons instead of pork",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 56
+    },
+    {
+      "label": "Homemade with reduced-sodium broth",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 71
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of wonton soup?",
+      "a": "Approximately 71 kcal per cup."
+    },
+    {
+      "q": "Is wonton soup high in sodium?",
+      "a": "Yes, about 815 mg sodium per cup due to broth and seasonings."
+    },
+    {
+      "q": "What is the protein content in wonton soup?",
+      "a": "Around 3.5 g protein per cup, mainly from the wontons."
+    },
+    {
+      "q": "Are there carbs in wonton soup?",
+      "a": "Yes, about 6.7 g carbs per cup from wonton wrappers and vegetables."
+    },
+    {
+      "q": "How does homemade wonton soup compare calorie-wise?",
+      "a": "Similar at 71 kcal per cup, but can vary with oil use or filling type."
+    }
+  ]
+}

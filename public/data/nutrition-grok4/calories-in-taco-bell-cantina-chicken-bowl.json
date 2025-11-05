@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in taco bell cantina chicken bowl",
+  "title": "Calories in Taco Bell Cantina Chicken Bowl",
+  "meta_description": "Discover calories in Taco Bell Cantina Chicken Bowl, including full nutrition breakdown with protein, carbs, fat, sodium, and easy tweaks for customization.",
+  "slug": "calories-in-taco-bell-cantina-chicken-bowl",
+  "h1": "Calories in Taco Bell Cantina Chicken Bowl",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bowl",
+    "item": "Taco Bell Cantina Chicken Bowl"
+  },
+  "assumptions": "Standard Taco Bell menu item with slow-roasted chicken, seasoned rice, black beans, lettuce, pico de gallo, guacamole, and avocado ranch sauce; no customizations.",
+  "disclaimer": "Nutrition varies by location, preparation, portion size, and customizations. Check Taco Bell app or website for latest values.",
+  "quick_answer": {
+    "total_kcal": 490,
+    "text": "One Taco Bell Cantina Chicken Bowl contains about 490 calories and 35 g protein."
+  },
+  "basis": {
+    "label": "per 1 bowl",
+    "amount": 1,
+    "unit": "bowl",
+    "nutrition": {
+      "calories_kcal": 490,
+      "carbs_g": 50,
+      "fiber_g": 7,
+      "sugars_g": 3,
+      "protein_g": 35,
+      "fat_g": 19,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 1250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 490,
+    "carbs_g": 50,
+    "fiber_g": 7,
+    "sugars_g": 3,
+    "protein_g": 35,
+    "fat_g": 19,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 70,
+    "sodium_mg": 1250
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.05
+  },
+  "tweaks": [
+    {
+      "label": "Remove rice to lower carbs",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Add extra chicken portion",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 590
+    },
+    {
+      "label": "Swap avocado ranch for light sour cream",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 440
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Taco Bell Cantina Chicken Bowl?",
+      "a": "Approximately 490 calories per bowl."
+    },
+    {
+      "q": "What's the protein in a Taco Bell Cantina Chicken Bowl?",
+      "a": "About 35 g of protein from the chicken and beans."
+    },
+    {
+      "q": "How much sodium is in the Cantina Chicken Bowl?",
+      "a": "Around 1250 mg, mostly from seasonings and sauce."
+    },
+    {
+      "q": "Can I make the Cantina Chicken Bowl lower calorie?",
+      "a": "Yes, skip the rice or sauce to reduce by 50-120 kcal."
+    },
+    {
+      "q": "Are carbs high in Taco Bell Cantina Chicken Bowl?",
+      "a": "About 50 g total, with 7 g fiber from beans and veggies."
+    }
+  ]
+}

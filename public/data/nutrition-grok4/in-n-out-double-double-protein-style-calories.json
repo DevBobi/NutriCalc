@@ -1,0 +1,92 @@
+{
+  "keyword": "in n out double double protein style calories",
+  "title": "Calories in In-N-Out Double Double Protein Style",
+  "meta_description": "Learn in n out double double protein style calories (330 total), plus full nutrition facts like protein, fat, carbs, and quick tweaks for variations.",
+  "slug": "in-n-out-double-double-protein-style-calories",
+  "h1": "Calories in In-N-Out Double Double Protein Style",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "In-N-Out Double Double Protein Style"
+  },
+  "assumptions": "Standard In-N-Out preparation: two beef patties, two cheese slices, lettuce wrap (no bun), spread, tomato, onion; no customizations.",
+  "disclaimer": "Nutrition varies by location, exact ingredients, and custom orders. Check In-N-Out app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 330,
+    "text": "One In-N-Out Double Double Protein Style burger has 330 calories and 37 g protein."
+  },
+  "basis": {
+    "label": "per 1 burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 330,
+      "carbs_g": 4,
+      "fiber_g": 2,
+      "sugars_g": 2,
+      "protein_g": 37,
+      "fat_g": 33,
+      "sat_fat_g": 16,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 95,
+      "sodium_mg": 730
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 330,
+    "carbs_g": 4,
+    "fiber_g": 2,
+    "sugars_g": 2,
+    "protein_g": 37,
+    "fat_g": 33,
+    "sat_fat_g": 16,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 95,
+    "sodium_mg": 730
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.38
+  },
+  "tweaks": [
+    {
+      "label": "Animal Style (mustard-grilled patties, extra spread, grilled onions)",
+      "delta_kcal_per_unit": 170,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "No spread (remove Thousand Island-style sauce)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add fresh onions and tomato (if not included)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 340
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in In-N-Out Double Double Protein Style?",
+      "a": "330 calories per burger."
+    },
+    {
+      "q": "What's the protein in In-N-Out Double Double Protein Style?",
+      "a": "37 g of protein, making it a high-protein fast food option."
+    },
+    {
+      "q": "Why is Protein Style lower in carbs?",
+      "a": "It uses lettuce instead of a bun, reducing carbs to just 4 g."
+    },
+    {
+      "q": "How does Double Double Protein Style compare to regular?",
+      "a": "Protein Style saves ~340 calories and 50 g carbs vs. the bun version (670 kcal total)."
+    },
+    {
+      "q": "Is the fat high in In-N-Out Double Double Protein Style?",
+      "a": "Yes, 33 g total fat (16 g saturated) mainly from cheese and patties."
+    }
+  ]
+}

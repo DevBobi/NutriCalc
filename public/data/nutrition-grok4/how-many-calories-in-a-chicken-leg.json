@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a chicken leg",
+  "title": "How Many Calories in a Chicken Leg?",
+  "meta_description": "Discover how many calories in a chicken leg, including protein, fat, carbs, and full nutrition details for roasted with skin.",
+  "slug": "how-many-calories-in-a-chicken-leg",
+  "h1": "How Many Calories in a Chicken Leg?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "leg",
+    "item": "chicken leg"
+  },
+  "assumptions": "Roasted chicken leg quarter (drumstick + thigh), with skin, bone-in, average size ~130g edible portion.",
+  "disclaimer": "Nutrition varies by chicken size, cooking method, skin removal, and seasonings. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 270,
+    "text": "One roasted chicken leg with skin provides ~270 kcal and ~28 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken leg",
+    "amount": 1,
+    "unit": "leg",
+    "nutrition": {
+      "calories_kcal": 270,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 28,
+      "fat_g": 16,
+      "sat_fat_g": 4.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 100,
+      "sodium_mg": 90
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 270,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 28,
+    "fat_g": 16,
+    "sat_fat_g": 4.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 100,
+    "sodium_mg": 90
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.13
+  },
+  "tweaks": [
+    {
+      "label": "Remove skin",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "Fried in oil (vs. roasted)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 370
+    },
+    {
+      "label": "Add 1 tbsp BBQ sauce",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 320
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chicken leg with skin?",
+      "a": "About 270 kcal for one roasted chicken leg with skin."
+    },
+    {
+      "q": "What is the protein in a chicken leg?",
+      "a": "Roughly 28 g protein per roasted chicken leg."
+    },
+    {
+      "q": "Are chicken legs high in fat?",
+      "a": "Yes, with skin: ~16 g total fat, including 4.5 g saturated."
+    },
+    {
+      "q": "Calories in skinless chicken leg?",
+      "a": "Around 170 kcal, as skin adds significant fat and calories."
+    },
+    {
+      "q": "Does cooking method affect calories in chicken leg?",
+      "a": "Yes—roasted is lower than fried, which can add 100+ kcal from oil."
+    }
+  ]
+}

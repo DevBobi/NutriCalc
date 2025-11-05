@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a pound of ground beef",
+  "title": "How Many Calories Are in a Pound of Ground Beef?",
+  "meta_description": "Learn how many calories are in a pound of ground beef (about 1117 kcal for 80% lean, cooked), plus protein, fat, carbs, and variations for different leanness.",
+  "slug": "how-many-calories-are-in-a-pound-of-ground-beef",
+  "h1": "How Many Calories Are in a Pound of Ground Beef?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pound",
+    "item": "ground beef"
+  },
+  "assumptions": "80% lean/20% fat ground beef, pan-broiled and drained; 1 pound ≈ 454 g; based on USDA data for cooked patty.",
+  "disclaimer": "Nutrition varies by leanness, cooking method, fat drainage, and brand. Raw values differ; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 1117,
+    "text": "One pound of cooked 80% lean ground beef provides ~1117 kcal and ~109 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 246,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24,
+      "fat_g": 16,
+      "sat_fat_g": 6.3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 82,
+      "sodium_mg": 66
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1117,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 109,
+    "fat_g": 73,
+    "sat_fat_g": 29,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 372,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.68
+  },
+  "tweaks": [
+    {
+      "label": "Use 90% lean ground beef (less fat)",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 799
+    },
+    {
+      "label": "Add 1 tsp oil per 100 g during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 1285
+    },
+    {
+      "label": "Raw ground beef (80% lean, uncooked)",
+      "delta_kcal_per_unit": -42,
+      "new_total_kcal": 816
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a pound of ground beef?",
+      "a": "About 1117 kcal for 1 pound (454 g) of cooked 80% lean ground beef."
+    },
+    {
+      "q": "What's the protein in a pound of ground beef?",
+      "a": "Approximately 109 g of protein in cooked 80% lean ground beef."
+    },
+    {
+      "q": "Does leaner ground beef have fewer calories?",
+      "a": "Yes, 90% lean drops it to ~799 kcal per pound versus 1117 for 80% lean."
+    },
+    {
+      "q": "Are these calories for cooked or raw ground beef?",
+      "a": "Cooked and drained; raw 80% lean is lower at ~816 kcal per pound due to moisture loss during cooking."
+    },
+    {
+      "q": "How does fat content affect calories in ground beef?",
+      "a": "Higher fat (e.g., 70% lean) increases calories; 80% lean has 16 g fat per 100 g, adding ~73 g total fat per pound."
+    }
+  ]
+}

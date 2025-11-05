@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in muffins from costco",
+  "title": "Calories in Costco Muffins",
+  "meta_description": "Discover calories in muffins from Costco, including macros, full nutrition breakdown per muffin, and variations for popular flavors like blueberry.",
+  "slug": "calories-in-muffins-from-costco",
+  "h1": "Calories in Costco Muffins",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "muffin",
+    "item": "Costco muffin"
+  },
+  "assumptions": "Standard Costco bakery muffin (e.g., blueberry), large size (~200 g), baked fresh in-store, no additional toppings.",
+  "disclaimer": "Nutrition varies by flavor, batch, size, and exact recipe; Costco values may differ—check in-store labels or app for precise info.",
+  "quick_answer": {
+    "total_kcal": 690,
+    "text": "One Costco muffin has about 690 kcal, with high carbs from flour and sugar."
+  },
+  "basis": {
+    "label": "per 1 muffin",
+    "amount": 1,
+    "unit": "muffin",
+    "nutrition": {
+      "calories_kcal": 690,
+      "carbs_g": 90,
+      "fiber_g": 2,
+      "sugars_g": 50,
+      "protein_g": 8,
+      "fat_g": 30,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 690,
+    "carbs_g": 90,
+    "fiber_g": 2,
+    "sugars_g": 50,
+    "protein_g": 8,
+    "fat_g": 30,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 80,
+    "sodium_mg": 500
+  },
+  "label_note": "Values align with typical Nutrition Facts labels for easy reference and comparison.",
+  "equivalents": {
+    "megajoules": 2.89
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate chip flavor (vs. blueberry)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 710
+    },
+    {
+      "label": "Half muffin portion",
+      "delta_kcal_per_unit": -345,
+      "new_total_kcal": 345
+    },
+    {
+      "label": "Add butter topping (1 tsp)",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 724
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Costco muffin?",
+      "a": "Approximately 690 kcal for a standard large muffin."
+    },
+    {
+      "q": "What are the carbs in Costco muffins?",
+      "a": "About 90 g carbs per muffin, mostly from refined flour and added sugars."
+    },
+    {
+      "q": "Do Costco muffins have a lot of sugar?",
+      "a": "Yes, around 50 g sugars per muffin, contributing to the high calorie count."
+    },
+    {
+      "q": "How does muffin flavor affect calories from Costco?",
+      "a": "Flavors like chocolate chip may add 20–50 kcal; check specific labels."
+    },
+    {
+      "q": "Are Costco muffins high in fat?",
+      "a": "Yes, about 30 g total fat per muffin, including 5 g saturated fat from butter and oils."
+    }
+  ]
+}

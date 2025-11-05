@@ -1,0 +1,92 @@
+{
+  "keyword": "how to figure out calories in a recipe",
+  "title": "How to Figure Out Calories in a Recipe",
+  "meta_description": "Learn how to figure out calories in a recipe with step-by-step methods, tools, and examples for accurate nutrition tracking.",
+  "slug": "how-to-figure-out-calories-in-a-recipe",
+  "h1": "How to Figure Out Calories in a Recipe",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "recipe"
+  },
+  "assumptions": "Generic balanced meal recipe serving (e.g., stir-fry with protein, veggies, grains; ~500g total weight per serving).",
+  "disclaimer": "Nutrition varies by ingredients, portions, brands, and cooking methods. Use precise measurements and check labels for accuracy.",
+  "quick_answer": {
+    "total_kcal": 450,
+    "text": "A typical recipe serving has ~450 kcal; calculate by summing ingredient calories and dividing by servings."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 450,
+      "carbs_g": 50,
+      "fiber_g": 6,
+      "sugars_g": 8,
+      "protein_g": 30,
+      "fat_g": 15,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 450,
+    "carbs_g": 50,
+    "fiber_g": 6,
+    "sugars_g": 8,
+    "protein_g": 30,
+    "fat_g": 15,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 80,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.88
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp oil for cooking",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 570
+    },
+    {
+      "label": "Use low-fat ingredients (e.g., skim milk instead of whole)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Increase portion veggies, reduce grains",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 420
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "What tools help figure out calories in a recipe?",
+      "a": "Use apps like MyFitnessPal, USDA database, or nutrition labels to sum calories per ingredient."
+    },
+    {
+      "q": "How do you calculate calories for homemade recipes?",
+      "a": "Weigh ingredients, find calories per gram/oz from reliable sources, total them, then divide by servings."
+    },
+    {
+      "q": "Do cooking methods affect calories in a recipe?",
+      "a": "Yes—frying adds oil calories; baking or steaming keeps them lower. Account for added fats."
+    },
+    {
+      "q": "How accurate are online calorie calculators for recipes?",
+      "a": "They're estimates; best for planning. Verify with labels for precision."
+    },
+    {
+      "q": "What if a recipe has variable portion sizes?",
+      "a": "Scale totals by serving size (e.g., for 4 servings, divide grand total by 4 for per-serving calories)."
+    }
+  ]
+}

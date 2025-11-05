@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mcdonald sweet tea",
+  "title": "Calories in McDonald's Sweet Tea",
+  "meta_description": "Discover calories in McDonald's sweet tea for a medium serving, including carbs, sugars, and nutrition facts. Quick breakdowns and size variations included.",
+  "slug": "calories-in-mcdonald-sweet-tea",
+  "h1": "Calories in McDonald's Sweet Tea",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "medium serving",
+    "item": "McDonald's sweet tea"
+  },
+  "assumptions": "Medium size (21 fl oz / 620 ml), freshly brewed black tea with sugar; no added flavors or lemon.",
+  "disclaimer": "Nutrition varies by location, batch, and exact size; values based on McDonald's standard recipe. Check app or receipt for specifics.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "A medium McDonald's sweet tea contains 90 calories, mostly from 23 g of sugars."
+  },
+  "basis": {
+    "label": "per medium serving (21 fl oz)",
+    "amount": 1,
+    "unit": "medium serving",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 23,
+      "fiber_g": 0,
+      "sugars_g": 23,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 23,
+    "fiber_g": 0,
+    "sugars_g": 23,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Small size (16 fl oz) instead of medium",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Large size (30 fl oz) instead of medium",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Unsweetened tea (no sugar added)",
+      "delta_kcal_per_unit": -90,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a medium McDonald's sweet tea?",
+      "a": "About 90 calories for a medium (21 fl oz) serving."
+    },
+    {
+      "q": "Are there carbs in McDonald's sweet tea?",
+      "a": "Yes, 23 g of carbs per medium serving, all from added sugars."
+    },
+    {
+      "q": "Calories in McDonald's sweet tea small vs large?",
+      "a": "Small (16 fl oz): 70 kcal; large (30 fl oz): 130 kcal."
+    },
+    {
+      "q": "Is McDonald's sweet tea high in sugar?",
+      "a": "Yes, a medium has 23 g of sugars—equivalent to about 6 tsp."
+    },
+    {
+      "q": "Does McDonald's sweet tea have caffeine?",
+      "a": "Yes, approximately 38 mg per medium serving from black tea."
+    }
+  ]
+}

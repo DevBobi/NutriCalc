@@ -1,0 +1,47 @@
+
+> nutricalc@0.1.0 generate:all
+> node scripts/generate-all-keywords.js
+
+[dotenv@17.2.3] injecting env (4) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+🧠 NutriCalc - Grok-4 Nutrition JSON Generator
+
+🤖 Using model: grok-4-fast-reasoning
+📁 Output directory: ./public/data/nutrition-grok4/
+
+📖 Reading keywords from: calories-in_broad-match_us_2025-10-03.xlsx
+📊 Found 2283 keywords to process
+
+🚀 Starting processing of 2283 keywords...
+
+⏭️  Skipped 1/2283: calorie count in n out (already exists)
+⏭️  Skipped 2/2283: calories in mcdonalds medium chips (already exists)
+⏭️  Skippe⚠️  Retry 2/3 for: Keyword
+🤖 Using model: grok-4-fast-reasoning
+✅ Processed: Keyword
+🔄 Processing 2/2284: calorie count in n out
+🤖 Using model: grok-4-fast-reasoning
+✅ Processed: calorie count in n out
+🔄 Processing 3/2284: calories in mcdonalds medium chips
+🤖 Using model: grok-4-fast-reasoning
+✅ Processed: calories in mcdonalds medium chips
+🔄 Processing 4/2284: in n out calories
+🤖 Using model: grok-4-fast-reasoning
+kipped 9/2283: calories in a large fry at mcdonalds (already exists)
+⏭️  Skipped 10/2283: calories in a movie popcorn (already exists)
+⏭️  Skipped 11/2283: calories in an egg and sausage mcmuffin (already exists)
+⏭️  Skipped 12/2283: calories in an egg mcmuffin with sausage (already exists)
+⏭️  Skipped 13/2283: calories in an vodka (already exists)
+⏭️  Skipped 14/2283: how many calories are in a vape (already exists)
+⏭️  Skipped 15/2283: how many calories is in vodka shot (already exists)
+⏭️  Skipped 16/2283: calories in tequila (already exists)
+⏭️  Skipped 17/2283: how many calories in a pound of ground beef (already exists)
+⏭️  Skipped 18/2283: in n out fries calories (already exists)
+⏭️  Skipped 19/2283: calories in 80 20 ground beef (already exists)
+🔄 Processing 20/2283: calories in a donut
+🤖 Using model: grok-4-fast-reasoning
+✅ Processed: calories in a donut
+🔄 Processing 21/2283: calories in chicken wingette
+🤖 Using model: grok-4-fast-reasoning
+✅ Processed: calories in chicken wingette
+🔄 Processing 22/2283: calories in mcmuffin sausage egg
+🤖 Using model: grok-4-fast-reasoning

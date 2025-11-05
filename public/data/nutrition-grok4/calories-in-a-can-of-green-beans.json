@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a can of green beans",
+  "title": "Calories in a Can of Green Beans",
+  "meta_description": "Discover calories in a can of green beans, including full nutrition breakdown per drained can, macros, sodium details, and preparation tweaks for better health.",
+  "slug": "calories-in-a-can-of-green-beans",
+  "h1": "Calories in a Can of Green Beans",
+  "updated": "2023-10-01",
+  "query": {
+    "amount": 1,
+    "unit": "can",
+    "item": "green beans"
+  },
+  "assumptions": "Standard 15 oz (425g) can, drained solids (~240g), regular sodium, no added fats or seasonings.",
+  "disclaimer": "Nutrition varies by brand, sodium content, packing liquid, and draining method. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 53,
+    "text": "A standard can of drained green beans provides ~53 kcal, 10g fiber, and is low in fat and protein."
+  },
+  "basis": {
+    "label": "per 1 can (drained, ~240g)",
+    "amount": 1,
+    "unit": "can",
+    "nutrition": {
+      "calories_kcal": 53,
+      "carbs_g": 10.3,
+      "fiber_g": 4.8,
+      "sugars_g": 5.3,
+      "protein_g": 2.9,
+      "fat_g": 0.5,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 564
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 53,
+    "carbs_g": 10.3,
+    "fiber_g": 4.8,
+    "sugars_g": 5.3,
+    "protein_g": 2.9,
+    "fat_g": 0.5,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 564
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.22
+  },
+  "tweaks": [
+    {
+      "label": "Low-sodium version (rinsed and drained)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 53
+    },
+    {
+      "label": "Sauté with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 93
+    },
+    {
+      "label": "Fresh steamed (equivalent 240g)",
+      "delta_kcal_per_unit": -13,
+      "new_total_kcal": 40
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a can of green beans drained?",
+      "a": "About 53 kcal for a standard 240g drained can."
+    },
+    {
+      "q": "Are canned green beans high in sodium?",
+      "a": "Yes, regular cans have ~564 mg sodium; opt for low-sodium or rinse to reduce."
+    },
+    {
+      "q": "What's the fiber content in a can of green beans?",
+      "a": "Approximately 4.8 g dietary fiber per drained can."
+    },
+    {
+      "q": "Do canned green beans have added sugars?",
+      "a": "Minimal natural sugars (~5.3 g per can); no added sugars in plain varieties."
+    },
+    {
+      "q": "How do calories compare for fresh vs canned green beans?",
+      "a": "Similar low calories (~40-53 kcal per 240g), but canned may have more sodium."
+    }
+  ]
+}

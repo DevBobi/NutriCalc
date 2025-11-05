@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 3 ounces of chicken breast",
+  "title": "Calories in 3 Ounces of Chicken Breast",
+  "meta_description": "Learn calories in 3 ounces of chicken breast, plus protein, fat, carbs, full nutrition per serving, and easy tweaks for your meal.",
+  "slug": "calories-in-3-ounces-of-chicken-breast",
+  "h1": "Calories in 3 Ounces of Chicken Breast",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 3,
+    "unit": "oz",
+    "item": "chicken breast"
+  },
+  "assumptions": "Skinless, boneless chicken breast, cooked (roasted or grilled), no sauce/oil added; 3 oz ≈ 85 g.",
+  "disclaimer": "Nutrition varies by brand, cut, cooking method, seasoning, water content, and measurement; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "3 ounces of cooked, skinless chicken breast provides ~140 kcal and ~26 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 31,
+      "fat_g": 3.6,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 85,
+      "sodium_mg": 74
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 26,
+    "fat_g": 3.1,
+    "sat_fat_g": 0.9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 72,
+    "sodium_mg": 63
+  },
+  "label_note": "Totals are scaled from the per-100 g basis and mirror Nutrition Facts fields.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 174
+    },
+    {
+      "label": "Skin-on, roasted (vs. skinless) per 100 g",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 161
+    },
+    {
+      "label": "Breaded and fried (vs. grilled) per 100 g",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 240
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 3 ounces of cooked chicken breast?",
+      "a": "About 140 kcal for skinless, boneless, cooked chicken breast."
+    },
+    {
+      "q": "What's the protein in 3 ounces of chicken breast?",
+      "a": "Approximately 26 g of protein."
+    },
+    {
+      "q": "Are these values for raw or cooked chicken breast?",
+      "a": "Cooked weight; raw would be higher due to water loss during cooking."
+    },
+    {
+      "q": "Does adding skin change calories in chicken breast?",
+      "a": "Yes, skin-on adds about 30 kcal per 100 g compared to skinless."
+    },
+    {
+      "q": "How much fat is in 3 ounces of chicken breast?",
+      "a": "Around 3.1 g total fat, with 0.9 g saturated, for skinless cooked."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a bud light beer",
+  "title": "How Many Calories Are in a Bud Light Beer?",
+  "meta_description": "Discover how many calories are in a Bud Light beer (about 110 kcal per 12 oz serving), plus carbs, protein, sodium, and quick tweaks for variations.",
+  "slug": "how-many-calories-are-in-a-bud-light-beer",
+  "h1": "How Many Calories Are in a Bud Light Beer?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "beer",
+    "item": "Bud Light beer"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) serving of Bud Light lager, chilled, no added mixers or garnishes.",
+  "disclaimer": "Nutrition varies by brand batch, serving size, and any additions; check labels or official sources for exact values.",
+  "quick_answer": {
+    "total_kcal": 110,
+    "text": "A standard Bud Light beer contains about 110 kcal and 6.6 g carbs."
+  },
+  "basis": {
+    "label": "per 1 beer (12 fl oz)",
+    "amount": 1,
+    "unit": "beer",
+    "nutrition": {
+      "calories_kcal": 110,
+      "carbs_g": 6.6,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.9,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 110,
+    "carbs_g": 6.6,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.9,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Add a lime wedge (negligible calories)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 112
+    },
+    {
+      "label": "Switch to regular Budweiser (higher carbs)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Larger 16 oz serving (vs. 12 oz)",
+      "delta_kcal_per_unit": 37,
+      "new_total_kcal": 147
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a Bud Light beer?",
+      "a": "Approximately 110 kcal per 12 fl oz serving."
+    },
+    {
+      "q": "What are the carbs in a Bud Light?",
+      "a": "About 6.6 g of carbohydrates per beer, mostly from malt."
+    },
+    {
+      "q": "Does Bud Light have protein or fat?",
+      "a": "Minimal: 0.9 g protein and 0 g fat per serving."
+    },
+    {
+      "q": "How does Bud Light compare to other light beers?",
+      "a": "Similar to many light beers at 110 kcal; some like Michelob Ultra are lower at ~95 kcal."
+    },
+    {
+      "q": "Is sodium high in Bud Light beer?",
+      "a": "Low at about 10 mg per 12 oz serving."
+    }
+  ]
+}

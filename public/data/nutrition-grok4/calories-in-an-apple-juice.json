@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in an apple juice",
+  "title": "Calories in One Glass of Apple Juice",
+  "meta_description": "Discover calories in an apple juice serving (1 cup/240 ml), including carbs, sugars, full nutrition breakdown, and variations for better choices.",
+  "slug": "calories-in-an-apple-juice",
+  "h1": "Calories in One Glass of Apple Juice",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "apple juice"
+  },
+  "assumptions": "One 8-oz (240 ml) glass of unsweetened, 100% apple juice, no added sugar or preservatives.",
+  "disclaimer": "Nutrition varies by brand, processing (e.g., from concentrate), added sugars, and serving size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 114,
+    "text": "One cup of unsweetened apple juice contains about 114 kcal, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 46,
+      "carbs_g": 11.2,
+      "fiber_g": 0.2,
+      "sugars_g": 10,
+      "protein_g": 0.1,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 4
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 114,
+    "carbs_g": 27.7,
+    "fiber_g": 0.5,
+    "sugars_g": 24.8,
+    "protein_g": 0.2,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.48
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar per cup",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 130
+    },
+    {
+      "label": "Choose low-sugar or diluted version",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 94
+    },
+    {
+      "label": "With pulp (vs. clear juice)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 116
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in an apple juice glass?",
+      "a": "About 114 kcal for one 240 ml cup of unsweetened apple juice."
+    },
+    {
+      "q": "Is apple juice high in sugar?",
+      "a": "Yes, one cup has ~25 g natural sugars, contributing most of the 114 kcal."
+    },
+    {
+      "q": "What's the carb content in apple juice?",
+      "a": "Approximately 28 g carbs per cup, with minimal fiber (0.5 g)."
+    },
+    {
+      "q": "Does apple juice have fat or protein?",
+      "a": "Negligible—0.2 g fat and 0.2 g protein per cup."
+    },
+    {
+      "q": "How does sweetened apple juice compare?",
+      "a": "Sweetened versions add 20–50 extra kcal per cup from added sugars."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "pigs in a blanket calories",
+  "title": "Calories in Pigs in a Blanket",
+  "meta_description": "Discover pigs in a blanket calories per piece, including macros like protein, carbs, fat, and easy tweaks for variations.",
+  "slug": "pigs-in-a-blanket-calories",
+  "h1": "Calories in Pigs in a Blanket",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "piece",
+    "item": "pigs in a blanket"
+  },
+  "assumptions": "Standard mini beef or pork sausage (about 10g) wrapped in crescent roll dough, baked; no added sauces or toppings.",
+  "disclaimer": "Nutrition varies by brand, sausage type, dough recipe, size, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 65,
+    "text": "One pig in a blanket has about 65 kcal, with 6g carbs and 2g protein."
+  },
+  "basis": {
+    "label": "per 1 piece",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 65,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 2,
+      "fat_g": 4,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 65,
+    "carbs_g": 6,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 2,
+    "fat_g": 4,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.27
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp mustard dipping sauce per piece",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 75
+    },
+    {
+      "label": "Use turkey sausage instead of beef/pork",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Whole wheat dough variation",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one pig in a blanket?",
+      "a": "Approximately 65 kcal per standard baked piece."
+    },
+    {
+      "q": "What are the macros for pigs in a blanket calories?",
+      "a": "Per piece: 6g carbs, 2g protein, 4g fat, 200mg sodium."
+    },
+    {
+      "q": "Are pigs in a blanket high in sodium?",
+      "a": "Yes, due to the sausage—about 200mg per piece."
+    },
+    {
+      "q": "How do homemade pigs in a blanket calories compare to store-bought?",
+      "a": "Homemade can be lower if using lean sausage and less dough; varies by recipe."
+    },
+    {
+      "q": "Can I make low-calorie pigs in a blanket?",
+      "a": "Yes, opt for veggie sausages or phyllo dough to reduce calories by 10-20 per piece."
+    }
+  ]
+}

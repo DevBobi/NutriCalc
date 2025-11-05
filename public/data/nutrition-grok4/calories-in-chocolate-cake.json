@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chocolate cake",
+  "title": "Calories in Chocolate Cake",
+  "meta_description": "Discover calories in chocolate cake per slice, including carbs, fat, protein, full nutrition breakdown, and easy tweaks for variations.",
+  "slug": "calories-in-chocolate-cake",
+  "h1": "Calories in Chocolate Cake",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "chocolate cake"
+  },
+  "assumptions": "Standard bakery slice (~100 g), with chocolate frosting, no added toppings.",
+  "disclaimer": "Nutrition varies by recipe, brand, portion size, and ingredients like butter or sugar content. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A typical slice of chocolate cake contains about 350 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 slice (100 g)",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 48,
+      "fiber_g": 2,
+      "sugars_g": 32,
+      "protein_g": 4,
+      "fat_g": 16,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 45,
+      "sodium_mg": 280
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 48,
+    "fiber_g": 2,
+    "sugars_g": 32,
+    "protein_g": 4,
+    "fat_g": 16,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 45,
+    "sodium_mg": 280
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Without frosting (plain cake only)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add 1 scoop vanilla ice cream",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 550
+    },
+    {
+      "label": "Low-sugar version (reduced sugar recipe)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one slice of chocolate cake?",
+      "a": "About 350 kcal for a standard 100 g slice with frosting."
+    },
+    {
+      "q": "What are the carbs in chocolate cake?",
+      "a": "Around 48 g carbs per slice, including 32 g sugars."
+    },
+    {
+      "q": "Is chocolate cake high in fat?",
+      "a": "Yes, typically 16 g total fat per slice, with 6 g saturated."
+    },
+    {
+      "q": "How does homemade chocolate cake compare to store-bought?",
+      "a": "Homemade can vary; richer recipes may add 50-100 kcal per slice."
+    },
+    {
+      "q": "What's the protein content in chocolate cake?",
+      "a": "Low at about 4 g per slice, mainly from flour and eggs."
+    }
+  ]
+}

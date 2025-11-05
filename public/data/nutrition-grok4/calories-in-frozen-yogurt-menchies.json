@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in frozen yogurt menchies",
+  "title": "Calories in Menchie's Frozen Yogurt",
+  "meta_description": "Discover calories in frozen yogurt Menchies, including nutrition per 100g serving, macros, and tips for flavors and toppings under 160 characters.",
+  "slug": "calories-in-frozen-yogurt-menchies",
+  "h1": "Calories in Menchie's Frozen Yogurt",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "Menchie's frozen yogurt"
+  },
+  "assumptions": "Average plain, non-fat frozen yogurt from Menchie's; self-serve style, no toppings; values based on standard nutritional info.",
+  "disclaimer": "Nutrition varies by flavor, fat content, brand specifics, portion size, and added mix-ins. Check Menchie's app or labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 124,
+    "text": "100g of Menchie's frozen yogurt contains about 124 kcal and 4g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 124,
+      "carbs_g": 24,
+      "fiber_g": 0,
+      "sugars_g": 20,
+      "protein_g": 4,
+      "fat_g": 1,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 124,
+    "carbs_g": 24,
+    "fiber_g": 0,
+    "sugars_g": 20,
+    "protein_g": 4,
+    "fat_g": 1,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 50
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.52
+  },
+  "tweaks": [
+    {
+      "label": "Chocolate flavor variation (vs. plain)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 139
+    },
+    {
+      "label": "Add 1 tbsp granola topping per 100g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 174
+    },
+    {
+      "label": "Low-carb or sugar-free option",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 104
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a typical Menchie's frozen yogurt serving?",
+      "a": "About 124 kcal per 100g for plain non-fat; a 4oz (113g) scoop is roughly 140 kcal."
+    },
+    {
+      "q": "What are the macros for Menchie's frozen yogurt?",
+      "a": "Per 100g: 24g carbs (20g sugars), 4g protein, 1g fat; mostly from milk and sweeteners."
+    },
+    {
+      "q": "Does Menchie's frozen yogurt have fat or cholesterol?",
+      "a": "Non-fat versions have ~1g fat and 5mg cholesterol per 100g; full-fat flavors increase both."
+    },
+    {
+      "q": "How do toppings affect calories in frozen yogurt Menchies?",
+      "a": "Toppings like candy or nuts can add 50-100+ kcal per serving; fruits add fewer (10-30 kcal)."
+    },
+    {
+      "q": "Are Menchie's frozen yogurts low-sugar options available?",
+      "a": "Yes, sugar-free flavors have ~20 fewer kcal per 100g, with reduced sugars to under 5g."
+    }
+  ]
+}

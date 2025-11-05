@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in pop tarts",
+  "title": "How Many Calories Are in Pop Tarts?",
+  "meta_description": "Learn how many calories are in Pop Tarts with a full nutrition breakdown per pastry, including carbs, sugars, fat, and quick tweaks for different flavors.",
+  "slug": "how-many-calories-are-in-pop-tarts",
+  "h1": "How Many Calories Are in Pop Tarts?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "Pop Tart",
+    "item": "Pop Tart"
+  },
+  "assumptions": "Standard frosted strawberry flavor, Kellogg's brand; one pastry (52 g serving); no additional toppings.",
+  "disclaimer": "Nutrition varies by flavor, brand, frosting type, and serving size. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "One frosted Pop Tart contains about 200 kcal, mostly from carbs and sugars."
+  },
+  "basis": {
+    "label": "per 1 Pop Tart",
+    "amount": 1,
+    "unit": "Pop Tart",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 38,
+      "fiber_g": 1,
+      "sugars_g": 17,
+      "protein_g": 2,
+      "fat_g": 5,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 150
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 38,
+    "fiber_g": 1,
+    "sugars_g": 17,
+    "protein_g": 2,
+    "fat_g": 5,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 150
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "Unfrosted version (less sugar and fat)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Two Pop Tarts (full package serving)",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Toaster pastry with peanut butter flavor",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in one Pop Tart?",
+      "a": "Approximately 200 kcal for a standard frosted variety."
+    },
+    {
+      "q": "Are Pop Tarts high in sugar?",
+      "a": "Yes, one Pop Tart has about 17 g of sugars."
+    },
+    {
+      "q": "How many carbs in Pop Tarts?",
+      "a": "Around 38 g of carbs per pastry, with 1 g fiber."
+    },
+    {
+      "q": "Do Pop Tarts have trans fat?",
+      "a": "Typically 0 g trans fat per serving in modern formulations."
+    },
+    {
+      "q": "Calories in unfrosted vs frosted Pop Tarts?",
+      "a": "Unfrosted is slightly lower at ~180 kcal, due to reduced sugar and fat."
+    }
+  ]
+}

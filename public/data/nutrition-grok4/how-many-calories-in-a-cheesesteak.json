@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a cheesesteak",
+  "title": "How Many Calories in a Cheesesteak?",
+  "meta_description": "Discover how many calories in a cheesesteak, including full nutrition breakdown, macros, and variations for a standard Philly-style sandwich.",
+  "slug": "how-many-calories-in-a-cheesesteak",
+  "h1": "How Many Calories in a Cheesesteak?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cheesesteak",
+    "item": "cheesesteak"
+  },
+  "assumptions": "Standard Philly cheesesteak: 6 oz thinly sliced ribeye steak, provolone cheese, grilled onions, on a 10-inch hoagie roll; no extra condiments.",
+  "disclaimer": "Nutrition varies by restaurant, portion size, cheese type, roll brand, and add-ons like sauces or peppers. Check menus or labels when available.",
+  "quick_answer": {
+    "total_kcal": 800,
+    "text": "A standard cheesesteak sandwich contains about 800 calories and 45 g protein."
+  },
+  "basis": {
+    "label": "per 1 cheesesteak sandwich",
+    "amount": 1,
+    "unit": "cheesesteak",
+    "nutrition": {
+      "calories_kcal": 800,
+      "carbs_g": 70,
+      "fiber_g": 3,
+      "sugars_g": 5,
+      "protein_g": 45,
+      "fat_g": 40,
+      "sat_fat_g": 18,
+      "trans_fat_g": 1,
+      "cholesterol_mg": 120,
+      "sodium_mg": 1500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 800,
+    "carbs_g": 70,
+    "fiber_g": 3,
+    "sugars_g": 5,
+    "protein_g": 45,
+    "fat_g": 40,
+    "sat_fat_g": 18,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 120,
+    "sodium_mg": 1500
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.35
+  },
+  "tweaks": [
+    {
+      "label": "Chicken cheesesteak (vs. beef)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 700
+    },
+    {
+      "label": "Add extra provolone slice",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 900
+    },
+    {
+      "label": "No onions, use Cheez Whiz",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 780
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a cheesesteak without cheese?",
+      "a": "About 600 calories, subtracting ~200 from the cheese."
+    },
+    {
+      "q": "What are the macros for a standard cheesesteak?",
+      "a": "Roughly 45 g protein, 40 g fat, 70 g carbs, and 800 kcal total."
+    },
+    {
+      "q": "Is a Philly cheesesteak high in sodium?",
+      "a": "Yes, around 1500 mg due to cheese, steak, and roll seasonings."
+    },
+    {
+      "q": "How does portion size affect calories in a cheesesteak?",
+      "a": "Larger 8 oz steak versions can add 200+ calories; smaller portions reduce them."
+    },
+    {
+      "q": "Are there lower-calorie cheesesteak options?",
+      "a": "Opt for chicken, whole wheat roll, or veggies like peppers to cut 100-200 kcal."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in 1 fried egg",
+  "title": "How Many Calories in 1 Fried Egg?",
+  "meta_description": "Discover how many calories in 1 fried egg, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-in-1-fried-egg",
+  "h1": "How Many Calories in 1 Fried Egg?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "egg",
+    "item": "fried egg"
+  },
+  "assumptions": "Large egg (~50 g), fried in a non-stick pan with minimal oil (1/2 tsp), no added salt or seasonings.",
+  "disclaimer": "Nutrition varies by egg size, cooking fat used, pan type, and added ingredients. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 92,
+    "text": "One large fried egg provides about 92 kcal and 6.3 g protein."
+  },
+  "basis": {
+    "label": "per 1 large fried egg",
+    "amount": 1,
+    "unit": "egg",
+    "nutrition": {
+      "calories_kcal": 92,
+      "carbs_g": 0.4,
+      "fiber_g": 0,
+      "sugars_g": 0.2,
+      "protein_g": 6.3,
+      "fat_g": 7,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 185,
+      "sodium_mg": 70
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 92,
+    "carbs_g": 0.4,
+    "fiber_g": 0,
+    "sugars_g": 0.2,
+    "protein_g": 6.3,
+    "fat_g": 7,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 185,
+    "sodium_mg": 70
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Fried in 1 tsp butter instead of oil",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 127
+    },
+    {
+      "label": "Egg white only (discard yolk)",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 22
+    },
+    {
+      "label": "Add 1 slice of cheese on top",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 172
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 fried egg?",
+      "a": "Approximately 92 kcal for one large fried egg with minimal oil."
+    },
+    {
+      "q": "Is a fried egg higher in calories than boiled?",
+      "a": "Yes, due to added cooking fat; fried is ~92 kcal vs. ~78 kcal for boiled."
+    },
+    {
+      "q": "What are the macros for 1 fried egg?",
+      "a": "About 6.3 g protein, 7 g fat, 0.4 g carbs."
+    },
+    {
+      "q": "Does the type of oil affect fried egg calories?",
+      "a": "Yes; using more oil or butter increases fat and calories by 30-50 kcal per tsp."
+    },
+    {
+      "q": "How much cholesterol in 1 fried egg?",
+      "a": "Around 185 mg, mostly from the yolk; frying doesn't significantly alter it."
+    }
+  ]
+}

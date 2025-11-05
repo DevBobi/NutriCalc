@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a kalamata olive",
+  "title": "Calories in a Kalamata Olive",
+  "meta_description": "Discover calories in a kalamata olive, including fat, sodium, and full nutrition breakdown per olive plus quick tweaks for variations.",
+  "slug": "calories-in-a-kalamata-olive",
+  "h1": "Calories in a Kalamata Olive",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "olive",
+    "item": "kalamata olive"
+  },
+  "assumptions": "Average pitted Kalamata olive (~5 g), brined in salt and vinegar, no added oil.",
+  "disclaimer": "Nutrition varies by size, brand, curing method, and whether pitted; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 11,
+    "text": "A single Kalamata olive contains about 11 kcal, mostly from healthy fats."
+  },
+  "basis": {
+    "label": "per 1 Kalamata olive",
+    "amount": 1,
+    "unit": "olive",
+    "nutrition": {
+      "calories_kcal": 11,
+      "carbs_g": 0.3,
+      "fiber_g": 0.2,
+      "sugars_g": 0,
+      "protein_g": 0.1,
+      "fat_g": 1,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 247
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 11,
+    "carbs_g": 0.3,
+    "fiber_g": 0.2,
+    "sugars_g": 0,
+    "protein_g": 0.1,
+    "fat_g": 1,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 247
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.05
+  },
+  "tweaks": [
+    {
+      "label": "Oil-marinated (adds 1 tsp oil per olive)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 51
+    },
+    {
+      "label": "Low-sodium rinsed version",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 11
+    },
+    {
+      "label": "Stuffed with garlic or almond",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 16
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a kalamata olive?",
+      "a": "Approximately 11 kcal per average pitted olive."
+    },
+    {
+      "q": "Are kalamata olives high in fat?",
+      "a": "Yes, about 1 g fat per olive, mostly monounsaturated."
+    },
+    {
+      "q": "What's the sodium in one kalamata olive?",
+      "a": "Around 247 mg, due to brining; rinse to reduce."
+    },
+    {
+      "q": "Do kalamata olives have carbs or fiber?",
+      "a": "Low carbs (0.3 g) and some fiber (0.2 g) per olive."
+    },
+    {
+      "q": "How does olive size affect calories?",
+      "a": "Larger olives (~7 g) may have 15-20 kcal; smaller ones less."
+    }
+  ]
+}

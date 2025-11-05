@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a stick of butter",
+  "title": "Calories in a Stick of Butter",
+  "meta_description": "Discover calories in a stick of butter, including full nutrition breakdown per 100 g basis, totals for one stick (113 g), macros, and preparation tweaks for better choices.",
+  "slug": "calories-in-a-stick-of-butter",
+  "h1": "Calories in a Stick of Butter",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "stick",
+    "item": "butter"
+  },
+  "assumptions": "Standard US stick (1/2 cup, 113 g), unsalted butter at room temperature; values based on typical dairy butter.",
+  "disclaimer": "Nutrition varies by brand, salted vs. unsalted, fat content, and exact weight. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 810,
+    "text": "One stick of butter (113 g) provides about 810 kcal, almost entirely from fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 717,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0.1,
+      "protein_g": 0.9,
+      "fat_g": 81,
+      "sat_fat_g": 51,
+      "trans_fat_g": 3.3,
+      "cholesterol_mg": 215,
+      "sodium_mg": 11
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 810,
+    "carbs_g": 0.1,
+    "fiber_g": 0,
+    "sugars_g": 0.1,
+    "protein_g": 1,
+    "fat_g": 91.5,
+    "sat_fat_g": 57.6,
+    "trans_fat_g": 3.7,
+    "cholesterol_mg": 243,
+    "sodium_mg": 12
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.39
+  },
+  "tweaks": [
+    {
+      "label": "Switch to light butter (reduced fat, ~40% less calories per 100 g)",
+      "delta_kcal_per_unit": -405,
+      "new_total_kcal": 405
+    },
+    {
+      "label": "Use salted butter (adds ~1/4 tsp salt per stick)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 810
+    },
+    {
+      "label": "Opt for grass-fed butter (similar calories, higher omega-3s)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 810
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a stick of butter?",
+      "a": "Approximately 810 kcal for one standard 113 g stick."
+    },
+    {
+      "q": "Is a stick of butter mostly fat?",
+      "a": "Yes, about 91.5 g total fat, with 57.6 g saturated fat."
+    },
+    {
+      "q": "Calories in butter per tablespoon?",
+      "a": "One tablespoon (14 g) has ~100 kcal; a stick is 8 tablespoons."
+    },
+    {
+      "q": "Does salted butter have more calories than unsalted?",
+      "a": "No significant difference; salt adds sodium but negligible calories."
+    },
+    {
+      "q": "How does butter compare to margarine in calories?",
+      "a": "Similar at ~810 kcal per stick, but margarine often has less saturated fat."
+    }
+  ]
+}

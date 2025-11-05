@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in cuties",
+  "title": "How Many Calories in a Cuties?",
+  "meta_description": "Learn how many calories in cuties, including carbs, fiber, sugars, protein, and full nutrition facts per fruit for easy tracking.",
+  "slug": "how-many-calories-in-cuties",
+  "h1": "How Many Calories in a Cuties?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "Cuties",
+    "item": "mandarin orange"
+  },
+  "assumptions": "One medium Cuties mandarin orange (~74g), fresh, peeled and eaten; no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by fruit size, ripeness, variety, and brand; values are averages. Check packaging when available.",
+  "quick_answer": {
+    "total_kcal": 35,
+    "text": "One Cuties mandarin orange provides ~35 kcal and ~9 g carbs."
+  },
+  "basis": {
+    "label": "per 1 medium Cuties",
+    "amount": 1,
+    "unit": "Cuties",
+    "nutrition": {
+      "calories_kcal": 35,
+      "carbs_g": 9,
+      "fiber_g": 1,
+      "sugars_g": 7,
+      "protein_g": 1,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 35,
+    "carbs_g": 9,
+    "fiber_g": 1,
+    "sugars_g": 7,
+    "protein_g": 1,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.15
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp yogurt as dip",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Eat two Cuties instead of one",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Cuties segments in light syrup (drained, per fruit equivalent)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 45
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Cuties?",
+      "a": "About 35 kcal for one medium Cuties mandarin orange."
+    },
+    {
+      "q": "What are the carbs in cuties?",
+      "a": "One Cuties has ~9 g carbs, including 1 g fiber and 7 g sugars."
+    },
+    {
+      "q": "Do cuties have protein or fat?",
+      "a": "Minimal—~1 g protein and 0.2 g fat per fruit."
+    },
+    {
+      "q": "How many cuties equal 100 calories?",
+      "a": "Roughly 3 medium Cuties provide about 105 kcal."
+    },
+    {
+      "q": "Are cuties low-sodium?",
+      "a": "Yes, only ~1 mg sodium per fruit, making them heart-friendly."
+    }
+  ]
+}

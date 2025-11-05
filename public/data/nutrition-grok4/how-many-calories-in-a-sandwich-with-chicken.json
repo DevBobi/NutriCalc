@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a sandwich with chicken",
+  "title": "How Many Calories in a Chicken Sandwich?",
+  "meta_description": "Discover how many calories in a sandwich with chicken, including protein, carbs, fat, full nutrition breakdown, and simple tweaks for variations.",
+  "slug": "how-many-calories-in-a-sandwich-with-chicken",
+  "h1": "How Many Calories in a Chicken Sandwich?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "chicken sandwich"
+  },
+  "assumptions": "Grilled chicken breast (100g), 2 slices whole wheat bread, lettuce, tomato, onion; no mayo, sauce, or cheese.",
+  "disclaimer": "Nutrition varies by ingredients, portion sizes, bread type, cooking method, and added condiments. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A basic chicken sandwich has about 350 kcal and 30 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 40,
+      "fiber_g": 5,
+      "sugars_g": 5,
+      "protein_g": 30,
+      "fat_g": 8,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 75,
+      "sodium_mg": 650
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 40,
+    "fiber_g": 5,
+    "sugars_g": 5,
+    "protein_g": 30,
+    "fat_g": 8,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 75,
+    "sodium_mg": 650
+  },
+  "label_note": "Values are based on standard Nutrition Facts panel equivalents for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp mayonnaise",
+      "delta_kcal_per_unit": 90,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "Use fried chicken instead of grilled",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Add 1 slice cheddar cheese",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 460
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a sandwich with chicken and mayo?",
+      "a": "Adding mayo increases it to about 440 kcal."
+    },
+    {
+      "q": "What's the protein in a chicken sandwich?",
+      "a": "Around 30 g for a basic grilled version."
+    },
+    {
+      "q": "Are chicken sandwiches high in sodium?",
+      "a": "Yes, often 650 mg or more due to bread and seasonings."
+    },
+    {
+      "q": "How do carbs compare in chicken vs. turkey sandwiches?",
+      "a": "Similar if using the same bread; chicken adds more protein."
+    },
+    {
+      "q": "Can I make a low-calorie chicken sandwich?",
+      "a": "Yes, use lettuce wraps instead of bread to cut ~200 kcal."
+    }
+  ]
+}

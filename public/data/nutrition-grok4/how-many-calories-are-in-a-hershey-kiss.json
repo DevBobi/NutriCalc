@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a hershey kiss",
+  "title": "How Many Calories Are in a Hershey's Kiss?",
+  "meta_description": "Discover how many calories are in a Hershey's Kiss, including full nutrition breakdown, macros, and variations for this classic chocolate treat.",
+  "slug": "how-many-calories-are-in-a-hershey-kiss",
+  "h1": "How Many Calories Are in a Hershey's Kiss?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "kiss",
+    "item": "Hershey's Kiss"
+  },
+  "assumptions": "Standard milk chocolate Hershey's Kiss, approximately 4.6 g each; no wrappers or additional fillings.",
+  "disclaimer": "Nutrition varies by flavor, batch, and manufacturer; values are approximate. Check packaging for exact details.",
+  "quick_answer": {
+    "total_kcal": 24,
+    "text": "A single Hershey's Kiss contains about 24 calories, mostly from sugar and fat."
+  },
+  "basis": {
+    "label": "per 1 Hershey's Kiss",
+    "amount": 1,
+    "unit": "kiss",
+    "nutrition": {
+      "calories_kcal": 24,
+      "carbs_g": 2.6,
+      "fiber_g": 0.2,
+      "sugars_g": 2.3,
+      "protein_g": 0.3,
+      "fat_g": 1.5,
+      "sat_fat_g": 0.9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 2,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 24,
+    "carbs_g": 2.6,
+    "fiber_g": 0.2,
+    "sugars_g": 2.3,
+    "protein_g": 0.3,
+    "fat_g": 1.5,
+    "sat_fat_g": 0.9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 2,
+    "sodium_mg": 3
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.1
+  },
+  "tweaks": [
+    {
+      "label": "Dark chocolate version (higher cocoa)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 26
+    },
+    {
+      "label": "Hershey's Kiss with almond (adds nut filling)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 39
+    },
+    {
+      "label": "Sugar-free variety",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 14
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a Hershey's Kiss?",
+      "a": "Approximately 24 calories per standard milk chocolate Kiss."
+    },
+    {
+      "q": "What are the carbs in one Hershey's Kiss?",
+      "a": "About 2.6 g total carbs, including 2.3 g sugars and 0.2 g fiber."
+    },
+    {
+      "q": "Is there protein in Hershey's Kisses?",
+      "a": "A small amount, around 0.3 g per Kiss from milk solids."
+    },
+    {
+      "q": "How much fat is in a Hershey's Kiss?",
+      "a": "1.5 g total fat, with 0.9 g saturated fat per Kiss."
+    },
+    {
+      "q": "Do Hershey's Kisses have sodium or cholesterol?",
+      "a": "Low levels: 3 mg sodium and 2 mg cholesterol per Kiss."
+    }
+  ]
+}

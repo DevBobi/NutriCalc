@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a roma tomato",
+  "title": "Calories in a Roma Tomato",
+  "meta_description": "Learn calories in a Roma tomato, plus carbs, fiber, protein, fat, and full nutrition breakdown for this low-calorie vegetable.",
+  "slug": "calories-in-a-roma-tomato",
+  "h1": "Calories in a Roma Tomato",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tomato",
+    "item": "roma tomato"
+  },
+  "assumptions": "Medium Roma tomato, raw, about 62 g; values based on USDA data for plum tomatoes.",
+  "disclaimer": "Nutrition varies by size, ripeness, variety, and growing conditions. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 11,
+    "text": "A medium Roma tomato contains about 11 calories and 2.4 g of carbs."
+  },
+  "basis": {
+    "label": "per 1 medium Roma tomato (62 g)",
+    "amount": 1,
+    "unit": "tomato",
+    "nutrition": {
+      "calories_kcal": 11,
+      "carbs_g": 2.4,
+      "fiber_g": 0.7,
+      "sugars_g": 1.6,
+      "protein_g": 0.6,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 11,
+    "carbs_g": 2.4,
+    "fiber_g": 0.7,
+    "sugars_g": 1.6,
+    "protein_g": 0.6,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.05
+  },
+  "tweaks": [
+    {
+      "label": "Drizzled with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 51
+    },
+    {
+      "label": "Sun-dried (rehydrated equivalent)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 26
+    },
+    {
+      "label": "Chopped in salad with 1 tbsp dressing",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 81
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Roma tomato?",
+      "a": "About 11 calories for a medium one (62 g)."
+    },
+    {
+      "q": "Are Roma tomatoes low carb?",
+      "a": "Yes, one has ~2.4 g carbs, with 0.7 g fiber."
+    },
+    {
+      "q": "What's the protein in a Roma tomato?",
+      "a": "Roughly 0.6 g protein per medium tomato."
+    },
+    {
+      "q": "Do Roma tomatoes have fat?",
+      "a": "Very low—only 0.1 g total fat, no saturated or trans fat."
+    },
+    {
+      "q": "How does size affect calories in Roma tomatoes?",
+      "a": "Smaller ones (~50 g) have ~9 kcal; larger (~80 g) ~14 kcal."
+    }
+  ]
+}

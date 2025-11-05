@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a waffle",
+  "title": "How Many Calories in a Waffle?",
+  "meta_description": "Discover how many calories in a waffle, including carbs, protein, fat, and full nutrition breakdown per serving with easy tweaks and FAQs.",
+  "slug": "how-many-calories-in-a-waffle",
+  "h1": "How Many Calories in a Waffle?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "waffle",
+    "item": "waffle"
+  },
+  "assumptions": "Standard frozen waffle (e.g., 75 g, plain, toasted without toppings); values based on average commercial brand like Eggo.",
+  "disclaimer": "Nutrition varies by brand, size, recipe, and preparation method. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 210,
+    "text": "A standard waffle has about 210 kcal, with 30 g carbs and 4 g protein."
+  },
+  "basis": {
+    "label": "per 1 waffle",
+    "amount": 1,
+    "unit": "waffle",
+    "nutrition": {
+      "calories_kcal": 210,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugars_g": 8,
+      "protein_g": 4,
+      "fat_g": 8,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 210,
+    "carbs_g": 30,
+    "fiber_g": 2,
+    "sugars_g": 8,
+    "protein_g": 4,
+    "fat_g": 8,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 300
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.88
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter and 2 tbsp maple syrup",
+      "delta_kcal_per_unit": 150,
+      "new_total_kcal": 360
+    },
+    {
+      "label": "Whole wheat waffle (lower sugar version)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Belgian-style waffle (larger, ~100 g)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 290
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a plain waffle?",
+      "a": "About 210 kcal for a standard 75 g frozen waffle, toasted."
+    },
+    {
+      "q": "What are the carbs in a waffle?",
+      "a": "Roughly 30 g total carbs, including 2 g fiber and 8 g sugars per waffle."
+    },
+    {
+      "q": "Are waffles high in protein?",
+      "a": "No, typically 4 g protein per waffle; pair with toppings like yogurt for more."
+    },
+    {
+      "q": "How does waffle size affect calories?",
+      "a": "Larger waffles (e.g., Belgian) can have 250+ kcal; smaller ones around 150 kcal."
+    },
+    {
+      "q": "What's the fat content in a waffle?",
+      "a": "About 8 g total fat, with 1.5 g saturated fat per standard waffle."
+    }
+  ]
+}

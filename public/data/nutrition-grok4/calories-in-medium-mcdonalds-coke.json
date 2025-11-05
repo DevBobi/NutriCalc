@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in medium mcdonalds coke",
+  "title": "Calories in Medium McDonald's Coke",
+  "meta_description": "Learn calories in medium McDonald's Coke (16 oz serving), including carbs, sugars, sodium, and quick diet tweaks for better choices.",
+  "slug": "calories-in-medium-mcdonalds-coke",
+  "h1": "Calories in Medium McDonald's Coke",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "medium",
+    "item": "McDonald's Coke"
+  },
+  "assumptions": "16 fl oz (473 ml) Coca-Cola serving at McDonald's; nutrition for full beverage, ice not included in calorie count but may dilute if melted.",
+  "disclaimer": "Nutrition varies by location, exact formulation, and serving size; check McDonald's app or labels for latest values.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "A medium McDonald's Coke contains 190 calories, primarily from 49 g of sugars."
+  },
+  "basis": {
+    "label": "per 1 medium McDonald's Coke",
+    "amount": 1,
+    "unit": "medium McDonald's Coke",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 49,
+      "fiber_g": 0,
+      "sugars_g": 49,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 45
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 49,
+    "fiber_g": 0,
+    "sugars_g": 49,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 45
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Switch to Diet Coke (zero sugar)",
+      "delta_kcal_per_unit": -190,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Choose Coke Zero instead",
+      "delta_kcal_per_unit": -190,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Opt for small size (12 oz) versus medium",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in medium McDonald's Coke?",
+      "a": "About 190 calories for a 16 oz serving."
+    },
+    {
+      "q": "What are the carbs in a medium McDonald's Coke?",
+      "a": "49 g of carbohydrates, all from sugars, with 0 g fiber."
+    },
+    {
+      "q": "Does McDonald's Coke have any protein or fat?",
+      "a": "No protein or fat; it's purely carbs and sodium (45 mg)."
+    },
+    {
+      "q": "How does ice affect calories in medium McDonald's Coke?",
+      "a": "Ice adds no calories but may dilute the drink if it melts, slightly reducing effective calories per sip."
+    },
+    {
+      "q": "What's the difference in calories between medium and large McDonald's Coke?",
+      "a": "Large (21 oz) has about 250 calories, 60 more than medium."
+    }
+  ]
+}

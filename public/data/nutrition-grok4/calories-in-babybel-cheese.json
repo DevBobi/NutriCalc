@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in babybel cheese",
+  "title": "Calories in Babybel Cheese",
+  "meta_description": "Discover calories in Babybel cheese per piece, including protein, fat, carbs, sodium, and quick variations for better tracking.",
+  "slug": "calories-in-babybel-cheese",
+  "h1": "Calories in Babybel Cheese",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "piece",
+    "item": "Babybel cheese"
+  },
+  "assumptions": "Original semi-soft Babybel cheese wheel, 20g per piece, pasteurized processed cheese.",
+  "disclaimer": "Nutrition varies by flavor, brand batch, and exact size; check packaging for precise values.",
+  "quick_answer": {
+    "total_kcal": 70,
+    "text": "One Babybel cheese provides ~70 kcal and ~5 g protein."
+  },
+  "basis": {
+    "label": "per 1 piece (20 g)",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 70,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 5,
+      "fat_g": 6,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 170
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 70,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 5,
+    "fat_g": 6,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 170
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Light Babybel version (reduced fat)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 50
+    },
+    {
+      "label": "Add 5 whole-grain crackers",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Gouda flavor (slightly higher fat)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 80
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Babybel cheese?",
+      "a": "About 70 kcal for one original 20g piece."
+    },
+    {
+      "q": "Is Babybel cheese high in protein?",
+      "a": "Yes, one piece has 5 g protein, making it a good snack option."
+    },
+    {
+      "q": "What about carbs in Babybel cheese?",
+      "a": "Zero carbs, fiber, and sugars per piece—keto-friendly."
+    },
+    {
+      "q": "How much sodium is in Babybel cheese?",
+      "a": "Around 170 mg per piece, so moderate for daily intake."
+    },
+    {
+      "q": "Does Babybel cheese have trans fats?",
+      "a": "No trans fats; total fat is 6 g with 4 g saturated per piece."
+    }
+  ]
+}

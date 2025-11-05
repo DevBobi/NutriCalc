@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in tilapia",
+  "title": "Calories in Tilapia",
+  "meta_description": "Discover calories in tilapia per 100g serving, including protein, fat, carbs, and full nutrition breakdown for easy meal planning.",
+  "slug": "calories-in-tilapia",
+  "h1": "Calories in Tilapia",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "tilapia"
+  },
+  "assumptions": "Cooked tilapia fillet (baked or grilled, dry heat), skinless, no added oil, salt, or seasonings; standard farm-raised variety.",
+  "disclaimer": "Nutrition varies by fish size, farming method, cooking technique, and added ingredients. Consult labels or databases for specifics.",
+  "quick_answer": {
+    "total_kcal": 128,
+    "text": "100g of cooked tilapia provides about 128 kcal and 26g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 128,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 26,
+      "fat_g": 2.7,
+      "sat_fat_g": 0.8,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 57,
+      "sodium_mg": 52
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 128,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 26,
+    "fat_g": 2.7,
+    "sat_fat_g": 0.8,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 57,
+    "sodium_mg": 52
+  },
+  "label_note": "Values align with standard Nutrition Facts panel for comparison.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Pan-fried with 1 tsp oil per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 168
+    },
+    {
+      "label": "Raw tilapia (uncooked) per 100g",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 108
+    },
+    {
+      "label": "Battered and deep-fried per 100g",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 228
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g tilapia?",
+      "a": "Approximately 128 kcal for cooked tilapia per 100g."
+    },
+    {
+      "q": "Is tilapia high in protein?",
+      "a": "Yes, 100g cooked tilapia has about 26g protein."
+    },
+    {
+      "q": "Does tilapia have carbs?",
+      "a": "No, tilapia is carb-free with 0g carbs per 100g."
+    },
+    {
+      "q": "How does cooking affect calories in tilapia?",
+      "a": "Dry heat cooking keeps it low-cal; frying adds 40-100+ kcal from oil."
+    },
+    {
+      "q": "What's the fat content in tilapia?",
+      "a": "Low at 2.7g total fat per 100g, with 0.8g saturated."
+    }
+  ]
+}

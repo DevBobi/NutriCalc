@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in onion rings",
+  "title": "Calories in Onion Rings",
+  "meta_description": "Discover calories in onion rings per 100g serving, including carbs, fat, protein, sodium, and tweaks for healthier options.",
+  "slug": "calories-in-onion-rings",
+  "h1": "Calories in Onion Rings",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "onion rings"
+  },
+  "assumptions": "Deep-fried, breaded onion rings; fast-food style, average values; serving size ~8 medium rings.",
+  "disclaimer": "Nutrition varies by brand, frying method, batter, and portion size. Check labels or restaurant info when available.",
+  "quick_answer": {
+    "total_kcal": 400,
+    "text": "100g of fried onion rings contains about 400 kcal, with high fat and carbs from breading and oil."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 400,
+      "carbs_g": 40,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 5,
+      "fat_g": 25,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 5,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 400,
+    "carbs_g": 40,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 5,
+    "fat_g": 25,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 5,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.67
+  },
+  "tweaks": [
+    {
+      "label": "Baked instead of deep-fried",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Add 1 tbsp ranch dipping sauce",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Air-fried with minimal oil",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 300
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of onion rings?",
+      "a": "About 400 kcal for a 100g serving of fried onion rings."
+    },
+    {
+      "q": "Are onion rings high in fat?",
+      "a": "Yes, ~25g total fat per 100g, mostly from frying oil."
+    },
+    {
+      "q": "What's the carb content in onion rings?",
+      "a": "Around 40g carbs per 100g, primarily from the breading."
+    },
+    {
+      "q": "Do onion rings have much protein?",
+      "a": "Only about 5g protein per 100g; not a good protein source."
+    },
+    {
+      "q": "How to reduce calories in onion rings?",
+      "a": "Opt for baked, air-fried, or homemade versions with less oil to cut 100-200 kcal per serving."
+    }
+  ]
+}

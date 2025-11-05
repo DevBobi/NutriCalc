@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a pound of hamburger",
+  "title": "How Many Calories Are in a Pound of Hamburger?",
+  "meta_description": "Discover how many calories are in a pound of hamburger, including protein, fat, carbs, full nutrition breakdown per 100 g basis, and preparation tweaks.",
+  "slug": "how-many-calories-are-in-a-pound-of-hamburger",
+  "h1": "How Many Calories Are in a Pound of Hamburger?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "pound",
+    "item": "hamburger"
+  },
+  "assumptions": "80% lean ground beef (hamburger meat), cooked (pan-broiled), drained; 1 pound = 454 g.",
+  "disclaimer": "Nutrition varies by lean percentage, cooking method, fat drainage, and brand. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 1117,
+    "text": "A pound of cooked 80/20 hamburger provides ~1117 kcal and ~109 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 246,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 24,
+      "fat_g": 16.8,
+      "sat_fat_g": 6.4,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 82,
+      "sodium_mg": 66
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1117,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 109,
+    "fat_g": 76,
+    "sat_fat_g": 29,
+    "trans_fat_g": 1,
+    "cholesterol_mg": 372,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 4.67
+  },
+  "tweaks": [
+    {
+      "label": "Use 90% lean ground beef (vs. 80%)",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 799
+    },
+    {
+      "label": "Add 1 tsp oil per 100 g during cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 1285
+    },
+    {
+      "label": "Raw ground beef (uncooked) per 100 g",
+      "delta_kcal_per_unit": -34,
+      "new_total_kcal": 931
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a pound of raw hamburger?",
+      "a": "About 931 kcal for 1 pound raw 80/20 ground beef, as cooking reduces weight and fat."
+    },
+    {
+      "q": "What's the protein content in a pound of hamburger?",
+      "a": "Approximately 109 g protein in 1 pound cooked 80/20 hamburger."
+    },
+    {
+      "q": "Does lean percentage affect calories in hamburger?",
+      "a": "Yes—90% lean has ~176 kcal per 100 g (vs. 246 for 80%), lowering totals significantly."
+    },
+    {
+      "q": "How much fat is in a pound of cooked hamburger?",
+      "a": "Around 76 g total fat, including 29 g saturated, for 80/20 cooked and drained."
+    },
+    {
+      "q": "Are there carbs in hamburger meat?",
+      "a": "No carbs, fiber, or sugars in plain ground beef hamburger."
+    }
+  ]
+}

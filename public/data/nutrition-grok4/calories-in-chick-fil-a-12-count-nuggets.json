@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chick fil a 12 count nuggets",
+  "title": "Calories in Chick-fil-A 12 Count Nuggets",
+  "meta_description": "Learn calories in chick fil a 12 count nuggets: 360 kcal total, with 29g protein, full macro breakdown, sodium details, and healthy tweaks for your meal.",
+  "slug": "calories-in-chick-fil-a-12-count-nuggets",
+  "h1": "Calories in Chick-fil-A 12 Count Nuggets",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 12,
+    "unit": "count",
+    "item": "Chick-fil-A chicken nuggets"
+  },
+  "assumptions": "Breaded chicken breast nuggets, pressure-cooked in peanut oil; based on official Chick-fil-A nutrition for standard 12-count serving.",
+  "disclaimer": "Nutrition varies by location, exact portion, custom orders, and recipe changes. Always check Chick-fil-A's official app or site for current values.",
+  "quick_answer": {
+    "total_kcal": 360,
+    "text": "Chick-fil-A 12 count nuggets provide 360 kcal, 29 g protein, and 17 g fat."
+  },
+  "basis": {
+    "label": "per 12 count nuggets",
+    "amount": 12,
+    "unit": "nuggets",
+    "nutrition": {
+      "calories_kcal": 360,
+      "carbs_g": 22,
+      "fiber_g": 1,
+      "sugars_g": 0,
+      "protein_g": 29,
+      "fat_g": 17,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 1020
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 360,
+    "carbs_g": 22,
+    "fiber_g": 1,
+    "sugars_g": 0,
+    "protein_g": 29,
+    "fat_g": 17,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 70,
+    "sodium_mg": 1020
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.51
+  },
+  "tweaks": [
+    {
+      "label": "Add one Chick-fil-A Sauce packet",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Switch to grilled nuggets (no breading)",
+      "delta_kcal_per_unit": -160,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Add one Honey Roasted BBQ Sauce packet",
+      "delta_kcal_per_unit": 190,
+      "new_total_kcal": 550
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Chick-fil-A 12 count nuggets?",
+      "a": "360 calories per 12 count serving."
+    },
+    {
+      "q": "How much protein is in 12 Chick-fil-A nuggets?",
+      "a": "29 grams of protein."
+    },
+    {
+      "q": "What is the fat content in Chick-fil-A 12 count nuggets?",
+      "a": "17 grams total fat, including 3 grams saturated fat."
+    },
+    {
+      "q": "How much sodium in a 12 count Chick-fil-A nuggets?",
+      "a": "1020 milligrams of sodium."
+    },
+    {
+      "q": "Are there lower-calorie options for Chick-fil-A nuggets?",
+      "a": "Yes, grilled 12 count nuggets have 200 calories versus 360 for fried."
+    }
+  ]
+}

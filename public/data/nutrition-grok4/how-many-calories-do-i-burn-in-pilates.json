@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories do i burn in pilates",
+  "title": "How Many Calories Do I Burn in Pilates?",
+  "meta_description": "Discover how many calories do I burn in Pilates per hour, based on weight and intensity, with estimates for a standard session and variations.",
+  "slug": "how-many-calories-do-i-burn-in-pilates",
+  "h1": "How Many Calories Do I Burn in Pilates?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "hour",
+    "item": "pilates"
+  },
+  "assumptions": "60-minute moderate-intensity Pilates class for a 150 lb (68 kg) person; reformer or mat-based; no high-impact elements.",
+  "disclaimer": "Calories burned vary by body weight, fitness level, intensity, class type, and duration. Use a fitness tracker for personalized estimates.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A 1-hour moderate Pilates session burns about 250 calories for an average adult."
+  },
+  "basis": {
+    "label": "per 1 hour moderate session",
+    "amount": 1,
+    "unit": "hour",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values represent estimated energy expenditure; other fields are not applicable to calorie burn data.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "High-intensity Pilates (e.g., with cardio elements)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "For a 200 lb (91 kg) person vs. 150 lb basis",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 330
+    },
+    {
+      "label": "Beginner/low-intensity session",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 180
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories do I burn in Pilates per hour?",
+      "a": "About 200-300 calories for moderate intensity, depending on weight and effort."
+    },
+    {
+      "q": "Does weight affect calories burned in Pilates?",
+      "a": "Yes—heavier individuals burn more; e.g., 150 lb burns ~250 kcal/hour, 200 lb ~330 kcal/hour."
+    },
+    {
+      "q": "Is Pilates good for calorie burning compared to other exercises?",
+      "a": "Moderate; burns less than running (~600 kcal/hour) but more than yoga (~200 kcal/hour) for similar duration."
+    },
+    {
+      "q": "How to calculate personal calories burned in Pilates?",
+      "a": "Use MET value (3-6 for Pilates) × weight in kg × hours; or apps like MyFitnessPal."
+    },
+    {
+      "q": "What factors increase calories burned in Pilates?",
+      "a": "Higher intensity, longer sessions, added resistance (e.g., reformer), and individual fitness level."
+    }
+  ]
+}

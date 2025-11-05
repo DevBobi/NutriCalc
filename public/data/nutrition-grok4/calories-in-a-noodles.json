@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a noodles",
+  "title": "Calories in a Serving of Noodles",
+  "meta_description": "Discover calories in a noodles, including macros like carbs and protein, per 100g basis, and simple tweaks for variations.",
+  "slug": "calories-in-a-noodles",
+  "h1": "Calories in a Serving of Noodles",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "noodles"
+  },
+  "assumptions": "Plain cooked wheat noodles (e.g., spaghetti), boiled without added salt, oil, or sauce; 1 serving = 100 g drained.",
+  "disclaimer": "Nutrition varies by noodle type (wheat, rice, etc.), brand, cooking method, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 158,
+    "text": "One serving (100 g) of plain cooked noodles has ~158 kcal and ~31 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 158,
+      "carbs_g": 30.9,
+      "fiber_g": 1.8,
+      "sugars_g": 0.6,
+      "protein_g": 5.8,
+      "fat_g": 0.9,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 158,
+    "carbs_g": 30.9,
+    "fiber_g": 1.8,
+    "sugars_g": 0.6,
+    "protein_g": 5.8,
+    "fat_g": 0.9,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.66
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil per serving",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 198
+    },
+    {
+      "label": "Instant noodles with seasoning packet",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 258
+    },
+    {
+      "label": "Whole wheat noodles instead of white",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 148
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a noodles serving?",
+      "a": "About 158 kcal for 100 g plain cooked noodles."
+    },
+    {
+      "q": "What are the carbs in a noodles?",
+      "a": "Roughly 31 g carbs per 100 g serving, mostly from starch."
+    },
+    {
+      "q": "Do plain noodles have protein?",
+      "a": "Yes, around 5.8 g protein per 100 g."
+    },
+    {
+      "q": "How does cooking method affect calories in a noodles?",
+      "a": "Boiled plain is lowest; frying or adding oil increases calories significantly."
+    },
+    {
+      "q": "Are there calories in a noodles without sauce?",
+      "a": "Yes, ~158 kcal per 100 g from the pasta itself; sauces add more."
+    }
+  ]
+}

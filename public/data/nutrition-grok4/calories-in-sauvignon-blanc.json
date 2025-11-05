@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in sauvignon blanc",
+  "title": "Calories in Sauvignon Blanc",
+  "meta_description": "Learn calories in sauvignon blanc per standard glass, including carbs, alcohol impact, full nutrition breakdown, and serving tips.",
+  "slug": "calories-in-sauvignon-blanc",
+  "h1": "Calories in Sauvignon Blanc",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 150,
+    "unit": "ml",
+    "item": "sauvignon blanc"
+  },
+  "assumptions": "Dry Sauvignon Blanc wine, 12% ABV, standard 150 ml (5 oz) glass serving; no added mixers.",
+  "disclaimer": "Nutrition varies by brand, vintage, sweetness, ABV, and serving size. Check bottle labels for precise values.",
+  "quick_answer": {
+    "total_kcal": 128,
+    "text": "A standard 150 ml glass of Sauvignon Blanc contains about 128 calories, mostly from alcohol."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 85,
+      "carbs_g": 2.5,
+      "fiber_g": 0,
+      "sugars_g": 2.5,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 128,
+    "carbs_g": 3.8,
+    "fiber_g": 0,
+    "sugars_g": 3.8,
+    "protein_g": 0.2,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 8
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison with wine labels.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Off-dry style (higher residual sugar)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 153
+    },
+    {
+      "label": "Lower ABV (11% vs 12%)",
+      "delta_kcal_per_unit": -9,
+      "new_total_kcal": 119
+    },
+    {
+      "label": "Mixed as spritzer with soda water (dilutes by 25%)",
+      "delta_kcal_per_unit": -32,
+      "new_total_kcal": 96
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a glass of Sauvignon Blanc?",
+      "a": "About 128 kcal in a standard 150 ml glass of dry Sauvignon Blanc."
+    },
+    {
+      "q": "Does Sauvignon Blanc have carbs?",
+      "a": "Yes, around 3.8 g carbs (mostly sugars) per 150 ml glass."
+    },
+    {
+      "q": "Are calories in Sauvignon Blanc from alcohol?",
+      "a": "Primarily yes—alcohol contributes ~85% of calories at 12% ABV."
+    },
+    {
+      "q": "How does serving size affect calories in Sauvignon Blanc?",
+      "a": "A 200 ml pour has ~170 kcal; stick to 150 ml for moderation."
+    },
+    {
+      "q": "Is Sauvignon Blanc low-calorie compared to other wines?",
+      "a": "Yes, dry whites like Sauvignon Blanc are lower (~85 kcal/100 ml) than sweeter reds or dessert wines."
+    }
+  ]
+}

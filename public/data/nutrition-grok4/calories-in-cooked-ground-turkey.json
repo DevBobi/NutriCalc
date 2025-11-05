@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cooked ground turkey",
+  "title": "Calories in Cooked Ground Turkey",
+  "meta_description": "Discover calories in cooked ground turkey per 100 g, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-cooked-ground-turkey",
+  "h1": "Calories in Cooked Ground Turkey",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "cooked ground turkey"
+  },
+  "assumptions": "93% lean ground turkey, cooked (pan-fried without added oil), no seasonings, salt, or binders.",
+  "disclaimer": "Nutrition varies by fat content, cooking method, added ingredients, and brand. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "100 g of cooked ground turkey provides ~150 kcal and ~27 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 27,
+      "fat_g": 8,
+      "sat_fat_g": 2.1,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 95,
+      "sodium_mg": 65
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 27,
+    "fat_g": 8,
+    "sat_fat_g": 2.1,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 95,
+    "sodium_mg": 65
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Use 99% lean ground turkey (less fat)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Add 1 tsp oil during cooking per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 190
+    },
+    {
+      "label": "Include breadcrumbs and egg for meatballs (per 100 g cooked)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g cooked ground turkey?",
+      "a": "Approximately 150 kcal for 93% lean, cooked without added fat."
+    },
+    {
+      "q": "What's the protein content in cooked ground turkey?",
+      "a": "About 27 g protein per 100 g serving."
+    },
+    {
+      "q": "Does cooking method affect calories in ground turkey?",
+      "a": "Yes—frying with oil adds calories; baking or grilling keeps it lower."
+    },
+    {
+      "q": "How does fat percentage impact calories in cooked ground turkey?",
+      "a": "Leaner (99%) is ~120 kcal/100 g; regular (85% lean) ~200 kcal/100 g."
+    },
+    {
+      "q": "Are carbs present in cooked ground turkey?",
+      "a": "No carbs, fiber, or sugars in plain cooked ground turkey (0 g each)."
+    }
+  ]
+}

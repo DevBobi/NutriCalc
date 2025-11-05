@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in flatbread from subway",
+  "title": "Calories in Subway Flatbread",
+  "meta_description": "Discover calories in flatbread from Subway, plus carbs, protein, fat, sodium, and tweaks for your wrap or pizza.",
+  "slug": "calories-in-flatbread-from-subway",
+  "h1": "Calories in Subway Flatbread",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "flatbread",
+    "item": "Subway flatbread"
+  },
+  "assumptions": "Standard 6-inch Subway flatbread, plain, baked; no fillings, sauces, or toppings included.",
+  "disclaimer": "Nutrition varies by location, recipe changes, and portion size. Check Subway's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 220,
+    "text": "One Subway flatbread has ~220 kcal, 36 g carbs, and 7 g protein."
+  },
+  "basis": {
+    "label": "per 1 flatbread",
+    "amount": 1,
+    "unit": "flatbread",
+    "nutrition": {
+      "calories_kcal": 220,
+      "carbs_g": 36,
+      "fiber_g": 2,
+      "sugars_g": 2,
+      "protein_g": 7,
+      "fat_g": 5,
+      "sat_fat_g": 1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 410
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 220,
+    "carbs_g": 36,
+    "fiber_g": 2,
+    "sugars_g": 2,
+    "protein_g": 7,
+    "fat_g": 5,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 410
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with Subway's info.",
+  "equivalents": {
+    "megajoules": 0.92
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 slice American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Use for a veggie wrap (add lettuce, tomato, cucumber)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Whole wheat flatbread alternative (if available)",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in flatbread from Subway?",
+      "a": "About 220 kcal for one standard 6-inch flatbread."
+    },
+    {
+      "q": "What are the carbs in Subway flatbread?",
+      "a": "Approximately 36 g total carbs, including 2 g fiber."
+    },
+    {
+      "q": "Is Subway flatbread low in fat?",
+      "a": "Yes, 5 g total fat with 1 g saturated; no trans fat or cholesterol."
+    },
+    {
+      "q": "How much sodium in Subway flatbread?",
+      "a": "Around 410 mg per flatbread—watch if on a low-sodium diet."
+    },
+    {
+      "q": "Does Subway have a lower-calorie flatbread option?",
+      "a": "Standard is 220 kcal; tweaks like no cheese or lighter toppings can reduce it."
+    }
+  ]
+}

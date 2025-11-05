@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in curried chicken",
+  "title": "Calories in Curried Chicken",
+  "meta_description": "Discover calories in curried chicken per serving, including protein, fat, carbs, full nutrition breakdown, and recipe tweaks for your diet.",
+  "slug": "calories-in-curried-chicken",
+  "h1": "Calories in Curried Chicken",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 200,
+    "unit": "g",
+    "item": "curried chicken"
+  },
+  "assumptions": "Skinless, boneless chicken breast cooked in a tomato-onion curry sauce with garlic, ginger, spices, and 1 tsp oil; moderate seasoning; no dairy or coconut.",
+  "disclaimer": "Nutrition varies by recipe, ingredients, portion size, cooking method, and added fats; homemade vs. restaurant versions differ. Check labels or recipes when available.",
+  "quick_answer": {
+    "total_kcal": 300,
+    "text": "200 g of curried chicken provides about 300 kcal and 50 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 4,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 25,
+      "fat_g": 5,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 300,
+    "carbs_g": 8,
+    "fiber_g": 2,
+    "sugars_g": 4,
+    "protein_g": 50,
+    "fat_g": 10,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 140,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged or restaurant items.",
+  "equivalents": {
+    "megajoules": 1.26
+  },
+  "tweaks": [
+    {
+      "label": "Add 50 ml coconut milk per 100 g",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "Use chicken thighs instead of breast per 100 g",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 420
+    },
+    {
+      "label": "Low-oil version (no added oil)",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 220
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 200 g curried chicken?",
+      "a": "Approximately 300 kcal for a standard tomato-based recipe."
+    },
+    {
+      "q": "What's the protein in curried chicken?",
+      "a": "About 25 g protein per 100 g, or 50 g per 200 g serving."
+    },
+    {
+      "q": "Does curried chicken have a lot of sodium?",
+      "a": "Yes, around 300 mg per 100 g due to spices and salt; adjust seasoning to reduce."
+    },
+    {
+      "q": "How do carbs in curried chicken compare to plain chicken?",
+      "a": "Higher at 4 g per 100 g from sauce veggies and spices, vs. 0 g in plain grilled chicken."
+    },
+    {
+      "q": "Can I make curried chicken lower calorie?",
+      "a": "Yes, use less oil, more veggies, or yogurt instead of cream to cut fat and calories."
+    }
+  ]
+}

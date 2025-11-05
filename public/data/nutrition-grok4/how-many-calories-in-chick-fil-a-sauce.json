@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in chick fil a sauce",
+  "title": "How Many Calories in Chick-fil-A Sauce?",
+  "meta_description": "Discover how many calories in Chick-fil-A sauce per packet, plus full nutrition breakdown including fat, carbs, sodium, and serving tips.",
+  "slug": "how-many-calories-in-chick-fil-a-sauce",
+  "h1": "How Many Calories in Chick-fil-A Sauce?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "Chick-fil-A sauce"
+  },
+  "assumptions": "Standard 1 oz (28g) packet as served by Chick-fil-A; no modifications.",
+  "disclaimer": "Nutrition varies by batch, location, and exact serving size. Check Chick-fil-A app or packaging for latest info.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "One packet of Chick-fil-A sauce contains 140 calories, mostly from fat."
+  },
+  "basis": {
+    "label": "per 1 serving (28g)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 6,
+      "fiber_g": 0,
+      "sugars_g": 6,
+      "protein_g": 0,
+      "fat_g": 13,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 1350
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 6,
+    "fiber_g": 0,
+    "sugars_g": 6,
+    "protein_g": 0,
+    "fat_g": 13,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 1350
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Use half a packet (14g)",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Switch to Chick-fil-A Polynesian sauce (similar serving)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Homemade light version (reduce oil by half)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one packet of Chick-fil-A sauce?",
+      "a": "140 calories per standard 28g packet."
+    },
+    {
+      "q": "What's the sodium in Chick-fil-A sauce?",
+      "a": "About 1350 mg per serving, which is high—use sparingly if watching salt."
+    },
+    {
+      "q": "Does Chick-fil-A sauce have protein or fiber?",
+      "a": "0 g protein and 0 g fiber per serving; it's mostly fat and sugars."
+    },
+    {
+      "q": "How much fat is in Chick-fil-A sauce?",
+      "a": "13 g total fat, including 2 g saturated fat, per packet."
+    },
+    {
+      "q": "Can I find lower calorie alternatives to Chick-fil-A sauce?",
+      "a": "Yes, try their barbecue sauce (45 kcal per packet) or make a lighter homemade version."
+    }
+  ]
+}

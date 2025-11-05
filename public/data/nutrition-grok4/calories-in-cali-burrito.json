@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in cali burrito",
+  "title": "Calories in a Cali Burrito",
+  "meta_description": "Discover calories in cali burrito, including macros like protein, carbs, fat, plus nutrition breakdown and variations for this San Diego-style favorite.",
+  "slug": "calories-in-cali-burrito",
+  "h1": "Calories in a Cali Burrito",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burrito",
+    "item": "cali burrito"
+  },
+  "assumptions": "Standard 12-inch flour tortilla filled with grilled carne asada (4 oz), french fries (1/2 cup), shredded cheese (1 oz), guacamole (2 tbsp), pico de gallo, sour cream (1 tbsp); no extra sauces.",
+  "disclaimer": "Nutrition varies by restaurant, portion size, ingredients, and preparation; values are estimates. Check specific menus or labels when available.",
+  "quick_answer": {
+    "total_kcal": 920,
+    "text": "A standard Cali burrito contains about 920 kcal, with 35 g protein and 100 g carbs from tortilla and fries."
+  },
+  "basis": {
+    "label": "per 1 Cali burrito",
+    "amount": 1,
+    "unit": "burrito",
+    "nutrition": {
+      "calories_kcal": 920,
+      "carbs_g": 100,
+      "fiber_g": 8,
+      "sugars_g": 5,
+      "protein_g": 35,
+      "fat_g": 40,
+      "sat_fat_g": 15,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 80,
+      "sodium_mg": 1500
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 920,
+    "carbs_g": 100,
+    "fiber_g": 8,
+    "sugars_g": 5,
+    "protein_g": 35,
+    "fat_g": 40,
+    "sat_fat_g": 15,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 80,
+    "sodium_mg": 1500
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged or restaurant info.",
+  "equivalents": {
+    "megajoules": 3.85
+  },
+  "tweaks": [
+    {
+      "label": "Remove french fries",
+      "delta_kcal_per_unit": -200,
+      "new_total_kcal": 720
+    },
+    {
+      "label": "Add extra guacamole (2 tbsp more)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 1000
+    },
+    {
+      "label": "Use chicken instead of carne asada",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 870
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Cali burrito?",
+      "a": "Approximately 920 kcal for a standard version with carne asada and fries."
+    },
+    {
+      "q": "What's the protein in a Cali burrito?",
+      "a": "About 35 g, mainly from the grilled carne asada."
+    },
+    {
+      "q": "Are Cali burritos high in sodium?",
+      "a": "Yes, around 1500 mg due to cheese, sour cream, and seasonings."
+    },
+    {
+      "q": "Can I make a lower-calorie Cali burrito?",
+      "a": "Skip fries or use a whole wheat tortilla to cut ~200 kcal."
+    },
+    {
+      "q": "What's the carb count in a Cali burrito?",
+      "a": "Roughly 100 g, from the tortilla, fries, and veggies."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a bean and cheese burrito from taco bell",
+  "title": "Calories in a Taco Bell Bean and Cheese Burrito",
+  "meta_description": "Discover calories in a bean and cheese burrito from Taco Bell, including full nutrition breakdown, macros, sodium, and easy tweaks for customization.",
+  "slug": "calories-in-a-bean-and-cheese-burrito-from-taco-bell",
+  "h1": "Calories in a Taco Bell Bean and Cheese Burrito",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burrito",
+    "item": "bean and cheese burrito from Taco Bell"
+  },
+  "assumptions": "Standard Taco Bell recipe: flour tortilla, refried beans, cheddar cheese, onions, red sauce; no customizations or add-ons.",
+  "disclaimer": "Nutrition varies by location, recipe changes, portion size, and customizations. Check Taco Bell app or website for latest values.",
+  "quick_answer": {
+    "total_kcal": 350,
+    "text": "A standard Taco Bell bean and cheese burrito contains about 350 calories and 13 g protein."
+  },
+  "basis": {
+    "label": "per 1 burrito",
+    "amount": 1,
+    "unit": "burrito",
+    "nutrition": {
+      "calories_kcal": 350,
+      "carbs_g": 50,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 13,
+      "fat_g": 11,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 980
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 350,
+    "carbs_g": 50,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 13,
+    "fat_g": 11,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 980
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.46
+  },
+  "tweaks": [
+    {
+      "label": "Add extra cheese (1 oz per burrito)",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 460
+    },
+    {
+      "label": "Fresco style (swap cheese for pico de gallo)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Add sour cream (1 tbsp per burrito)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 375
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a bean and cheese burrito from Taco Bell?",
+      "a": "Approximately 350 calories for one standard burrito."
+    },
+    {
+      "q": "What are the macros for a Taco Bell bean burrito?",
+      "a": "About 50 g carbs, 13 g protein, 11 g fat, with 2 g fiber."
+    },
+    {
+      "q": "Is the Taco Bell bean and cheese burrito vegetarian?",
+      "a": "Yes, it's vegetarian with refried beans, cheese, and no meat."
+    },
+    {
+      "q": "How much sodium in a Taco Bell bean burrito?",
+      "a": "Around 980 mg per burrito, so watch intake if on a low-sodium diet."
+    },
+    {
+      "q": "Can I make a lower-calorie version of the bean and cheese burrito?",
+      "a": "Yes, opt for Fresco style or skip cheese to reduce by up to 80 calories."
+    }
+  ]
+}

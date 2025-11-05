@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in evaporated milk",
+  "title": "Calories in Evaporated Milk",
+  "meta_description": "Learn calories in evaporated milk per 100 ml, including carbs, protein, fat, sodium, and full nutrition facts for easy meal planning.",
+  "slug": "calories-in-evaporated-milk",
+  "h1": "Calories in Evaporated Milk",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "ml",
+    "item": "evaporated milk"
+  },
+  "assumptions": "Whole, unsweetened evaporated milk from a can; no additives or dilutions.",
+  "disclaimer": "Nutrition varies by brand, fat content, and processing; check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 133,
+    "text": "100 ml of evaporated milk provides ~133 kcal with 6.8 g protein and 7.6 g fat."
+  },
+  "basis": {
+    "label": "per 100 ml",
+    "amount": 100,
+    "unit": "ml",
+    "nutrition": {
+      "calories_kcal": 133,
+      "carbs_g": 9.9,
+      "fiber_g": 0,
+      "sugars_g": 9.9,
+      "protein_g": 6.8,
+      "fat_g": 7.6,
+      "sat_fat_g": 4.9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 29,
+      "sodium_mg": 99
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 133,
+    "carbs_g": 9.9,
+    "fiber_g": 0,
+    "sugars_g": 9.9,
+    "protein_g": 6.8,
+    "fat_g": 7.6,
+    "sat_fat_g": 4.9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 29,
+    "sodium_mg": 99
+  },
+  "label_note": "Values align with standard Nutrition Facts for comparison.",
+  "equivalents": {
+    "megajoules": 0.56
+  },
+  "tweaks": [
+    {
+      "label": "Switch to low-fat evaporated milk",
+      "delta_kcal_per_unit": -45,
+      "new_total_kcal": 88
+    },
+    {
+      "label": "Dilute with equal water (50/50 mix)",
+      "delta_kcal_per_unit": -67,
+      "new_total_kcal": 66
+    },
+    {
+      "label": "Add 1 tsp sugar per 100 ml",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 149
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup of evaporated milk?",
+      "a": "About 340 kcal for 240 ml (one standard cup)."
+    },
+    {
+      "q": "Is evaporated milk high in protein?",
+      "a": "Yes, ~6.8 g protein per 100 ml, more concentrated than regular milk."
+    },
+    {
+      "q": "What's the fat content in evaporated milk?",
+      "a": "7.6 g total fat per 100 ml, with 4.9 g saturated."
+    },
+    {
+      "q": "Does evaporated milk have added sugar?",
+      "a": "Unsweetened versions have natural lactose sugars (~9.9 g per 100 ml); sweetened condensed has much more."
+    },
+    {
+      "q": "How does evaporated milk compare to regular milk calories?",
+      "a": "Higher at 133 kcal per 100 ml vs. ~42 kcal for whole milk, due to water removal."
+    }
+  ]
+}

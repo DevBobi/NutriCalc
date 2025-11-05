@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a reuben",
+  "title": "Calories in a Reuben Sandwich",
+  "meta_description": "Learn calories in a reuben sandwich, with a full nutrition breakdown including protein, carbs, fat, sodium, and easy tweaks for lighter versions.",
+  "slug": "calories-in-a-reuben",
+  "h1": "Calories in a Reuben Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Reuben"
+  },
+  "assumptions": "Standard deli Reuben: 4 oz corned beef, 2 oz Swiss cheese, 1/4 cup sauerkraut, 2 tbsp Russian dressing, 2 slices rye bread, grilled.",
+  "disclaimer": "Nutrition varies by deli, portion sizes, bread type, and dressing amount. Check restaurant info or labels when available.",
+  "quick_answer": {
+    "total_kcal": 650,
+    "text": "A typical Reuben sandwich contains about 650 calories and 35 g protein."
+  },
+  "basis": {
+    "label": "per 1 Reuben sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 650,
+      "carbs_g": 50,
+      "fiber_g": 4,
+      "sugars_g": 8,
+      "protein_g": 35,
+      "fat_g": 35,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 80,
+      "sodium_mg": 2000
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 650,
+    "carbs_g": 50,
+    "fiber_g": 4,
+    "sugars_g": 8,
+    "protein_g": 35,
+    "fat_g": 35,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 80,
+    "sodium_mg": 2000
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.72
+  },
+  "tweaks": [
+    {
+      "label": "Use turkey instead of corned beef",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 550
+    },
+    {
+      "label": "Omit Russian dressing",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Add 1 oz extra cheese",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 750
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a Reuben sandwich?",
+      "a": "Approximately 650 calories for a standard version."
+    },
+    {
+      "q": "What's the protein in a Reuben?",
+      "a": "About 35 g, mostly from corned beef and cheese."
+    },
+    {
+      "q": "Why is sodium high in a Reuben?",
+      "a": "Corned beef, sauerkraut, and dressing contribute to ~2000 mg per sandwich."
+    },
+    {
+      "q": "Can I make a low-calorie Reuben?",
+      "a": "Yes, swap for turkey, low-fat dressing, or whole grain bread to cut 100-200 kcal."
+    },
+    {
+      "q": "Are carbs high in a Reuben sandwich?",
+      "a": "Around 50 g, primarily from rye bread; fiber is about 4 g."
+    }
+  ]
+}

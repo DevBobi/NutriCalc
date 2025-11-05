@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chocolate chips",
+  "title": "Calories in Chocolate Chips",
+  "meta_description": "Discover calories in chocolate chips per 100g, including carbs, sugars, fat, protein, and quick tweaks for recipes.",
+  "slug": "calories-in-chocolate-chips",
+  "h1": "Calories in Chocolate Chips",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chocolate chips"
+  },
+  "assumptions": "Semi-sweet chocolate chips; standard baking variety, no added nuts or fillings.",
+  "disclaimer": "Nutrition varies by brand, type (milk/dark/white), sweetness, and processing; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 480,
+    "text": "100 g of semi-sweet chocolate chips contains about 480 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 480,
+      "carbs_g": 60,
+      "fiber_g": 7,
+      "sugars_g": 45,
+      "protein_g": 4,
+      "fat_g": 30,
+      "sat_fat_g": 18,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 20
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 480,
+    "carbs_g": 60,
+    "fiber_g": 7,
+    "sugars_g": 45,
+    "protein_g": 4,
+    "fat_g": 30,
+    "sat_fat_g": 18,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 20
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.01
+  },
+  "tweaks": [
+    {
+      "label": "Switch to dark chocolate chips (70% cocoa)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 430
+    },
+    {
+      "label": "Use milk chocolate chips instead",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 500
+    },
+    {
+      "label": "Add 10 g chopped nuts per 100 g",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 540
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g chocolate chips?",
+      "a": "Approximately 480 kcal for semi-sweet chocolate chips."
+    },
+    {
+      "q": "What are the carbs in chocolate chips?",
+      "a": "About 60 g carbs per 100 g, including 45 g sugars and 7 g fiber."
+    },
+    {
+      "q": "Are chocolate chips high in fat?",
+      "a": "Yes, around 30 g total fat per 100 g, with 18 g saturated fat."
+    },
+    {
+      "q": "How do calories differ by chocolate type?",
+      "a": "Dark has fewer calories (~430 kcal/100 g); milk has more (~500 kcal/100 g)."
+    },
+    {
+      "q": "What's the protein content in chocolate chips?",
+      "a": "Low at about 4 g per 100 g; not a significant protein source."
+    }
+  ]
+}

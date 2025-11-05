@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in miller lite",
+  "title": "How Many Calories in Miller Lite?",
+  "meta_description": "Discover how many calories in Miller Lite per 12 oz serving, including carbs, protein, sodium, and comparisons to other beers for your diet tracking.",
+  "slug": "how-many-calories-in-miller-lite",
+  "h1": "How Many Calories in Miller Lite?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "12 oz can",
+    "item": "Miller Lite"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) can or bottle of Miller Lite light lager beer, unopened and chilled.",
+  "disclaimer": "Nutrition varies by batch, serving size, and brand specifics; alcohol content affects calorie burn. Check labels or official sources for exact values.",
+  "quick_answer": {
+    "total_kcal": 96,
+    "text": "One 12 oz Miller Lite contains 96 calories with just 3.2 g carbs."
+  },
+  "basis": {
+    "label": "per 12 oz serving",
+    "amount": 1,
+    "unit": "12 oz serving",
+    "nutrition": {
+      "calories_kcal": 96,
+      "carbs_g": 3.2,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.5,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 96,
+    "carbs_g": 3.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.5,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Miller64 variant (lower calorie version)",
+      "delta_kcal_per_unit": -32,
+      "new_total_kcal": 64
+    },
+    {
+      "label": "Regular Miller High Life (full-calorie)",
+      "delta_kcal_per_unit": 45,
+      "new_total_kcal": 141
+    },
+    {
+      "label": "16 oz serving (pint glass)",
+      "delta_kcal_per_unit": 32,
+      "new_total_kcal": 128
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Miller Lite?",
+      "a": "About 96 calories per 12 oz can."
+    },
+    {
+      "q": "How many carbs are in Miller Lite?",
+      "a": "3.2 g of carbohydrates per 12 oz serving, all from alcohol and minimal sugars."
+    },
+    {
+      "q": "Does Miller Lite have protein or fat?",
+      "a": "Minimal 0.5 g protein and 0 g fat per serving."
+    },
+    {
+      "q": "How does Miller Lite compare calorie-wise to other light beers?",
+      "a": "Similar to Bud Light (95 kcal) or Coors Light (102 kcal) per 12 oz."
+    },
+    {
+      "q": "Is Miller Lite low in sodium?",
+      "a": "Yes, only 10 mg sodium per 12 oz serving."
+    }
+  ]
+}

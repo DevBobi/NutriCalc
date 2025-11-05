@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a spanakopita",
+  "title": "Calories in a Spanakopita",
+  "meta_description": "Discover calories in a spanakopita, including full nutrition breakdown per serving, macros, and easy tweaks for variations.",
+  "slug": "calories-in-a-spanakopita",
+  "h1": "Calories in a Spanakopita",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "spanakopita",
+    "item": "spanakopita"
+  },
+  "assumptions": "Standard triangular spanakopita (~100 g), baked with spinach, feta cheese, onions, dill, and phyllo dough; no added sauces.",
+  "disclaimer": "Nutrition varies by recipe, brand, portion size, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "One spanakopita serving provides ~250 kcal, with good protein from feta and fiber from spinach."
+  },
+  "basis": {
+    "label": "per 1 spanakopita",
+    "amount": 1,
+    "unit": "spanakopita",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sugars_g": 2,
+      "protein_g": 8,
+      "fat_g": 14,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 25,
+    "fiber_g": 2,
+    "sugars_g": 2,
+    "protein_g": 8,
+    "fat_g": 14,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 400
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat feta cheese",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Add extra olive oil in phyllo layers",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 290
+    },
+    {
+      "label": "Vegan version without cheese",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a spanakopita?",
+      "a": "About 250 kcal for one standard triangular serving."
+    },
+    {
+      "q": "What's the protein in a spanakopita?",
+      "a": "Roughly 8 g, mainly from feta cheese and spinach."
+    },
+    {
+      "q": "Are spanakopitas high in carbs?",
+      "a": "Yes, ~25 g carbs per serving from phyllo dough."
+    },
+    {
+      "q": "How does baking affect spanakopita calories?",
+      "a": "Baked versions are lower in fat than fried; oil in phyllo adds calories."
+    },
+    {
+      "q": "Can I make spanakopita lower calorie?",
+      "a": "Use less cheese, low-fat options, or more veggies to reduce by 20-50 kcal."
+    }
+  ]
+}

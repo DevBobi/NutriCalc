@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a chicken tenderloin",
+  "title": "How Many Calories in a Chicken Tenderloin?",
+  "meta_description": "Discover how many calories in a chicken tenderloin, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "how-many-calories-in-a-chicken-tenderloin",
+  "h1": "How Many Calories in a Chicken Tenderloin?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "chicken tenderloin",
+    "item": "chicken tenderloin"
+  },
+  "assumptions": "Skinless, boneless, grilled or baked; average size ~85 g cooked weight; no breading, marinade, or added fats.",
+  "disclaimer": "Nutrition varies by size, cut, cooking method, and brand; values are averages—check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 120,
+    "text": "One chicken tenderloin provides about 120 kcal and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken tenderloin (~85 g)",
+    "amount": 1,
+    "unit": "chicken tenderloin",
+    "nutrition": {
+      "calories_kcal": 120,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25,
+      "fat_g": 2.5,
+      "sat_fat_g": 0.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 70,
+      "sodium_mg": 60
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 120,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25,
+    "fat_g": 2.5,
+    "sat_fat_g": 0.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 70,
+    "sodium_mg": 60
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Breaded and fried (adds ~100 kcal per tender)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Marinated with 1 tsp oil per tender",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Baked with herbs (no added fat)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chicken tenderloin?",
+      "a": "About 120 kcal for one average skinless, grilled tenderloin (~85 g)."
+    },
+    {
+      "q": "What's the protein in a chicken tenderloin?",
+      "a": "Roughly 25 g protein per tenderloin."
+    },
+    {
+      "q": "Are chicken tenderloins low-carb?",
+      "a": "Yes, 0 g carbs per plain tenderloin."
+    },
+    {
+      "q": "How does cooking affect calories in chicken tenderloin?",
+      "a": "Grilling or baking keeps it low (~120 kcal); frying or breading can add 100+ kcal."
+    },
+    {
+      "q": "Is chicken tenderloin leaner than breast?",
+      "a": "Similar—both are lean with ~2.5 g fat per 85 g serving."
+    }
+  ]
+}

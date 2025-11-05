@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in the mcrib",
+  "title": "Calories in the McRib",
+  "meta_description": "Discover calories in the McRib from McDonald's, including full nutrition breakdown, macros, and variations for your meal planning.",
+  "slug": "calories-in-the-mcrib",
+  "h1": "Calories in the McRib",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "McRib"
+  },
+  "assumptions": "Standard McDonald's McRib sandwich: pork patty, BBQ sauce, pickles, onions on a bun; no customizations.",
+  "disclaimer": "Nutrition varies by location, portion size, ingredients, and preparation. Check McDonald's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 480,
+    "text": "One McRib sandwich contains about 480 calories and 24 g protein."
+  },
+  "basis": {
+    "label": "per 1 McRib sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 480,
+      "carbs_g": 45,
+      "fiber_g": 2,
+      "sugars_g": 12,
+      "protein_g": 24,
+      "fat_g": 24,
+      "sat_fat_g": 9,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 60,
+      "sodium_mg": 850
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 480,
+    "carbs_g": 45,
+    "fiber_g": 2,
+    "sugars_g": 12,
+    "protein_g": 24,
+    "fat_g": 24,
+    "sat_fat_g": 9,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 60,
+    "sodium_mg": 850
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.01
+  },
+  "tweaks": [
+    {
+      "label": "Add one slice of American cheese",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 530
+    },
+    {
+      "label": "Remove BBQ sauce",
+      "delta_kcal_per_unit": -70,
+      "new_total_kcal": 410
+    },
+    {
+      "label": "Double the pork patty",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 680
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in the McRib?",
+      "a": "Approximately 480 calories per standard McRib sandwich."
+    },
+    {
+      "q": "What is the protein in a McRib?",
+      "a": "About 24 g of protein per sandwich."
+    },
+    {
+      "q": "Does the McRib have trans fats?",
+      "a": "Yes, around 0.5 g of trans fat per sandwich."
+    },
+    {
+      "q": "How much sodium is in the McRib?",
+      "a": "Roughly 850 mg of sodium, mostly from the sauce and bun."
+    },
+    {
+      "q": "Are McRib calories the same everywhere?",
+      "a": "Values can vary slightly by country or recipe changes; verify locally."
+    }
+  ]
+}

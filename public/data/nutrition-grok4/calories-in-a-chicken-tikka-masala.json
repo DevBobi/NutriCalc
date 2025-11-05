@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a chicken tikka masala",
+  "title": "Calories in a Chicken Tikka Masala",
+  "meta_description": "Discover calories in a chicken tikka masala serving, including protein, fat, carbs, full nutrition breakdown, and preparation tweaks for better choices.",
+  "slug": "calories-in-a-chicken-tikka-masala",
+  "h1": "Calories in a Chicken Tikka Masala",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "chicken tikka masala"
+  },
+  "assumptions": "Standard restaurant serving (~350 g), boneless chicken in tomato-cream sauce with onions, garlic, ginger, spices; no rice, naan, or sides included.",
+  "disclaimer": "Nutrition varies by recipe, restaurant, portion size, cream content, and cooking method. Check menus or labels when available.",
+  "quick_answer": {
+    "total_kcal": 700,
+    "text": "One serving of chicken tikka masala provides ~700 kcal and ~40 g protein."
+  },
+  "basis": {
+    "label": "per 1 serving",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 700,
+      "carbs_g": 20,
+      "fiber_g": 2,
+      "sugars_g": 5,
+      "protein_g": 40,
+      "fat_g": 50,
+      "sat_fat_g": 20,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 150,
+      "sodium_mg": 1200
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 700,
+    "carbs_g": 20,
+    "fiber_g": 2,
+    "sugars_g": 5,
+    "protein_g": 40,
+    "fat_g": 50,
+    "sat_fat_g": 20,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 150,
+    "sodium_mg": 1200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged or restaurant info.",
+  "equivalents": {
+    "megajoules": 2.93
+  },
+  "tweaks": [
+    {
+      "label": "Serve with 1 cup cooked basmati rice",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 900
+    },
+    {
+      "label": "Use yogurt instead of cream for lower fat",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 550
+    },
+    {
+      "label": "Add 1 tbsp ghee for extra richness",
+      "delta_kcal_per_unit": 120,
+      "new_total_kcal": 820
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a chicken tikka masala?",
+      "a": "About 700 kcal per standard 350 g serving."
+    },
+    {
+      "q": "Is chicken tikka masala high in protein?",
+      "a": "Yes, ~40 g protein per serving from the chicken."
+    },
+    {
+      "q": "What's the fat content in chicken tikka masala?",
+      "a": "Around 50 g total fat, with 20 g saturated from the creamy sauce."
+    },
+    {
+      "q": "Does chicken tikka masala have a lot of sodium?",
+      "a": "Yes, ~1200 mg per serving due to spices and seasoning."
+    },
+    {
+      "q": "How to make chicken tikka masala lower calorie?",
+      "a": "Substitute cream with yogurt or coconut milk to reduce fat and calories by up to 150 kcal."
+    }
+  ]
+}

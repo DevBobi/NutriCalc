@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a mcdonalds cookie",
+  "title": "Calories in a McDonald's Cookie",
+  "meta_description": "Discover calories in a McDonald's cookie, including full nutrition breakdown like carbs, fat, protein, and quick tweaks for variations.",
+  "slug": "calories-in-a-mcdonalds-cookie",
+  "h1": "Calories in a McDonald's Cookie",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cookie",
+    "item": "McDonald's cookie"
+  },
+  "assumptions": "Standard McDonald's chocolate chip cookie (about 38 g), baked fresh in-store, no modifications.",
+  "disclaimer": "Nutrition varies by location, batch, and exact recipe changes; check McDonald's app or site for latest values.",
+  "quick_answer": {
+    "total_kcal": 170,
+    "text": "A McDonald's chocolate chip cookie has about 170 kcal and 2 g protein."
+  },
+  "basis": {
+    "label": "per 1 cookie",
+    "amount": 1,
+    "unit": "cookie",
+    "nutrition": {
+      "calories_kcal": 170,
+      "carbs_g": 21,
+      "fiber_g": 1,
+      "sugars_g": 13,
+      "protein_g": 2,
+      "fat_g": 9,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 140
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 170,
+    "carbs_g": 21,
+    "fiber_g": 1,
+    "sugars_g": 13,
+    "protein_g": 2,
+    "fat_g": 9,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 140
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.71
+  },
+  "tweaks": [
+    {
+      "label": "Add a scoop of vanilla soft serve on top",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "Oatmeal raisin cookie instead of chocolate chip",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Sugar cookie variation",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a McDonald's chocolate chip cookie?",
+      "a": "Approximately 170 kcal per cookie."
+    },
+    {
+      "q": "What are the carbs in a McDonald's cookie?",
+      "a": "About 21 g carbs, including 13 g sugars and 1 g fiber."
+    },
+    {
+      "q": "Is a McDonald's cookie high in fat?",
+      "a": "Yes, 9 g total fat with 4 g saturated per cookie."
+    },
+    {
+      "q": "How much sodium in a McDonald's cookie?",
+      "a": "Around 140 mg sodium per cookie."
+    },
+    {
+      "q": "Do McDonald's cookies have trans fat?",
+      "a": "Typically 0 g trans fat per cookie."
+    }
+  ]
+}

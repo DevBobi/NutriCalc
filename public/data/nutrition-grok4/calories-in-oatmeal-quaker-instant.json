@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in oatmeal quaker instant",
+  "title": "Calories in Quaker Instant Oatmeal",
+  "meta_description": "Discover calories in oatmeal Quaker instant per packet, including carbs, protein, fiber, and preparation tips for a quick breakfast.",
+  "slug": "calories-in-oatmeal-quaker-instant",
+  "h1": "Calories in Quaker Instant Oatmeal",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "packet",
+    "item": "Quaker instant oatmeal"
+  },
+  "assumptions": "One packet (28g dry) of Quaker Instant Oatmeal, original plain flavor, prepared with water; no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by flavor, preparation method, added ingredients, and serving size. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 100,
+    "text": "One packet of Quaker Instant Oatmeal provides ~100 kcal and 3g fiber."
+  },
+  "basis": {
+    "label": "per 1 packet (28g dry)",
+    "amount": 1,
+    "unit": "packet",
+    "nutrition": {
+      "calories_kcal": 100,
+      "carbs_g": 19,
+      "fiber_g": 3,
+      "sugars_g": 0,
+      "protein_g": 4,
+      "fat_g": 2,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 100,
+    "carbs_g": 19,
+    "fiber_g": 3,
+    "sugars_g": 0,
+    "protein_g": 4,
+    "fat_g": 2,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.42
+  },
+  "tweaks": [
+    {
+      "label": "Prepared with 1/2 cup low-fat milk instead of water",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add 1 tsp brown sugar",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 116
+    },
+    {
+      "label": "Use maple & brown sugar flavored packet",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 130
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one packet of Quaker instant oatmeal?",
+      "a": "About 100 kcal for the original plain flavor."
+    },
+    {
+      "q": "What are the carbs in calories in oatmeal Quaker instant?",
+      "a": "19g carbs per packet, including 3g fiber."
+    },
+    {
+      "q": "Is Quaker instant oatmeal high in protein?",
+      "a": "4g protein per packet; pair with nuts or yogurt for more."
+    },
+    {
+      "q": "How does preparation affect calories in oatmeal Quaker instant?",
+      "a": "Using water keeps it at 100 kcal; milk adds ~40-80 kcal depending on type."
+    },
+    {
+      "q": "Are there sugars in plain Quaker instant oatmeal?",
+      "a": "0g added sugars in original; flavored varieties have 12-13g."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ham and split pea soup",
+  "title": "Calories in Ham and Split Pea Soup",
+  "meta_description": "Learn calories in ham and split pea soup per cup serving, including protein, carbs, fiber, fat, sodium, and easy tweaks for your recipe.",
+  "slug": "calories-in-ham-and-split-pea-soup",
+  "h1": "Calories in Ham and Split Pea Soup",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "ham and split pea soup"
+  },
+  "assumptions": "Standard serving (1 cup or ~245 g); includes split peas, diced ham, carrots, onions, and broth; cooked without added oil.",
+  "disclaimer": "Nutrition varies by recipe, brand, ham type, vegetable amounts, and cooking method. Check labels for packaged soups.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "One cup of ham and split pea soup provides ~190 kcal, 12 g protein, and 10 g fiber."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 25,
+      "fiber_g": 10,
+      "sugars_g": 3,
+      "protein_g": 12,
+      "fat_g": 5,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 800
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 25,
+    "fiber_g": 10,
+    "sugars_g": 3,
+    "protein_g": 12,
+    "fat_g": 5,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 800
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 oz extra diced ham per cup",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 240
+    },
+    {
+      "label": "Vegetarian version without ham",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Use low-sodium broth (minimal kcal change)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of ham and split pea soup?",
+      "a": "Approximately 190 kcal per cup."
+    },
+    {
+      "q": "What's the protein content in ham and split pea soup?",
+      "a": "About 12 g protein per cup, mainly from peas and ham."
+    },
+    {
+      "q": "Is ham and split pea soup high in sodium?",
+      "a": "Yes, around 800 mg sodium per cup due to broth and ham; opt for low-sodium versions."
+    },
+    {
+      "q": "How much fiber in split pea soup with ham?",
+      "a": "Roughly 10 g dietary fiber per cup from the peas."
+    },
+    {
+      "q": "Does homemade vs. canned change calories in ham and split pea soup?",
+      "a": "Homemade can vary; canned often has 180-220 kcal per cup depending on brand."
+    }
+  ]
+}

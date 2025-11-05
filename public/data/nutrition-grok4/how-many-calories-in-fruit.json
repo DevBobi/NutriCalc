@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in fruit",
+  "title": "How Many Calories Are in Fruit?",
+  "meta_description": "Discover how many calories in fruit per 100g serving, including carbs, fiber, sugars, protein, and fat breakdowns for common fresh fruits like apples and bananas.",
+  "slug": "how-many-calories-in-fruit",
+  "h1": "How Many Calories Are in Fruit?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "fruit"
+  },
+  "assumptions": "Average mixed fresh fruit (e.g., apples, bananas, berries); raw, no added sugar or processing.",
+  "disclaimer": "Nutrition varies by fruit type, ripeness, variety, and preparation; values are averages—check specific labels when available.",
+  "quick_answer": {
+    "total_kcal": 60,
+    "text": "100g of mixed fresh fruit typically contains about 60 kcal, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 60,
+      "carbs_g": 14,
+      "fiber_g": 2,
+      "sugars_g": 10,
+      "protein_g": 0.7,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 60,
+    "carbs_g": 14,
+    "fiber_g": 2,
+    "sugars_g": 10,
+    "protein_g": 0.7,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Values align with Nutrition Facts labels for easy comparison to packaged fruit products.",
+  "equivalents": {
+    "megajoules": 0.25
+  },
+  "tweaks": [
+    {
+      "label": "Dried fruit (e.g., raisins) instead of fresh",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 260
+    },
+    {
+      "label": "Add 1 tbsp yogurt per 100g fruit",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 75
+    },
+    {
+      "label": "Tropical fruits like mango (higher sugar)",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 70
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of fruit?",
+      "a": "Approximately 60 kcal for mixed fresh fruit."
+    },
+    {
+      "q": "Which fruits are lowest in calories?",
+      "a": "Watermelon and strawberries are around 30-40 kcal per 100g."
+    },
+    {
+      "q": "Do all fruits have the same calories?",
+      "a": "No—bananas (~89 kcal/100g) are higher than apples (~52 kcal/100g)."
+    },
+    {
+      "q": "How much fiber is in fruit?",
+      "a": "About 2g per 100g on average, aiding digestion."
+    },
+    {
+      "q": "Are fruit calories from sugar?",
+      "a": "Mostly natural sugars (around 10g per 100g), but with fiber to slow absorption."
+    }
+  ]
+}

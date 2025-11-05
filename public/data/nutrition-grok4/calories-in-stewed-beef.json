@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in stewed beef",
+  "title": "Calories in Stewed Beef (Per 100g)",
+  "meta_description": "Discover calories in stewed beef per 100g, including protein, fat, carbs, and full nutrition breakdown with tweaks and FAQs for better meal planning.",
+  "slug": "calories-in-stewed-beef",
+  "h1": "Calories in Stewed Beef (Per 100g)",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "stewed beef"
+  },
+  "assumptions": "Lean beef (e.g., chuck), trimmed of excess fat, stewed in water or broth without added oil, salt, or vegetables; cooked until tender.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking liquid, added ingredients, and portion size. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "100g of stewed beef provides ~250 kcal and ~26g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 26,
+      "fat_g": 15,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 85,
+      "sodium_mg": 65
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 26,
+    "fat_g": 15,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 85,
+    "sodium_mg": 65
+  },
+  "label_note": "Values align with Nutrition Facts panel for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp oil during stewing per 100g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 290
+    },
+    {
+      "label": "Use leaner cut (e.g., round) vs. chuck per 100g",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 200
+    },
+    {
+      "label": "Include onions and carrots (50g veggies) per 100g beef",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 270
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g stewed beef?",
+      "a": "Approximately 250 kcal for lean stewed beef."
+    },
+    {
+      "q": "What's the protein in stewed beef?",
+      "a": "About 26g protein per 100g, making it a great lean meat option."
+    },
+    {
+      "q": "Does stewed beef have carbs?",
+      "a": "Typically 0g carbs if no vegetables or thickeners are added."
+    },
+    {
+      "q": "How does fat content affect calories in stewed beef?",
+      "a": "Higher fat cuts increase calories; trimming fat reduces them by 20-50 kcal per 100g."
+    },
+    {
+      "q": "Is stewed beef lower in calories than fried beef?",
+      "a": "Yes, stewing uses less added fat, often 50-100 kcal less per 100g than frying."
+    }
+  ]
+}

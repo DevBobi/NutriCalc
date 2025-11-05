@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in ground beef cooked",
+  "title": "Calories in Ground Beef Cooked",
+  "meta_description": "Discover calories in ground beef cooked per 100 g, including protein, fat, carbs, and full nutrition breakdown with tweaks and FAQs.",
+  "slug": "calories-in-ground-beef-cooked",
+  "h1": "Calories in Ground Beef Cooked",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "ground beef cooked"
+  },
+  "assumptions": "80% lean ground beef, pan-broiled and drained, no added seasonings or oil.",
+  "disclaimer": "Nutrition varies by leanness, cooking method, draining, and brand. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 246,
+    "text": "100 g of cooked 80% lean ground beef provides ~246 kcal and ~26 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 246,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 25.9,
+      "fat_g": 15.4,
+      "sat_fat_g": 5.9,
+      "trans_fat_g": 0.8,
+      "cholesterol_mg": 82,
+      "sodium_mg": 66
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 246,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 25.9,
+    "fat_g": 15.4,
+    "sat_fat_g": 5.9,
+    "trans_fat_g": 0.8,
+    "cholesterol_mg": 82,
+    "sodium_mg": 66
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.03
+  },
+  "tweaks": [
+    {
+      "label": "Use 90% lean ground beef (less fat)",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 186
+    },
+    {
+      "label": "Add 1 tsp olive oil during cooking per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 286
+    },
+    {
+      "label": "Broil without draining fat",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 296
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g cooked ground beef?",
+      "a": "About 246 kcal for 80% lean, pan-broiled and drained."
+    },
+    {
+      "q": "What's the protein in cooked ground beef?",
+      "a": "Approximately 26 g protein per 100 g."
+    },
+    {
+      "q": "Does cooking method affect calories in ground beef?",
+      "a": "Yes—grilling or broiling without draining adds calories from retained fat."
+    },
+    {
+      "q": "How does leanness impact calories in ground beef cooked?",
+      "a": "Leaner (90%) has ~186 kcal per 100 g; fattier (70%) up to 300 kcal."
+    },
+    {
+      "q": "Are there carbs in ground beef cooked?",
+      "a": "No carbs, fiber, or sugars—pure protein and fat source."
+    }
+  ]
+}

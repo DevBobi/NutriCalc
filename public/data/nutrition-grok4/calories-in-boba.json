@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in boba",
+  "title": "Calories in Boba",
+  "meta_description": "Discover calories in boba, including a standard serving's nutrition breakdown with carbs, sugars, fat, protein, and tips for lower-calorie tweaks.",
+  "slug": "calories-in-boba",
+  "h1": "Calories in Boba",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "boba tea"
+  },
+  "assumptions": "16 oz serving of milk boba tea with black tea, whole milk, moderate sugar syrup, and cooked tapioca pearls; no extra toppings.",
+  "disclaimer": "Nutrition varies by shop, milk type, sweetness level, pearl portion, and add-ins. Check menus or apps for exact values.",
+  "quick_answer": {
+    "total_kcal": 250,
+    "text": "A standard 16 oz boba tea serving contains about 250 kcal, mostly from sugars and carbs."
+  },
+  "basis": {
+    "label": "per 1 serving (16 oz)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 250,
+      "carbs_g": 60,
+      "fiber_g": 2,
+      "sugars_g": 50,
+      "protein_g": 2,
+      "fat_g": 5,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 250,
+    "carbs_g": 60,
+    "fiber_g": 2,
+    "sugars_g": 50,
+    "protein_g": 2,
+    "fat_g": 5,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 100
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Less sugar (half syrup)",
+      "delta_kcal_per_unit": -75,
+      "new_total_kcal": 175
+    },
+    {
+      "label": "Use non-dairy milk (e.g., almond)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "No pearls (tapioca removed)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 150
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a boba tea?",
+      "a": "About 250 kcal for a standard 16 oz milk boba with moderate sugar and pearls."
+    },
+    {
+      "q": "Are boba calories mostly from sugar?",
+      "a": "Yes, around 50 g sugars per serving, plus carbs from tapioca pearls."
+    },
+    {
+      "q": "Calories in boba pearls alone?",
+      "a": "Roughly 100 kcal for 1/4 cup cooked pearls; the drink base adds the rest."
+    },
+    {
+      "q": "How to reduce calories in boba?",
+      "a": "Opt for less/no sugar, non-dairy milk, or skip pearls to cut 30–100 kcal."
+    },
+    {
+      "q": "Is boba high in fat or protein?",
+      "a": "Low protein (~2 g) and moderate fat (~5 g from milk); high carbs (~60 g)."
+    }
+  ]
+}

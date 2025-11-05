@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in stuffing",
+  "title": "Calories in Stuffing",
+  "meta_description": "Discover calories in stuffing per 100g serving, including carbs, protein, fat, sodium, and tips for variations to fit your diet.",
+  "slug": "calories-in-stuffing",
+  "h1": "Calories in Stuffing",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "stuffing"
+  },
+  "assumptions": "Prepared bread-based stuffing with butter, celery, onion, and herbs; homemade or from boxed mix, baked.",
+  "disclaimer": "Nutrition varies by recipe, brand, ingredients like added meat or nuts, and preparation method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "100g of prepared stuffing provides about 200 kcal, with high carbs from bread and fat from butter."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sugars_g": 3,
+      "protein_g": 5,
+      "fat_g": 9,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 25,
+    "fiber_g": 2,
+    "sugars_g": 3,
+    "protein_g": 5,
+    "fat_g": 9,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 600
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat version (use less butter or oil)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Add sausage (1 oz per 100g)",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 280
+    },
+    {
+      "label": "Whole grain bread base",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 210
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of stuffing?",
+      "a": "A typical 100g serving has about 200 kcal; adjust for portion size."
+    },
+    {
+      "q": "Is stuffing high in sodium?",
+      "a": "Yes, around 600 mg per 100g due to seasonings and broth."
+    },
+    {
+      "q": "What are the carbs in stuffing?",
+      "a": "About 25g carbs per 100g, mostly from bread, with 2g fiber."
+    },
+    {
+      "q": "How does turkey stuffing compare to other types?",
+      "a": "Similar to bread stuffing at ~200 kcal/100g; cornbread versions may have more sugars."
+    },
+    {
+      "q": "Can I make stuffing lower calorie?",
+      "a": "Yes, reduce butter or use vegetable broth to cut ~50 kcal per 100g."
+    }
+  ]
+}

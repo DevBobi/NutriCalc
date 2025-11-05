@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in hash brown potatoes",
+  "title": "Calories in Hash Brown Potatoes",
+  "meta_description": "Learn calories in hash brown potatoes per 100g serving, including carbs, protein, fat, and full nutrition facts for easy meal planning.",
+  "slug": "calories-in-hash-brown-potatoes",
+  "h1": "Calories in Hash Brown Potatoes",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "hash brown potatoes"
+  },
+  "assumptions": "Home-prepared from fresh potatoes, pan-fried in vegetable oil, shredded, no added salt or seasonings.",
+  "disclaimer": "Nutrition varies by preparation method, oil type/amount, potato variety, and added ingredients. Check labels for commercial products.",
+  "quick_answer": {
+    "total_kcal": 252,
+    "text": "100g of pan-fried hash brown potatoes provide ~252 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 252,
+      "carbs_g": 31.5,
+      "fiber_g": 2.9,
+      "sugars_g": 1.3,
+      "protein_g": 2.9,
+      "fat_g": 13.4,
+      "sat_fat_g": 1.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 35
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 252,
+    "carbs_g": 31.5,
+    "fiber_g": 2.9,
+    "sugars_g": 1.3,
+    "protein_g": 2.9,
+    "fat_g": 13.4,
+    "sat_fat_g": 1.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 35
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.05
+  },
+  "tweaks": [
+    {
+      "label": "Baked in oven (no added oil)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 152
+    },
+    {
+      "label": "Add 1 tbsp shredded cheddar per 100g",
+      "delta_kcal_per_unit": 57,
+      "new_total_kcal": 309
+    },
+    {
+      "label": "Frozen commercial, deep-fried",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 302
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g hash brown potatoes?",
+      "a": "Approximately 252 kcal for pan-fried hash browns."
+    },
+    {
+      "q": "Are hash brown potatoes high in carbs?",
+      "a": "Yes, about 31.5g carbs per 100g, mainly from potatoes."
+    },
+    {
+      "q": "What's the fat content in hash brown potatoes?",
+      "a": "Around 13.4g total fat per 100g, from frying oil."
+    },
+    {
+      "q": "Do hash brown potatoes have protein?",
+      "a": "Modest amount, about 2.9g protein per 100g."
+    },
+    {
+      "q": "How to reduce calories in hash brown potatoes?",
+      "a": "Bake instead of frying or use minimal oil to cut fat and calories."
+    }
+  ]
+}

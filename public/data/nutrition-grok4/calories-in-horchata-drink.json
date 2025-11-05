@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in horchata drink",
+  "title": "Calories in Horchata Drink",
+  "meta_description": "Learn calories in horchata drink per 8 oz serving, including carbs, sugars, protein, fat, and tips for variations in this sweet rice-based beverage.",
+  "slug": "calories-in-horchata-drink",
+  "h1": "Calories in Horchata Drink",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "horchata drink"
+  },
+  "assumptions": "Traditional Mexican-style horchata made with rice, cinnamon, sugar, and water; 8 oz (240 ml) serving, no dairy unless specified.",
+  "disclaimer": "Nutrition varies by recipe, sweetness level, added ingredients like milk or nuts, and brand; homemade versions differ from store-bought. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "One 8 oz cup of horchata drink contains about 140 calories, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 cup (240 ml)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 28,
+      "fiber_g": 1,
+      "sugars_g": 15,
+      "protein_g": 2,
+      "fat_g": 3,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 10,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 28,
+    "fiber_g": 1,
+    "sugars_g": 15,
+    "protein_g": 2,
+    "fat_g": 3,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 50
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged drinks.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Low-sugar version (reduce sugar by half)",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 90
+    },
+    {
+      "label": "With added almond milk (1/4 cup per serving)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Vegan with coconut milk instead of dairy (if any)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one serving of horchata drink?",
+      "a": "About 140 calories per 8 oz cup of traditional horchata."
+    },
+    {
+      "q": "What are the carbs in horchata drink?",
+      "a": "Around 28 g carbs per cup, primarily from rice and added sugars."
+    },
+    {
+      "q": "Is horchata drink high in sugar?",
+      "a": "Yes, typically 15 g sugars per 8 oz serving; opt for low-sugar recipes to reduce."
+    },
+    {
+      "q": "Does horchata have protein or fat?",
+      "a": "Low in both: ~2 g protein and 3 g fat per cup, depending on ingredients."
+    },
+    {
+      "q": "How does store-bought horchata compare to homemade?",
+      "a": "Store-bought may have 120-160 kcal per serving; check labels for preservatives and exact values."
+    }
+  ]
+}

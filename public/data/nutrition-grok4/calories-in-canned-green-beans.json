@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in canned green beans",
+  "title": "Calories in Canned Green Beans",
+  "meta_description": "Discover calories in canned green beans per 100 g serving, including carbs, fiber, protein, sodium, and quick preparation tweaks for better nutrition.",
+  "slug": "calories-in-canned-green-beans",
+  "h1": "Calories in Canned Green Beans",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "canned green beans"
+  },
+  "assumptions": "Drained solids from standard canned green beans; includes brine effects; no added fats or seasonings.",
+  "disclaimer": "Nutrition varies by brand, sodium level, packing liquid, and draining method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 22,
+    "text": "100 g of drained canned green beans provides ~22 kcal and ~2 g fiber."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 22,
+      "carbs_g": 4.3,
+      "fiber_g": 1.8,
+      "sugars_g": 2.1,
+      "protein_g": 1.2,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 235
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 22,
+    "carbs_g": 4.3,
+    "fiber_g": 1.8,
+    "sugars_g": 2.1,
+    "protein_g": 1.2,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 235
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.09
+  },
+  "tweaks": [
+    {
+      "label": "Low-sodium variety (rinsed)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 22
+    },
+    {
+      "label": "Sautéed with 1 tsp butter per 100 g",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 58
+    },
+    {
+      "label": "Fresh steamed green beans (vs. canned)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 17
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in canned green beans per serving?",
+      "a": "About 22 kcal per 100 g drained; a typical 1/2 cup serving is similar."
+    },
+    {
+      "q": "Are canned green beans high in sodium?",
+      "a": "Yes, ~235 mg per 100 g; opt for low-sodium or rinse to reduce."
+    },
+    {
+      "q": "What's the fiber content in canned green beans?",
+      "a": "Around 1.8 g per 100 g, aiding digestion."
+    },
+    {
+      "q": "Do canned green beans have added sugars?",
+      "a": "Typically 2.1 g per 100 g from natural sources; check labels for sweetened varieties."
+    },
+    {
+      "q": "How do canned vs. fresh green beans compare nutritionally?",
+      "a": "Canned have similar calories but higher sodium; fresh offer more vitamins if not overcooked."
+    }
+  ]
+}

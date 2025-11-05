@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 slice of bacon",
+  "title": "Calories in 1 Slice of Bacon",
+  "meta_description": "Discover calories in 1 slice of bacon, including fat, protein, sodium, and full nutrition breakdown per slice with quick tweaks and FAQs.",
+  "slug": "calories-in-1-slice-of-bacon",
+  "h1": "Calories in 1 Slice of Bacon",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "slice",
+    "item": "bacon"
+  },
+  "assumptions": "Pan-fried, regular-cut pork bacon slice (~8-10 g cooked weight); no added seasonings.",
+  "disclaimer": "Nutrition varies by brand, cut thickness, cooking method, and fat drainage. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 43,
+    "text": "One slice of cooked bacon provides ~43 kcal, mainly from fat, with 3 g protein."
+  },
+  "basis": {
+    "label": "per 1 slice",
+    "amount": 1,
+    "unit": "slice",
+    "nutrition": {
+      "calories_kcal": 43,
+      "carbs_g": 0.1,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 3,
+      "fat_g": 3.3,
+      "sat_fat_g": 1.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 9,
+      "sodium_mg": 192
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 43,
+    "carbs_g": 0.1,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 3,
+    "fat_g": 3.3,
+    "sat_fat_g": 1.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 9,
+    "sodium_mg": 192
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.18
+  },
+  "tweaks": [
+    {
+      "label": "Use turkey bacon instead",
+      "delta_kcal_per_unit": -15,
+      "new_total_kcal": 28
+    },
+    {
+      "label": "Extra crispy (more fat rendered out)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 38
+    },
+    {
+      "label": "Add 1 tsp maple syrup glaze",
+      "delta_kcal_per_unit": 17,
+      "new_total_kcal": 60
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 slice of cooked bacon?",
+      "a": "Approximately 43 kcal for a standard pan-fried slice."
+    },
+    {
+      "q": "Is bacon high in sodium?",
+      "a": "Yes, one slice has ~192 mg sodium, about 8% of daily value."
+    },
+    {
+      "q": "What's the fat content in 1 slice of bacon?",
+      "a": "About 3.3 g total fat, including 1.1 g saturated fat."
+    },
+    {
+      "q": "Does cooking method affect calories in bacon?",
+      "a": "Yes—baking or microwaving may reduce fat and calories compared to pan-frying."
+    },
+    {
+      "q": "How much protein in one slice of bacon?",
+      "a": "Roughly 3 g protein per slice."
+    }
+  ]
+}

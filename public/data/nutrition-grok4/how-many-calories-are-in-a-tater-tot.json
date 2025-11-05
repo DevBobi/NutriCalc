@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in a tater tot",
+  "title": "How Many Calories Are in a Tater Tot?",
+  "meta_description": "Discover how many calories are in a tater tot, including carbs, fat, protein, sodium, and variations for baked or fried prep.",
+  "slug": "how-many-calories-are-in-a-tater-tot",
+  "h1": "How Many Calories Are in a Tater Tot?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "tater tot",
+    "item": "tater tot"
+  },
+  "assumptions": "Standard frozen tater tot (~20 g each), oven-baked per package instructions, no added oil or seasonings.",
+  "disclaimer": "Nutrition varies by brand, size, preparation method (baked vs. fried), and serving size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 55,
+    "text": "One standard tater tot has about 55 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 tater tot",
+    "amount": 1,
+    "unit": "tater tot",
+    "nutrition": {
+      "calories_kcal": 55,
+      "carbs_g": 7.2,
+      "fiber_g": 0.6,
+      "sugars_g": 0.2,
+      "protein_g": 0.7,
+      "fat_g": 2.7,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 120
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 55,
+    "carbs_g": 7.2,
+    "fiber_g": 0.6,
+    "sugars_g": 0.2,
+    "protein_g": 0.7,
+    "fat_g": 2.7,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 120
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.23
+  },
+  "tweaks": [
+    {
+      "label": "Deep-fried in oil instead of baked",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 70
+    },
+    {
+      "label": "Add 1 tsp ketchup as dip",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 75
+    },
+    {
+      "label": "Homemade with less potato, more veggies",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 45
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a tater tot?",
+      "a": "Approximately 55 kcal for one standard baked tater tot."
+    },
+    {
+      "q": "Are tater tots high in carbs?",
+      "a": "Yes, about 7.2 g carbs per tater tot, mainly from potatoes."
+    },
+    {
+      "q": "What's the sodium in one tater tot?",
+      "a": "Around 120 mg, which can add up with multiple servings."
+    },
+    {
+      "q": "Do tater tots have protein?",
+      "a": "Minimal, only about 0.7 g per tater tot."
+    },
+    {
+      "q": "Baked vs. fried tater tots calories?",
+      "a": "Baked is lower (~55 kcal); fried adds ~15 kcal from absorbed oil."
+    }
+  ]
+}

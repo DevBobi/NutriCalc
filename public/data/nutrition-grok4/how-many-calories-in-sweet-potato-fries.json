@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in sweet potato fries",
+  "title": "How Many Calories in Sweet Potato Fries?",
+  "meta_description": "Discover how many calories in sweet potato fries per 100 g serving, including carbs, protein, fat, and easy tweaks for different preparations.",
+  "slug": "how-many-calories-in-sweet-potato-fries",
+  "h1": "How Many Calories in Sweet Potato Fries?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "sweet potato fries"
+  },
+  "assumptions": "Oven-baked sweet potato fries, cut into 1/4-inch strips, lightly coated with 1 tsp oil per 100 g, no added salt.",
+  "disclaimer": "Nutrition varies by potato size, oil amount, cooking method (baked vs. fried), and seasonings. Check labels or recipes for precision.",
+  "quick_answer": {
+    "total_kcal": 150,
+    "text": "100 g of oven-baked sweet potato fries contains about 150 kcal and 25 g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 25,
+      "fiber_g": 4,
+      "sugars_g": 7,
+      "protein_g": 2,
+      "fat_g": 5,
+      "sat_fat_g": 0.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 150,
+    "carbs_g": 25,
+    "fiber_g": 4,
+    "sugars_g": 7,
+    "protein_g": 2,
+    "fat_g": 5,
+    "sat_fat_g": 0.7,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 50
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.63
+  },
+  "tweaks": [
+    {
+      "label": "Deep-fried in oil (vs. baked) per 100 g",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add 1 tbsp ketchup per 100 g serving",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 170
+    },
+    {
+      "label": "No oil, air-fried per 100 g",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g sweet potato fries?",
+      "a": "Approximately 150 kcal for oven-baked with minimal oil."
+    },
+    {
+      "q": "Are sweet potato fries healthier than regular fries?",
+      "a": "Yes, they offer more fiber (4 g per 100 g) and vitamins, but calories depend on oil used."
+    },
+    {
+      "q": "What's the carb content in sweet potato fries?",
+      "a": "About 25 g carbs per 100 g, including 4 g fiber and 7 g natural sugars."
+    },
+    {
+      "q": "Do sweet potato fries have protein?",
+      "a": "Low amount, around 2 g per 100 g; pair with protein sources for balance."
+    },
+    {
+      "q": "How does frying affect calories in sweet potato fries?",
+      "a": "Deep-frying can add 100+ kcal per 100 g due to absorbed oil."
+    }
+  ]
+}

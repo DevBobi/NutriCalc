@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in sliced tomatoes",
+  "title": "How Many Calories in Sliced Tomatoes?",
+  "meta_description": "Learn how many calories in sliced tomatoes per 100 g, with full nutrition facts including carbs, protein, fiber, and healthy tweaks for salads.",
+  "slug": "how-many-calories-in-sliced-tomatoes",
+  "h1": "How Many Calories in Sliced Tomatoes?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "sliced tomatoes"
+  },
+  "assumptions": "Fresh, ripe red tomatoes, thinly sliced, no added salt, oil, or dressing.",
+  "disclaimer": "Nutrition varies by tomato variety, ripeness, size, and preparation; check labels when available.",
+  "quick_answer": {
+    "total_kcal": 18,
+    "text": "100 g of sliced tomatoes provides about 18 kcal and is rich in vitamins with minimal fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 18,
+      "carbs_g": 3.9,
+      "fiber_g": 1.2,
+      "sugars_g": 2.6,
+      "protein_g": 0.9,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 5
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 18,
+    "carbs_g": 3.9,
+    "fiber_g": 1.2,
+    "sugars_g": 2.6,
+    "protein_g": 0.9,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.08
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp olive oil dressing per 100 g",
+      "delta_kcal_per_unit": 119,
+      "new_total_kcal": 137
+    },
+    {
+      "label": "Use cherry tomatoes instead (similar weight)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 20
+    },
+    {
+      "label": "Sprinkle with 1 tsp grated parmesan per 100 g",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 28
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g sliced tomatoes?",
+      "a": "About 18 kcal per 100 g of fresh sliced tomatoes."
+    },
+    {
+      "q": "Are sliced tomatoes low carb?",
+      "a": "Yes, only 3.9 g carbs per 100 g, with 1.2 g fiber."
+    },
+    {
+      "q": "What nutrients are in sliced tomatoes besides calories?",
+      "a": "High in vitamin C and potassium; 0.9 g protein, 0.2 g fat, and 2.6 g natural sugars."
+    },
+    {
+      "q": "Do sliced tomatoes have sodium?",
+      "a": "Very low at 5 mg per 100 g naturally; adding salt increases it."
+    },
+    {
+      "q": "How does slicing affect tomato calories?",
+      "a": "Slicing doesn't change calories; it's the same as whole fresh tomatoes."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in hamburger meat 90 10",
+  "title": "Calories in 90/10 Hamburger Meat",
+  "meta_description": "Discover calories in hamburger meat 90 10 per 100g, including protein, fat, carbs, full nutrition breakdown, and cooking tweaks for better tracking.",
+  "slug": "calories-in-hamburger-meat-90-10",
+  "h1": "Calories in 90/10 Hamburger Meat",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "hamburger meat 90/10"
+  },
+  "assumptions": "Raw ground beef, 90% lean / 10% fat, no added seasonings or binders.",
+  "disclaimer": "Nutrition varies by brand, fat content accuracy, cooking method, and portion size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 176,
+    "text": "100g of 90/10 hamburger meat provides ~176 kcal and ~20g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 176,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 20,
+      "fat_g": 10,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 65,
+      "sodium_mg": 66
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 176,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 20,
+    "fat_g": 10,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 65,
+    "sodium_mg": 66
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.74
+  },
+  "tweaks": [
+    {
+      "label": "Pan-broiled (cooked, drained of fat)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 156
+    },
+    {
+      "label": "Add 1 tsp vegetable oil per 100g when cooking",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 216
+    },
+    {
+      "label": "Use 80/20 lean-to-fat ratio instead",
+      "delta_kcal_per_unit": 48,
+      "new_total_kcal": 224
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g of 90/10 hamburger meat?",
+      "a": "About 176 kcal for raw 90/10 ground beef."
+    },
+    {
+      "q": "What is the protein content in hamburger meat 90 10?",
+      "a": "Approximately 20g protein per 100g."
+    },
+    {
+      "q": "Does cooking change calories in 90/10 hamburger meat?",
+      "a": "Yes, cooking methods like broiling can reduce calories by draining fat, down to ~150-160 kcal per 100g."
+    },
+    {
+      "q": "What does 90/10 mean for hamburger meat?",
+      "a": "90% lean meat and 10% fat content, making it a leaner option for burgers or patties."
+    },
+    {
+      "q": "How much fat is in 90/10 hamburger meat per serving?",
+      "a": "About 10g total fat per 100g, with 4g saturated."
+    }
+  ]
+}

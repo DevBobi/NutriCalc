@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in oat cookies",
+  "title": "Calories in Oat Cookies",
+  "meta_description": "Discover calories in oat cookies per serving, including carbs, protein, fat, and nutrition breakdowns for oatmeal varieties.",
+  "slug": "calories-in-oat-cookies",
+  "h1": "Calories in Oat Cookies",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cookie",
+    "item": "oat cookie"
+  },
+  "assumptions": "Standard oatmeal cookie (~30 g each), baked with oats, flour, butter, sugar, and cinnamon; no raisins or nuts added.",
+  "disclaimer": "Nutrition varies by recipe, brand, size, ingredients, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "One standard oat cookie provides about 140 kcal, with 18 g carbs and 2 g protein."
+  },
+  "basis": {
+    "label": "per 1 oat cookie",
+    "amount": 1,
+    "unit": "cookie",
+    "nutrition": {
+      "calories_kcal": 140,
+      "carbs_g": 18,
+      "fiber_g": 1,
+      "sugars_g": 10,
+      "protein_g": 2,
+      "fat_g": 7,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 18,
+    "fiber_g": 1,
+    "sugars_g": 10,
+    "protein_g": 2,
+    "fat_g": 7,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 100
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Add raisins (1 tbsp per cookie)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "Use low-fat butter substitute",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 115
+    },
+    {
+      "label": "Include chocolate chips (1 tsp per cookie)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 155
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one oat cookie?",
+      "a": "About 140 kcal for a standard 30 g oatmeal cookie."
+    },
+    {
+      "q": "Are oat cookies high in fiber?",
+      "a": "They provide ~1 g fiber per cookie from oats, aiding digestion."
+    },
+    {
+      "q": "What's the protein in oat cookies?",
+      "a": "Roughly 2 g protein per cookie, mostly from oats."
+    },
+    {
+      "q": "Do oat cookies have a lot of sugar?",
+      "a": "Around 10 g sugars per cookie from added sweeteners."
+    },
+    {
+      "q": "How do homemade oat cookies compare to store-bought?",
+      "a": "Homemade can be lower in sodium (~100 mg) but vary by recipe; store-bought often higher in fats."
+    }
+  ]
+}

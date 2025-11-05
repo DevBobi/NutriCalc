@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a drink of whiskey",
+  "title": "How Many Calories in a Drink of Whiskey?",
+  "meta_description": "Discover how many calories in a drink of whiskey, including nutrition facts, basis per serving, and tweaks for mixes—all from alcohol with zero carbs or sugars.",
+  "slug": "how-many-calories-in-a-drink-of-whiskey",
+  "h1": "How Many Calories in a Drink of Whiskey?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "drink",
+    "item": "whiskey"
+  },
+  "assumptions": "Standard drink: 1.5 fl oz (44 ml) of 80-proof (40% ABV) whiskey, served neat or straight, no mixers.",
+  "disclaimer": "Calories vary by proof, brand, exact serving size, and any added mixers. Pure distilled spirits contain no carbs, fats, or proteins. Consult labels for specifics.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "A standard drink of whiskey has about 97 calories, derived entirely from alcohol."
+  },
+  "basis": {
+    "label": "per 1 standard drink (1.5 fl oz)",
+    "amount": 1,
+    "unit": "drink",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Double shot (3 fl oz instead of 1.5 fl oz)",
+      "delta_kcal_per_unit": 97,
+      "new_total_kcal": 194
+    },
+    {
+      "label": "Mixed with 4 oz diet soda (zero-calorie mixer)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 97
+    },
+    {
+      "label": "Mixed with 4 oz regular cola (adds ~50 kcal from sugar)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 147
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a standard drink of whiskey?",
+      "a": "About 97 kcal for 1.5 fl oz of 80-proof whiskey."
+    },
+    {
+      "q": "Does whiskey have carbs or sugar?",
+      "a": "No—pure whiskey has 0 g carbs, fiber, and sugars; calories are from alcohol only."
+    },
+    {
+      "q": "What affects calories in whiskey?",
+      "a": "Proof (higher ABV means more calories), serving size, and mixers like soda or juice."
+    },
+    {
+      "q": "Calories in whiskey vs. other spirits?",
+      "a": "Similar to vodka or gin at ~97 kcal per 1.5 fl oz standard drink; varies slightly by type."
+    },
+    {
+      "q": "Is whiskey low-carb for keto diets?",
+      "a": "Yes, straight whiskey is keto-friendly with 0 g net carbs, but avoid sugary mixers."
+    }
+  ]
+}

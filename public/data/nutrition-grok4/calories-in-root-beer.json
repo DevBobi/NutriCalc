@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in root beer",
+  "title": "Calories in Root Beer",
+  "meta_description": "Discover calories in root beer per 12 fl oz serving, including carbs, sugars, sodium, and quick tweaks for diet versions or floats.",
+  "slug": "calories-in-root-beer",
+  "h1": "Calories in Root Beer",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 12,
+    "unit": "fl oz",
+    "item": "root beer"
+  },
+  "assumptions": "Standard commercial root beer (e.g., A&W or Barq's), regular sweetened version, no diet or zero-sugar.",
+  "disclaimer": "Nutrition varies by brand, recipe, and serving size; diet versions differ significantly. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 170,
+    "text": "A 12 fl oz serving of root beer contains about 170 calories, primarily from sugars."
+  },
+  "basis": {
+    "label": "per 12 fl oz serving",
+    "amount": 12,
+    "unit": "fl oz",
+    "nutrition": {
+      "calories_kcal": 170,
+      "carbs_g": 46,
+      "fiber_g": 0,
+      "sugars_g": 46,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 35
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 170,
+    "carbs_g": 46,
+    "fiber_g": 0,
+    "sugars_g": 46,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 35
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.71
+  },
+  "tweaks": [
+    {
+      "label": "Switch to diet root beer",
+      "delta_kcal_per_unit": -170,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Add 1 scoop vanilla ice cream for a float",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 310
+    },
+    {
+      "label": "Caffeine-free version (no change in calories)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 170
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a can of root beer?",
+      "a": "About 170 kcal in a standard 12 fl oz can."
+    },
+    {
+      "q": "Does root beer have sugar or carbs?",
+      "a": "Yes, around 46 g sugars and 46 g total carbs per 12 fl oz serving."
+    },
+    {
+      "q": "Is root beer high in sodium?",
+      "a": "Moderately, with about 35 mg sodium per serving."
+    },
+    {
+      "q": "Calories in diet root beer?",
+      "a": "Typically 0 kcal, as it's sweetened with artificial sweeteners."
+    },
+    {
+      "q": "How does root beer compare to other sodas?",
+      "a": "Similar to cola, around 140-170 kcal per 12 fl oz, mostly from sugars."
+    }
+  ]
+}

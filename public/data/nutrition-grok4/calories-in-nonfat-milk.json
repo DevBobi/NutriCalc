@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in nonfat milk",
+  "title": "Calories in Nonfat Milk",
+  "meta_description": "Discover calories in nonfat milk per cup, including protein, carbs, fat, and full nutrition breakdown for easy tracking.",
+  "slug": "calories-in-nonfat-milk",
+  "h1": "Calories in Nonfat Milk",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "nonfat milk"
+  },
+  "assumptions": "Skim/nonfat cow's milk, pasteurized, per 1 cup (244 g or ~240 ml), no added flavors or sweeteners.",
+  "disclaimer": "Nutrition varies by brand, fortification, processing, and serving size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 83,
+    "text": "One cup of nonfat milk contains about 83 kcal and 8 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 83,
+      "carbs_g": 12.2,
+      "fiber_g": 0,
+      "sugars_g": 12.2,
+      "protein_g": 8.3,
+      "fat_g": 0.2,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 103
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 83,
+    "carbs_g": 12.2,
+    "fiber_g": 0,
+    "sugars_g": 12.2,
+    "protein_g": 8.3,
+    "fat_g": 0.2,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 103
+  },
+  "label_note": "Values align with standard Nutrition Facts labels for comparison.",
+  "equivalents": {
+    "megajoules": 0.35
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp sugar per cup",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 99
+    },
+    {
+      "label": "Switch to 2% low-fat milk",
+      "delta_kcal_per_unit": 48,
+      "new_total_kcal": 131
+    },
+    {
+      "label": "Lactose-free nonfat milk",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 83
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of nonfat milk?",
+      "a": "Approximately 83 kcal per cup."
+    },
+    {
+      "q": "What's the protein in nonfat milk?",
+      "a": "About 8.3 g protein per cup."
+    },
+    {
+      "q": "Does nonfat milk have fat or cholesterol?",
+      "a": "Only 0.2 g total fat and 5 mg cholesterol per cup."
+    },
+    {
+      "q": "How do calories compare to whole milk?",
+      "a": "Nonfat has 83 kcal per cup; whole milk has about 150 kcal."
+    },
+    {
+      "q": "Is nonfat milk low in carbs?",
+      "a": "Yes, 12.2 g carbs per cup, mostly from natural lactose."
+    }
+  ]
+}

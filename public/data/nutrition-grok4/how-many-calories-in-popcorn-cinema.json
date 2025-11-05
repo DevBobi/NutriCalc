@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in popcorn cinema",
+  "title": "How Many Calories in Cinema Popcorn?",
+  "meta_description": "Discover how many calories in popcorn cinema for a small serving, including full nutrition breakdown, macros, and variations like buttered vs. plain.",
+  "slug": "how-many-calories-in-popcorn-cinema",
+  "h1": "How Many Calories in Cinema Popcorn?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small serving",
+    "item": "cinema popcorn"
+  },
+  "assumptions": "Standard small movie theater serving (approx. 100g or 11 cups popped), oil-popped with butter topping and salt; values based on average chain data.",
+  "disclaimer": "Nutrition varies by theater chain, serving size, butter amount, and preparation; check venue info or labels when available.",
+  "quick_answer": {
+    "total_kcal": 400,
+    "text": "A small serving of cinema popcorn typically contains about 400 kcal, mostly from fat due to oil and butter."
+  },
+  "basis": {
+    "label": "per 1 small serving",
+    "amount": 1,
+    "unit": "small serving",
+    "nutrition": {
+      "calories_kcal": 400,
+      "carbs_g": 45,
+      "fiber_g": 8,
+      "sugars_g": 0,
+      "protein_g": 6,
+      "fat_g": 24,
+      "sat_fat_g": 4,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 10,
+      "sodium_mg": 650
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 400,
+    "carbs_g": 45,
+    "fiber_g": 8,
+    "sugars_g": 0,
+    "protein_g": 6,
+    "fat_g": 24,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 10,
+    "sodium_mg": 650
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.67
+  },
+  "tweaks": [
+    {
+      "label": "Plain (no butter topping)",
+      "delta_kcal_per_unit": -150,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Large serving (double size)",
+      "delta_kcal_per_unit": 400,
+      "new_total_kcal": 800
+    },
+    {
+      "label": "Air-popped at home equivalent",
+      "delta_kcal_per_unit": -300,
+      "new_total_kcal": 100
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small popcorn cinema serving?",
+      "a": "About 400 kcal for a standard buttered small serving."
+    },
+    {
+      "q": "Is cinema popcorn high in sodium?",
+      "a": "Yes, around 650 mg per small serving due to added salt."
+    },
+    {
+      "q": "How does butter affect calories in popcorn cinema?",
+      "a": "Butter adds ~150 kcal per small serving; plain is lower at ~250 kcal."
+    },
+    {
+      "q": "What are the macros for cinema popcorn?",
+      "a": "Per small serving: 45 g carbs, 24 g fat, 6 g protein, 8 g fiber."
+    },
+    {
+      "q": "How many calories in cinema popcorn without oil?",
+      "a": "Air-popped version has ~100 kcal per similar volume, much lower than oil-popped."
+    }
+  ]
+}

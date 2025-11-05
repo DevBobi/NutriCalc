@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in olive oil 1 tbsp",
+  "title": "Calories in 1 Tbsp Olive Oil",
+  "meta_description": "Discover calories in olive oil 1 tbsp, including full nutrition breakdown, fat content, and healthy tweaks for cooking or dressings.",
+  "slug": "calories-in-olive-oil-1-tbsp",
+  "h1": "Calories in 1 Tbsp Olive Oil",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "olive oil"
+  },
+  "assumptions": "Extra virgin olive oil; 1 tbsp = 14 g or 15 ml; pure, no additives.",
+  "disclaimer": "Nutrition varies by type (extra virgin, refined), brand, and measurement accuracy. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 119,
+    "text": "One tablespoon of olive oil provides ~119 kcal, primarily from healthy monounsaturated fats."
+  },
+  "basis": {
+    "label": "per 1 tbsp",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 119,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 13.5,
+      "sat_fat_g": 1.9,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0.3
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 119,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 13.5,
+    "sat_fat_g": 1.9,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0.3
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.5
+  },
+  "tweaks": [
+    {
+      "label": "Switch to light olive oil",
+      "delta_kcal_per_unit": -39,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Mix with 1 tsp balsamic vinegar for dressing",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 124
+    },
+    {
+      "label": "Use avocado oil instead",
+      "delta_kcal_per_unit": 1,
+      "new_total_kcal": 120
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in olive oil 1 tbsp?",
+      "a": "Approximately 119 kcal per tablespoon."
+    },
+    {
+      "q": "Is olive oil fat healthy?",
+      "a": "Yes, mostly monounsaturated fats; 13.5 g total fat per tbsp, with only 1.9 g saturated."
+    },
+    {
+      "q": "Does olive oil have carbs or protein?",
+      "a": "No—0 g carbs, 0 g protein; all calories from fat."
+    },
+    {
+      "q": "Extra virgin vs regular olive oil calories?",
+      "a": "Similar at ~119 kcal per tbsp; extra virgin has more antioxidants but same energy."
+    },
+    {
+      "q": "How to measure 1 tbsp olive oil accurately?",
+      "a": "Use a standard measuring spoon; 1 tbsp ≈ 14 g. Pouring can lead to overuse."
+    }
+  ]
+}

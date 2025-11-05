@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in large baked potato",
+  "title": "Calories in a Large Baked Potato",
+  "meta_description": "Discover calories in large baked potato, including full nutrition breakdown per serving, macros, and easy tweaks for toppings.",
+  "slug": "calories-in-large-baked-potato",
+  "h1": "Calories in a Large Baked Potato",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "potato",
+    "item": "large baked potato"
+  },
+  "assumptions": "Large russet potato (~299 g with skin), baked plain without oil, salt, or toppings; skin on.",
+  "disclaimer": "Nutrition varies by potato variety, size, baking method, and added ingredients. Check labels or sources for precision.",
+  "quick_answer": {
+    "total_kcal": 278,
+    "text": "A large baked potato offers ~278 kcal and ~7.5 g protein."
+  },
+  "basis": {
+    "label": "per 1 large baked potato",
+    "amount": 1,
+    "unit": "potato",
+    "nutrition": {
+      "calories_kcal": 278,
+      "carbs_g": 63.2,
+      "fiber_g": 7.5,
+      "sugars_g": 4.6,
+      "protein_g": 7.5,
+      "fat_g": 0.4,
+      "sat_fat_g": 0.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 24
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 278,
+    "carbs_g": 63.2,
+    "fiber_g": 7.5,
+    "sugars_g": 4.6,
+    "protein_g": 7.5,
+    "fat_g": 0.4,
+    "sat_fat_g": 0.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 24
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.16
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp butter",
+      "delta_kcal_per_unit": 102,
+      "new_total_kcal": 380
+    },
+    {
+      "label": "Top with 2 tbsp sour cream",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 338
+    },
+    {
+      "label": "Skin removed (peeled after baking)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 258
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a large baked potato with skin?",
+      "a": "Approximately 278 kcal for one large (~299 g) plain baked potato."
+    },
+    {
+      "q": "What are the carbs in a large baked potato?",
+      "a": "About 63 g total carbs, including 7.5 g fiber."
+    },
+    {
+      "q": "Is a baked potato low in fat?",
+      "a": "Yes, only 0.4 g fat per large potato, mostly unsaturated."
+    },
+    {
+      "q": "How does baking affect potato calories?",
+      "a": "Baking retains most nutrients with minimal added calories compared to frying."
+    },
+    {
+      "q": "Calories in a medium vs. large baked potato?",
+      "a": "Medium (~173 g) has ~161 kcal; large is about 73% more."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in snack size kit kat",
+  "title": "Calories in Snack Size Kit Kat",
+  "meta_description": "Learn calories in snack size kit kat: about 70 kcal per bar, with full nutrition facts on fat, carbs, sugars, protein, and quick tweaks for variations.",
+  "slug": "calories-in-snack-size-kit-kat",
+  "h1": "Calories in Snack Size Kit Kat",
+  "updated": "2024-10-06",
+  "query": {
+    "amount": 1,
+    "unit": "snack size",
+    "item": "kit kat"
+  },
+  "assumptions": "Standard Nestlé Kit Kat snack size bar (14g), milk chocolate with crispy wafer filling.",
+  "disclaimer": "Nutrition varies by brand, exact size, formulation, and storage; always check packaging for precise values.",
+  "quick_answer": {
+    "total_kcal": 70,
+    "text": "A snack size Kit Kat bar has about 70 calories and 1g protein."
+  },
+  "basis": {
+    "label": "per 1 snack size Kit Kat",
+    "amount": 1,
+    "unit": "snack size kit kat",
+    "nutrition": {
+      "calories_kcal": 70,
+      "carbs_g": 9,
+      "fiber_g": 0,
+      "sugars_g": 7,
+      "protein_g": 1,
+      "fat_g": 3.5,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 70,
+    "carbs_g": 9,
+    "fiber_g": 0,
+    "sugars_g": 7,
+    "protein_g": 1,
+    "fat_g": 3.5,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.29
+  },
+  "tweaks": [
+    {
+      "label": "Eat two snack size bars",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Half a snack size bar (shared)",
+      "delta_kcal_per_unit": -35,
+      "new_total_kcal": 35
+    },
+    {
+      "label": "Dark chocolate version (similar size)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 75
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in snack size kit kat?",
+      "a": "Approximately 70 kcal per snack size bar."
+    },
+    {
+      "q": "What's the sugar content in a snack size Kit Kat?",
+      "a": "About 7g of sugars per bar."
+    },
+    {
+      "q": "How much fat is in calories in snack size kit kat?",
+      "a": "3.5g total fat, including 2g saturated fat."
+    },
+    {
+      "q": "Does snack size Kit Kat have any protein?",
+      "a": "Yes, around 1g of protein per bar."
+    },
+    {
+      "q": "Are there carbs in a snack size Kit Kat?",
+      "a": "9g of carbohydrates, with 0g fiber."
+    }
+  ]
+}

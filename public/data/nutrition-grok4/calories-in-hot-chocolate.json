@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in hot chocolate",
+  "title": "Calories in Hot Chocolate",
+  "meta_description": "Discover calories in hot chocolate per cup, including full nutrition breakdown, macros, and easy tweaks for different preparations.",
+  "slug": "calories-in-hot-chocolate",
+  "h1": "Calories in Hot Chocolate",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "hot chocolate"
+  },
+  "assumptions": "1 cup (240 ml) prepared from cocoa mix with whole milk, no added sugar or toppings.",
+  "disclaimer": "Nutrition varies by milk type, cocoa brand, added sweeteners, and serving size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 190,
+    "text": "One cup of hot chocolate made with whole milk has about 190 kcal and 8 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup (240 ml)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 190,
+      "carbs_g": 25,
+      "fiber_g": 2,
+      "sugars_g": 22,
+      "protein_g": 8,
+      "fat_g": 8,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 190,
+    "carbs_g": 25,
+    "fiber_g": 2,
+    "sugars_g": 22,
+    "protein_g": 8,
+    "fat_g": 8,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 100
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.8
+  },
+  "tweaks": [
+    {
+      "label": "Use skim milk instead of whole",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 140
+    },
+    {
+      "label": "Add 1 tbsp whipped cream",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 215
+    },
+    {
+      "label": "Made with water (no milk)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of hot chocolate?",
+      "a": "About 190 kcal for a standard cup made with whole milk."
+    },
+    {
+      "q": "Is hot chocolate high in sugar?",
+      "a": "Yes, typically 22 g sugars per cup from milk and cocoa mix."
+    },
+    {
+      "q": "What's the protein in hot chocolate?",
+      "a": "Around 8 g per cup, mostly from the milk."
+    },
+    {
+      "q": "How does milk type affect calories in hot chocolate?",
+      "a": "Whole milk adds more fat and calories; skim reduces by ~50 kcal per cup."
+    },
+    {
+      "q": "Are there low-calorie hot chocolate options?",
+      "a": "Yes, use diet mix with water or almond milk for under 100 kcal."
+    }
+  ]
+}

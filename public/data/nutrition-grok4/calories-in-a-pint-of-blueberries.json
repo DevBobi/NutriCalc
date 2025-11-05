@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a pint of blueberries",
+  "title": "Calories in a Pint of Blueberries",
+  "meta_description": "Discover calories in a pint of blueberries, including carbs, fiber, sugars, protein, and full nutrition breakdown per serving with quick tweaks and FAQs.",
+  "slug": "calories-in-a-pint-of-blueberries",
+  "h1": "Calories in a Pint of Blueberries",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "pint",
+    "item": "blueberries"
+  },
+  "assumptions": "Fresh, whole blueberries; approximately 300 g per pint (about 2 cups).",
+  "disclaimer": "Nutrition varies by berry size, ripeness, variety, and storage; values are averages. Check labels for packaged products.",
+  "quick_answer": {
+    "total_kcal": 171,
+    "text": "A pint of fresh blueberries provides about 171 kcal, mainly from natural sugars and carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 57,
+      "carbs_g": 14.5,
+      "fiber_g": 2.4,
+      "sugars_g": 10,
+      "protein_g": 0.7,
+      "fat_g": 0.3,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 171,
+    "carbs_g": 43.5,
+    "fiber_g": 7.2,
+    "sugars_g": 30,
+    "protein_g": 2.1,
+    "fat_g": 0.9,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 3
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged blueberries.",
+  "equivalents": {
+    "megajoules": 0.72
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp granulated sugar",
+      "delta_kcal_per_unit": 49,
+      "new_total_kcal": 220
+    },
+    {
+      "label": "Frozen, unsweetened (vs. fresh)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 171
+    },
+    {
+      "label": "Stewed with a dash of cinnamon (no added sugar)",
+      "delta_kcal_per_unit": 5,
+      "new_total_kcal": 176
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a pint of blueberries?",
+      "a": "Approximately 171 kcal for a standard pint (300 g) of fresh blueberries."
+    },
+    {
+      "q": "Are blueberries low in calories?",
+      "a": "Yes, at 57 kcal per 100 g, they're a low-calorie fruit packed with antioxidants."
+    },
+    {
+      "q": "How much sugar is in a pint of blueberries?",
+      "a": "About 30 g of natural sugars, plus 7.2 g fiber to balance it."
+    },
+    {
+      "q": "Do frozen blueberries have the same calories as fresh?",
+      "a": "Yes, unsweetened frozen blueberries have nearly identical nutrition to fresh."
+    },
+    {
+      "q": "What's the carb count for a pint of blueberries?",
+      "a": "Around 43.5 g total carbs, mostly from natural fruit sugars."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in wings",
+  "title": "How Many Calories in Wings?",
+  "meta_description": "Discover how many calories in wings (chicken), including per-wing nutrition, protein, fat, carbs, and variations for baked or fried.",
+  "slug": "how-many-calories-in-wings",
+  "h1": "How Many Calories in Wings?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "wing",
+    "item": "chicken wing"
+  },
+  "assumptions": "Medium-sized chicken wing (~42g), with skin, roasted, no sauce or breading.",
+  "disclaimer": "Nutrition varies by size, preparation (baked/fried), brand, and added sauces. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 99,
+    "text": "One roasted chicken wing with skin provides ~99 kcal and ~8 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken wing",
+    "amount": 1,
+    "unit": "wing",
+    "nutrition": {
+      "calories_kcal": 99,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 8,
+      "fat_g": 7,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 40,
+      "sodium_mg": 50
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 99,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 8,
+    "fat_g": 7,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 40,
+    "sodium_mg": 50
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Remove skin (skinless roasted)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 69
+    },
+    {
+      "label": "Add buffalo sauce (1 tbsp per wing)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 119
+    },
+    {
+      "label": "Breaded and fried (vs. roasted)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 149
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one chicken wing?",
+      "a": "About 99 kcal for a medium roasted wing with skin."
+    },
+    {
+      "q": "Are chicken wings high in protein?",
+      "a": "Yes, ~8 g protein per wing, making them a good lean option when skinless."
+    },
+    {
+      "q": "How do fried wings compare to baked?",
+      "a": "Fried wings add ~50 kcal per wing due to oil absorption."
+    },
+    {
+      "q": "What about calories in buffalo wings?",
+      "a": "Sauce adds 20-50 kcal per wing; total ~120-150 kcal."
+    },
+    {
+      "q": "Do wings have carbs?",
+      "a": "Plain wings have 0 g carbs; breading or sauce increases this."
+    }
+  ]
+}

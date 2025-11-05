@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories is in miso soup",
+  "title": "How Many Calories Are in Miso Soup?",
+  "meta_description": "Learn how many calories is in miso soup per cup, including carbs, protein, sodium, and variations for your diet.",
+  "slug": "how-many-calories-is-in-miso-soup",
+  "h1": "How Many Calories Are in Miso Soup?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "miso soup"
+  },
+  "assumptions": "Standard serving (240 ml) of traditional miso soup with miso paste, dashi broth, tofu, wakame seaweed, and green onions; no added oil.",
+  "disclaimer": "Nutrition varies by miso type, brand, added ingredients, and portion size. Check labels or recipes for accuracy.",
+  "quick_answer": {
+    "total_kcal": 77,
+    "text": "One cup of miso soup contains about 77 calories, with 6 g protein and high sodium."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 77,
+      "carbs_g": 6,
+      "fiber_g": 1,
+      "sugars_g": 3,
+      "protein_g": 6,
+      "fat_g": 3,
+      "sat_fat_g": 0.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 5,
+      "sodium_mg": 1630
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 77,
+    "carbs_g": 6,
+    "fiber_g": 1,
+    "sugars_g": 3,
+    "protein_g": 6,
+    "fat_g": 3,
+    "sat_fat_g": 0.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 1630
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.32
+  },
+  "tweaks": [
+    {
+      "label": "Add extra firm tofu (1 oz per cup)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 102
+    },
+    {
+      "label": "Include udon noodles (50 g per cup)",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 147
+    },
+    {
+      "label": "Use low-sodium miso paste",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 77
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories is in one cup of miso soup?",
+      "a": "Approximately 77 calories for a standard serving."
+    },
+    {
+      "q": "Is miso soup high in sodium?",
+      "a": "Yes, about 1630 mg per cup due to miso paste; opt for low-sodium versions."
+    },
+    {
+      "q": "What are the macros in miso soup?",
+      "a": "Per cup: 6 g carbs, 6 g protein, 3 g fat, with 1 g fiber."
+    },
+    {
+      "q": "Does miso soup have cholesterol?",
+      "a": "Very low, around 5 mg per cup from any added ingredients."
+    },
+    {
+      "q": "How to reduce calories in miso soup?",
+      "a": "Skip tofu or noodles, use vegetable broth instead of dashi, or dilute with more water."
+    }
+  ]
+}

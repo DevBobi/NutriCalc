@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a boba drink",
+  "title": "How Many Calories in a Boba Drink?",
+  "meta_description": "Discover how many calories in a boba drink, including carbs from pearls and sugar, plus protein, fat, and variations for different sizes or types.",
+  "slug": "how-many-calories-in-a-boba-drink",
+  "h1": "How Many Calories in a Boba Drink?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "drink",
+    "item": "boba drink"
+  },
+  "assumptions": "Standard 16 oz serving of black milk tea with cooked tapioca pearls and moderate sugar; no extra toppings or flavors.",
+  "disclaimer": "Nutrition varies by shop, size, sweetness level, milk type, and pearl quantity. Check menus or apps for exact values.",
+  "quick_answer": {
+    "total_kcal": 400,
+    "text": "A typical 16 oz boba drink contains about 400 calories, mostly from sugar and tapioca pearls."
+  },
+  "basis": {
+    "label": "per 1 boba drink (16 oz)",
+    "amount": 1,
+    "unit": "drink",
+    "nutrition": {
+      "calories_kcal": 400,
+      "carbs_g": 85,
+      "fiber_g": 2,
+      "sugars_g": 70,
+      "protein_g": 3,
+      "fat_g": 6,
+      "sat_fat_g": 3,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 20,
+      "sodium_mg": 100
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 400,
+    "carbs_g": 85,
+    "fiber_g": 2,
+    "sugars_g": 70,
+    "protein_g": 3,
+    "fat_g": 6,
+    "sat_fat_g": 3,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 20,
+    "sodium_mg": 100
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.67
+  },
+  "tweaks": [
+    {
+      "label": "No tapioca pearls (bubble-less version)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Less sugar (half sweetness level)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 300
+    },
+    {
+      "label": "Use almond milk instead of dairy",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 360
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a boba drink without pearls?",
+      "a": "About 300 calories for a 16 oz milk tea without tapioca pearls."
+    },
+    {
+      "q": "Are boba drinks high in sugar?",
+      "a": "Yes, a standard boba drink has around 70 g of sugars, mostly added."
+    },
+    {
+      "q": "How many carbs in a boba drink?",
+      "a": "Approximately 85 g of carbs per 16 oz serving, from pearls and syrup."
+    },
+    {
+      "q": "Does the size affect calories in boba drinks?",
+      "a": "Yes—medium (16 oz) ~400 kcal; large (24 oz) can be 500-600 kcal."
+    },
+    {
+      "q": "What makes boba drinks fattening?",
+      "a": "High sugar content and full-fat milk; opt for low-sugar or non-dairy to reduce calories."
+    }
+  ]
+}

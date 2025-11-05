@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in soup tomato",
+  "title": "Calories in Tomato Soup",
+  "meta_description": "Discover calories in tomato soup per serving, including carbs, protein, fat, sodium details, and preparation tweaks for better nutrition.",
+  "slug": "calories-in-soup-tomato",
+  "h1": "Calories in Tomato Soup",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "tomato soup"
+  },
+  "assumptions": "Canned, ready-to-eat tomato soup (e.g., standard variety like Campbell's), 1 cup serving (245 g), prepared as directed, no added toppings.",
+  "disclaimer": "Nutrition varies by brand, recipe (canned vs. homemade), sodium level, and serving size. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 100,
+    "text": "One cup of tomato soup provides about 100 kcal, mostly from carbs."
+  },
+  "basis": {
+    "label": "per 1 cup (245 g)",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 100,
+      "carbs_g": 19,
+      "fiber_g": 2,
+      "sugars_g": 12,
+      "protein_g": 2,
+      "fat_g": 1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 900
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 100,
+    "carbs_g": 19,
+    "fiber_g": 2,
+    "sugars_g": 12,
+    "protein_g": 2,
+    "fat_g": 1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 900
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.42
+  },
+  "tweaks": [
+    {
+      "label": "Homemade with fresh tomatoes (less sugar)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 80
+    },
+    {
+      "label": "Add 1 tbsp cream per cup",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Low-sodium canned version",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 100
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one cup of tomato soup?",
+      "a": "Approximately 100 kcal for a standard canned serving."
+    },
+    {
+      "q": "Is tomato soup high in sodium?",
+      "a": "Yes, often around 900 mg per cup due to canning; opt for low-sodium options."
+    },
+    {
+      "q": "What are the carbs in tomato soup?",
+      "a": "About 19 g per cup, including 2 g fiber and 12 g sugars."
+    },
+    {
+      "q": "Calories in homemade tomato soup?",
+      "a": "Typically 80-120 kcal per cup, depending on ingredients like oil or cream."
+    },
+    {
+      "q": "Does tomato soup have protein or fat?",
+      "a": "Low in both: ~2 g protein and 1 g fat per cup."
+    }
+  ]
+}

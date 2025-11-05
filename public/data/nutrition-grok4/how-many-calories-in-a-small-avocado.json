@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a small avocado",
+  "title": "How Many Calories in a Small Avocado?",
+  "meta_description": "Learn how many calories in a small avocado, plus detailed nutrition facts like fats, fiber, carbs, protein, and easy tweaks for recipes.",
+  "slug": "how-many-calories-in-a-small-avocado",
+  "h1": "How Many Calories in a Small Avocado?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "small avocado",
+    "item": "avocado"
+  },
+  "assumptions": "Small Hass avocado (~100 g edible portion, pitted and peeled); raw, no added ingredients.",
+  "disclaimer": "Nutrition varies by variety, ripeness, growing conditions, and preparation; check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 160,
+    "text": "A small avocado provides ~160 kcal, mostly from healthy monounsaturated fats."
+  },
+  "basis": {
+    "label": "per 1 small avocado",
+    "amount": 1,
+    "unit": "small avocado",
+    "nutrition": {
+      "calories_kcal": 160,
+      "carbs_g": 8.5,
+      "fiber_g": 6.7,
+      "sugars_g": 0.7,
+      "protein_g": 2,
+      "fat_g": 14.7,
+      "sat_fat_g": 2.1,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 160,
+    "carbs_g": 8.5,
+    "fiber_g": 6.7,
+    "sugars_g": 0.7,
+    "protein_g": 2,
+    "fat_g": 14.7,
+    "sat_fat_g": 2.1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 7
+  },
+  "label_note": "Values align with Nutrition Facts labels for straightforward comparison.",
+  "equivalents": {
+    "megajoules": 0.67
+  },
+  "tweaks": [
+    {
+      "label": "Mashed with 1 tsp lime juice",
+      "delta_kcal_per_unit": 4,
+      "new_total_kcal": 164
+    },
+    {
+      "label": "Sliced on 1 slice whole wheat toast",
+      "delta_kcal_per_unit": 70,
+      "new_total_kcal": 230
+    },
+    {
+      "label": "Blended into guacamole with 1 tbsp onion and tomato",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 175
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in half a small avocado?",
+      "a": "About 80 kcal for half, with ~7.4 g fat and 3.4 g fiber."
+    },
+    {
+      "q": "Is a small avocado low carb?",
+      "a": "Yes, ~8.5 g net carbs after 6.7 g fiber, making it keto-friendly."
+    },
+    {
+      "q": "How much fat is in a small avocado?",
+      "a": "Approximately 14.7 g total fat, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "Does avocado have protein?",
+      "a": "A small one has ~2 g protein, not a significant source but adds to meals."
+    },
+    {
+      "q": "What size is a small avocado?",
+      "a": "Typically ~100 g edible portion; whole weight around 136 g including pit and skin."
+    }
+  ]
+}

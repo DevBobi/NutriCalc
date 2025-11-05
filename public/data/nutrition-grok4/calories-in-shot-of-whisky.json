@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in shot of whisky",
+  "title": "Calories in a Shot of Whisky",
+  "meta_description": "Discover calories in shot of whisky, including alcohol content, zero carbs or fat, and variations like double pours or mixers.",
+  "slug": "calories-in-shot-of-whisky",
+  "h1": "Calories in a Shot of Whisky",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "whisky"
+  },
+  "assumptions": "Standard 1.5 fl oz (44 ml) serving of 80-proof (40% ABV) straight whisky, no mixers or ice.",
+  "disclaimer": "Nutrition varies by brand, proof, serving size, and any added mixers. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 97,
+    "text": "A standard shot of whisky has about 97 calories, all from alcohol."
+  },
+  "basis": {
+    "label": "per 1 shot",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 97,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 97,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.41
+  },
+  "tweaks": [
+    {
+      "label": "Double shot (3 fl oz pour)",
+      "delta_kcal_per_unit": 97,
+      "new_total_kcal": 194
+    },
+    {
+      "label": "Add cola mixer (1.5 fl oz shot + 4 oz cola)",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 147
+    },
+    {
+      "label": "Higher proof (100-proof whisky)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 117
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a shot of whisky?",
+      "a": "Approximately 97 kcal for a standard 1.5 fl oz shot of 80-proof whisky."
+    },
+    {
+      "q": "Does whisky have carbs or sugar?",
+      "a": "Straight whisky has 0 g carbs, fiber, and sugars—all calories come from alcohol."
+    },
+    {
+      "q": "What about calories in whisky on the rocks?",
+      "a": "Same as straight (97 kcal); ice adds no calories but may dilute slightly when melting."
+    },
+    {
+      "q": "How does proof affect calories in a shot of whisky?",
+      "a": "Higher proof means more alcohol and calories—e.g., 100-proof adds ~20 kcal per shot."
+    },
+    {
+      "q": "Are there any nutrients besides calories in whisky?",
+      "a": "Minimal; 0 g protein, fat, cholesterol, or sodium in straight whisky."
+    }
+  ]
+}

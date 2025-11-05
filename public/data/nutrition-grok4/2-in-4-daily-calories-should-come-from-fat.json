@@ -1,0 +1,92 @@
+{
+  "keyword": "2 in 4 daily calories should come from fat",
+  "title": "Should 2 in 4 Daily Calories Come from Fat?",
+  "meta_description": "Learn if 2 in 4 daily calories should come from fat, recommended intake percentages for a balanced diet, health effects, and nutrition breakdown for a 2000 kcal day.",
+  "slug": "2-in-4-daily-calories-should-come-from-fat",
+  "h1": "Should 2 in 4 Daily Calories Come from Fat?",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 50,
+    "unit": "%",
+    "item": "daily calories from fat"
+  },
+  "assumptions": "Based on a standard 2000 kcal daily intake for adults; 2 in 4 interpreted as 50% from fat (9 kcal per gram of fat).",
+  "disclaimer": "Dietary recommendations vary by age, sex, activity, and health needs. Consult a doctor or dietitian for personalized guidance; values are estimates.",
+  "quick_answer": {
+    "total_kcal": 1000,
+    "text": "No, 50% (2 in 4) from fat exceeds guidelines; aim for 20-35% or 400-700 kcal from fat on a 2000 kcal diet for heart health."
+  },
+  "basis": {
+    "label": "per 50% of 2000 kcal daily intake from fat",
+    "amount": 1,
+    "unit": "day",
+    "nutrition": {
+      "calories_kcal": 1000,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 111,
+      "sat_fat_g": 22,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 1000,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 111,
+    "sat_fat_g": 22,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values represent the fat contribution only, scaled to mirror daily intake guidelines for comparison with total diet Nutrition Facts.",
+  "equivalents": {
+    "megajoules": 4.18
+  },
+  "tweaks": [
+    {
+      "label": "Reduce to recommended 20-35% (average 27.5%)",
+      "delta_kcal_per_unit": -450,
+      "new_total_kcal": 550
+    },
+    {
+      "label": "Emphasize unsaturated fats (e.g., from nuts, less saturated)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 1000
+    },
+    {
+      "label": "Increase to 60% for keto-style diet",
+      "delta_kcal_per_unit": 200,
+      "new_total_kcal": 1200
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "What percentage of daily calories should come from fat?",
+      "a": "Health guidelines recommend 20-35% from fat, not 50% (2 in 4)."
+    },
+    {
+      "q": "How many calories from fat on a 2000 kcal diet?",
+      "a": "About 400-700 kcal from fat, or 44-78 g, for balanced nutrition."
+    },
+    {
+      "q": "Is 2 in 4 daily calories from fat healthy?",
+      "a": "No, 50% is too high and may increase heart disease risk; stick to 20-35%."
+    },
+    {
+      "q": "What foods contribute to fat calories?",
+      "a": "Healthy sources include avocados, nuts, olive oil, and fatty fish; limit saturated fats from fried foods."
+    },
+    {
+      "q": "How does fat percentage affect weight loss?",
+      "a": "Moderate fat (20-35%) supports satiety; excessive like 50% can lead to calorie surplus if not managed."
+    }
+  ]
+}

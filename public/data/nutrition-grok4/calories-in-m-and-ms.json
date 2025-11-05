@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in m and ms",
+  "title": "Calories in M&Ms",
+  "meta_description": "Learn calories in m and ms with a standard 28g serving breakdown, including carbs, sugars, fat, protein, and full nutrition details for quick reference.",
+  "slug": "calories-in-m-and-ms",
+  "h1": "Calories in M&Ms",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 28,
+    "unit": "g",
+    "item": "M&Ms"
+  },
+  "assumptions": "Plain milk chocolate M&Ms; standard 1 oz (28g) serving; no additional toppings.",
+  "disclaimer": "Nutrition varies by variety (plain, peanut, etc.), brand, and serving size. Check packaging for exact values.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "A 28g serving of plain M&Ms provides about 140 calories and 17g of carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 500,
+      "carbs_g": 61,
+      "fiber_g": 4,
+      "sugars_g": 57,
+      "protein_g": 7,
+      "fat_g": 25,
+      "sat_fat_g": 14,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 18,
+      "sodium_mg": 71
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 17,
+    "fiber_g": 1,
+    "sugars_g": 16,
+    "protein_g": 2,
+    "fat_g": 7,
+    "sat_fat_g": 4,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 20
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Peanut M&Ms instead of plain",
+      "delta_kcal_per_unit": 60,
+      "new_total_kcal": 157
+    },
+    {
+      "label": "Dark chocolate M&Ms (less sugar)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 128
+    },
+    {
+      "label": "Add 10g to a trail mix portion",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 28g of M&Ms?",
+      "a": "About 140 calories for plain M&Ms."
+    },
+    {
+      "q": "What are the carbs in M&Ms?",
+      "a": "A 28g serving has 17g total carbs, including 16g sugars and 1g fiber."
+    },
+    {
+      "q": "Do M&Ms have protein?",
+      "a": "Yes, about 2g protein per 28g serving."
+    },
+    {
+      "q": "How much fat is in M&Ms?",
+      "a": "7g total fat per 28g, with 4g saturated fat."
+    },
+    {
+      "q": "Calories in peanut M&Ms vs plain?",
+      "a": "Peanut M&Ms have about 30-60 more calories per 100g due to added peanuts."
+    }
+  ]
+}

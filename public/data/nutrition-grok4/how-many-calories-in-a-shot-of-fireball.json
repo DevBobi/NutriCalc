@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a shot of fireball",
+  "title": "How Many Calories in a Shot of Fireball?",
+  "meta_description": "Discover how many calories in a shot of fireball, including carbs, sugars, alcohol content, and tips for mixing without adding too many calories.",
+  "slug": "how-many-calories-in-a-shot-of-fireball",
+  "h1": "How Many Calories in a Shot of Fireball?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "shot",
+    "item": "fireball"
+  },
+  "assumptions": "Standard 1.5 fl oz (44 ml) shot of Fireball Cinnamon Whisky, 33% ABV, served neat.",
+  "disclaimer": "Nutrition varies by exact pour size, brand variations, and mix-ins; alcohol content affects calorie density. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 108,
+    "text": "A standard shot of Fireball contains about 108 calories, primarily from alcohol and added sugars."
+  },
+  "basis": {
+    "label": "per 1 shot (1.5 fl oz)",
+    "amount": 1,
+    "unit": "shot",
+    "nutrition": {
+      "calories_kcal": 108,
+      "carbs_g": 11,
+      "fiber_g": 0,
+      "sugars_g": 11,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 108,
+    "carbs_g": 11,
+    "fiber_g": 0,
+    "sugars_g": 11,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.45
+  },
+  "tweaks": [
+    {
+      "label": "Mix with 4 oz diet soda (zero-calorie mixer)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 108
+    },
+    {
+      "label": "Add 1 oz cola as chaser",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 148
+    },
+    {
+      "label": "Smaller 1 oz pour",
+      "delta_kcal_per_unit": -36,
+      "new_total_kcal": 72
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a shot of fireball?",
+      "a": "Approximately 108 calories for a standard 1.5 oz shot."
+    },
+    {
+      "q": "Does fireball have carbs or sugar?",
+      "a": "Yes, about 11 g carbs and 11 g sugars per shot, from the cinnamon flavoring."
+    },
+    {
+      "q": "Is fireball keto-friendly?",
+      "a": "No, due to 11 g carbs per shot; opt for straight spirits without added sugars for keto."
+    },
+    {
+      "q": "How many calories from alcohol in fireball?",
+      "a": "Roughly 72 kcal from alcohol (33% ABV), with the rest from sugars."
+    },
+    {
+      "q": "What if I mix fireball with something?",
+      "a": "Mixers like soda add 0–100+ kcal depending on type; diet versions keep it at 108 kcal."
+    }
+  ]
+}

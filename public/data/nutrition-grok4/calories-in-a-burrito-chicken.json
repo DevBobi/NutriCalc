@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a burrito chicken",
+  "title": "Calories in a Chicken Burrito",
+  "meta_description": "Discover calories in a burrito chicken, including total macros, protein, fat, carbs, and variations for your meal planning.",
+  "slug": "calories-in-a-burrito-chicken",
+  "h1": "Calories in a Chicken Burrito",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burrito",
+    "item": "chicken burrito"
+  },
+  "assumptions": "Standard flour tortilla (10-inch), 4 oz grilled chicken, rice, black beans, cheese, salsa, no sour cream or guac.",
+  "disclaimer": "Nutrition varies by brand, size, ingredients, and preparation; fast-food versions may differ. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 620,
+    "text": "A standard chicken burrito has about 620 kcal and 32 g protein."
+  },
+  "basis": {
+    "label": "per 1 chicken burrito",
+    "amount": 1,
+    "unit": "burrito",
+    "nutrition": {
+      "calories_kcal": 620,
+      "carbs_g": 72,
+      "fiber_g": 6,
+      "sugars_g": 4,
+      "protein_g": 32,
+      "fat_g": 22,
+      "sat_fat_g": 8,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 65,
+      "sodium_mg": 1250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 620,
+    "carbs_g": 72,
+    "fiber_g": 6,
+    "sugars_g": 4,
+    "protein_g": 32,
+    "fat_g": 22,
+    "sat_fat_g": 8,
+    "trans_fat_g": 0.2,
+    "cholesterol_mg": 65,
+    "sodium_mg": 1250
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 2.59
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 oz sour cream",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 670
+    },
+    {
+      "label": "No rice, extra veggies",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 540
+    },
+    {
+      "label": "Use corn tortilla instead of flour",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 580
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a burrito chicken from Chipotle?",
+      "a": "Around 600-700 kcal depending on customizations; our estimate is 620 for a standard version."
+    },
+    {
+      "q": "What is the protein in a chicken burrito?",
+      "a": "Typically 30-35 g from the chicken and beans."
+    },
+    {
+      "q": "Are chicken burritos high in sodium?",
+      "a": "Yes, often 1000-1500 mg due to seasonings and cheese."
+    },
+    {
+      "q": "How to lower calories in a burrito chicken?",
+      "a": "Skip rice, cheese, and sour cream; opt for whole grains and more veggies."
+    },
+    {
+      "q": "Carbs in a chicken burrito?",
+      "a": "About 70 g mostly from the tortilla and rice."
+    }
+  ]
+}

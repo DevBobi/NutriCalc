@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in syrian bread",
+  "title": "How Many Calories in Syrian Bread?",
+  "meta_description": "Discover how many calories in Syrian bread per piece, including carbs, protein, fat, and full nutrition breakdown for easy tracking.",
+  "slug": "how-many-calories-in-syrian-bread",
+  "h1": "How Many Calories in Syrian Bread?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "piece",
+    "item": "Syrian bread"
+  },
+  "assumptions": "Standard Syrian flatbread (pita-style), about 60 g per piece, baked plain with no added fats or toppings.",
+  "disclaimer": "Nutrition varies by brand, recipe, size, flour type, and baking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 165,
+    "text": "One piece of Syrian bread contains about 165 kcal and 6 g protein."
+  },
+  "basis": {
+    "label": "per 1 piece",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 165,
+      "carbs_g": 33,
+      "fiber_g": 2,
+      "sugars_g": 1,
+      "protein_g": 6,
+      "fat_g": 1,
+      "sat_fat_g": 0.2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 300
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 165,
+    "carbs_g": 33,
+    "fiber_g": 2,
+    "sugars_g": 1,
+    "protein_g": 6,
+    "fat_g": 1,
+    "sat_fat_g": 0.2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 300
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.69
+  },
+  "tweaks": [
+    {
+      "label": "Whole wheat flour version",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 155
+    },
+    {
+      "label": "Brushed with 1 tsp olive oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 205
+    },
+    {
+      "label": "Smaller piece (40 g)",
+      "delta_kcal_per_unit": -55,
+      "new_total_kcal": 110
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one piece of Syrian bread?",
+      "a": "Approximately 165 kcal for a standard 60 g piece."
+    },
+    {
+      "q": "What are the carbs in Syrian bread?",
+      "a": "About 33 g carbs per piece, including 2 g fiber."
+    },
+    {
+      "q": "Is Syrian bread high in protein?",
+      "a": "It provides 6 g protein per piece, moderate for a bread serving."
+    },
+    {
+      "q": "How does Syrian bread compare to regular pita?",
+      "a": "Similar nutrition; Syrian bread is often slightly denser but around 165 kcal per piece."
+    },
+    {
+      "q": "Does baking method affect calories in Syrian bread?",
+      "a": "Yes—fried versions add fat and calories; baked plain is lowest at ~165 kcal."
+    }
+  ]
+}

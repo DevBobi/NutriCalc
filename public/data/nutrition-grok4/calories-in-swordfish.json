@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in swordfish",
+  "title": "Calories in Swordfish",
+  "meta_description": "Discover calories in swordfish per 100 g serving, including protein, fat, carbs, and full nutrition breakdown for easy tracking.",
+  "slug": "calories-in-swordfish",
+  "h1": "Calories in Swordfish",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "swordfish"
+  },
+  "assumptions": "Cooked swordfish steak, dry heat (broiled), no added oil or seasonings; skinless.",
+  "disclaimer": "Nutrition varies by fish size, freshness, cooking method, and source; mercury levels can be high—check advisories. Consult labels or databases for precision.",
+  "quick_answer": {
+    "total_kcal": 211,
+    "text": "100 g of cooked swordfish provides ~211 kcal and ~23 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 211,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 23.5,
+      "fat_g": 12.2,
+      "sat_fat_g": 2.9,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 60,
+      "sodium_mg": 97
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 211,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 23.5,
+    "fat_g": 12.2,
+    "sat_fat_g": 2.9,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 60,
+    "sodium_mg": 97
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaged seafood.",
+  "equivalents": {
+    "megajoules": 0.88
+  },
+  "tweaks": [
+    {
+      "label": "Grilled with 1 tsp olive oil per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 251
+    },
+    {
+      "label": "Raw swordfish (uncooked)",
+      "delta_kcal_per_unit": -39,
+      "new_total_kcal": 172
+    },
+    {
+      "label": "Baked with lemon and herbs (no added fat)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 211
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100 g swordfish?",
+      "a": "About 211 kcal for cooked swordfish per 100 g."
+    },
+    {
+      "q": "Is swordfish high in protein?",
+      "a": "Yes, ~23.5 g protein per 100 g, making it a lean seafood option."
+    },
+    {
+      "q": "What about fat content in swordfish calories?",
+      "a": "Around 12.2 g total fat per 100 g, mostly healthy omega-3s."
+    },
+    {
+      "q": "Does cooking method affect swordfish calories?",
+      "a": "Dry heat like broiling keeps it at ~211 kcal/100 g; frying or oil adds more."
+    },
+    {
+      "q": "Are there carbs in swordfish?",
+      "a": "No carbs, fiber, or sugars—it's a zero-carb protein source."
+    }
+  ]
+}

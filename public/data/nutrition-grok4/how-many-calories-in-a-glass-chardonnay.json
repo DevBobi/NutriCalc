@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a glass chardonnay",
+  "title": "How Many Calories in a Glass of Chardonnay?",
+  "meta_description": "Discover how many calories in a glass chardonnay, including carbs, alcohol content, and variations for different styles or pour sizes.",
+  "slug": "how-many-calories-in-a-glass-chardonnay",
+  "h1": "How Many Calories in a Glass of Chardonnay?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "glass",
+    "item": "chardonnay"
+  },
+  "assumptions": "Standard 5 oz (150 ml) pour of dry Chardonnay wine, ~13% ABV, no added sweeteners.",
+  "disclaimer": "Nutrition varies by brand, vintage, sweetness level, ABV, and serving size. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 123,
+    "text": "A standard glass of dry Chardonnay contains about 123 calories, mostly from alcohol."
+  },
+  "basis": {
+    "label": "per 1 glass (150 ml)",
+    "amount": 1,
+    "unit": "glass",
+    "nutrition": {
+      "calories_kcal": 123,
+      "carbs_g": 3.8,
+      "fiber_g": 0,
+      "sugars_g": 1.5,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 123,
+    "carbs_g": 3.8,
+    "fiber_g": 0,
+    "sugars_g": 1.5,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.51
+  },
+  "tweaks": [
+    {
+      "label": "Sweeter Chardonnay (higher residual sugar)",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 143
+    },
+    {
+      "label": "Smaller 4 oz pour",
+      "delta_kcal_per_unit": -41,
+      "new_total_kcal": 82
+    },
+    {
+      "label": "Oaked Chardonnay (slight flavor addition, no calorie change)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 123
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a glass of Chardonnay wine?",
+      "a": "About 123 calories for a standard 150 ml glass of dry Chardonnay."
+    },
+    {
+      "q": "Does Chardonnay have carbs?",
+      "a": "Yes, around 3.8 g per glass, mostly from residual sugars and alcohol."
+    },
+    {
+      "q": "How does sweetness affect calories in Chardonnay?",
+      "a": "Sweeter varieties add 15-30 calories per glass due to higher sugar content."
+    },
+    {
+      "q": "What is the alcohol content in a glass of Chardonnay?",
+      "a": "Typically 12-14% ABV, contributing most of the calories (about 100 kcal from alcohol alone)."
+    },
+    {
+      "q": "Are there low-calorie Chardonnay options?",
+      "a": "Dry, low-ABV versions can be under 100 kcal per glass; check for 'light' or brut styles."
+    }
+  ]
+}

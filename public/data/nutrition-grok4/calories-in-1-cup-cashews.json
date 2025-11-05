@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 1 cup cashews",
+  "title": "Calories in 1 Cup Cashews",
+  "meta_description": "Discover calories in 1 cup cashews, including protein, fats, carbs, full nutrition breakdown, and preparation tweaks for better tracking.",
+  "slug": "calories-in-1-cup-cashews",
+  "h1": "Calories in 1 Cup Cashews",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "cup",
+    "item": "cashews"
+  },
+  "assumptions": "Dry roasted, unsalted cashews; approximately 150 g per cup; whole kernels.",
+  "disclaimer": "Nutrition varies by brand, roast type, size, and added ingredients like oil or salt. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 827,
+    "text": "One cup of dry roasted cashews offers about 827 kcal and 27 g protein."
+  },
+  "basis": {
+    "label": "per 1 cup",
+    "amount": 1,
+    "unit": "cup",
+    "nutrition": {
+      "calories_kcal": 827,
+      "carbs_g": 45,
+      "fiber_g": 5,
+      "sugars_g": 9,
+      "protein_g": 27,
+      "fat_g": 66,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 18
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 827,
+    "carbs_g": 45,
+    "fiber_g": 5,
+    "sugars_g": 9,
+    "protein_g": 27,
+    "fat_g": 66,
+    "sat_fat_g": 12,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 18
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 3.46
+  },
+  "tweaks": [
+    {
+      "label": "Raw cashews (unroasted)",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 797
+    },
+    {
+      "label": "Roasted with 1 tsp added oil",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 867
+    },
+    {
+      "label": "Salted cashews (lightly salted)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 827
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 cup cashews?",
+      "a": "Approximately 827 kcal for 1 cup dry roasted, unsalted cashews."
+    },
+    {
+      "q": "What's the protein in a cup of cashews?",
+      "a": "About 27 g protein per cup."
+    },
+    {
+      "q": "Are cashews high in fat?",
+      "a": "Yes, around 66 g total fat per cup, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "Do cashews have carbs or fiber?",
+      "a": "45 g carbs and 5 g fiber per cup; sugars are about 9 g."
+    },
+    {
+      "q": "How does roasting affect calories in cashews?",
+      "a": "Dry roasted adds minimal calories; oil-roasted can increase by 40+ kcal per cup."
+    }
+  ]
+}

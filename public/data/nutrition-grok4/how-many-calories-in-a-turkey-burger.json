@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a turkey burger",
+  "title": "How Many Calories in a Turkey Burger?",
+  "meta_description": "Discover how many calories in a turkey burger, including protein, carbs, fat, full nutrition breakdown, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-a-turkey-burger",
+  "h1": "How Many Calories in a Turkey Burger?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "burger",
+    "item": "turkey burger"
+  },
+  "assumptions": "4 oz ground turkey patty (93% lean), grilled, on a whole wheat bun with lettuce, tomato, and mustard; no cheese or mayo.",
+  "disclaimer": "Nutrition varies by turkey type, patty size, bun brand, toppings, and cooking method. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 320,
+    "text": "A standard turkey burger provides ~320 kcal and ~28 g protein."
+  },
+  "basis": {
+    "label": "per 1 turkey burger",
+    "amount": 1,
+    "unit": "burger",
+    "nutrition": {
+      "calories_kcal": 320,
+      "carbs_g": 28,
+      "fiber_g": 4,
+      "sugars_g": 4,
+      "protein_g": 28,
+      "fat_g": 14,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 80,
+      "sodium_mg": 520
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 320,
+    "carbs_g": 28,
+    "fiber_g": 4,
+    "sugars_g": 4,
+    "protein_g": 28,
+    "fat_g": 14,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 80,
+    "sodium_mg": 520
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 1.34
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 slice cheddar cheese",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 400
+    },
+    {
+      "label": "Omit the bun (patty only)",
+      "delta_kcal_per_unit": -140,
+      "new_total_kcal": 180
+    },
+    {
+      "label": "Use 85% lean turkey (more fat)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 360
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a turkey burger patty alone?",
+      "a": "About 180 kcal for a 4 oz grilled 93% lean patty."
+    },
+    {
+      "q": "Is a turkey burger lower in calories than beef?",
+      "a": "Yes, typically 20-30% fewer calories if lean turkey is used."
+    },
+    {
+      "q": "What are the macros for a turkey burger?",
+      "a": "≈28 g protein, 14 g fat, 28 g carbs (including bun)."
+    },
+    {
+      "q": "Does adding mayo increase calories much?",
+      "a": "Yes, 1 tbsp mayo adds ~90 kcal; opt for mustard or avocado for lighter options."
+    },
+    {
+      "q": "How does baking vs. grilling affect calories?",
+      "a": "Baking may add fewer calories if no oil is used; grilling is similar under assumptions."
+    }
+  ]
+}

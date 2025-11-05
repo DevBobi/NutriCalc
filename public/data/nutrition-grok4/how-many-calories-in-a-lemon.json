@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a lemon",
+  "title": "How Many Calories in a Lemon?",
+  "meta_description": "Discover how many calories in a lemon, including carbs, fiber, protein, fat, and full nutrition breakdown per medium fruit.",
+  "slug": "how-many-calories-in-a-lemon",
+  "h1": "How Many Calories in a Lemon?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "lemon",
+    "item": "lemon"
+  },
+  "assumptions": "Medium-sized raw lemon (~58 g), including peel, pulp, and seeds; no added ingredients.",
+  "disclaimer": "Nutrition varies by lemon size, variety, ripeness, and whether peel is included; check sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 17,
+    "text": "A medium lemon provides about 17 kcal, mostly from carbs with 1.6 g fiber."
+  },
+  "basis": {
+    "label": "per 1 medium lemon",
+    "amount": 1,
+    "unit": "lemon",
+    "nutrition": {
+      "calories_kcal": 17,
+      "carbs_g": 5.4,
+      "fiber_g": 1.6,
+      "sugars_g": 1.6,
+      "protein_g": 0.6,
+      "fat_g": 0.2,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 1
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 17,
+    "carbs_g": 5.4,
+    "fiber_g": 1.6,
+    "sugars_g": 1.6,
+    "protein_g": 0.6,
+    "fat_g": 0.2,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 1
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.07
+  },
+  "tweaks": [
+    {
+      "label": "Juice only (remove peel and pulp)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 12
+    },
+    {
+      "label": "Add 1 tsp sugar to lemon juice",
+      "delta_kcal_per_unit": 16,
+      "new_total_kcal": 33
+    },
+    {
+      "label": "Large lemon (vs. medium)",
+      "delta_kcal_per_unit": 8,
+      "new_total_kcal": 25
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in lemon juice from one lemon?",
+      "a": "About 12 kcal for juice from a medium lemon."
+    },
+    {
+      "q": "Are lemons high in carbs?",
+      "a": "No, a medium lemon has 5.4 g carbs, mostly fiber with low net carbs."
+    },
+    {
+      "q": "Does lemon peel add calories?",
+      "a": "Peel contributes minimal calories but adds fiber; whole lemon is ~17 kcal."
+    },
+    {
+      "q": "How much vitamin C in a lemon?",
+      "a": "A medium lemon provides ~31 mg vitamin C, about 53% of daily needs (not in nutrition facts but related)."
+    },
+    {
+      "q": "Is a lemon calorie-free for diets?",
+      "a": "Nearly—17 kcal per lemon makes it very low-calorie, ideal for weight management."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in chicken thigh with skin",
+  "title": "Calories in Chicken Thigh with Skin",
+  "meta_description": "Learn calories in chicken thigh with skin per 100g, including protein, fat, carbs, and full nutrition details for easy tracking.",
+  "slug": "calories-in-chicken-thigh-with-skin",
+  "h1": "Calories in Chicken Thigh with Skin",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 100,
+    "unit": "g",
+    "item": "chicken thigh with skin"
+  },
+  "assumptions": "Cooked (roasted), bone-in but edible meat and skin portion, no added oils or seasonings.",
+  "disclaimer": "Nutrition varies by cooking method, portion size, brand, and added ingredients. Check labels or sources for precision.",
+  "quick_answer": {
+    "total_kcal": 229,
+    "text": "100g of roasted chicken thigh with skin provides ~229 kcal and ~23g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 229,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 23.3,
+      "fat_g": 15.5,
+      "sat_fat_g": 4.3,
+      "trans_fat_g": 0.1,
+      "cholesterol_mg": 95,
+      "sodium_mg": 84
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 229,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 23.3,
+    "fat_g": 15.5,
+    "sat_fat_g": 4.3,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 95,
+    "sodium_mg": 84
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.96
+  },
+  "tweaks": [
+    {
+      "label": "Skinless version (remove skin)",
+      "delta_kcal_per_unit": -109,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Fried in oil (adds ~1 tsp oil per 100g)",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 269
+    },
+    {
+      "label": "With BBQ sauce (1 tbsp per 100g)",
+      "delta_kcal_per_unit": 35,
+      "new_total_kcal": 264
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 100g chicken thigh with skin?",
+      "a": "Approximately 229 kcal for roasted chicken thigh with skin."
+    },
+    {
+      "q": "What's the protein in chicken thigh with skin?",
+      "a": "About 23.3g protein per 100g."
+    },
+    {
+      "q": "Does skin add a lot of fat to chicken thigh?",
+      "a": "Yes, skin contributes ~15.5g total fat per 100g, including 4.3g saturated."
+    },
+    {
+      "q": "Are carbs in chicken thigh with skin?",
+      "a": "No carbs, fiber, or sugars in plain roasted chicken thigh with skin."
+    },
+    {
+      "q": "How does cooking method affect calories in chicken thigh with skin?",
+      "a": "Roasting is lower calorie; frying or breading can add 40+ kcal per 100g."
+    }
+  ]
+}

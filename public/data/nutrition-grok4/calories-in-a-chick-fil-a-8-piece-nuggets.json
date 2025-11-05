@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a chick fil a 8 piece nuggets",
+  "title": "Calories in Chick-fil-A 8-Piece Nuggets",
+  "meta_description": "Learn the calories in a chick fil a 8 piece nuggets: 130 kcal total for grilled, plus protein, fat, carbs, sodium, and variations for your meal planning.",
+  "slug": "calories-in-a-chick-fil-a-8-piece-nuggets",
+  "h1": "Calories in Chick-fil-A 8-Piece Nuggets",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 8,
+    "unit": "piece",
+    "item": "Chick-fil-A nugget"
+  },
+  "assumptions": "Grilled chicken nuggets; standard Chick-fil-A recipe, boneless, no added sauces or sides.",
+  "disclaimer": "Nutrition varies by location, preparation, and customizations; values based on official Chick-fil-A data. Check app or menu for latest.",
+  "quick_answer": {
+    "total_kcal": 130,
+    "text": "Chick-fil-A 8-piece grilled nuggets provide 130 kcal and 25 g protein."
+  },
+  "basis": {
+    "label": "per 1 grilled nugget",
+    "amount": 1,
+    "unit": "piece",
+    "nutrition": {
+      "calories_kcal": 16.25,
+      "carbs_g": 0.125,
+      "fiber_g": 0,
+      "sugars_g": 0.125,
+      "protein_g": 3.125,
+      "fat_g": 0.375,
+      "sat_fat_g": 0.125,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 8.125,
+      "sodium_mg": 55
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 130,
+    "carbs_g": 1,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 25,
+    "fat_g": 3,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 65,
+    "sodium_mg": 440
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.54
+  },
+  "tweaks": [
+    {
+      "label": "Fried nuggets instead of grilled",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Add 1 packet Chick-fil-A sauce",
+      "delta_kcal_per_unit": 140,
+      "new_total_kcal": 270
+    },
+    {
+      "label": "With Polynesian sauce packet",
+      "delta_kcal_per_unit": 110,
+      "new_total_kcal": 240
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Chick-fil-A 8-piece nuggets?",
+      "a": "130 kcal for grilled; 250 kcal for fried version."
+    },
+    {
+      "q": "What's the protein in Chick-fil-A 8-piece grilled nuggets?",
+      "a": "25 g protein, making it a high-protein fast food option."
+    },
+    {
+      "q": "Are Chick-fil-A nuggets low carb?",
+      "a": "Yes, only 1 g total carbs in 8-piece grilled nuggets."
+    },
+    {
+      "q": "How much sodium in 8-piece Chick-fil-A nuggets?",
+      "a": "440 mg, so watch if on a low-sodium diet."
+    },
+    {
+      "q": "Do Chick-fil-A nuggets have trans fat?",
+      "a": "0 g trans fat in both grilled and fried 8-piece servings."
+    }
+  ]
+}

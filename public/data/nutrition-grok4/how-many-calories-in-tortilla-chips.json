@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in tortilla chips",
+  "title": "How Many Calories in Tortilla Chips?",
+  "meta_description": "Discover how many calories in tortilla chips for a standard 28g serving, including carbs, fat, protein, sodium, and easy tweaks for variations.",
+  "slug": "how-many-calories-in-tortilla-chips",
+  "h1": "How Many Calories in Tortilla Chips?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 28,
+    "unit": "g",
+    "item": "tortilla chips"
+  },
+  "assumptions": "Plain corn tortilla chips, fried, standard commercial variety, about 10-12 chips per 28g serving.",
+  "disclaimer": "Nutrition varies by brand, frying method, flavorings, and serving size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 140,
+    "text": "A 28g serving of tortilla chips contains about 140 kcal, mostly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 500,
+      "carbs_g": 64,
+      "fiber_g": 5,
+      "sugars_g": 0.5,
+      "protein_g": 7,
+      "fat_g": 25,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 600
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 140,
+    "carbs_g": 17.9,
+    "fiber_g": 1.4,
+    "sugars_g": 0.1,
+    "protein_g": 2,
+    "fat_g": 7,
+    "sat_fat_g": 1,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 168
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.59
+  },
+  "tweaks": [
+    {
+      "label": "Baked tortilla chips (less oil used)",
+      "delta_kcal_per_unit": -100,
+      "new_total_kcal": 112
+    },
+    {
+      "label": "Add 1 tbsp salsa per 28g serving",
+      "delta_kcal_per_unit": 10,
+      "new_total_kcal": 150
+    },
+    {
+      "label": "Flavored variety (e.g., with cheese seasoning) per 100 g",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 146
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a serving of tortilla chips?",
+      "a": "About 140 kcal in a 28g serving (roughly 10-12 chips)."
+    },
+    {
+      "q": "Are tortilla chips high in carbs?",
+      "a": "Yes, around 18g carbs per 28g serving, with 1.4g fiber."
+    },
+    {
+      "q": "How much fat is in tortilla chips?",
+      "a": "Approximately 7g total fat per 28g serving, including 1g saturated fat."
+    },
+    {
+      "q": "Do tortilla chips have protein?",
+      "a": "A modest 2g protein per 28g serving."
+    },
+    {
+      "q": "What's the sodium content in tortilla chips?",
+      "a": "About 168mg sodium per 28g serving; varies by brand and flavor."
+    }
+  ]
+}

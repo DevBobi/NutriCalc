@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in kit kat miniatures",
+  "title": "Calories in Kit Kat Miniatures",
+  "meta_description": "Learn calories in kit kat miniatures per piece, with full nutrition facts including carbs, fat, protein, sugars, and serving variations for better tracking.",
+  "slug": "calories-in-kit-kat-miniatures",
+  "h1": "Calories in Kit Kat Miniatures",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "miniature",
+    "item": "kit kat"
+  },
+  "assumptions": "Standard 15 g milk chocolate Kit Kat miniature bar with crispy wafer filling; Nestlé formulation.",
+  "disclaimer": "Nutrition varies by brand, size, recipe changes, and regional differences. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 79,
+    "text": "One Kit Kat miniature provides about 79 calories, mainly from carbs and fat."
+  },
+  "basis": {
+    "label": "per 1 Kit Kat miniature (15 g)",
+    "amount": 1,
+    "unit": "miniature",
+    "nutrition": {
+      "calories_kcal": 79,
+      "carbs_g": 8.9,
+      "fiber_g": 0.3,
+      "sugars_g": 7.2,
+      "protein_g": 1.1,
+      "fat_g": 4.7,
+      "sat_fat_g": 2.6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 3,
+      "sodium_mg": 8
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 79,
+    "carbs_g": 8.9,
+    "fiber_g": 0.3,
+    "sugars_g": 7.2,
+    "protein_g": 1.1,
+    "fat_g": 4.7,
+    "sat_fat_g": 2.6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 3,
+    "sodium_mg": 8
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Dark chocolate version (less sugar)",
+      "delta_kcal_per_unit": -8,
+      "new_total_kcal": 71
+    },
+    {
+      "label": "White chocolate variation (higher fat)",
+      "delta_kcal_per_unit": 12,
+      "new_total_kcal": 91
+    },
+    {
+      "label": "Sugar-free alternative",
+      "delta_kcal_per_unit": -25,
+      "new_total_kcal": 54
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one Kit Kat miniature?",
+      "a": "Approximately 79 kcal per 15 g miniature."
+    },
+    {
+      "q": "What are the carbs in Kit Kat miniatures?",
+      "a": "About 8.9 g carbs per miniature, including 7.2 g sugars."
+    },
+    {
+      "q": "How much fat is in Kit Kat miniatures?",
+      "a": "Roughly 4.7 g total fat, with 2.6 g saturated fat per piece."
+    },
+    {
+      "q": "Do Kit Kat miniatures have protein?",
+      "a": "Yes, about 1.1 g protein per miniature from the wafer and chocolate."
+    },
+    {
+      "q": "Calories in Kit Kat miniatures per 100 g?",
+      "a": "Around 525 kcal per 100 g, scaling up from per-piece values."
+    }
+  ]
+}

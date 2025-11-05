@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in 8 oz sirloin steak",
+  "title": "Calories in 8 oz Sirloin Steak",
+  "meta_description": "Discover calories in 8 oz sirloin steak, including protein, fat, carbs, full nutrition breakdown per 100 g basis, and preparation tweaks for better tracking.",
+  "slug": "calories-in-8-oz-sirloin-steak",
+  "h1": "Calories in 8 oz Sirloin Steak",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 8,
+    "unit": "oz",
+    "item": "sirloin steak"
+  },
+  "assumptions": "Top sirloin steak, lean only, trimmed of visible fat, broiled or grilled, no added oil, salt, or marinades; 8 oz = 227 g.",
+  "disclaimer": "Nutrition varies by cut, fat content, cooking method, and source; values are averages. Check labels or use a tracker for precision.",
+  "quick_answer": {
+    "total_kcal": 468,
+    "text": "8 oz cooked sirloin steak provides ~468 kcal and ~70 g protein."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 206,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 31,
+      "fat_g": 8.5,
+      "sat_fat_g": 3.3,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 89,
+      "sodium_mg": 58
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 468,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 70,
+    "fat_g": 19,
+    "sat_fat_g": 7.5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 202,
+    "sodium_mg": 132
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.96
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp olive oil for cooking per 100 g",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 548
+    },
+    {
+      "label": "Include visible fat (untrimmed) per 100 g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 593
+    },
+    {
+      "label": "Pan-seared with 1 tbsp butter per steak",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 568
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 8 oz sirloin steak?",
+      "a": "Approximately 468 kcal for lean, cooked sirloin steak."
+    },
+    {
+      "q": "What's the protein in 8 oz sirloin steak?",
+      "a": "About 70 g of high-quality protein."
+    },
+    {
+      "q": "Does sirloin steak have carbs?",
+      "a": "No carbs, fiber, or sugars in plain cooked sirloin steak."
+    },
+    {
+      "q": "How does cooking method affect calories in sirloin steak?",
+      "a": "Grilling or broiling keeps it lower; frying or adding fats increases by 40–100 kcal per serving."
+    },
+    {
+      "q": "Is 8 oz sirloin steak per 100 g basis accurate?",
+      "a": "Yes, scaled from 206 kcal per 100 g for lean cuts; adjust for fat content."
+    }
+  ]
+}

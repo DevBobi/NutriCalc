@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in pimento cheese",
+  "title": "Calories in Pimento Cheese",
+  "meta_description": "Discover calories in pimento cheese per serving, including fat, protein, carbs, sodium, and variations for your diet tracking.",
+  "slug": "calories-in-pimento-cheese",
+  "h1": "Calories in Pimento Cheese",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 28,
+    "unit": "g",
+    "item": "pimento cheese"
+  },
+  "assumptions": "Standard pimento cheese spread made with sharp cheddar, mayonnaise, diced pimentos, and basic seasonings; per 1 oz (2 tbsp) serving.",
+  "disclaimer": "Nutrition varies by brand, recipe, cheese type, and mayonnaise used. Check labels for exact values when available.",
+  "quick_answer": {
+    "total_kcal": 109,
+    "text": "28 g of pimento cheese contains about 109 kcal, primarily from fat."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 390,
+      "carbs_g": 3.6,
+      "fiber_g": 0.5,
+      "sugars_g": 1.8,
+      "protein_g": 11,
+      "fat_g": 36,
+      "sat_fat_g": 12,
+      "trans_fat_g": 0.2,
+      "cholesterol_mg": 143,
+      "sodium_mg": 714
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 109,
+    "carbs_g": 1,
+    "fiber_g": 0.1,
+    "sugars_g": 0.5,
+    "protein_g": 3.1,
+    "fat_g": 10.1,
+    "sat_fat_g": 3.4,
+    "trans_fat_g": 0.1,
+    "cholesterol_mg": 40,
+    "sodium_mg": 200
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.46
+  },
+  "tweaks": [
+    {
+      "label": "Low-fat version (use light mayo and reduced-fat cheese)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 29
+    },
+    {
+      "label": "Add 1 tbsp chopped pecans per 28 g",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 159
+    },
+    {
+      "label": "Homemade with Greek yogurt instead of mayo",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 69
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in 1 oz of pimento cheese?",
+      "a": "About 109 kcal for 28 g of standard pimento cheese."
+    },
+    {
+      "q": "Is pimento cheese high in fat?",
+      "a": "Yes, around 36 g fat per 100 g, mostly from cheese and mayo."
+    },
+    {
+      "q": "What's the protein in pimento cheese?",
+      "a": "Approximately 11 g protein per 100 g, from the cheddar cheese."
+    },
+    {
+      "q": "Does pimento cheese have a lot of sodium?",
+      "a": "Yes, about 714 mg per 100 g due to cheese and seasonings."
+    },
+    {
+      "q": "How do calories change with different recipes?",
+      "a": "Low-fat versions can drop to 100 kcal per 100 g; added ingredients like nuts increase them."
+    }
+  ]
+}

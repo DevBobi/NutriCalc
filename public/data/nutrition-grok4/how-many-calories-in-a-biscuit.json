@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a biscuit",
+  "title": "How Many Calories Are in a Biscuit?",
+  "meta_description": "Discover how many calories in a biscuit, including carbs, fat, protein, and full nutrition breakdown per serving with easy tweaks.",
+  "slug": "how-many-calories-in-a-biscuit",
+  "h1": "How Many Calories Are in a Biscuit?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "biscuit",
+    "item": "biscuit"
+  },
+  "assumptions": "Standard American-style buttermilk biscuit, homemade or bakery-fresh, plain (no added toppings), about 60 g each.",
+  "disclaimer": "Nutrition varies by recipe, brand, size, and preparation method (e.g., butter vs. shortening). Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 200,
+    "text": "One plain biscuit has about 200 kcal, with 25 g carbs and 10 g fat."
+  },
+  "basis": {
+    "label": "per 1 biscuit",
+    "amount": 1,
+    "unit": "biscuit",
+    "nutrition": {
+      "calories_kcal": 200,
+      "carbs_g": 25,
+      "fiber_g": 1,
+      "sugars_g": 2,
+      "protein_g": 4,
+      "fat_g": 10,
+      "sat_fat_g": 6,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 25,
+      "sodium_mg": 400
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 200,
+    "carbs_g": 25,
+    "fiber_g": 1,
+    "sugars_g": 2,
+    "protein_g": 4,
+    "fat_g": 10,
+    "sat_fat_g": 6,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 400
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.84
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 pat of butter (5 g)",
+      "delta_kcal_per_unit": 36,
+      "new_total_kcal": 236
+    },
+    {
+      "label": "With 1 tbsp jam topping",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 250
+    },
+    {
+      "label": "Vegan version (oil instead of butter)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 180
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a plain biscuit?",
+      "a": "Approximately 200 kcal for one standard 60 g buttermilk biscuit."
+    },
+    {
+      "q": "What are the macros in a biscuit?",
+      "a": "About 25 g carbs, 10 g fat, 4 g protein, and 1 g fiber per biscuit."
+    },
+    {
+      "q": "Are biscuits high in sodium?",
+      "a": "Yes, around 400 mg sodium per biscuit due to baking powder and salt."
+    },
+    {
+      "q": "How do calories change with toppings?",
+      "a": "Adding butter or jam can increase calories by 30–50 kcal per serving."
+    },
+    {
+      "q": "What's the difference between American and British biscuits?",
+      "a": "American biscuits are savory scones (~200 kcal); British are sweet cookies (~50 kcal each)."
+    }
+  ]
+}

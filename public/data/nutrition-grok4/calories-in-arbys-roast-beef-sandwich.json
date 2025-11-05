@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in arbys roast beef sandwich",
+  "title": "Calories in Arby's Roast Beef Sandwich",
+  "meta_description": "Discover calories in Arby's roast beef sandwich, including full nutrition breakdown, macros, and variations for the classic fast-food item.",
+  "slug": "calories-in-arbys-roast-beef-sandwich",
+  "h1": "Calories in Arby's Roast Beef Sandwich",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "sandwich",
+    "item": "Arby's roast beef sandwich"
+  },
+  "assumptions": "Classic Roast Beef sandwich from Arby's menu; includes roast beef, sesame seed bun, red ranch sauce; standard portion (~190 g).",
+  "disclaimer": "Nutrition varies by location, customizations, portion size, and recipe changes. Check Arby's app or website for latest info.",
+  "quick_answer": {
+    "total_kcal": 360,
+    "text": "One Arby's Classic Roast Beef sandwich has about 360 kcal and 23 g protein."
+  },
+  "basis": {
+    "label": "per 1 sandwich",
+    "amount": 1,
+    "unit": "sandwich",
+    "nutrition": {
+      "calories_kcal": 360,
+      "carbs_g": 41,
+      "fiber_g": 2,
+      "sugars_g": 6,
+      "protein_g": 23,
+      "fat_g": 15,
+      "sat_fat_g": 5,
+      "trans_fat_g": 0.5,
+      "cholesterol_mg": 50,
+      "sodium_mg": 810
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 360,
+    "carbs_g": 41,
+    "fiber_g": 2,
+    "sugars_g": 6,
+    "protein_g": 23,
+    "fat_g": 15,
+    "sat_fat_g": 5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 50,
+    "sodium_mg": 810
+  },
+  "label_note": "Values mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.51
+  },
+  "tweaks": [
+    {
+      "label": "Add Swiss cheese",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 440
+    },
+    {
+      "label": "No red ranch sauce",
+      "delta_kcal_per_unit": -40,
+      "new_total_kcal": 320
+    },
+    {
+      "label": "Upgrade to deluxe with lettuce, tomato, onion",
+      "delta_kcal_per_unit": 20,
+      "new_total_kcal": 380
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in Arby's roast beef sandwich?",
+      "a": "Approximately 360 kcal for the classic version."
+    },
+    {
+      "q": "What's the protein in Arby's roast beef sandwich?",
+      "a": "About 23 g of protein per sandwich."
+    },
+    {
+      "q": "Are there carbs in Arby's roast beef sandwich?",
+      "a": "Yes, around 41 g total carbs, including 2 g fiber."
+    },
+    {
+      "q": "How much sodium is in Arby's roast beef sandwich?",
+      "a": "Roughly 810 mg, mostly from the sauce and beef."
+    },
+    {
+      "q": "Does Arby's roast beef sandwich have trans fat?",
+      "a": "About 0.5 g per sandwich from the bun and sauce."
+    }
+  ]
+}

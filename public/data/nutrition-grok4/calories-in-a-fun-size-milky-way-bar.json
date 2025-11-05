@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a fun size milky way bar",
+  "title": "Calories in a Fun Size Milky Way Bar",
+  "meta_description": "Discover calories in a fun size milky way bar—about 80 kcal—plus full nutrition breakdown including carbs, sugars, fat, and quick tweaks for variations.",
+  "slug": "calories-in-a-fun-size-milky-way-bar",
+  "h1": "Calories in a Fun Size Milky Way Bar",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "bar",
+    "item": "fun size milky way bar"
+  },
+  "assumptions": "Standard fun size Milky Way bar (~17 g), milk chocolate with nougat and caramel filling; values based on Mars Inc. packaging data.",
+  "disclaimer": "Nutrition varies by batch, size, and manufacturer; check labels for exact values as formulations can change.",
+  "quick_answer": {
+    "total_kcal": 80,
+    "text": "A fun size Milky Way bar contains about 80 calories, mostly from sugars and fat."
+  },
+  "basis": {
+    "label": "per 1 fun size bar",
+    "amount": 1,
+    "unit": "bar",
+    "nutrition": {
+      "calories_kcal": 80,
+      "carbs_g": 13,
+      "fiber_g": 0,
+      "sugars_g": 11,
+      "protein_g": 1,
+      "fat_g": 3,
+      "sat_fat_g": 2,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 2,
+      "sodium_mg": 35
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 80,
+    "carbs_g": 13,
+    "fiber_g": 0,
+    "sugars_g": 11,
+    "protein_g": 1,
+    "fat_g": 3,
+    "sat_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 2,
+    "sodium_mg": 35
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.33
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tsp peanut butter topping",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Sugar-free version (using alternative sweeteners)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 60
+    },
+    {
+      "label": "Dipped in dark chocolate (extra 5g coating)",
+      "delta_kcal_per_unit": 25,
+      "new_total_kcal": 105
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in a fun size Milky Way bar?",
+      "a": "Approximately 80 kcal per bar."
+    },
+    {
+      "q": "What's the sugar content in a fun size Milky Way?",
+      "a": "About 11 g of sugars per bar."
+    },
+    {
+      "q": "Does a fun size Milky Way have any protein?",
+      "a": "Yes, roughly 1 g of protein per bar."
+    },
+    {
+      "q": "How much fat is in a fun size Milky Way bar?",
+      "a": "Around 3 g total fat, including 2 g saturated."
+    },
+    {
+      "q": "Are fun size Milky Way bars lower in calories than full size?",
+      "a": "Yes, a full size (about 50 g) has around 240 kcal, so fun size is much lower."
+    }
+  ]
+}

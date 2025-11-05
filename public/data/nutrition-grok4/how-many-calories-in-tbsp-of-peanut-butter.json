@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in tbsp of peanut butter",
+  "title": "How Many Calories in a Tbsp of Peanut Butter?",
+  "meta_description": "Discover how many calories in tbsp of peanut butter, including full nutrition breakdown, protein, fat, carbs, and easy tweaks for your diet.",
+  "slug": "how-many-calories-in-tbsp-of-peanut-butter",
+  "h1": "How Many Calories in a Tbsp of Peanut Butter?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "tbsp",
+    "item": "peanut butter"
+  },
+  "assumptions": "Natural, smooth peanut butter, no added sugar or salt; 1 tbsp ≈16 g.",
+  "disclaimer": "Nutrition varies by brand, whether natural or processed, added ingredients, and serving size. Check labels when available.",
+  "quick_answer": {
+    "total_kcal": 94,
+    "text": "One tablespoon of peanut butter provides ~94 kcal and ~4 g protein."
+  },
+  "basis": {
+    "label": "per 1 tbsp",
+    "amount": 1,
+    "unit": "tbsp",
+    "nutrition": {
+      "calories_kcal": 94,
+      "carbs_g": 3.5,
+      "fiber_g": 1.5,
+      "sugars_g": 1,
+      "protein_g": 4,
+      "fat_g": 8,
+      "sat_fat_g": 1.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 2
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 94,
+    "carbs_g": 3.5,
+    "fiber_g": 1.5,
+    "sugars_g": 1,
+    "protein_g": 4,
+    "fat_g": 8,
+    "sat_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 2
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.39
+  },
+  "tweaks": [
+    {
+      "label": "Use low-fat peanut butter",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 74
+    },
+    {
+      "label": "Add 1 tsp honey",
+      "delta_kcal_per_unit": 21,
+      "new_total_kcal": 115
+    },
+    {
+      "label": "Chunky style (with peanut pieces)",
+      "delta_kcal_per_unit": 2,
+      "new_total_kcal": 96
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a tablespoon of peanut butter?",
+      "a": "About 94 kcal for one tbsp of natural peanut butter."
+    },
+    {
+      "q": "Is peanut butter high in protein per tbsp?",
+      "a": "Yes, ~4 g protein per tbsp, making it a good snack option."
+    },
+    {
+      "q": "How much fat is in tbsp of peanut butter?",
+      "a": "Approximately 8 g total fat, mostly healthy unsaturated fats."
+    },
+    {
+      "q": "Does brand affect calories in peanut butter?",
+      "a": "Yes—natural has ~94 kcal/tbsp; sweetened brands can be 100+ kcal."
+    },
+    {
+      "q": "Are there carbs in a tbsp of peanut butter?",
+      "a": "~3.5 g carbs, including 1.5 g fiber, so net carbs are low."
+    }
+  ]
+}

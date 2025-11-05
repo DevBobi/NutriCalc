@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a white wine glass",
+  "title": "How Many Calories in a Glass of White Wine?",
+  "meta_description": "Discover how many calories in a white wine glass, including carbs, alcohol content, and variations for different types—based on a standard 5 oz pour.",
+  "slug": "how-many-calories-in-a-white-wine-glass",
+  "h1": "How Many Calories in a Glass of White Wine?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "glass",
+    "item": "white wine"
+  },
+  "assumptions": "Standard 5 oz (150 ml) pour of dry white wine (e.g., Sauvignon Blanc), ~12% ABV, no added sweeteners or mixers.",
+  "disclaimer": "Nutrition varies by wine type, brand, sweetness level, pour size, and serving temperature. Check labels or apps for specifics.",
+  "quick_answer": {
+    "total_kcal": 125,
+    "text": "A standard glass of dry white wine contains about 125 calories, mostly from alcohol and minimal carbs."
+  },
+  "basis": {
+    "label": "per 1 standard glass (5 oz / 150 ml)",
+    "amount": 1,
+    "unit": "glass",
+    "nutrition": {
+      "calories_kcal": 125,
+      "carbs_g": 4,
+      "fiber_g": 0,
+      "sugars_g": 1,
+      "protein_g": 0.1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 7
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 125,
+    "carbs_g": 4,
+    "fiber_g": 0,
+    "sugars_g": 1,
+    "protein_g": 0.1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 7
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.52
+  },
+  "tweaks": [
+    {
+      "label": "Sweeter white wine (e.g., Riesling with residual sugar)",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 155
+    },
+    {
+      "label": "Larger pour (8 oz / 240 ml)",
+      "delta_kcal_per_unit": 100,
+      "new_total_kcal": 225
+    },
+    {
+      "label": "Mixed as spritzer with soda water",
+      "delta_kcal_per_unit": -60,
+      "new_total_kcal": 65
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a white wine glass?",
+      "a": "About 125 calories for a standard 5 oz glass of dry white wine."
+    },
+    {
+      "q": "Does white wine have carbs?",
+      "a": "Yes, around 4 g per glass, mostly from natural sugars; dry varieties have less."
+    },
+    {
+      "q": "How do calories compare to red wine?",
+      "a": "Similar—red wine is about 125 kcal per glass, but varies by type and sweetness."
+    },
+    {
+      "q": "What affects calories in white wine?",
+      "a": "Alcohol content, residual sugars, and pour size; sweeter wines add 20–50 kcal."
+    },
+    {
+      "q": "Is white wine low-calorie for alcohol?",
+      "a": "Yes, at ~125 kcal per glass, it's moderate compared to cocktails (150–300 kcal)."
+    }
+  ]
+}

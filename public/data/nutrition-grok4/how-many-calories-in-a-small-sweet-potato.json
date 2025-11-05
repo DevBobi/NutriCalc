@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories in a small sweet potato",
+  "title": "How Many Calories in a Small Sweet Potato?",
+  "meta_description": "Discover how many calories in a small sweet potato, including carbs, fiber, protein, and full nutrition breakdown per serving with easy tweaks.",
+  "slug": "how-many-calories-in-a-small-sweet-potato",
+  "h1": "How Many Calories in a Small Sweet Potato?",
+  "updated": "2024-09-18",
+  "query": {
+    "amount": 1,
+    "unit": "small sweet potato",
+    "item": "sweet potato"
+  },
+  "assumptions": "Baked in skin, no added fats or toppings; approximately 100 g weight for a small size.",
+  "disclaimer": "Nutrition varies by variety, size, cooking method, and added ingredients. Check labels or sources for specifics.",
+  "quick_answer": {
+    "total_kcal": 90,
+    "text": "A small baked sweet potato has about 90 kcal and 21 g of carbs, mostly from natural sugars."
+  },
+  "basis": {
+    "label": "per 1 small sweet potato (~100 g)",
+    "amount": 1,
+    "unit": "small sweet potato",
+    "nutrition": {
+      "calories_kcal": 90,
+      "carbs_g": 21,
+      "fiber_g": 3.3,
+      "sugars_g": 7,
+      "protein_g": 2,
+      "fat_g": 0.1,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 36
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 90,
+    "carbs_g": 21,
+    "fiber_g": 3.3,
+    "sugars_g": 7,
+    "protein_g": 2,
+    "fat_g": 0.1,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 36
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.38
+  },
+  "tweaks": [
+    {
+      "label": "Boiled instead of baked (per small potato)",
+      "delta_kcal_per_unit": -5,
+      "new_total_kcal": 85
+    },
+    {
+      "label": "Add 1 tsp butter",
+      "delta_kcal_per_unit": 34,
+      "new_total_kcal": 124
+    },
+    {
+      "label": "Mashed with skin removed",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 80
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a small sweet potato?",
+      "a": "Approximately 90 kcal for a 100 g baked small sweet potato."
+    },
+    {
+      "q": "What's the carb content in a small sweet potato?",
+      "a": "About 21 g carbs, including 3.3 g fiber and 7 g sugars."
+    },
+    {
+      "q": "Are sweet potatoes low in fat?",
+      "a": "Yes, only 0.1 g fat per small sweet potato, with no saturated or trans fats."
+    },
+    {
+      "q": "Does cooking method affect calories in sweet potatoes?",
+      "a": "Baking retains more nutrients; boiling may slightly reduce calories due to water absorption."
+    },
+    {
+      "q": "How much protein is in a small sweet potato?",
+      "a": "Roughly 2 g protein, making it a modest source compared to carbs."
+    }
+  ]
+}

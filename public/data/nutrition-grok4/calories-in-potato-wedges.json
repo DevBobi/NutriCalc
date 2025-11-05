@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in potato wedges",
+  "title": "Calories in Potato Wedges",
+  "meta_description": "Discover calories in potato wedges per serving, including carbs, protein, fat, and nutrition breakdown for baked or fried variations to help track your intake.",
+  "slug": "calories-in-potato-wedges",
+  "h1": "Calories in Potato Wedges",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 150,
+    "unit": "g",
+    "item": "potato wedges"
+  },
+  "assumptions": "Oven-baked from fresh russet potatoes, skin-on, lightly brushed with 1 tsp oil per 100g, seasoned with salt; typical side serving size.",
+  "disclaimer": "Nutrition varies by potato type, cooking method, oil amount, seasonings, and portion size. Check labels for frozen or restaurant versions.",
+  "quick_answer": {
+    "total_kcal": 225,
+    "text": "A 150g serving of oven-baked potato wedges has about 225 kcal and 30g carbs."
+  },
+  "basis": {
+    "label": "per 100 g",
+    "amount": 100,
+    "unit": "g",
+    "nutrition": {
+      "calories_kcal": 150,
+      "carbs_g": 20,
+      "fiber_g": 2.5,
+      "sugars_g": 1,
+      "protein_g": 2.5,
+      "fat_g": 5,
+      "sat_fat_g": 0.7,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 250
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 225,
+    "carbs_g": 30,
+    "fiber_g": 3.75,
+    "sugars_g": 1.5,
+    "protein_g": 3.75,
+    "fat_g": 7.5,
+    "sat_fat_g": 1.05,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 375
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 0.94
+  },
+  "tweaks": [
+    {
+      "label": "Deep-fried instead of baked",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 375
+    },
+    {
+      "label": "Air-fried with no oil",
+      "delta_kcal_per_unit": -30,
+      "new_total_kcal": 135
+    },
+    {
+      "label": "Add 1 tbsp cheese topping per serving",
+      "delta_kcal_per_unit": 50,
+      "new_total_kcal": 275
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in potato wedges per 100g?",
+      "a": "About 150 kcal for oven-baked potato wedges per 100g."
+    },
+    {
+      "q": "Are potato wedges high in carbs?",
+      "a": "Yes, around 20g carbs per 100g, mostly from starch."
+    },
+    {
+      "q": "What's the fat content in baked potato wedges?",
+      "a": "Approximately 5g total fat per 100g, depending on oil used."
+    },
+    {
+      "q": "Do potato wedges have fiber?",
+      "a": "Yes, about 2.5g dietary fiber per 100g, thanks to the skin."
+    },
+    {
+      "q": "How do fried potato wedges compare calorie-wise?",
+      "a": "Fried versions add 50+ kcal per 100g due to absorbed oil."
+    }
+  ]
+}

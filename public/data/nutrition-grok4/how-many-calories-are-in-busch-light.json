@@ -1,0 +1,92 @@
+{
+  "keyword": "how many calories are in busch light",
+  "title": "How Many Calories Are in Busch Light?",
+  "meta_description": "Learn how many calories are in Busch Light per 12 oz serving, including carbs, protein, sodium, and full nutrition breakdown for this light lager beer.",
+  "slug": "how-many-calories-are-in-busch-light",
+  "h1": "How Many Calories Are in Busch Light?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "12 oz serving",
+    "item": "Busch Light beer"
+  },
+  "assumptions": "Standard 12 fl oz (355 ml) can of Busch Light, American light lager, unopened and chilled; no additives.",
+  "disclaimer": "Nutrition varies by batch, serving size, and brand specifics; alcohol content affects calorie density. Check labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 95,
+    "text": "One 12 oz serving of Busch Light contains 95 calories, mostly from 3.2 g of carbs."
+  },
+  "basis": {
+    "label": "per 12 fl oz serving",
+    "amount": 1,
+    "unit": "12 fl oz serving",
+    "nutrition": {
+      "calories_kcal": 95,
+      "carbs_g": 3.2,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0.8,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 10
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 95,
+    "carbs_g": 3.2,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0.8,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 10
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 0.4
+  },
+  "tweaks": [
+    {
+      "label": "Switch to regular Busch (higher carb version)",
+      "delta_kcal_per_unit": 15,
+      "new_total_kcal": 110
+    },
+    {
+      "label": "Larger 16 oz serving (pint size)",
+      "delta_kcal_per_unit": 27,
+      "new_total_kcal": 122
+    },
+    {
+      "label": "Two 12 oz servings",
+      "delta_kcal_per_unit": 95,
+      "new_total_kcal": 190
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories are in Busch Light per can?",
+      "a": "95 calories in one standard 12 oz can of Busch Light."
+    },
+    {
+      "q": "What are the carbs in Busch Light?",
+      "a": "About 3.2 g of carbohydrates per 12 oz serving, with 0 g fiber or sugars."
+    },
+    {
+      "q": "Does Busch Light have protein or fat?",
+      "a": "0.8 g protein and 0 g fat per serving; it's a low-calorie light beer."
+    },
+    {
+      "q": "How much sodium is in Busch Light?",
+      "a": "Only 10 mg of sodium per 12 oz serving."
+    },
+    {
+      "q": "Is Busch Light lower calorie than other beers?",
+      "a": "Yes, at 95 kcal per 12 oz, it's lighter than many regulars (e.g., 150+ kcal)."
+    }
+  ]
+}

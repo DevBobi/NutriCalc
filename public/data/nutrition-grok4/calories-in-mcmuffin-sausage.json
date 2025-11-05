@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in mcmuffin sausage",
+  "title": "Calories in Sausage McMuffin",
+  "meta_description": "Discover calories in mcmuffin sausage, including full nutrition breakdown like protein, fat, carbs, and sodium for one serving, plus tweaks and FAQs.",
+  "slug": "calories-in-mcmuffin-sausage",
+  "h1": "Calories in Sausage McMuffin",
+  "updated": "2024-10-03",
+  "query": {
+    "amount": 1,
+    "unit": "Sausage McMuffin",
+    "item": "Sausage McMuffin"
+  },
+  "assumptions": "Standard McDonald's Sausage McMuffin: English muffin, pork sausage patty, American cheese; as prepared and served.",
+  "disclaimer": "Nutrition varies by location, customizations, portion size, and preparation; check McDonald's app or labels for exact values.",
+  "quick_answer": {
+    "total_kcal": 400,
+    "text": "One Sausage McMuffin provides ~400 kcal, 14 g protein, and 26 g fat."
+  },
+  "basis": {
+    "label": "per 1 Sausage McMuffin",
+    "amount": 1,
+    "unit": "Sausage McMuffin",
+    "nutrition": {
+      "calories_kcal": 400,
+      "carbs_g": 29,
+      "fiber_g": 2,
+      "sugars_g": 2,
+      "protein_g": 14,
+      "fat_g": 26,
+      "sat_fat_g": 10,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 30,
+      "sodium_mg": 680
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 400,
+    "carbs_g": 29,
+    "fiber_g": 2,
+    "sugars_g": 2,
+    "protein_g": 14,
+    "fat_g": 26,
+    "sat_fat_g": 10,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 680
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaging.",
+  "equivalents": {
+    "megajoules": 1.67
+  },
+  "tweaks": [
+    {
+      "label": "Add one fried egg",
+      "delta_kcal_per_unit": 80,
+      "new_total_kcal": 480
+    },
+    {
+      "label": "No cheese",
+      "delta_kcal_per_unit": -50,
+      "new_total_kcal": 350
+    },
+    {
+      "label": "Whole wheat muffin instead of white",
+      "delta_kcal_per_unit": -10,
+      "new_total_kcal": 390
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in one mcmuffin sausage?",
+      "a": "About 400 kcal for a standard Sausage McMuffin."
+    },
+    {
+      "q": "What is the protein in Sausage McMuffin?",
+      "a": "Approximately 14 g protein per serving."
+    },
+    {
+      "q": "How much sodium is in calories in mcmuffin sausage?",
+      "a": "Around 680 mg sodium, mostly from the sausage and cheese."
+    },
+    {
+      "q": "Are there carbs in Sausage McMuffin?",
+      "a": "Yes, about 29 g carbs, mainly from the English muffin."
+    },
+    {
+      "q": "Does Sausage McMuffin have trans fat?",
+      "a": "Typically 0 g trans fat, but check for updates in recipes."
+    }
+  ]
+}

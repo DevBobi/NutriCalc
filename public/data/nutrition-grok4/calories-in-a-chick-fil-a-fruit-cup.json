@@ -1,0 +1,92 @@
+{
+  "keyword": "calories in a chick fil a fruit cup",
+  "title": "Calories in a Chick-fil-A Fruit Cup",
+  "meta_description": "Discover calories in a Chick-fil-A fruit cup, including carbs, sugars, fiber, and full nutrition breakdown for this fresh fruit side.",
+  "slug": "calories-in-a-chick-fil-a-fruit-cup",
+  "h1": "Calories in a Chick-fil-A Fruit Cup",
+  "updated": "2024-10-04",
+  "query": {
+    "amount": 1,
+    "unit": "fruit cup",
+    "item": "Chick-fil-A fruit cup"
+  },
+  "assumptions": "Standard small Chick-fil-A fruit cup (~113 g) with fresh fruits like apples, strawberries, blueberries, and mandarin oranges; no added sugars or toppings.",
+  "disclaimer": "Nutrition varies by location, seasonal fruits, portion size, and preparation. Check Chick-fil-A menu or app for exact values.",
+  "quick_answer": {
+    "total_kcal": 60,
+    "text": "A Chick-fil-A fruit cup has about 60 calories and 14 g carbs from natural fruit sources."
+  },
+  "basis": {
+    "label": "per 1 small fruit cup",
+    "amount": 1,
+    "unit": "fruit cup",
+    "nutrition": {
+      "calories_kcal": 60,
+      "carbs_g": 14,
+      "fiber_g": 2,
+      "sugars_g": 10,
+      "protein_g": 1,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 60,
+    "carbs_g": 14,
+    "fiber_g": 2,
+    "sugars_g": 10,
+    "protein_g": 1,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Totals mirror Nutrition Facts labels for easy comparison with packaged or restaurant info.",
+  "equivalents": {
+    "megajoules": 0.25
+  },
+  "tweaks": [
+    {
+      "label": "Add 1 tbsp honey drizzle",
+      "delta_kcal_per_unit": 64,
+      "new_total_kcal": 124
+    },
+    {
+      "label": "Upgrade to medium fruit cup",
+      "delta_kcal_per_unit": 40,
+      "new_total_kcal": 100
+    },
+    {
+      "label": "Mix in 1 oz Greek yogurt",
+      "delta_kcal_per_unit": 30,
+      "new_total_kcal": 90
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in a Chick-fil-A fruit cup?",
+      "a": "About 60 calories for the standard small size."
+    },
+    {
+      "q": "What are the carbs in a Chick-fil-A fruit cup?",
+      "a": "Approximately 14 g carbs, including 2 g fiber and 10 g natural sugars."
+    },
+    {
+      "q": "Is the Chick-fil-A fruit cup low in fat?",
+      "a": "Yes, 0 g total fat and no saturated or trans fats."
+    },
+    {
+      "q": "Does a Chick-fil-A fruit cup have protein?",
+      "a": "Only about 1 g protein, mainly from the fruits."
+    },
+    {
+      "q": "How does fruit cup size affect calories?",
+      "a": "Small is 60 kcal; medium adds ~40 kcal, large even more—check menu for details."
+    }
+  ]
+}

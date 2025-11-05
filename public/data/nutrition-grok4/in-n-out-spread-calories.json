@@ -1,0 +1,92 @@
+{
+  "keyword": "in n out spread calories",
+  "title": "Calories in In-N-Out Spread",
+  "meta_description": "Discover in n out spread calories per serving, plus full nutrition breakdown including fat, carbs, sodium, and tweaks for your burger.",
+  "slug": "in-n-out-spread-calories",
+  "h1": "Calories in In-N-Out Spread",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "serving",
+    "item": "In-N-Out spread"
+  },
+  "assumptions": "Standard serving (2 tbsp or 35g) as used on burgers; Thousand Island-style sauce with mayo, ketchup, relish, and spices.",
+  "disclaimer": "Nutrition varies by exact recipe, portion size, and brand equivalents; In-N-Out values are estimates. Check official sources when available.",
+  "quick_answer": {
+    "total_kcal": 240,
+    "text": "One serving of In-N-Out spread provides ~240 kcal, mostly from fat."
+  },
+  "basis": {
+    "label": "per 1 serving (2 tbsp)",
+    "amount": 1,
+    "unit": "serving",
+    "nutrition": {
+      "calories_kcal": 240,
+      "carbs_g": 10,
+      "fiber_g": 0,
+      "sugars_g": 9,
+      "protein_g": 1,
+      "fat_g": 24,
+      "sat_fat_g": 3.5,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 15,
+      "sodium_mg": 510
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 240,
+    "carbs_g": 10,
+    "fiber_g": 0,
+    "sugars_g": 9,
+    "protein_g": 1,
+    "fat_g": 24,
+    "sat_fat_g": 3.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 15,
+    "sodium_mg": 510
+  },
+  "label_note": "Totals mirror Nutrition Facts fields for easy comparison.",
+  "equivalents": {
+    "megajoules": 1
+  },
+  "tweaks": [
+    {
+      "label": "Use half serving (1 tbsp)",
+      "delta_kcal_per_unit": -120,
+      "new_total_kcal": 120
+    },
+    {
+      "label": "Light mayo substitute (per serving)",
+      "delta_kcal_per_unit": -80,
+      "new_total_kcal": 160
+    },
+    {
+      "label": "No-sugar ketchup version (per serving)",
+      "delta_kcal_per_unit": -20,
+      "new_total_kcal": 220
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "How many calories in In-N-Out spread?",
+      "a": "About 240 kcal per standard 2 tbsp serving."
+    },
+    {
+      "q": "What are the macros for In-N-Out spread calories?",
+      "a": "Per serving: 24 g fat, 10 g carbs (9 g sugars), 1 g protein."
+    },
+    {
+      "q": "Is In-N-Out spread high in sodium?",
+      "a": "Yes, ~510 mg sodium per serving from ingredients like ketchup and relish."
+    },
+    {
+      "q": "How does In-N-Out spread compare to Thousand Island dressing?",
+      "a": "Similar profile; both ~240 kcal per 2 tbsp, but spread has unique relish tang."
+    },
+    {
+      "q": "Can I reduce calories in In-N-Out spread?",
+      "a": "Use half portion or light mayo swaps to cut ~120 kcal per serving."
+    }
+  ]
+}
