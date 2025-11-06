@@ -335,7 +335,7 @@ export default function HomePage({ pages }: Props) {
                         {food.imageName ? (
                           <div className="relative w-full h-full">
                             <img
-                              src={`/images/nutrition/${food.imageName}`}
+                              src={`/images/sample/${food.imageName}`}
                               alt={food.title}
                               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                             />

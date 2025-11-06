@@ -12,7 +12,7 @@ const path = require('path');
 
 const CONFIG = {
   jsonDir: './public/data/nutrition-grok4/',
-  imageDir: './public/images/nutrition/',
+  imageDir: './public/images/sample/',
   outputFile: './public/data/image-mapping.json',
 };
 

@@ -193,7 +193,7 @@ export default async function NutritionPage({ params }: PageProps) {
           {imageName && (
             <div className="relative h-64 md:h-80 w-full overflow-hidden">
               <Image
-                src={`/images/nutrition/${imageName}`}
+                src={`/images/sample/${imageName}`}
                 alt={data.title}
                 fill
                 className="object-cover"

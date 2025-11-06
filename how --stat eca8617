@@ -1,0 +1,48 @@
+ .gitignore                                         |     5 [32m+[m[31m-[m
+ NUTRITION-SETUP-README.md                          |   176 [31m-[m
+ SEARCH-DROPDOWN-FIX.md                             |   214 [31m-[m
+ SHADCN-QUICK-START.md                              |   297 [31m-[m
+ SHADCN-UI-IMPLEMENTATION.md                        |   343 [31m-[m
+ app/calories-in/[slug]/page.tsx                    |     2 [32m+[m[31m-[m
+ app/color-palette/page.tsx                         |     1 [32m+[m
+ app/components/DesignSystem.tsx                    |    11 [32m+[m[31m-[m
+ app/components/HomePage.tsx                        |     2 [32m+[m[31m-[m
+ app/components/NutritionBrowser.tsx                |     4 [32m+[m[31m-[m
+ app/components/NutritionDisplay.tsx                |     1 [32m+[m
+ app/design-demo/page.tsx                           |     1 [32m+[m
+ app/nutrition-example/page.tsx                     |     1 [32m+[m
+ components/ui/badge.tsx                            |     1 [32m+[m
+ components/ui/card.tsx                             |     1 [32m+[m
+ components/ui/input.tsx                            |     1 [32m+[m
+ lib/utils.ts                                       |     1 [32m+[m
+ public/color-reference.html                        |     1 [32m+[m
+ public/data/image-mapping.json                     | 10633 [32m+[m[31m------------------[m
+ .../are-there-calories-in-vapes.json               |    92 [32m+[m
+ public/images/nutrition/calorie-count-in-n-out.png |   Bin [31m1370148[m -> [32m0[m bytes
+ .../nutrition/calories-in-80-20-ground-beef.png    |   Bin [31m1644332[m -> [32m0[m bytes
+ ...lories-in-a-large-french-fry-from-mcdonalds.png |   Bin [31m1247758[m -> [32m0[m bytes
+ .../calories-in-a-large-fry-at-mcdonalds.png       |   Bin [31m1201837[m -> [32m0[m bytes
+ .../nutrition/calories-in-a-movie-popcorn.png      |   Bin [31m1684450[m -> [32m0[m bytes
+ .../calories-in-an-egg-and-sausage-mcmuffin.png    |   Bin [31m1432797[m -> [32m0[m bytes
+ .../calories-in-an-egg-mcmuffin-with-sausage.png   |   Bin [31m1524908[m -> [32m0[m bytes
+ public/images/nutrition/calories-in-an-vodka.png   |   Bin [31m944851[m -> [32m0[m bytes
+ .../calories-in-egg-and-sausage-mcmuffin.png       |   Bin [31m1347144[m -> [32m0[m bytes
+ .../calories-in-large-mcdonalds-chips.png          |   Bin [31m1012976[m -> [32m0[m bytes
+ .../calories-in-mcdonalds-medium-chips.png         |   Bin [31m1352304[m -> [32m0[m bytes
+ public/images/nutrition/calories-in-tequila.png    |   Bin [31m1305445[m -> [32m0[m bytes
+ .../nutrition/how-many-calories-are-in-a-vape.png  |   Bin [31m936171[m -> [32m0[m bytes
+ ...-many-calories-in-a-pizzeria-slice-of-pizza.png |   Bin [31m1173197[m -> [32m0[m bytes
+ ...how-many-calories-in-a-pound-of-ground-beef.png |   Bin [31m1462455[m -> [32m0[m bytes
+ .../nutrition/how-many-calories-in-vodka.png       |   Bin [31m944539[m -> [32m0[m bytes
+ .../how-many-calories-is-in-vodka-shot.png         |   Bin [31m929461[m -> [32m0[m bytes
+ public/images/nutrition/in-n-out-calories.png      |   Bin [31m1586853[m -> [32m0[m bytes
+ .../images/nutrition/in-n-out-fries-calories.png   |   Bin [31m1443271[m -> [32m0[m bytes
+ public/images/nutrition/keyword.png                |   Bin [31m1381157[m -> [32m0[m bytes
+ .../calories-in-a-chicken-thigh-skinless.png       |   Bin [31m0[m -> [32m1407006[m bytes
+ .../sample/how-many-calories-are-in-semen.png      |   Bin [31m0[m -> [32m759017[m bytes
+ .../how-many-calories-are-in-seminal-fluid.png     |   Bin [31m0[m -> [32m1039898[m bytes
+ .../how-many-calories-are-in-sliced-cheese.png     |   Bin [31m0[m -> [32m1203926[m bytes
+ .../how-many-calories-are-in-soda-crackers.png     |   Bin [31m0[m -> [32m1597584[m bytes
+ .../sample/how-many-calories-are-in-sperm.png      |   Bin [31m0[m -> [32m838181[m bytes
+ .../how-many-calories-are-in-spicy-tuna-roll.png   |   Bin [31m0[m -> [32m1354260[m bytes
+ .../how-many-calories-are-in-sprite-soda.png       |   Bin [31m0

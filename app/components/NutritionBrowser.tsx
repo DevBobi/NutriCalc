@@ -201,7 +201,7 @@ export default function NutritionBrowser({ pages }: Props) {
                   {page.imageName ? (
                     <div className="relative h-32 w-full overflow-hidden bg-gray-100">
                       <Image
-                        src={`/images/nutrition/${page.imageName}`}
+                        src={`/images/sample/${page.imageName}`}
                         alt={page.title}
                         fill
                         className="object-cover group-hover:scale-110 transition-transform duration-300"
@@ -244,7 +244,7 @@ export default function NutritionBrowser({ pages }: Props) {
                     {page.imageName ? (
                       <div className="relative h-16 w-16 flex-shrink-0 overflow-hidden rounded-lg bg-gray-100">
                         <Image
-                          src={`/images/nutrition/${page.imageName}`}
+                          src={`/images/sample/${page.imageName}`}
                           alt={page.title}
                           fill
                           className="object-cover group-hover:scale-110 transition-transform duration-300"
