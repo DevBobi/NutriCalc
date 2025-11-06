@@ -12,7 +12,7 @@ const path = require('path');
 
 const CONFIG = {
   sourceDir: '../NutriGenie/output/images/',
-  targetDir: './public/images/nutrition/',
+  targetDir: './public/images/sample/',
   jsonDir: './public/data/nutrition-grok4/',
 };
 

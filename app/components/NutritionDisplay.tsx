@@ -302,3 +302,4 @@ export function NutritionDisplayCompact({ nutrition, labelNote }: Omit<Nutrition
   )
 }
 
+

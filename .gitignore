@@ -21,7 +21,10 @@
 *.pem
 
 # images
-/public/images/
+/public/images/nutrition/
+
+# Keep sample images for deployment
+!public/images/sample/
 
 # debug
 npm-debug.log*

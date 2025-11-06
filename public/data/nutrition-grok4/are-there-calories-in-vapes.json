@@ -1,0 +1,92 @@
+{
+  "keyword": "are there calories in vapes",
+  "title": "Are There Calories in Vapes?",
+  "meta_description": "Discover if there are calories in vapes, including nutritional breakdown per puff or session, assumptions, and related facts for health-conscious users.",
+  "slug": "are-there-calories-in-vapes",
+  "h1": "Are There Calories in Vapes?",
+  "updated": "2024-10-05",
+  "query": {
+    "amount": 1,
+    "unit": "vape",
+    "item": "vape"
+  },
+  "assumptions": "Standard e-cigarette vape session (one puff or typical use); includes e-liquid with PG/VG base, nicotine, and flavors; inhaled vapor, not ingested.",
+  "disclaimer": "Vaping is not a dietary activity; any caloric content from e-liquids is negligible when inhaled and not absorbed like food. Values vary by device, liquid composition, and usage; consult health experts.",
+  "quick_answer": {
+    "total_kcal": 0,
+    "text": "Vapes contain no significant calories as the vapor is inhaled, not consumed."
+  },
+  "basis": {
+    "label": "per 1 standard vape puff",
+    "amount": 1,
+    "unit": "puff",
+    "nutrition": {
+      "calories_kcal": 0,
+      "carbs_g": 0,
+      "fiber_g": 0,
+      "sugars_g": 0,
+      "protein_g": 0,
+      "fat_g": 0,
+      "sat_fat_g": 0,
+      "trans_fat_g": 0,
+      "cholesterol_mg": 0,
+      "sodium_mg": 0
+    }
+  },
+  "nutrition_total": {
+    "calories_kcal": 0,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sugars_g": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "sat_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 0
+  },
+  "label_note": "Values reflect negligible nutritional impact from inhalation; mirrors zero Nutrition Facts for non-digestible vapors.",
+  "equivalents": {
+    "megajoules": 0
+  },
+  "tweaks": [
+    {
+      "label": "Sweetened flavor e-liquid (e.g., fruit or dessert)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "Nicotine-free, zero-sugar variant",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    },
+    {
+      "label": "High-VG base (vegetable glycerin heavy)",
+      "delta_kcal_per_unit": 0,
+      "new_total_kcal": 0
+    }
+  ],
+  "faqs_required_count": 5,
+  "faqs": [
+    {
+      "q": "Are there calories in vapes?",
+      "a": "No, vapes have zero calories since the vapor is inhaled and not metabolized like food."
+    },
+    {
+      "q": "Do vape flavors add calories?",
+      "a": "Flavors may contain trace sugars, but inhalation means no caloric absorption occurs."
+    },
+    {
+      "q": "What about e-liquid ingredients and nutrition?",
+      "a": "E-liquids have PG/VG bases with minimal calories per ml, but vaping doesn't count as ingestion."
+    },
+    {
+      "q": "Can vaping affect weight or diet?",
+      "a": "Vaping itself has no calories, but nicotine may suppress appetite; it's not a weight management tool."
+    },
+    {
+      "q": "How many calories in a full vape pod?",
+      "a": "Still zero effective calories, as the liquid is vaporized and inhaled, not swallowed."
+    }
+  ]
+}

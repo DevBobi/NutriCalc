@@ -11,7 +11,7 @@ const path = require('path');
 
 const CONFIG = {
   jsonPath: './public/data/nutrition-grok4/',
-  imagePath: './public/images/nutrition/',
+  imagePath: './public/images/sample/',
   outputPath: './public/data/image-mapping.json',
 };
 
@@ -88,4 +88,5 @@ if (require.main === module) {
 }
 
 module.exports = { generateImageMapping };
+
 
